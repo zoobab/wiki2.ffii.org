@@ -1,0 +1,64 @@
+#acl TrustedGroup:read All:
+
+## -*- dok: LagiukDe050126; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## keyws: Patents, Software, Data Processing, Informatics, Computer Science, Information Technology, IT, Software Patente, Computer-Implemented Invention, Patent Law, Federal States Working Group, Economy, Expert Hearing, Intellectual Property, Exclusion Rights, Monopoly, News, FFII
+## descr: 2005-01-26 Expert Hearing On Software Patents in Berlin by Federal States Working Group for Economy
+= 2005-01-26 DE Expert Hearing On Software Patents in Berlin =
+[ [:/admin.cgi?LagiukDe050126De: Deutsch]
+]
+[ [:SwpatcninoEn: News]
+]
+----
+
+In 2005-01-26 from 9:00 to 14:00, an expert hearing on the EU software patent directive was held in Berlin.  It was organized by a german federal states working group with members from the departments for "Information and Communication" of several german federal state ministries of economy, in order to prepare a report for the next meeting of their economy ministers.  The federal states participating in this task were: Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, and Schleswig-Holstein.
+
+The invitation by e-mail was accompanied by a list of 10 questions with a request for early submission of answers.
+
+ * [http://www.ffii.org/~ccorn/LagiukDe050126De/LAG-SWPat-Stellungnahme-FFII.pdf FFII answers to the questions from the working group (PDF, german)]
+
+=== Participants in the Hearing ===
+
+The following participants were invited:
+
+ *       BMWA (Federal Ministry of Economy and Labour): Ms Weber-Cludius
+ *       DIHK (German Chamber for Industry and Trade): Dr. Sobania and Mr Gutmann (regiocom.net, president of DIHK's committee for telecommunication and new services)
+ *       !BPatG (Federal Patent Court): Presiding Judge Dipl.-Phys. Dr. Tauchert
+ *       Bitkom (ICT association): Ms Dehmel
+ *       FFII: Mr Cornelssen
+ *       Fraunhofer: Dr. Blind (could not attend)
+ *       GI (Society for Informatics): Prof. Dr. Matthias Jarke (President)
+ *       ZVEI, BDI (Engineering Associations): Dr. Vieregge und Mr Schriek (IP Attorney from Siemens)
+
+Working group members from departments of federal state ministries of economy:
+
+ *       Bayern: Mr Dopheide and Mr Jung
+ *       Berlin: Mr Fiedler
+ *       Bremen: Dr. Petrat
+ *       Hamburg: Mr Humfeldt
+ *       Hessen: Ms Medewisch
+ *       Schleswig-Holstein: Mr Haß
+
+=== Summary ===
+
+The working group does not want public pressure, therefore this Wiki requires readers to login.
+
+The session was presided by Dr. Petrat (Bremen).  Questions 1 through 10 were processed in order, each question was put to debate until opinions and occasional consensus had emerged.
+
+There are no official results yet.
+
+Consensus points (as noted by [:ChristianCornelssenDe: ccorn]):
+ * There was consensus that Art. 4 of the Council draft on its own does not exclude anything from patentability.  (However, this was regarded as a benefit by the proponents of the "status quo".)
+ * There was broad consensus on the necessity of a restrictive definition of "technical".  (To avoid US-style mess.)
+ * It was made clear that the Council version of the directive does not provide freedom of interoperation.  (Which again was welcomed by the proponents of the "status quo".)
+ * It was generally confirmed that achieving and ensuring interoperability under a patent regime is problematic. (However, opinions diverged about whether the directive should address that problem, and how.)
+
+Typically, opinions differed between
+ * one block of proponents of the "status quo" from BDI (PA Schriek, Siemens), ZVEI, GI (Dr. Jarke), Bitkom, and Dr. Tauchert,
+ * DIHK (Mr Gutmann) who emphasized the necessity of clarity and narrowness of patent claims and clearly demonstrated the respective problems of the patent system with software, as well as interoperability issues,
+ * FFII ([:ChristianCornelssenDe: ccorn]), who openly criticised the Council draft, rebutted occasional FUD against the parliament's version, and was the only one speaking not for "a little software patenting" but fundamentally for "no software patenting" and against property claims on data formats.
+
+=== Conclusion ===
+
+[:ChristianCornelssenDe: ccorn]: The results are in accordance with those of the ministerial-level expert hearing in Poland and last June's round table at the ministry of justice in Berlin. All those hearings have confirmed that the Commission's and the Council's version of the directive would establish practically unlimited patentability and unrestricted enforcement.
+
+Generally, non-EPO representatives seem to share a demand for a definition of "technical" that effectively limits patentability, and the importance of interoperability is recognized among all stakeholders. Apart from that, proposals differ fundamentally between those who actually create innovative software and those who want to control them.

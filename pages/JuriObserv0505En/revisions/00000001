@@ -1,0 +1,57 @@
+== Article 7 ==
+
+||  number  ||  submitter  ||  recommendation  ||  text  ||
+||  161  ||  Speroni  ||  o  ||  The Commission shall monitor the impact of computer-implemented inventions on innovation and competition, both within Europe and internationally, on European businesses, especially small and medium-sized enterprises, including electronic commerce.  ||
+||  162  ||  Lévai  ||  o  ||  The Commission shall monitor the impact of computer-implemented inventions on innovation and competition, both within Europe and internationally, on Community businesses, especially small and medium-sized enterprises, on the open-source community and on electronic commerce, in particular from the aspect of employment in small and medium-sized enterprises.  ||
+
+Art 7 is odd in the Council version. What should be monitored is the impact of the patents, not of the inventions themselves. None of the amendments addresses this. 161 removes "open source" from the subjects which should be monitored in particular.
+
+== Article 8 (changes and additions) ==
+
+| number | submitter | recommendation | text |
+| 36, 37, 39 | Rocard | + | replaced "computer-implemented" with "computer-controlled" in paragraphs a, d and g |
+| 165 = 166 | Lehne; Szájer | o | The Commission shall report to the European Parliament and the Council by*...... on: ''/'' ... ''/'' 3 years after the date of entry into force of this Directive |
+| 169 | Kauppi | + | whether the rules governing the term of the patent and the determination of the patentability requirements, and more specifically novelty, inventive step and the proper scope of claims are adequate; |
+| 38 = 170 = 171 | Kauppi; Lichtenberger and Frassoni | + | [:deletion :of paragraph f] |
+| 172 | Lehne | o | developments in the interpretation of the terms "technical contribution" and "inventive step" by patent offices and patent courts in the light of the future evolution of technology. |
+| 173 | Kauppi | o | whether the option outlined in the Directive concerning the use of a patented invention for the sole purpose of ensuring interoperability between two systems is adequate; |
+| 175 | Kauppi | - | Whether difficulties have been experienced arising from the grant of patents for computer-implemented inventions which do not comply with the statutory requirements for patentability both in terms of whether the invention ''/'' 1. involves an inventive step and ''/'' 2. makes a technical contribution ''/'' in accordance with Article 4.1 above, and as such should not have legitimately been granted. |
+| 176 | Lehne | o | whether this Directive has performed the desired effects in terms of harmonisation and clarification of the legal rules governing the patentability of computer-implemented inventions. |
+| 177 | Lehne | o | the developments of the world-wide patent systems in the area of computer-implemented inventions in terms of the aspects mentioned in this article (a to d and f to gb). |
+| 178 | Manders | + | The Commission shall come forward within a year with a proposal for an effective European Community Patent there by allowing a democratic control by the European Parliament on the European Patent Office and the European Patent Convention. |
+| 179 | Kauppi | + | Member States shall ensure that its representatives in the Administrative Council of the European Patent Organisation take such measures within their authority to ensure that the European Patent Office only grants European patents when the requirements of the European Patent Convention have been met, in particular with respect to inventive step and technical contribution as defined in Article 2(b). ''/'' The Council shall provide a yearly report to the European Parliament on the activities of representatives of Member States that are Contracting States to the European Patent Convention in the Administrative Council of the European Patent Organisation, and the progress that has been made to achieving the objectives set out in Article 8A.1 above. |
+
+36, 37 and 38 are self-explanatory.
+
+Regarding 165 = 166, waiting less long means that it will be less clear what the effects are, but on the other hand action can be taken sooner.
+
+There is no need to review international obligations regarding patents, the EU's policy goals can be perfectly framed in them. 169 correctly scraps this suggestion from the Council text.
+
+38 = 170 = 171 scraps a proposal to revise the European Patent Convention. The EPC is fine, and the last revision (in 2000) almost resulted in scrapping the exclusion of computer programmes from patentability. As other amendments state, this directive is not about changing the EPC or conditions for patentability, only about clarifying them.
+
+172 is not bad, but these trends should not only be followed due to future evolution of technology, but more because of the impact of patents when applied to future developments.
+
+173 is self-explanatory.
+
+One cannot have an invention without a technical contribution (see amendment 57=62=63), however 175 suggests this is possible.
+
+176 and 177 are ok apart from the use of the term "computer-implemented invention".
+
+178 is well-intended, but probably falls outside the scope of this directive. This would only be possible by making the EU a subscribing member to the EPC, which probably requires the Community Patent.
+
+179 addresses the Council instead of the EPO itself, so possibly does not require the Community Patent.
+
+== Article 9 ==
+
+| number | submitter | recommendation | text |
+| 180 | Lehne | o | In the light of the monitoring carried out pursuant to Article 7 and the report to be drawn up pursuant to Article 8, the Commission shall review the impact of this Directive at latest 2 years after having submitted the report, and, where necessary, submit amending proposals to the European Parliament and the Council. |
+
+See 165 = 166.
+
+
+== Recital 21 a (new) ==
+
+| number | submitter | recommendation | text |
+| 253 | Alvaro, Wallis, Manders, Fourtou | - | Patents play an important role in European innovation. To ensure effective functioning of the patent system, it is important to monitor developments in this sector, including developments involving patents on computer-implemented inventions. To this end, relevant data should be gathered and appropriate reports produced. Such reports should include information pertaining specifically to participation by small- and medium-sized enterprises in the system of patents for computer-implemented inventions. |
+
+253 is a rehash from several things already in article 7 and 8, mixed with some rhetoric.

@@ -1,0 +1,63 @@
+= Plenary Amendments: Background Recitals =
+
+ * Recitals 1-10
+ * Baseline: Council text [http://register.consilium.eu.int/pdf/es/04/st11/st11979-re01.es04.pdf pdf]
+
+== Recital 5 (a) (new) ==
+
+=== Confirming the European Patent Convention ===
+
+||  number  ||  submitter  ||  recommendation  ||  text  ||
+||  1  ||  JURI 1  ||  +  ||  Las disposiciones del Convenio sobre  Concesión de la Patente Europea, (Convenio sobre la Patente Europea), firmado en Múnich el 5 de octubre de 1973, y, en particular, su artículo 52, relativo a los límites de la patentabilidad deben confirmarse y clarificarse.  ||
+
+Self-explanatory.
+
+== Recital 6 ==
+
+=== Meaning of TRIPS ===
+
+| number | submitter | recommendation | text |
+| *** | Council | ()  | La Comunidad y sus Estados miembros están obligados por el Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio (ADPIC), aprobado mediante la Decisión 94/800/CE del Consejo, de 22 de diciembre de 1994, relativa a la celebración en nombre de la Comunidad Europea, por lo que respecta a los temas de su competencia, de los acuerdos resultantes de las negociaciones multilaterales de la Ronda Uruguay (1986-1994). El apartado 1 del artículo 27 del acuerdo ADPIC establece que las patentes podrán obtenerse por todas las invenciones, sean de productos o de procedimientos, en todos los campos de la tecnología, siempre que sean nuevas, entrañen una actividad inventiva y sean susceptibles de aplicación industrial. Además, según este mismo artículo, las patentes se podrán obtener y los derechos de patente se podrán ejercer sin discriminación por el campo de la tecnología. En consecuencia, estos principios deben aplicarse a las invenciones implementadas en ordenador. |
+| 51 = 83 = 104 = 125 = 146 = 169 | Rocard / Buzek 12 | + | (6) La Comunidad y sus Estados miembros están obligados por el Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio (ADPIC), aprobado mediante la Decisión 94/800/CE del Consejo, de 22 de diciembre de 1994, relativa a la celebración en nombre de la Comunidad Europea, por lo que respecta a los temas de su competencia, de los acuerdos resultantes de las negociaciones multilaterales de la Ronda Uruguay (1986-1994). El apartado 1 del artículo 27 del acuerdo ADPIC establece que las patentes podrán obtenerse por todas las invenciones, sean de productos o de procedimientos, en todos los campos de la tecnología, siempre que sean nuevas, entrañen una actividad inventiva y sean susceptibles de aplicación industrial. Además, según este mismo artículo, las patentes se podrán obtener y los derechos de patente se podrán ejercer sin discriminación por el campo de la tecnología. Esto significa que la patentabilidad debe limitarse eficazmente en términos de conceptos generales como «invención», «tecnología» e «industria», para evitar excepciones no sistemáticas y ampliaciones incontroladas, ya que ambos factores actuarían como barreras al libre comercio. Por consiguiente, pueden patentarse invenciones en todos los ámbitos de las ciencias naturales, mientras que las invenciones en ámbitos como las matemáticas, el procesamiento de datos y la lógica organizativa no pueden patentarse, independientemente de que se utilice un ordenador para su implementación. |
+
+Removes the Council's incorrect claim that TRIPs mandates software patents; and clarifies that forbidding software patents can be easily made TRIPs-compliant by noting that pure software innovations do not belong to a field of technology.
+
+== Recital 7 ==
+
+=== Article 52 EPC ===
+
+| number | submitter | recommendation | text |
+| *** | Council | () | Con arreglo al Convenio sobre la concesión de patentes europeas, firmado en Munich el 5 de octubre de 1973, («Convenio sobre la Patente Europea»), y las legislaciones sobre patentes de los Estados miembros, no se consideran invenciones, y quedan por tanto excluidos de la patentabilidad, los programas de ordenadores, así como los descubrimientos, las teorías científicas, los métodos matemáticos, las creaciones estéticas, los planes, principios y métodos para el ejercicio de actividades intelectuales, para juegos o para actividades económicas, y las formas de presentar informaciones. No obstante, esta excepción se aplica y se justifica únicamente en la medida en que la solicitud de patente o la patente se refiera a uno de esos elementos o actividades considerados como tales, porque dichos elementos y actividades como tales no pertenecen al campo de la tecnología. |
+| 52 = 84 = 105 = 126 = 147 = 170 | Rocard / Buzek 13 | + | Con arreglo al Convenio sobre la concesión de patentes europeas, firmado en Munich el 5 de octubre de 1973, («Convenio sobre la Patente Europea»), y las legislaciones sobre patentes de los Estados miembros, no se consideran invenciones, y quedan por tanto excluidos de la patentabilidad, los programas de ordenadores, así como los descubrimientos, las teorías científicas, los métodos matemáticos, las creaciones estéticas, los planes, principios y métodos para el ejercicio de actividades intelectuales, para juegos o para actividades económicas, y las formas de presentar informaciones. Esta excepción se aplica porque dichos elementos y actividades no pertenecen al campo de la tecnología. |
+
+Reinstate amendment made at first reading, that computer programs etc cannot be made patentable just by declaring them to be "not as such".
+
+== Recitals 8 (a) (new)  and 8 (b) (new) ==
+
+=== Relationship to European Patent Convention ===
+
+| number | submitter | recommendation | text |
+| 2 | JURI 2 | + | Los Estados miembros deben respetar las disposiciones de la presente Directiva al actuar en el marco del Convenio sobre la Patente Europea. |
+| 3 | JURI 3 | + | El Convenio sobre la Patente Europea dispone que el Consejo de Administración de la Organización Europea de Patentes supervisa la Oficina Europea de Patentes y que el Presidente de la Oficina Europea de Patentes es el responsable de las actividades de la Oficina ante el Consejo de Administración. El Consejo de Administración está compuesto por representantes de los Estados contratantes del Convenio sobre la Patente Europea, de los cuales una gran mayoría son Estados miembros de la Unión Europea. Estos representantes deben adoptar todas las medidas dentro del ámbito de su competencia para garantizar el cumplimiento de la presente Directiva por la Oficina Europea de Patentes. |
+
+Although whether or not this provision is in our interest depends on the overall outcome, stating that the member state representatives who together govern the EPO have to take into account EU legislation and cannot simply do whatever they want, is a good principle to have.
+
+== Recital 9 ==
+
+=== Economic Considerations of Patents ===
+
+| number | submitter | recommendation | text |
+| *** | Council | () | La protección que otorgan las patentes permite a los innovadores beneficiarse de su creatividad. Los derechos de patente protegen la innovación en interés de toda la sociedad y no deberían utilizarse de forma anticompetitiva. |
+| 53 = 85 = 106 = 127 = 148 = 171 | Rocard / Buzek 14 | + | Las patentes son monopolios temporales concedidos por el Estado a los inventores con objeto de estimular el progreso técnico. A fin de garantizar que el sistema funcione como se pretende, hay que definir cuidadosamente las condiciones para la concesión de patentes y las modalidades para hacerlas respetar, en particular con el fin de mantener dentro de límites razonables las consecuencias inevitables del sistema de patentes, tales como la restricción de la libertad creadora, la inseguridad jurídica y los efectos contrarios a la competitividad.  |
+
+Reminds governments and judges that patents have both advantages and disadvantages, so care should be taken to make sure their effects are beneficial to innovation and the economy as a whole.
+
+== Recital 10 ==
+
+=== Relation between patents and copyright ===
+
+| number | submitter | recommendation | text |
+| *** | Council | () | De conformidad con la Directiva 91/250/CEE del Consejo, de 14 de mayo de 1991, sobre la protección jurídica de los programas de ordenador, cualquier forma de expresión de un programa de ordenador original estará protegida por los derechos de autor como obra literaria. No obstante, las ideas y principios en los que se basa cualquiera de los elementos de un programa de ordenador no están protegidos por los derechos de autor. |
+| 54 = 86 = 107 = 128 = 149 = 172 | Rocard / Buzek 15 | + | De conformidad con la Directiva 91/250/CEE del Consejo, de 14 de mayo de 1991, sobre la protección jurídica de los programas de ordenador, la propiedad de los programas de ordenador se adquiere sobre la base de los derechos de autor. Las ideas y principios de carácter general en los que se basa un programa de ordenador deben ser de utilización libre de modo que muchos creadores diferentes puedan adquirir simultáneamente la propiedad de creaciones individuales basadas en ellos. |
+
+The fact that the "underlying ideas" of computer programs are not covered by copyright is a feature of copyright which promotes competition in the free market, and not an "error" which should be "corrected".

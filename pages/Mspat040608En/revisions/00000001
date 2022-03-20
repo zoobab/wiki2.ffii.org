@@ -1,0 +1,264 @@
+= 2004-06-08 US Microsoft Patents Task Lists =
+--> 
+[ [:SwpatcninoEn: News]
+| [:SwpatmicrosoftEn: Microsoft]
+| [:SwpikxraniEn: Patents in Action]
+]
+
+----
+
+ * [http://www.theinquirer.net/?article=16489 The Inquirer article]
+ * [http://yro.slashdot.org/article.pl?sid=04/06/08/2319254&mode=thread&tid=109&tid=126&tid=155&tid=156&tid=187&tid=99 Slashdot discussion]
+ * [http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,748,582.WKU.&OS=PN/6,748,582&RS=PN/6,748,582 US-Patent 6,748,582]
+ * NEEDED HERE: claims of the patent
+ * NEEDED HERE: number and claims of corresponding EPO patent
+
+=== Claims of the US-Patent 6,748,582 ===
+
+What is claimed is:
+
+1. A computer-implemented method for managing development-related tasks, the method comprising:
+
+during an interactive code development session, evaluating source code to determine whether a comment token is present;
+
+in response to determining that the source code contains a comment token, inserting a task into a task list; and
+
+in response to completion of a task, modifying the task list during the interactive code development session to indicate that the task has been completed.
+
+2. The method of claim 1, wherein the comment token is associated with a keyword defined before the interactive code development session.
+
+3. The method of claim 1, wherein the comment token is associated with a keyword specified by a developer during the interactive code development session.
+
+4. The method of claim 1, wherein the comment token is associated with a keyword not subject to modification by the developer.
+
+5. The method of claim 1, wherein the comment token is selected from a set of comment tokens, and further comprising monitoring changes to the set of comment tokens and generating a notification in response a change to the set of comment tokens.
+
+6. The method of claim 1, further comprising:
+
+associating a location in the source code with the inserted task; and
+
+in response to navigation to the inserted task, displaying a portion of the source code corresponding to the associated location.
+
+7. The method of claim 1, further comprising, in response to determining that the source code contains a comment token:
+
+extracting a segment of the source code following the comment token; and
+
+associating the extracted segment with the inserted task.
+
+8. The method of claim 1, further comprising inserting into the task list a task specified by a developer during the interactive code development session.
+
+9. The method of claim 8, wherein the task is specified by selecting a location in the source code.
+
+10. The method of claim 8, wherein the task is specified by receiving a task description from the developer.
+
+11. The method of claim 1, further comprising associating a priority rating with the inserted task.
+
+12. The method of claim 11, further comprising:
+
+during the interactive code development session, evaluating the source code to determine whether a syntax error is present; and
+
+determining the priority rating associated with the inserted task as a function of whether the source code contains a syntax error or a comment token.
+
+13. The method of claim 12, wherein the priority rating associated with the inserted task is further determined as a function of a type of the comment token contained in the input source code.
+
+14. The method of claim 12, wherein the priority rating associated with the inserted task is further determined as a function of a type of the syntax error.
+
+15. The method of claim 1, further comprising responding to at least one of a build error and a deployment error by inserting a task into the task list.
+
+16. The method of claim 1, further comprising inserting a task into the task list in response to receiving information from an external module.
+
+17. The method of claim 1, further comprising:
+
+receiving at least one filtering criterion; and
+
+displaying at least a subset of tasks selected from the task list as a function of the at least one filtering criterion.
+
+18. The method of claim 17, wherein the at least filtering criterion includes at least one of a completion status, a task category, a file, and a location.
+
+19. The method of claim 18, wherein the task category is divided into a plurality of subcategories.
+
+20. The method of claim 1, further comprising sorting a plurality of tasks in the task list as a function of at least one sort criterion.
+
+21. The method of claim 20, wherein the at least one sort criterion includes at least one of a completion status, a task category, a file, and a location.
+
+22. The method of claim 21, wherein the task category is divided into a plurality of subcategories.
+
+23. The method of claim 1, further comprising:
+
+monitoring a completion status of a plurality of tasks in the task list; and
+
+in response to completion of a task, deleting the completed task from the task list.
+
+24. A computer-implemented method for dynamically maintaining a list of tasks related to development of a project, the method comprising:
+
+parsing source code during an interactive code development session to detect the presence of at least one of a syntax error and a comment token while the source code is being input;
+
+in response to detecting a comment token, inserting a task into a task list with an associated priority rating determined as a function of a type of the comment token;
+
+in response to detecting a syntax error, inserting a task into the task list with an associated priority rating determined as a function of a type of the syntax error;
+
+selectively displaying at least a subset of tasks in the task list as a function of at least one filtering criterion, each displayed task being displayed in a manner determined by at least one characteristic attributable to it; and
+
+in response to completion of a task, modifying the task list to indicate that the task has been completed.
+
+25. A computer-readable medium having computer-executable modules stored thereon, comprising:
+
+a parser module configured to parse source code during an interactive code development session to detect the presence of a comment token;
+
+a task module in communication with the parser module and configured to respond to detection of the comment token by inserting a task into a task list and to respond to completion of a task by modifying the task list to indicate that the task has been completed; and
+
+a display module in communication with the task module and configured to display the task list.
+
+26. The computer-readable medium of claim 25, wherein the comment token is associated with a keyword defined before the interactive code development session.
+
+27. The computer-readable medium of claim 26, wherein the comment token is associated with a keyword specified by the developer during the interactive code development session.
+
+28. The computer-readable medium of claim 26, wherein the comment token is associated with a keyword not subject to modification by the developer.
+
+29. The computer-readable medium of claim 26, wherein the comment token is selected from a set of comment tokens, and further comprising a token interface module in communication with the parser module and configured to detect a change to the set of comment tokens and to generate a notification in response to a change to the set of comment tokens.
+
+30. The computer-readable medium of claim 25, wherein the task module is further configured to:
+
+associate a location in the source code with the inserted task; and
+
+in response to selection of the inserted task, cause a portion of the source code corresponding to the associated location to be displayed.
+
+31. The computer-readable medium of claim 25, wherein the parser module is further configured to, in response to detecting a comment token, extract a segment of the source code following the comment token, and wherein the task module is further configured to associate the extracted segment with the inserted task.
+
+32. The computer-readable medium of claim 25, wherein the task module is further configured to:
+
+receive information relating to a developer-specified task; and
+
+insert the developer-specified task into the task list.
+
+33. The computer-readable medium of claim 32, wherein the developer-specified task is specified by selection of a location in the source code by the developer.
+
+34. The computer-readable medium of claim 32, wherein the received information includes a task description.
+
+35. The computer-readable medium of claim 25, wherein the task module is further configured to associate a priority rating with the inserted task.
+
+36. The computer-readable medium of claim 35, wherein the parser module is further configured to parse the source code during the interactive code development session to detect the presence of a syntax error, and wherein the task module is further configured to determine the priority rating as a function of whether the source code contains a syntax error or a comment token.
+
+37. The computer-readable medium of claim 36, wherein the task module is further configured to determine the priority rating as a function of a type of the comment token.
+
+38. The computer-readable medium of claim 36, wherein the task module is further configured to determine the priority rating as a function of a type of the syntax error.
+
+39. The computer-readable medium of claim 25, wherein the task module is further configured to respond to at least one of a build error and a deployment error by inserting a task into the task list.
+
+40. The computer-readable medium of claim 25, wherein the task module is further configured to insert a task into the task list in response to receiving information from an external module.
+
+41. The computer-readable medium of claim 25, wherein the display module is further configured to:
+
+receive at least one filtering criterion; and
+
+display at least a subset of tasks selected from the task list as a function of the at least one filtering criterion.
+
+42. The computer-readable medium of claim 41, wherein the at least filtering criterion includes at least one of a completion status, a task category, a file, and a location.
+
+43. The computer-readable medium of claim 42, wherein the task category is divided into a plurality of subcategories.
+
+44. The computer-readable medium of claim 25, wherein the display module is further configured to sort a plurality of tasks in the task list as a function of at least one sort criterion.
+
+45. The computer-readable medium of claim 44, wherein the at least one sort criterion includes at least one of a completion status, a task category, a file, and a location.
+
+46. The computer-readable medium of claim 45, wherein the task category is divided into a plurality of subcategories.
+
+47. The computer-readable medium of claim 25, wherein the task module is further configured to detect a completion status of a plurality of tasks in the task list.
+
+48. The computer-readable medium of claim 47, wherein the task module is further configured to respond to detecting completion of a task by removing the completed task from the task list.
+
+49. A computer arrangement comprising:
+
+an input module configured to receive at least one command from a developer during an interactive code development session;
+
+a parser module configured to parse source code during the interactive code development session to detect the presence of a comment token;
+
+a task module in communication with the parser module and configured to respond to detection of the comment token by inserting a task into a task list and to respond to completion of a task by modifying the task list to indicate that the task has been completed; and
+
+a display module in communication with the task module and configured to display the task list using a display device.
+
+50. The computer arrangement of claim 49, wherein the comment token is associated with a keyword defined before the interactive code development session.
+
+51. The computer arrangement of claim 49, wherein the comment token is associated with a keyword specified by the developer during the interactive code development session.
+
+52. The computer arrangement of claim 49, wherein the comment token is associated with a keyword not subject to modification by the developer.
+
+53. The computer arrangement of claim 49, wherein the comment token is selected from a set of comment tokens, and further comprising a token interface module in communication with the parser module and configured to detect a change to the set of comment tokens and to generate a notification in response to a change to the set of comment tokens.
+
+54. The computer arrangement of claim 49, wherein the task module is further configured to:
+
+associate a location in the source code with the inserted task; and
+
+in response to selection of the inserted task, cause a portion of the source code corresponding to the associated location to be displayed.
+
+55. The computer arrangement of claim 49, wherein the parser module is further configured to, in response to detecting a comment token, extract a segment of the source code following the comment token, and wherein the task module is further configured to associate the extracted segment with the inserted task.
+
+56. The computer arrangement of claim 49, wherein the task module is further configured to:
+
+receive information relating to a developer-specified task; and
+
+insert the developer-specified task into the task list.
+
+57. The computer arrangement of claim 56, wherein the developer-specified task is specified by selection of a location in the source code by the developer.
+
+58. The computer arrangement of claim 56, wherein the received information includes a task description.
+
+59. The computer arrangement of claim 49, wherein the task module is further configured to associate a priority rating with the inserted task.
+
+60. The computer arrangement of claim 59, wherein the parser module is configured to parse the source code during the interactive code development session to detect the presence of a syntax error, and wherein the task module is further configured to determine the priority rating as a function of whether the source code contains a syntax error or a comment token.
+
+61. The computer arrangement of claim 60, wherein the task module is further configured to determine the priority rating as a function of a type of the comment token.
+
+62. The computer arrangement of claim 60, wherein the task module is further configured to determine the priority rating as a function of a type of the syntax error.
+
+63. The computer arrangement of claim 49, wherein the task module is further configured to respond to at least one of a build error and a deployment error by inserting a task into the task list.
+
+64. The computer arrangement of claim 49, wherein the task module is further configured to insert a task into the task list in response to receiving information from an external module.
+
+65. The computer arrangement of claim 49, wherein the display module is further configured to:
+
+receive at least one filtering criterion; and
+
+display at least a subset of tasks selected from the task list as a function of the at least one filtering criterion.
+
+66. The computer arrangement of claim 65, wherein the at least filtering criterion includes at least one of a completion status, a task category, a file, and a location.
+
+67. The computer arrangement of claim 66, wherein the task category is divided into a plurality of subcategories.
+
+68. The computer arrangement of claim 49, wherein the display module is further configured to sort a plurality of tasks in the task list as a function of at least one sort criterion.
+
+69. The computer arrangement of claim 68, wherein the at least one sort criterion includes at least one of a completion status, a task category, a file, and a location.
+
+70. The computer arrangement of claim 49, wherein the task category is divided into a plurality of subcategories.
+
+71. The computer arrangement of claim 49, wherein the task module is further configured to detect a completion status of a plurality of tasks in the task list.
+
+72. The computer arrangement of claim 71, wherein the task module is further configured to respond to detecting completion of a task by removing the completed task from the task list.
+
+73. In a computer system having a graphical user interface including a display and a user interface selection device, a method of displaying a set of tasks associated with a development project and selecting a displayed task, the method comprising:
+
+during an interactive code development session, evaluating source code to determine whether a comment token is present;
+
+in response to determining that the source code contains a comment token, inserting a task into a task list;
+
+in response to completion of a task, modifying the task list during the interactive code development session to indicate that the task has been completed;
+
+displaying at least a subset of the set of tasks using the display;
+
+receiving a selection signal indicative of a user selection of a task from the displayed tasks; and
+
+displaying a portion of the input source code corresponding to the associated location in the source code using the display.
+
+74. The method of claim 73, further comprising selecting a subset of the set of tasks for display as a function of at least one filtering criterion.
+
+75. A computer arrangement comprising:
+
+an input module configured to receive at least one command from a developer during an interactive code development session;
+
+a parser module configured to parse source code during the interactive code development session to detect the presence of at least one of a comment token selected from a set of comment tokens and a syntax error;
+
+a token interface module in communication with the parser module and configured to detect a change to the set of comment tokens and to generate a notification in response to a change to the set of comment tokens;
+
+a task module in communication with the parser module and configured to respond to detection of the at least one of a comment token and a syntax error by inserting a task into a task list and to respond to completion of a task by modifying the task list to indicate that the task has been completed; and
+
+a display module in communication with the task module and configured to display the task list using a display device.

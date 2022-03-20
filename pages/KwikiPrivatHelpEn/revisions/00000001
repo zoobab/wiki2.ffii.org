@@ -1,0 +1,14 @@
+= KWiki Privacy Help =
+-->
+[ [:KwikiEn: Kwiki]
+| [:KwikiPrivatEn: Private]
+]
+----
+
+This Kwiki allows users that are logged in to set a privacy level on each page. There are 3 privacy levels:
+
+ * Public - Anyone can read or edit the page.
+ * Protected - Anyone can read, but only users that are logged in can edit.
+ * Private - Only users that are logged in can read or edit.
+
+By default, all pages are public.

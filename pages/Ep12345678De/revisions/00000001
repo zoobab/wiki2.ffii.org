@@ -1,0 +1,122 @@
+## -*- dok: SwxaiMpeg; lang: de; coding: iso-8859-1; mode: fundamental; -*-
+= Analyse der patentrechtlichen Grundlagen der MPEG-LA für MPEG-4 =
+->
+[ [:SwpatpiktaDe: Patente]
+| [:SwpikxraniDe: in Aktion]
+]
+----
+
+''Untersucht wurden die Patente, auf die sich das MPEG-Lizenz-Konsortium stützt.  Nach intensivem Studium relevanter Fachliteratur sowie hunderter Patente der betreffenden Firmen kann man sagen:  ES existiert keine Erfindung unter den angegebenen MPEG-LA-Mitgliedern, die von ausreichender Erfindungshöhe gegenüber dem früheren Stand der Technik wäre, sodass auch nur eine einzige Patenterteilung voll gerechtfertigt wäre.''
+ 
+Der vollständige 40-seitige Bericht ist auf: 
+ * http://www.sensortime.com/MPEG-LA-Analyse.pdf
+ * oder: http://www.sensortime.com/MPEG-LA-Analyse.doc
+                                    
+ 
+Untersucht wurden die folgenden auf http://www.mpegla.com/m4s/m4s-att1.pdf angegebenen MPEG-4-Patente, auf die sich das MPEG-Lizenz-Konsortium stützt: 
+
+----
+
+== Apple Computer, Inc. ==
+
+ * [http://www.sensortime.com/US6134243_Apple.pdf US 6,134,234]
+
+== Electronics and Telecommunications Research Institute ==
+
+ * [http://www.sensortime.com/US6707944_ETRI.pdf US 6,707,944]
+ * KR 248,404
+
+== France Télécom, S.A. ==
+
+ * [http://www.sensortime.com/DE069800934_France_Telecom.pdf DE 69800934 T2]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf ES 2159438 T3]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf GB 995,170]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf IT 995,170]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf NL 995,170]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf SE 995,170]
+ * [http://www.sensortime.com/DE69801998C0_France_Telecom.pdf DE 69801998 T2]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf ES 2165694 T3]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf GB 1,004,206]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf IT 1,004,206]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf NL 1,004,206]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf SE 1,004,206]
+ * [http://www.sensortime.com/US6075901_France_Telecom.pdf US 6,075,901]
+ * [http://www.sensortime.com/US6075901_France_Telecom.pdf US 6,204,854]
+
+== Koninklijke Philips Electronics N.V. ==
+
+ * [http://www.sensortime.com/US05844867_Philips.pdf US 5,844,867]
+ * JP 3,162,110 
+ * [http://www.sensortime.com/EP0460751B2_Philips.pdf AT 460,751]
+ * [http://www.sensortime.com/EP0460751B2_Philips.pdf BE 460,751]
+ * [http://www.sensortime.com/DE69127504C0_Philips.pdf DE 69127504]
+ * [http://www.sensortime.com/EP0460751B2_Philips.pdf DK 460,751]
+ * [http://www.sensortime.com/EP0460751B2_Philips.pdf FR 460,751]
+ * [http://www.sensortime.com/EP0460751B2_Philips.pdf GB 460,751]
+ * [http://www.sensortime.com/EP0460751B2_Philips.pdf IT 460,751]
+ * [http://www.sensortime.com/EP0460751B2_Philips.pdf NL 460,751]
+ * [http://www.sensortime.com/EP0460751B2_Philips.pdf SE 460,751]
+ * KR 239,837
+
+== Mitsubishi Electric Corporation ==
+
+ * [http://www.sensortime.com/JP05236009A2_Mitsubishi.doc JP 2,814,819]
+
+== Samsung Electronics Co., Ltd. ==
+
+ * [http://www.sensortime.com/US6091769_Samsung.pdf US 6,091,769]
+ * CN ZL 97112956.8
+
+== Sharp Kabushiki Kaisha ==
+
+ * [http://www.sensortime.com/JP11122497A2_Sharp.doc JP 3,188,237]
+
+== Sun Microsystems, Inc. ==
+
+ * [http://www.sensortime.com/US6092120_SUN.pdf US 6,092,120]
+
+== ZUSAMMENFASSUNG der MPEG-LA-Analyse: ==
+
+Nach intensivem Studium relevanter Fachliteratur sowie hunderter Patente (auch den nicht angeführten EP- und WIPO_Anmeldungen) der betreffenden Firmen kann man sagen:
+
+ES existiert KEINE Erfindung unter den angegebenen MPEG-LA-Mitgliedern, die von ausreichender Erfindungshöhe (sogenanntem erfinderischen Schritt) gegenüber dem früheren Stand der Technik wäre, sodass
+
+a) auch nur eine einzige Patenterteilung voll gerechtfertigt wäre;
+b) eine darauf basierende IEEE- Standardisierung begründbar wäre: und 
+c) gar ein internationaler DRM (Digital Rights Standard) daraus resultieren dürfte!
+
+Die Patentansprüche erfüllen außerdem in keinem Fall die Voraussetzungen des Art. 52 des EPA: Es handelt sich fast ausnahmslos um Programme für Datenverarbeitungsanlagen  sog. computer-implementierte Erfindungen.
+
+ALLE in den untersuchten relevanten Patentansprüchen angeführten Neuheiten und Erfindungen sind entweder von nebulöser, undefinierbarer Art, wie etwa 
+
+ * *Parameter*, der einem Code-Block zugeordnet ist und alles nur Denkbare und Vorstellbare sein kann.. (PHILIPS)
+ * *Steuersignal*, das für dies und jenes indikativ ist&. (PHILIPS)
+ * *Signal-Teile*, die mittels eines Algorithmus in code umgewandelt werden (PHILIPS)
+ * *Datensignale*, welche *Quantifizierungsregeln* bzw. *Quantifizierungsparameter* zur Objekt-Codierung bereitstellen& (France Telecom)
+ * *Datensätze* bzw. *Anweisungen*, um zeit-relevante Daten (MultiMedia) auf bereits bekannte und beschriebene Weise zu übertragen..(Apple)
+
+
+Oder aber es handelt sich um die x-te Nachpatentierung uralter Technologien, die schon vor 20 Jahren beschrieben und patentiert wurden, und die einfach in neue Patentansprüche implementiert wurden um den Anschein von NEUHEIT zu geben:
+
+ * '''Adressierung''' von Daten-Paketen zwecks Identifikation (Philips)
+ * *Zeitstempel*  oder *elapse-time-Bezug* zu einem Datenbyte oder einem Datenpaket (SUN Microsystems)
+ * *Multiplexen* (MUXEN) von zeit-relevanten Daten oder anderen Daten (Samsung)
+ * *graceful degradation* (Berechnungs-Verschlechterung) (ETRI)
+
+
+Auf solch längst bekannten Technologien und/oder kunstvoll-nebulös formulierten Wort-Ungetümen wurden nicht nur dutzende Neben-Patentansprüche begründet, sondern ganze PYRAMIDEN neuer Patente und Patent-Familien. 
+
+http://www.sensortime.com/MPEG-LA-Patentpyramide.gif
+
+Abschließend wollen wir noch alle bis Mitte 1997 auf Englisch veröffentlichten Patentanmeldungen hinsichtlich "prior art" untersuchen:
+Eine  professionelle Patentdatensuchmaschine zeigt uns bei Eingabe von *multiplex* 52 690 (!) Eintragungen bis zum 1. Mai 1997 !
+
+
+http://www.sensortime.com/multiplex.gif
+
+
+Bei gleicher Eingabe von *data block addressing*: 944 Eintragungen, bei *frame addressing*: 130 Eintragungen !
+
+Bei *time stamp* 2 962 Eintragungen,  bei *time address* 813 Eintragungen, bei *elapse time* 14 373 Eintragungen!
+
+Bei *data packetising* 6 354 Eintragungen !

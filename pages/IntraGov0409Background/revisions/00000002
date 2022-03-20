@@ -1,0 +1,55 @@
+#acl TrustedGroup:read All:
+
+= About Council text quality =
+
+http://swpat.ffii.org/letters/cons0406/text/
+
+= About how software patents are enabled by the Council text =
+
+ * Definition:
+
+   * Software patent is a patent on an algorithm, idea, etc, which can be implemented solely using general purpose computers
+
+The main trick is forgetting to define what does "technical" and "technical
+contribution" means. The text pushes for newnes in the definition of
+"technical contribution", but forgets to define technicality.
+
+This way computer implementation of algorithms and business methods
+can be treated as technical. See http://www.european-patent-office.org/tws/appendix6.pdf
+for such a logic.
+
+
+= Differences between EP text and Council text =
+
+It is a good exercise to read EP and Council text side by side.
+This will make you decide for yourself the answers for the following
+questions:
+
+ * Which text reaches the goal of defining clear boundaries of patentability?
+
+ * Which text have higher quality from a codification point of view
+
+ * Which text does exclude software patents?
+
+http://swpat.ffii.org/papers/europarl0309/cons0401/tab/
+
+= The economical impact for software patents =
+
+One study is made in __MIT__, all others are __GOVERNMENT_FOUNDED__.
+
+== Bessen & Maskin 2000: Sequential Innovation ==
+This article is written by two researcher from MIT and concludes, after giving mathematical models and experimental evidence, that in a dynamic world such as the software industry or consulting industry, firms may have plenty of incentive to innovate without patents and patents may constrict complementary innovation. It concludes that copyright protection for software programs (which has gone through its own evolution over the last decade) may have achieved a better balance than patent protection. This new model suggests another, different rationale for narrow patent breadth than the recent economic literature on this subject. 
+
+http://www.researchoninnovation.org/patent.pdf
+
+== Tang, Adams, Pari 2000: Patent Protection of Computer Programs ==
+
+Study on Software Patents carried out by British researchers at the order of the European Commission's General Directorate for Enterprises. The findings of this study are partially based on the ESRCIP project (see above). It's purpose is to find out how software SMEs deal with Intellectual Property Rights in general and patents in particular, how useful patents are for them and what can be done to raise patent awareness. The study finds that we are not in a "pro-patent era" but rather in a "pro ipr area", and that software patents are not very much appreciated by software SMEs and probably not very helpful for them.
+
+http://www.ipr-helpdesk.org/documentos/docsPublicacion/pdf/8_softstudy%5B0000002727_00%5D.pdf
+
+== Fraunhofer/MPI 2001: Economic/Legal Study about Software Patents ==
+
+In 2001-01, the German Federal Ministery of Economy and Technology (BMWi) ordered a study on the economic effects of software patentability from well known think tanks with close affinity to the German patent establishment: the Fraunhofer Institute for Innovation Research (ISI.fhg.de), the Fraunhofer Patent Agency (PST.fhg.de) and the Max Planck Institute for Foreign and International Patent, Copyright and Competition Law (MPI = intellecprop.mpg.de). The study was largely concluded in 2001-06 and preliminary results were presented to a selected audience. The final report was published by the BMWi on 2001-11-15. The study is based on an opinion poll answered by several hundred software company representatives and independent software developpers, conducted by Fraunhofer ISI. Most respondents have had little experience with software patents and don't want software patents to become a daily reality like in the US. The poll also investigated the significance of open source software for these companies and found it to be of substantial importance as a common infrastructure. Based on these findings, the Fraunhofer authors predict that an increase in the use of software patents will put many software companies out of business and slow down innovation in the software field. The study then jumps to conclude that software patents must be legalised and SMEs must be better informed about them. This surprising conclusion is drawn by the patent law scholars from MPI. The MPI's legal study does not explore any ways to redraw the borders between patents and copyright but just takes the EPO and USPTO practise as an inevitable reality. They find that the EPO's caselaw is contradictory and chaotic and blame this on Art 52.2c EPC, which they say has failed to provide clear guidance and should therefore be deleted. Business related algorithms are, they say, less likely to be patented at the EPO than algorithms that "stand in a tradition of engineering". The MPI writers however do not try to provide a clear rule for distinguishing the two, and they oppose the idea of drawing a line between the physical and the logical ("technical inventions" vs "rules of organisation and calculation") as done by lawcourts in the 70s and 80s, asserting that information is also a physical phenomenon. They propose that all legislative power concerning the limits of patentability be handed over to the EPO, which should then, at its discretion and as far as Art 27 TRIPs allows, consult experts of interested parties for regular rewriting of its Examination Guidelines. Art 27 TRIPs demands that patents be "available in all fields of technology", and the MPI understands "technology" as "the useful arts" and is careful not to mention Kolle and other European theoreticians of the concept of technical invention. Summarily the study can be summarised as "Fraunhofer: software patents are unpopular in the software industry and dangerous to innovation and competition. MPI: Fine, so let's legalise them quickly." 
+
+http://www.bmwi.de/Homepage/Presseforum/Pressemitteilungen/2001/1B15prm2.jsp

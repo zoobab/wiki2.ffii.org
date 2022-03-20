@@ -1,0 +1,38 @@
+= Creative pressures ID (Doom 3 maker) with Shadow Calculation Patent =
+-->
+[ [:Creative040728De: deutsch]
+]
+[ [:CreativeEn: Creative]
+| [:SwpikxraniEn: Patents in Action]
+| [:SwpatkelciEn: Games & Swpat]
+| [:SwpatcninoEn: Patent News]
+]
+----
+
+== Media Echo ==
+
+ * [http://news.google.com/news?hl=en&q=Creative+Doom+patent&btnG=Search+News Google News Search]
+
+ * [http://www.theinquirer.net/?article=17525 2004-07-29 The Inquirer: Creative Labs explains deal with ID]
+ * 2004-07-29 [http://ve3d.ign.com/ ign]: [http://ve3d.ign.com/articles/534/534173p1.html ID coreced by Creative?]
+ * [http://www.theinquirer.net/?article=17500 2004-07-28 The Inquirer: Unholy Row erupts over Shadow Calculation Patent]
+ * [http://games.slashdot.org/article.pl?sid=04/07/28/1529222 2004-07-28 Slashdot discussion]
+ * [http://www.beyond3d.com/forum/viewtopic.php?topic=14459&forum=9 2004-07-28 original posting on Beyond 3D], quotes id Software's John Carmack as saying:
+
+  The patent situation well and truly sucks. 
+
+  We were prepared to use a two-pass algorithm that gave
+  equivalent results at a speed hit, but we negotiated the
+  deal with Creative so that we were able to use the zfail
+  method without having to actually pay any cash. It was
+  tempting to take a stand and say that our products were
+  never going to use any advanced Creative/3dlabs products
+  because of their position on patenting gaming software
+  algorithms, but that would only have hurt the users.
+
+== Outline ==
+
+Doom 3 maker id Software finds they have been using a technique on which Creative Labs owns a patent.
+Creative Labs allows their partner id Software to continue using the technique on condition that they also develop drivers for patented audio extensions (which so far were not developped by the Doom team because they are specific to Creative Labs).
+
+John Carmack, lead programmer of id Software, is a [http://www.insidemacgames.com/news/story.php?ArticleID=967 known opponent] of software patents.

@@ -1,0 +1,48 @@
+= FFII Administrivia Directory =
+
+This page is intended as a directory for all of the FFII administrivia and related projects. Feel free to add more links.
+
+== Mailing Lists ==
+
+ * [:ListinfoEn: FFII Mailing Lists FAQ]
+ * [http://lists.ffii.org/mailman/listinfo/ FFII Mailing Lists Directory (Mailman listinfo Page)]
+ * [:MailmanEn: Documentation of Mailman installation on Genba.ffii.org]
+ * [:MailmanUnsubDe: Wie man sich aus einer FFII-Mailman-Liste abmeldet (German only)]
+ * [http://hoehue.de/ffiiaustragen/ Wie trage ich mich auf einem Mailverteiler des ffii aus? (German only)]
+
+== Website Maintenance & Translation ==
+
+ * [:FfiiQaEn: FFII Website Quality Assurance]
+ * [:FfiixenuEn: Broken Links on swpat.ffii.org]
+ * [http://swpat.ffii.org/gruppe/langtxt/ Multilingual Web - How You Can Weave With Us]
+ * [http://www.ffii.org/assoc/kwiki/ Extending Static Pages with KWiki and Vice Versa]
+ * [http://www.ffii.org/proj/webdist/ Distributed Weaving]
+
+== Finance ==
+
+ * [http://www.ffii.org/assoc/money/ FFII finance]
+ * [http://www.ffii.org/assoc/money/donor/receipt/ Donation Receipts]
+
+== Participation System (Aktiv) ==
+
+ * [:AktivEn: Aktiv Wiki]
+ * The login is at:
+   * [https://www.ffii.org/ffii-cgi/eintrag?m=login] or 
+   * [http://www.ffii.org/ffii-cgi/aktiv?lg=en]
+ * [http://www.ffii.org/verein/aktiv/ Participation System Project Page]
+ * [:FfiiprojPartEn: How to Participate]
+ * [:FfiiprojKreEn: How to Create an FFII project]
+
+== Knecht ==
+
+ * [http://kwiki.ffii.org/KnechtEn What is Knecht?]
+ * [http://www.ffii.org/assoc/knecht/proj/index.en.html Creating and Supporting Projects with KNECHT]
+ * [http://www.ffii.org/assoc/knecht/index.en.html#faq Managing your FFII Participation Profile with KNECHT]
+
+== Other ==
+
+ * [http://www.ffii.org/proj/index.en.html Project List (contains quite some administrivia Projects)]
+ * [:PolisEn: POLIS: Programmed Workflows and Automatic Data Processing (ADP) at FFII]
+ * [:GenbaEn: About genba.ffii.org -- main machine of ffii.org]
+ * [http://www.ffii.org/assoc/genba/ System Administration for genba]
+ * [http://www.ffii.org/assoc/cvsadm/ CVS Administration]

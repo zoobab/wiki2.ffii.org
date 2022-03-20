@@ -1,0 +1,46 @@
+## -*- dok: traduk050325; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-03-25
+= FFII translations needed, process improved =
+->
+[ [[MlhtImportEn| Import]]
+| [[http://listinfo.ffii.org/mailman/listinfo/traduk-parl|translation mailing list]]
+| [[FfiiprojNewsEn| Project News]]
+]
+----
+
+Currently we have 114 subscribers to the traduk-parl list, many of whom hopefully are ready to help a bit with translating.
+
+The translation managment system is ready.  It has been debugged and
+improved during recent months.  You will notice it when you send an
+editable source file such as
+
+ * http://swpat.ffii.org/swpat.en.txl
+ * http://www.ffii.org/ffii.en.txl
+
+to mlhtimport@ffii.org and read the feedback mails.
+
+The front pages of
+
+ * http://swpat.ffii.org/index.en.html
+ * http://www.ffii.org/index.en.html
+
+need to be localised in all languages of EU and beyond.  There can
+then also be links to localised versions of the news in the right-hand
+column, news tickers like
+
+        http://wiki.ffii.org/SwpatcninoEn
+        http://wiki.ffii.org/SwpatcninoFr
+
+with RSS streams and even press release mailing lists like
+fr-news at ffii org etc.
+
+You can ask our
+
+        Translation Helpdesk 
+	traduk-help at ffii org
+
+to be registered as responsible for a translation.  That means that
+other people can then not overwrite your translation but instead are
+asked to submit their texts to you.  The Helpdesk can of course also
+transfer responsibility for translations to a successor.  And it
+should also be able to install a fully localised front page.

@@ -1,0 +1,263 @@
+## -*- dok: cpfh0507; lang: de; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-07-26
+= Oberster Gerichtshof der Briten weist Softwarepatent zurück und kritisiert EPA-Auslegungen  =
+->
+[ [[Cpfh0507En| english]]
+]
+[ [[SwpatukEn| Grossbritannien]]
+| [[SwpatcninoDe| Patent-Nachrichten]]
+]
+----
+
+== *** TRANSLATION TODO *** ==
+
+''26 July 2005 -- In a recent court ruling at the highest court of the UK, a software patent was rejected on the basis of Article 52 EPC with reasoning that criticises current doctrines of the European Patent Office and rejected directive proposal from the Commission and Council and demands a "harder" exclusion of software.''
+
+In the [[http://www.bailii.org/ew/cases/EWHC/Patents/2005/1623.html|Halliburton vs Smith]] case, a software patent was rejected for reasons we have yet to analyse separately.
+
+On the same day the [[http://www.bailii.org/ew/cases/EWHC/Patents/2005/1589.html|judgment in "CPFH's Application"]] was published, which is also well worth a read.
+
+Both were recently noted in the [[http://ipkitten.blogspot.com/|IPKat blog]].
+
+== CPFH's Antrag: Wie reine Software effektiv ausgeschlossen werden kann ==
+
+|| "What is an 'invention'? That is what this case is about" ||
+
+-- so begins Mr Prescott QC in line one of his judgement on "CPFH's Application", before [[http://www.bailii.org/ew/cases/EWHC/Patents/2005/1589.html|going out of his way to give a complete tour of Art 52 EPC]]: given in the High Court, coincidentally on the same day as the "Halliburton vs Smith" case. 
+
+There are a lot of points he makes well.  And not least, his strong approval that there are some very good reasons for not allowing patents on pure software: (ins Deutsche übertragen)
+
+   35. The same approach cannot be taken to computer programs. The
+       reason why computer programs, as such, are not allowed to be
+       patented is quite different. Although it is hotly disputed now
+       by some special interest groups, the truth is, or ought to be,
+       well known. It is because at the time the EPC was under
+       consideration it was felt in the computer industry that such
+       patents were not really needed^[14]
+
+http://www.bailii.org/ew/cases/EWHC/Patents/2005/1589.html#note14
+
+       were too cumbersome (it was felt that searching the prior art
+       would be a big problem
+
+http://www.bailii.org/ew/cases/EWHC/Patents/2005/1589.html#note15,
+
+       and would do more harm than good
+
+http://www.bailii.org/ew/cases/EWHC/Patents/2005/1589.html#note
+
+       .
+       I shall not go into details here but it is worth noting that the
+       software industry in America developed at an astonishing pace
+       when no patent protection was available
+
+http://www.bailii.org/ew/cases/EWHC/Patents/2005/1589.html#note17
+
+       Copyright law protects computer programs against copying. A
+       patent on a computer program would stop others from using it
+       even though there had been no copying at all. So there would
+       have to be infringement searches. Furthermore you cannot have a
+       sensible patent system unless there exists a proper body of
+       prior art that can be searched. Not only are most computer
+       programs supplied in binary form -- unintelligible to humans --
+       but most of the time it is actually illegal to convert them into
+       human-readable form
+
+http://www.bailii.org/ew/cases/EWHC/Patents/2005/1589.html#note18
+
+       A patent system where it is illegal to search most of the prior
+       art is something of an absurdity.
+ 
+   36. For those and other reasons it is not surprising that in, this
+       instance, the exclusion is "harder". You are not allowed to get
+       round the objection -- that you are attempting to patent a
+       computer program -- by claiming it as a physical artefact, a mere
+       change of form. You cannot patent "A computer ''disk'' when
+       storing my computer program" or "A ''computer'' when programmed to
+       function according to my program". For if that were allowed you
+       would get a monopoly to the use of your computer program,
+       defeating the policy of the law. (There may be superficial
+       exceptions but they turn on the fact that your invention is not
+       a mere computer program.)
+ 
+   37. Recently, the scope of this exclusion has been under
+       re-consideration by the European Union
+
+http://www.bailii.org/ew/cases/EWHC/Patents/2005/1589.html#note19
+
+       The Commission wanted to harmonise the law by defining the line
+       between inventions that are properly patentable and mere
+       computer programs. Although not strictly relevant to what I have
+       to decide, I must admit I watched developments with some
+       anxiety. Had the proposal succeeded it would have entrenched a
+       test involving 'technical contribution' and 'technical features'
+       that I suspect is too vague to be workable at the margin. On 6
+       July 2005 the proposed directive was defeated in the European
+       Parliament and it will not be re-introduced.
+ 
+   [...]
+
+   91. The legislation requires that, in order for something to be
+       patentable, it must ''be'' an invention, it must be susceptible of
+       industrial application, it must be new, and it must involve an
+       inventive step (i.e. it must not be obvious). Those are four
+       conditions. They are mandatory. None of them can be reasoned out
+       of existence under the guise of interpretation.
+ 
+   92. By "//be// an invention" I mean not be excluded by Article
+       52(2). If something is an invention in that sense we can call it
+       "technology" for short. I shall revert to that presently.
+ 
+   93. It must also be the law that, for something to count as new and
+       non-obvious, it must do so ''under the description'' 'invention',
+       in that sense. It is not enough that something is new and not
+       obvious if the sole novelty or inventive step consists of
+       something that is excluded from basic patentability by Article
+       52 (but it must really be excluded by Article 52: see further
+       below). Tomorrow's newspaper will be a manufactured article; it
+       will certainly be a new article; and at least some of its
+       contents will not be obvious. But the newspaper will not be
+       patentable on mere account of the novel and non-obvious
+       information it presents. For the news itself will not satisfy
+       those conditions under the description 'invention', but only
+       under the description 'excluded matter'. There must be unity
+       under the four conditions. Likewise, if it should turn out that
+       tomorrow's newspaper is printed with a new but obvious ink, it
+       will satisfy three out of the four conditions, but that will not
+       be enough.
+ 
+   94. To that extent I believe the EPO is right no longer to apply the
+       "technical contribution" test. Properly regarded, that was a
+       two-stage test that identified what was new (not disclosed in
+       the past) and then asked whether it was 'technical' (i.e. not
+       excluded from patentability). But it cannot be right to stop
+       there. The new advance also must not have been obvious to those
+       skilled in the art and that too must be under the description
+       'technical' (i.e. not excluded from patentability). In practice
+       it may not be useful to consider whether something is an
+       'invention' without considering whether it is new and
+       non-obvious. Much the same thing was said by the House of Lords
+       in ''Biogen Inc v. Medeva plc'' [1997] RPC 1, 42.
+ 
+   95. A patentable invention is new and non-obvious information about
+       a thing or process that can be made or used in industry. What is
+       new and not obvious can be ascertained by comparing what the
+       inventor claims his invention to be with what was part of the
+       state of the existing art. So the first step in the exercise
+       should be to identify what it is the advance in the art that is
+       said to be new and non-obvious (and susceptible of industrial
+       application). The second step is to determine whether it is both
+       new and not obvious (and susceptible of industrial application)
+       under the description 'an invention' (in the sense of Article
+       52). Of course if it is not new the application will fail and
+       there is no need to decide whether it was obvious.
+ 
+   96. In order to identify what is the advance in the art that is said
+       to be new and non-obvious the Patent Office may rely on prior
+       art searches. But in my judgment it is not invariably bound to
+       do so. It will often be possible to take judicial notice of what
+       was already known. Patent Office examiners are appointed because
+       they have a professional scientific or technical training. They
+       are entitled to make use of their specialist knowledge. Of
+       course the letter of objection will state the examiner's
+       understanding of the technical facts in that regard, and thus
+       the applicant will have the opportunity to refute it in case
+       there has been a mistake.
+ 
+   97. Reverting to "under the description 'an invention'", it will
+       often be possible to take a short cut by asking "Is this a new
+       and non-obvious advance in technology?" That is because there
+       can often be universal agreement about what is 'technology', see
+       paragraph 11 above. But sometimes it will not be possible
+       without running the risk of error, see paragraph 12. If there is
+       any doubt it will then be necessary to have recourse to the
+       terms of Article 52 of the Convention.
+
+== Kommentar von James Heald ==
+
+This could be sharper: I'd like to have seen it more closely related
+to the EPC. I like the stress that this should be a tightening of
+procedure, not a relaxation. But of course it doesn't work if it
+allows the definition of what is technical to slip, and therefore what
+sort of contribution can be considered technical. "Technical" '''must'''
+be held to mean something beyond the functioning of a programmed
+computer, and characteristics which only relate to that functioning.
+
+Interesting, if it can be read as a UK attempt to "embrace and extend" 
+the EPO doctrine - ie constructively engage with the formalism, but 
+simultaneously give it a much less permissive application, and hope that 
+the shift will percolate back to Munich.
+
+== Weitere Zitate (ins Deutsche übertragen) ==
+
+  103. It was the policy of the "computer program" exclusion that
+       computer programs, as such, could not be foreclosed to the
+       public under patent law. (Copyright law is another matter.) They
+       would be foreclosed if it was possible to patent a computer when
+       running under the instructions of the program, for example, or
+       magnetic disk when storing the program.
+ 
+  104. But the mere fact that a claimed artefact includes a computer
+       program, or that a claimed process uses a computer program, does
+       not establish, in and of itself, that the patent would foreclose
+       the use of a computer program. There are many artefacts that
+       operate under computer control (e.g. the automatic pilot of an
+       aircraft) and there are many industrial processes that operate
+       under computer control (e.g. making canned soup). A better way
+       of doing those things ought, in principle, to be patentable. The
+       question to ask should be: is it (the artefact or process) new
+       and non-obvious merely ''because'' there is a computer program? Or
+       would it still be new and non-obvious in principle even if the
+       same decisions and commands could somehow be taken and issued by
+       a little man at a control panel, operating under the same rules?
+       For if the answer to the latter question is 'Yes' it becomes
+       apparent that the computer program is merely a tool, and the
+       invention is not about computer programming at all. It is about
+       better rules for governing an automatic pilot or better rules
+       for conducting the manufacture of canned soup.
+ 
+  105. Of course, if it were about better rules for running a business
+       the idea would not be patentable.
+ 
+== Weitere Kommentare von James Heald ==
+
+(Note that these are both High Court decisions -- ie routine patent case 
+decisions, not Appeal Court decisions.  But even High Court decisions 
+involving software patents are very very rare).
+
+The discussion of Art 52 EPC in Halliburton starts at paragraph 207.   
+The case didn't turn on Art 52: the judge principally threw out the 
+patent on the grounds of insufficient disclosure.
+
+Regarding Art 52, the judge held that the creation of a design for a 
+drill bit was a mental act as such; but creation of the design and 
+subsequently using it to make the drill bit was a technical process.
+
+This is very close to FFII thinking.  What was new was bringing in a new 
+principle to the creation of drill bits, namely balancing the forces to 
+reduce uneven wear, which had not previously been systematically 
+achieved before.  This is (literally!) a teaching about using the forces 
+of nature in a different way to that previously achieved, use of the 
+teaching defining a new distinctive characteristic of drill bits, which 
+identifies a new class of drill bits which correspond to the patent's 
+teaching.
+
+Ironically, it's therefore very analogous to 
+[[http://www.patent.gov.uk/about/ippd/issues/cii-workshops-case.htm|case study 11 in the UKPO workshops]] 
+which the UKPO criticised FFII's definition for, because most workshop 
+participants thought this application would be allowed under the FFII-UK 
+Forces of Nature definition, whereas the UKPO thought it should not..   It seems the High Court agrees with the participants!
+
+Where I think Judge Pumfrey is not right is his identification of Art 52 
+EPC as concretising the requirement for "susceptibility of industrial 
+application".   He's reading the words "inventions within the meaning of 
+paragraph 1" in Art 52(2) as equal to "inventions which are susceptible 
+of industrial application, which are new and which involve an inventive 
+step" in Art 52(1),  (ie "patentable inventions" ?),  rather than the 
+word "inventions" in Art 52(1) by itself.
+
+It's an interesting reading, but IMHO off the mark, because I think the 
+Art 52(2) test and the "susceptible of industrial application" test have 
+come to mean different things.   Instead I think the mainstream view 
+would be to read the classes in Art 52(2) as not inventions __even if__ 
+they are susceptible of industrial application.

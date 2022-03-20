@@ -1,0 +1,91 @@
+= 2004-08-04 DE Munich Mayor: Linux tender postponed due to risks from EU Council patent policy  =
+-->
+[ [:Limux040804De: deutsch]
+]
+[ [:LimuxEn: LiMux]
+| [:SwpatcninoEn: News]
+| [:SwpatStatEn: State & Swpat]
+| [:PatinsEn: Insurance]
+| [:ConsRevers04En: Council Reversal]
+]
+----
+
+== Original Messages  ==
+
+ * [http://www.muenchen.de/Rathaus/bb_dir/presse/2004/08/99502/limux_softwarepatent.html Munich City Council PR]
+ * [http://www.presseportal.de/story.htx?nr=582477 OTS submission of Florian Müller, MySQL]
+
+== English Language Media Echo ==
+
+ * [http://news.google.de/news?hl=en&q=Linux+Patents+Munich&btnG=Search+News Google Search]
+   * http://news.google.de/news?hl=en&ie=UTF-8&newsclusterurl=http://www.infoworld.com/article/04/08/04/HNmunichhalts_1.html
+
+ * 2004-09-30 [http://www.nwfusion.com/news/2004/0930municmigra.html NetworkWorldFusion: Munich migrates to Linux despite EU debate]
+ * 2004-09-29 [http://www.pcpro.co.uk/news/63981/city-of-munich-keeps-faith-with-linux.html PCPro: City of Munich keeps faith with Linux]
+ * [http://www.it-director.com/article.php?articleid=12168 IT Directors: Munich's IT migration back on course]
+ * [http://www.businessweek.com/technology/content/aug2004/tc20040813_1107_tc120.htm BusinessWeek: A Big Fly in the Open-Source Soup]
+ * [http://news.zdnet.co.uk/software/linuxunix/0,39020390,39163519,00.htm ZDNet UK: LiMux project moving again]
+ * [http://enterprise-linux-it.newsfactor.com/story.xhtml?story_title=Munich-To-Proceed-with-Linux-Switch&story_id=26305&category=opensrc Enterprise Linux I.T.: Munich To Proceed with Linux Switch]
+ * [http://www.computerweekly.com/articles/article.asp?liArticleID=132627&liArticleTypeID=1&liCategoryID=2&liChannelID=28&liFlavourID=1&sSearch=&nPage=1 ComputerWeekly.com: Munich delays Linux move by a "few weeks"]
+ * [http://p2pnet.net/story/2132 p2pnet.net: Munich re-thinks Linux]
+ * [http://www.businessweek.com/technology/content/aug2004/tc2004089_7009.htm BusinessWeek: Will Legal Fears Freeze the Penguin?]
+ * [http://www.arnnet.com.au/index.php/id;1086180809;fp;16;fpid;0 Australia Reseller News: Munich's Linux roll-out halted]
+ * [http://news.softpedia.com/news/2/2004/August/9174.shtml Softpedia.com: Munich Reconsiders Linux Migration]
+ * [http://www.eweek.com/article2/0,1759,1631252,00.asp eWeek/Broersma: Munich reconsiders Linux migration]
+ * [http://www.eweek.com/article2/0,1759,1631336,00.asp eweek/Vaughan-Nichols: Linux Companies Address IP Concerns]
+ * [http://linux.slashdot.org/linux/04/08/04/1233241.shtml?tid=163&tid=155&tid=218 Slashdot: city of linux freezes its linux migration]
+ * [http://www.dmeurope.com/default.asp?ArticleID=2499 DMEurope: software patent issues hinder Munich's Linux migration]
+ * [http://www.infoworld.com/article/04/08/04/HNmunichhalts_1.html Infoworld/Broersma: Munich's Linux rollout halted]
+
+== Outline ==
+
+The head of Munich city Data Processing Office, Wilhelm Hoegner, announced yesterday that a tender for the Linux base client would be put on hold until patent risks are clarified and a policy formulated.   The Linux migration project as a whole is however still progressing.
+
+Today at noon the municipal government issued a press release which Munich mayor Christian Ude was quoted as saying that Munich for the time being sticks to its Linux project but needs to assess risks before proceding with the tender.  The PR says: 
+
+original:
+
+  Nach Ansicht des Oberbürgermeisters kommt es jetzt vor allem
+  darauf an, dass sämtliche europäischen Kommunen und
+  Unternehmen, die an Open-Source elementar interessiert sind,
+  auf die Gremien der EU und die nationalen Regierungen
+  einwirken, mit dem Ziel, die vorgesehene Regelung nicht
+  europäisches Recht werden zu lassen. Dabei befinde man sich
+  in vollem Einklang mit einem Beschluss des Europäischen
+  Parlaments, "der wieder einmal von kleinen europäischen
+  Gremien im Interesse großer Konzerne ins Gegenteil verkehrt
+  werden soll".
+
+translation:
+
+  According to the view of the mayor it is now of paramount
+  importance that all european municipalities and companies that are
+  interested in open-source exert their influence on the EU
+  and the national governments lest the regulation become
+  European law.  In doing so, Munich sees itself in agreement
+  with a decision of the European Parliament, "which once
+  more is to be perverted into its opposite by small European
+  committees acting in the interest of big corporations."
+
+This is a reference to the [:Cons040518En: political agreement of the EU Council of May 18th], which was brought about by a maneuver of the representative of the German government in the Council and which has since then been under fire from within the governing coalition of Social Democrats and Greens as well as from the opposing [:SwpatfdpDe: Liberal Democratic Party].  The Munich city government is led by social democrats and greens, and Ude is a social democrat with high popularity ratings at a time where the social democrats are sinking to extremely low levels of popularity, partially due to the regular failure of party members such as justice minister [:BrigitteZypriesDe: Brigitte Zypries] to impose the party's will on the civil servants whom they pretend to be leading.
+
+== Comments ==
+
+[:HartmutPilchEn: Hartmut Pilch]:
+
+We were surprised by the announcement of Wilhelm Hoegner and the mayor.  I learnt from both only through the media.
+
+Yet I think their message is exactly to the point.
+
+Municipalities must assess the risk caused by software patents.
+[:SwpatStatEn: Some government authorities in Sweden and the UK have already seen themselves forced to litigate against frivolous software patent claims in order to retain their freedom to do basic day-to-day business].
+Interestingly, in these cases there was no Linux or free software involved.
+Yet, it can not be denied that solutions supplied by local !SMEs on the basis of free software, as envisaged by Munich's IT strategy, involve greater patent risks than a contract with a single big supplier such as IBM or Microsoft.
+In any case it is the normal procedure to try to assess the risk and insure it, be it through the supplier or through a separate insurance.
+[:OsrmEn: Recent estimates from the US] suggest that such a patent insurance could cost more than 100,000 eur per year.
+The costs would be very similar in Europe, if the Council's political agreement, for which the German government and other national governments have been fighting, became law.
+If, on the other hand, the European Parliament's version of the directive was adopted, the risk would drop to zero.
+
+It is a good exercise for municipal governments to estimate patent risks in terms of insurance costs, and it would be an even better exercise for national governments to start serious assessment of the effects of legislation.
+No such calculation has to date been made, in spite of regular calls from Brussels to do so -- not to speak of [http://swpat.ffii.org/analysis/cost/ calls from FFII to calculate the macro-economic costs of the various legislative options].
+The message from the Munich's mayor is therefore timely and should be heeded by other municipalities and governments, regardless of whether they plan to deploy free operating systems or not.

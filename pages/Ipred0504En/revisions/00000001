@@ -1,0 +1,64 @@
+## -*- dok: ipred0504; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= FFII: IPR Enforcement Directive implementation will equip software patentees with draconian powers =
+->
+[ [http://plone.ffii.org/events/2004/ipred/ IPRED 2004]
+| [:SwpatcninoEn: Patent News] 
+]
+----
+
+''The European Commission has issued a brief statement confirming that patents are covered by the scope of the "intellectual property rights Enforcement Directive". Measures such as Mareva injunctions (locking of bank accounts), Anton Piller orders (secret court authorisations of raids for evidence by the plaintiff's agents) etc. will significantly strengthen the position of patent owners vis a vis software users, developers and vendors.''
+
+== Meaning of the IPR Enforcement Directive for software patent infringers ==
+
+Already under current law, executives of companies risk penal sanctions if they have not duly researched on which patents their business might infringe.  Most software infringes on many granted European patents whose validity depends on the outcome of the European Parliament's Second Reading on the pending Software Patent Directive.  The Enforcement Directive is separate from this: it was adopted in 2004 and will enter into force at the national level, with or without national implementation, by 2006.
+
+Anton Piller orders are effectively green-lit under Article 7.
+(Seizure of evidence after an ex-parte hearing, without warning for
+the defendent).  The article doesn't mandate that the raids can be
+carried out by the plaintiff's own chosen private security people; but
+this is the UK practice, and it is a model other countries may well
+follow (allows the plaintiff to take rapid action, with minimal cost
+overhead or regulation for the state).
+
+Orders for the blocking of bank accounts (Mareva orders), again on the
+basis of ex-parte hearings, ie without necessarily hearing the
+defendants' side of the story, are mandated in Article 9.2
+
+During the "trialog" negotiations between group leaders in the European Parliament and representatives of the Council of Ministers that lead to the adoption of the directive in 2004, the question of whether the draconian new powers should apply to patents as well was highly controversial.  In the end, patents were put back in after certain provisions concerning penal sanctions had been taken out.
+
+The new statement of the Commission further confirmed that patents are to be treated as an "intellectual property right" within the scope of this directive.
+
+== Statement by the European Commission ==
+
+Statement concerning Article 2 of Directive 2004/48/EC of the European Parliament and of the Council on the
+enforcement of intellectual property rights (2005/295/EC)
+
+Directive 2004/48/EC of the European Parliament and of the Council of 29 April 2004 on the enforcement
+of intellectual property rights states in Article 2(1) that the Directive applies to any infringement of
+intellectual property rights as provided for by Community law and/or by the national law of the Member
+State concerned.
+The Commission considers that at least the following intellectual property rights are covered by the scope of
+the Directive:
+ * copyright,
+ * rights related to copyright,
+ * sui generis right of a database maker,
+ * rights of the creator of the topographies of a semiconductor product,
+ * trademark rights,
+ * design rights,
+ * patent rights, including rights derived from supplementary protection certificates,
+ * geographical indications,
+ * utility model rights,
+ * plant variety rights,
+ * trade names, in so far as these are protected as exclusive property rights in the national law concerned.
+
+Source: http://europa.eu.int/eur-lex/lex/LexUriServ/site/en/oj/2005/l_094/l_09420050413en00370037.pdf
+
+== Directive  ==
+
+ * http://europa.eu.int/eur-lex/pri/en/oj/dat/2004/l_195/l_19520040602en00160025.pdf
+   * Anton Piller orders Article 7
+   * Mareva injunctions Article 9.2 
+
+==  Further recommended readings  ==
+
+2005-04-15 UK [http://www.out-law.com/php/page.php?page_id=commissionclarifies1113564404&area=news Outlaw: Commission clarifies Enforcement Directive]

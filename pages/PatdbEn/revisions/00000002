@@ -1,0 +1,36 @@
+= FFII Patent Database Project ("Gauss") =
+-->
+[ [[FfiiprojEn| Projects]]
+]
+----
+{{http://genba.ffii.org/~arebenti/banner/GaussEn.png}}
+
+== News & Chronology ==
+
+ * 2004-11-10 Successful Gauss presentation at Brussels Conference
+ * 2004-11    [[http://gauss.ffii.org|new machine gauss.ffii.org]]
+ * 2004-08-13 Arebenti creates Banner for Gauss
+ * 2004-07-13 phm: problems downloading [[http://swpat.ffii.org/pikta/txt/ep/0122/094/|ampex patent EP0122094]] with 'epatmake cwd'
+ * 2004-07: [[http://gauss.bacon.su.se|Carsten Svaneborg's swpat database]] increasingly powerful
+ * 2003-2004: new software probability tool based on Bayesian calculus created by Carsten Svaneborg
+ * 2001-2003: improvements, creation of postgres database on all EPO patents, download and textualisation of swpat pdf graphics etc, using a set of perl and scsh scripts developped by phm and freimann 
+ * 2000: basic database and software probability tool swprob created by Arnim Rupp, published as [[http://swpat.ffii.org/patents/|EPO software patent horror gallery]]
+
+== Participants ==
+
+ * Adrian Lozano (alozano), Jonas Bosson (jbosson), Carsten Svaneborg (svanebor), Jens Freimann (freimann), Hartmut Pilch (phm), Erik Josefsson (erjos) 
+ * [[http://lists.ffii.org/mailman/listinfo/patdb-parl/|mailing list]]
+
+== Tasks  ==
+
+ * document the existing tools and working environment on kwiki
+ * integrate patassassin and other new tools with existing scripts, give those who work on it access to genba
+ * create lists of patents for special fields (e.g. automobile software, telco software)
+ * create variants of the webshop poster for these special fields
+ * talk to supporting companies (cf [[SarjiEn| SARJI]]) about their patent information needs, offer patent analysis of their field as special service
+
+== More Info ==
+
+see [[http://plone.ffii.org/patdb/|plone page]]
+
+Trivia: Gauss is the server name it was installed first (gauss.bacon.su.se).

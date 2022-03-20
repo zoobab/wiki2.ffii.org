@@ -1,0 +1,58 @@
+= Spiegel.de entzückt von Quacksalbermarketing: Die Programmiermaschine =
+--> [:SwpatcninoDe: Neues]
+----
+
+Spiegel.de ist begeistert von einer "Programmiermaschine", die Programmieren revolutionieren solle und Programmierer arbeitslos mache. Dabei handelt es sich um das Produkt !OliviaNova von Care Technologies.
+
+Diese "ibero-badische Effizienzoffensive" sei Beispiel einer "breiten Bewegung", die zum Ziel habe die "kryptische Maschinensprache mehr und mehr durch verständlichere und modulartige Ablaufdiagramme" zu substitutieren. 
+
+ * [http://www.spiegel.de/spiegel/0,1518,303056,00.html Spiegel-Artikel]
+ * [http://www.caretechnologies.de/technology/doc/OOMethod.pdf Prof. Pastors White paper] 
+
+== Kommentare ==
+
+=== Hartmut Pilch (FFII) ===
+
+Auch die VDI-Nachrichten berichteten kürzlich von der gleichen Marketing-Offensive und erwähnten dabei noch, dass
+Professor Pastor sein System patentiert habe.  Ferner wurde die Arbeit des Programmierers als unkreative Routinearbeit
+dargestellt, die es nun zu industrialisieren gelte.  Zum Teil zeigten sich darin möglicherweise alte Utopien von der
+Überwindung des Programmierens und Industrialisierung der Informatik, wie sie bei Vorstandsmitgliedern
+der [:SwpatgievDe: Gesellschaft für Informatik] gelegentlich zur Rechtfertigung von Softwarepatenten angeführt werden.
+
+Übersehen wird bei all diesen Vorstellungen, dass die Programmierung selbst die mächtigsten Mechanismen der Abstraktion bereit stellt und dabei ständig alle Routinearbeit eliminiert.  Fast niemand schreibt in "kryptischer Maschinensprache".  Die üblichen Programmiersprachen sind in ihrer Abstraktionskraft
+mächtiger als alle zweidimensionalen Bildersprachen, aus denen Programmtext erzeugt werden könnte.  Es kann wohl hier und da wirtschaftlich interessant sein, mehr Menschen zum Programmieren zu bringen, indem man ihnen per Bildersprache den Zugang ermöglicht.  Ebenso interessant könnte es sein, mehr Menschen zum Schreiben von Fachartikeln zu bringen, indem man ihnen eine Bildersprache zum Anklicken auf den Bildschirm bringt.   Doch würde der Spiegel die dabei entstehenden Texte abdrucken?
+
+Der vorliegende Fall zeigt noch einmal deutlich, wie wenig Verständnis für die Kulturtechnik des Programmierens bisher in den Massenmedien vorhanden ist.  Nur auf der Grundlage dieses weit verbreiteten Unverständnisses können diverse Vorschläge zu "computer-implementierten Erfindungen", "Programmen nicht als solchen sondern mit technischem Effekt" usw ernst genommen werden.  Für uns ist noch sehr viel Aufklärungsarbeit zu leisten.
+
+=== André Rebentisch (FFII) ===
+
+Eine "Maschine" ist es nicht, doch schon N. Wirth hatte Programmieren mit dem Bau einer solchen verglichen. Es gibt seit Jahren Case-Tools, die Entwicklungen in bestimmten Bereichen unterstützen. Hier ist Spiegel Online auf die sehr blumige PR reingefallen und hat offensichtlich vorher keinen Experten mit Marktkenntnis konsultiert. Trotz aller konzeptionellen Begeisterung für die Idee sind derartige Systeme doch in der Regel eher beschränkt.
+
+"Das Prinzip ist einfach: Zunächst werden die Kunden in einem zweitägigen Einführungsseminar in das System eingeführt. Dabei lernen sie, ihre konkreten Wünsche mit Hilfe von Ablaufdiagrammen zu formulieren, die festlegen, was das Programm können muss."
+
+Ablaufdiagramme sind nur beschränkt geeignet zur Formulierung von Computerprogrammen und erfordern in der Regel einen sehr hohen Aufwand. In einer konzeptionellen Phase können Diagramme gemalt werden, für didaktische Zwecke sind sie gut geeignet, zur Vereinbarung und Konzeption auch. Aber nur konventionelle Probleme können mit diesen Sprachen beschrieben werden. Es gibt schon lange Case-Tools, die Diagramme direkt in Software umsetzen. Meist ist der Erfolg eher bescheiden. Letzten Endes sind Diagramme nur eine andere "Programmiersprache".
+
+"Mit diesen Vorgaben wird ein leistungsstarker Computer in Valencia gefüttert. Nach ein paar Stunden spuckt der Rechner sodann eine fertige Software aus, die er aus legosteinartig vorgefertigten Codeblöcken zusammengesetzt hat."
+
+Rechenzeiten von mehreren Stunde klingen nicht besonders attraktiv und so einfach geht es leider nicht. Programmgeneratoren sind nichts Neues. Erfolgreich gibt es sie beispielsweise im Bereich der Datenbanken und der Webentwicklung (Homepagegeneratoren, Coursebuilder u.a.). Meist zeigen sich aber für den professionellen Einsatz schnell Grenzen auf.
+
+"Die Entwicklungszeit von Software werde durch die Programmiermaschine auf über die Hälfte reduziert, die Fehlerrate auf rund ein Sechstel - das zumindest bescheinigen die Analysten der Firma Gartner."
+
+Derartige Software hat einen sehr beschränkten Anwendungsbereich, mit den Stimmen von Analysten sollte man im allgemeinen vorsichtig sein. Das lehrt die Erfahrung.
+
+"Für den Programmiermaschinisten Pastor ist seine Erfindung daher nur ein Zwischenschritt: "In zehn Jahren kann ein Geschäftsmann vielleicht ohne Einarbeitung einfach seine Anforderungen in ein Mikrofon diktieren - und schon wird sein persönliches Programm ausgeworfen." 
+
+Eine wirklich nette Vision, die Leute überzeugen mag, die sich mit Software-Entwicklung nicht auskennen. Auch Microsoft wird nicht in den Markt der Modellierungstools einsteigen, sie sind schon lange drin. [http://www.caretechnologies.de/technology/doc/OOMethod.pdf Prof. Pastors White paper] ist eklektisch. 
+
+
+=== Marcus Brinkmann (Entwickler) ===
+
+Im Artikel steht: "Über acht Jahre und eine halbe Million Ingenieurstunden investierte das Team in die Entwicklungsarbeit".  Compiler werden oft in ihrer eigenen Sprache umgeschrieben, sobald eine erste Version existiert.  Der [http://www.caretechnologies.de/technology/gartner.html Gartner Group Benchmark] stellt eine 12- bis 47-mal schnellere Entwicklungszeit mit dem System fest.  Das ONMES muesste also in 2 bis 8 Monaten mit 10.000-42.000 Ingenieurstunden in sich selbst von Grund auf entwickelt werden koennen - mit einer weit geringeren Fehlerquote als beim ersten Mal.  Wir duerfen gespannt sein, ob sich caretechnologie dieses kleinen Wunders annimmt, oder ob es nicht lieber doch bei "archaischer Manufakturarbeit" bleibt.
+
+Die "Legobausteine", mit denen ONMES arbeitet, muessen halt auch entwickelt und programmiert werden.  Dabei wird man sich aus Performance-Gruenden nicht allein auf einge wenige fundamentale Bausteine beschraenken koennen.  Und die Betriebssysteme und Compiler, auf denen ONMES aufbaut, kann auch keiner aus einem Hut zaubern.
+
+Es gibt nicht das eine System, das fuer alle Aufgaben geeignet ist.  Um bei dem Bild zu bleiben, das der Spiegel bemueht: Nicht alle Dichter und Lyriker finden, dass sie ihre Gedanken in Esperanto am besten ausdruecken koennen.  Bei der "babylonischen Sprachverwirrung" handelt es sich um alles andere als eine Verwirrung: Die Vielzahl der Computersprachen entspricht dem Bestreben der Programmierer, fuer jede Aufgabe adaequate Ausdrucksmoeglichkeiten zu schaffen.  Bei der Vielzahl an Aufgaben, fuer die ein Computer einsetzbar ist, gibt es auch eine Vielzahl von Ansaetzen, die unterschiedlich gut geeignet sind, um die jeweilige Aufgabe zu loesen.
+
+Konkret geht es oft um ein Abwaegen von Geschwindigkeit, einfacher Benutzung, Sicherheit und Kosten.  Systeme wie OMNES, sofern sie ueberhaupt zur Loesung taugen, haben oft eine einfache Benutzung und geringe Kosten, koennen aber in der Geschwindigkeit Nachteile haben.  Fuer eine Sicherheitsanalyse sind sie jedoch ueberhaupt nicht geeignet.  In diese Betrachtungen sind rein praktische Erwaegungen wie Zukunftssicherheit ("wird mein Programm noch auf Computern in 10 Jahren laufen?") gar nicht enthalten - bei einer rein proprietaeren Loesung, bei der alles in der Hand einer kleinen Firma liegt, ist hier das Risiko als besonders hoch einzustufen.
+
+Vielleicht ist die Arbeit des Programmierers am besten vergleichbar mit der Arbeit des Architekten - auch er kann sich bekannter Bausteine bedienen, um seine Konstruktion auszufuehren.  Niemand kommt jedoch auf die Idee, dass ein Bauherr einfach seine Wuensche in eine Mikrofon sprechen koennte, und dann ein Computer die fertigen Blaupausen aus dem Drucker spuckt.  Die Vorstellung (das dies fuer alle wie auch immer geartete Bauvorhaben moeglich waere) ist absurd, und genauso ist die Vorstellung absurd, dass Automatisierung von Programmierarbeiten die Arbeit des Programmierers ueberfluessig macht.

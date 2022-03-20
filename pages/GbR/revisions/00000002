@@ -1,0 +1,1 @@
+Gesellschaft buergerlichen Rechts = civil law association

@@ -1,0 +1,29 @@
+## -*- dok: webstyl; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## keywords: usability, web design, FFII
+= FFII Web Design and Web Workflow =
+-> 
+[ [[FfiiprojEn| Projects]]
+| [[FfiiprojPriorEn| Priorities]]
+| [[FfiiPortalEn| Portal]]
+| [[AktivEn| Aktiv]]
+| [[MlhtEn| MLHT]]
+| [[FfiiFrontEn| Managing the Frontpages]]
+| [[FfiiprojNewsEn| ProjectNews]]
+]
+----
+
+There is a lot to improve in the design of FFII webpages and in the methods for producing them.
+
+== Tasks ==
+
+ * design better portal pages to replace www.ffii.org with it
+   * ronan at ffii org has offered to design one, [[http://lists.ffii.org/mailman/listinfo/webstyl-parl/|webstyl-parl]] is to discuss
+ * document the CSS id and class tags, encourage their use independently of the mlht system ([[http://www.ffii.org/~arebenti/css/newwdemo.htm|Demo of the FFII CSS file]])
+ * only a few very well maintained multilingual entry pages which always contain the most important info for newcomers and pointers to deeper info on outside pages such as swpat.ffii.org, kwiki.ffii.org, ffii.org.uk, ffii.org.pl, ffii.be etc
+ * perhaps some money has to be spent to assure good maintenance of the few portal pages
+ * should use something like [[http://zope.org/Members/nuxeo/Products/CPS3|CPS3]] or [[http://www.plone.org|Plone]] so that volunteers can participate in maintenance
+
+== Hints to Ressources ==
+
+ * for more flags http://www.sodipodi.com/index.php3?section=clipart/flags
+  --> do we have a version of th Eurolinux-Flag we can contribute to theis project?

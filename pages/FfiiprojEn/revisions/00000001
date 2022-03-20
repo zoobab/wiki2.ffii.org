@@ -1,0 +1,97 @@
+## -*- dok: Ffiiproj; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## title: FFII Projects and project managment
+-> 
+[ [:FfiiprojDe: deutsch]
+]
+[ [:FfiiprojPriorEn: Priorities]
+| [:FfiiprojPartEn: Participate]
+| [:FfiiprojDonEn: Donate]
+| [:FfiiprojKreEn: Project Creation]
+| [:FfiiprojNewsEn: Project News]
+| [:SwpatcninoEn: Patent News]
+]
+----
+
+''What is FFII currently doing and how can I help?  We try to lower the entry barrier.''
+
+== Introductions ==
+
+ * [http://demo.ffii.org/getactive.php demo.ffii.org: Get Active!]
+ * [http://aktiv.ffii.org/ aktiv.ffii.org: FFII participation system] (includes signup for projects)
+ * [http://fora.ffii.org/ fora.ffii.org access to project news & discussion fora] (news reader)
+ * [http://www.ffii.org/phppgadmin/ Postgres administration tool]
+ * [:SwpatgunkaEn: How to Help (in general)]
+ * [:FfiiprojPriorEn: Current Priorities]
+ * [:FfiiprojPartEn: How to Participate in FFII projects]
+ * [:FfiiprojKreEn: How to Create an FFII project]
+ * [:FfiiprojDonEn: Financing Needs and Donations]
+
+== Easy tasks ==
+
+ * translate webshop.ffii.org to Dutch, Danish, Spanish, Italian and so forth
+
+== Event-related Projects ==
+
+ * [:Plen05En: Provide guidance to EP on amending the Council Proposal]
+ * [:Eu0307En: Investigate & Commemorate Banana Union Day]
+ * [:Konf0506En: Prepare Conference]
+ * organise [:Nsp050330En: transfer of NSP website]
+ * SwpatxatraEn: Formulate and collect letters and letter templates ([http://kwiki.ffii.org/index.cgi?SwpatxatraDe German version])
+ * Contribute to [:FfiiKonsultEn: upcoming EU consultations]
+ * Also see the above-mentioned [:FfiiprojPriorEn: Priorities] (really!)
+ * EuroOmbudsmanEn: Compile a complaint file to be submitted to the Euro-Ombudsman and similar institutions
+ * MepdbEn: Improve MEP database, MepQ0405En formulate questions to be put to !MEPs, MepV0405En campaign for simple pledge to be supported by !MEPs
+
+== Infrastructure-related ==
+
+ * PolisEn: Improve data processing infrastructure at FFII ;), related: AktivEn Implement project subscription and funding system in aktiv.ffii.org; [:SpamcopEn: Dealing with Spamcop], [:FfiiQaEn: FFII Quality Assurance]
+ * SarjiEn: Regularly communicate with our corporate supporters
+ * MediaEn: Regularly communicate with media 
+ * TradukEn: Translations
+ * [:PatdbEn: patdb]: [http://plone.ffii.org/patdb/ Patent database]
+   * [http://gauss.ffii.org/ Gauss]
+   * Evaluate patent portfolios of Companies like [:SwpatphilipsEn: Philips], Siemens: How may trivial swpat do they have, how may '''real''' invention patents
+ * [:FfiifinancEn: financ]: FFII Finances
+ * [:FfiiRegioEn: regio]: formation of FFII regional groups
+ * [http://www.ffii.org/proj/enisa/ European Network and Information Security Agency ENISA]
+   * Large mailing list (400 participants) but nobody actively taking up the subject of watching ENISA
+ * [:LobbyEn: Training lobbyists]
+ * [http://europa.eu.int/comm/civil_society/coneccs/listedomaine2.cfm?CL=de Get in touch with other Lobby organisations in Brussels that did not take position yet, advertisers, youth initiatives ecc. (links to EU database)]
+ * [:SwpatjarcoEn: Webdemo infrastructure], help with http://demo.ffii.org, please contact uhlmann att ffii org   
+
+== Knowledge-related ==
+
+ * SektorEn: Monitor the economics of the software sector
+   * SektorCountEn: Collect knowledge about member states economy, especially regarding the Software sector and innovation
+
+== Help for helpers ==
+
+ * proj-help at ffii org 
+ * [http://kwiki.ffii.org/index.cgi?IrcEn irc]
+
+ * [:SwpatjarcoEn: Webdemo infrastructure], help with http://demo.ffii.org, please contact uhlmann att ffii org
+
+== Project managment software ==
+
+ * [http://www.atlassian.com/software/jira/ JIRA]
+
+== Work finished, for documentatnion of activities and yearly report: ==
+
+ * CecDrm0406En: Participate in CEC consultation on DRM
+ * [http://www.ffii.org/proj/euipd/ EUIPD EU IP Enforcement Directive Proposal COM (2003) 46(01):]
+ * local activities [http://www.miciudadreal.com Ciudad Real], [:DemoLund0405Sv: Lund], [:DemoBarcelona040529Es: Barcelona], [:DemoLisboa040529Pt: Lisboa],  [:MiniDemoBerlin0405De: Berlin], [:WorkshopPatra040529En: Patras], [:DemoParis040529Fr: Paris]
+ * SwpDemo0405En [http://swpat.ffii.org/events/2004/demo05 Events after Day of Europe (May 9th)]
+   * RMS Tour: http://plone.ffii.org/events/2004/tours/ 
+   * MiniDemo0405En some work needed to make them happen
+   * SwpatjarcoEn: Accompanying Net"strike"
+   * update http://demo.ffii.org/ and http://swpat.ffii.org/group/demo/ sites
+   * adapt netstrike pages
+ * Documentation of 2004-04-14 conference
+   * "Debrief" Press release draft, please review
+     * [:Bxl44DebriefFr: French] http://buy-propecia-online.8m.com
+     * [:Bxl44DebriefEn: English] (enhanced by phm)
+     * procedings (something done by Jonas)
+ * ConsFaq0404En: create an FAQ for politicians on Council working paper
+ * SmeEnvoyEn Writing a letter to the SME Envoy might be a good idea. Rui is taking a look into it
+ * [:Mepak0407En: MEP Welcome Pack]
+ * SwpTest0411En: Prepare november conference, collect questions to be studied, invite people etc

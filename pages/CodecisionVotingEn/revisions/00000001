@@ -1,0 +1,1005 @@
+## -*- dok: CodecisionVoting; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## version: 0.91.1
+## datum: 2005-03-06
+## status: This should be completely rewritten (shortened to the core points) or maybe it's even obsolete now since there's much detailed information on the web available now. At least all links need to be updated.
+
+= Voting Rules in The EU's Co-Decision Procedure =
+->
+[ [:EuDemocracyEn: EU Democracy]
+]
+----
+
+A collection of documents and quotes that help explain by which rules decisions are taken on the software patent directive and other legislative projects under the co-decision procedure.
+
+
+ Document:      CodecisionVotingEn
+ Version:       0.91.1
+ Modified last: 2005-03-06
+
+ Status:     This should be completely rewritten (shortened to the core points). 
+             Maybe it's even obsolete now since there's much detailed information
+             on the web available now. At least all links need to be updated.
+
+
+
+Everybody feel free to enhance this document ! 
+Please note this text is started as a collection of quoted texts.
+It must be clear what is a quote and what is a comment:
+
+ *    Quotes are marked ---> (text inbetween) <---  with the (number) of the source attached.
+ *    ### is marker for (personal) comments
+ *    XXX: = 'To do' marker
+
+I'd be glad if someone likes to do more kwiki formatting, i just can't do more at this time, sorry.
+
+
+=== __________________________________________________________________________ ===
+
+== Interactions of EP, EC and Council:  ==
+= Codesision Rules, Voting Weights and Treatiy Sources. =
+
+
+=== __________________________________________________________________________ ===
+
+
+
+=== New: Since 26.11.2004 there's a Codecision Site on the Commission server ===
+
+http://europa.eu.int/comm/codecision/stepbystep/index_en.htm
+
+=== Flowcharts: ===
+
+There's a flowchart of the codecision process at
+
+http://europa.eu.int/comm/codecision/stepbystep/index_en.htm
+
+and a scalable print poster at CodecisionPosterEn.
+
+
+=== __________________________________________________________________________ ===
+
+
+Contents:
+
+== Part I:   Codecision Rules ==
+== Part II:  Majority Calculation ==
+== Part III: Seats in the EP and voting weights in the Council ==
+== Part IV:  The Treaty of the European Community ==
+
+( EP = Europarlament; Council = The Council of Ministers of the European Union )
+
+
+
+Sources:
+----
+
+
+(1) '''EUR-LEX:''' Legislative Process  (contains some rather simple flowcharts)
+http://europa.eu.int/eur-lex/en/about/abc/abc_21.html
+
+(2) '''The Council of the European Union's Codecision-Guide'''
+http://ue.eu.int/cms3_fo/showPage.asp?lang=en
+
+#### Figures are outdated (pre Nice) ! 
+
+XXX: Exchange quotes and remove this comment if they update for Nice 2004-11.
+
+(3) '''The Treaty of Nice''' (in force since 2003-02-01) -> Consolidated in (4)
+http://europa.eu.int/eur-lex/en/treaties/dat/nice_treaty_en.pdf
+
+(4) '''TREATY ESTABLISHING THE EUROPEAN COMMUNITY''' (consolidated with Nice and Accession)
+http://europa.eu.int/eur-lex/en/search/search_treaties.html
+
+(5) '''The Treaty of Accession''' (signed in Athens 2003, into force 2004-05-01)
+http://europa.eu.int/comm/enlargement/negotiations/treaty_of_accession_2003/index.htm
+This Treaty 'amendents' the Nice Treaty with then determined figures.
+
+(6) '''SCADPLUS''' Glossary
+http://europa.eu.int/scadplus/leg/en/cig/g4000c.htm#c4
+
+(7) '''euireland:''' Enlargement and institutional changes
+http://www.euireland.ie/news/enlargement/0304/institutionalchanges.htm
+
+(8) '''orgalime:''' Enlargement and the acceding states
+http://www.orgalime.org/positions/positions.htm?http%3A//www.orgalime.org/positions/enlargement.htm%23annex2
+
+(9) The '''Europarl''' Conciliation page
+http://www.europarl.eu.int/code/information/what_is_en.htm
+
+
+The '''Council-Guide''': 
+
+(10-1) Vol. I: '''Presidency'''
+http://www.msa.lt/doc/council_guides_vol_1.pdf
+
+(10-2) Vol. II: '''Rules of procedure'''
+http://www.msa.lt/doc/council_guides_vol_2.pdf
+
+(10-3) Vol. III: '''Delegates'''
+http://www.msa.lt/doc/council_guides_vol_3.pdf
+
+(10-4) Vol. IV: '''Codecision Guide'''  (same as (2))
+http://www.msa.lt/doc/council_guides_vol_4.pdf 
+
+() An good and reliable summary exists at http://patents.caliu.info/codecisio.en.html
+
+() Usually up to date information can be found on http://en.wikipedia.org.
+
+()
+
+
+== Part I: Codecision Rules ==
+----
+
+---> (1) EUR-LEX: Short summary.
+
+First reading: 
+----
+The starting point is a Commission proposal that is sent to the Council, Parliament and any 
+committees to be consulted. Parliament takes its first reading and sends its opinion to the
+Council. The Economic and Social Committee and the Committee of the Regions are also given an
+opportunity to set out their position at this stage.
+If Parliament does not make any amendments to the Commission's proposal, or the Commission accepts
+all amendments proposed by Parliament, the instrument may be adopted at this stage.
+Otherwise, a second reading before Parliament is required.
+
+On the basis of the Commission's proposal and Parliament's and the committees' opinions and its own
+deliberations, the Council adopts a common position by a qualified majority. 
+
+Second reading EP:
+----
+The common position is then sent to Parliament for its second reading.
+Parliament now has three months in which to do one of three things:
+
+1. If it accepts the Council's common position or gives no response within three months, the instrument is deemed to have been adopted as set out in the common position.
+
+####: There's no majority needed. If EP can't reject or amend, it's adopted.
+
+2. If it rejects the common position outright (for which an absolute majority of MEP would be required), the legislative process is at an end. The Council no longer has the option of convening the Conciliation Committee.
+
+3. If it makes amendments to the Council's common position, the following procedure is then used:
+
+####: voting majority = AM.
+
+
+Second reading Council:
+----
+The Council first of all has the opportunity to adopt the common position as amended by Parliament, in which case all the proposed changes must be accepted. If, however, the Council rejects certain amendments or the majority needed for their adoption cannot be obtained (e.g. unanimity in the event that the Commission rejects Parliament's proposed amendments), then the President of the Council, acting in consultation with the President of the Parliament, must within six weeks convene a Conciliation Committee consisting of 15 representatives each from the Council and Parliament to consider the Council's common position in the light of Parliament's proposed amendments.
+
+#### It's 25 representatives now, since 2004-11.
+
+The aim is to achieve a workable compromise which can be adopted by the required majorities in the Council and Parliament. 
+<--- (1)
+
+
+---> (2) Codecision Guide: Second Council reading:
+The time limit for the second Council reading starts to run from the official receipt of the amendments resulting from the second European Parliament reading.
+
+#### the time limit is 3 (+ 1) months 
+
+The Council may accept or reject these amendments (1):
+
+(a) Amendments accepted (the Council acts by qualified majority or unanimously, depending on the subject matter, and always unanimously if the amendments were the subject of a negative opinion from the Commission) -- act deemed to have been adopted.
+
+If the Council agrees to accept all the amendments, the act is deemed to have been adopted in the form of the common position thus amended. The legislative text (LEX PE-CONS document) is then submitted directly for the signature of the Presidents and Secretaries-General of the European Parliament and of the Council and published in the Official Journal.
+
+(b) Not all amendments are accepted -- convening of the Conciliation Committee.
+
+#### This is an Original Document Footnote:
+
+Before deciding whether or not to accept the European Parliament amendments, the Commission's opinion on them must have been referred to the Council. 
+The Commission encloses a modified proposal with its opinion; the Council disputes this practice.
+<--- (2)
+
+
+#### This footnote rises questions. Here's a comment from Anonymous Coward:
+--->
+"I guess we have seen in practice that the commission does propose new amendments on the fly in Council sessions (see the transcript/recording of the 2004.5.18 competitiveness council). I guess the trick is to say: "The council can vote any amendments they want, but the commission would agree if they pass this and that, and if the Comission does not agree, the Council needs unanimity". (..) If CEC says what it will endorse some amendements (formally or not, with a draft put to vote, or with a comment in a corridor), council knows that it is very difficult to oppose.)"
+<---
+
+
+
+Some details of the Council Procedures:
+----
+
+#### The Commission plays an important role in the Council:
+
+---> (10-2)
+In cases where adoption of an act is subject to a proposal from the Commission, at some stage in the procedure the Commission may be unable to agree to the amendments made to its proposal by the Council. This situation changes the Council's voting rules because, under Article 250(1) of the TEC, the Council must act unanimously if it wishes to adopt an act constituting an amendment to the Commission proposal. In practice, therefore, the Council votes only when the Commission has clearly adopted a position on any amendment of its proposal.
+<--- (10-2)
+
+#### A-Items are adopted en masse, without discussion.
+#### B-Items are discussed and may be relaunched as A-Item on another council agenda. 
+#### Discussion of the `B' items:
+
+---> (10-3)
+Discussions may be of several types:
+ * Discussions with a view to a decision, when negotiations may be initiated to overcome the final obstacles to an agreement (agreement on a legislative text, a resolution, a statement, negotiating directives, etc.). By and large, agreement is recorded on the substance of a legislative act (political agreement), but it is not adopted, since this is done subsequently when it becomes an `A' item (after the requisite alignment of the texts in all the official EU languages by the Council's legal/linguistic experts).
+(...)
+'''The Presidency may, where it deems fit, particularly in the event of a long-standing stalemate, draw up a compromise on a specific aspect or on a whole text. It may happen that such a compromise is also presented as part of a package deal covering several texts (1) under discussion. Such ompromises may also be tabled in Coreper or in the working party.'''
+(...)
+After the discussion, the President draws the conclusions which may be reduced
+to three main cases: agreement, referral back or a vote:
+
+ * in the event of agreement (either unanimous or by the majority required under the Treaty), the text is deemed to be approved unless it still has to appear as an `A' item at a subsequent Council meeting for adoption after legal/linguistic alignment; ### if the text was modified
+
+ * in the event of a referral, it is customary for the President to give some indications as to the procedure for subsequent proceedings, outlining the main points under discussion and stressing the potential solutions to which delegations are asked to give further consideration;
+
+ * in the event of a vote, the following rules apply:
+It should be noted that voting on a legislative act may not take place, except on grounds of urgency, before the six-week time limit (between presentation of the proposal or draft act and voting) necessary for the examination of the text by national parliaments has expired (see above, `entering items on the agenda'). The rules for voting in the Council are determined in Article 205 TEC and explained in Articles 11 and 12 CRP. The `Comments on the Council's Rules of Procedure', Part II of this Council Guide, explains the voting rules in the light of various procedures.
+
+The different kinds of vote are as follows:
+
+-- Simple majority voting: although this is presented as the norm in Article 205 TEC, in fact it applies only in limited instances (1), in the absence of details as to any other voting arrangements to be used and for procedural decisions (Articles 23(3) and 34(4) TEU).
+
+-- Qualified majority voting has become the most common voting rule in the Community field.
+For adoption by a qualified majority, each vote is weighted as follows: ### See Chapter III.
+<--- (10-3)
+
+
+
+The Conciliation Committee 
+----
+
+---> (9) Europarl Conciliation page:
+
+Conciliation is the third and final phase of the most important of the legislative procedures of the European Union, the codecision procedure. The Conciliation procedure always applies if Council does not approve all the amendments of the European Parliament adopted at its second reading.
+
+The Conciliation Committee is made up of 25 Members of the Council or their representatives and an equal number of representatives from Parliament who make up the EP delegation.
+Inside the European Parliament the 25 members of the EP delegation in the Conciliation Committee are appointed for each individual conciliation procedure by the political groups. The composition of the delegations reflects the overall political balance of the Parliament.
+Three Vice-Presidents are appointed as permanent members of the delegation. The chair of the competent committee and the rapporteur are also appointed ex officio.
+The Conciliation Committe has to be convened within 6 weeks (which may be extended by two weeks on the initiative of either institution) after the Council's second reading. The Committee has 6 (or 8) weeks to draw up a 'joint text' from the date of its first meeting.
+Again with a period of 6 (or 8) weeks, the joint text is submitted by the Presidents of the EP and Council delegations for approval by the Parliament and the Council, without any possibility of amendment. If, on the other hand, the Conciliation Committee does not reach an agreement or if the 'joint text' is not approved by the Parliament or the Council, the act is deemed not to have been adopted. 
+The main provisions are to be found in Article 251 (3-7) of the EC Treaty. In addition to the Treaty articles, basic rules for the conciliation procedure can be found in the Joint Declaration of the European Parliament, the Council and the Commission, of May 1999, which lays down practical arrangements for the codecision procedure and in the Rules of Procedure of the European Parliament (Rules 81-82-83). 
+<--- (9)
+
+#### See http://www.europarl.eu.int/code/default_en.htm for more related stuff. 
+
+#### Compare to: 
+
+---> (2) The Codecision Guide (outdated figures):
+
+The Committee is chaired jointly by a Vice-President of the European Parliament and by a minister of the Member State holding the Presidency. The European Parliament delegation consists of 15 members and 15 substitutes (the latter without a right to vote except in the absence of a member of their political group). Three Vice-Presidents of the European Parliament are permanent members of the Conciliation Committee and take turns to co-chair it. The other 12 MEP in the delegation are appointed by political groups. The great majority belong to the parliamentary committee responsible for the matter. The Council delegation consists of the members of the Council or their representatives. As a general rule, it is made up of the representatives of the Member States within COREPER. 
+In most cases, the European Parliament delegation tries to reach a consensus in its discussions.
+In the case of a vote, which may take place at any stage of the conciliation, including for questions of procedure, decisions are taken by a minimum of eight votes in favour.
+
+#### Since Nice 2004-11 it's 2 x 25 delegates and a minimum of 13.
+
+The Commission, represented in principle by the Commissioner responsible for the matter, takes part in the Conciliation Committee's proceedings and takes all the necessary initiatives with a view to reconciling the positions of the European Parliament and the Council. Such initiatives may include, inter alia, draft compromise texts reflecting the positions of the Council and the European Parliament, with due regard to the role conferred upon the Commission by the Treaty.
+The Commission's position has no influence, however, on the majority rules for the adoption of the joint text by the Conciliation Committee:
+Qualified majority within the Council delegation (unanimity where the Treaty specifies an exception to the qualified majority rule) and simple majority within the European Parliament delegation.
+The Commission's right of initiative therefore plays no role in the conciliation phase (see Article 250 of the Treaty). 
+Immediately before the meeting of the Conciliation Committee, the two co-Chairmen and the Commissioner meet in a formal trialogue for a general overview of the major issues involved in conciliation and the best way to broach them during the meeting. This trialogue is preceded, as a general rule, by a preparatory meeting of each delegation.
+
+The Committee has available to it the Commission proposal, the Council's common position, the amendments proposed by the European Parliament, the Commission's opinion thereon (meeting file) and a joint working document of the European Parliament and Council delegations. This working document normally consists of two parts:
+
+'''part A''' contains the elements of the compromise already agreed during the preparatory work,
+
+'''part B''', the unresolved points with the respective negotiating positions (synoptic table in four columns). 
+
+The Conciliation Committee meets alternately at the premises of the Council and those of the European Parliament. This alternation rule applies both from one dossier to the next and within each one, and there are many exceptions to this rule for logistic reasons (availability of meeting rooms and/or teams of interpreters). 
+The rules governing the languages of these meetings are the same as for Council meetings (11 languages).
+#### 20 languages now ?
+
+The institution hosting the first meeting of the Conciliation Committee is responsible for editing the joint text and the forwarding letter, and, after definitive adoption of the legislative act in question by the European Parliament and the Council, for the signing of the act by the Presidents of the European Parliament and of the Council and for its publication in the Official Journal. If the Committee fails to approve the joint text within the time limit set by the Treaty, the proposed act 
+is deemed not to have been adopted.
+
+#### Third reading of Council & Parliament:
+
+If the Conciliation Committee approves a joint text, the European Parliament, acting by an absolute majority of the votes cast, and the Council, acting by a qualified majority (unanimity where the Treaty stipulates an exception to the qualified majority rule), each have a period of 6 (+ 2) weeks in which to adopt the act in question in accordance with the joint text. If either of the two institutions fails to approve the proposed act within that period, it is deemed not to have been adopted. The period of six weeks, which may be extended by two weeks, runs from the date of approval of the joint text, which does not necessarily correspond to the date of the last meeting of the Conciliation Committee, but to the date of the signature by the two co-Chairmen of the Conciliation Committee, of the letter forwarding the joint text, addressed to the Presidents of the European Parliament and of the Council. 
+<--- (2)
+
+Compare to:
+
+---> (1) EUR-LEX:
+
+If the Conciliation Committee accepts a joint draft of the legal instrument, the Council and Parliament must confirm its acceptance in a third reading within six weeks. Irrespective of the Commission's position regarding the draft compromise, a qualified majority in the Council is sufficient for its adoption (unless unanimity is required under the Treaties). Adoption by Parliament requires an absolute majority of the votes cast. The instrument is then deemed accepted by Parliament and the Council, which is also clearly indicated in its title (e.g. Parliament and Council regulation). If the conciliation procedure fails, the instrument is deemed not to have been accepted. The legislative process is then at an end. Failure of the procedure thus leads to the same result as rejection of the common position by the Council and Parliament at the third reading.
+<--- (1)
+
+
+----
+== Part II: Majority Calculation ==
+----
+
+Generally, two different voting populations must be distinguished: 
+A: The casted votes without abstentions (only yes or no)
+B: The total possible votes (available seats).
+It seems that abstentions aren't seen as actual votes in this language context.  
+
+For example, a simple majority is the choice whose number of votes is greater than half of the numbers of individuals who aren't indifferent between the two choices (modus A), in contrast to the absolute majority voting of the EP where all available seats do matter (modus B).
+
+=== Parliament: Absolute Majority Voting (AM)  ===
+
+367 in favour, of 732 total. 
+
+Generally (total)/2 +1   
+
+
+=== Council: Qualified Majority Voting (QM) ===
+
+72,27% = 232 in favour, of 321 total.
+
+For a detailed table see Part III below.
+
+---> (8) orgalime on Council Voting:
+From 1 November 2004 onwards the total number of votes will be 321. Adoption of proposals in the Council will require at least 232 votes, cast by a majority of the members (that is at least 3 large and one small state will be needed to block a proposal). In other cases, 232 votes will be require, cast by at least two-thirds of the Member States.
+<--- 
+
+A Council QM must also include a QM of the Member States AND must represent at least 62% of the population of the European Union (which is to prove on request). 
+
+--> (6) SCADPLUS on Council Voting:
+With a view to enlargement, the last Intergovernmental Conference (IGC) implemented a revision of the scale of weightings to ensure that the relative weight of the "small" and "medium-sized" countries is not out of proportion to the size of their population. The number of votes of the most
+populous countries has thereby been increased further relative to the others, to enable the
+legitimacy of the Council's decisions to be maintained in terms of demographic representativeness.
+The new system of weighting will come into force on 1 November 2004.
+The IGC has also decided on the number of votes to be allocated to the new members after accession.
+As well as adjusting the number of votes, the Treaty of Nice has introduced the double majority
+system.
+In the approach to enlargement, the question of the weighting of votes in the Council is closely
+linked to that of the number and nationality of the Commissioners and the extension of qualified
+majority voting. The greater the scope of QUALIFIED MAJORITY voting, the more beneficial fair
+weighting of the votes in the Council will be for decision-making, as it will avoid the risk of
+veto. On the question of the number and nationality of Commissioners, the "larger" countries have
+accepted losing their second Commissioner in return for a stronger voice within the Council.
+
+The new Intergovernmental Conference of February 2000 decided to adopt a system of reweighting of
+votes within the Council, combined with a double or even triple majority, as a requirement for
+adoption of an instrument within the Council. While the reweighting of votes works in favour of the
+large Member States, the qualified majority must also be a majority of the Member States. This is
+combined with a system known as the "demographic safety net" which means that each Member State can
+request verification of whether the qualified majority represents at least 62% of the population of
+the Union. If this condition is not fulfilled, the decision cannot be adopted. These new rules will
+enter into force on 1 November 2004.
+<--- (6)
+
+
+==== The future: Double majority ====
+If and when the new Treaty establishing a constitution for Europe comes into force, the rule for QM will be simplified. Under this new rule, any QM decision will require a 'double majority' of at least 55% of member states representing 65% of citizens.
+
+
+----
+== Part III: Allocation of seats in the EP and voting weights in the Council ==
+----
+
+==== Parliament ====
+
+---> orgalime (8): The European Parliament and the acceding States
+
+During the short period from the date of accession (1 May 2004) until the elections 2004 the number
+of representatives will rise temporarily to 786.
+According to the Nice Treaty, the number of MEP will be reduced proportionally to 732 after the
+elections. 
+According to the same treaty the number of MEP would remain at 732 after an eventual accession of
+Romania and Bulgaria during the next parliamentary term (2004-2009).
+
+Note on Observers: 
+Observers will have a national mandate without formal status.
+They will have the right to speak, but not the right to vote, nor to be elected to any positions of
+responsibility in Parliamentary committees and interparliamentary delegations. 
+The observers are allowed to submit texts to these bodies in which they take part.
+When it comes to plenary sessions, the observers will have seats in the Parliamentary Chamber but
+they will not have the right to speak, vote or be elected to positions of responsibility.
+As far as regards the observers participation in the political groups, it is up to the groups to
+decide the arrangements for the observers.
+<--- (8)
+
+---> (7) euireland: "Enlargement and institutional changes"
+
+http://www.euireland.ie/news/enlargement/0304/institutionalchanges.htm
+
+
+ANNEX II: The European Parliament
+
+(0) MEMBER STATE
+
+(1) SEATS EU-25 (01.05.2004-2009) (with Romania and Bulgaria accessing somewhere before 2009)
+
+(2) SEATS EU-27 (after accession of Romania and Bulgaria, and after elections of 2009)
+
+(3) EU-25 SEAT % UNDER NICE
+
+(4) % of EU-25 POPULATION
+
+
+(###: If EU-27 gets ready before elections 2009, then there would be a transition period between (1) and (2) with 786 seats.)
+
+
+
+|| (0)		   ||  (1)	 ||  (2)	 ||  (3)	   ||  (4)     ||
+||                   ||       ||         ||           ||          ||
+||  Germany	   ||  99	 ||  99	 ||  13.52%   ||  18.17%  ||
+||  UnitedKingdom    ||  78	 ||  72	 ||  10.66%   ||  13.18%  ||
+||  France           ||  78	 ||  72	 ||  10.66%   ||  13.06%  ||
+||  Italy	           ||  78	 ||  72	 ||  10.66%   ||  12.75%  ||
+||  Spain	           ||  54	 ||  50	 ||  7.38%	   ||  8.89%   ||
+||  Poland	   ||  54	 ||  50	 ||  7.38%	   ||  8.53%   ||
+||  Romania	   ||  -	 ||  33	 ||  -	   ||  -       ||
+||  Netherlands	   ||  27	 ||  25	 ||  3.69%	   ||  3.54%   ||
+||  Greece	   ||  24	 ||  22	 ||  3.28%	   ||  2.33%   ||
+||  Portugal	   ||  24	 ||  22	 ||  3.28%	   ||  2.27%   ||
+||  Belgium	   ||  24	 ||  22	 ||  3.28%	   ||  2.27%   ||
+||  Czech Republic   ||  24	 ||  20	 ||  3.28%	   ||  2.27%   ||
+||  Hungary	   ||  24	 ||  20	 ||  3.28%	   ||  2.25%   ||
+||  Sweden	   ||  19	 ||  18	 ||  2.60%	   ||  1.96%   ||
+||  Austria	   ||  18	 ||  17	 ||  2.46%	   ||  1.79%   ||
+||  Bulgaria	   ||  -	 ||  17	 ||  -	   ||  -       ||
+||  Slovakia	   ||  14	 ||  13	 ||  1.91%	   ||  1.19%   ||
+||  Denmark 	   ||  14	 ||  13	 ||  1.91%	   ||  1.18%   ||
+||  Finland	   ||  14	 ||  13	 ||  1.91%	   ||  1.14%   ||
+||  Ireland	   ||  13	 ||  12	 ||  1.78%	   ||  0.85%   ||
+||  Lithuania	   ||  13	 ||  12	 ||  1.78%	   ||  0.77%   ||
+||  Latvia	   ||  9	 ||  8	 ||  1.23%	   ||  0.52%   ||
+||  Slovenia	   ||  7	 ||  7	 ||  0.96%	   ||  0.44%   ||
+||  Estonia	   ||  6	 ||  6	 ||  0.82%	   ||  0.30%   ||
+||  Cyprus	   ||  6	 ||  6	 ||  0.82%	   ||  0.17%   ||
+||  Luxembourg	   ||  6	 ||  6	 ||  0.82%	   ||  0.10%   ||
+||  Malta	           ||  5	 ||  5	 ||  0.68%	   ||  0.09%   ||
+||  TOTAL	           ||  732	 ||  732	 ||  100%	   ||  100%    ||
+
+<---
+
+
+==== Council ====
+
+---> orgalime (8): The Council and the acceding States
+
+The number of votes will increase and the division among the Member States will change in two steps.
+
+(1) During the transitional period (1 May 2004 to 31  October 2004), the total number of votes in
+the Council will be 124. 
+For adoption of proposals from the Commission, acts of the Council will require at least 88 votes in
+favour (therefore at least 3 large and one medium size state will be needed to block a proposal).
+For adoption by the Council in other cases, 88 votes are required, cast by at least two-thirds of
+the Member States.
+
+(2) From 1 November 2004 onwards the total number of votes will be 321. 
+Adoption of proposals in the Council will require at least 232 votes, cast by a majority of the
+members (that is at least 3 large and one small state will be needed to block a proposal). 
+In other cases, 232 votes will be require, cast by at least two-thirds of the Member States.
+<--- (8)
+
+
+---> (7) euireland: Enlargement and institutional changes
+
+http://www.euireland.ie/news/enlargement/0304/institutionalchanges.htm
+
+
+ANNEX I: The Council of the European Union
+
+(0) MEMBER STATES
+
+(1) VOTE WEIGHTING EU-25 01.05.04 to 31.10.04 (new member transition period)
+
+(2) VOTE WEIGHTING EU-25 from 1.11.04
+
+(3) VOTE WEIGHTING EU-27 (after accession of Romania and Bulgaria)
+
+
+
+| (0)		  | (1)	 | (2)	 | (3) |
+|                 |      |       |     |
+| Germany	  | 10	 | 29	 | 29  |
+| UnitedKingdom   | 10	 | 29	 | 29  |
+| France	  | 10	 | 29	 | 29  |
+| Italy	          | 10	 | 29	 | 29  |
+| Spain	          | 8	 | 27	 | 27  |
+| Poland	  | 8	 | 27	 | 27  |
+| Romania	  | -	 | -	 | 14  |
+| Netherlands	  | 5	 | 13	 | 13  |
+| Greece	  | 5	 | 12	 | 12  |
+| Czech Republic  | 5	 | 12	 | 12  |
+| Belgium	  | 5	 | 12	 | 12  |
+| Hungary	  | 5	 | 12	 | 12  |
+| Portugal	  | 5	 | 12	 | 12  |
+| Sweden	  | 4	 | 10	 | 10  |
+| Bulgaria	  | -	 | -	 | 10  |
+| Austria	  | 4	 | 10	 | 10  |
+| Slovakia	  | 3	 | 7	 | 7   |
+| Denmark	  | 3	 | 7	 | 7   |
+| Finland	  | 3	 | 7	 | 7   |
+| Ireland	  | 3	 | 7	 | 7   |
+| Lithuania	  | 3	 | 7	 | 7   |
+| Latvia	  | 3	 | 4	 | 4   |
+| Slovenia	  | 3	 | 4	 | 4   |
+| Estonia	  | 3	 | 4	 | 4   |
+| Cyprus	  | 2	 | 4	 | 4   |
+| Luxembourg	  | 2	 | 4	 | 4   |
+| Malta	          | 2	 | 3	 | 3   |
+| TOTAL	          | 124	 | 321	 | 345 |
+
+QUALIFIED MAJORITY:
+
+| votes	          | 88 	  | 232   | 255    |
+| %		  | 70.97 | 72.27 | 73.91  |
+
+BLOCKING MINORITY:
+
+| 		  | 37	 | 90    | 91      |
+
+<--- (7)
+
+
+
+
+----
+== Part IV: The European Community Treaty  ==
+----
+
+---> (4) Excerpts from 
+
+=== THE TREATY ESTABLISHING THE EUROPEAN COMMUNITY --- CONSOLIDATED VERSION ---  ===
+
+XXX: At the time this quotations were copied, the "Teaty Establishing The European Union" does not yet represent the 10 new Accession states. Articles amended by The Treaty of Nice or The Protocol on the enlargement of the European Union are marked (**). In the Original exist footnotes with more detailed explanations.
+
+  
+ ### = marker for custom headlines or comments 
+
+ ###: ====== Overview of the legal ground of eu-laws in the area of patents and software:
+
+TITLE V -- PROVISIONS ON A COMMON FOREIGN AND SECURITY POLICY
+
+                                                Article 14
+ 1. The Council shall adopt joint actions. Joint actions shall address specific situations where 
+    operational action by the Union is deemed to be required. They shall lay down their objectives,
+    scope, the means to be made available to the Union, if necessary their duration, and the
+    conditions for their implementation.
+
+ 2. If there is a change in circumstances having a substantial effect on a question subject to joint
+    action, the Council shall review the principles and objectives of that action and take the
+    necessary decisions. As long as the Council has not acted, the joint action shall stand.
+    
+ 3. Joint actions shall commit the Member States in the positions they adopt and in the conduct of 
+    their activity.
+
+ 4. The Council may request the Commission to submit to it any appropriate proposals relating to the
+    common foreign and security policy to ensure the implementation of a joint action.
+    
+ 5. Whenever there is any plan to adopt a national position or take national action pursuant to a
+    joint action, information shall be provided in time to allow, if necessary, for prior
+    consultations within the Council. The obligation to provide prior information shall not apply to     measures which are merely a national transposition of Council decisions.
+
+ 6. In cases of imperative need arising from changes in the situation and failing a Council
+    decision, Member States may take the necessary measures as a matter of urgency having regard to 
+    the general objectives of the joint action. The Member State concerned shall inform the Council 
+    immediately of any such measures.
+    
+ 7. Should there be any major difficulties in implementing a joint action, a Member State shall
+    refer them to the Council which shall discuss them and seek appropriate solutions. 
+    Such solutions shall not run counter to the objectives of the joint action or impair its 
+    effectiveness.
+
+ ###: ====== Referrer to Article 251 matching harmonizing national laws or intellectual property:
+
+TITLE VI -- COMMON RULES ON COMPETITION, TAXATION AND APPROXIMATION OF LAWS
+
+    CHAPTER 1: RULES ON COMPETITION
+    CHAPTER 2: TAX PROVISIONS
+    CHAPTER 3: APPROXIMATION OF LAWS
+    
+                                                 Article 94
+ The Council shall, acting unanimously on a proposal from the Commission and after consulting the
+ European Parliament and the Economic and Social Committee, issue directives for the approximation
+ of such laws, regulations or administrative provisions of the Member States as directly affect the
+ establishment or functioning of the common market.
+
+                                                 Article 95
+ 1. By way of derogation from Article 94 and save where otherwise provided in this Treaty, the
+    following provisions shall apply for the achievement of the objectives set out in Article 14. 
+    The Council shall, acting in accordance with the procedure referred to in Article 251 and after 
+    consulting the Economic and Social Committee, adopt the measures for the approximation of the 
+    provisions laid down by law, regulation or administrative action in Member States which have as 
+    their object the establishment and functioning of the internal market.
+ 
+ 2. Paragraph 1 shall not apply to fiscal provisions, to those relating to the free movement of 
+    persons nor to those relating to the rights and interests of employed persons.
+
+ 3. The Commission, in its proposals envisaged in paragraph 1 concerning health, safety, 
+    environmental protection and consumer protection, will take as a base a high level of
+    protection,taking account in particular of any new development based on scientific facts. 
+    Within their respective powers, the European Parliament and the Council will also seek to
+    achieve this objective.
+
+ 4. If, after the adoption by the Council or by the Commission of a harmonisation measure, a Member
+    State deems it necessary to maintain national provisions on grounds of major needs referred to
+    in Article 30, or relating to the protection of the environment or the working environment, it
+    shall notify the Commission of these provisions as well as the grounds for maintaining them.
+
+ 5. Moreover, without prejudice to paragraph 4, if, after the adoption by the Council or by the
+    Commission of a harmonisation measure, a Member State deems it necessary to introduce national
+    provisions based on new scientific evidence relating to the protection of the environment or the
+    working environment on grounds of a problem specific to that Member State arising after the 
+    adoption of the harmonisation measure, it shall notify the Commission of the envisaged 
+    provisions as well as the grounds for introducing them.
+
+ 6. The Commission shall, within six months of the notifications as referred to in paragraphs
+    4 and 5, approve or reject the national provisions involved after having verified whether
+    or not they are a means of arbitrary discrimination or a disguised restriction on trade between 
+    Member States and whether or not they shall constitute an obstacle to the functioning of the
+    internal market. In the absence of a decision by the Commission within this period the national
+    provisions referred to in paragraphs 4 and 5 shall be deemed to have been approved.
+
+    When justified by the complexity of the matter and in the absence of danger for human health, 
+    the Commission may notify the Member State concerned that the period referred to in this
+    paragraph may be extended for a further period of up to six months.
+
+ 7. When, pursuant to paragraph 6, a Member State is authorised to maintain or introduce national 
+    provisions derogating from a harmonisation measure, the Commission shall immediately examine 
+    whether to propose an adaptation to that measure.
+
+ 8. When a Member State raises a specific problem on public health in a field which has been the
+    subject of prior harmonisation measures, it shall bring it to the attention of the Commission 
+    which shall immediately examine whether to propose appropriate measures to the Council.
+
+ 9. By way of derogation from the procedure laid down in Articles 226 and 227, the Commission and
+    any Member State may bring the matter directly before the Court of Justice if it considers that
+    another Member State is making improper use of the powers provided for in this Article.
+
+10. The harmonisation measures referred to above shall, in appropriate cases, include a safeguard
+    clause authorising the Member States to take, for one or more of the non-economic reasons
+    referred to in Article 30, provisional measures subject to a Community control procedure.
+
+
+TITLE IX: COMMON COMMERCIAL POLICY
+
+                                    Article 133 (**)
+ 4.  In exercising the powers conferred upon it by this Article, the Council shall act by a
+     qualified majority.
+    
+ 5. Paragraphs 1 to 4 shall also apply to the negotiation and conclusion of agreements in the fields
+    of trade in services and the (###:) commercial aspects of intellectual property, in so far as
+    those agreements are not covered by the said paragraphs and without prejudice to paragraph 6.
+
+    By way of derogation from paragraph 4, the Council shall act unanimously when negotiating and
+    concluding an agreement in one of the fields referred to in the first subparagraph, where that
+    agreement includes provisions for which unanimity is required for the adoption of internal rules
+    or where it relates to a field in which the Community has not yet exercised the powers conferred
+    upon it by this Treaty by adopting internal rules.
+  
+    The Council shall act unanimously with respect to the negotiation and conclusion of a horizontal
+    agreement insofar as it also concerns the preceding subparagraph or the second subparagraph of
+    paragraph 6. This paragraph shall not affect the right of the Member States to maintain and 
+    conclude agreements with third countries or international organisations in so far as such 
+    agreements comply with Community law and other relevant international agreements.
+
+ 6. An agreement may not be concluded by the Council if it includes provisions which would go
+    beyond the Community's internal powers, in particular by leading to harmonisation of the laws or
+    regulations of the Member States in an area for which this Treaty rules out such harmonisation.
+    (...)
+
+ 7. Without prejudice to the first subparagraph of paragraph 6, the Council, acting unanimously on a
+    proposal from the Commission and after consulting the European Parliament, may extend the
+    application of paragraphs 1 to 4 to international negotiations and agreements on intellectual
+    property in so far as they are not covered by paragraph 5.
+
+
+TITLE XVI: INDUSTRY
+
+                               Article 157 (**)
+ 1. The Community and the Member States shall ensure that the conditions necessary for the
+    competitiveness of the Community's industry exist. For that purpose, in accordance with a system
+    of open and competitive markets, their action shall be aimed at:
+    - speeding up the adjustment of industry to structural changes,
+    - encouraging an environment favourable to initiative and to the development of undertakings 
+      throughout the Community, particularly small and medium-sized undertakings,
+    - encouraging an environment favourable to cooperation between undertakings,
+    - fostering better exploitation of the industrial potential of policies of innovation, research 
+      and technological development.
+
+ 2. The Member States shall consult each other in liaison with the Commission and, where necessary,
+    shall coordinate their action. The Commission may take any useful initiative to promote such
+    coordination.
+ 3. The Community shall contribute to the achievement of the objectives set out in paragraph 1
+    through the policies and activities it pursues under other provisions of this Treaty. The   
+    Council, acting in accordance with the procedure referred to in Article 251 and after 
+    consulting the Economic and Social Committee, may decide on specific measures in support of 
+    action taken in the Member States to achieve the objectives set out in paragraph 1.
+(### sounds interesting:)
+    This title shall not provide a basis for the introduction by the Community of any measure which
+    could lead to a distortion of competition or contains tax provisions or provisions relating to  
+    the rights and interests of employed persons.
+
+ ### ========== Institutions:
+
+PART FIVE -- Institutions of the Community, TITLE I: Provisions governing the institutions
+
+   Chapter 1 -- The institutions
+                Section 1 -- The European Parliament ... 113
+                Section 2 -- The Council ... 117
+                Section 3 -- The Commission ... 119
+                Section 4 -- The Court of Justice ... 122
+                Section 5 -- The Court of Auditors ... 129
+
+   Chapter 2 -- Provisions common to several institutions ... 132
+   Chapter 3 -- The Economic and Social Committee 
+   Chapter 4 -- The Committee of the Regions 
+   Chapter 5 -- The European Investment Bank
+    
+PART SIX -- General and final provisions ... 146
+
+PART FIVE, CHAPTER 1: THE INSTITUTIONS
+
+==== Section 1 -- The European Parliament ====
+
+
+					Article 189 (**)
+ The European Parliament, which shall consist of representatives of the peoples of the States
+ brought together in the Community, shall exercise the powers conferred upon it by this Treaty.
+ The number of Members of the European Parliament shall not exceed 732.
+
+					Article 190 (**)
+ 1. The representatives in the European Parliament of the peoples of the States brought together
+ in the Community shall be elected by direct universal suffrage.
+
+ 2. (**) The number of representatives elected in each Member State shall be as follows:
+ 
+## 
+| Belgium                 |  25  |
+| Denmark                 |  16  |
+| Germany                 |  99  |
+| Greece                  |  25  |
+| Spain                   |  64  |
+| France                  |  87  |
+| Ireland                 |  15  |
+| Italy                   |  87  |
+| Luxembourg              |   6  |
+| Netherlands             |  31  |
+| Austria                 |  21  |
+| Portugal                |  25  |
+| Finland                 |  16  |
+| Sweden                  |  22  |
+| United Kingdom          |  87  |
+| TOTAL:		  | 626  |
+##
+
+
+
+                                                Article 192
+ In so far as provided in this Treaty, the European Parliament shall participate in the process
+ leading up to the adoption of Community acts by exercising its powers under the procedures laid
+ down in Articles 251 and 252 and by giving its assent or delivering advisory opinions.
+ The European Parliament may, acting by a majority of its Members, request the Commission to submit
+ any appropriate proposal on matters on which it considers that a Community act is required for the
+ purpose of implementing this Treaty.
+
+                                                Article 193
+ In the course of its duties, the European Parliament may, at the request of a quarter of its
+ Members, set up a temporary Committee of Inquiry to investigate, without prejudice to the powers
+ conferred by this Treaty on other institutions or bodies, alleged contraventions or
+ maladministration in the implementation of Community law, except where the alleged facts are being
+ examined before a court and while the case is still subject to legal proceedings.
+ The temporary Committee of Inquiry shall cease to exist on the submission of its report.
+ The detailed provisions governing the exercise of the right of inquiry shall be determined by 
+ common accord of the European Parliament, the Council and the Commission.
+
+  
+==== Section 2 -- The Council ====
+
+                                           Article 205 (**)
+ 1. Save as otherwise provided in this Treaty, the Council shall act by a majority of its Members.
+
+ 2. Where the Council is required to act by a qualified majority, the votes of its Members shall be
+    weighted as follows:
+
+##
+| Belgium                              |  5  |
+| Denmark                              |  3  |
+| Germany                              | 10  |
+| Greece                               |  5  |
+| Spain                                |  8  |
+| France                               | 10  |
+| Ireland                              |  3  |
+| Italy                                | 10  |
+| Luxembourg                           |  2  |
+| Netherlands                          |  5  |
+| Austria                              |  4  |
+| Portugal                             |  5  |
+| Finland                              |  3  |
+| Sweden                               |  4  |
+| United Kingdom                       | 10  |
+##
+
+ For their adoption, acts of the Council shall require at least:
+
+     (1) 62 votes in favour where this Treaty requires them to be adopted on a proposal
+     from the Commission,
+
+     (2) 62 votes in favour, cast by at least 10 members, in other cases.
+
+ 3. Abstentions by Members present in person or represented shall not prevent the adoption by
+    the Council of acts which require unanimity.
+
+
+==== Section 3 -- The Commission ====
+
+                                           Article 213
+ 1. (**) The Commission shall consist of 20 Members, who shall be chosen on the grounds of their
+ general competence and whose independence is beyond doubt.
+ (...)
+
+ 2. The Members of the Commission shall, in the general interest of the Community, be completely
+ independent in the performance of their duties. In the performance of these duties, they shall
+ neither seek nor take instructions from any government or from any other body. They shall refrain
+ from any action incompatible with their duties. Each Member State undertakes to respect this
+ principle and not to seek to influence the Members of the Commission in the performance of their
+ tasks. The Members of the Commission may not, during their term of office, engage in any other
+ occupation, whether gainful or not. When entering upon their duties they shall give a solemn
+ undertaking that, both during and after their term of office, they will respect the obligations
+ arising therefrom and in particular their duty to behave with integrity and discretion as regards
+ the acceptance, after they have ceased to hold office, of certain appointments or benefits. In the
+ event of any breach of these obligations, the Court of Justice may, on application by the Council
+ or the Commission, rule that the Member concerned be, according to the circumstances, either
+ compulsorily retired in accordance with Article 216 or deprived of his right to a pension or other
+ benefits in its stead.
+
+                                             Article 217 (**)
+ 1. The Commission shall work under the political guidance of its President, who shall decide on its
+ internal organisation in order to ensure that it acts consistently, efficiently and on the basis of
+ collegiality.
+
+ 2. The responsibilities incumbent upon the Commission shall be structured and allocated among its
+ Members by its President. The President may reshuffle the allocation of those responsibilities
+ during the Commission's term of office. The Members of the Commission shall carry out the duties
+ devolved upon them by the President under his authority.
+
+                                          Article 219 (**)
+ The Commission shall act by a majority of the number of Members provided for in Article 213.
+ A meeting of the Commission shall be valid only if the number of Members laid down in its Rules of
+ Procedure is present.
+
+
+ ### ========== Codecision procedure
+
+
+PART FIVE, CHAPTER 2: PROVISIONS COMMON TO SEVERAL INSTITUTIONS
+
+                                               Article 251
+ 1.  Where reference is made in this Treaty to this Article for the adoption of an act, 
+     the following procedure shall apply:
+
+ 2.  The Commission shall submit a proposal to the European Parliament and the Council.
+
+#### From Parliament 1. Reading to Council 1. Reading:
+
+ The Council, acting by a qualified majority after obtaining the opinion of the European Parliament:
+
+   - if it approves all the amendments contained in the European Parliament's opinion, 
+   may adopt the proposed act thus amended,
+
+   - if the European Parliament does not propose any amendments, may adopt the proposed act,
+
+   - shall otherwise adopt a common position and communicate it to the European Parliament. 
+   The Council shall inform the European Parliament fully of the reasons which led it to adopt its 
+   common position. The Commission shall inform the European Parliament fully of its position.
+
+#### Parliament 2. Reading:
+
+ If, within three months of such communication, the European Parliament:
+
+ (a)   approves the common position or has not taken a decision, the act in question shall be deemed
+
+       to have been adopted in accordance with that common position;
+
+ (b)  rejects, by an absolute majority of its component members, the common position, the proposed 
+      act shall be deemed not to have been adopted;
+
+ (c)  proposes amendments to the common position by an absolute majority of its component
+      members, the amended text shall be forwarded to the Council and to the Commission, which
+      shall deliver an opinion on those amendments.
+      
+#### Council 2. Reading:
+      
+ 3.  If, within three months of the matter being referred to it, the Council, acting by a qualified
+     majority, approves all the amendments of the European Parliament, the act in question shall be
+     deemed to have been adopted in the form of the common position thus amended;
+     however, the Council shall act unanimously on the amendments on which the Commission has 
+     delivered a negative opinion. If the Council does not approve all the amendments, the President
+     of the Council, in agreement with the President of the European Parliament, shall within six 
+     weeks convene a meeting of the Conciliation Committee.
+
+#### Conciliation Committee:
+
+ 4.  The Conciliation Committee, which shall be composed of the Members of the Council or their
+     representatives and an equal number of representatives of the European Parliament, shall have 
+     the task of reaching agreement on a joint text, by a qualified majority of the Members of the 
+     Council or their representatives and by a majority of the representatives of the European 
+     Parliament. The Commission shall take part in the Conciliation Committee's proceedings and
+     shall take all the necessary initiatives with a view to reconciling the positions of the 
+     European Parliament and the Council. In fulfilling this task, the Conciliation Committee shall 
+     address the common position on the basis of the amendments proposed by the European Parliament.
+
+ 5.  If, within six weeks of its being convened, the Conciliation Committee approves a joint text, 
+     the European Parliament, acting by an absolute majority of the votes cast, and the Council, 
+     acting by a qualified majority, shall each have a period of six weeks from that approval in 
+     which to adopt the act in question in accordance with the joint text. If either of the two 
+     institutions fails to approve the proposed act within that period, it shall be deemed not to 
+     have been adopted.
+
+ 6.  Where the Conciliation Committee does not approve a joint text, the proposed act shall be
+     deemed not to have been adopted.
+    
+ 7.  The periods of three months and six weeks referred to in this Article shall be extended by a
+     maximum of one month and two weeks respectively at the initiative of the European Parliament
+     or the Council.
+
+                                                 Article 252
+
+#### This is NOT the procedure applied to the directive in question. Quoted only for completeness.						
+ Where reference is made in this Treaty to this Article for the adoption of an act, the following
+ procedure shall apply.
+
+ (a)  The Council, acting by a qualified majority on a proposal from the Commission and after 
+      obtaining the opinion of the European Parliament, shall adopt a common position.
+
+ (b)  The Council's common position shall be communicated to the European Parliament. The Council
+      and the Commission shall inform the European Parliament fully of the reasons which led the
+      Council to adopt its common position and also of the Commission's position.
+      If, within three months of such communication, the European Parliament approves this common
+      position or has not taken a decision within that period, the Council shall definitively adopt 
+      the act in question in accordance with the common position.
+
+ (c)  The European Parliament may, within the period of three months referred to in point (b), 
+      by an absolute majority of its component Members, propose amendments to the Council's common
+      position. The European Parliament may also, by the same majority, reject the Council's common
+      position. The result of the proceedings shall be transmitted to the Council and the
+      Commission. If the European Parliament has rejected the Council's common position, 
+      unanimity shall be required for the Council to act on a second reading.
+
+ (d)  The Commission shall, within a period of one month, re-examine the proposal on the basis of
+      which the Council adopted its common position, by taking into account the amendments proposed
+      by the European Parliament.
+      The Commission shall forward to the Council, at the same time as its re-examined proposal, the
+      amendments of the European Parliament which it has not accepted, and shall express its opinion
+      on them. The Council may adopt these amendments unanimously.
+
+ (e)  The Council, acting by a qualified majority, shall adopt the proposal as re-examined by the
+      Commission. 
+(###:)
+      Unanimity shall be required for the Council to amend the proposal as re-examined by the 
+      Commission.
+
+ (f)  In the cases referred to in points (c), (d) and (e), the Council shall be required to act 
+      within a period of three months. If no decision is taken within this period, the Commission 
+      proposal shall be deemed not to have been adopted.
+
+ (g)  The periods referred to in points (b) and (f) may be extended by a maximum of one month by
+      common accord between the Council and the European Parliament.
+ 
+                                                 Article 253
+ Regulations, directives and decisions adopted jointly by the European Parliament and the Council,
+ and such acts adopted by the Council or the Commission, shall state the reasons on which they are
+ based and shall refer to any proposals or opinions which were required to be obtained pursuant to
+ this Treaty.
+
+
+PART SIX: GENERAL AND FINAL PROVISIONS
+
+                                              Article 302
+ It shall be for the Commission to ensure the maintenance of all appropriate relations with the
+ organs of the United Nations and of its specialised agencies. The Commission shall also maintain
+ such relations as are appropriate with all international organisations.
+
+                                              Article 303
+ The Community shall establish all appropriate forms of cooperation with the Council of Europe.
+
+                                              Article 304
+ The Community shall establish close cooperation with the Organisation for Economic Cooperation and
+ Development, the details of which shall be determined by common accord.
+
+<--- (4)
+
+
+----
+Related links:
+
+http://www.euireland.ie/news/enlargement/0304/institutionalchanges.htm
+
+http://europa.eu.int/comm/nice_treaty/index_en.htm
+
+http://europa.eu.int/comm/enlargement/negotiations/treaty_of_accession_2003/index.htm
+
+http://europa.eu.int/abc/doc/off/bull/en/200210/i1014.htm
+
+http://patents.caliu.info/codecisio.en.html
+
+There's a flowchart poster of the codecision process at CodecisionPosterEn.
+----

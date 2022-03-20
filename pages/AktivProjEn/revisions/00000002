@@ -1,0 +1,32 @@
+= Project Sign-Up in the FFII Participation System (aktiv) =
+-->
+[ [[AktivEn| aktiv]]
+| [[FfiiprojEn| projects]]
+| [[FfiiprojKreEn| creating]]
+| [[MailmanDbEn| db->mailman]]
+]
+----
+
+A classified and always up-to-date list of projects is now offered for subscription through the [[http://aktiv.ffii.org/|FFII participation system]].  See the menu item called "project participation" or similar in the main menu of aktiv (where you arrive after logging in).
+
+You can find all the details of how it works through the script on [[GenbaEn| genba]] 
+
+  /var/www/adm/bin/daily.aktiv
+
+which is currently invoked through the cronjob of user knecht by
+
+  /var/www/adm/bin/daily/knecht
+
+To be documented in depth later.
+
+While these scripts create the menu, other scripts, found in
+MailmanDbEn, are make mailman regularly follow the data written into the
+database by [[AktivEn| aktiv]] through this menu.
+
+The scripts generate once a day the HTML templates which aktiv uses, based on a previous more static template supplied by mwas.
+
+We need analogous scripts for other applications as well, especially "events" 'ven' / 'selevent.en.html', "membership in organisations" and many others.
+
+Script generation of this type makes it necessary to create one virtual mlht document for each application, e.g. 'projsel' for the projects, 'selevent' for the events, etc.  This virtual document shows up in the 'dok' field of the tables 'mlhtdok' and 'langtxts'.  We call it 'virtual' because it does not really exist anywhere in the file system and is not generated from the database.  It is only used for storing the strings that appear in the static part of the page.  The strings from the dynamic part (i.e. the list of projects or event that is subject to daily change) are taken from the table 'flddes'.  Study the scripts and the [[MlhtDbEn| database]] to find out more. 
+
+The scripts were written by 'phm', partially in consultation with 'schinski', who may take up the task of providing further similar scripts for making more aktiv applications dynamic (= daily-updated from database).

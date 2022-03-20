@@ -1,0 +1,361 @@
+## -*- dok: swpatcnino0503; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= Software Patent News 2005-03 =
+-->
+[ [:SwpatcninoEn: Latest]
+| [:Swpatcnino05En: 2005]
+]
+----
+
+''What happened in March 2005 concerning software patents in Europe and surrounding subjects: Latest news linked to dossiers and tutorials provided by FFII and a community of wiki editors.''
+
+ * 2005-03-07 EU [http://www.computing.co.uk/news/1161751 Computing: EU Council approves software patent initiative] (also mentioned in the paper edition)
+ * 2005-03-31 US [http://www.out-law.com/php/page.php?page_id=ebaygetsusptoboos1112260647&area=news Out-Law.com: EBay gets USPTO boost in patent dispute] (-> [:Ebay050317En: EBay])
+ * 2005-03-31 EU [:LinuxInsiderEn: LinuxInsider/TechNewsWorld]: [http://www.technewsworld.com/story/opensource/41924.html EU Anti-Patent Lobbyist Steps Down]  (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-31 US [http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=20050071741&OS=20050071741&RS=20050071741 USPTO: Patent application by Google on ranking pages based on history data]
+ * 2005-03-31 EU [http://www.cio-today.com/wrldwd/story.xhtml?story_title=Antipatent-Groups-Join-Forces-Against-EU-Directives&story_id=32090&category=wrldwd CIO Today: Antipatent Groups Join Forces Against EU Directive] (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-31 EU [:Volvo050315En: FFII: Software Patent Loser Volvo lobbying for Software Patents]
+ * 2005-03-31 EU [:Oecd050331En: OECD: Software patents choke innovation]
+ * 2005-03-31 EU [http://news.zdnet.co.uk/software/0,39020381,39193312,00.htm ZDNet UK: EU Parliament forgives Council for adopting patent directive] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-31 EU [http://www.cbronline.com/article_news.asp?guid=8CB705FF-6E88-4122-8EB0-35A7DC0C6A99 CBR Online: EU anti-software patent groups merge] (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-31 EU [http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050331005278&newsLang=en Thomson PR: Thomson Strengthens its Position in Content Security through Acquisition of MediaSec]
+ * 2005-03-30 EU [http://www.theinquirer.net/?article=22235 The Inquirer: No Software Patent fight handed over to FFII] (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-30 EU [http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=159908397 EETimes: European anti-software patents leader quits] (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-30 EU [http://informationweek.com/story/showArticle.jhtml?articleID=159908450 InformationWeek: European Anti-Software Patents Leader Quits] (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-30 EU [http://www.linuxworld.com/story/48951.htm LinuxWorld: Resistance Movement Against Software Patents in the EU Regroups] (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-29 IN [http://www.newscientist.com/article.ns?id=dn7205 New Scientist: India surveys aftermath of new patent law] (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-30 EU [http://news.zdnet.co.uk/business/legal/0,39020651,39193150,00.htm ZDNet UK: Anti-patent campaigner hangs up his gloves] (-> [:Nsp050330En: NSP to FFII])
+ * 2005-03-30 IN [http://www.mondaq.com/i_article.asp_Q_articleid_E_31717 Mondaq/Lex Orbis: India: India's Patents Bill, 2005 - Is It TRIPS Compliant?]
+ * 2005-03-30 EU [:Nsp050330En: FFII: Nosoftwarepatents.com becomes an FFII Platform]
+ * 2005-03-29 IN [http://sify.com/finance/it-bpo/fullstory.php?id=13705139 Sify: Patent Bill may hit high-end R&D] 
+ * 2005-03-29 US [http://seattletimes.nwsource.com/html/businesstechnology/2002224296_ebaypatent30.html The Seattle Times: U.S. Patent Office sides with eBay in dispute]
+ * 2005-03-29 WW [http://www.linuxinsider.com/story/No-Really-Lower-the-Volume-Already-41825.html LinuxInsider/TechNewsWorld: No Really, Lower the Volume Already] (-> [http://wiki.ffii.org/LinuxInsiderEn LinuxInsider background])
+ * 2005-03-29 EU [:LtrFfiiMeps050329En: FFII asks MEPs to either fully amend or reject software patents directive]
+ * 2005-03-29 EU [http://rebentisch.blogspot.com/2005/03/repeat-until-11-2.html Rebentisch Blog: Repeat until] (-> [:Clepa0503De: Summary], [:CampaignForCreativityEn: C4C])
+ * 2005-03-29 EU [:Plen05En: FFII distributes position paper to all MEPs] (-> [:LtrFfiiMeps050329En: position paper])
+ * 2005-03-25 CH [:Eff050325En: Electronic Frontier Foundation PR: WIPO lockout]
+ * 2005-03-28 IN [http://www.financialexpress.com/fe_full_story.php?content_id=86454 The Financial Express: Software patents under Ordinance face reversal]
+ * 2005-01-14 US [http://www.eurogamer.net/article.php?article_id=57594 Eurogamer: Sony ordered to pay Dual Shock license fees to Immersion for Playstation]
+ * 2005-03-10 US [http://answers.google.com/answers/threadview?id=492018 Google Answers: "Q: small software companies sued over patents"]
+ * 2005-03-21 WW [http://kopete.kde.org/patents.html Patents granted on Instant Messaging: Patents that would kill Kopete!]
+ * 2005-03-21 BE [http://www.ulys.net/site/conf_detail.asp?id=117 Conference: Software Law : Latest developments in Europe]
+ * 2005-03-21 WW [http://amsn.sourceforge.net/ Amsn project protesting against software patents]
+ * 2005-03-21 ES [:Medina050321En : Spanish socialist MEP says software authors need patents]
+ * 2005-02-25 WW [http://xml.coverpages.org/patents.html Cover Pages: Patents and Open Standards] (about RAND licenses and open standards)
+ * 2005-03-24 US [http://www.groklaw.net/article.php?story=20050324233749913 Groklaw: Microsoft Bends for the GPL to Qualify as Open Format in MA]
+ * 2005-03-24 US [http://politics.slashdot.org/politics/05/03/25/1523253.shtml?tid=109&tid=219 Slashdot: Microsoft Partially Opens Proprietary XML Format]
+ * 2005-03-24 US [http://www.eweek.com/article2/0,1759,1779245,00.asp eWeek: Patent Claims Are a Red Herring, Microsoft Says]
+ * 2005-03-24 US [http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050323005867&newsLang=en Intermec PR: Intermec Files Patent Infringement Claims Against Symbol] (-> [:SwpikxraniEn: Patents in action])
+ * 2005-03-24 EU [http://www.reuters.com/newsArticle.jhtml?storyID=7997142&type=technologyNews Reuters: Legal action ends against Sagem on MPEG-2 patents]
+ * 2005-03-23 EU [http://www.eweek.com/article2/0,1759,1778936,00.asp eWeek: Ericsson Sues Sendo over GSM Cell Phone Patents: Why?]
+ * 2005-03-23 WW [http://www.eweek.com/article2/0,1759,1778901,00.asp eWeek: Software Patents and Mutually Assured Destruction]
+ * 2005-03-24 UK [:Easyscreen0503En: FFII: UK-based EasyScreen destabilised by UKPO-granted software patents]
+ * 2005-03-24 US [http://www.dailytexanonline.com/news/2005/03/24/University/Ut.System.Files.Suit.For.TextMessaging.Patent-901533.shtml The Daily Texan: UT System files suit for text-messaging patent]
+ * 2005-03-22 UK [:WesternMallLtr0503En: A Letter to the Editor of Western Mall:  Patent is an Anti-Social Act]
+ * 2005-03-23 WW [http://www.marketwire.com/mw/release_html_b1?release_id=83272 Forgent PR: Forgent Announces Agreement with Onkyo] (-> [:ForgentEn: Forgent])
+ * 2005-03-23 EU [http://www.companynewsgroup.com/communique.asp?co_id=99740 Sendo PR: Sendo files a complaint against Ericsson with the EU]
+ * 2005-03-23 EU [http://www.theregister.co.uk/2005/03/23/sendo_ericsson_spat/ The Register: Sendo reports Ericsson to EC, Ericsson sues Sendo....]
+ * 2005-03-22 US [http://www.google.com/url?sa=D&q=http%3A//home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050322005307&newsLang=en TCS Granted Universal Mail Wireless Email Delivery Agent Patent]
+ * 2005-03-23 WW [http://news.zdnet.co.uk/internet/0,39020369,39192452,00.htm ZDNetUK: Microsoft criticised for 'IPv6-like' patent]
+ * 2005-03-23 UK [http://www.telecoms.com/marlin/30000000461/ARTICLEVIEW/mp_articleid/20017299773/mp_pubcode/MTEL Telecoms.com: Sendo, Ericsson spat intensifies]
+ * 2005-03-23 IN [http://pib.nic.in/release/release.asp?relid=8096 PIB: Important Changes in Patent Amenment Bill]
+ * 2005-03-23 UK [http://www.reuters.com/newsArticle.jhtml?storyID=7984436&type=technologyNews Reuters: Ericsson sues mobile phone firm Sendo over patent] 
+ * 2005-03-23 BE [:Verwilghen050322En: Belgian Minister Verwilghen says that "Council has decided otherwise"]
+ * 2005-03-23 BE [:Verwilghen050310En: Belgian Minister says Belgium supported B-Item]
+ * 2005-03-23 US [http://www.techworld.com/applications/news/index.cfm?NewsID=3365 TechWorld/IDG: Microsoft files appeal in Eolas patent case]
+ * 2005-03-22 US [http://www.eweek.com/article2/0,1759,1778540,00.asp eWeek: Microsoft Patent Too Close to IPv6, Lawyers Say]
+ * 2005-03-23 UK [http://news.independent.co.uk/world/science_technology/story.jsp?story=622675 The Independent: Charles Arthur on Technology - Swpat not such a wizard idea] (see also [http://www.charlesarthur.com/blog/index.php?m=20050323 his blog])
+ * 2005-03-22 US [http://www.thefeature.com/article?articleid=101496&ref=6329847 The Feature: RIM And NTP Settle One Battle, But A Bigger One Looms]
+ * 2005-03-23 IN [http://www.indianexpress.com/full_story.php?content_id=66980 The Indian Express: Patent Bill: Domestic firms cheer, MNCs sulk]
+ * 2005-03-22 IN [http://www.hindu.com/thehindu/holnus/000200503222001.htm The Hindu: Lok Sabha passes Patents Bill]
+ * 2005-03-23 AU [http://computerworld.co.nz/news.nsf/0/9A6B2014750A3A95CC256FCA002B46C1?OpenDocument&pub=Computerworld MPs, techies to trade views on software patents]
+ * 2005-03-19 WW [http://taint.org/2005/03/19/013823a.html Using hashes to identify SPAM patented, DCC closes services for commercial users]
+ * 2005-03-22 IN [http://www.ndtv.com/topstories/showtopstory.asp?slug=Patents+Bill+likely+to+be+passed&id=16519 NDTV: Indian Patents Bill likely to be passed]
+ * 2005-03-22 IN [http://sify.com/news/fullstory.php?id=13699458 Sify: NDA decides not to support Patents Bill]
+ * 2005-03-22 IN [http://www.outlookindia.com/pti_news.asp?id=287733 OutlookIndia: Left springs surprise, supports Patents Bill]
+ * 2005-03-22 IN [http://inhome.rediff.com/money/2005/mar/22patent.htm Rediff: Govt plugs gaps in Patents Bill]
+ * 2005-03-21 IN [:Hammerstein050321En: FFII: MEP to Indian MPs: TRIPS demands copyright for software, not patents]
+ * 2005-03-21 IN [http://www.business-standard.com/common/storypage.php?storyflag=y&leftnm=lmnu2&leftindx=2&lselect=1&chklogin=N&autono=184124 BusinessStandards: Govt plugs gaps in Patents Bill]
+ * 2005-03-21 IN [http://www.financialexpress.com/fe_full_story.php?content_id=85839 FinancialExpress: Centre to curb evergreening of patents in amended Bill]
+ * 2005-03-21 BE [http://www.lachambre.be/kvvcr/showpage.cfm?section=|comm&language=fr&cfm=/site/wwwcfm/agenda/comagenda.cfm?pat=PROD-commissions-v1&type=full&com=512-015_01#Dinsdag Belgian parliament: questions about the Competitiveness Council] (question 8)
+ * 2005-03-21 US [http://yro.slashdot.org/article.pl?sid=05/03/21/1215224&tid=155 Slashdot: Amazon Pursues Plogging Patent]
+ * 2005-03-21 EU [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=474 NSP: NoSoftwarePatents.com sponsors 1&1 Internet AG and MySQL AB call their industry colleagues to action against EU software patents]
+ * 2005-03-18 US [http://www.washingtonpost.com/wp-dyn/articles/A42239-2005Mar16.html Washingtonpost: Mixed Verdict on EBay Appeal] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://internetretailer.com/dailyNews.asp?id=14437 Internetretailer: Appeals Court ruling affirms patent infringement violation by eBay] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.computerweekly.com/articles/article.asp?liArticleID=137383&liArticleTypeID=1&liCategoryID=6&liChannelID=28&liFlavourID=1&sSearch=&nPage=1 Computerweekly: US court confirms eBay infringed rival patent] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.insidebayarea.com/businessnews/onthemove/ci_2610837 Insidebayarea: EBay violated company's patent] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.auctionbytes.com/cab/abn/y05/m03/i16/s00 Auctionbytes: Court Rules on MercExchange v eBay Patent Case] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.pcpro.co.uk/news/70501/ebay-loses-latest-battle-in-patent-dispute.html PCPro: eBay loses latest battle in patent dispute] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.latimes.com/business/la-fi-ebay18mar18,1,494350.story?coll=la-headlines-business&ctrack=1&cset=true Latimes: Court Ruling May Force EBay to Scrap 'Buy-It-Now' Feature] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.keralanext.com/news/indexread.asp?id=154083 Keralanext: EBay May Face Injunction in Patent Case] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.theinquirer.net/?article=21916 The Inquirer: Ebay loses patent claim] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.reuters.com/newsArticle.jhtml?type=internetNews&storyID=7937436 Reuters: EBay May Face Injunction in MercExchange Case] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.internetnews.com/ec-news/article.php/3490761 InternetNews: Ebay Hit on Patent Infringement] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.thestreet.com/_more/tech/internet/10213583.html TheStreet: eBay Must Relitigate Patent Injunction] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.linuxbusinessweek.com/story/48752.htm LinuxBusinessWeek: Software Patents: Euro No-Patent Movement Needs Help]
+ * 2005-03-18 US [http://www.out-law.com/php/page.php?page_id=courtupholdsmosto1111152641&area=news Outlaw: Court upholds most of patent ruling against eBay] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.businessweek.com/ap/financialnews/D88TCL901.htm?campaign_id=apn_home_up BusinessWeek: Court: eBay violated small firm's patent] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-18 US [http://www.startribune.com/stories/535/5300185.html Startribune: EBay violated Virginia firm's patent, court finds] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-17 US [http://www.usatoday.com/tech/news/techpolicy/business/2005-03-18-ebay-buyitnow_x.htm USAToday: Court: eBay violated small firm's patent] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-17 US [http://www.baltimoresun.com/business/bal-bz.ebay18mar18,1,3204323.story?coll=bal-business-headlines&ctrack=1&cset=true Baltimoresun: Court ruling might force eBay to abandon its 'buy-it-now'feature] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-17 US [http://www.informationweek.com/story/showArticle.jhtml?articleID=159902419&tid=13690 InformationWeek: The impossibility of patents, EBay Faces Patent Problems] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-17 US [http://www.chicagotribune.com/technology/chi-0503210001mar21,1,4094024.story?coll=chi-technology-hed&ctrack=1&cset=true ChicagoTribune: EBay's fast-sale feature at risk] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-17 US [http://www.longmontfyi.com/tcBusiness/bizStories.asp?ID=1514 Longmontfyi: Ruling may force eBay to drop buy-it-now feature from site] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-17 US [http://www.expressnewsline.com/worldnews.php?action=fullnews&showcomments=1&id=1588 Expressnewsline: eBay May Face Injunction in Patent Case] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-17 US [:Ebay050317En: EBay to pay 29 mn USD for patented e-commerce method] (-> [:Ebay050317En: Ebay Buy it now!])
+ * 2005-03-19 EU [http://www.groklaw.net/article.php?story=20050319124156532 Groklaw: Reports from the UK Patent Office's Technical Contribution Workshops] (-> [:UkpoWorkshops0503En: UKPO Workshop]) 
+ * 2005-03-19 EU [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=467 NSP Forum: Report from UKPO Technical Contribution Workshop in Bolton] (-> [:UkpoWorkshops0503En: UKPO Workshop])
+ * 2005-03-09 EU [:Com050309En: European Commission 80% happy with program claims]
+ * 2005-03-19 EU [http://portal.wikinerds.org/brinkmann-interview-mar2005 Interview with Hurd developer Marcus Brinkmann: "software patents are absurd"]
+ * 2005-03-19 EU [:Meijer050319En: FFII: Erik Meijer MEP asks FFII's procedural questions to the Council]
+ * 2005-03-19 EE [:Offline0503En: Estonian petition to Estonian MEPs receives more than 1200 signatures within two days]
+ * 2005-03-19 EU [http://www.wired.com/news/politics/0,1283,66938,00.html?tw=wn_tophead_1 Wired: Euro Software Patents Pending]
+ * 2005-03-18 EU [http://k.lenz.name/LB/archives/001001.html Lenz Blog: Big Spender Alliance]
+ * 2005-03-19 IN [http://www.financialexpress.com/fe_full_story.php?content_id=85611 Financial Express: Centre yields, agrees to amend Patents Bill]
+ * 2005-03-18 US [http://www.ecommercetimes.com/story/Hatch-To-Lead-Senate-Panel-on-Intellectual-Property-41548.html E-Commerce Times: Hatch To Lead Senate Panel on Intellectual Property]
+ * 2005-03-19 IN [http://www.business-standard.com/common/storypage.php?storyflag=y&leftnm=lmnu2&leftindx=2&lselect=1&chklogin=N&autono=183939 Business Standard: Patents Bill: Govt takes Left on board]
+ * 2005-03-18 IN [http://www.telegraphindia.com/1050319/asp/business/story_4511991.asp The Telegraph: Patents get Left blessing]
+ * 2005-03-18 IN [http://www.hindustantimes.com/news/181_1285510,0008.htm HindustanTimes: Noisy scenes over patent bill, Goa budget]
+ * 2005-03-18 IN [http://www.tribuneindia.com/2005/20050319/main3.htm The Tribune: Amid opposition, patents Bill introduced in LS]
+ * 2005-03-18 IN [http://www.financialexpress.com/fe_full_story.php?content_id=85598 Financial Express India: We wont allow passage of Patent Bill: BJP]
+ * 2005-03-18 IE [http://dot.kde.org/1111180978/ KDE DOT: KDE.IE on Software patents]
+ * 2005-03-18 WW [http://business.newsforge.com/business/05/03/15/168201.shtml?tid=3 NewsForge: Leaders see symbiotic growth for open source and biotech]
+ * 2005-03-18 IN [http://www.expressnewsline.com/worldnews.php?action=fullnews&showcomments=1&id=1480 ExpressNewsLine: India's patent bill tabled in parliament]
+ * 2005-03-18 IN [http://economictimes.indiatimes.com/articleshow/1055589.cms The Economic Times: Govt introduces Patents Bill in LS]
+ * 2005-03-17 US [http://www.internetnews.com/ec-news/article.php/3490761 InternetNews: Ebay Hit on Patent Infringement] (-> [:Ebay050317En: EBay Pay-Up])
+ * 2005-03-18 EU [http://yro.slashdot.org/yro/05/03/18/1356203.shtml?tid=109&tid=123 Slashdot: Microsoft Fails to Comply With EU Requirements]
+ * 2005-03-18 EU [http://comment.zdnet.co.uk/0,39020505,39191841,00.htm ZDnet UK: Microsoft's Licence to Kill]
+ * 2005-03-17 UK [:UkpoWorkshop050317En: Report on the UKPO "Technical Contribution" workshop in Bolton] (-> [:UkpoWorkshops0503En: UKPO Workshops])
+ * 2005-03-17 EU [http://www.groklaw.net/article.php?story=20050317111550172 Groklaw: Slip, Sliding Away on Software Patents]
+ * 2005-03-17 EU [http://mplayerhq.hu/homepage/index.html Mplayer (a movie player for many operating systems) closes its webpage for patent infringement]
+ * 2005-03-17 EU [http://www.eweek.com/article2/0,1759,1777075,00.asp eWeek: Irish Open-Source Groups Protest Software Patents]
+ * 2005-03-18 IN [http://economictimes.indiatimes.com/articleshow/1055058.cms The Economic Times: Patents Bill to be sent to select panel of parliament]
+ * 2005-03-17 EU [http://news.zdnet.co.uk/business/legal/0,39020651,39191811,00.htm ZDNet UK: Irish developers protest against patents]
+ * 2005-03-07 EU [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=439 NSP: Council sends a mockery of a CP to the EP]
+ * 2005-03-10 IE [http://www.kde.ie/patents/statements/coveney.php KDE.ie: Fine Gael MEP Coveney  "battle between the Commission and the Parliament"]
+ * 2005-03-16 IE [http://www.kde.ie/patents/statements/marylou.php KDE.ie: Sinn Fein MEP McDonald "abhors the arrogance" of the Commissioners, 18 March hearing of GUE/NGL]
+ * 2005-03-16 IE [http://www.kde.ie/patents/ KDE Ireland: Software Patentability]
+ * 2005-03-16 US [http://www.thestreet.com/_more/tech/internet/10213583.html The Street.com: eBay Must Relitigate Patent Injunction] (-> [:Ebay050317En: EBay Pay-Up])
+ * 2005-03-16 CA [http://www.itbusiness.ca/index.asp?theaction=61&lid=1&sid=58375 IT Business: RIM settlement lifts cloud over BlackBerry's future]
+ * 2005-03-17 UK [http://www.theregister.co.uk/2005/03/16/rim_ntp_settle_lawsuit/ The Register: RIM settles NTP lawsuit for $450m]
+ * 2005-03-16 UK [http://www.law.ed.ac.uk/ahrb/script-ed/vol2-1/park.asp Script-Ed: Prior Art Searching for Software Patents]
+ * 2005-03-16 IE [http://www.groklaw.net/article.php?story=20050316114603315 Groklaw: Irish Linux Groups Write Their MEPs About SW Patents]
+ * 2005-03-16 US [http://news.zdnet.com/2100-1040_22-5619979.html Reuters/ZDnet: RIM settles NTP patent suit] (pays up $450m)
+ * 2005-03-01 FR [http://www.france-science.org/home/page.asp?target=nfo-let&PUBLID=7&LIVRID=8296&LNG=fr France-science.org: EU fight over software patenting]
+ * 2005-03-16 IN [http://www.hindustantimes.com/news/181_1282191,0000.htm Hindustan Times: BJP for referring Patent ordinance to Parliamentary Panel]
+ * 2005-03-10 NL [http://dewinter.com/modules.php?name=News&file=article&sid=143 WebWereld: Brinkhorst survives patent debate]
+ * 2005-03-10 DK [http://dewinter.com/modules.php?name=News&file=article&sid=142 WebWereld: Danish minister survives debate patents]
+ * 2005-03-16 DE [http://www.heise.de/english/newsticker/news/57602 Heise: Ministry of Economics and Labour: concerns about software patents are unfounded]
+ * 2005-03-16 IN [http://sify.com/finance/fullstory.php?id=13694429 Sify: Govt to introduce Patent Bill next week]
+ * 2005-03-15 UK [http://www.scottish.parliament.uk/business/motionsAndAmendments/motions.htm Scottish Parliament launching a motion against software patents] (see: S2M-2568)
+ * 2005-03-15 US [http://www.groklaw.net/article.php?story=20050315230914533 Groklaw: Microsoft's US XML Patent Application]
+ * 2005-03-15 UK [http://www.affs.org.uk/~mjr/swpatws200503/ Report on the UKPO "Technical Contribution" workshop in Coventry] (-> [:UkpoWorkshops0503En: UKPO Workshops])
+ * 2005-03-14 US [http://www.theregister.co.uk/2005/03/14/microsoft_settles_suit/ Microsoft settles Burst.com lawsuit]
+ * 2005-03-11 US [http://pacific.bizjournals.com/pacific/stories/2005/03/14/daily22.html Pacific Business News: Titan Key Software gets patent on spam blacklisting]
+ * 2005-03-11 US [http://news.zdnet.com/2100-1040_22-5611431.html ZDNet: RIM rivals ink licensing agreement]
+ * 2005-03-15 EU [:LinuxInsiderEn: TechNewsWorld]: [http://www.technewsworld.com/story/41376.html Lowering the Volume in the Software Patent Debate] (-> [:LinuxInsiderEn: LinuxInsider info])
+ * 2005-03-15 IN [http://www.financialexpress.com/fe_full_story.php?content_id=85335 The Financial Express: Embedded software patenting unlikely]
+ * 2005-03-15 EU [http://lxer.com/module/newswire/view/32951/ LXer: Software patents in the banana-union (EU): short summary]
+ * 2005-03-15 US [http://www.newscientist.com/article.ns?id=dn7149 NewScientist: Online purchase could give you away]
+ * 2005-03-15 EU [http://www.theinquirer.net/?article=21839 The Inquirer: European Union is a banana republic] ( -> [http://www.google.com/search?q=banana+republic google] )
+ * 2005-03-10 EU [:Epip050310En: FFII: Report on the 5th Conference on European Policy for Intellectual Property]
+ * 2005-03-15 EU [http://www.groklaw.net/article.php?story=20050309212143216 Groklaw: More on EU Software Patents, Prior Art, and Another NZ MS XML Patent]
+ * 2005-03-15 EU [:LtrFfiiCons050308En: FFII: FFII sends 23 procedural questions to the Council Legal Services] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-15 NZ [http://yro.slashdot.org/article.pl?sid=05/03/15/0118201&tid=155 Slashdot: MS Files for Broad XML/Word-processing Patent in NZ] (-> [http://wiki.ffii.org/SwpatnzEn Nz])
+ * 2005-03-13 EU [http://www.legalmediagroup.com/default.asp?Page=1&SID=15165&CH=5&CN=&CountryName=Belgium&Type=News MIP Week: Software patent survival in Parliaments hands]
+ * 2005-03-15 EU [http://www.finfacts.com/irelandbusinessnews/publish/article_1000878.shtml FinFacts: Microsoft and Time Warner abandon acquisition] (-> [:Drm0412En: ContentGuard])
+ * 2005-01-23 UK [http://news.bbc.co.uk/1/hi/technology/3422853.stm BBC: Software patents 'threaten Linux']
+ * 2005-03-15 EU [http://www.computerweekly.com/articles/article.asp?liArticleID=137284&liArticleTypeID=1&liCategoryID=2&liChannelID=28&liFlavourID=1&sSearch=&nPage=1 ComputerWeekly: Software patents row heads for stalemate]
+ * 2005-03-09 EU [http://www.eweek.com/article2/0,1759,1774385,00.asp eWeek: EU Commissioner Reding: Patent Verdict Is in Good Hands]
+ * 2005-03-14 WW [http://ask.slashdot.org/article.pl?sid=05/03/14/1621240 Slashdot: Understanding (and Avoiding) Software Patents?]
+ * 2005-03-14 EU [http://www.groklaw.net/article.php?story=20050314114813919 Groklaw: Discussion of Sharon Bowles letter]
+ * 2005-03-10 US [http://www.microsoft.com/windowsserversystem/facts/indemnification/indemwp.mspx Microsoft: Yankee Group Report on Indemnification (Win vs. Open Source)]
+ * 2005-03-12 EU/DE [http://www.cebit.de/newsanzeige_e.html?multi=1&back=/branchenmeldungen_e&news=14562&back=%2Fbranchenmeldungen_e&x=1 CeBIT: Microsoft and BSA call for a reform of the patent system] (remark: at !CeBIT, FFII is in [http://wiki.ffii.org/CeBIT05En Hall 6, Booth 532])
+ * 2005-03-15 NZ [http://www.nzherald.co.nz/index.cfm?c_id=5&ObjectID=10115247 The New Zealand Herald: Gates up to old tricks over intellectual property rights]
+ * 2005-03-14 EU [http://www.itweek.co.uk/news/1161892 ITWeek: EU patent directive takes step forward] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-10 US [http://www.microsoft-watch.com/article2/0,1995,1775136,00.asp MS-Watch: Microsoft Advocates for Patent Reform]
+ * 2005-03-14 EU [http://news.ft.com/cms/s/4de5db4e-942e-11d9-9d6e-00000e2511c8.html FT: Ericsson boss - "major, major problem for the technology industry"]
+ * 2005-03-12 EU [http://www.shanseifan.com/Famille/05_Muriel/Blog/luxembourg9cu.jpg Muriel Blog: Buy a Law from the Luxemburg Presidency!] (satirical advertisement)
+ * 2005-03-12 IN [http://www.hindu.com/2005/03/12/stories/2005031201151000.htm The Hindu: The draft patent law] (-> [http://wiki.ffii.org/SwpatinEn swpat in India])
+ * 2005-03-07 EU [:Hudghton050308En: Scottish National MEP: Council position "needs radical overhaul"]
+ * 2005-03-10 EU [:Rossi050310En: Legal-economic study: Commission text lacks legal certainty and economic rationale]
+ * 2005-03-11 US [http://www.theregister.co.uk/2005/03/11/microsoft_clean_up_patent_business/ The Register: Microsoft pot calls Patent Office black]
+ * 2005-03-12 US [http://www.gameshout.com/news/032005/article600.htm gameshout.com: Yahoo Countersued by Xfire]
+ * 2005-03-12 US [http://www.registerguard.com/news/2005/03/12/d6.bz.digest.0312.html Register-Guard: Microsoft to pay $60 million in settlement with company]
+ * 2005-03-13 US [http://i-newswire.com/pr9947.html MS PR@I-newswire: MS and Burst.com settlement]
+ * 2005-03-13 UK [http://www.guardian.co.uk/Columnists/Column/0,5673,1436250,00.html John Naughton/The Guardian: It's patently absurd to let the bureaucrats take over]
+ * 2005-03-11 US [http://www.microsoft-watch.com/article2/0,1995,1775534,00.asp MS-Watch: Pundits Weigh In on Microsoft's Proposed Patent Reforms]
+ * 2005-03-12 EU [:McCreevyParl050308En: Commissioner McCreevy reinterprets the European Parliament's motives]
+ * 2005-03-12 IE [http://www.finfacts.com/irelandbusinessnews/publish/article_1000839.shtml Finfacts: Microsoft pays $60 million in patent-infringement claim]
+ * 2005-03-12 US [http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1110582613455&call_pageid=970599119419 Toronto Star: RIM rivals strike patent alliance]
+ * 2005-03-11 WW [http://blogs.zdnet.com/BTL/index.php?p=1140 ZDNet blog: Microsoft wants patent system fixed (but not eliminated)]
+ * 2005-03-10 NL [:NlParl050310En: Report: Dutch Tweede Kamer debate from 10 March 2005] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://mailman.fsfeurope.org/pipermail/press-release/2005q1/000096.html FSF-Europe: European Cities will suffer from software patents]
+ * 2005-03-11 EU [http://www.linuxinsider.com/story/news/41295.html Linux Insider: IT Industry Fears EU Patent Law Will Stifle Small Firms]
+ * 2005-03-10 EU [:LtrFfiiCons050308En: FFII: Letter to the Council Presidency: What happened on Monday?] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-10 WW [http://www.eweek.com/article2/0,1759,1775150,00.asp eWeek: Patents Cast Shadow on Future Development]
+ * 2005-03-08 US [http://politics.slashdot.org/politics/05/03/11/1216222.shtml?tid=109&tid=155&tid=123&tid=219 Slashdot: Microsoft Calls For Patent Law Change]
+ * 2005-03-08 US [http://lwn.net/Articles/126739/ LWN: FFII: The patent directive and the European constitution]
+ * 2005-03-10 US [http://informationweek.com/story/showArticle.jhtml?articleID=159400910 InformationWeek: Microsoft Pushes Patent Reform]
+ * 2005-03-11 IN [http://sify.com/finance/fullstory.php?id=13690928 Foreign nations lobbying for patents law]
+ * 2005-03-11 EU [http://www.opendemocracy.net/debates/article-8-40-2370.jsp OpenDemocracy: Patents for profit: dystopian visions of the new economy]
+ * 2005-03-11 EU [:Com050311En: McCreevy: Commission will take "utmost account" of Parliament amendments]
+ * 2005-03-10 EU [http://www.theregister.co.uk/2005/03/10/apple_ipod_patent_lawsuits/ The Register: Apple faces patent lawsuits over its iPod] (-> Apple0503En)
+ * 2005-03-07 EU [http://www.europapress.es/europa2003/noticia.aspx?cod=20050307160844&tabID=1&ch=69 EP (Press Agency): Spanish Minister - the software patent will have difficulties to come out]
+ * 2005-03-03 EU [http://europa.eu.int/idabc/en/document/3955/5791 EU IDABC: European ICT market expanding faster than US and Japanese markets]  (even with all the "legal uncertainty" about the enforceability of software patents)
+ * 2005-03-10 UK [http://www.kuro5hin.org/story/2005/3/9/93357/91614 Kuro5hin: What if patents applied to literature?]
+ * 2005-03-10 US [http://informationweek.com/story/showArticle.jhtml?articleID=159400910 InformationWeek: Microsoft pushes Patent Reform]
+ * 2005-03-10 US [http://www.eweek.com/article2/0,1759,1775152,00.asp eWeek: Microsoft Advocates for Patent Reform]
+ * 2005-03-10 US [http://www.forbes.com/technology/2005/03/10/cx_ld_0310msft.html Forbes: Microsoft to the rescue?]
+ * 2005-03-10 US [http://www.internetnews.com/bus-news/article.php/3489181 Internetnews.com: Mr Smith went to Washington for Patent reform]
+ * 2005-03-10 US [http://www.infoworld.com/article/05/03/10/HNmicrosoftpatent_1.html IDG/InfoWorld: Microsoft calls for patent reform]
+ * 2005-03-11 IN [http://economictimes.indiatimes.com/articleshow/1048224.cms The Economic Times: Patents - UPA yields an inch, Left wants a mile]
+ * 2005-03-10 EU [http://news.ft.com/cms/s/7589aefa-91a4-11d9-8a7a-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html Financial Times UK: Barroso's accord with parliament remains brittle]
+ * 2005-03-11 NZ [:SwpatnzEn: Submissions Deadline in New Zealand tomorrow]
+ * 2005-03-10 EU [http://asia.cnet.com/news/software/0,39037051,39220920,00.htm Cnet Asia: In Europe, patent olive branch--or threat?]
+ * 2005-03-10 US [http://www.ipo.org/Content/NavigationMenu/Meetings_and_Events/2005_IPO_Meetings_and_Events/Patent_Trolls_and_Patent_Property_Rights/Patent_Trolls_and_Patent_Property_Rights.htm IPO: 'Patent "Trolls" and Patent Property Rights' conference on 14th March 2004]
+ * 2005-03-10 PT [:Castells050310En: O Público: Manuel Castells says "Patenting software equals destroying software"]
+ * 2005-03-10 UK [http://www.guardian.co.uk/online/story/0,,1433686,00.html Guardian: Second sight]
+ * 2005-03-07 DK [:BendtGitte050307En: Danish Konservative Party: "A Good Day For Software Developers"]
+ * 2005-03-10 EU [http://www.pcpro.co.uk/news/70196/ec-to-allow-computer-patent-law-destruction.html PCPro UK: EC to allow computer patent law destruction]
+ * 2005-03-10 EU [http://news.bbc.co.uk/1/hi/technology/4335421.stm BBC: Last chance for EU software law]
+ * 2005-03-10 EU [:EpoEp050310En: European Patent Office organises "information day" in the European Parliament]
+ * 2005-03-10 DK [:Kofod050310En: Politiken: Social Democrats saving Bendtsen]
+ * 2005-03-10 NL [:Brinkhorst050310En: Brinkhorst: Danish decision about software patents made in backroom]
+ * 2005-03-07 EU [http://www.nufw.org/news.html NuFW software releases NuFW 1.0.0  codename "European Parliament, Save me!"]
+ * 2005-03-07 EU [http://www.cebit.de/newsanzeige_e.html?multi=1&back=/branchenmeldungen_e&news=14396&back=%2Fbranchenmeldungen_e&x=1 Heise: The EU Council passes controversial directive on software patents without a renewed debate] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://europa.eu.int/rapid/pressReleasesAction.do?reference=MEMO/05/81&format=HTML&aged=0&language=EN&guiLanguage=en Commission welcomes "adoption" and "will now engage constructively ... to reach a compromise in the interest of a balanced result"] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-09 EU [http://europa.eu.int/rapid/pressReleasesAction.do?reference=SPEECH/05/148&format=HTML&aged=0&language=EN&guiLanguage=en McCreevy again: Parliament do your job]
+ * 2005-03-09 DE [http://europa.eu.int/rapid/pressReleasesAction.do?reference=SPEECH/05/156&format=HTML=0&language=EN&guiLanguage=en Commissioner Reding Cebit05: We also need to improve the efficiency and effectiveness of the ... innovation system]
+ * 2005-03-09 DK [:Samuelsen050309En: Anders Samuelsen MEP: Bendt Bendtsen shows contempt for Danish Parliament]
+ * 2005-03-09 US [http://wiki.ffii.org/Epstein050309En Patent misinformation? Depends on where you stand]
+ * 2005-03-09 DK [:Bendtsen050309En: Bendtsen furious over Dutch accusation]
+ * 2005-03-09 EU [http://www.itworldcanada.com/Pages/Docbase/ViewArticle.aspx?ID=idgml-b9160734-9f19-4423-959e-8ced15d49569&News=Global%20Newswatch itWorldCanada/IDG: E.U. ministers sign off on proposed patent law] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-09 US [http://news.zdnet.co.uk/business/legal/0,39020651,39190652,00.htm ZDNet UK: Amazon patents gender stereotyping]
+ * 2005-03-07 EU [http://www.bsa.org/eupolicy/press/newsreleases/Computer-Implemented-Inventions-Directive.cfm BSA Welcomes EU governments' Common Position on the "CII" Directive and calls for a reform agenda to enhance SMEs' access to the European patent system]
+ * 2005-03-07 EU [http://www.bsa.org/eupolicy/loader.cfm?url=/commonspot/security/getfile.cfm&PageID=22769 BSA letter to the EU Commission on the software patents directive] (written 2005-02-21, but published later, from [http://swpat.ffii.org/players/mingorance/index.en.html Francisco Mingorance] to Comissioner McCreevy)
+ * 2005-03-09 US [http://www.groklaw.net/article.php?story=2005030910250417 Groklaw: EuroParl Press Release - The Ball is in Our Court Now]
+ * 2005-03-08 DK [:Dkparl050308En: Parliament questions Bendtsen: Did Denmark reject its own request?]
+ * 2005-03-09 EU [http://www.gnome.org/ Gnome.org project closes its homepage to thank the Council of Ministers]
+ * 2005-03-09 EU [http://www.ffii.org/~arebenti/docu/nonesofmarch/DK-CY-declarations-en.doc Council: Unilateral declarations from Cyprus and Denmark]
+ * 2005-03-09 EU [http://news.zdnet.co.uk/business/0,39020645,39190644,00.htm ZDNet UK: EC - We'd accept software patent defeat]
+ * 2005-03-09 EU [http://news.zdnet.co.uk/business/legal/0,39020651,39190645,00.htm ZDNet UK: European Parliament cries foul over patent directive]
+ * 2005-03-09 BE [:Verwilghen050309: Verwilghen: "This B-item request doesn't exist"]
+ * 2005-03-09 EU [http://k.lenz.name/wordpress/index.php?p=27 Lenz Blog: Aussi Les Autres] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 EU [http://europa.eu.int/rapid/pressReleasesAction.do?reference=SPEECH/05/151&format=HTML&aged=0&language=EN&guiLanguage=en Charlie McCreevy's Statement to the European Parliament on "Computer Implemented Inventions"] 
+ * 2005-03-09 EU [http://www.oreillynet.com/pub/a/network/2005/03/08/softwarepatents.html O'Reilly.net: Software Patents in the EU]
+ * 2005-03-09 EU [http://news.zdnet.co.uk/business/legal/0,39020651,39190615,00.htm ZDNet UK Talkback: Despair greets software patent bill] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-09 EU [http://www.euractiv.com/Article?tcmuri=tcm:29-136499-16&type=News Euractiv: Heated reactions to Council vote on software patents] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://www.ebcvg.com/news.php?id=4722 EBCVG: EU software patent directive approved] ("some IT vendors, including Sun Microsystems Inc., say the proposal would open the door to a U.S.-style patent regime") (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 EU [http://www.reuters.com/newsArticle.jhtml?type=internetNews&storyID=7842081 Reuters: No new directive if Parliament rejects in 2nd reading says McCreevy]
+ * 2005-03-07 EU [http://www.ueapme.org/docs/press_releases/pr_2005/050307_Computer_Patent.pdf UEAPME: Council decision a blow to new proposal on patents for computerimplemented inventions] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 EU [:Ep050308En: McCreevy: The ball is now very clearly in the European Parliaments court ]
+ * 2005-03-08 EU [http://www.euobserver.com/?sid=9&aid=18616 EU Observer: EU ministers agree software patent law] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 EU [http://www.cbronline.com/article_news.asp?guid=DD0429F8-A3FD-4A08-B985-0AE6814F051D Computer Business Review: EU Council adopts technology patent directive] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 US/DK [http://www.groklaw.net/article.php?story=20050308084230867 Groklaw: Danish reactions collected] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 EU [http://www.eweek.com/article2/0,1759,1773854,00.asp eWeek: Is There No Stopping European Software Patent Law?] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 UK [http://news.ft.com/cms/s/9c74a530-8f77-11d9-af70-00000e2511c8.html FT: EU ministers approve new software patent draft law] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 UK [http://news.ft.com/cms/s/0304fe62-8f78-11d9-af70-00000e2511c8.html FT: Smaller Companies 'in firing line'] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 UK [http://news.ft.com/cms/s/ce231b84-8f77-11d9-af70-00000e2511c8.html FT: Leader - Patently a problem] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 UK [http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2005/03/08/cnbrus08.xml&menuId=242&sSheet=/money/2005/03/08/ixcity.html Telegraph: Brussels accused of failing to halt software 'stitch-up'] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 IE [http://www.enn.ie/frontpage/news-9592703.html ENN: EU Council approves software patents law] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 UK [http://www.out-law.com/php/page.php?page_id=councilapprovespat1110202258&area=news Out-law: Council approves Patents Directive] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 DK [http://wiki.ffii.org/index.cgi?BendtGitte050307En "A Good Day For Software Developers"] press release from Mr. Bendtsen's party([http://www.ffii.org/~zoobab/bh.udev.org/filez/swpat/DenmarkBent/05-03-07bendtsen.png screenshot]) (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://ue.eu.int/ueDocs/cms_Data/docs/pressData/en/misc/84021.pdf Council Press Release about adoption] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://ue.eu.int/cms3_applications/Applications/newsRoom/GalleryViewer.asp?command=VIEW&BID=88=07/03/2005&rubrique=188&LANG=1 Council: High resolution pictures of Competitiveness Council] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-08 JP [http://k.lenz.name/wordpress/index.php?p=26 Lenz: Luxembourg Presidency Making Up Some New Rules] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [:OpenLtr050307En: Open letter to the EU: Council, we have a problem]
+ * 2005-03-07 EU [:Juri050307En: FFII: JURI asks for Council decision documentation]
+ * 2005-03-07 EU [http://comment.zdnet.co.uk/other/0,39020682,39190515,00.htm ZDNet Leader: Software patents make a mockery of European ideals] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://www.greens-efa.org/en/press/detail.php?id=2351&lg=en The Greens/EFA: "the Greens will work to assemble as large a lobby as possible" ] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://www.vnunet.com/news/1161751 VNUnet: EU Council approves software patent initiative] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 US [http://www.nytimes.com/aponline/technology/AP-EU-Software-Patent.html AP/NYT: EU Governments OK Software Patent Bill] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://www.google.com/url?sa=D&q=http%3A//www.patents4innovation.org/docs/pr070305tc.pdf EICTA: welcomes Council agreement] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://yro.slashdot.org/article.pl?sid=05/03/07/1130243&tid=155&tid=218 Slashdot: EU Software patent directive adopted] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://news.ft.com/cms/s/0982dfcc-8efe-11d9-bb12-00000e2511c8.html Reuters/FT: EU ministers back disputed software patent proposal] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://news.zdnet.co.uk/business/legal/0,39020651,39190497,00.htm ZDnet: Software patent directive adopted] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://media.ffii.org/Council050307/ FFII: Council audio recording]
+ * 2005-03-07 EU [http://www.businessweek.com/ap/financialnews/D88M31SO0.htm?campaign_id=apn_home_down AP/BusinessWeek: EU governments OK software patent bill] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=439 NSP: EU Council sends a mockery of a Common Position to the European Parliament for a Second Reading] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [http://news.bbc.co.uk/1/hi/technology/4325215.stm BBC: EU ministers endorse patent law] (-> [:Cons050307En: Adoption Farce])
+ * 2005-03-07 EU [:Cons050307En: FFII: Council Presidency Adopts Software Patent Agreement Against Council's Rules]
+ * 2005-03-07 EU [:Stream050307En: FFII provides a live audio stream of the Council debate]
+ * 2005-03-07 EU/DK [:Berlingske050307En: Berlingske: IT worlds eyes rest on Bendt] (English translation of Danish article)
+ * 2005-03-07 EU [http://www.iht.com/articles/2005/03/06/business/soft.html Herald Tribune: EU ministers to address patents]
+ * 2005-03-07 EU [http://www.pcpro.co.uk/news/70091/software-patents-the-directives-cut.html PC Pro: Software patents: the directive's cut]
+ * 2005-03-06 DE [:LtrCons0503En: FFII launches Thank Denmark Campaign to Support B-Item Move]
+ * 2005-03-06 EU [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=435 NSP: Why European Democracy will benefit from a renegotiation]
+ * 2005-03-03 US [http://www.businessweek.com/technology/content/mar2005/tc2005033_4497_tc119.htm BusinessWeek Online: SCO, A Linux Nemesis on the Rocks]
+ * 2005-03-06 UK [:Ukparl050216En: House of Commons updated on EU Software Patent Directive]
+ * 2005-03-05 EU [:Apple0503En: iTunes/iPod under threat from pending European Patent]
+ * 2005-03-05 EU [:NRC050305En: NRC Handelsblad editorial: Europe shouldn't unnecessarily juridically encumber software]
+ * 2005-03-03 EU [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=428 NSP: Denmark and Poland will deal the Death Blow to May 2004 Text]
+ * 2005-03-04 EU [http://www.groklaw.net/article.php?story=20050304154900524 Groklaw: Denmark - SW Patent Directive as B-Item Only on Monday]
+ * 2005-03-04 WW [http://blogs.zdnet.com/BTL/index.php?p=1110 ZDNet: DRM patent holder seeks 12 percent of iTunes/iPod gross from Apple] (-> Apple0503En)
+ * 2005-03-04 EU [http://www.theregister.co.uk/2005/03/04/software_patent_directive/ TheRegister: Euro ministers set to OK patent measure]
+ * 2005-03-04 EU [http://linuxtoday.com/infrastructure/2005030402726NWLL LinuxToday: NoSoftwarePatents - Denmark and Poland Will Deal the Death Blow To the Council's Current Proposal]
+ * 2005-03-04 EU [http://linuxtoday.com/infrastructure/2005030401926NWLLPB LinuxToday: Reuters - EU Sees Approval of Contested Software Patent Bill]
+ * 2005-03-04 EU [http://www.pcpro.co.uk/news/70075/poland-continues-fight-over-eu-patent-directive.html PC Pro UK: Poland continues fight over EU patent directive]
+ * 2005-03-04 EU [http://yro.slashdot.org/article.pl?sid=05/03/04/177230&tid=155&tid=219 Slashdot: EU Patents Won't Stay Dead]
+ * 2005-03-04 EU [http://www.ecommercetimes.com/story/EU-Ready-To-Approve-Patent-Law-Monday-41109.html E-Commerce Times: EU Ready To Approve Patent Law Monday]
+ * 2005-03-04 EU [http://www.techweb.com/wire/ebiz/60405659 TechWeb: Europe's Software Patents Pendulum May Swing] 
+ * 2005-03-04 EU [http://news.zdnet.co.uk/business/legal/0,39020651,39190297,00.htm ZDNet UK: Last-gasp attempt to block patent directive] (-> [:Dkparl050304En: Danish B-Item])
+ * 2005-03-04 EU [http://www.legalmediagroup.com/mip/includes/print.asp?SID=2786 Managing Intellectual Property: EU commissioner sets IP focus]
+ * 2005-03-03 EU [http://www2.europarl.eu.int/omk/OM-Europarl?PROG=PRESS-NEWSRP&L=EN&PUBREF=-//EP//TEXT+PRESS+NR-20050303-1+0+DOC+XML+V0//EN Europarl news: Computerised inventions - The Commission refuses to budge] (-> [:Com050228En: Commission refusal])
+ * 2005-03-04 EU [http://www.eweek.com/article2/0,1759,1772512,00.asp eWeek: EU Patent Law Could Impede Open Source]
+ * 2005-03-04 CZ [:Roithova050304En: MEP Roithova (Czech EPP) demands B-item from Czech government]
+ * 2005-03-04 DK [http://www.computerworld.dk/Default.asp?Mode=2&ArticleID=27346 Computerworld online: Denmark blocks software patents] (-> [:Dkparl050304En: Danish B-Item])
+ * 2005-03-04 EU [:Dkparl050304En: FFII: Danish Parliament obliges Minister to renegotiate software patents in Council]
+ * 2005-03-04 EU [http://news.com.com/EU+set+for+vote+on+software+patents/2100-1014_3-5599580.html?tag=nefd.top CNET: EU set for vote on software patents] (Presidency expects Vote on Monday)
+ * 2005-03-04 DK [http://itpol.dk/bpunkt2005 IT-pol.dk: Danish Parliament calls for B-item] (-> [:Dkparl050304En: Danish B-Item])
+ * 2005-03-04 EU [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=426 NSP: Microsoft takes over EU market ministry] (hoax/satire)
+ * 2005-03-04 EU [http://www.greens-efa.org/en/press/detail.php?id=2344&lg=en Greens-Efa: McCreevy's 30 seconds were just not enough]
+ * 2005-03-04 EU [http://k.lenz.name/LB/archives/000996.html Lenz Blog: Qui Tacit]
+ * 2005-03-04 PL [:Kleiber050304En: Polish Informatisation minister: we cannot fight alone]
+ * 2005-03-03 EU [http://www.ffii.org/~zoobab/bh.udev.org/filez/swpat/HanoteauNooteboom/ Belgian SME receives a reply to a letter from Noteboom (DG MARKT)] (no precisions about "economic majority" ponderation)
+ * 2005-03-03 WW [http://www.groklaw.net/article.php?story=20050303153919755 Groklaw: EU MEP Says Bill Gates Influenced No Restart Decision]
+ * 2005-03-03 EU [:Gargani050303En: FFII: JURI schedules software patents discussion on Monday 7 March 2005]
+ * 2005-03-03 NL [http://wiki.vrijschrift.nl/Motions050303 Vrijschrift: Two motions in the Netherlands on software patents]
+ * 2005-03-03 EU [http://www.itworld.com/Man/2687/050303eupatent/ ITworld: Commission says 'no' to restart of patents directive] (-> [:Com050228En: Commission refusal])
+ * 2005-03-03 NL [:Nl050303En: NL Parliament: "if other state asks for B-item, then make no objection"]
+ * 2005-02-03 DE [:Lehne050203En: MEP Lehne (EPP) fears restriction of patentability, asks Commission to withdraw the directive]
+ * 2005-03-03 DE [http://wiki.ffii.org/Muenchen050303En City of Munich: Mayor Ude wants government to start renegotiations in Council] (that is, B-item)
+ * 2005-03-03 BE [http://www.ps.be/index.cfm?R_ID=1010&Content_ID=8982672 PS.Be: Walloon Socialists support EP's restart request and ask Council to take into account the EP's concerns] (French)
+ * 2005-03-03 EU [http://news.bbc.co.uk/1/hi/technology/4314397.stm BBC: 'No re-draft' for EU patent law] (-> [:Com050228En: Commission refusal])
+ * 2005-03-03 EU [http://www.cbronline.com/article_news.asp?guid=CA60024E-A78D-41CC-A47A-5D2DF0B444F6 CBR: EC rejects European patent restart] (-> [:Com050228En: Commission refusal])
+ * 2005-03-03 EU [:Europarl050303En: FFII: McCreevy unconvincing at EP Presidents' Meeting]
+ * 2005-03-03 EU [:McCreevy050303En: FFII: McCreevy replacing Barroso in EP at 11.00]
+ * 2005-03-03 EU [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=420 NSP: Barroso acted in collusion with Microsoft, says high-profile MEP]
+ * 2005-03-03 AT [http://www.spe.at/berger/3/a.html#pm19 Berger: Barroso playing high-stakes poker with EP]
+ * 2005-03-03 WW [http://www.zdnet.com.au/news/software/0,2000061733,39183165,00.htm ZDNet AU: Gates gonged as OSS community fights patent war]
+ * 2005-03-03 EU [http://www.legalweek.com/ViewItem.asp?id=23247 Legal Week: Intellectual Property: Not far enough]
+ * 2005-03-02 US [http://www.programmersheaven.com/app/news/DisplayNews.aspx?NewsID=3898&ZoneID=0 Programmers Heaven: Codepatents offers RSS feeds on new software patents granted in US]
+ * 2005-03-02 EU [:Cons050302En: FFII: Urgent Council Consultation on Software Patent A-Item]
+ * 2005-03-02 EU [:Barroso050302En: FFII: Barroso declines invitation for talks with Parliament]
+ * 2005-03-02 WW [http://www.vnunet.com/news/1161632 VNUNet: User group calls for open security standards]
+ * 2005-03-02 US [http://news.zdnet.com/2100-3513_22-5596500.html ZDNet: Appeals court overturns Eolas decision] (-> [:SwxaiEolasEn: Eolas])
+ * 2005-03-02 EU [:Alvaro050302En: MEP Alvaro: Barroso affronts European Parliament]
+ * 2005-03-02 EU [http://www.out-law.com/php/page.php?page_id=commissionrejectsp1109774650&area=news Out-Law.com: Commission rejects Patent Directive restart] (-> [:Com050228En: Commission refusal])
+ * 2005-03-02 NL [:Philips050302En: FFII: Patent FUD spread in Dutch Parliament using Philips documents]
+ * 2005-03-02 US [http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050302005193&newsLang=en BusinessWire PR: Symantec Granted Patent for Key Information Security Technology] (-> [:SwpikxraniEn: Patent granting stories])
+ * 2005-03-01 UK [:LtrTannockGladwell050301En: Tory MEPs back Council Software Patent Agreement]
+ * 2005-03-02 EU [http://www.technewsworld.com/story/opensource/eu-ec-ciid-patent-open-source-europe-40990.html Tech News World: European Commission refuses "CIID" rewrite] (-> [:Com050228En: Commission refusal])
+ * 2005-03-02 EU [http://www.pcpro.co.uk/news/69931/european-commission-refuses-to-rewrite-patent-directive.html PC Pro UK: European Commission refuses to rewrite patent directive] (-> [:Com050228En: Commission refusal])
+ * 2005-03-01 EU [http://www.heise.de/english/newsticker/news/56932 Heise: Software patents: EU Commission officially rejects a restart to the proceedings] (-> [:Com050228En: Commission refusal])
+ * 2005-03-01 EU [http://swpat.ffii.org/papers/barroso0502/ FFII publishes Barroso (Commission) letter to Borell (EP)] (-> [:Com050228En: Commission refusal])
+ * 2005-03-01 EU [http://www.itworld.com/Man/2687/050301eupatent/ ITWorld: Hopes of fresh start on E.U. software patent law set back] (-> [:Com050228En: Commission refusal])
+ * 2005-03-01 DE [http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=414 NoSoftwarePatents.com Dr Krings (German conservatives) on Commission refusal] (-> [:Com050228En: Commission refusal])
+ * 2005-03-01 EU [http://www.theregister.co.uk/2005/03/01/ec_rebuffs_parliament/ The Register: EC rebuffs Parliament's patent restart request] (-> [:Com050228En: Commission refusal])
+ * 2005-03-01 EU [http://www.zdnet.com.au/news/software/0,2000061733,39182809,00.htm ZDNet AU: EU software patent law may halt Linux development: Aussie lawyer]
+ * 2005-03-01 EU [http://www.theage.com.au/news/Breaking/EU-software-patent-issue-comes-to-a-head-again/2005/03/01/1109546850564.html The Age: EU software patent issue comes to a head again] (-> [:Com050228En: Commission refusal])
+
+## * 2005-03-06 SE [http://www.ffii.se/christian/which_is_lying.html Engström: Who is lying?]
+
+
+ * [:Swpatcnino0502En: 2005-02 Software Patent News]
+ * [:Swpatcnino0501En: 2005-01 Software Patent News]
+ * [:Swpatcnino0412En: 2004-12 Software Patent News]
+ * [:Swpatcnino0411En: 2004-11 Software Patent News]
+ * [:Swpatcnino0410En: 2004-10 Software Patent News]
+ * [:Swpatcnino0409En: 2004-09 Software Patent News]
+ * [:Swpatcnino0408En: 2004-08 Software Patent News]
+ * [:Swpatcnino04En: 2004 Software Patent News]

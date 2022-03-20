@@ -1,0 +1,24 @@
+= Listenwahl =
+Jede Partei erstellt eine eigene durchnummerierte Liste eigener !KandidatInnen, die einen Sitz im Europäischen Parlament erhalten sollen. (Listenplatz 1 ist Herr/Frau x, Listenplatz 2 ist Herr/Frau y, ...)
+
+Welche Partei wieviele !KandidatInnen aus Ihrer Liste ins Parlament schickt, entscheidet der Wähler mit seiner Stimme und die Gesamtzahl der zu verteilenden Sitze.
+
+___Beispiel:___
+
+ Zu verteilende Sitze :200
+ Partei1: 40%
+ Partei2: 50%
+ 
+ 200*40% = 80  Abgeordente für Partei1
+ 200*50% = 100 Abgeordnete für Partei2
+
+Wer die !ParlamentarierInnen seien sollen, enscheidet die Liste. Weder Wähler noch Parteien haben darauf nach Erstellen der Liste noch Einfluss.
+
+ Partei1 und Partei2 haben jeweils 200 Abgeordnete auf ihrer Liste.
+ Partei1 darf nach obigem Bsp. 80 Abgeordnete ins Parlament schicken,
+ Partei2 100 Abgeornete.
+ 
+ Jede Partei schickt nun die ersten x Plätze (Partei1 80, Partei2 100)
+ ihrer Liste ins Parlament. Eine spezifische personelle Auswahl durch
+ den Wähler ist nicht möglich. Die Damen und Herren auf den nicht gewählten
+ Listenplätzen (Partei1 81-200, Partei2 101-200) ziehen nicht ins Parlament.

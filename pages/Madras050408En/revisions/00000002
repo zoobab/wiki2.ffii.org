@@ -1,0 +1,124 @@
+==           Workshop on "TRIPS Treaty and Computer Programs" ==
+===       at the Department of Legal Studies, University of Madras ===
+
+->
+[
+[[SwpatcninoEn| Patent news]]
+| [[http://www.ffii.in|FFII India]]
+]
+
+----
+
+==== Workshop Update:  ====
+===== Presentation Slides  =====
+[[http://mm.ffii.org/FrontPage?action=AttachFile&do=get&target=uom_2005_04_08_computer_programs.pdf|Introduction to Computer Programs by Sivasankar Chander]]
+
+[[http://mm.ffii.org/FrontPage?action=AttachFile&do=get&target=uom_2005_04_08_trips_tcp.pdf|TRIPs Treaty and Computer Programs by K. Ramanraj]]
+
+===== Brief Summary  =====
+
+Sivasankar started  the discussion  with the difficulties  involved in
+testing "program equivalence", giving two short programs, based on the
+Goldbach conjecture, calling  one as the goldbach (about  7 lines) and
+the  other the ghost_of_goldbach  (about 3  lines that  always returns
+true). Testing  program equivalence is  at the heart of  any "software
+patent" infringement suit, and Shiv  proved that it is well impossible
+to scientifically  research and conclude  that two given  programs are
+equivalent.  There are not  even any standard rules for scientifically
+testing and concluding "program equivalence".
+
+Sivasankar holds  a B.Tech. from  the Indian Institute  of Technology,
+Madras, and has  done M.E.  in Computer Science,  at !IISc., Bangalore.
+He  has worked  for IBM,  USA., and  has presented  several  papers on
+computer  science, and software  development.  Well,  he is  a typical
+expert  who  may   be  called  to  testify  in   a  "software  patent"
+infringement suit, to "prove"  that a given computer program infringes
+upon a  given "software  patent".  It is  apparent that no  expert can
+assert on  oath that two  programs are "equivalent"  or that one  is a
+copy of the other, except when the two are exact copies.
+
+Murali discussed the various business models used by software entities to do business.
+
+Ramanraj basically summarised the recent events that has mostly been discussed at in-parl mailing list; and to enliven the proceedings; took the audience through the recent decision pronounced in Eolas v. Microsoft, to explain how the system works in the US, and asked those present to explore and research the steps that could be taken against the illegitimate practice of "software patents" which are a barrier against free trade. 
+
+==== About the Department of Legal Studies: ====
+
+The Department of Legal Studies,  University of Madras, was founded by
+Prof. Charles  Henry Alexandrowicz, in  1952.  Dr. N. Balu,  a leading
+expert  on  International  Law,  particularly  the Law  of  Seas,  and
+Constitutional Law, now Heads the Department.  The Department also has
+a Chair  in Intellectual Property Rights, established  by the Ministry
+of Human Resource Development, Government of India.
+
+The Department leads the country  in organising the National Rounds of
+the Philip C. Jessup Moot  Court Competition on International Law, and
+is an  active centre for  debates touching upon International  Law and
+Constitutional Law.  The Department awards the Master of Law degree to
+candidates  who   complete  its  cources  on   International  Law  and
+Constitutional  Law.  It  also  conducts courses  on  Law relating  to
+Patents, Copyrights, and Trademarks.
+
+==== About the Workshop: ====
+
+The Department of Legal Studies, University of Madras, is organising a
+workshop on "TRIPS Treaty  and Computer Programs", that is tentatively
+scheduled  for 8th  April, 2005  (Friday).   The one  day workshop  is
+intended as  an "out-reach  programme" for software  professionals and
+students specialising in international law.
+
+The  legal aspects  of Computer  Programs  are governed  by the  TRIPS
+Treaty.   Globalisation, governance, and  almost every  human activity
+hinges upon Computer Programs and its legal setting. The workshop will
+discuss the  true nature  of computer programs,  and the  character of
+rights surrounding them.  The harm caused by mis-application of patent
+law  to cover computer  programs in  some member  states of  the TRIPS
+Treaty, notably US  and Japan, and the possible  remedies against such
+practices, will also be analysed threadbare.
+
+==== Contact Info: ====
+
+If you  would be  interested in participating  in the  workshop, could
+make a  sponsorship, or have  suggestions to make, please  write about
+it to ramanraj.k@gmail.com and ambrose@unom.ac.in
+
+==== Tentative Schedule: ====
+
+  9.30 AM - 10.00 AM : Tea and Registration
+ 10.00 AM - 10.45 AM : Inauguration
+ 10.45 AM -  1.00 PM : Talks by Experts/Invitees / Tea
+
+  1.00 PM -  2.00 PM : Lunch
+
+  2.00 PM -  3.00 PM : Talks by Faculty/Students
+  3.00 PM -  3.45 PM : Open House & Discussion / Tea
+  3.45 PM -  4.30 PM : Valedictory
+
+
+==== List of Speakers: ====
+
+Sivasankar Chander, Chief Architect, Qryptix
+  Topic for Talk : Introduction to Computer Programs
+
+M. Murali, Business Practices Division, AU-KBC Research Centre, MIT.
+  Topic for Talk : Business and Trading in Computer Programs
+  
+K. Ramanraj, M.L.,  Advocate, High Court, Madras
+  Topic  for Talk : TRIPS Treaty and Computer Programs
+
+Rohit Rai, !RedHat.
+  Topic for Talk : Software Development Crisis and Issues
+
+Dr. David Ambrose, Department of Legal Studies.
+  Topic for Talk : To be chosen
+
+==== List of Sponsorships: ====
+
+##1: !RedHat India has pledged Rs. 5,000/-
+
+##2: Support from ffii.org through this wiki page
+
+##3: ILUGC has pledged Rs. 1,000/- and sponsored wiki page for the workshop 
+
+==== Thanks :) ====
+
+Thanks to Holger Blasum and others at ffii.org for sponsoring this wiki page

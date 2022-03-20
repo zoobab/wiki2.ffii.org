@@ -1,0 +1,56 @@
+= 2004-08-05 DE BMJ: Münchener Ängste vor Softwarepatenten unberechtigt =
+-->
+[ [:SwpatcninoDe: Neues]
+| [:SwpatbmjDe: BMJ]
+| [:DietrichWelpDe: Welp]
+| [:Limux040804De: LiMux auf Eis]
+]
+----
+
+== Original-Meldung ==
+
+ * [http://www.heise.de/newsticker/meldung/49808 Heise-Meldung]
+
+== Zitate und Analyse ==
+
+S. auch
+Beitrag von [:HartmutPilchDe: Hartmut Pilch] im Heise-Forum: [http://www.heise.de/newsticker/foren/go.shtml?read=1&msg_id=6193679&forum_id=62373 Bundesregierung leugnet Erkenntnisse eigener Studien] und Analyse des [:Zypries040723De: Interviews vom 23. Juli], in dem Zypries und Hucko den Art 2b implizit für inakzeptabel erklären, zu dessen Unterstützung sie sich noch kurz zuvor gegenüber anderen Ministerien, Bundestagsabgeordneten und der Öffentlichkeit verpflichtet hatten.
+
+Heise zitiert den BMJ-Sprecher ([:DietrichWelpDe: Welp]?) wie folgt:
+
+  "Die vorgebrachten Sorgen sind nicht berechtigt",
+  verlautbarte am heutigen Donnerstag aus dem
+  Bundesjustizministerium. Es sei kein Fall in Deutschland
+  bekannt, in dem freie Software in einem
+  Patentverletzungsverfahren angegriffen wurde.
+
+ 1. Bisher fehlt für erfolgreiche Verletzungsverfahren die Rechtsgrundlage, und das Europäische Parlament möchte, dass dies so bleibt, wohingegen das [:SwpatbmjDe: BMJ] die Rechtsgrundlage zu liefern bestrebt ist, wie man auch an der folgenden Argumentation sieht.
+ 1. Trotz fehlender Rechtsgrundlage ist freie Software in Deutschland bereits heute rechtlichen Risiken ausgesetzt, die genügen, um Projekte zur Aufgabe zu zwingen.  So ist es etwa dem Projekt [http://swpat.ffii.org/patente/wirkungen/geogrid/index.de.html Geogrid] ergangen, das der FFII dem BMJ an einem Parlamentarischen Abend bekannt machte.  Das BMJ kennt auch unsere weiteren [http://swpat.ffii.org/patente/wirkungen/index.de.html Beispiele für Schädigung freier Software durch Patente].
+ 1. Frau Zypries selber erklärte in einem [:Zypries040628De: Presse-Interview] kürzlich, dass man die vom BMJ im Rat durchgesetzten Programm-Ansprüche brauche, um Patente wirksam gegen Softwarefirmen durchsetzen zu können.  Bisher sind solche Ansprüche zwischen den Gerichten umstritten und werden nur sporadisch von Prüfern bewilligt. 
+ 1. Es sind bereits [:SwpatStatDe: Fälle in europäischen Ländern], in denen Behörden durch Softwarepatente angegriffen wurden und viel Geld für ihre Verteidigung ausgeben mussten.  Es ist höchst unverantwortlich vom BMJ, wenn es einer städtischen Behörde empfiehlt, vor dieser Gefahr die Augen zu schließen.  Es wäre vielmehr die Pflicht des BMJ, die von der Bundesverwaltung verletzten Patente zu untersuchen und die Risiken zu ermitteln, wie vom FFII bereits [http://swpat.ffii.org/briefe/bund028/index.de.html seit Jahren gefordert].
+
+  Die Bundesregierung will folglich den Open-Source-Sektor
+  weiter stärken, gleichzeitig aber ihre positive Einschätzung
+  der Ausweitung des Patentsystems nicht aufgeben: "Freie
+  Software ist ein wichtiger Innovationsfaktor für den
+  Standort Deutschland", heißt es in der Stellungnahme
+  gegenüber heise online. "Sie trägt dazu bei, neue
+  Arbeitsplätze in kleinen wie großen IT-Unternehmen zu
+  schaffen und bietet gerade der jungen Generation die
+  Möglichkeit, technisches Know-how und Kreativität in einem
+  rasant wachsenden Zukunftssektor miteinander zu verbinden."
+  Andererseits dürfe aber der Patentschutz für technische
+  Erfindungen im Zusammenhang mit Software nicht in Frage
+  gestellt werden. Davon würden tausende Arbeitsplätze in der
+  Industrie abhängen, "die in Deutschland nur im Vertrauen auf
+  einen effektiven Patentschutz investiert."
+
+Letztere Einschätzung widerspricht den von der Bundesregierung selbst ermittelten Tatsachen.
+
+So berichtet etwa die [http://swpat.ffii.org/papiere/bmwi-fghmpi01/index.de.html Auftragsstudie des Fraunhofer-Instituts für Innovationsforschung ISI im Jahr 2001], es gäbe nach eingehender Befragung großer und kleiner Unternehmen der Primär und Sekundärbranche keine Anhaltspunkte für Behauptungen, dass die Investitionstätigkeit der Unternehmen in diesem Sektor von Patenten positiv beeinflusst würde.
+
+Auch sonst finden sich in der ökonomischen Fachliteratur keine Belege für die Behauptung des BMJ.
+
+Diese Behauptung wird dennoch schon seit geraumer Zeit standardmäßig vom BMJ überall vorgetragen, wo das Thema zur Sprache kommt.
+
+Sie ist Teil eines von dem Patentreferenten [:DietrichWelpDe: Dietrich Welp] aufgesetzten [:Welp0407De: Schreibens], welches auch im Namen der Justizministerin [:BrigitteZypriesDe: Brigitte Zypries] regelmäßig an besorgte Anfragende versandt wird.

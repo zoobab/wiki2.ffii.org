@@ -1,0 +1,116 @@
+= 2004 EFF Patent Busting Project =
+-->
+[ [:SwpatcninoEn: News]
+| [:SwxaiAcaciaEn: Acacia]
+| [:SwpatgacriEn: Shields]
+| [:SwpataharonianEn: GregNews]
+]
+----
+
+== News Updates & Chronology ==
+
+ * 2004-07-26 US [http://news.bbc.co.uk/1/hi/technology/3920793.stm BBC reports] on the spread of swpats, and EFF's patent-busting plan (many misconceptions, e.g. attributes [:SwxaiAcaciaEn: Acacia] patents to most recent US-specific business method caselaw)
+ * [http://www.charlotte.com/mld/charlotte/business/9163249.htm 2004-07-16 US Charlotte.com "Tough road for group seeking to nullify 'dubious' patents"]
+ * 2004-07-06 [:SwpataharonianEn: GregNews], announcing new [http://www.bustpatents.com/sorecode.htm patent busting ressources], remarks: "I am getting tired of amateurs like the EFF stumbling around in the dark trying to do the same thing, but just making things worse."
+ * [:Pcpro040702En: 2004-07-02 EFF patent busting project leader basically in favor of software patentability] (includes a quote of Jason Schultz, EFF Attorney)
+ * [:Eff040630En: 2004-06-30 EFF announces action against 10 obnoxious software patents]
+
+== Outline ==
+
+ * EFF Patent Busting Project: http://www.eff.org/patent/ (includes the official statement of EFF)
+
+The Electronic Frontier Foundation has announced that it will submit evidence to the US Patent Office 
+in an effort to prove that 10 particularly obnoxious software patents relate to ideas that were not new
+at the claimed date of invention.
+
+At the same time the Public Patent Foundation is [:PubpatSwpat04En: also trying to bust a few software patents].
+
+The problem with the EFF project and the statements of Jason Schulz are that the limit the badness to a few patents which caused press articles which said that Free and Open Source Software has to live with patents and patents should be get in defense, which is only the second-best way to deal with the problem, which will also not work e.g. against companies like Microsoft.
+
+[:HartmutPilchEn: Hartmut Pilch] comments:
+FFII has [:Amaz040125En: filed opposition against an Amazon patent at the EPO] to "get some exercise" in this game,
+but never saw this as an effective means of solving the problems caused by software patents.  On the contrary, FFII entered
+this game only after another group, [:SwpatgievDe: GI e.V.], had used these patents for a PR action in an effort to prove that current patent office caselaw was just fine for coping with "bad patents".  Unfortunately some of the rhetoric of EFF reminds me of this tactic.  Like FFII, EFF can't resist the temptation to go for a ride on the wave of publicity which surrounds some of the well-scandalised patents. But unfortunately, EFF is not using this publicity to help educate the public.
+
+== European Cousins ==
+
+Some of the objected patents, e.g. the one of [:SwxaiAcaciaEn: Acacia], have cousins granted by the European Patent Office.
+
+To find out about such kinship relations, take the US patent numbers from EFF and research for patent families
+at http://www.depatisnet.de/
+
+== General discussion  ==
+
+The most troubling statement on the side of EFF is:
+
+http://www.pcpro.co.uk/news/news_story.php?id=60051
+
+----
+Jason Schultz, staff attorney at the Electronic Frontier Foundation, which
+works to protect human rights and liberties online, told us he too thought
+software patents aren't entirely without merit.
+'/While I'm skeptical that patents are truly necessary to promote progress in the software field, they do have some utility./
+''For instance, patents are often a good source for documenting the history of innovation in a field or to help teach others how to perform a particular technique.''
+/Again, as long as the patent owners aren't using them to hinder competition or exploit others, I'm not yet ready to banish them completely./'
+----
+
+A programmer's statement on this could be:
+
+Before I started looking at software patents sharply, I was also under
+the impression that there could be some which might be good - like said
+by Schultz - because of the function of documentation.
+
+But after listening to the Speech of Richard Stallman on Software patents,
+it becomes clear that there is no merit in software patents, and looking
+at the patents really only confirms this.
+
+Since Schultz is a lawyer, it's not enough for him to just look
+at the patent registry and see the latest patents and patent applications
+from e.g. Microsoft, because as he is (I guess) not from the engineering camp.
+
+I was looking a while now and never found something teaching me something
+which have justified looking thru the patents. There must some reasons
+why programmers don't read patents:
+ * there are too many of them, you can't read them all
+ * what's described are simple and old ways of doing of which anybody working on it would have thought of it alone.
+
+And if there is something really intelligent advanced which can't
+be given away, the relevant part can be kept closed, which is not
+in the spirit of Free Software but at least better than patenting
+it, making it possible to the owner of the patent (which can change)
+to prohibit competition by Free Software in this area and on the
+same data format.
+
+It's not these 10 patents which are dangerous, it's the then-thousands
+of them with which could potentially hurt you and for which you have
+also no means of finding them, forget about a effective means of
+licensing, but and here comes the second isse which he overlooks,
+which at threat already when there is the possiblity that somebody
+>>might<< start "using them to hinder competition or exploit others".
+
+Also, each patents can eventually fall into the hands of somebody
+who wants (or has) to use it, as we've seen in numerious examples,
+even if the original patent holder only wanted to use it defensively.
+
+Patents are dangerous, even if they are unloaded in the cupboard,
+and you can only get safe of them in the software field by changing
+the laws to not hand them out anymore (this is secondary, actually)
+and change the environment for the others so that they can't shoot
+anymore (which is the primary action).
+
+This is the best thing which can be done - some things (like attacking
+some) can help to create awareness of the problem - but if it must be
+put to work in a way to help reaching the primary goal. The problem
+of their enforability and not the problem that there is some number
+of patents which might be dangerous. 
+
+When we say that there are "<number>" patents, we don't say:
+"Gee, these are stupid". No, we can cite many many computer
+scientists which have looked at the models, one said: "The Models are broken".
+They do the wrong thing:
+
+Paul Newell, professor of computer science: '''Response: The models are broken, the models are broken!'''
+
+http://swpat.ffii.org/papers/uplr-newell86/index.en.html
+
+Addenda with the PDF: http://kwiki.ffii.org/UplrNewell86En

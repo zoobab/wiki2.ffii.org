@@ -1,0 +1,43 @@
+= Internals of Aktiv (FFII Participation System)  =
+-->
+[ [[AktivEn| Aktiv]]
+]
+----
+
+(under construction)
+
+'''(do not add security-related info here - this page is public)'''
+
+== Building blocks ==
+(The division between front-end and back-end concerning implementation of "business-rules" is somewhat fuzzy. This has of - course - historical reasons...)
+
+=== Front-end  ===
+ * GUI + various process-flow (e.g. signup+payment procedure) + "business-rules" (e.g. amount of membership contribution)
+ * Consists of the CGI script "eintrag" (no .pl extension here) and the Knecht-Aktiv glue code in !Aktiv2Knecht.pm
+ * eintrag.b is a separate copy of the script for beta testing
+ * All data is saved to and requested from the Knecht back-end.
+ * Written in Perl (procedural - OO rewrite planned)
+ * Uses HTML::Template, HTML::!FillInForm and Mail::Sendmail (all on CPAN)
+ * Performs extensive data validation based on Data::!FormValidator (see CPAN)
+ * Sends out eMail to user asking for confirmation of receipt of eMail (address verification)
+ * Sends out eMail to buero@ffii.org when a new user signs up
+ * Author: mwas AT ffii DOT org
+ * --> AktivDeveloperFAQ
+ * Aktiv uses (has to use) the Knecht naming conventions, see http://www.ffii.org/verein/profil/profil.de.txt
+
+=== Back-end ("Knecht" aka Knecht.pm) ===
+Takes data requests from the front-end and uses 2 redundant storage systems for user data 
+ * text-based storage of user profiles (1 profil.txt file per user)
+ * parallel storage in a Postgres database
+ * Also implements some "business-rules" 
+ * Author: phm AT ffii DOT org
+ * --> KnechtEn
+
+Knecht also manages a MEP database and a patent database.
+Knecht also has an eMail interface described at http://www.ffii.org/verein/knecht/index.en.html
+
+=== Explanation of Database Schema  ===
+ * DB name is "ffii"
+ * Primary User table is "pnom"
+ * Todo: Use Postgres COMMENT ON feature!
+ * For historical reasons (since the primary data store originally was text-based), most definitions are found here: http://www.ffii.org/verein/profil/profil.de.txt

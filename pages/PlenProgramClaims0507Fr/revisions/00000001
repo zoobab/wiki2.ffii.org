@@ -1,0 +1,63 @@
+## -*- dok: PlenProgramClaims0507; lang: fr; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-07-03
+## title: Amendements pour la séance plénière : revendications de programme / liberté de publication
+= Amendements pour la séance plénière : revendications de programme / liberté de publication =
+
+->
+[ [:PlenVotingList0507Fr: Recommandations de vote]
+| [:PlenAmend0507Fr: Analyses]
+| [http://www.ffii.fr/seconde-lecture Seconde lecture]
+| [http://www.economic-majority.com/index.fr.php Economic-Majority]
+| [:SwpatcninoFr: Actualités des brevets logiciels]
+]
+----
+
+ * Article 5
+ * Texte de base : texte du Conseil [http://register.consilium.eu.int/pdf/fr/04/st11/st11979-re01.fr04.pdf pdf]
+
+== Article 5.1 ==
+
+||  numéro  ||  déposé par  ||  recommandation  ||  texte  ||
+||  ***  ||  Conseil  ||  ()  ||  Les États membres veillent à ce qu'une invention mise en oeuvre par ordinateur puisse être revendiquée en tant que produit, c'est-à-dire en tant qu'ordinateur programmé, réseau informatique programmé ou autre appareil programmé ou en tant que procédé réalisé par un tel ordinateur, réseau informatique ou autre appareil à travers l'exécution d'un logiciel.  ||
+||  22  ||  JURI 22  ||  +  ||  Les États membres veillent à ce qu'une invention assistée par ordinateur ne puisse être revendiquée qu'en tant que produit, c'est-à-dire en tant qu'appareil programmé, ou en tant que procédé technique réalisé par un tel appareil.  ||
+
+Clarification/simplification utile ; souligne que les brevets doivent couvrir des procédés ''techniques''.
+
+== Article 5.2 ==
+
+| numéro | déposé par | recommandation | texte |
+| *** | Conseil | () | Une revendication pour un programme d'ordinateur, seul ou sur support, n'est autorisée que si ce programme, lorsqu'il est chargé et exécuté sur un ordinateur programmable, un réseau informatique programmable ou un autre appareil programmable, mette en oeuvre un produit ou un procédé revendiqué dans la même demande de brevet, conformément au paragraphe 1. |
+| 48 = 80 = 101 = 122 = 143 = 166 | Rocard / Buzek 9 | ++ | Une revendication de brevet pour un programme d'ordinateur, seul ou sur support, n'est pas autorisée. |
+| 66 | ALDE: Bowles | ? | Une revendication pour un programme d'ordinateur, seul ou sur support, n'est pas autorisée. Les États membres garantissent que la fourniture ou l'importation sans autorisation d'un programme d'ordinateur qui est un élément essentiel d'un produit ou d'un procédé faisant l'objet d'une revendication valable conformément au paragraphe 1 constitue une violation de brevet. |
+
+Les revendications de programme empêcheraient des morceaux de code d'être publiés pour être légitimement discutés ou pour des expériences non commerciales légitimes ; elles empêcheraient également toute usage alternatif légitime du programme ; et elles empêcheraient enfin à des entreprises de l'UE de concurrencer des entreprises étrangères sur des territoires où le brevet ne serait pas en vigueur.
+
+L'amendement 66 protégerait les exportateurs de l'UE mais empêcherait toujours la publication non autorisée dans un objectif de discussion légitime, d'expériences légitimes ou d'usage alternatif légitime. Ce qui manque est de s'assurer que le programme est bien fourni avec la connaissance, l'objectif raisonable ou l'intention d'être utilisé en contrefaçon du bevet.
+
+== Article 5.2 ter' (nouveau) ==
+
+| numéro | déposé par | recommendation | texte |
+| 49 = 81 = 102 = 123 = 144 = 167 | Rocard / Buzek 10 | + | La création, la publication ou la diffusion d'informations ne peut en aucun cas constituer une contrefaçon de brevet. |
+
+La liberté de publication, telle que stipulée dans l'article 10 CEDH, peut être limitée par le droit d'auteur mais pas par les brevets.Les droits conférés par les brevets sont larges et inappropriés à l'information. Ces amendements ne rendent aucun brevet invalide mais affirment l'importance de ne pas restreindre la liberté et de laisser le débat ouvert.
+
+== Article 5.2 bis (nouveau) ==
+
+| numéro | déposé par | recommandation | texte |
+| 64 | ALDE: Prodi | - | Les États membres garantissent que les inventions assistées par ordinateur sont protégées par le droit d'auteur. L'inventeur peut revendiquer des brevets à titre de protection complémentaire, sous réserve de la divulgation intégrale de l'invention. |
+
+Ce amendement n'est pas vraiment à sa place. Le sujet qu'il aborde est déjà considéré plus en détail ailleurs dans le texte.
+
+== Article 5.2 bis' (nouveau) ==
+
+| numéro | déposé par | recommandation | texte |
+| 23 | JURI 23 | + | Lorsque des éléments individuels de logiciel sont utilisés dans des contextes qui ne comportent pas la réalisation d'un produit ou d'un procédé faisant l'objet d'une revendication valable, cette utilisation ne constitue pas une contrefaçon de brevet. |
+
+Un principe de base du droit des brevets, donc sans danger. Mais il n'aide en rien contre les revendications de programme.
+
+== Article 5.2 ter (nouveau) ==
+
+| numéro | déposé par | recommandation | texte |
+| 24 | JURI 24 | o | Une revendication telle que visée au paragraphe 2 ne confère une protection que pour l'utilisation décrite dans le brevet concerné. |
+
+Fausse consolation. Si un programme a de multiples utilisations et que vous empêchez qu'il soit publié parce qu'une seule est en infraction, vous avez également empêché sa publication pour une autre utilisation qui n'était pourtant pas en infraction.

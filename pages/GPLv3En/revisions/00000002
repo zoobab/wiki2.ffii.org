@@ -1,0 +1,40 @@
+= GPLv3 and Software Patents =
+[ [[SwpatrmsEn| Richard Stallman]] ]
+----
+''The new version draft of the GNU General Public License adresses software patents by special provisions. FFII has currently no offical position about the draft but is actively involved in discussions.''
+
+== GPLv3 criticism ==
+
+ * 2006-02-06 US [[http://yahoo.businessweek.com/technology/content/feb2006/tc20060206_503666.htm|BW Online: Nuclear War over Software Patents?]] (rather extreme view of the !GPLv3-draft)
+ * 2006-02-15 UK [[http://www.legalweek.com/ViewItem.asp?id=27557|LegalWeek: Open source software flexes its muscles]]
+
+= GPLv3 Neutral =
+
+ * * 2006-03-04 CH [[http://www.nzz.ch/2006/03/03/em/articleDMNA0.html|NZZ: Schutz gegen Kopierschutz]]
+
+== GPLv3 advocacy ==
+
+=== Ciaran O'Riordan, IFSO or FSFE: 'Tame' software patent clause ===
+
+ * 2006-01-19 [[http://ciaran.compsoc.com/2006-01-19-gplv3-belfast.html|Speaking notes from a talk to GNU/Linux user group Belfast]]
+
+ Software patents
+ GPLv2 had a tame patent clause. Today we're seeing 
+ some new licenses with aggressive patent clauses, 
+ but these may backfire in practice. For example, if
+ a patent holder sues me, and my license penalises me
+ if I initiate patent litigation, then I'm punished 
+ if I counter-sue. In that situation, the free software
+ developer would be restricted, and the proprietary 
+ software developer would not be restricted. So GPLv3 
+ has a strengthened patent clause, but it's still 
+ conservative. If we learn that a more aggressive clause
+ would be better, that can be changed in GPLv4, I suppose,
+ but for now, we have to make sure we do no harm.
+
+ * [[http://www.ifso.ie/projects/gplv3.html|Irish Free Software Organisation (IFSO)]]
+ * [[http://www.ifso.ie/cgi-bin/wiki.cgi/GPLv3_press_release|Wiki page containing a draft press release which Ciaran contributed to for IFSO:]]
+
+== GPLv3 draft ==
+
+ * http://gplv3.fsf.org/draft

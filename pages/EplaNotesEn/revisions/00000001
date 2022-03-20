@@ -1,0 +1,83 @@
+notes on
+
+= European Patent Litigation Agreement (EPLA) =
+[ [:SwpatcninoEn: News] | [:ComPatEn: Community Patent] ]
+----
+
+''The European Litigation Agreement is a Treaty project that aims to create a Common European Patent Court between signatories of the 30 countries of the European Patent Convention (EPC). The draft seems to be in place for the launch of a diplomatic conference in 2006, where it can be signed by several countries.  In seeking to construct a European Patent Court from national judges, the EPLA offers what could be a move towards a solution to the current problems of patent granting and enforcement in Europe - if the court is constituted in such a way that it takes into account national caselaw that rejects the patentability of software and business method patents. However should the EPLA be installed without an independent judiciary, as well as proper due care and attention, FFII is highly concerned that it may become another plan to legalise  the current practice of granting software patents and business method patents by the EPO.''
+
+----
+
+== Goals ==
+
+The EPLA is a proposal to harmonise the enforcement of patents all over Europe. This goal is similar to the goal of the Software Patents Directive, where the problem was that some National Courts (ex; UK, DE) were rejecting softpatents based on the criteria of non patentable subject matter. The problem for the pro-software patents lobby is to enforce patents granted by the EPO at a central court, and thus avoiding seperate interpretation of the EPC art52.2 by different courts. It remains to see what kind of intepretation the European Patent Court will take.
+
+== Problems ==
+
+ * The European Patent Court would include judges members of the EPO board of appeal, which has created caselaw in favor of software patents (Quote from [http://europeanaffairs.org/archive/2003_winter/2003_winter_109.php4 European Affairs]: ''"The European Patent Court would include both legally and technically qualified judges. Nationals of an EPC contracting state with a good command of at least one EPO official language (English, French or German) could be appointed as judges, provided they had sufficient experience in patent law. They would also have to be, or have been, a '''judge in one of the EPC contracting states or a member of the EPO Boards of Appeal''', or have held a position of equivalent experience, such as university professor or lawyer."''
+
+ * A European Patent Court could remove the competence of the German Supreme Court, which has rejected software patents in the past (cite source here).
+
+ * Commission stated that after the adoption of the "[http://europa.eu.int/scadplus/leg/en/lvb/l33054.htm Council regulation on jurisdiction and recognition and enforcement in civil and commercial matters]" ((EC) No 44/2001, of 22 December 2000), Members States do not have the power to sign the EPLA. It needs to be checked if the European Commission has not changed its position on the right of EU member states to sign such an agreement, the net result could be a lose-lose situation. With neither a European Patent Court nor a regulation establishing a Community Patent Court, there would be no end in sight for the current unsatisfactory situation in Europe.
+
+ * Judges will not be independent. ([http://www.european-patent-office.org/epo/epla/pdf/statute_draft.pdf Art 4 draft statute])
+
+ * Question: EPLA could bypass the language problem? (EPO grants a patent in 3 langs (EN, FR, DE) and is enforceable in SE if SE signs EPLA?)?
+
+([http://www.european-patent-office.org/epo/epla/pdf/statute_draft.pdf EPLA draft 2004-02-14:])
+ "The language regime is based on the time-honoured 
+ language regime of the EPO (English, French and German), 
+ as refined by the London Agreement on the application of
+ Article 65 EPC" 
+
+== News ==
+
+ * 2006-01-26 UK [http://www.legalweek.com/ViewItem.asp?id=27274 Judges win first battle in patent court fight] (Quote: /"The consultation will close on 31 March, and UK IP lawyers have told Legal Week they now hope a treaty on the EPLA will be approved by European Union (EU) member states by the end of the year. A unified court could then be in place within three years."/)
+ * 2005-11-29 BE [http://www.eucommittee.be/images/brochures/AustrianPresidency.pdf American Chamber of Commerce: Report to the Austrian Presidency] (Quote: /"And once businesses invest in intellectual property, this investment must be protected by a viable, Community-wide regime. In this respect, there is a clear need to harmonise the European Patent system. Amcham has long supported the concept of the Community Patent as a manifestation of the Single Market and a catalyst for innovation. We therefore '''urge the Austrian Presidency to abandon the Community Patent proposal and instead throw its weight behind the European Patent Litigation Agreement (EPLA) proposal'''. Finally, we encourage Member States to commit to partnering with business in a robust, efficient and effective research and development agenda"./)
+
+
+== Comment by Ante Wessels  ==
+
+The EPLA is the wrong approach. 
+
+ * The EPO is not a Community organisation
+ * The EPLA Patent Court will not be a Community organisation
+ * Judges will not be independent
+
+The Community will have no control over the European patent system. The Community will not be able to create checks and balances, to create a balanced approach. The Community has an ambitious agenda (Lisbon) but does not take charge. 
+
+The Community should take over European Patent Organisation's legislative role, make the European Patent Office a Community Office and create a Community Patent Court. As explained [http://wiki.ffii.org/ComPatEn here], the Community should not accede unconditionally to the European Patent Convention. 
+
+Such is the road to a highly competitive knowlegde society. 
+
+
+
+
+== Links ==
+
+
+ * [http://www.aippi.org/reports/q165/report_epla_nov03.pdf Meeting of the EPLA Working Party, Munich, November 19  20, 2003, by Jochen Pagenberg]
+
+ * [http://www.aippi.org/reports/minutes/minutes_admin_I_271003_F.pdf Réunion du Comité exécutif à Lucerne, 27 octobre 2003]: (Quote: /"M. Thierry SUEUR (France) approuve le soutien apporté au système juridictionnel pour le brevet communautaire. Cependant, il est également en faveur de la Résolution c) car le système juridictionnel pour le brevet communautaire ne sera pas en place avant 2010 ou 2012. M. SUEUR insiste sur le fait que l*ELPA constituera un bon "terrain expérimental" puisque les règles ont déjà été définies*, alors que le système juridictionnel pour le brevet communautaire est toujours une "boîte noire". Pagenberg: '''les détails de laccord sur les litiges en matière de brevet européen ont été précisés''', contrairement au système du brevet communautaire, et lEPLA pourrait être adopté relativement rapidement par une Conférence diplomatique. M. PAGENBERG fait référence au Rapport qui sera accessible sur le site de lAIPPI et sintéresse ensuite à la Résolution. Il souligne que les détails substantiels ne seront pas abordés aujourdhui et que la Résolution a pour but principal de se prononcer clairement sur la nécessité dadopter laccord sur les litiges en matière de brevet européen (EPLA)./)
+
+
+[http://www.european-patent-office.org/epo/epla/pdf/intro.pdf EPO introductory remarks]
+
+[http://www.european-patent-office.org/epo/epla/pdf/agreement_draft.pdf Draft agreement]
+
+[http://www.european-patent-office.org/epo/epla/pdf/statute_draft.pdf Draft statute]
+
+[http://www.european-patent-office.org/epo/epla/pdf/declaration.pdf Working party declaration]
+
+[http://www.european-patent-office.org/epo/epla/pdf/impact_assessment_2006_02_v1.pdf Impact assesment]
+
+
+
+
+ * [http://www.european-patent-office.org/epo/epla/ EPLA at EPO]
+ * [http://en.wikipedia.org/wiki/European_Patent_Litigation_Agreement EPLA page at WikiPedia]
+ * [http://www.oecd.org/dataoecd/60/58/12594736.pdf Slides of Dr. Ulrich Schatz, Former Principal Director International Affairs, EPO, Munich]
+ * [http://europeanaffairs.org/archive/2003_winter/2003_winter_109.php4 EuropeanAffairs.org: A New Court Would Help Resolve the European Patents Mess By Stefan Luginbuehl]
+ * [http://www.withersrogers.co.uk/content/view/68/45/ European Patent Litigation Agreement Gets Judges' Approval]
+ * 2005-11-03 [:ComPat051103En: Judges as activists for an European Patent Court] mentions EPLA
+ * [http://en.wikipedia.org/wiki/Judicial_activism Wikipedia: Judicial Activism]

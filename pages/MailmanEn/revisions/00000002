@@ -1,0 +1,41 @@
+= Documentation of Mailman installation on Genba.ffii.org =
+--> 
+[ [[ListinfoEn| FFII Mailing List FAQ]]
+| [[MailmanArchiveEn| Mailman Archives]]
+| [[MailmanUnsubDe| Abmeldung]]
+| [[PolisEn| ffii computing]]
+| [[GenbaEn| genba]]
+| [[AdministriviaEn| Administrivia]]
+| [[FfiiPgSqlDatabaseMlNgEn| ML and NG Database Structures]]
+]
+----
+
+== Maintainer ==
+
+ * From 1999 to Spring 2004: Bernhard Reiter (breiter at ffii org)
+   * Bernhard may still be available to support his successor
+ * From Summer 2004 to ? (today for now): Jeroen Dekkers
+ * phm is maintaining [[MailmanDbEn| scripts for interfacing between database and mailman]] (allowing project subscription through aktiv et al)
+
+== Mailinglist archives ==
+
+ * MailmanArchiveEn
+
+== Mailman paths ==
+
+ ''var/lib/mailman'': All list information and archives, owned by group 'list' and user 'list' or 'root'.
+ ''usr/lib/mailman'' and ''usr/share/mailman'': The debian Mailman installation.
+ ''etc/mailman'': site-wide mailman configuration files
+  
+
+== Deleting Lists ==
+
+Being root or in group 'list':
+
+Delete a list with archives: 
+ /usr/sbin/rmlist <listname>
+use
+ /usr/sbin/rmlist -a <listname>
+to also delete the archive
+
+Further commands apply as documented at http://www.list.org/site.html

@@ -1,0 +1,182 @@
+## -*- dok: FfiiprojNews; lang: en; site: kwiki; coding: iso-8859-1; mode: fundamental; -*-
+## keyws: ffii, projects, work done
+= FFII Project News -- Progress on our Internal Work =
+-> 
+[ [[FfiiprojNewsDe| deutsch]]
+]
+[ [[FfiiprojEn| Projects]]
+| [[SwpatcninoEn| Patent News]]
+| [[FfiinewsEn| Infosphere News]]
+| [[http://www.ffii.org/news/rss/|RSS]]
+]
+----
+
+''How FFII is progressing with its internal work.  Recent achievements that are of interest mainly to people within FFII are reported here.''
+
+ * 2005-10-21 phm places EV50 campaign banner on www.ffii.org, swpat.ffii.org etc
+ * 2005-10-20 FFII board decides to support Florian Mueller's candidacy for European of the Year
+ * 2005-10-19 phm restores photos to FfiiContactsEn page (they had been in blasum's private directory, which he had deleted in July)
+ * 2005-10-12 gibuskro invites ffii.fr friends to [[Paris051018Fr| meeting]]
+ * 2005-08-19 phm enhances [[PatexamReformEn| patent examination reform proposal]]
+ * 2005-08-18 phm opens [[http://ffii.xwiki.com/|ffii.xwiki.com site]] for playing with another promising wiki
+ * 2005-08-01 gibus adds JURI amendments of second reading into [[AmendDbEn| FFII amend database]]
+ * 2005-07-26 gibus adds plenary amendments of second reading into [[AmendDbEn| FFII amend database]]
+ * 2005-07-09 phm drafts statement [[EmDank0507En| Economic Majority thanks European Parliament, plans further engagement]] and task progress report for the [[SarjiEn| E-M]] project
+ * 2005-07-09 miernik plans [[Feri0508En| August vacation camp in Southern Poland]]
+ * 2005-07-06 [[DnsPttp0507En| FFII registers domains power-to-the-parliament.org et al]]
+ * 2005-07-07 phm specifies needed [[KwikiCacheEn| kwiki caching mechanism]]
+ * 2005-05-03 phm outlines [[PolisTaskEn| programming tasks]]
+ * 2005-04-30 phm explains [[GenbaUploadEn| how to upload background documents to ffii.org]]
+ * 2005-04-17 phm updates [[FfiiprojPriorEn| priorities page]]
+ * 2005-04-17 phm provides [[http://swpat.ffii.org/analysis/epc52/exeg/index.en.html|authorised English translation of Lenz article on interpretation of Art 52 EPC]] and improves related pages on EPO decisions [[http://swpat.ffii.org/papers/epo-t840208/|Vicom 1986]] and [[http://swpat.ffii.org/papers/epo-t971173/|IBM program product 1998]]
+ * 2005-04-12 phm releases [[http://swpat.ffii.org/log/05/messe04/|PR for Hannover Messe]]
+ * 2005-04-11 phm creates [[http://www.ffii.org/brivla/|vocabulary page]] whose [[http://www.ffii.org/brivla/brivla.en.txl|translatable source]] can be used for [[http://swpat.ffii.org/group/langtxt/|translating]] text chunks that are commonly used throughout the ffii sites
+ * 2005-04-11 phm creates [[http://swpat.ffii.org/papers/europarl0309/plen05/|static version]] of [[Plen05En| MEP info page]]
+ * 2005-04-11 phm updates [[http://swpat.ffii.org/log/intro/|Short Introduction]]
+ * 2005-03-27 jmaebe creates [[SwpatLegDocsEn| page with links to all official documents relating to the swpat directive]] 
+ * 2005-04-07 phm proposes [[MepsQuest05En| 5-step questionnaire/checklist for patent legislators]] to be used for [[SwpatxatraEn| better-informed letter-writing]]
+ * 2005-04-06 phm secures domains economicmajority.com, economicmajority.org, economic-majority.com, wirtschaftlichemehrheit.de, wirtschaftliche-mehrheit.de for FFII  
+ * 2005-04-03 uhlmann et al create [[http://demo.ffii.org/getactive.php|Get Active]] page, phm updates [[FfiiprojEn| Projects]] wiki page
+ * 2005-03-30 phm, zoobab et al create [[Eu0307En| Banana Union Day Investigation & Commemoration Project]]
+ * 2005-03-25 uhlmann [[GenbaStats0503En| installs Genba MRTG statistics page]]
+ * 2005-03-24 phm: [[Traduk050325En| FFII translations needed, process improved]]
+ * 2005-03-19 Arebenti: Quick fix: hardcoded FFII India page http://www.ffii.in/
+ * 2005-02-23 Arebenti: translated page for new kwiki authors to German, was a dump of unrelated comments before.
+ * 2005-02-12 Arebenti: Added latest PL Council addendum to kwiki: ConsPl050208En
+ * 2005-02-07 Photos from Paris booth available http://www.parinux.org/assoc/albums/solutions_linux-2005.html, fishes distributed there 
+ * 2005-02-05 Where to kwiki this statistic? http://www.eds-destatis.de/de/publications/detail.php?th=4&k=1&dok=1256
+ * 2005-01-26 Arebenti added [[http://demo.ffii.org/offline_regional.en.php|regional map to webdemo]] and improved the start page ecc.
+ * 2005-01-23 Some webdemo pages: http://demo.ffii.org and the kwiki pages FishDemo0501En and WebDemo, also the more long-term netstrike page http://wiki.ffii.org/SwpatjarcoEn. Expect updates and modifications.
+ * 2005-01-23 Hopefully biting image about [[http://plone.ffii.org/Members/mvernon/works/|Harmonization]] on the agrar & fishery council agenda...
+ * 2005-01-20 [[FishDemo0501En| How to Act against the Commissio/Council's Fishy Patent Tactics]]
+ * 2005-01-14 phm makes [[http://don.ffii.org/|fundraising pages]] usable
+ * 2005-01-14 phm improves [[PatdbEn| patent database generation]], implements [[WebstylEn| ffii css]] into [[http://swpat.ffii.org/patents/txt/ep/0864/146/|new pages]]
+ * 2005-01-11 phm [[MlhtImportGpgEn| solves mlht translation managment password privacy problem]]
+ * 2005-01-10 [[http://swpat.ffii.org/news/05/restart01/|restart motion press release]] with [[http://demo.ffii.org/restart0501/|banner and campaign page]]
+ * 2005-01-02 mvernon documents [[EuDemocracyEn| EU Democracy]] and [[CodecisionVotingEn| Codecision]]
+ * 2005-01-02 phm proposes [[FfiiprojPrior0501En| new priorities]]
+ * 2004-12-22 [[FfiiFrontEn| banners & news on front pages now collaboratively editable as HTML source]]
+ * 2004-12-22 art starts [[ConsReformEn| Council reform discussion page]]
+ * 2004-12-22 phm starts [[FairTechEn| Buy Fair Technology: No Mobiles from Patent Bullies]]
+ * 2004-12-18 arebenti moves [[http://kwiki.ffii.org/?Epue52exegEn|Lenz translation project to kwiki]], difficult translation because of many native German metaphorical phrases taken from 'Kanzeleisprache'
+ * 2004-12-17 Uhlmann becomes demo.ffii.org responsible
+ * 2004-12-12 [[ParsKwikipagEn| new script supplies full-value html header for kwiki pages]]
+ * 2004-12-11 phm reinstalls scsh pgsql module on genba, resumes automated patent datamining
+ * 2004-12-10 DLF Interview with ccorn and arebenti
+ * 2004-12-04 phm creates a [[http://www.ffii.org/assoc/kwiki/kwikipags.txt|kwiki page index]] that is auto-updated every hour (--> [[KwikiEn| kwiki]])
+ * 2004-11-26 amacfie updates [[MepdbEn| MEP database]] for use in [[AktivEn| aktiv]]
+ * 2004-11-25 phm starts [[AmendDbEn| documentation of ffii amend database]]
+ * 2004-11-25 phm starts [[Wagner0409En| documentation of latest study on business method patents]]
+ * 2004-11-24 phm makes [[SwpatcninoNl| Dutch News]] available on [[http://www.ffii.org/news/rss/|FFII RSS Newsfeeds]]
+ * 2004-11-24 phm starts turorial [[MlhtInstallEn| Installing MLHT and Getting Started]]
+ * 2004-11-24 phm completes [[Karas0411En| en translation of Karas statement]]
+ * 2004-11-23 [[AmendEn| Writing Amendments --- AMEND project documentation started]]
+ * 2004-11-23 [[DilabProg04En| How do Dilab's medical inventions benefit from program claims?]]
+ * 2004-11-12 phm+erjos analyse popular view of [[FascinosumEn| technical invention as fascinosum]] 
+ * 2004-11-12 [[FfiiWipoEn| FFII accredited at WIPO as an observer]]
+ * 2004-11-07 [[FfiixenuEn| Xenu broken link search on swpat.ffii.org]]
+ * 2004-11-02 [[FfiiPortalEn| EU webportal]] IRC session, new [[http://eu.ffii.org/workspaces/pub/intern/agenda/view|todo list]] worked out
+ * 2004-11-01 [[http://kwiki.ffii.org/Irc041101En|weekly IRC minutes ]]
+ * 2004-11-01 phm begins [[MepsDbEn| documentation of meps database]] in an effort to bring it up to date (integrate earlier work of amacfie)
+ * 2004-11-01 [[SwpTestStream0411En| stream team]] preparing audiovisual broadcast of [[http://eu.ffii.org/sections/bxl0411/|upcoming conference]]
+ * 2004-10-31 phm simplifies [[KwikiLocalTemplateDisplayEn| kwiki page display]], documents [[KwikiEditEn| write access conditions]]
+ * 2004-10-30 arebenti renews [[WebstylEn| ffii web design]], bkaindl installs CSS files
+ * 2004-10-30 dietvu, mond, phm make [[FfiiRssEn| FFII RSS Newsfeeds]] available
+ * 2004-10-29 [[FfiiQaEn| New FFII QA kwiki page]]
+ * 2004-10-29 phm rewrites the [[http://eu.ffi.org/|eu.ffii.org homepage]] 
+## * 2004-10-28 ffii.de publicizes its [:FfiiNutzwer0410De: lawsuit with Nutzwerk GmbH]
+ * 2004-10-27 ffii.de publishes [[ParlReso0410De| position on german governing coalition statement on swpat]]
+ * 2004-10-27 phm adds [[KwikiEditEn| How to qualify as a kwiki editor]] page and links to it from addenda page headers [[e.g. |top of SwpatcninoEn]]
+ * 2004-10-25 phm implements [[KnechtSubjFfiiProjhlpEn| knecht query for project volunteer signups]]
+ * 2004-10-22 nexedi and dekkers make eu.ffii.org point to new server
+ * 2004-10-22 jbosson and dekkers make gauss.ffii.org point to new database server
+ * 2004-10-18 [[AktivMakeProjselEn| project representation in aktiv menu]] improved
+ * 2004-10-17 [[FfiiprojKreEn| project creation process]] simplified 
+ * 2004-10-16 accident in database-mailman synchronisation fixed, precautions taken (--> [[MailmanProjlistsEn| projlists]])
+ * 2004-10-16 kwiki page editing now by default requires login (--> KwikiEn)
+ * 2004-10-15 [[LtrConsSend0406En| 81 Volunteers have Sent 365 Urgent Calls to 199 Recipients in 14 Countries Since July 1]]
+ * 2004-10-09 jmaebe brings presentable [[http://eu.ffii.org/sections/bxl0411|conference program]] to the web, see also SwpTest0411En
+ * 2004-10-08 [[SwpatitEn| IT]] [[Cento041008En| action in Pisa, response from MP Paolo Cento]]
+ * 2004-10-06 [[FfiistylecssEn| Arebenti: New wiki page for css documentation]]
+ * 2004-10-01 [[PostkardSend0407En| 14 Volunteers have Sent 103 Cards to 102 Recipients in 10 Countries Since August 21]]
+ * 2004-10-01 phm creates perl script ''var/www/adm/bin/ffiiuidpass which transfers addresses from .pass files to database and writes records for .htaccess authentication files used by http://www.ffii.org/intern'' and kwiki editor's login prompt.  --> From now on all ffii members have access to the restricted parts of the site, and the database has become an authoritative source for passwords.  No more time-consuming parsing of the directory tree is needed for creating auth files, and these files are no longer impractically big.
+ * 2004-10-01 phm creates dynamic [[http://www.ffii.org/internal/adr/|address book of ffii activists]]
+ * 2004-09-23 gibuskro creates logo for [[http://plone.ffii.org/events/2004/test/|november conference]] and places it on the [[http://plone.ffii.org/|plone site]]
+ * 2004-09-23 ffii calls on non-german-speaking supporters to celebreate [[http://eu.ffii.org/sections/eu_democracy_day|EU Democracy Day]]
+ * 2004-09-23 [[http://www.ffii.fr/|FFII France portal]] runs under .fr domain  
+ * 2004-09-22 ffii calls on >20000 german-speaking supporters to celebrate [[http://eu.ffii.org/sections/eu_democracy_day|EU Democracy Day]]
+ * 2004-09-21 [[http://plone.ffii.org/events/2004/test/|november conference]] preparations under way
+ * 2004-09-21 [[http://eu.ffii.org/workspaces/pub/|public workspaces on FFII EU portal]] now freely editable by any authenticated user
+ * 2004-09-20 gibuskro, comte0 et al prepare [[http://fr.ffii.org/|FFII France site]]
+ * 2004-09-20 [[AktivEn| ffii participation system]] now [[AktivProjEn| contains]] full and daily-updated list of [[FfiiprojEn| projects]] to subscribe to
+## remark by phm: how is the news item below related to FFII's internal work?  please give some hints on the purpose before sending people to this link!
+## * 2004-09-17 [http://europa.eu.int/idea/en/index.htm IDEA EU person search tool]
+ * 2004-09-19 Markelo meeting ends, participants from all over Europe 
+ * 2004-09-14 [[LtrConsSendCz0406Cs| 5 Volunteers have sent 21 Urgent Appeals to 6 recipients in the Czech Republic since September 9]]
+ * 2004-09-14 [[MailmanDbEn| mailman once again follows project participation database]], disturbances during testing
+ * 2004-09-13 arebenti & phm prepare [[EuDemocracyEn| EU Democracy Day]] web page and banner
+ * 2004-09-12 phm improves [[http://swpat.ffii.org/papers/europarl0309/cons0401/tab/|Council-Parliament Tabular Comparison]]
+ * 2004-09-08 peuvedic/blasum: [[http://www.aful.org/wws/arc/patents/2004-09/msg00010.html|donations to FFII tax-deductible in France]]
+ * 2004-09-10 [[MriluEn| Mienik takes care of New Kwiki page for Mailing lists without static header]]
+ * 2004-09-07 phm drafts [[IndpropEn| Industrial Copyright]] thesis paper
+ * 2004-09-07 brablc largely completes czech version of Urgent Appeal and appendices, meanwhile phm enriches and debugs the mlht system which originally didn't produce usable czech pdf output
+ * 2004-09-07 blasum sends [[FfiiMail0408En| mass mailing]] out, several people respond offering help (e.g. as sysadmins)
+ * 2004-08-27 arebenti publishes [[http://plone.ffii.org/prmat/flyers/protshsmall/image_view|software protection shield poster design]] -- text needs polishing (--> [[SwpatkunstEn| artwork]])
+ * 2004-08-27 [[LtrConsSendDe0406De| A Volunteer in Germany Sent 14 Urgent Appeal Letters on August 27]]
+ * 2004-08-27 [[LtrConsSendUk0406En| 3 Volunteers in the United Kingdom have Sent 7 Urgent Appeal Letters Since August 26]]
+ * 2004-08-26 [[PostkardSend0407En| 5 Volunteers have Sent 12 Postcards to 7 Countries Since August 21]]
+ * 2004-08-25 rmages handles Postcard scan submission address postkard0407-help at ffii org for [[Postkard0407En| Postcard action]]
+ * 2004-08-25 phm documents restored [[MailmanDbEn| mailman-database interface]]  
+ * 2004-08-24 [[FfiiPortalEn| new ffii portal]] moving to [[http://eu.ffii.org/|destination machine]]
+ * 2004-08-24 phm restores [[GenbaAliasesEn| dynamic generation of mail aliases]]
+ * 2004-08-22 [[MlhtImportEn| translation batch processing system]] now running on ffii machine (independent of phm)
+ * 2004-08-20 [[LtrConsSendSe0406Sv| 4 Volunteers in Sweden Sent 24 Urgent Appeal Letters on August 20]]
+ * 2004-08-20 blasum & phm register [[FfiicmimaEn| new board]] with Munich authorities
+ * 2004-08-19 phm: [[http://swpat.ffii.org/letters/cons0406/parl/ConsParl0406.en.pdf|Urgent Appeal Appendix has bibliography]] -- [[MlhtBibtexEn| bibtex integrated with ffii/mlht system]]
+ * 2004-08-18 [[LtrConsSendFr0406Fr| 20 Volunteers in France have sent 92 Urgent Appeal Letters since July 26]]
+ * 2004-08-18 New [[http://swpat.ffii.org/xatra/cons0406|signatories for the Urgent Call]], schinski updated !LtrConsMinim0406.*.sxw ([[http://swpat.ffii.org/xatra/cons0406/LtrConsMinim0406.de.sxw|de]], [[http://swpat.ffii.org/xatra/cons0406/LtrConsMinim0406.en.sxw|en]], [[http://swpat.ffii.org/xatra/cons0406/LtrConsMinim0406.fr.sxw|fr]]) and the corresponding .pdf.
+ * 2004-08-17 phm makes [[MlhtEn| MLHT]] more portable, [[MlhtDbTrapropEn| database]] becomes primary source, e.g. for [[MlhtDbTrapropEn| registering translators]] 
+ * 2004-08-16 brablc creates Czech versions of ffii front pages and [[http://swpat.ffii.org/letters/cons0406/index.cs.html|Urgent Appeal]] 
+ * 2004-08-15 phm corrects errors in [[LtrCons0406En| Urgent Appeal]] appendix PDF files 
+ * 2004-08-13 [[AndreRebentischDe| arebenti]] creates [[http://www.ffii.org/img/banners/Postkard0407De.jpg|banner]] for [[Postkard0407En| Postcard action]]
+ * 2004-08-11 [[MailmanArchiveEn| Mailinglist archives]] are working for all lists now.
+ * 2004-08-11 gibuskro compiles [[MedefFeedback040629Fr| feedback from action in response to a pro-swpat text from Medef (french union of CEO)]]
+ * 2004-08-09 [[http://www.sslug.dk|sslug]] members translates Urgent Call to [[http://swpat.ffii.org/letters/cons0406/index.da.html|Danish]]
+ * 2004-08-06 phm compiles [[Ausfta04En| documentation of AU-US FTA debate]]
+ * 2004-08-05 nexedi [[http://showroom.nexedi.org:10573/ffii.org/sections/encoding_tests|multilingual utf-8 demo]] for [[FfiiPortalEn| New EU Portal]]
+ * 2004-08-05 erjos [[http://swpat.ffii.org/letters/cons0406/index.sv.html|translates Urgent Appeal to Swedish]]
+ * 2004-08-05 gibuskro creates banners ([[http://gibuskro.lautre.net/informatology/ffii/banners/urgent_appeal.en.png|en]], [[http://gibuskro.lautre.net/informatology/ffii/banners/urgent_appeal.fr.png|fr]], [[http://gibuskro.lautre.net/informatology/ffii/banners/urgent_appeal.xcf|gimp-editable source]]) for [[LtrCons0406En| Urgent Appeal delivery project]] 
+ * 2004-08-04 jeroen installing new mail archiving software
+ * 2004-08-03 jeroen installs new mail system on [[GenbaEn| genba]]
+ * 2004-08-02 [[GenbaEn| genba]] restarted with fresh system after 2 days of pause
+ * 2004-07-26 [[LtrConsFrPr0406Fr| Appeal submitted to French Heads of State]]
+ * 2004-07-25 [[DokDataEn| FFII Document Metadata Structure documentation started]]
+ * 2004-07-24 [[Iraq040724En| Cariacture: Iraqi Information Minister on EU Software Patents]]
+ * 2004-07-22 [[http://swpat.ffii.org/papiers/europarl0309/arts0407/|pelegrin: article by article comparison of Council vs Parliament texts]]
+ * 2004-07-22 phm: collecting info on [[PatinsEn| EU patent insurance plans]] 
+ * 2004-07-22 phm: [[http://swpat.ffii.org/analysis/needs/|the EU swpat directive and what we want]]
+ * 2004-07-21 aptiko: Greek group submits urgent Appeal to government
+ * 2004-07-20 [[IrcEn| irc]] discussion leads to update of [[FfiiprojPriorEn| priorities]]
+ * 2004-07-15 [[FfiiPortalEn| Portal]]: Nexedi presents [[http://showroom.nexedi.org:81/ffii.org|prototype]]
+ * [[Torino040713En| 2004-07-13 phm at Conference in Turin/Torino]]
+ * [[FfiiprojKreEn| 2004-07-11 phm genba users empowered to create new projects]]
+ * [[http://www.ffii.se/|2004-07-10 erjos FFII Sweden elects board]]
+ * [[SwpatbmwaDe| 2004-07-10 phm Chronology of patent movement/complacency in german economics ministry]]
+ * [[SwpatnlEn| 2004-07-10 phm Chronology of patent movement in dutch government]]  
+ * [[PolisPlan0407En| 2004-07-08 mwas Plans for Reform of FFII Computing]]
+ * [[http://www.ffii.org/assoc/|financ/tender/ 2004-06-29 blasum Tender for some computing tasks at FFII]]
+ * [[FfiiPortalEn| 2004-06-23 phm Started Work on Specification for new FFII Portal]]
+ * [[http://plone.ffii.org/prmat/parlmag0406/|2004-06-21 phm EU FFII Advertorial in Parliamentary Magazine]]
+ * [[http://www.nuatech.com/contact/web/ffii/|2004-06-21 Prototype for new FFII web portal]]
+ * 2004-05-23 ShortIntroEn -- an introduction for newbies to the Swpat questions
+ * 2004-05-23 Stephan Uhlmann and Seth Johnson working on further transcription of Council recordings
+ * 2004-05-23 [[http://swpat.ffii.org/analysis/testsuite/|Testsuite]] now comprises Europarl and Consilium results
+ * [[http://galiza.ffii.org/|FFII Galiza]] (run by Suso Baleato)
+ * [[http://www.ffii.be/|FFII Belgium = Softwarepatenten.be]] (run by Dieter van Uytvanck and Jonas Maebe)
+ * [[http://www.elis.ugent.be/~jmaebe/swpat/councilanalysis/paper-en.pdf|Maebe analysis]]
+ * [[http://bh.udev.org/filez/swpat/beaupre/compliance.pdf|Beauprez analysis]]
+ * [[http://www.ffii.se/|FFII Sweden]] officially founded and already very active
+ * [[http://swpat.ffii.org/analysis/sektor/|The Economic Majority in the Software Patent Debate]]
+ * Progress with ffii planning at FfiiprojEn
+ * updated chronology on the limits of patentability http://swpat.ffii.org/lisri/citri/
+ * updated ffii board composition (after elections of new members on 2004-04-14) http://www.ffii.org/assoc/home/

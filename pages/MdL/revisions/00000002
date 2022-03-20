@@ -1,0 +1,1 @@
+MdL = Mitglied des Landtags = Member of State Council Chamber

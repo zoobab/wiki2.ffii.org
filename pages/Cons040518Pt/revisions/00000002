@@ -1,0 +1,113 @@
+= 2004-05-18 Conselho de Ministros Europeu vota a favor das Patentes de Software =
+
+== Páginas Relacionadas ==
+
+ * [[ConsNotes040518En| Notas da Sessão do Conselho]]
+ * [[ConsMedia040518En| O Assunto nos Média]]
+ * [[SwpatcninoPt| As últimas notícias]]
+ * [[http://swpat.ffii.org/papers/europarl0309/cons0401/|Proposta do Conselho para a Patentealidade Ilimitada]] 
+
+Esta página também está disponível em [[Cons040518En| inglês]] e [[Cons040518Fr| francês]].
+
+Esta página ainda não está integralmente traduzida, pelo que ainda tem conteúdo em Inglês.
+
+== Bolkestein assegura uma Pequena Minoria no Conselho para Patenteabilidade Ilimitada ==
+As primeiras indicações são de que a presdência irlandesa assegurou aprovação política para um novo rascunho da contoversa directiva de patentes de software numa reunião do Conselho de Ministros hoje.
+
+A Espanha (8) votou contra a proposta. Bélgica (5), Itália (10) e Áustria (4) abstiveram-se de votar.
+A Dinamarca (3) parecia não gostar da ideia, mas no final não fez frente ao pedido da presidencia por apoio.
+
+Ver http://en.wikipedia.org/wiki/Qualified_Majority_Voting para saber o peso das votações.
+
+Isso fez 27 votos contra o texto. Se a Alemanha tive cumprido a sua promessa de pelo menos se abster, os 27 votos necessários para 
+bloquear a prosposta teriam sido atingidos, e ultrapassados visto haverem países como a Polónia que aparentemente tinham instruções para tomar a mesma decisão que os Alemães.
+
+Na rodada inicial de discussões SE, UK, FR, NL, CZ e HU pronunciaram-se a favor da proposta irlandesa.
+
+BE, PL, ES, DK, AT, DE, LV e IT mostraram reservas.
+
+Sumários/Transcrições disponíveis em: 	
+ * http://wiki.ael.be/index.php/V002.ogg
+ * http://wiki.ael.be/index.php/V003.ogg
+
+Contudo, um "compromisso" proposto pela Comissão foi aparentemente suficiente para as delegações Alemã, Polaca e Islava.
+
+Isso fez com que apenas a Espanha votasse contra a proposta: e BE, DK, IT e AT recusando a aprová-la.
+
+No assunto-chave sobre o que é que devia ou não contar como "técnico", e portanto patenteável, os Alemães tinham proposto originalmente as seguintes adições:
+
+  2b. "contribuição técnica", também chamada de "invenção", significa uma
+  contribuição para o estado de arte num campo técnico que não seja óbvio para
+  uma pessoa dotada nessa arte. O carácter técnico da contribuição é um dos 
+  quatro requisitos para a sua patenteabilidade. Adicionalmente, para merecer 
+  a patente, a contruibuição técnica tem de ser nova, não-óbvia, e susceptível
+  de aplicação industrial.
+
+O compromisso da Comissão transformou isso em:
+
+  2b. "contribuição técnica", também chamada de "invenção", significa uma
+  contribuição para o estado de arte num campo técnico que '''seja novo''' e não 
+  seja óbvio para uma pessoa dotada nessa arte. O carácter técnico da 
+  contribuição é um dos quatro requisitos para a sua patenteabilidade. 
+  Adicionalmente, para merecer a patente, a contruibuição técnica tem de ser
+  nova, não-óbvia, e susceptível de aplicação industrial.
+
+ou seja, o único efeito foi a inserção da palavra 'novo'.
+
+A Comissão propôs também mudanças ao Artigo 4 e ao Recital 13, mas o efeito nestas foi puramente estético.
+
+Mas por alguma razão, isso foi suficiente para vencer sobre a delegação Alemã, e os Polacos e os Eslavos seguiram.
+
+Apesar de aparentemente ter sido o suficiente para convencer os ministros, o texto continua descomprometedoramente a favor das patentes tal qual o rascunho inicial Irlandês.
+
+Para voltar a introduzir emendas no parlamento Europeu são necessárias maiorias absolutas. Isso é exequível: muitas emendas conseguiram esse tipo de apoio à primeira leitura.
+Mas alguns dos votos podem não ser muito sólidos.
+
+== Alemanha, o Cavalo de Tróia de Bolkestein no Conselho ==
+
+Os delegados Italianos e Dinamarqueces avisaram que as emendas dos delegados Alemães eram inócuas. 
+Ainda assim, a Alemanha, Polónia e Islávia seguiram Bolkestein juntos com a Alemanha, cuja opinião eles se baseavam para a sua própria oposição.
+Sem a liderança da Alemanha, Bolkestein não poderia ter assegurado uma maioria qualificada no Conselho.
+
+ * http://wiki.ael.be/index.php/V003.ogg
+
+On May 12th and later, the German government had promised to oppose the Council paper or at least to abstain.  It had built itself as the leader of the opposition against the Council "compromise" which smaller countries would follow.
+
+The german minister in charge, Brigitte Zypries, published an article on Heise online today in which she claims that her delegation obtained meaningful improvements which will prevent trivial patents.  These claims lack even the slightest trace of truth.
+
+All the German government achieved was to insert into Art 2b a requirement that a "technical contribution" must be not only non-obvious but also new.  Zypries praised this achievement as an effective safeguard against broad and trivial patents.  
+
+The leading ministerial official of the German delegation, Hansjoerg Geiger, meanwhile told various news channels that the government was against broad and trivial patents.  It is well known that the very regulations which the German government helped to push against the European Parliament systematically produce masses of broad and trivial patents.  See
+
+ * [[http://swpat.ffii.org/papers/eubsa-swpat0202/tech/|Why Amazon One-Click Shopping is patentable under the JURI/Council proposal]]
+ * [[http://swpat.ffii.org/analysis/trivial/|Why software patents are so trivial]]
+
+Zypries is under a certain pressure due to a coalition agreement between the Social Democrats and the Greens, which explicitely states that the field of software shall be governed by copyright and not by patents.  The action of the current german government can, by all usual methods of interpretation, hardly be construed as conforming to the Coalition Agreement.
+
+From within the german government it is rumored that there has been a horse-trade to allow a breach of this obligations if in return pet projects of concerned politicians are pressed through the EU via the Council.    The politicians from the coalition parties have kept conspicuously quiet. In the past similar agreements have prompted the german government to press coal subsidies through the EU via the Council in return for allowing some other countries to continue other subsidies.  The minister of economics responsible for this brokering at the time, Werner Mueller, is now at the head of the coal agency RAG.  The Council is well known to be a place for this kind of trading.  Such trading helps the member state governments to maintain and enlarge their power at the expense of other EU institutions.
+
+Many other delegations also acted against intra-ministerial agreements and agreements with the parliamentary majority. 
+
+The decision is not yet valid.  It is a political agreement to turn the current paper into an A item which will then be nodded through at the next council meeting.
+
+== Future of the Directive ==
+
+Faced with an unconstructive counter-proposal which goes even further away from the Parliament's position than the previous one, addresses none of the Parliaments concerns and slams shut doors of possible compromise that were previously open, the European Parliament will have little other option than to say No in one or the other way.  If it choses to simply reaffirm its previous position in another reading, this would ultimately lead into a conciliation procedure.  Unless enough pressure is built at the national level to make ministers stop to blindly trust their patent office administrators, the Conciliation procedure also promises little perspective of producing a workable compromise.  
+
+There will of course be more pressure on the European Parliament from all sides.  The patent departments of the large corporations will be sending even more fully paid lobbyists than before.  In previous campaigns for the gene patent directive many millions were spent by the patent lobby.  A similar attempt at pushing the Council paper through the Parliament by all means is to be expected.
+
+Yet the critics of software patentability have also grown stronger.  The message has reached the top level of ministerial bureaucracy in many countries and with each round of negotiations in the Council more ice melts away.  More ministerial officials than ever before are doubting the honesty of their patent experts and daring to look at alternative sources.  This is one of the reasons why the patent experts are eager to kill the directive project as quickly as possible.                                  
+
+== Perguntas mais frequentes, Material Introdutório para Jornalistas ==
+
+=== O que há de errado com Patentes de Software? ===
+
+ * SwpatArgumentsEn
+
+=== O que aconteceu no Conselho dia quatro de Maio? ===
+
+ * ConsFaq0405En
+
+=== Questões a serem feitas ao Conselho ===
+
+ * ConsQuer0405En

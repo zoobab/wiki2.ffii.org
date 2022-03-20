@@ -1,0 +1,54 @@
+## -*- dok: AmPlenExplanation05; lang: de; coding: iso-8859-1; mode: fundamental; -*-
+= Was ist das Ziel der wichtigsten Änderungsanträge? =
+-> 
+[ [[AmPlenExplanation05En| English version]] | [[AmPlenSummary05De| Überblick über die Ziele]]
+| [[Plen05En| Amendments page]]
+| [[SwpatcninoEn| News]]
+]
+----
+
+''Wir betrachten die meisten Änderungsanträge, und zwar in der Reihenfolge ihrer Wichtigkeit. Dabei erklären wir, welche Probleme in den Texten von Rat und JURI sie beheben. Beachten Sie, dass wir hier nur eine mögliche Sichtweise auf die Anträge präsentieren. In einigen Fällen sind auch weniger eingeschränkte Interpretationen möglich. Die Verbesserung gegenüber der Ratsversion ist nicht, dass die Änderungen keinerlei Interpretationsspielraum mehr ließen, sondern dass sie diejenigen Interpretationen ausschließen, die unbeschränkte Patentierbarkeit von Software zulassen.''
+
+
+
+=== Artikel 4 Absatz 2: Änderungsantrag 47=79=100=121=142=165 ===
+
+Dieser Artikel, von JURI nicht verändert, hat in der Ratsversion zwei Probleme:
+ * Er definiert den Patentierungs-Ausschluss von "Zweck und Vorgängen innerhalb eines Computerprogrammes als solchem" um in einen Ausschluss von "Quelltext oder Binärcode eines einzelnen Programmes". Nicht einmal das EPA interpretiert diesen Ausschluss derart eng.
+ * Er schreibt die EPA-Lehre vom "zusätzlichen technischen Effekt" fest. Das EPA hat bereits zugegeben, dass diese Rechtfertigung nur als ein Weg verwendet wurde, die Nicht-Patentierbarkeit von Computerprogrammen aus dem Europäischen Patent-Übereinkommen zu umgehen. Erstmalig wurde dieses Vorgehen gewählt, um eine computerimplementierte Geschäftsmethode patentierbar zu machen.
+
+Die Neufassung hat zwei Vorteile:
+ * Sie verleiht dem Ausschluss von "Computerprogrammen als solchen" von der Patentierbarkeit einen Sinn, indem sie festlegt, dass ein besserer Algorithmus in einem Programm kein ausreichender technischer Grund ist. Wie die Begründung von Änderungsantrag 20 schreibt, ist dies aktuelles deutsches und britisches Fallrecht.
+ * Der zweite Teil des Änderungsantrags lässt die Tür offen für Patente auf elektronische Schaltkreise. Beim Entwurf solcher Schaltkreise müssen ja verschiedene Probleme aus dem Bereich der angewandten Naturwissenschaften gelöst werden, die über die im Schaltkreis letztlich implementierten verbesserten Methoden der Datenverarbeitung hinausgehen.
+
+=== Artikel 2(ba) (neu): Änderungsantrag 43=75=96=117=138=161 ===
+
+Der entsprechende von JURI angenommene Antrag drückt den Begriff "Technologiefeld" aus als Anwendungsbereich von kontrollierbaren Naturkräften. Diese Neufassung des Antrages ist einfacher und deshalb weniger missverständlich als die JURI-Version.
+
+=== Artikel 2(b): Änderungsantrag 42=74=95=116=137=160 ===
+
+Die Originalversion des Rates sagt, dass der "Technische Beitrag" vollständig aus nicht-technischen Eigenschaften bestehen kann, genauer heißt es dort, dass nur der Patentanspruch als Ganzes einen technischen Beitrag enthalten muss, nicht aber notwendigerweise der Unterschied zwischen dem aktuellen Stand der Technik und dem Patentanspruch.
+
+Die JURI-Version ist bereits recht gut, enthält aber das Wort "technisch" einmal zu viel: Der zweite Satz dieser Version sagt, wie die Ratsversion, dass der "Technische Beitrag" diejenigen Neuerungen sind, um die sich der Patentanspruch vom aktuellen Stand der Technik unterscheidet.
+
+Dieser Änderungsantrag korrigiert den Fehler, indem er festlegt, dass der Unterschied selbst der "Beitrag" ist, und dass eben dieser Beitrag (also der Unterschied zwischen Patentanspruch und aktuellem Stand der Technik) "technisch" sein muss.
+
+=== Artikel 3: Änderungsantrag 45=77=98=119=140=163 ===
+
+Der Rat sagt in seinem Artikel 2(b), dass der technische Beitrag neu und nicht-offensichtlich sein muss. In Artikel 3 heißt es dann, dass die Erfindung, damit sie einen erfinderischen Schritt enthält (und damit nicht-offensichtlich ist), einen technischen Beitrag enthalten sollte. Dieser Zirkelschluss führt zu nichts.
+
+JURI korrigiert diesen Fehler, lässt aber auf der anderen Seite zu, dass der "technische Beitrag" vollständig durch nicht-technische Merkmale erfüllt werden kann.
+
+Dieser Änderungsantrag legt schlicht und einfach fest, dass der technische Beitrag neu und nicht-offensichtlich sein muss und dass die Erfindung einen solchen technischen Beitrag enthalten muss um patentierbar zu sein.
+
+=== Artikel 5 Absatz 2: Änderungsantrag 48=80=101=122=143=166 ===
+
+Die Bedingung nach dem "es sei denn" in der Ratsversion ist immer wahr, wenn der Patentantrag entsprechend eingereicht wird. Dieser Änderungsantrag des Rates, der nicht im Originalvorschlag der Kommission enthalten war, erlaubt eigenständige Patentansprüche auf Computerprogramme (auch als [[EubsaProgEn| Programmansprüche]] bezeichnet).
+
+Effektiv führen solche Programmansprüche dazu, dass bereits die Veröffentlichung von Programmen, die die zugrundeliegende Erfindung wiedergeben, eine Patentverletzung darstellen -- unabhängig vom Einsatzzweck des Programmes. Die zusätzlichen "Bedingungen" von JURI ändern daran nichts, da die Programmansprüche das Objekt selbst unabhängig von seiner Verwendung betreffen.
+
+Dieser Änderungsvorschlag verbietet Programmansprüche.
+
+=== Artikel 1: Änderungsantrag 40=72=93=114=135=158 ===
+
+Der Ausdruck "computer-implementiert" ist unpassend. Er impliziert die Möglichkeit, eine Erfindung sei ausschließlich mit den Mitteln eines Computers möglich, was bedeutet, reine Software sei patentierbar.

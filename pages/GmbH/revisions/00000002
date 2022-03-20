@@ -1,0 +1,1 @@
+Gesellschaft mit beschraenkter Haftung = limited liability company

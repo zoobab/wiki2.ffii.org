@@ -1,0 +1,74 @@
+== Article 2 b a (new) ==
+
+||  number  ||  submitter  ||  recommendation  ||  text  ||
+||  66 = 69 = 80 = 84  ||  Karas; McCarthy; Kauppi; Rocard  ||  +  ||  "Interoperability" means the ability of a computer program to communicate and exchange information with other computer programs and mutually to use the information which has been exchanged, including the ability to use, convert, or exchange file formats, protocols, schemas, interface information or conventions, so as to permit such a computer program to work with other computer programs and with users in all the ways in which they are intended to function.  ||
+
+A definition of what exactly interoperability means is good to have.
+
+== Article 6 bis (new) ==
+
+| number | submitter | recommendation | text |
+| 35 | Rocard | + | Member States shall ensure that, wherever the use of a patented technique is needed for ensuring conversion of the conventions used in two different computer systems or networks so as to allow communication and exchange of data content between them, such use is not considered to be a patent infringement.  |
+| 145 = 146 = 149 | Rocard; Lichtenberger and Frassoni; Karas | + | Member States shall ensure that, wherever the use of a patented technique is necessary in order to ensure interoperability between two different computer systems or networks, in the sense that no equally efficient and equally effective alternative non-patented means of achieving such interoperability between them is available, such use is not considered to be a patent infringement, nor is the development, testing, making, offering for sale or license, or importation of programs making such use of a patented technique to be considered a patent infringement. |
+| 147 | Szejna | + | Member States shall ensure that whenever it is necessary to use a patented technology solely to ensure the conversion of standards used in two different data processing systems in order to  ensure communication and data exchange, such use is not considered breach of patent. |
+| 148 | Manders | - | a. Member States shall ensure that a patented computer-implemented invention that is essential for enabling interoperability between programmable devices can be used on reasonable and non-discriminatory terms and conditions by third parties to enable interoperability between programmable devices. ''/'' b. If a voluntary license on reasonable commercial terms and conditions cannot be obtained within a reasonable period of time, Member States shall apply Article 31 TRIPS to such a patented invention. ''/'' c. It shall not be deemed reasonable if a potential licensee is forced to license its own technology that is essential for interoperability without any compensation or to agree to abstain from enforcing his own rights on such technology. |
+| 150 | Lehne | - | a. Member States shall ensure that the non-commercial use of an interface for the sole purpose of ensuring interoperability with an otherwise non-infringing product, system, network, or service does not constitute a patent infringement. ''/'' b. Any person requesting a licence for such use on a commercial basis may require the patent owner to grant a licence to the patented interface for such use on reasonable and non-discriminatory terms and on adequate conditions. ''/'' c. This article applies without prejudice to the TRIPs agreement. |
+|151 = 152 | Lehne | - | Member States shall ensure that, where the use of an interface, which is protected by a patent for a computer-implemented invention, is indispensable for the sole purpose of ensuring interoperability, such as to ensure conversion of the conventions used in two different computer systems or network in order to allow communication and exchange of data content between them, this use of the interface is not considered to be a patent infringement.|
+| 153 | Lehne | - | The Member States shall ensure that, in all cases in which the use of a patented technology for the conversion of the conventions used in at least two different computer systems is  indispensable to enable data content to be communicated and exchanged between the computer systems, an applicant for a licence for that patented technology is entitled to be granted a licence on appropriate terms (compulsory licensing) in relation to the right-holder. |
+| 154 | Kauppi | - | Member States shall ensure that wherever the use of a patented technique is needed for the sole purpose of ensuring interoperability of two different computer systems or networks so as to allow communication and exchange of data content between them, such use is not considered to be a patent infringement. Member States must ensure that the court may require a patent owner to grant a licence for such use having regard to the public interest in permitting access to the patented technique, provided that a licence is not otherwise available for such use on reasonable and non-discriminatory terms and conditions. |
+| 155 | McCarthy | - | Interoperability exception ''/'' - The developing, testing, making, using, offering for sale or license, selling, licensing, or importing of a patented computer-implemented invention shall not require the authorisation of the patent owner, to the extent that use of the patented computer-implemented invention is indispensable to achieve the interoperability of the computer program with one or more other computer programs, in the sense that no equally efficient and equally effective alternative non-patented means of achieving such interoperability between them is available. ''/'' - The exceptions set out in this Article may not be interpreted in such a way as to allow its application to be used in a manner which unreasonably prejudices the right holders legitimate interests or unreasonably conflicts with a normal exploitation of the computer implemented invention, taking account of the legitimate interests of third party software developers to achieve interoperability and of end-users to have access to interoperable programs systems and networks and the need to use data on different computer systems. |
+|156 = 157 = 159 | Kudrycka and Zwiefka; Bertinotti; Ortega | ++ | Member States shall ensure that, wherever the use of a patented technique is needed for the sole purpose of ensuring conversion of the conventions used in two different data processing systems so as to allow communication and exchange of data content between them, such use is not considered to be a patent infringement. |
+| 160 | Ortega | - | The development, examination, production, use, offering for sale, licensing, or import of a computer program incorporating a computer-implemented invention shall not require the authorisation of the patent holder where ''/'' (a) the invention incorporated is essential in order to make the computer program interoperable with one or more computer programs, provided that those programs cannot be made interoperable by any equally efficient and effective alternative means not covered by a patent; ''/'' (b) the computer program uses the computer-implemented invention to achieve such interoperability. ''/'' 2. For the purposes of this Article, "interoperability" is defined as the ability of a computer program to communicate and exchange information with another computer program and reciprocally use the information exchanged, including the ability to use, convert, or exchange file formats, protocols, or interface or convention schemes or information, or conventions in such a way as to enable the computer program to work in conjunction with another computer program and with users in every form in which it is designed to operate. |
+
+145 = 146 = 149 is a bit dangerous, because of the usage of the expression "computer systems or networks". This could mean that conversion between two different file formats on the same computer (e.g. Microsoft Word to !OpenOffice) could still infringe. Another example is interoperation between a computer and an mp3 player (an mp3 player may not be considered to be a computer system or a network).
+
+35 is a narrowed down version of the amendment adopted in first reading (safeguarding interoperability, removing the overly broad "significant purpose"), although it suffers from the same problem as the amendments above. 
+
+148, 150, 153 and 155 all make their provisions completely powerless by referring to vague TRIPs provisions. This directive is the ideal place to concretise those provisions, by stating that an interoperability privilege does not prejudice the legitimate rights of patent owners (just like the exemptions for research and private use).
+
+Additionally 153 talks about forced licenses, which is a very heavy-handed tool and not suited to the quickly evolving information economy.
+
+151 = 152 is powerless since it talks about interfaces, which are unpatentable even at the US Patent Office. The exemption must relate to the algorithms and techniques required to interoperate, not to some general description of the interfaces to a system.
+
+154 is a bit contradictory, since it first states that using a patented technique for the sole purpose of interoperability does not require a license, and next talks about forced licenses.
+
+## I don't understand this. The amendment only says that courts may only interfere if no RAND license is offered, not that they cannot mandate RF licenses (nor that the owner cannot offer RF licenses). (jmaebe)
+## Mandatory RAND licenses also exclude Royality Free licensing.
+
+156 = 157 = 159 is a simplified version of the first reading amendment, and uses "data processing systems" which can both refer to different computer programs, devices and computer systems. 147 is very similar.
+
+## Please no philosophising on these pages. These are the amendments they have to work with and which have to be voted upon, alternative possibilities at best have a place when tabling amendments for plenary (jmaebe)
+## Note: A patent is a right of exclusion, no right of usage. If a restriction of exclusion is regarded as a conflict with the legitimate exercise of such rights is could be codified in a way that prohibits the patentee to use his own invention unless he licenses such usage royality free. However, this incentive scheme does not give protection against patent trolls.
+
+160 suggests that a computer program on its own can "incorporate an invention". Since computer programs are not inventions, this is impossible.
+
+== Recital 18 a (new) ==
+
+| number | submitter | recommendation | text |
+| 243 | Ortega | - | In accordance with the TRIPS Agreement, no exception made to the enjoyment of patent rights should be interpreted in terms allowing it to be used in a manner entailing unreasonable damage for the right-holder or unreasonably at variance with normal exploitation of the computer-implemented invention, taking into account the legitimate interests of other computer program writers in achieving interoperability and the desire of end users to access systems and networks with interoperable programs and be able to use data on different computer systems. |
+
+Relativises freedom of interoperability by saying that a judge should decide whether to take it into account or not. It does not clarify TRIPs, but by repeating it it implies interoperability could not be allowed because it would interfere the "normal exploitation" of the patent. 
+
+== Recital 21 ==
+
+| number | submitter | recommendation | text |
+| 250 = 252 | Harbour; Kauppi | + | This Directive should be without prejudice to the application of the competition rules, in particular Articles 81 and 82 of the Treaty. |
+| 251 | Frassoni, Lichtenberger | o | The provisions of this Directive are without prejudice to the application of Articles 81 and 82 of the Treaty, in particular where a dominant supplier refuses to allow the use of a patented technique which is needed to ensure conversion of the conventions used in two different computer systems or networks so as to allow communication and exchange of data content between them.|
+
+250 = 252 removes the suggestion that interoperability should be handled through competition law.
+
+251 does not significantly change the Council text.
+
+== Recital 21 a (new) ==
+
+| number | submitter | recommendation | text |
+| 254 | Kauppi | o | The dominant supplier shall not be able to refuse to allow the use of a patented technique which is needed for the sole purpose of ensuring interoperability of two different computer systems or networks so as to allow communication and exchange of data content between them.|
+
+254 is ok per se, but not if it would be interpreted later as meaning that only dominant suppliers have to allow interoperability. This amendment also suggests interoperability should be handled through some form of compulsory license ("shall not be able to refuse to allow"), instead of automatically.
+
+== Recital 22 ==
+
+| number | submitter | recommendation | text |
+| 21 = 255 | Rocard; Lichtenberger and Frassoni | ++ | The rights conferred by patents granted for inventions within the scope of this Directive should not affect acts permitted under Articles 5 and 6 of Directive 91/250/EEC, in particular under the provisions thereof in respect of decompilation and interoperability. In particular, acts which, under Articles 5 and 6 of Directive 91/250/EEC, do not require authorisation of the rightholder with respect to the rightholder's copyrights in or pertaining to a computer program, and which, but for those Articles, would require such authorisation, should not require authorisation of the rightholder with respect to the rightholder's patent rights in or pertaining to the computer program. Moreover, where it is necessary to make use of a patented technique to ensure conversion of the conventions used in two different computer systems or networks so as to allow communication and exchange of data content between them, such use should not be considered as an infringement of patent. |
+
+21 = 255 add the equivalent of the interoperability privilege in the copyright directive for patents.

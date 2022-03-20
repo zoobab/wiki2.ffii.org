@@ -1,0 +1,45 @@
+## -*- dok: nladvice050604; lang: fr; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-06-09
+## title : Le gouvernement néerlandais demande d'abandonner la directive sur les brevets logiciels
+= FFII: Le gouvernement néerlandais demande d'abandonner la directive sur les brevets logiciels =
+->
+[ [[NlAdvice050604En| english]]
+| [[NlAdvice050604De| deutsch]]
+| [[SwpatcninoFr| Actualités des brevets logiciels]]
+]
+----
+
+''9 juin 2005 -- Dans un rapport présenté au parlement néerlandais cette semaine, et qui circule maintenant parmis les autres États membres de l'UE, le gouvernement néerlandais appelle à stopper les travaux concernant la directive sur les brevets logiciels et à geler le projet pendant cinq ans.''
+
+== Idées clés du rapport : ==
+
+ * Aucun besoin pressant pour une directive à l'heure actuelle.
+ * Des seuils de qualité plus élevés sont nécessaire concernant les brevets logiciels.
+ * Les brevets ne doivent pas devenir un moyen pour les entreprises de porter préjudice à l'interopérabilité ou de l'empêcher.
+ * Jusqu'à ce que ces problèmes soient résolus, la directive devrait être suspendue pour 5 ans.
+ * Les tentatives pour tracer une ligne entre les logiciels qui sont brevetables et ceux qui ne le sont pas échoueront.
+
+
+== Opinion de la FFII : ==
+
+Contrairement à ce rapport, la FFII pense que la Convention sur le brevet européen de 1973 avait raison : les fonctionnalités d'un programme d'ordinateur qui se ne se rapportent qu'à du logiciel ou à de la présentation d'informations ne doivent pas être brevetables. Tout prouve que de tels brevets ne sont pas nécessaires et portent préjudice à l'innovation plutôt qu'ils ne l'encouragent.
+
+Par contre, peuvent être brevetables des procédés techniques assités par ordinateur, tels qu'un métier à tisser ou un système de freins anti-bloquant (ABS). Ce ne sont pas des logiciels en tant que tels mais des inventions techniques qui incorporent du logiciel.
+
+Cette ligne peut être tracée, doit l'être et les amendements de Michel Rocard sont un bon moyen d'y parvenir.
+
+La meilleure solution est une directive confirmant que les pures fonctionnalités logicielles ne peuvent être brevetées, et la FFII préférerait nettement une directive réaffirmant la non-brevetabilité de tels logiciels.
+
+Mais une directive basée sur le texte du Conseil des ministres, approuvant sans réserve la brevetabilité du logiciel, serait désastreuse : ce serait en effet le feu vert pour des attaques en justice beaucoup plus agressives en Europe. Dans ce cas, l'incertitude juridique en l'absence de directive, où l'on ne sait pas jusqu'à quel point de tels brevets seraient applicables, est de loin préférable à une incertitude ''économique'' pour des centaines de milliers de développeurs qui seraient sûrs que ces brevets pourraient être appliqués.
+
+Selon James Heald, vice-président de la FFII :
+ Pour l'instant, il existe des brevets logiciels, mais pas de procès. Nous préférerions
+ qu'il n'y ait ni procès, ni brevets logiciels. Mais dans le pire des cas, pas de
+ directive vaudrait mieux qu'une directive signifiant qu'il y aurait des brevets
+ logiciels __et__ des procès.
+
+=== Le rapport ===
+
+ * Le rapport est accessible en néerlandais sur le [[http://minez.nl/content.jsp?objectid=32836|site du ministère des Pays-Bas]], il est intitulé « Bijlage: EU-richtlijn voor octrooiering van in computers geimplementeerde uitvindingen » et daté du 02/06/2005.
+ * [[http://ffii.nl|Vrijschrift/FFII-NL]] en a fait une [[http://www.vrijschrift.nl/nl/softwarepatenten/publ_overheid/kamerbrief_02_06_05_bijlage.pdf|copie]] et une [[http://www.vrijschrift.nl/nl/softwarepatenten/publ_overheid/kamerbrief_02_06_05_bijlage|version texte]].
+ * [[NlAdvice050604En| Traduction en anglais]].

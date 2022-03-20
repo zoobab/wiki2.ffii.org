@@ -1,0 +1,80 @@
+= 2004-07-10 DE Swpat großes Thema bei BMWA-Gesprächen auf Rügen =
+-->
+[ [:SwpatcninoDe: Neues]
+| [:SwpatbmwaDe: BMWA]
+]
+----
+
+=== Presseberichte ===
+
+ * [http://www.ostseezeitung.de/ru/start_112753_1270797.html Ostseezeitung]
+
+=== Einladende Organisationen ===
+
+ * [:SwpatbmwaDe: BMWA (Bundesministerium für Wirtschaft und Arbeit)]
+ * IfW (Institut für Weltwirtschaft, Kiel)
+
+=== Gastgeber (bzgl. Räumlichkeiten) ===
+
+ * OSCE (Open Souce Center Europe), kein Branchenverband im klassischen Sinne, mehr eine Art Förderkreis; http://www.osce.de/
+ * der Präsident des OSCE ist Dr. Schimitzek, Gründer/Inhaber/Geschäftsführer von CSB-SYSTEM AG (www.csb-system.com), ein klarer Swpatgegner mit negativen praktischen Erfahrungen mit Swpat
+
+=== Teilnehmer  ===
+
+ * [:UlrichSandlDe: Dr. Ulrich Sandl], BMWA; Referatsleiter IT-Sicherheit (kein Systemadmin, sondern es geht da um Politik)
+ * Bernhard Jesse, BMWA; Mitarbeiter von Dr. Sandl
+ * Dr. Barbara Held, BMI, bald EU; verantwortlich für Migrationsleitfaden, der ja klar pro open source ist; betonte schlechte Erfahrungen öffentlicher Auftraggeber mit proprietären Sw-Herstellern und deutliche Präferenz für Open Source
+ * Josephin Albrecht, BMI, designierte Nachfolgerin von Dr. Held
+ * Prof. Dr. Henning Klodt, IfW
+ * Dipl.-Volkswirt Jens Mundhenke, IfW, warnte in Vortrag vor Bedrohung von Open Source durch Swpat, drängte auf klare Definition dessen, was im Patentrecht als technisch gilt
+ * Dr. [:StefanKoothsDe: Stefan Kooths]
+ * Dipl.-Informatiker Robert Gehring, TU Berlin, Forschungsbereich "Informatik und Gesellschaft", wendet volkswirtschaftliche und soziologische Theorien auf Open-Source-Software an; auch Teilnehmer beim Runden Tisch des BMJ am 22.06.04, kritisch gegenüber gesamten Patentwesen und gegen Swpat im Besonderen
+ * Dr. Axel Metzger, Max-Planck-Institut für ausländisches und internationales Privatrecht Hamburg und ifrOSS (Institut für Rechtsfragen bei Open-Source-Software), Co-Autor eines Werkes ("Jäger/Metzger") über Open-Source-Recht; pro open source, hält GPL für sehr stark unter deutschem Recht gegenüber Firmen, weniger gegenüber Privatpersonen; kritisiert open-source-feindliche VSI-Pressemitteilung; sagte, allgemein würden immer mehr junge Rechtswissenschaftler nachrücken, die den stetigen Ausweitungen der Intellectual Property Rights sehr kritisch gegenüber stehen und Bedarf sehen, hier wieder gegenzusteuern und ein Stück zurückzugehen, weil sich ein Übermaß an Urheberschutz ganz allgemein als nachteilhaft erweist (!)
+ * Dr. Thorsten Wichmann, Berlecon Research Berlin, Marktforscher
+ * Stefan (?) Richter, FSF Europe
+ * Martin Schulte, German  Unix User Group (GUUG)
+ * Carsten Fischer, SuSE Linux AG
+ * Dirk Haaga, Red Hat
+ * Florian Breger, Sun Microsystems, dort für Vertrieb an Behörden zuständig
+ * Alfred Steinecker-Nehls, Hewlett-Packard
+ * Dr. Peter Schmitzek, Gründer/CEO/Inhaber CSB-SYSTEM AG und OSCE
+ * Albert Baeumer, CSB-SYSTEM AG
+ * Dr. Reinhard Wendlandt, OSCE
+ * Gunther Schrader, OSCE, Leiter des IT-College in Putbus
+ * Dr. Christoph Mayer, Oldenburger Forschungsinstitut für Informatik Systeme (OFFIS)
+ * Florian Müller, MySQL AB
+ * Rainer Brandt, LPI (Linux Professional Institute) Germany
+ * Dr. Katrin Sobania, DIHK, speziell zuständig für IT-Unternehmen
+ * Elmar Geese, LIVE (Linux-Verband)
+ * Werner Riek, LIVE (Linux-Verband)
+ * Gregor Lietz, EDS, beauftragt mit Erstellung des neuen Migrationsleitfadens, persönlich höchst (!) kritisch zu Patentwesen und gegen Swpat, EDS als Unternehmen hat wohl keine Position zu Swpat
+ * Walter Seemayer, Microsoft Deutschland, National Technology Officer und Mitglied der Geschäftsleitung
+ * Dr. Horst Kästner, IT-Circus GmbH (hat auch was mit IT-College etc. in Putbus zu tun)
+
+=== Themen auf Tagesordnung ===
+
+==== 1. Tag: "Das ökonomische Potenzial von Open Source Software: Volks wirtschaftliche Bedeutung, Wettbewerb und Innovationspotenzial" ====
+
+ * Begrüßung durch Dr. Sandl (BMWA)
+ * Prof. Dr. Klodt und Dipl.-Volkswirt Mundhenke (beide IfW): Thematische Einführung - die Bedeutung von Open Source Software für Wettbewerb und Innovation
+ * Dr. Kooths (MICE, Uni Münster): Ökonomische Merkmale von Software - Perspektiven von Open Source Software für den Wettbewerb
+ * Dipl.-Informatiker Gehring (TU Berlin): Open Innovation - Bottom-up & Peer-to-Peer
+
+==== 2. Tag: "Open Source Software im Wettbewerb: Rahmenbedingungen und Markthemmnisse" ====
+
+ * Dipl.-Volkswirt Mundhenke (IfW): Thematische Einführung - Einflussfaktoren auf Angebot und Nachfrage, Hemmnisse und begünstigende Faktoren durch Marktregulierung und Intermediäre
+ * Dr. Metzger (MPI und ifrOSS): Rechtsfragen der Open Source Software - Probleme und Perspektiven
+ * Dr. Wichmann (Berlecon): Die Nutzung von Open Source Software in Unternehmen - Strategien, Probleme, Trends
+ * Dr. Held (KBSt des BMI): Open Source in der öffentlichen Verwaltung - Stand, Perspektiven, spezifische Herausforderungen
+
+=== Swpat-bezogene Informationen ===
+
+In etwa der Hälfte der Vorträge kamen Swpat zur Sprache, speziell warnten das IfW, Gehring (TU Berlin) und ifrOSS vor einer Ausweitung der Patentierbarkeit und (Ausnahme Gehring, der dies aber beim Runden Tisch bei Zypries bereits tat) vor einer unscharfen Definition der Technizität.
+
+In den Diskussionen kam man praktisch ständig auf Swpat zu sprechen, so gut wie nach jedem Vortrag.
+
+Der Teilnehmer von Microsoft-Seite war zwar für Swpat, aber stellte eher die Frage danach, warum sich OSS in USA trotz Swpat gut entwickeln kann, als dass er selbst Aussagen machte. Er hätte, wenn ihm dies seitens der Einladenden zugelassen worden wäre, lieber noch speziell jemand mitgebracht, der zu Swpat Stellung beziehen kann.
+
+Die Vertreter der Unternehmen EDS, CSB-SYSTEM und !MySQL sprachen sich ganz deutlich gegen Swpat aus, und dies auch mehrmals.  Im Falle von EDS war es wohl eine private, aber sehr entschieden verfochtene Meinung. Die Repräsentanten der anderen Unternehmen waren entweder allgemein oder ausgerechnet bei der Swpat-Fragestellung dann schweigsam.  Letzeres fiel vor allem beim ansonsten gesprächigen Vertreter von !SuSE auf.  Mit der Übernahme von !SuSE durch Novell dürfte es schwerlich in Zusammenhang stehen, denn Novell-Vertreter haben sich schon mehrmals deutlich gegen Softwarepatente ausgesprochen.
+
+Die Swpat-Kritiker betonten immer wieder, dass Open Source zwar in ganz besonderem Maße durch Swpat gefährdet wird, es aber um ein allgemeines Problem geht, nämlich dass Swpat eine Bevorzugung für Konzerne und eine Benachteiligung des Mittelstands bedeuten.

@@ -1,0 +1,36 @@
+= 2004-07-09 US Adobe wegen Patentverletzung in Acrobat verklagt  =
+-->
+[ [[Adobe040709En| english]]
+]
+[ [[SwpatcninoDe| Neues]]
+| [[SwpikxraniDe| Fälle]]
+]
+----
+
+Laut einem [[http://news.com.com/2100-1012_3-5261459.html|CNet-Bericht]] ist die Firma Adobe von einer Firma namens "Information Technology Innovation" wegen Verletzung von deren Patent [[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=5,892,908.WKU.&OS=PN/5,892,908&RS=PN/5,892,908|US 5,892,908]] durch Acrobat verklagt worden.
+
+Die Patentfamilienrecherche bei [[http://www.depatisnet.de/|Depatisnet]] ergab, dass US 5,892,908 keine verwandten europäischen Patente aufweist.
+
+Vergleichbare Patente werden aber vom Europäischen Patentamt durchaus regelmäßig erteilt, s.
+ * http://swpat.ffii.org/patente/index.de.html
+
+== Deutsches Presseecho ==
+
+ * [[http://www.heise.de/newsticker/meldung/48983|Heise: Klage gegen Adobe wegen Patentverletzung durch Acrobat ]]
+ * [[http://www.computerwoche.de/index.cfm?pageid=254&artid=62922|Computerwoche: Adobe verletzt mit Acrobat angeblich Patente]]
+ * [[http://www.golem.de/0407/32273.html|Golem.de: Adobe wegen Acrobat verklagt]]
+
+
+== Anspruch 1 ==
+
+A method of extracting network information, comprising the steps of: 
+ 1. receiving an initial link address that points to a file; 
+ 1. retrieving the file associated with the initial link address; 
+ 1. parsing the file to find a hyper text link that points to a link file; 
+ 1. determining if the hyper text link has a link address that contains the initial link address as a root; and 
+ 1. when the link address contains the initial link address as the root, retrieving the link file associated with the link address. 
+
+== See also ==
+
+ * [[http://swpat.ffii.org/archive/quotes/#adobe94|Adobe statement against software patents of 1994]]
+ * [[SwxaiPaletteEn| Adobe v. Macromedia 2002]]

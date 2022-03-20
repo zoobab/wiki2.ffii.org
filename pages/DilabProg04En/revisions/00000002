@@ -1,0 +1,124 @@
+## -*- dok: DilabProg04; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= How Do Dilab's Medical Inventions Benefit from Program Claims? =
+->
+[ [[EubsaProgEn| Program Claims]]
+| [[ScaniaEn| Scania]]
+| [[DilabEn| DiLab]]
+| [[FfiiEpp0506En| EPP Discussion Paper]]
+| [[http://swpat.ffii.org/papers/europarl0309/cons0401/#prog|Council Directive]]
+]
+----
+
+''EICTA is touting an example program claim of Dilab, a Swedish SME, which, unless it receives "protection" of its medical hightech process by a program claim, will collapse along with all innovation and employment in Sweden.  We show that the program claim  allows appropriation of an uncopyrightable program that was not invented by the patentee and that it gives an undefined scope of exclusion with strange practical implications.''
+
+== A Claim to a Program ==
+
+In the patent [[http://l2.espacenet.com/espacenet/viewer?PN=EP1345533|EP1345533]] we read:
+
+  Claim 1. A method for automatic taking of specimen from a test
+  object, comprising the steps of: guiding a specimen collector, by
+  means of a guiding device, to a specimen terminal attached to the test
+  object; extracting a fluid specimen from the test object to the
+  specimen collector; guiding the specimen collector, by means of the
+  guiding device, to an output position; and outputting the specimen
+  from the specimen collector.
+
+This reads like a fairly broad patent on a process for conducting
+experiments in scientific laboratories.  It could be doubted whether
+this claim has any merits, whether it contains a technical
+contribution, and whether it is novel.  But, without doubt, this
+is a technical process, and let us for the moment assume that 
+it is in fact a novel and non-obvious technical invention.
+
+Unfortunately, the patentee is not satisfied with claiming this
+invention.  He also attempts to monopolise the logical structure
+(computer program) that describes this invention.
+
+Claim 16: 
+
+A computer program product for use in a data processing system
+controlling automatic taking of a specimen from a test object by means
+of a specimen collector guided by a guiding device and displaced by
+means of a driving mechanism, 
+said test object being coupled at a specimen terminal to the guiding device and said specimen collector having a lumen, the computer program product comprising program code portions configured to direct the data processing system to: 
+ * actuate the guiding device and the driving mechanism to lead the specimen collector to the specimen terminal; 
+ * actuate the extraction of a specimen from the test object into the lumen of said specimen collector by means of a pumping device; 
+ * actuate the guiding device and the driving mechanism to lead the specimen collector to a selected position; and to 
+ * actuate the output of the specimen from the specimen collector by means of said pumping device.
+"
+
+This claim essentially covers the following program, expressed here in
+Lisp:
+
+   (defun take-specimen-from-object (specimen collector device terminal object position)
+      (guide-to device collector (attached-to terminal object))
+      (extract-from-to specimen object collector)     
+      (guide-to device collector position)
+      (output-from specimen collector) )
+
+Since naming is irrelevant for the functionality of a program, the same program could be reworded as 
+
+   (defun a (b c d e f g)
+     (h d c (i e f))
+     (j b f c)
+     (h d c g)
+     (k b d) ) 
+ 
+As far as the program is concerned, this patent teaches nothing more than the above logical structure. It should therefore be objectionable under Article 54 EPC for lack of novelty, provided that an example of the same logical structure can be found in the prior art.
+
+!DiLab may have invented a way of arranging medical equipment, but they have hardly "invented" the above program.  If they had, we would here see an example of a program which is, due to lack of creative height, not copyrightable, and whose lacking copyrightabilility is being circumvented by a patent.
+
+Dilab has [[http://www.dilab.se/misc.htm|published a nice picture of the installation CD ("computer program product") which they seem to be selling]].
+
+The CD presented here was also does not look as if it was invented by Dilab.
+
+== A claim with an Undefined Scope ==
+
+[[LeoBaumannEn| Leo Baumann]] of [[SwpateictaEn| EICTA]] maintains that Dilab should be entitled to a program claim:
+ 
+     "You upload the software used in a medical equipment, onto a
+     carrier. The patent covers the functionality behind the equipment as
+     a whole, one of the claims covers and protects the software on the
+     carrier against: the copying of the concepts and functions that can
+     be implemented by the use of the software-pogramme.
+
+In reality, the software on a carrier anywhere in the Internet or on a disk
+that has the above mentioned logical structure falls under the claim.
+
+Baumann might want to say that the carrier would fall under the claim only
+if it contains a ready-made "uploadable image" that is somehow connected to
+the medical device.
+
+This kind rhetoric builds on misconceptions about computer programs.
+The computer program that is stored in the medical device, as far as
+disclosed by this patent, consists of nothing more than the above
+logical structure.  This structure can not, by some magic, embody "the
+functionality behind the equipment as a whole".  Rather, it encodes a
+logic which is decoded according to predefined decoding rules.
+Depending on these decoding rules, almost any program or information
+structure could infringe on the claim.  The program claim can not
+cover anything but the program as such.  Given that !DiLab did not invent a
+program, the scope of the program claim of this patent is undefined.
+
+== Application in Practice ==
+
+The program claim will in practice be used for enlarging the scope
+of what normal patent law might treat under "contributory infringement".
+
+Without the program claim, it would be up to patent courts to decide
+when the act of supplying a disk with a ready-made program for
+performing the above medical procedure could be considered to be an
+act of facilitating patent infringement.  The court might decide that
+the supplying of a disk is to be treated just like the supplying of
+an operation manual: a legitimate act in all cases.  Or they might
+decide that unlike the manual the disk with a customised binary image on it
+(as suggested by Baumann above) has no other function than to assist
+in infringing the patent and is therefore not allowed.
+
+With the program claim, the court would still have to engage in the same kinds of deliberations.  But it would be less likely that the court would decide that supplying a disk is legitimate in any case.
+
+By giving the patentee an undefined entitlement, which looks like a normal patent claim but in fact fails to describe what the patentee invented and thereby violates the grammar of patent claims, the patent office would be prejudicing or circumventing decisions that normally need to be made at a different level, namely that of determining the forms of infringement (e.g. Par 11 of German Patent Act, a set of questions that does not belong to substantive patent law and is outside of the scope of the EPC).
+
+For the patentee, the benefit is often questionable.  A supplier of medical equipment usually has an interest in ensuring that his customers are free to use this equipment as they please, according to the procedures which they choose to program.  We do not know the business model of Dilab.  Perhaps they do not supply equipment but rather try to foster legal insecurity among medical doctors in order to collect tolls from them.  Side note: this also entails questions about how compatible the Dilab patent is with the freedom of a medical doctor's choice of methods of therapy, which was until recently enshrined in Art 52(4) EPC.
+
+We do not doubt that !DiLab's position in certain negotiations would be strengthened by a program claim.  They would also be strengthened if they were entitled to take the son of any potential infringer as a hostage.  The question is: would !SMEs in general and society as a whole benefit from such strengthening?

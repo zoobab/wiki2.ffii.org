@@ -1,0 +1,53 @@
+= Document Metadata, MLHT and BibTeX =
+-->
+[ [[MlhtEn| MLHT]]
+| [[DokDataEn| documents]]
+]
+----
+
+== News & Chronology ==
+
+ * 2004-08-19 phm integrates bibtex into ffii-db and mlht as part of an effort to bring the [[http://swpat.ffii.org/letters/cons0406/parl/ConsParl0406.en.pdf|bibliographic appendix of the Urgent Appeal]] in line with a better-crafted version written by jmaebe using !BibTeX
+
+== Database Tables ==
+
+The following tables in the [[MlhtDbEn| ffii database]] are used for the integration:
+
+ * bibtyp
+ * bibtex
+ * biblang 
+
+'bibtex' maps the short document ids used in bibtex for paper documents (field 'bib') to the longer more general document ids defined in table 'mlhtdok' (field 'dok').
+
+The interesting metadata are found in the mlhtdok related tables.  Multilingual metadata are found in 'langtxts'.  For bibtex database fields, 'mlid' tags of the form 'bibauthor', 'bibtitle', 'bibpublisher' etc are used.
+
+The field 'bibtyp' specifies a data type used in 'bibtex', such as '@techreport'.  The possible types are defined in table 'bibtyp'.
+
+Table 'biblang' is the most useful table.  It specifies whether a language specific version of a 'bib' identifier is available.  If it is available, applications such as mlht can specify 'vkd00en' instead of 'vkd00' (language-neutral version).  
+
+== BibTeX database textfile swpat.bib ==
+
+This implies that our [[http://swpat.ffii.org/etc/swpat.bib|swpat.bib]] database must contain a language-neutral version for each document.  We don't fear redundancy, e.g. list 'vkd00', 'vkd00en', 'vkd00nl' even though much of the content is the same.
+
+If you want to edit swpat.bib, check out the latest version from the [[CvsadmEn| FFII CVS archive]] at cvs.ffii.org/var/cvs/mlht/tex/bib/swpat.bib
+
+'''Before committing your changes, run bibtext to prevent syntax errors!'''
+
+Eventually [[http://swpat.ffii.org/etc/swpat.bib|swpat.bib]] should be generated from the database.  In this case it is more likely that we generarte a separate bib file for each language.
+
+== Specifying use of BibTeX in MLHT ==
+
+The following entry in the [[http://swpat.ffii.org/letters/nodes.txt|nodes]] (mlht document metadata) file
+
+  style ConsParl0406 latex bibtex alpha swpat
+
+activates bibtex with bibliography style alpha and bibliography data files swpat.bib (several could be listed here).
+
+The generated tex files must of course contain some calls to the 'cite' macro in order for this to be of any use.  There is not yet a standardised way to do this.  In the future it might be conceivable to use a variant of the 'ah' function, e.g. 'ahbib', to do this.  For full independence from the latex output format, it would be desirable to make the mlht/ffii database the primary source for bibliiography data.  As long as this is not the case, bibliographic references can only be represented as simple links in the html version.
+
+The nodes (mlht document metadata) file entries will, needles to say, also be moved to the mlht/ffii database.
+
+
+
+
+ 

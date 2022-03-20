@@ -1,0 +1,56 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Welcome to Patent Adventure V3.4. - All Rights Reserved 1994.
+----
+
+You are the CEO of AcmeSoft - a fairly successful software company.
+You are at your desk.  Suddenly the fax machine rumbles...
+
+Command> READ FAX
+
+It's from SharkTech!  They're claiming that your company's product
+"Acme Professional" violates their software patent "Distinguishing
+Nested Structures by Color".  They want 1% of your wholesale price
+in royalties.
+
+Command> GIVE ROYALTIES
+
+Now they want 5%.
+
+Command> GIVE ROYALTIES
+
+That satisfied them.  Hmmm, the fax machine is humming again.
+It's from ParaTech!  They're claiming your company's product "Acme
+Professional" assigns clients to whichever server process is least
+busy, and as a result want 3% of your wholesale price in
+royalties.
+
+Command> IGNORE THEM
+
+ParaTech have decided to take you to court.  Do you want to settle
+for 10%, pay $800,000 in legal fees, or circumvent the patent?
+
+Command> CIRCUMVENT
+
+Your programmers say they can't circumvent the patent without
+hurting performance --- causing you to lose you 30% of your
+customer base.  Do you want to circumvent?
+
+Command> CIRCUMVENT
+
+You've lost 30% of your customers!  The fax machine is going
+again.  This time it's from MeanTech.  They're claiming your
+company's product "Acme Professional" violates their software
+patent on storing document images on a CD ROM along with an
+automatically generated index, and because they are a competitor,
+they do not want a royalty.  They want you to remove the violating
+code or stop shipping the product.  What do you wish to do:
+    1) Ship 400 floppy disks instead of one CD ROM.
+    2) Go to court.
+    3) Stop shipping the product.
+
+COMMAND> GO TO COURT
+
+Legal fees are $600,000.  Current funds are $400,000.
+You've gone broke!
+
+Do you want to play Patent Adventure again?> DEFINITELY NOT

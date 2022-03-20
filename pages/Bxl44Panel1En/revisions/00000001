@@ -1,0 +1,95 @@
+[http://plone.ffii.org/events/2004/bxl04/prep/ Go to schedule for the whole event]
+= Panel I 14:00-15:00 =
+= Recent Developments in Granting and Use of ICT Patents =
+== Recordings  ==
+ * [http://media.ael.be/ConfFreeSoftware/Conference%20Open%20Source%20-%20BXL20040414-Engl-1.mp3 English]
+ * [http://media.ael.be/ConfFreeSoftware/Conference%20Open%20Source%20-%20BXL20040414-Orig-1.mp3 Original Language]
+== Participants (in order of speaking) ==
+
+ * Jean-Paul Smets (CEO & patent owner, nexedi.com, FR)
+ * Adrian Lozano (patent data mining expert, SE)
+ * Jozéf Halbersztadt (patent expert of Internet Society Poland)
+ * Bernd Herd (Herdsoft.com, DE) - Recording at [http://media.ffii.org/bxl040414/conf/bxl040414-BerdHerd-en.mp3 MP3 - English] or [http://media.ffii.org/bxl040414/conf/bxl040414-BerdHerd-de.mp3 MP3 - German]
+ * Burak Canboy (CEO, win.rar GmbH, DE)
+ * Joerg Wittenberger (SME in artificial intelligence, DE) and Roland Orre (CEO & patent owner, Neurologic.se)
+
+== Chair  ==
+
+[http://www.olgazrihen.net Olga Zrihen MEP] ([http://www.dpsb.be Socialist Group, Belgium])
+
+== Summaries of contributions ==
+ 
+ * Jozéf Halbersztadt [http://w1.401.telia.com/~u40120948/misc/april2004revised.pdf contribution (English)]
+
+ I will show two highly topical patent cases where different interpretations of international treaties
+ are clearly exposed. From analysing the claims, we can make plausible conjectures about which types
+ of patents will be granted and enforced in various jurisdictions.
+
+ * Adrian Lozano [http://www.xenotype.com/kwiki/index.cgi?Presentation contribution (English)]
+
+ I will present a prototype of a database that contains approximately 20.000 granted european software
+ patents.  The database is designed to increase accessibility and facilitate classification of software
+ patents. The system will use Bayesian filtering and wiki-like tagging to achieve that goal. Possible
+ extentions are correlations with other data, like R&D intensity and company size and an interactive
+ interface similar to mail client spam filters.
+
+ * Bernd Herd [http://www.herdsoft.com/Einkommenseinbussen%20durch%20Softwarepatente.html contribution (German)] [http://www.herdsoft.com/Losses_caused_by_software_patents.html English translation]
+
+ I will focus on real world experience of commercial software development from a SME perspective in the
+ present minefield of EPO granted patents. Hands-on experiences with patent mines in e.g. the fields of
+ geographical data analysis, data compression, and full text indexing illustrate the risks and deadlocks
+ by real-world licensing practices as well as granting practices. The examples serve to illustrate the
+ necessity of legal security and patent law clarity (like Parliament article 6a) and show the many ways
+ in which patents cause extra costs to software developers.
+
+ * Burak Canboy
+
+ I am CEO of a shareware company specialized in compression software. We are market leaders in Europe and
+ have 2 million downloads per month and growing. Our busines model is successfully built on copyright and
+ beeing ahead of competitors. A serious problem is that small parts of programs are patented. Future
+ companies might end up in a situation where they don't know which parts. You might then recieve letters
+ from companies wanting money for licencing things you wrote yourself.
+	
+ * Roland Orre and Joerg Wittenberger [http://kwiki.ffii.org/?Gxl44Pa (merged contributions)]
+
+ To a computer scientist data processing lies very close to the
+ concept of the Turing machine. To us the Parliament article 3a:
+
+   "3a. Member states shall ensure that data processing is not
+   considered to be a field of technology in the sense of patent law,
+   and that innovations in the field of data processing are not
+   considered to be inventions in the sense of patent law."
+
+ is similar to a set of Turing compatible processes being excluded
+ from patentability. Taking non-patentability of Turing processes for
+ granted, an AI approach to software solutions, business models and
+ marketing/manufacturing processes may give new insights.
+
+ Remebering historical more or less successfull attempts to exhaust spheres
+ of patentable subject matter from patent claims, like "public patents pools"
+ and "defensive publication" (also called "patent profylax"), we hope our
+ proposal will open a new way to use the patent system as to make the patent
+ system achieve it's goals: to stimulate the shaping of standards in design
+ and knowledge representation and stimulate cooperation between researchers
+ and companies. Maybe this "workaround" will not be necessary in Europe, but
+ the US need is obvious.
+
+ * Jean-Paul Smets [http://www.nexedi.org/sections/publication/nexedi_position_on_s contribution (English)]
+  Nexedi Position on Software Patents.
+
+==  Questions  ==
+
+ * How many patents of which types have been granted and enforced in various jurisdictions?
+ * How have ICT businesses been affected?
+ * Patent enforcement practicies?
+ * Focus on real experience with patents.
+= Order and proposed time slots: =
+
+ Jean-Paul Smets         7.5
+ Jozéf Halbersztadt     10
+ Adrian Lozano           7.5
+ Bernd Herd             10
+ Roland & Joerg         10
+ Burak Canboy            5
+                       =====
+                        50 min  

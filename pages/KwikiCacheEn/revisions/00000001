@@ -1,0 +1,19 @@
+## -*- dok: KwikiCache; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-07-07
+= Automatic Caching of hot Kwiki Pages =
+->
+[ [:KwikiEn: Kwiki]
+| [:PolisEn: ADP]
+| [:FfiiprojNewsEn: FFII Project News]
+]
+----
+
+''7th July 2004 by phm -- FFII needs a system for automatically caching the kwiki news items that go into the RSS stream and are likely to attract attention.''
+
+We need a script that parses either the news page SwpatcninoEn SwpatcninoDe etc themselves or or the [http://www.ffii.org/news/rss/SwpatcninoEn-ffii.rss latest RSS wiki newsstreams generated therefrom] and assures that the news pages therein are cached.
+
+For that, it needs to write to the files /var/www/kwiki/pages.lst and /etc/apache-ssl/vhost.conf.
+
+Search for "SwpatcninoEn" in the latter file and you'll see a rewrite rule for all the caching pages.  That rule should contain the 20 most recent news items, and pages.lst also should contain them.
+
+This script can save our server a lot of load.

@@ -1,0 +1,44 @@
+## -*- dok: irc; lang: en; site: kwiki; coding: iso-8859-1; mode: fundamental; -*-
+= FFII-related IRC sessions =
+->
+[ [:FfiiprojEn: Projects]
+| [:FfiiprojPriorEn: Priorities]
+]
+----
+
+''FFII activists are regularly meeting for internet relay chat (IRC) sessions.''
+
+== Schedule ==
+
+Most active in evening hours, after 20.00, but sometimes earlier too.
+Especially on [:FfiiprojPriorEn: monday evening].
+
+== Joining the chat ==
+
+If you don't know much about IRC: just point your web browser to [http://chat.vrijschrift.org/ this web page], change the "nickname" to something friendlier than CGI123, leave the other fields as is and press the "login" button. 
+
+If you know something about IRC: Or join the channel #bxl-ffii on irc.freenode.net. 
+URL: irc://freenode/bxl-ffii (Useful if you have your IRC Client integrated with your browser, e.g. if you are using mozilla or firefox and have the
+[https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&id=16 Chatzilla extension] installed which can be installed with a few clicks.
+== Mozilla add-ons ==
+
+Off-topic, but related: If you are using Mozilla or Firefox, there are some other very worthwile extensions:
+ * "Session Saver" - saves your current Mozilla Windows/Tabs and restores your last set of tabs when you start mozilla, this even works after broswer and hard system crashes.
+ * More infos: [http:RecommendedMozillaExtensionsEn Recommended Mozilla extenstions]
+
+== Chat-tools ==
+
+ * [https://addons.update.mozilla.org/extensions/moreinfo.php?application=firefox&version=1.0&os=Windows&id=16 Chatzilla], an extension for [http://www.mozilla.org Mozilla] Webbrowsers (install is just point and click)
+ * Cross-Platform
+   * [http://irssi.org/ irssi] -- Perl-based, very extensible
+   * [http://gaim.sf.net Gaim]
+ * [http://www.mirc.com/ mIRC] - Shareware for MS Windows
+ * !MacIntosh clients
+   * [http://www.ircle.com/ IRCle] 
+   * [http://colloquy.info/ Colloquy] simple, nice and free client for Mac OS X
+
+== Staying tuned forever ==
+
+One elegant way of chatting is to log in using the 'screen' utility of a Unix system
+and, when you shut down the machine, detaching.  This lets you come back to the
+same session later, as if you had been there all the time.

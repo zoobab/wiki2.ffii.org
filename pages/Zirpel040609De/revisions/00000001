@@ -1,0 +1,394 @@
+= 2004-06-09 DE Michael Zirpel zur Softwarepatent-Richtlinie =
+-->
+[ [:ElectDeSpd0405De: SPD @ EP]
+]
+----
+
+Michael Zirpel übersandte im Wahlkampf ein lesenswertes Schreiben seines Vorgängers Gerhard Schmid, welches viel Raum darauf verwendet, zu beschwichtigen und die
+Sorgen der Softwarepatentgegner auf Konfusion zurückzuführen, die jedoch von diesem
+Text erst geschaffen wird.
+Der Text legt "Patente auf Software als solche" als "Patente auf bestimmte Formulierungen im Programmtext" auslegt (s. hierzu http://swpat.ffii.org/analyse/epue52/) und verspricht, dass dergleichen (was ohnehin nie vorkommt und niemanden stören würde) nicht vorkommen wird.  Andererseits verspricht der Text Abhilfe gegen
+ausufernde Patentierbarkeit durch wirkungslose Paragraphen (wie !McCarthys
+Änderungen an Art 4, s. http://swpat.ffii.org/papiere/eubsa-swpat0202/tech/).
+
+Man könnte vermuten, dass dieser Text von [:ErikaMannDe: Erika Mann]
+stammt, die in der Phase der Beratungen über die Patentrichtlinie mit ähnlichen
+Argumenten danach trachtete, die SPD-Gruppe auf die Seite von !McCarthy zu ziehen.
+
+ Subject: computerimplementierte Erfindungen
+ Date: Mittwoch, 9. Juni 2004 12:34
+ From: Michael Zirpel <europawahl@michaelzirpel.de>
+ To: Nicht offen gelegte Empfänger: ;
+ 
+ Sehr geehrte Damen und Herren,
+ aufgrund der sehr zahlreichen Zuschriften zum Thema
+ "computerimplementierter Erfindungen" verzeihen Sie mir bitte, dass ich
+ Ihnen nicht individuell auf alle Ihre Fragen antworten kann.
+ 
+ Die erste Lesung zur "Richtlinie des Europäischen Parlaments und des
+ Rates über die Patentierbarkeit computerimplementierter Erfindungen" hat
+ bereits in der vergangenen Legislaturperiode stattgefunden. Wie Sie
+ vielleicht wissen, bin ich noch nicht Mitglied des Europäischen
+ Parlaments. Dennoch habe ich mich mit dem Thema bereits
+ auseinandergesetzt. Dr. Gerhard Schmid, Vizepräsident des Europäischen
+ Parlaments, hat für die erste Lesung ein Positionspapier ausgearbeitet,
+ das ich Ihnen im Anhang übermittle. Die in dem  das ich Ihnen im Anhang übermittle. Die in dem Papier formulierten
+ Positionen werde ich, wenn ich Mitglied des Europäischen Parlaments
+ werde, in der weiteren Diskussion vertreten.
+
+ Mit freundlichen Grüßen
+
+ Michael Zirpel
+
+
+ --
+ Michael Zirpel,
+ Kandidat zur Europawahl
+ Richard-Wagner-Str. 4
+ 93055 Regensburg
+ Tel: 0941/ 78 03 97 24
+ Fax: 0941/ 78 03 97 25
+ E-Mail: europawahl@michaelzirpel.de
+
+ -------------------------------------------------------
+
+ Dr. Gerhard Schmid, MdEP
+
+ Vizepräsident des Europäischen Parlaments
+
+ 21. September 2003
+
+ Überlegungen zum sogenannten Softwarepatent
+
+ Das Dilemma beginnt mit der breiten Verwendung des unpräzisen Begriffs
+ Softwarepatent bei der Diskussion über die ''Richtlinie des Europäischen
+ Parlaments und des Rates über die Patentierbarkeit
+ computerimplementierter Erfindungen``. Damit entsteht in der
+ Öffentlichkeit der Eindruck, man wolle auch in Europa in Zukunft jedes
+ Computerprogramm der Patentierbarkeit zugänglich machen. Genau dies ist
+ aber nicht der Fall. Gegen eine allgemeine Patentierbarkeit von Software
+ sprechen viele gute Gründe, und die Erfahrung zeigt, dass der
+ Urheberrechtsschutz völlig ausreicht. Eine vernünftige politische
+ Entscheidung über den Richtlinienvorschlag ist aber nur möglich, wenn
+ einige Grundlagen geklärt sind, wobei die rechtliche Situation in Europa
+ zugrunde gelegt wird. In den USA gilt ein anderes Patentrecht, das viel
+ niedrigere Anforderungsschwellen hat.
+
+ I. Zum Patentwesen in Europa
+
+ Das Patentwesen in Europa ist derzeit nach wie vor national organisiert
+ (nationales Patentamt und Patentgerichte). Wer die Gesetzgebung und
+ damit die Rechtsprechung im Patentbereich innerhalb der EU angleichen
+ will, muss mit einem europäischen Rahmengesetz (Fachbegriff: Richtlinie)
+ die nationalen Patentgesetze angleichen.
+
+ Zur Erleichterung einer mehrere Länder umfassenden Patentanmeldung gibt
+ es aber die Möglichkeit, diese beim Europäischen Patentamt einzureichen.
+ Das Amt ist keine Einrichtung der EU, sondern der Vertragsstaaten des
+ Europäischen Patentübereinkommens und arbeitet auf der Grundlage dieses
+ Übereinkommens. Ein Europäisches Patent hat in jedem Vertragsstaat, für
+ den es erteilt wurde, dieselbe Wirkung und unterliegt denselben
+ Vorschriften wie ein in diesem Staat erteiltes nationales Patent.
+ Dementsprechend kann ein europäisches Patent derzeit auch vor den
+ nationalen Gerichten angefochten werden.
+
+
+
+ II. Was ist ein Algorithmus?
+ Ein Algorithmus ist eine allgemein nachvollziehbare eindeutige
+ Beschreibung einer Folge von Aktionen zur Lösung eines, meist
+ mathematischen, Problems. Mit dem Aufkommen von Rechenanlagen wurden
+ Algorithmen formalisiert und zu Problemlösungen herangezogen. Jedes
+ Computerprogramm ist sozusagen die »Implementierung« eines Algorithmus.
+
+ Ein Beispiel: ''Zähle zu einer beliebigen Zahl n die Zahl zwei dazu um
+ die Zahl x zu erhalten`` ist ein Algorithmus. Algorithmen für sich
+ allein sind weder durch das Urheberrecht noch durch das Patentrecht
+ geschützt. Auch wenn ich den Algorithmus in eine mathematische Formel
+ bringe: x= n+2 führt das noch nicht zu irgendeinem rechtlichen Schutz.
+
+ III. Was ist Urheberrecht?
+
+ Wenn ich jetzt diesen Algorithmus in der Programmiersprache Q-Basic
+ aufschreibe und damit den Computer anweise, zum Eintippen der Zahl n
+ aufzufordern und dann das Ergebnis x auszudrucken, dann ist dieses
+ Programm als Ergebnis einer eigenständigen geistigen Leistung genauso
+ wie ein Musikstück oder ein Buch urheberrechtlich geschützt:
+
+ REM Berechne x
+
+ DIM  x, n
+
+ PRINT ''Bitte n eingeben``
+
+ INPUT n
+
+ x = n +2
+
+ PRINT '' x = ``
+
+ PRINT x
+
+ Um genau zu sein: heutzutage ist ein solches Programm so trivial wie ein
+ Geschäftsbrief und wäre nicht schutzfähig.
+
+ Der Urheberrechtsschutz bedeutet: der Urheber kann die Vervielfältigung
+ (mit Ausnahme einer Sicherheitskopie), die Übersetzung und die
+ Bearbeitung des Programms von seiner Zustimmung abhängig machen.
+
+ Weiter gilt:
+ Voraussetzung für den urheberrechtlichen Schutz ist nur das Vorliegen
+ einer eigenständigen geistigen Leistung. Weitere Anforderungen gibt es
+ nicht, das ist der Unterschied zum Patent.
+ 
+ Bei Programmen sind anders als bei Literatur die Anforderungen an die
+ Schöpfungshöhe deutlich geringer; entscheidend ist, dass die Software
+ vom Schutzberechtigten stammt.
+ 
+ Ideen und Grundsätze, die einem Element des Programms zugrunde liegen
+ sind nicht geschützt. Das ist ein entscheidender Unterschied zum
+ Patentrecht.
+ 
+ Urheberrecht kann nicht beantragt werden, es gilt gebührenfrei
+ automatisch mit der Schöpfung des Werkes. Im Zweifel muss bei einer
+ Verletzung das Schutzrecht gerichtlich durchgesetzt werden.
+ 
+ Urheberrecht besteht bis 70 Jahre nach dem Tode des Schutzberechtigten.
+ 
+ Entscheidend wichtig ist auch, dass Weiterentwicklungen ein bestehendes
+ Urheberrecht nicht verletzen und deshalb ohne Zustimmung möglich sind.
+
+ Wenn ich den folgenden Algorithmus: y = (n+2) * 2 in Q -Basic
+ programmiere, dann enthält das Programm Teile, die im oben
+ aufgeschriebenen Programm vorkommen:
+
+ REM Berechne y
+
+ DIM x,y,n
+
+ PRINT '' Bitte n eingeben``
+
+ INPUT n
+
+ X = n + 2
+ 
+ Y = x *2
+ 
+ PRINT '' y =``
+ 
+ PRINT y Der Inhaber des Urheberrechts am ersten Programm kann keinerlei
+ Schutzrechte geltend machen, obwohl Zeilen aus dem ersten Programm auch
+ im zweiten vorkommen, denn sein Programm ist nur als Ganzes geschützt.
+ Die Weiterentwicklung muss allerdings über eine Bearbeitung hinausgehen
+ und ihrerseits eine eigenständige geistige Leistung darstellen. Wäre
+ hingegen Software als solche patentfähig, und könnte jemand ein Patent
+ auf die Zeile:
+
+ PRINT '' Bitte n eingeben``
+
+ eintragen lassen, dann müsste jeder, der diese Zeile in irgendeinem
+ Programm verwendet, gegen Geld eine Lizenz vom Patentinhaber erwerben.
+
+ IV. Was ist ein Patent?
+
+ Software als solche ist aber in Europa nicht patentfähig. Daran ändern
+ auch fälschlich erteilte Patente nichts, die vor den Beschwerdekammern
+ oder den Patentgerichten nicht standhalten werden. In Europa sind nur
+ Erfindungen patentierbar.
+
+ 1. Was ist eine Erfindung?
+
+ Eine Erfindung ist sicher eine geistige Leistung. Das Patentrecht stellt
+ aber an eine Erfindung weitere Anforderungen, die alle zusammen erfüllt
+ sein müssen; fehlt auch nur eines der Kriterien, so liegt keine
+ Erfindung im Sinne des Patentrechts vor. Eine Erfindung muss:
+
+ Einen Beitrag zur Lösung eines technischen Problems leisten. Technik
+ bedeutet dabei die Beherrschung und Steuerung von Naturkräften. Von
+ einer Erfindung kann nur dort die Rede sein, wo unmittelbar ein
+ technischer Effekt erzielt wird
+
+ Neu sein und nicht zum Stand der Technik gehören. Alles, was irgendwann
+ bereits veröffentlicht wurde ist nicht mehr neu.
+
+ Eine gewisse Erfindungshöhe aufweisen. Maßstab dabei sind die Kenntnisse
+ eines Durchschnittsfachmanns. Was ein solcher sich in absehbarer Zeit
+ herleiten oder entwickeln kann, ist nicht patentfähig.
+
+ Gewerblich anwendbar sein.
+
+ 2. Was ist ein Patent? 
+ Im Gegensatz zum Urheber hat der Erfinder kein automatisches Schutzrecht
+ gegenüber Anderen. Vielmehr muss er ein Patent anmelden und erteilt
+ bekommen, wenn er die Verwertung der Erfindung durch Andere abwehren
+ will. Die Patentanmeldung ist mit einer Offenlegung der Erfindung und
+ mit Gebühren verbunden. Das bedeutet im Einzelnen:
+ 
+ Die Patentanmeldung muss die Erfindung beschreiben.
+ 
+ Das Patentamt prüft nach der Anmeldung entlang der oben ausgeführten
+ Voraussetzungen und entscheidet, ob es sich um eine Erfindung handelt.
+ Im Laufe dieses Verfahrens werden die Akten offengelegt; gleichzeitig
+ tritt damit ein vorläufiger Rechtsschutz in Kraft.
+ 
+ Das Patent wird, wenn es sich um eine Erfindung handelt,
+ gebührenpflichtig erteilt.
+ 
+ Gegen die Erteilung können Dritte Einspruch bei der Beschwerdekammer des
+ Patentamts einlegen.
+
+ Wird dem Einspruch nicht stattgegeben, kann auf Nichtigkeit des Patents
+ vor dem Patentgericht geklagt werden.
+ 
+ Der Patentschutz gilt in der Regel für 20 Jahre.
+ 
+ 3. Was bedeutet es für Software, dass nur eine Erfindung patentiert
+ werden kann?
+ 
+ Es bedeutet ganz praktisch folgendes:
+ 
+ Software ist aufgrund der Tatsache, dass sie eine Maschine (den
+ Computer) steuert, deshalb noch lange nicht patentfähig. Die Steuerung
+ einer Maschine begründet nur eine von mehreren Voraussetzungen für ein
+ Patent. Die sogenannte Technizität ist eine notwendige, aber keineswegs
+ hinreichende Voraussetzung für eine Erfindung im Sinne des Patentrechts.
+ 
+ Das Horrorgemälde, Bill Gates könne sich ein Stück 
+ ''open-source-software`` über ein Patent aneignen, ist falsch. Was
+ bereits veröffentlicht ist, ist nicht mehr neu und deshalb keine
+ Erfindung und kann deshalb nicht patentiert werden. Auf ''open source``
+ kann es per se kein Patent geben.
+  Ein Programmierer muss sich auch heute schon um Patentansprüche kümmern,
+ wenn er/sie z.B. Maschinensteuerungen programmiert. Denn in diesem Feld
+ gibt es zurecht bereits heute Patente.
+
+ 4. Gibt es heute bereits zurecht erteilte Patente auf Software?
+
+ Software als solche ist nicht patentierbar, weil sie im Allgemeinen die
+ Anforderungen an eine Erfindung nicht erfüllt. Allerdings gibt es
+ Erfindungen, bei denen ein Algorithmus im Zusammenhang mit einer
+ Maschine Teil einer Erfindung ist. Dann kann der Algorithmus als Teil
+ dieser Erfindung und im Zusammenhang mit ihr patentrechtlich geschützt
+ werden. Als das ABS-Bremssystem erfunden wurde, war der dazugehörige
+ Algorithmus Teil des Patents. Dabei ist unerheblich, mit welchem
+ Computerprogramm er dann praktisch umgesetzt wird, bereits die Idee ist
+ geschützt. Patente dieser Art gibt es inzwischen viele (Lambdasonde,
+ elektronische Dieselregelung, Kransteuerungen etc.) und sie haben den
+ Beschwerdekammern und den Gerichten standgehalten, weil es um
+ Bestandteile von Erfindungen geht.
+
+ 5. Gibt es in Europa zweifelhafte Patente für Software (Algorithmen)?
+
+ Ja, die gibt es, und das hat mehrere Ursachen:
+
+ Marktwirtschaft ist Wirtschaftskrieg. Die Unternehmen versuchen stets,
+ Mitwettbewerbern das Leben schwerer zu machen und ihre Möglichkeiten zu
+ beschränken. Die Anmeldung von Patenten, selbst wenn sie vorhersehbar
+ nicht erteilt werden oder trotz Erteilung vor Gericht nicht Bestand
+ haben sollten, ist ein Teil dieses Krieges. Klappt es: fein! Klappt es
+ nicht: der Versuch war erlaubt!
+
+ Die Patentämter legen mit ihren Entscheidungen das Patentrecht zeitnah
+ aus und tragen so im Zusammenspiel mit den Beschwerdekammern und den
+ Gerichten zu seiner Fortentwicklung bei. Das Europäische Patentamt
+ orientiert sich dabei sichtlich an der Praxis am wenigsten restriktiven
+ Mitgliedstaaten des Europäischen Patentübereinkommens und an den
+ internationalen Entwicklungen. Insbesondere bei Software sind
+ zahlreiche, in den USA aufgrund eines niedrigeren Standards bereits
+ patentierte Ansprüche auch in Europa eingereicht worden, um auf der
+ sicheren Seite zu sein, falls das Patentrecht hier angepasst werden
+ sollte. Zu Beginn war ja keineswegs klar, ob die Europäische Kommission
+ nicht vorschlagen würde, die Schleusen zu öffnen (diese mögliche Absicht
+ ist bis heute an Details der Begründung der Richtlinie über den
+ nicht vorschlagen würde, die Schleusen zu öffnen (diese mögliche Absicht
+ ist bis heute an Details der Begründung der Richtlinie über den
+ Patentschutz von computerimplementierten Erfindungen noch erkennbar).
+ 
+ In diesem Zusammenhang sind bedauerlicherweise auch sogenannte
+ Trivialpatente, zum Beispiel das Europäische Patent EP0394160 für den
+ sogenannten Fortschrittsbalken (das ist der manchmal auf dem Bildschirm
+ erscheinende Balken, der durch sein Längenwachstum den Fortschritt eines
+ Prozesses im Computer anzeigt - weiß Gott keine Erfindung!) erteilt 
+ worden. Diese Patente werden derzeit von den Patentinhabern in Europa
+ nicht mit Klagen durchgesetzt, weil sie genau wissen, dass sie vor den
+ Gerichten scheitern würden.
+ 
+ V. Welchen Zweck hat die vorgeschlagene Richtlinie? 
+ 
+ Zunächst muss festgehalten werden, was damit nicht geändert wird:
+ 
+ Artikel 52 des Europäischen Patentübereinkommens legt fest, dass
+ Programme für Datenverarbeitungsanlagen als solche nicht patentierbar
+ ist. Das wird nicht geändert.
+
+ Die Richtlinie 91/250/EWG zum Urheberrechtsschutz von Computersoftware
+ wird nicht geändert.
+ 
+ Die allgemeinen Anforderungen an eine Erfindung als Voraussetzung der
+ Erteilung eines Patents werden nicht geändert.
+ 
+ Welchen Zweck hat dann überhaupt diese Richtlinie? Zunächst den von der
+ Europäischen Kommission vorgesehenen Zweck, die Patentgesetze und in der
+ Folge die dazugehörige Rechtsprechung in den Mitgliedstaaten der EU 
+ soweit anzugleichen, dass es im Europäischen Binnenmarkt nicht zu einer
+ Auseinanderentwicklung der Patenterteilung kommt. Ein ähnliches Problem
+ stellte sich vor einiger Zeit bei der Patentierung genetisch veränderter
+ Organismen. Die damalige Richtlinie hat übrigens, obwohl sie keine
+ direkte Bindungswirkung für das Europäische Patentamt besitzt, die
+ Praxis der Patenterteilung beeinflusst und natürlich die Rechtsprechung
+ an die Einschränkungen gebunden, die der Europäische Gesetzgeber für
+ Patentierbarkeit in diesem Bereich festgelegt hat.
+ 
+ Die Richtlinie kann allerdings auch auf der Basis von Abänderungen durch
+ das Parlament den weiteren Zweck verfolgen, über den Bestand von
+ allgemeinem Patentrecht und zugehöriger Rechtsprechung hinaus noch
+ zweifelsfreier mit Klarstellungen die Anforderungen an eine Erfindung in
+ diesem Bereich gesetzlich festzus zweifelsfreier mit Klarstellungen die Anforderungen an eine Erfindung in
+ diesem Bereich gesetzlich festzuschreiben. Dies sollte man tun. Eine
+ simple Ablehnung der Richtlinie würde auf positive Gestaltung verzichten
+ und die Auslegung des Patentrechts im Bereich der Software den
+ Patentämtern und Gerichten alleine überlassen.
+
+ VI. Ist der jetzt zur Abstimmung stehende Text zustimmungsfähig?
+
+ Im Grunde geht es darum, angesichts der bestehenden Patentpraxis die
+ Voraussetzungen der Patentierbarkeit einer computerimplementierten
+ Erfindung in der Richtlinie hinreichend scharf zu definieren, damit die
+ ausufernde Patentpraxis wieder eingefangen wird.
+
+ Die Kommission schlägt für Art.4 folgende Formulierungen vor:
+
+ Die Mitgliedstaaten stellen sicher, dass eine computerimplementierte
+ Erfindung patentierbar ist, sofern sie gewerblich anwendbar und neu ist
+ und auf einer erfinderischen Tätigkeit beruht.
+
+ Die Mitgliedstaaten stellen sicher, dass die Voraussetzung der
+ erfinderischen Tätigkeit nur erfüllt ist, wenn eine
+ computerimplementierte Erfindung einen technischen Beitrag leistet.
+
+ Bei der Ermittlung des technischen Beitrags wird beurteilt, inwieweit
+ sich der Gegenstand des Patentanspruchs in seiner Gesamtheit, der sowohl
+ technische als auch nichttechnische Merkmale umfassen kann, vom Stand
+ der Technik abhebt.
+
+ Dabei werden die etablierten und durch Rechtsprechung verfestigten
+ Begriffe des Patentrechts verwendet und es wird festgelegt, dass für die
+ Patentierbarkeit einer computerimplementierten Erfindung keine
+ niedrigeren Schwellen gelten als für die Erfindung einer Maschine.
+ Dementsprechend ergänzte nationale Patentgesetze hätten bereits eine
+ einschränkende Wirkung.
+
+ Trotzdem wäre es gut, gerade wegen der bisherigen ausufernden
+ Patentpraxis, im Artikel 4 die Voraussetzungen der Patentierbarkeit noch
+ schärfer zu definieren. Das kann aber nicht soweit gehen, dass
+ Selbstverständlichkeiten des Patentrechts nochmals in die Richtlinie
+ hineingeschrieben werden - irgendwie hat das Europäische Parlament auch
+ seinen Ruf als ernst zunehmender Mitgesetzgeber zu wahren. Im Bericht
+ Arlene McCarthy wird für den Artikel 4 mit den Abänderungsanträgen 16
+ und 17 eine Formulierung gewählt, mit der die Richtlinie in diesem Punkt
+ angeschärft wird. Auch an anderen Stellen  werden Klarstellungen
+ und 17 eine Formulierung gewählt, mit der die Richtlinie in diesem Punkt
+ angeschärft wird. Auch an anderen Stellen werden Klarstellungen 
+ eingefügt. er von der Berichterstatterin jetzt vorgelegte Text ist deshalb zustimmungsfähig.
+
+ 

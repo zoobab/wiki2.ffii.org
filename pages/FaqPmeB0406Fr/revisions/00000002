@@ -1,0 +1,42 @@
+Question & Réponses sur l'octroi de monopoles pour des fonctionnalités de logiciels ("brevets logiciels") en Europe:
+
+Q1) Une petite entreprise conçoit un nouvel appareil et le met sur le marché. Sans brevet sur l'appareil, n'importe quelle (grosse) entreprise concurrente pourrait bénéficier de la R&D et commercialiser un appareil semblable. Comment la situation serait-elle différente pour une PME créant un nouveau logiciel ?
+
+A1.1) Contrairement aux objets physiques, il n'est pas suffisant d'observer un logiciel du marché pour comprendre son fonctionement. Les droits d'auteurs empêchent déjà les concurrents de se contenter de copier le logiciel. Une imitation qui ne serait pas une copie exigerait une rétro-ingénierie très couteuse en temps et en argent pour n'importe quel logiciel non trivial. En conséquence, les économies sur la R&D des concurrents seraient compensées par les coûts de rétro-ingénierie et ces compétiteurs auraient eux aussi à payer des coûts de développement et de mise au point de leur propre implémentation.
+
+A1.2) Contrairement aux objets physiques, les logiciels permettent aux PME de concevoir des produits très complexes : les sous-programmes sont beaucoup plus faciles à combiner que des parties mécaniques ou même des composants électriques. En conséquence, les brevets sur des fonctionnalités de logiciels ne couvrent pas un produit dans son ensemble, mais simplement une très petite partie du produit final. La PME aurait donc un monopole sur une toute petite partie de son produit, lequel produit enfreindrait inévitabelement un très grand nombre d'autres brevets. Le gain net du système de brevets (à savoir le rapport entre les brevets possédés et les brevets enfreints)n'est intéressant que pour les sociétés qui sont suffisament grosses pour bénéficier de synergies entre les brevets de leur différents produits (Office Européen des Brevets: 7% des demandeurs de brevets détiennent plus de 50% des brevets), ou pour les sociétés de qui ne produisent aucun logiciel et se contentent d'engranger les gains des licences de leur brevets[ 1 ].
+
+A1.3) Contrairement aux objets physiques, les logiciels sont soumis à de grosses contraintes d'interopérabilité. Si l'Europe accordait à Microsoft les brevets demandés sur ses formats de fichiers (ASF et les documents Word XML par exemple), cette société pourrait exclure du marché n'importe quel compétiteur voulant traiter de la vidéo ou des textes. Les lois anti-trust ne sont pas efficaces pour protéger les PME car ces dernières ne peuvent se battre suffisament longtemps (6 à 9 ans!) pour survire jusqu'au dernier appel.
+
+Remarque: Ces réponses ne couvrent que les programmes d'ordinateur. Pour les logiciels embarqués comme le fameux (et unique!) exemple de la Commission du logiciel d'aide au freinage, il suffit d'utiliser des puces résistant à la rétro-ingénierie pour commercialiser le produit sans divulguer aucun secret et donc sans avoir besoin de monopole garantit par l'Etat.
+
+Q2) Des éditeurs de logiciels Américains sont devenus de grosses multi-nationnales. Ce sont surement leurs brevets logiciels qui ont permis à ces sociétés à obtenir des retours sur investissements de leur R&D et mettre des produits innovants sur le marché ?
+
+A2) Les éditeurs Américains de logiciels se sont développés avant que les brevets logiciels ne se généralisent.
+"Si les gens avaient compris comment des brevets seraient accordés lorsque la plupart des idées utilisées aujourd'hui furent inventées, l'industrie seraient complètement paralysée aujourd'hui... La solution est de breveter autant que possible. Une future start-up sans brevets sera obligée de payer le prix que lui les géants choisiront d'imposer. Le prix pourra être élevé. Les compagnies établies ont intérêt à exclure les futures compétiteurs" Bill Gates 1991, cité par Fred Warshofsky dans "The Patent Wars" 1994. Maintenant, en revanche, semble être le moment idéal pour "paralyser complètement l'industrie" d'après Microsoft et les autres acteurs dominants, comme on peut le voir au nombre de brevets sur des fonctionnalités de logiciels qu'ils déposent. Il semble que même le marché Américains des logiciels serait en meilleure santé sur les acteurs dominants n'avait pas la possibilité de raqueter les autres grâces à leurs brevets logiciels [ 2 ].
+
+Q3) Les start-up Européennes dans le domaine du logiciel ont besoin de brevets pour obtenir du capital-risque. Comment un acteur du captial-risque peut-il savoir si un produit est utile et innovant sans brevets?
+
+A3) Les brevets ne sont de toutes façon pas un gage de qualité, ni même d'utilité. Avoir un monopole sur des fonctionnalités de votre logiciel ne vous donne même pas pour autant le droit de commercialiser celui-ci car vous pourriez (sans aucun doutes dans le domaine du logiciel) enfreindre d'autres brevets. Pour cette raison, les acteurs du capital-risque doivent de toutes façon trouver d'autres critères. Sans système de brevets, les investisseur ont au moins la garantie que le logiciel développé par la société peut être commercialisé légalement.
+
+Q4) Lorsque ceux-ci sont disponibles, les PME cherchent à obtenir des brevets logiciels. C'est donc que celles-ci appécient le système des brevets, non ?
+
+A4) Si les Offices de Brevets permettent les monopoles sur des fonctionnalités de logiciels, il y a de fortes chances que vos concurrents en obtiendront. Ne serait-ce que pour se défendre (en combattant les brevets de leurs concurrents par leur propres brevets), beaucoup de PME se sentent obligées d'obtenir des brevets [ 3 ]. Pour beaucoup de partisans de l'extension de la brevetabilité (avocats en P.I. et Office Européen des Brevets en tête), ceci est la solution recommandée : résolvez le problème des brevets en ayant plus de brevets que les autres! Il faut être aveugle (par l'hubris?) pour ne pas voir que cette solution ne peut marcher si tout le monde essaie de l'appliquer(mais l'Office des Brevets, qui est rémunéré grâce aux brevets qu'il accorde, voudraient bien que l'on essaie quand même!). De nombreuses PME sont consciente des dangers de l'extension de la brevetabilité aux logiciels, comme on peut le lire dans le communiqué [ 4 ]. Récemment, l'Association des Producteurs d'Oeuvres Multimédia (APOM) a exprimé de graves préoccupations au sujet des textes de la Comission et du Conseil des Ministres, alors qu'elle estime le texte amendé par le Parlement Européen "très satisfaisant" car il les protégerait de poursuites en contrefaçons de brevets [ 5 ].
+
+Q5) Les brevets permettant la constitution d'un "marché de l'innovation", on pourrait penser que la recherche sera incitée car récompensée et que le marché des logiciels en bénéficiera globalement (y compris les PME), non ?
+
+A5) Cet argument pseudo-libéral est trompeur car il dissimule le fait que le marché de l'innovation ainsi crée ne peut l'être qu'en détruisant le marché du logiciel en tant que marché libre (à cause des monopoles accordés). Il est évident qu'une innovation ne peut avoir plus de valeur que la somme de ses applications. En conséquence, le marché de "l'innovation logicielle" ne peut pas créer plus de richesses que le marché des logiciels (qu'il remplace au lieu de le compléter!), même en admettant que le marché libre serait aussi efficace pour l'innovation logicielle qu'il l'est pour les logiciels eux-même. 
+
+Q6) Les opposants à la brevetabilité des logiciels ne veulent pas payer de licences parce qu'ils veulent que les logiciels soient gratuits (logiciels libres),non ?
+
+A6) Non. Ce que veulent les opposants à la brevetabilité des logiciels, c'est un marché européen libre pour tous les logiciels.
+
+[ 1 ]http://www.softwarepatenter.dk/analyser/foredrag/greenefa-pellegrini/view
+
+[ 2 ]http://www.forbes.com/asap/2002/0624/044.html
+
+[ 3 ]http://www.redhat.com/legal/patent_policy.html
+
+[ 4 ]http://www.ceapme.org/html/story-en.php?page=press&id=68
+
+[ 5 ]http://www.apom-france.org/phpnuke/modules.php?name=News&file=article&sid=21

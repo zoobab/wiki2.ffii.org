@@ -1,0 +1,36 @@
+#acl TrustedGroup:read All:
+
+## -*- dok: KwikiLocalTemplateDisplay; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= Kwiki Page Display Template =
+-->
+[ [:KwikiEn: kwiki]
+| [:KwikiLocalTemplateEn: templates]
+| [:KwikiLocalTemplateEditEn: edit template]
+| [:FfiiprojNewsEn: FFII Project News]
+]
+----
+
+The kwiki local template file display.html determines the structure of a kwiki page.
+
+== News & Chronology ==
+
+ * 2004-10-31 phm simplifies the header, makes sure people can easily log in and find info on acquiring an editor status
+
+== Purpose of the change of 2004-10-31 ==
+
+ * take account of the fact that most kwiki pages are now write-protected
+ * take account of the fact that kwiki is no longer mainly and addenda system
+ * let new users immediately find out how they can get write access
+ * let editors switch to editing mode by 2 or less clicks in the upper left corner 
+ * remove addenda-related explanation text: this is still found at the bottom and it the it is now implicit in the title of the addenda pages, which links back to the associated static page.
+   * phm previously already shortened this text
+   * our system should be minimalistic, as little repetitive text and as large an editing space on the screen as possible 
+ * remove possibility of deleting an entire page in the [:KwikiLocalTemplateEditEn: edit template]: this is too easy to do by accident and too easy to abuse.  We normally need to maintain a record of changes of a kwiki file.
+
+== Details about the File Structure ==
+
+The files discussed here are found on [:GenbaEn: genba] in ''var/www/cgi-bin/kwikimj04/local/template''.
+
+== To Do ==
+
+ * incorporate [:DokDateEn: document metadata] in _header.html

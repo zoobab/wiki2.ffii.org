@@ -1,0 +1,38 @@
+
+ * 2005-04-12 EN [http://www-128.ibm.com/developerworks/power/library/pa-spec6.html?ca=dgr-lnxw07NaturalStandards IBM/Seebach: Naturally occurring standards, patents are a huge weakness for a standard.]
+
+ For instance, Unisys had a patent governing a bit of the algorithm used for GIF images. In general, patents are a huge  
+ weakness for a standard. The MP3 standard is used very widely by people who simply don't know -- or don't care -- that someone 
+ theoretically has a patent on part of it, and only some code using the patented algorithm actually has a license from the 
+ patent holder. Developers and users can be bitten by this many years after they make the design decision to use a patented 
+ algorithm, due to the nature of patents (see Resources). De jure standards often require contributors to clearly disclose any 
+ known patents; de facto standards generally have no way to do this.
+
+
+----
+Patent-related wiki page about IBM with latest patent news on IBM automatically added as well:
+http://ibm.wikiverse.org/
+----
+http://www.fsfe.org/projects/swpat/letter-20040802.en.html
+Stefano Maffulli (Italian chapter - Free Software Foundation Europe) and Georg Greve write an open letter to an IBM CEO.
+----
+During !LinuxWordExpo 2004: Wed. Aug. 04, 2004: [http://www.crn.com/sections/breakingnews/dailyarchives.jhtml?articleId=26805978 Red Hat, IBM Blast Patent Litigation Hovering Over Linux]
+
+Red Hat and IBM blasted patent litigation threats hovering over the Linux industry amid reports that Microsoft is serious considering a legal offensive against ...
+----
+Wed. Aug. 04, 2004: http://www.infoworld.com/article/04/08/04/HNdonofirokeynote_1.html
+
+InfoWorld, CA - SAN FRANCISCO -- In his keynote address on Wednesday at LinuxWorld, IBM Senior Vice President of Technology and Marketing Nick Donofrio assured the Linux ...
+----
+! Bruce Perens attacks IBM
+
+And yet, a pro-software patent agenda is being pursued by some of the largest and best partners we have in the Linux industry. IBM stands out in this regard. Obviously, IBM has done a lot for our community, and the very fact that IBM endorses our systems and distributes them so well to our many customers has helped us gain the economic significance that gets us taken seriously by standards organizations and legislators. At the same time, we have frequently found IBM taking an adversary position, one harmful to the open source developers, in patent policy discussions at standards organizations, and at governments here and abroad. There's no question that IBM is one of the major parties supporting the effort to expand software patenting to Europe. So we're at the point, in the progress of open source, where we realize that we have very good friends who can still hurt us in significant ways if we don't push back against them. We must push back, or we will simply not survive the upcoming legal onslaught. 
+
+The fact is, none of our company partners other than Red Hat have even given us any assurance that we are safe from their own patents. IBM and HP, when confronted, have pointed out that they haven't sued any free software developers. We all know how frequently company managements change and we lose our friend in the front office. Thus, I'd sleep better if I could see something on paper that spells out just what sort of armistice we have with IBM, HP, and others.  
+
+   --- Bruce Perens, Linuxworld, Oct 03
+
+----
+[http://www.forbes.com/asap/2002/0624/044_print.html IBM vs Sun story]
+----
+[http://yro.slashdot.org/yro/05/04/11/0536255.shtml IBM Calls for patent reform]

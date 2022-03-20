@@ -1,0 +1,48 @@
+= ML and NG Structures in the PostgreSQL database ffii on Genba =
+-->
+[ [[FfiiPgSqlDatabaseEn| PgSql Database]]
+]
+----
+
+== Introduction ==
+
+What follows is a list of abbreviations commonly used in the documentation, in the names of database objects, and in the names of objects in the source code of related programs.
+ * ML: Mailing List
+ * NG: News Group
+
+== Database Tables and Views ==
+
+=== Project Mailing Lists ===
+
+Associated with every project are mailing lists (and gated news groups, if desired).  These mailing lists are called ''project mailing lists''.
+
+ * [=proj]: Projects (gating of associated mailing lists can be enabled/disabled, here).
+ * [=projmlts]: Types of project mailing lists.
+ * [=projmltwildmats]: INN wildmat patterns describing news groups gated to/from project mailing lists of a certain type.  This table may contain several wildmats for the same project mailing list type (which is useful, for example, if two project hierarchies coexist after a change in news group naming policy).
+ * [=projmls]: A view that lists all project mailing lists (it assembles the names from the entries in the tables [=proj] and [=projmlts]).
+ * [=projgated]: Projects whose mailing lists currently are gated to/from news groups or that were gated to/from news groups (gate disabled).  The contents of this table are created automatically by the program updating the gateway configuration.
+ * [=proj2bgated]: A view that lists projects with associated mailing lists that should be gated to/from news groups.
+ * [=projprm]: Lists the level of participation of users in projects (necessary for determining access rights for news groups).
+ * [=flddes]: Contains descriptions of the items below and more:
+   * projects (used for the descriptions of news groups)
+   * project mailing list types
+   * database items such as tables and fields
+ * [=projtxt]: Contains descriptions of projects (used for the descriptions of news groups, but entries in flddes have a higher priority).
+
+=== Non-Project Mailing Lists ===
+
+ * [=lists]: Non-project mailing lists (gating can be enabled/disabled, here).
+ * [=listgrp]: Groups classifying non-project mailing lists.
+ * [=listsgated]: Non-project mailing lists that currently are gated to/from news groups or that were gated to/from news groups (gate disabled).  The contents of this table are created automatically by the program updating the gateway configuration.
+ * [=lists2bgated]: A view that lists non-project mailing lists that should be gated to/from news groups.
+ * [=subs]: Users subscribed to non-project mailing lists. (Necessary, also for determining access rights for some gated news groups.)
+ * [=flddes]: Contains descriptions of mailing lists.
+
+feklee assumes that the following tables are not in use at the moment (e.g. because they are deprecated):
+ * [=subs1]
+ * [=subs2]
+ * [=listvars]
+
+=== Project and Non-Project Mailing Lists ===
+
+ * [=mlnggates]: Currently enabled and disabled gates mediating between mailing lists and news groups.  In other words: This table reflects the current INN and Procmail configuration.  As of this writing, an automatic update of this table is initiated by the program update_gated_ngs.  In general, this table shouldn't be updated manually.

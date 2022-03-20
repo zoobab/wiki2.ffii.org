@@ -1,0 +1,106 @@
+## -*- dok: swpatcnino0408; lang: de; coding: iso-8859-1; mode: fundamental; -*-
+= Softwarepatent-Nachrichten August 2004 =
+-->
+[ [:Swpatcnino04De: Patent-Nachrichten 2004]
+| [:SwpatcninoDe: Patent-Nachrichten]
+| [:FfiinewsDe: Infrastruktur-Nachrichten]
+]
+----
+
+Rubriken:
+
+ * Meinung und Politik
+   * Europäische Länder
+     * Deutschland
+     * Niederlande
+     * Ungarn
+     * Schweiz
+   * Europäische Union
+   * USA
+   * Regionales
+     * München
+     * Rheinland-Pfalz
+ * Gerichtsverfahren
+ * Neue Patente
+ * Allgemeines
+
+== Meinung und Politik ==
+=== Europäische Länder ===
+==== Deutschland ====
+ * 2004-08-25 DE [:Tacke040825De: Staatssekretär entschuldigt sich bei Bitkom für BMWA-Umfrage]
+ * 2004-08-20 DE [http://www.spiegel.de/wirtschaft/0,1518,314091,00.html Spiegel: Gängelung des Mittelstandes durch Rot-Grün]
+ * 2004-08-07 DE [http://www.dradio.de/dlf/sendungen/computer/292733/ Deutschlandradio: LinuxExpo vehement gegen Software-Patentschutz]
+ * 2004-08-26 DE [:Magix040825De: MAGIX fordert Wowereit zur Unterstützung des Münchner Aufrufs gegen EU-Softwarepatente auf]
+ * 2004-08-24 DE [http://swpat.ffii.org/news/04/zdf0824/index.de.html ZDF-Intendant prüft FFII-Beschwerde]
+ * 2004-08-22 DE [http://swpat.ffii.org/akteure/schade/index.de.html Schade(DPMA)]: [http://www.moz.de/showArticle.php?OPENNAV=aktuelles&SUBNAV=wirtschaft=true&ID=33025 Neue Rekorde bei Patentanmeldezahlen zeugen von boomender Wirtschaft]
+ * 2004-08-20 DE [http://www.handelsblatt.com/pshb/fn/relhbi/sfn/buildhbi/cn/GoArt!200104,204016,780283/SH/0/depot/0/index.html Handelsblatt: Rat wird im September entscheiden, EUParl evtl. noch im Herbst abstimmen]
+ * 2004-08-13 DE FFII-Postkartenaktion kommt an: [http://www.silicon.de/cpo/news-plattformen/detail.php?nr=15946 Silicon], [http://www.pro-linux.de/news/2004/7150.html Pro-Linux]
+ * 2004-08-11 DE [http://www.linux-verband.de/nachrichten/allgemein/20040810195553 Linux-Verband schreibt an BMJ-Pressestelle, zeigt Unwahrheiten auf], siehe auch [http://www.golem.de/0408/32913.html Golem]
+ * 2004-08-08 DE [http://www.spiegel.de/spiegel/0,1518,312066,00.html DER SPIEGEL: Wie Microsoft den Aufstieg von Linux bekämpft] -- EU-Rat [:Cons040518De: eilt Microsoft zu Hilfe], Arbeitsplätze wandern von München nach Redmond -- Artikel für Print-Ausgabe Nr. 33, Seite 116 (--> [:LimuxDe: Limux])
+ * 2004-08-07 DE Absurde Argumentation von [:AlbertEndresDe: Prof. Endres] ([:SwpatgievDe: GI]-Beirat): [http://www.gi-ev.de/evewa/php/forum.php?action=viewmsg&mid=586 Er attackiert erneut die "Position des FFII"], zitiert weiterhin keine Quellen, liefert keine Begründungen für [http://www.gi-ev.de/evewa/php/forum.php?action=viewmsg&mid=557 bisherige Behauptungen], behauptet nun, Softwarepatente [http://lists.ffii.org/archive/mails/swpat/2002/Jul/0120.html folgten aus dem Recht auf Privateigentum])
+ * 2004-08-05 DE [:Bmj040805De: BMJ: Münchener Ängste vor Softwarepatenten unberechtigt]
+ * 2004-08-04 DE [http://www.ftd.de/softwarepatente FTD: EU-Regelung zu Softwarepatenten in Sicht] (macht sich Desinformation von [:SwpatjwuermelingDe: Wuermeling] zu eigen:  [:NlVote040701De: Niederlande für Ratsvereinbarung], [http://swpat.ffii.org/log/03/cons0507/ Parlament und Rat nahe beieinander], [:EuPartEppDe: EVP geschlossen hinter Wuermeling], [http://swpat.ffii.org/briefe/cons0406/index.de.html "enormer" Gegendruck nur von "Opensource-Bewegung"], ...; verschweigt entgegenstehende Informationen, die der Redaktion vorlagen)
+
+==== Niederlande ====
+ * 2004-08-17 NL [:VrijschriftHowto040817De: FFII NL veröffentlicht HowTo zur Umkehr der Ratsabstimmung]
+
+==== Ungarn ====
+ * 2004-08-24 HU [:Budapest040824De: Ungarische Regierung erwägt Rückzug der Unterstützung für Rats-Vereinbarung, 400 demonstrieren in Budapest]
+
+==== Schweiz ====
+ * 2004-08-07 CH [http://www.nzz.ch/2004/08/07/fw/page-article9RT2A.html NZZ: "Geschickter Einsatz von Patenten - Mit Schutz- und Störstrategien zu Wettbewerbsvorteilen"]
+
+=== Europäische Union ===
+ * 2004-08-27 EU [http://ted.publications.eu.int/official/Exec?DataFlow=call_one_detail.dfl&Template=TED/result_one_detail.xsl&TableName=TED_DE&Query=ND:142264%202004 Europäische Kommission schreibt Langzeituntersuchung zu Softwarepatenten aus]
+ * 2004-08-26 DE [http://www.geopoint.de/servlet/index.php?rubrik=0045&id=0078 GEOPOINT-Kolumne: "Patentierbarkeit von Software nun keine erkennbaren Grenzen mehr gesetzt", EU-Richtlinie muss überarbeitet werden]
+ * 2004-08-24 EU [:Epa040824De: Europäisches Patentamt (EPA) nicht an EU-Richtlinie gebunden]
+ * 2004-08-19 EU [:Parlprot0408De: Protokoll über die Rolle der nationalen Parlamente in der Europäischen Union]
+ * 2004-08-12 EU [:EuCom040812De: Neue EU-Kommission vorgestellt: Günter Verheugen wird Industriekommissar]
+
+=== USA ===
+ * 2004-08-25 US [http://de.internet.com/index.php?id=2030493 de.internet.com: Microsoft verläßt UN-Standardisierungsgremium nach Streit mit Open Source-Verfechtern]
+ * 2004-08-19 US [http://derstandard.at/standard.asp?id=1765404 Torvalds im BusinessWeek-Interview (auch) über Softwarepatente]
+ * 2004-08-19 US [:Eolas040819De: Eolas unterliegt Microsoft im Patentstreit]
+ * 2004-08-15 US [http://www.businessweek.com/technology/content/aug2004/tc20040813_1107_tc120.htm BusinessWeek: A Big Fly in the Open-Source Soup] (freie Software kann im Patentpoker nicht mitspielen, Unsicherheit um GNU GPL, vgl auch [http://www.silicon.de/cpo/ts-b2b/detail.php?nr=15830 2004-08-05 Silicon])
+ * 2004-08-12 US [http://www.heise.de/newsticker/meldung/50025 Heise: "JPEG-Patent": Adobe und Forgent einigen sich außergerichtlich], siehe auch [http://www.chip.de/news/c_news_12189555.html?tid1=9226=0 CHIP Online] und [http://www.golem.de/0408/32970.html Golem] (--> [:ForgentEn: Forgent], [:SwxaiJpegEn: JPEG])
+ * 2004-08-09 US [:Google040809De: Google soll Yahoo 290 Millionen USD für Patent auf stichwortbasierte Werbung zahlen]
+ * 2004-08-04 US [http://www.golem.de/0408/32823.html Golem.de: Apple zahlt Patentgebühr für iTunes]
+ * 2004-08-02 US [:Osrm040802De: OSRM: Linux verletzt 283 Patente, Risiko versicherbar]
+
+== Regionales ==
+=== München ===
+ * 2004-08-13 DE [http://www.heise.de/newsticker/meldung/50040 Heise: TCO und Patente: Gartner zur Münchener Linux-Migration], siehe auch [http://www.kommune21.de/meldung.php?id=3654 kommune21.de] und [http://www4.gartner.com/DisplayDocument?doc_cd=122264 gartner.com]
+ * 2004-08-11 DE [http://www.muenchen.de/vip8/prod2/mde/_de/rubriken/Rathaus/40_dir/presse/pressemeldungen/linux_pressepapier.pdf LiMux & OB Ude: Pressemeldung der Stadt München (PDF)] zur sog. "Münchner Linie" der Landeshauptstadt München (5-seitiges Positionspapier)
+ * 2004-08-11 DE [http://www.linux-community.de/Neues/story?storyid=14151 Linux-Community: München - OB Ude will gegen Softwarepatente aktiv werden], siehe auch [http://www.heise.de/newsticker/meldung/49979 heise.de], [http://golem.de/0408/32933.html Golem] und [http://de.internet.com/index.php?id=2030259 de.internet.com]
+ * 2004-08-04 DE [:Limux040804De: München vertagt Linux-Ausschreibung wegen Patentrisiken, OB kritisiert EU-Rat]
+ * 2004-08-09 DE [:Csu040809De: CSU München: Softwarepatent-Richtlinie gefährdet Linux-Projekt]
+
+=== Rheinland-Pfalz ===
+ * 2004-08-21 DE [:GrueneJugendRlp040821De: Grüne Jugend Rheinland-Pfalz: Softwarepatente auf dem Sommerworkshop]
+
+== Gerichtsverfahren ==
+ * 2004-08-30 US [http://www.heise.de/newsticker/meldung/50514 heise: InterVideo verklagt Acer mit Patent für BIOS, das Funktionstasten unterstützt]
+ * 2004-08-13 US [http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20040813005041&newsLang=en US-Kanzlei wirbt: "Sehr hohe Schadensersatzurteile bei Softwarepatentstreitigkeiten zeigen den Nutzen"]
+
+== Neue Patente ==
+ * 2004-08-31 US [:Mstab0408De: Microsoft-Patent auf Web-Navigation per Tastatur]
+ * 2004-08-31 DE [http://www.mobile2day.de/platform_wince/software/software.html?x1=2755&x2=2756_ref_id=24420&catname=Kommunikation&subcatname=Diverse&mod=2696 Patent-angemeldeter Internet-Verbindungsassistent]
+ * 2004-08-24 CH [http://www.newsaktuell.ch/d/story.htx?nr=100478439 Patentpool für Audio-Codierverfahren]
+ * 2004-08-23 DE [http://www.silicon.de/cpo/news-busisoft/detail.php?nr=16086 Silicon.de: Microsoft will Patent auf Unix-Programm Sudo], siehe auch [http://www.heise.de/newsticker/meldung/50302 Heise] und [http://www.reticon.de/news/537.html reticon.de]
+ * 2004-08-19 US-DE [http://www.pc-magazin.de/common/nws/einemeldung.php?id=11886 PC Mag: Nintendo bekommt Patent für Online-Spiele]
+ * 2004-08-17 US [http://www.heise.de/newsticker/meldung/50132 Heise: Patent auf Verzögerung bei User-Registrierung]
+
+== Allgemeines: ==
+ * 2004-08-31 DE [http://www.heise.de/tp/deutsch/inhalt/konf/18162/1.html Telepolis "Open Innovation", bei Softwarepatenten drohe "schonungsloser Schutz"] ([:BoellConf040916De: Konferenz der Böllstiftung])
+ * 2004-08-29 DE [http://www.wams.de/data/2004/08/29/325388.html WAMS: Konzerne streiten um Patent-Eigentum] (Scheitern der [:SwpatbmbfDe: Hochschulpatentverwertung], [:SwpatbdiDe: BDI]: Patente aus universitärer Auftragsforschung gehören dem Auftraggeber) 
+ * 2004-08-27 DE [http://www.ftd.de/pw/ka/1093076492741.html?nv=hpm FTD: Summer School: Bringt IT wirklich Vorteile?] - "riesige Infrastruktur zur gemeinsamen Nutzung von Erfahrungen, Ideen und besten Praktiken", "Bereitschaft der Computer-Fachleute, ihr Wissen gratis mit anderen zu teilen"
+ * 2004-08-XX DE [http://weblog.berlecon.de/ Berlecon Analysten kritisieren angebliche FFII-Aktion um LiMux als Panikmache, bei Neuheit keine Gefahr], siehe auch [:Limux040804De: Limux].
+ * 2004-08-24 DE [http://www.mysan.de/article16760.html Tetraguard, eine "unknackbare" patentierte Lösung gegen Datenklau]
+ * 2004-08-24 DE [:WEBnetzNL: WEB-Netz.de-Newsletter 20/2004: - Microsoft und der Patentewahn]
+ * 2004-08-23 DE [http://www.welt.de/data/2004/08/24/323189.html Die Welt: Softwarepatente sind zu Recht umstritten]
+ * 2004-08-18 DE [http://finanzen.sueddeutsche.de/nws.php?nws_id=1000338659&cmp_id=1000004273&ntp_id=362,383,385 GoingPublic Kolumne: Patentierte Gewinne - Software bald Hotware?]
+ * 2004-08-17 DE [http://www.heise.de/newsticker/meldung/50109 Heise: Böll-Stiftung macht sich für "Open Innovation" stark] - Immaterialgüterrecht als Innovationshemmnis durch "Informationskriege", siehe auch [:BoellConf040916De: Einladung Boell]. 
+ * 2004-08-17 DE [http://www.nd-online.de/artikel.asp?AID=58167&IDC=3 ND: Patente oder freie Software]
+ * 2004-08-17 DE [http://zeus.zeit.de/hb/533037.xml Die Zeit: Technologietransfer kommt nicht in Schwung]
+ * 2004-08-13 DE Pharma-Patente: [http://de.news.yahoo.com/040813/12/45wiw.html Gesundheitsministerium plant Preisobergrenze für Scheininnovationen]
+ * 2004-08-06 DE [http://www.zdnet.de/itmanager/kommentare/0,39023450,39124771,00.htm ZDNet: "Software-Patente als Mittel gegen Patentmissbrauch"], Verharmlosungsrhetorik in einem Kommentar von [:/HermannGfallerDe: Hermann Gfaller]

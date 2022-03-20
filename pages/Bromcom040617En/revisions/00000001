@@ -1,0 +1,66 @@
+## -*- dok: bromcom040617; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= 2004-06-17 UK Bromcom Judgement handed down, both sides claim victory =
+-->
+[ [:Bromcom04En: Bromcom Case]
+| [http://swpat.ffii.org/pikta/txt/ep/0664/061/ EP 0664061]
+| [:SwpatcninoEn: News]
+]
+----
+
+The judgement in the Bromcom/Frontline pupil data managment system patent case, in which the UK Department for Education and Skills (!DfES) sought to challenge a software patent EP 0664061 held by Bromcom/Frontline Technology on transmitting student data by wireless network was handed down on 17 June. Both sides are claiming victory.
+
+== Details ==
+
+The  [http://www.teachernet.gov.uk/management/tools/ims/patent/ Department for Education & Skills page] on the case  states:
+
+  "The judgment following the patent action trial was handed down today. 
+  The Department is pleased that it has substantially won its case and 
+  achieved its purpose in taking this action. More detailed guidance on 
+  the practical application of the judgment is being prepared and this
+  will be published as soon as possible. Copies of the judgment will be
+  available through the Courts Service."
+
+[http://www.frontline-technology.com/ Frontline Technology] says on its front page
+
+  "We are pleased that the inventiveness of the FTL patent has been upheld. 
+  This is despite the fact that the judge found the patent to be partially invalid.
+
+  We are also pleased that the vast majority of the grounds of attack made by the 
+  Department were thrown out by the court. "
+
+This was later changed to
+
+  "We are pleased that the inventiveness of the Frontline patent (European Patent: 
+  EP 0664 061) has been upheld and DfES have failed to overturn the Patent
+
+  We are also pleased that the vast majority of the grounds of attack made by the
+  Department were thrown out by the court. This is despite the fact that the judge
+  found two of the claims to be invalid."
+
+It carries on thus:
+
+  "We will be studying the judgement and its implications with our advisers.
+
+  More details on the practical implications of the judgement will be published
+  on this web site as soon as possible.
+
+  Patents for the same invention remain valid in their original form in Australia, 
+  Austria, Canada, Denmark, France, Germany, the Netherlands, Sweden and the 
+  United States of America."
+
+Has there ever been an attempt at enforcing them?
+
+More on the case comes from [http://ipkitten.blogspot.com/2004/06/truancy-patent-goes-missing-in-part.html IPKat], 
+which specifically notes that core Claims 1 & 2 were revoked.
+
+Interesting spin by Frontline. Maybe it's true that the "vast majority of the grounds of attack" were rejected, but if a single argument against is held valid, that could demolish the patent, or at least make it so narrow as to be useless.
+
+RMS-style deconstructions of [http://www.cgce.net/frontline_patent/abstract_a.txt abstract] and  [http://www.cgce.net/frontline_patent/claims_a.txt claims].
+
+The !DfES has now issued [http://64.233.167.104/search?q=cache:4YDkt-jZwgoJ:www.teachernet.gov.uk/_doc/7078/Patent%2520advice%2520to%2520schools%252020%2520July%252004.doc&hl=en guidance] to schools, basically saying that a school running a wireless network using standard non-specialist wi-fi equipment (conforming to 802.11a, 802.11b or 802.11g standards) would not be infringing the Frontline patent. Original is a Word document, link is to Google cache HTML version.
+
+August 14 2004: Frontline [http://www.frontline-technology.com/index.asp?id=info1 says it intends to amend the patent]
+
+September 28 2004: [http://education.guardian.co.uk/elearning/story/0,10577,1314011,00.html Belated article in The Guardian] on the court case.
+
+Dec 12 2005: [http://www.frontline-technology.com/index.asp?id=news6 Frontline Technology Ltd assigns UK Patent 0664 061 to the DfES in settlement to end long running patent dispute]

@@ -1,0 +1,101 @@
+Rebuttal to http://wiki.ffii.org/BowlesLetter20050614
+
+''"... 70% of Europes patents for computer implemented inventions are owned by SMEs."''
+
+This is simply wrong. Only 20% of CII patents are held by SMEs, and only 10% are held by Europeans SMEs. (BSA study)
+
+And most of these hold only one or two patents. These are useless against the thousands of patents held by large software copmanies such as Microsoft and IBM.
+
+Less than 1% of European IT SMEs hold software patents, as noted in this [http://comment.zdnet.co.uk/other/0,39020682,39205463,00.htm rebuttal] of a recent BSA document (link?) claiming that patents are useful to IT SMEs.
+
+The European SME association UEAPME  is [http://www.eubusiness.com/press/ueapme.2005-06-22 strongly against software patents.]
+
+Probably the only SMEs that benefits from software patents are the patent licencing companies such as Acacia. Typically consisting mainly or wholly of lawyers, these companies produce nothing, but make money by suing over patents. There are other SMEs like Tribeka who are trying to grab an area of operation ('Selling on the internet') exlusively for themselves. That nmay benefit Tribeka, but it doesn not benefit European industry as a whole, and it should not be government policy to  hand out such monopolies for no good reason. 
+
+''"... [:the :directive] covers any programmable apparatus controlled by a computer program. Silicon chip devices,  fundamental nowadays to all electronics, are made to work by the varied application of charges (programming)"''
+
+Sharon describes programming as a process involving the varied application of charges, which is like describing mechanical engineering as a process involving the varied application of quarks and electrons, or thinking as a process involving the varied application of chemicals. For sure, the behaviour of a computer program can ultimately be explained in terms of varied electrical charges in a semiconductor environment, just as the working of an engine (and indeed a programmable apparatus or the human brain) can ultimately be explained in terms of sub-atomic particles. However, these are not useful ways of explaining the behaviour of engines, computers or thought processes. The "varied application of charges" is irrelevant to a programmer. Programmers do not think about how the silicon conducts, or does not conduct, when writing or running a program. Instead, what matters to the programmer or analyst is the mathematical and logical thought processes --- exactly the part which is not supposed to be patentable.
+
+
+Copyright is too weak?
+ ''"Copyright is not sufficient because for any technical method, which is really where the invention lies, there will be numerous ways of actually writing the program."''
+
+Indeed, this is exactly what makes software develoment so competitive. The Liberal Democrats policy document explitly states, 
+
+"There are usually many ways to achieve the same objective using computer code. The public benefits from the fact that different teams of programmers will work on solving problems and release their separate solutions as competitors in the market."
+
+So the fact that a so-called "technical method" can and will be written in different ways by different people is a good thing, not something which should be discouraged. 
+
+Deliberate copying is actually not difficult to prosecute under copyright law. Contrary to some claims, software copyright infringement is not restricted to word-for-word copying of the program code. Any attempt to adapt, alter or modify anothers computer program is a breach of the original developers copyright, and is easy to detect. Copyright infringement is possible even if the new developer has not seen a single line of the original users code. When companies seek to create software which is designed to interoperate with another companys software, they use clean room or Chinese wall techniques to develop the solution. They do not do this just for fun.
+
+http://swpat.ffii.org/stidi/fukpi/index.en.html
+
+When developing a working software solution to a software program by far the most time is spent in actually writing the code, not in coming up with the technical method.
+
+
+''Patent law excludes computer programs from patentability, with the added proviso that this exclusion only applies to programs as such.  ... In recent years the European Patent Office reached the pragmatic solution that when something technical was going on (a technical effect) then the program was more than just software as such and it was patentable. When there was no technical effect (e.g. as for business methods) then it was not patentable.''
+
+
+ * The technical hurdle is easy to overcome: at the EPO [http://www.iusmentis.com/patents/software/epc/ any useful software is "technical" once you load it onto a computer]
+    Or if you want it [http://www.european-patent-office.org/legal/gui_lines/e/c_iv_2_3_6.htm straight from the horse's mouth]
+
+ * Example:  this [http://v3.espacenet.com/textdoc?&DB=EPODOC&IDX=EP0845124 Multimap patent]
+
+[http://swpat.ffii.org/patents/samples/ Other EPO-granted sosftware patents]
+
+ * EPO patenting practice is similar to that of the US
+
+[http://v3.espacenet.com/textdoc?&DB=EPODOC&IDX=US5249263 IBM software patent on one type of colour-selection dialog box], listed as a "software patent" by [http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf IBM USA]
+
+Almost identical [http://v3.espacenet.com/textdoc?&DB=EPODOC&IDX=EP0403120 European "Computer-Implemented Invention"]
+
+
+ * Writing EPO practice into law != preserving UK law
+UK patent law already prohibits many software patents allowed by the EPO.
+[http://www.patent.gov.uk/patent/notices/practice/computer.htm Gale's application (UK case law)] which says that a certain useful innovation was not technical
+Thus the Common Position widens the scope of patentability against party policy.
+
+''Most of the amendments include terms that, imposed on these electronic products and methods, will pull the carpet  from under the European electronics industry leaving them unable to protect their vital home market. Other countries would still enjoy home market protection, enforcing patents against European companies.''
+
+Sharon seems to have got one of the fundamental principles of patent law back to front. This is about rules for the European market, not rules for Europeans. The ability of European electronics firms to compete in the world market does not depend on being able to obtain European patents. These are only enforceable within Europe, and already 75% of software-related patents filed at the European Patent Office are owned by US and Japanese patents. If European hi-tech companies want their patents to be protected in Europe, they will also have to contend with the patents already owned by foreign firms. If these patents are considered invalid, then the majority of losers are foreign companies. 
+
+http://www.barryodonovan.com/blog/?postid=17
+
+Moreover, there is nothing stopping European companies  from exploiting the more permissive patent regime in the US, and using US patents against American companies in their home markets. Nationality of applicant has no bearing on the ability to obtain a patent, and nor does the place where the research was done. (Indeed, such discrimination would conflict with TRIPS.) Thus European companies have an advantage if software patents are not available in Europe: we can sue the Americans in their home market, but they cannot sue us in our home market.
+
+
+Progress of technology
+In the 19th century the debate was whether dying cloth constituted an invention capable of industrial application.
+
+Dyeing cloth is at least a traditional industrial process. Whats completely unprecedented is the extension of patent protection into fields which have nothing to do with industry, and instead are simply mental processes which happen to be implemented on a technological device.
+
+
+Such a pragmatic solution is not out of line, after all an area of law that operates at the forefront of technology has to move with technology.
+
+In fact todays patent professionals seem to have a dogmatic belief that patents are always good for innovation. Software was excluded from patentability by the EPC because it was rightly seen as inappropriate to patent software.
+
+
+
+Data Processing and Signals
+It would be a very strange thing to allow a patent for an electronic circuit in analogue hardware but not allow the same protection to its digital rendering
+Manufacturing analogue hardware devices is much more difficult than producing software implementations. 
+
+An algorithm is still an algorithm, whether it is used for calculating a financial formula or for packet switching. If an algorithm for packet switching is patentable (even if that were desirable, which I doubt), then there is no way of stopping financial algorithms or computer-implemented business methods from being patentable. Computers do not know or care about the purpose of the data which they are processing. Therefore, there is no logical reason for patenting signal processing algorithms, yet not patenting financial algorithms. If signal processing is patentable, then business methods are patentable. If business methods are not patentable, then signal processing should not be.
+
+
+Many software patents are trivial and obvious, and would probably not be upheld in court. Yet, the high cost of patent litigation means that most companies faced with a patent lawsuit choose to settle even if they would ultimately win.
+
+Obviousness may be an inherent problem with applying patents to software, and not something that can be solved by hiring more examiners or examining applications more carefully
+http://swpat.ffii.org/stidi/frili/index.en.html
+
+/Those who want to deny patents for any kind of method, product or program involving data manipulation will not succeed because they are turning back the clock on over 50 years of technology and precedent 
+
+The software industry flourished without software patents, and since the introduction of software patents in the US the pace of development has slowed. Bill Gates wrote in 1991:
+"If people had understood how patents would be granted when most of today's ideas were invented, and had taken out patents, the industry would be at a complete standstill today."
+
+[http://www.msversus.org/node/81 MS Versus patents]
+
+
+Competition & Interoperability
+''...(licencing) terms have to be reasonable (otherwise competition policy comes into play)''
+Competition law is too weak, too slow-acting and can only punish the worst offenders. The European Commissions investigation into Microsofts business practices has taken over five years. Copmetition law is like fire-fighting, it only works after the fact. Not feasible to have a competition investigation into every instance of unfair patent licencing practices. Software competition relies on free interoperability. If Microsoft can lock up its Word format via patents, it has a monopoly on wordprocessing since any competing product on the marketplace would need to read Microsoft Word files to be usable.

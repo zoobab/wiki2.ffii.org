@@ -1,0 +1,58 @@
+= Rezension: Dueck beta-Inside: Die Patentlösung gibt es nicht =
+[ [[SwpatcninoDe| Nachrichten]] ]
+----
+''In der Juni-Ausgabe von Informatik Spektrum, dem Monatsheft der Gesellschaft für Informatik, schreibt Prof. Gunter Dueck (IBM) einen wilden Assoziationstext über Softwarepatente und hinterlässt den Leser in der Ratlosigkeit''
+
+
+In seinem Text "Die Patentlösung gibt es nicht" schwadroniert Prof. Guenter Dueck über sieben Seiten über das Wesen der Software, Heiligkeit, "ätherische Seelen", Krieger und andere esoterische Argumente. Dueck vermittelt zwischen einer naiven anti-Softwarepatent Fundisicht und einer "trocken eingelassenen" (Dueck) Realosicht über die Patentierung von Software. Dieser Deutungsversuch der Debatte mit der Gleichsetzung zu der grünen Politik ist aber zugleich eine kritische Auseinandersetzung mit oberflächlichen philosophischen Argumentationen, wobei der Autor den Fehler begeht, auf diesem Diskurslevel einzusteigen und Verwirrung zu stiften.
+
+ Die Diskussion wird so hitzig geführt,
+ dass sich die ganze Weltdiskussion der
+ Softwarepatentierung ganz auf die Frage
+ "Fundi oder Realo?" konzentriert, bei der
+ die Bürger und Krieger hilflos dabei stehen
+ und schliesslich weggehen.
+
+Charakteristische Argumentationsfigur in seinem Bericht ist auch das bekannte Strohmannargument, das heisst lächerliche Positionen wie sie von uninformierten Medienvertretern kolportiert werden, Akteuren der Debatte zuzuschreiben. Solche Off-Topic Einlassungen tragen oft selbst zur Obfuskation bei, Beispiel:
+
+ Die Kritik der Patentgegener, es würden jetzt schon 
+ Gensequenzen oder Sortieralgorithmen oder 
+ Hamburgerzuschnitte patentiert, ist nicht eine Kritik
+ am Gesetz, sondern am Patentamt.
+
+Es wäre falsch, hier eine Stellungnahme zu destillieren, weil der Autor geballte Assoziationen in postmoderner Weise collagiert. Weitere Merkwürdigkeiten wie diese Behauptung tragen auch nicht gerade zur Erhellung bei, was für Vertreter der Postmoderne ja programmtisch nicht mehr möglich ist:
+
+ Viele Software kann nicht patentiert werden, weil sie eine 
+ Entdeckung einer etwaigen Patentverletzung nicht zulässt.
+
+Tatsache ist, dass zwischen "Patentierbarkeit" und "Durchsetzung von Patentansprüchen" ein qualitativer Unterschied besteht. Nun wird aber offenkundig, dass dem Autor der Unterschied zwischen Urheberrechtsschutz und Patentrechtsschutz nicht wirklich geläufig ist:
+
+  Woran merkt man denn, ob Teile des Source-Codes gestohlen wurden?
+
+Das hat mit Patentrecht nichts zu tun, sondern ist allein eine Frage des urheberrechtlich geschützten Objektes. Um Source-Code zu "stehlen", das heisst widerrechtlich in eigene Programme einzuarbeiten, muss zunächst einmal der Quellcode vorliegen. Ein solcher Codediebstahl könnte besonders für Open Source Projekte ein Problem sein, und es hat solche Fälle gegeben, und in diesen Fällen konnte der Nachweis geführt werden. Dass Patente vor Codediebstahl schützen, ist ein in der Debatte bislang wenig bekanntes Argument mit geringer Seriösität. Es klingt mehr nach geringem Verständnis der Debatte.
+
+Ferner führt er Patentabkommen als Beispiel dafür auf, dass Patente weniger Probleme bereiten. Das mag auf seinen Arbeitgeber IBM zutreffen, nicht aber auf die Masse der Entwickler. Was er übersieht ist, dass Patentabkommen prinzipiell den Patentschutz ad absurdum führen, indem die Vertragsparteien sich gemeinsam in die Situation vor Patentschutz zurückversetzen. Für die Mini-Entwickler schlägt er das Leben unter dem Damoklesschwert als Lösung vor:
+
+ Wenn nun ein Mittelständler ... unabsichtig etwas neu erfindet...
+ so wird es praktisch nicht mehr entdeckt, weil sich keiner um so
+ einen Mini-Kram kümmert. Die Großunternehmen haben sich das 
+ schon eingespart. Es wird heute schon auf Bleistiftetats geachtet.
+
+Ein solches Damoklesschwert sieht er nun aber schon beim Urheberrecht durch böswillige Anwendung mit einem fiktiven Beispiel gegeben, ein Argument frei dem Spruch von Richard Stallman "Jeder hat Krebs, warum solltest du ihn nicht auch bekommen?"
+
+ Ich könnte z.B. böswillig ganz leicht ein Programm schreiben, 
+ das alle nur möglichen ganz kurzen Sätze aufzählt und die
+ publiziere ich dann in einem Buch. Dann verklage ich alle ...
+ die mich also zitieren, ohne um Erlaubnis zu fragen.
+
+
+Duecks triviale Hauptthese ist, dass man zwischen "ethischer" und "unethischer" Patentnutzung ("Trolle") nicht unterscheiden könne. Deshalb müsse man das wohl einen Kompromiss pro-Patent zulassen. Als einer der wenigen Vertreter im neuen Vorstand der Gesellschaft für Informatik hatte sich Gunter Dueck für die Anwendung des Patentschutzes für Software ausgesprochen. Der Bericht deutet auf ein Tauwetter in einem argumentativen Wolkenkuckucksheim. Gunter Dueck ist gut beraten, die Leser vor solchen unaufgeräumten Diskussionbeiträgen zu verschonen und sich sachlich mit der Debatte zu beschäftigen.
+
+Was er in seinem ganzen Text nicht hinterfragt:
+ * Ist Patentrecht ein geeignetes Schutzrecht für Softwareideen?
+ * Schützt Patentrecht im Bereich der Software das richtige Objekt?
+ * Ist Patentrecht für den Markt geeignet?
+ * Gibt es überhaupt die Schutzlücke, die das Patentrecht vorgeblich füllt?
+ * Warum haben vor 10-15 Jahren, als Patentschutz kaum eine Rolle spielte, Personen Software geschrieben?
+
+usw.

@@ -1,0 +1,47 @@
+= mlhtimport@ffii.org and urlwatch =
+-->
+[ [:MlhtImportEn: mlhtimport]
+| [:UrlWatchEn: UrlWatch]
+]
+----
+
+Author and Maintainer; Gilles Sadowski - gilles
+
+My crontab was only to run 2 scripts used to check the translations of the ffii.org site sent to <mlhtimport@ffii.org> and forward them to Hartmut's a2e.de machine for further processing.
+
+ POE::Component::LaDBI
+ Log::Dispatch::Config
+ POE
+ POE::Component::JobQueue
+ POE::Component::Client::HTTP
+ HTTP::Request::Common
+ Text::DelimMatch
+ Mail::Box
+ version
+ Text::Template
+ HTTP::Headers
+ Class::Accessor
+ Error
+ Text::Format
+ Time::Piece
+ POE::Component::Logger
+ POE::Component::DirWatch
+ File::CounterFile
+
+Main scripts:
+
+ 2 scripts for "mlhtimport":
+ /home/gilles/perl/mlhtimport/mlhtimport_cron.pl
+ /home/gilles/perl/mlhtimport/mlhtimportBounce_cron.pl
+
+ 1 script for "urlwatch":
+ /home/gilles/perl/urlwatch/urlwatchd.pl
+
+Directories:
+
+ All the needed files (scripts, config, log, spool directories) are either in my home directory:
+   ''home/gilles/perl/mlhtimport''
+   ''home/gilles/perl/urlwatch''
+ on in /bmore:
+   ''bmore/urlwatch''
+   ''bmore/mlhtimport''

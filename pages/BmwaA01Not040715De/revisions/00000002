@@ -1,0 +1,93 @@
+-->
+[ [[Bmwa040715De| BMWA 2004-07-15]]
+| [[BmwaNot040715De| Kommentare zum Fragebogen]]
+]
+----
+= Komplex A: Allgemeine Fragen zu Softwarepatenten  =
+
+== Frage A.1  ==
+
+ A.1: In wie weit sind Sie mit dem Thema Softwarepatente vertraut?
+
+ sehr wenig                                             sehr stark
+ -----------------------------------------------------------------
+== Notizen:  ==
+
+Die Frage lädt zu sehr subjektiver Bewertung ein.  I.d.R. sind gerade
+Experten bescheiden im Sinne von Sokrates' "Ich weiß, dass ich nichts
+weiß".  So bringt das in einer Umfrage nichts.  Hier ein paar Kriterien,
+befinden Sie selbst:
+
+ * Rege Verfolgung und Einschätzung der Thematik als entscheidend für die weitere wirtschaftliche Zukunft
+ * Betroffenheit durch Identifizierung eigener Werke in Softwarepatentansprüchen
+ * Thema fällt in den eigenen Zuständigkeitsbereich, muss stets berücksichtigt werden, stößt gelegentlich akut auf
+ * Vertrautheit mit konkreten [[http://swpat.ffii.org/patente/wirkungen/|Streitfällen]]
+ * Arbeit mit Datenbanken wie [[http://ep.espacenet.com/search97cgi/s97_cgi.exe?Action=FormGen&Template=ep/en/advanced.hts|Espacenet]], [[http://gauss.bacon.su.se/indices/|halbautomatischen Klassifikatoren]] oder [[http://swpat.ffii.org/patente/txt/ep/index.de.html|Beurteilung von Patentschriften]] im [[FFII-Mitwirkungssystem |https://aktiv.ffii.org]]
+ * Vertrautheit mit den Richtlinienfassungen der [[http://swpat.ffii.org/papiere/eubsa-swpat0202/|Kommission]], des [[http://swpat.ffii.org/papiere/europarl0309/|Europaparlaments]] und des [[http://swpat.ffii.org/papiere/europarl0309/cons0401/|Ministerrates]]
+ * ...
+
+=== Von allgemeinem Interesse ist:  ===
+
+(Für Frage 1 aber vielleicht off-topic. Hey, die Leute müssen noch einen Fragebogen ausfüllen -- ccorn)
+
+Was passiert, wenn Microsoft die vom Europäischen Patentamt (unter Missachtung des Europäischen Patentübereinkommens) erteilten Europäischen Patente durchsetzen kann?
+
+Werden europäische Konkurrenten wie MySQL (wesentliche Komponente von LAMP), Opera, usw... (siehe z.B. Liste der Firmenunterstützer des [[http://swpat.ffii.org/papri/europarl0309/cpedu/|Aufrufs zum Handeln II ]]) abgemahnt, droht schwerer Schaden für die freie informationelle Infrastruktur und den Wettbewerb mit Microsoft. Die Anzahl der Firmen die z.B. in ihren Projekten auf freie Datenbanken wie MySQL setzen ist nicht messbar und daher sind die Auswirkungen einer Attacke auf MySQL AB unübersehbar.
+
+Auszug aus einem [[http://www.newsforge.com/article.pl?sid=04/07/19/2315200|internen Memo von HP]]:
+----
+Microsoft's Intentions:
+
+Microsoft could attack Open Source Software for patent infringements against !OEMs, Linux distributors, and least likely open source developers. They are specifically upset about Samba, Apache and Sendmail. We believe Samba is first, and they will attempt to prove it isn't covered by prior patent cross as a so called "clone" product carve out in the previous agreement.
+
+!OEMs that don't have a cross(like SUN), or !OEMs like HP that they force a change in their cross license to exclude open source software are probably the first target. Intel, Red Hat, SuSE, UBL, Oracle are probably in the first wave as well.
+
+IBM we don't know what the status of termination of their Microsoft cross license is. They could be protected by their previous OS/2 deals?
+----
+Die Folgen wären wohl unabsehbar.
+
+[[http://swpat.ffii.org/events/2002/europarl11/opera-letter.pdf|Die Position von Opera]]:
+----
+
+ Opera Software's position on software patents
+
+ The Opera browser is has established itself as a major browser competing with
+ Microsoft and Netscape. Opera is user-friendly, secure, and fast. The browser
+ is small, yet full-featured and functions well on systems with limited
+ resources. In addition to the PC market, the Opera browser is also available on
+ mobile phones and on TV settop boxes. Unlike our competitors, Opera Software is
+ not a major US corporation. Currently, Opera Software employs around 120 people
+ mostly in Norway and Sweden.
+
+ In our efforts to improve and deploy our browser, we face two obastacles that
+ are legal more than technical. The first obstacle is Microsoft's monopoly on
+ operating systems. Since Microsoft bundles the operating system with the
+ browser, it is impossible for other vendors to compete with the Microsoft
+ distribution channel. The second obstacle is a constant stream of patent
+ infrigement letters from various American attornney offices. A typical letter
+ claims Opera Software is violating a specified US patent and asks us to contact
+ them for negotiating licensing fees.
+
+ Evaluating a patent for a possible infringement is a major undertaking. Legal
+ language aside, software patents are often obfuscated to hide a weak
+ foundation. The evaluation typically has two outcomes: the patent is either
+ outside out field of work, or the patent is too broadly defined to be taken
+ seriously. It is very rare that Opera Software finds it necessary to license
+ patents, but the overhead associated with evaluating infridgement claims is
+ significant.
+
+ If Europe opens up for software patents, we believe the stream of patent
+ infridgement letters will increase. This will mean we have to spend more of our
+ resouces evaluating phony claims, rather than concentating on making better
+ products.
+
+ Therefore we support the Eurolinux counter-proposal and ask that calculation
+ and organization rules to be excluded from the scope of patentibility. Only
+ teachings about cause-effect relations in the use of controllable forces of
+ nature can be considered as inventions.
+
+ Oslo 3/11/2002
+ Håkon Wium Lie
+ Chief Technology Office
+ Opera Software
+----

@@ -1,0 +1,43 @@
+Un visiteur arrive sur le site.
+La première page explique en quelques lignes :
+ - qui sommes-nous ? (utilisateur & développeur de logiciels)
+ - quel est notre problème ? (extension de la brevetabilité aux logiciels, non respect du vote du Parlement Européen
+ par la Commission et les membres permanents du conseil des Ministres)
+ - pourquoi nous aider ? (Pour permettre la concurrence sur le marché Européen du logiciel : les utilisateurs y gagnent
+ car les éditeurs doivent alors innover et/ou baisser leur prix, les petits éditeurs Européens peuvent concurrencer
+ les grosses sociétés car celles-ci ne pourront pas verrouiller le marché par des brevets.)
+ - comment nous aider ? (En nous aider à diffuser notre message. C'est l'absence de médiatisation qui permet aux
+ lobbies Américains de faire pression dans les coulisses du pouvoir politique. En nous aidant à porter notre problématique
+ sur la place publique, vous pouvez non seulement bénéficier aux utilisateurs Européens de logiciels (c'est-à-dire
+ sans doutes vous-même!) et sauver le secteur Européen de l'édition de logiciels, mais aussi aider à affirmer
+ l'importance du Parlement Européen, seule instance Européenne démocratiquement élue, qui a été bafoué dans cette affaire.
+ - C'est difficile ? (Non ! Nous avons tous fait pour vous permettre de nous apporter votre concours quel que soit
+ le temps et l'énergie que vous avez à nous consacrer.)
+
+Un lien amène à la page suivante. 
+
+(En fait, sans doutes 2 possibilités :
+ - Une paire de champs ("login/password")
+ - Un lien "Je reste anonyme"
+
+
+= 1) Saisie optionnelle d'informations sur le visiteur =
+
+Le sexe de la personne est par exemple utile pour adapter le genre des fragments d'argumentaires.
+L'âge, et le rapport à l'informatique (utilisateur (professionnel ou non), développeur, chercheur, ...) pourraient être utilisés aussi. 
+
+= 2) Sélection d'un cible parmi une liste =
+Les cibles peuvent être classées suivant plusieurs critères (par exemple le mode de communication), les plus urgentes étant 
+signalées par une petite icône ou un fond rouge. Un tableau pourrait reprendre les cibles les plus urgentes en les rassemblant.
+
+En sélectionnant une cible, l'utilisateur obtient toutes les informations la concernant ( description, conseils pour le type de 
+message : taille et angles d'approches, adresse)
+
+= 3) Aide à la rédaction =
+Un plan est aussi conseillé ainsi que les fragments d'argumentaires adaptés.
+L'utilisateur s'en sert pour rédiger une version anynome ($P et $N pour les prénoms et noms par exemple et $ADR, $CODE $VILLE, $PAYS pour l'adresse de l'émetteur), 
+comme ça pas de pb notamment avec la CNIL. Ce document est sauvegardé (et indexé, au moins suivant le login de l'utilisateur et la cible, si possible avec les fragments d'arguments utilisés) avec possibilité d'en demander la relecture (automatiser un envoi de mail signalant que la relecture est effectuée?).
+
+
+= 4) Aide à l'envoi =
+Ensuite, un document (ASCII ou PDF dans le cas de lettres ou Fax)peut être généré à partir des informations par lesquelles remplacer $P, $N, $ADR, $CODE $VILLE, $PAYS.

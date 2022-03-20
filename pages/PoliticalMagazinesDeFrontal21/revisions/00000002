@@ -1,0 +1,179 @@
+== Patentverletzungen auf den Webseiten des Politmagazines Frontal21 ==
+
+Autor: Jürgen Ernst (jrernst@gmx.de)
+
+  (1)
+  Patent:	EP0266049
+  	JPEG-Kompression: Kodiersystem zur Reduktion von Redundanz.
+  
+  Kommentar:
+  	Alle Bilder betroffen, die im JPEG-Format vorliegen.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0266049
+  
+  Fundstelle:
+  	http://www.zdf.de/ZDFde/inhalt/24/0,1872,2000056,00.html
+  	z.B. {{http://www.zdf.de/ZDFde/img/16/0,1886,1000688,00.jpg}}
+  
+
+  (2)
+  Patent:	DE10108564
+  	Verfahren zur Suche nach in einem verteilten System aktuell oder
+  	früher gespeicherten Daten oder Daten enthaltenden Ressourcen unter
+  	Berücksichtigung des Zeitpunkts ihrer Verfügbarkeit.
+  	BLUME MARKUS (DE); HOFFMANN MARKUS (DE)
+  
+  Kommentar:
+  	Nutzung von Datumsangaben bei der Archivierung.
+  	Auch das Empfangen und Abspeichern einer E-Mail verletzt dieses
+          Patent!
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=DE10108564
+  
+  Fundstelle:
+  	Archiv-Suche, erweiterte Suche erlaubt Datumsbereiche:
+  	http://www.zdf.de/ZDFde/themensuche/1,1927,1001634,00.html
+  	Im Frontal21-Forum
+  	http://forum.zdf.de/frontal21/foren/
+  	kann man ebenfalls Beiträge nach Datum suchen:
+  	http://forum.zdf.de/frontal21/foren/F730/tagX.php
+  	ZDF benutzt intern das CMS "Vignette" (http://www.vignette.com). Es steht
+  	in der Doku zu "Vignette": Store e-mail as controlled records with
+  	automatically applied metadata for easy retrieval.
+  
+
+  (3)
+  Patent:	EP0526034
+  	Method and apparatus for accessing a computer-based file system.
+  	AMERICAN TELEPHONE & TELEGRAPH (US)
+  
+  Kommentar:
+  	Zugriff auf Dateien und Auswahl anhand des Namens in welchem eine oder
+  	mehrere Such-Kriterien kodiert sind.
+  	z.B. Namen wie franz_01.txt, franz_02.txt, maier_01.txt, ...
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0526034
+  
+  Fundstelle:
+  	Es wird das Content-Management-System Vignette verwendet.
+  	Praktisch jede HTML-Seite hat einen kodierten Dateinamen, z.B.
+  	http://www.zdf.de/ZDFde/inhalt/1/0,1872,1001633,00.html
+  
+
+  (4)
+  Patent:	EP0463250
+  	Data processing apparatus user interface and data processing apparatus
+  	with such an interface.
+  	IBM (US)
+  
+  Kommentar:
+  	Vermeidung der doppelten Öffnung von Dialogfenstern.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0463250
+  
+  Fundstelle:
+  	Unten auf jeder Seite: "Artikel versenden", "Artikel drucken".
+  	Es wird immer nur ein Fenster mit dem entsprechenden Inhalt geöffnet.
+  	Allerdings wird der Inhalt nochmals nachgeladen.
+  
+
+  (6)
+  Patent:	EP0689133
+  	Method of displaying multiple sets of information in the same area of
+  	a computer screen.
+  	ADOBE SYSTEMS INC (US)
+  
+  Kommentar:
+  	z.B. Tabbed-browsing: Sätze von anwählbaren Optionen werden
+  	hintereinander angeordnet, mit anklickbaren Reitern versehen und
+  	zusammen in einem Fenster angezeigt.
+  	,=========,_________ ___________
+  	| OPTION1 | Option2 | Option3 |
+  	|---------+---------+---------+---------.
+  	|                                       |
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0689133
+  
+  Fundstelle:
+  	Frontal21 verweist auf die nächste Sendung:
+  	http://www.zdf.de/ZDFde/einzelsendung/0,1970,2331954,00.html
+  	Dort findet sich ein Link zur Programmübersicht beim ZDF, und diese Übersicht
+  	benutzt Reiter zur Auswahl der Tageszeiten, z.B.:
+  	http://www.zdf.de/ZDFde/programmuebersicht/0,2060,04_10_05-3-1,00.html
+  
+
+  (8)
+  Patent:	EP0335638
+  	System for facilitating coordination of activities by a plurality of
+  	actors.
+  	DIGITAL EQUIPMENT CORP (US)
+  
+  Kommentar:
+  	z.B. gleichzeitiger Zugriff mehrerer User auf beliebige gemeinsame
+  	Ressourcen, was synchronisiert werden muss.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0335638
+  
+  Fundstelle:
+  	ZDF benutzt für alle Seiten das CMS "Vignette" (http://www.vignette.com)
+  	Oder im Frontal21-Forum:
+  	http://forum.zdf.de/frontal21/foren/
+  
+
+  (9)
+  Patent:	EP0501416
+  	Document data processing method and apparatus for document retrieval.
+  	HITACHI LTD (JP)
+  
+  Kommentar:
+  	Schnelle Volltextsuche mit einer zuvor erzeugten Wortliste.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0501416
+  
+  Fundstelle:
+  	Auf jeder Seite links: "Archiv-Suche".
+  	Oder oben rechts: "Suche".
+  	ZDF benutzt intern das CMS "Vignette" (http://www.vignette.com).
+  
+
+  (10)
+  Patent:	EP0747840
+  	A method for fulfilling requests of a web browser.
+  	IBM (US)
+  
+  Kommentar:
+  	Hierunter fällt jeder Web-Server, der über eine Schnittstelle andere
+  	Software aufruft, um eine Anfrage auszuführen.
+  	z.B. Perl, JSP, ASP, PHP, etc.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0747840
+  
+  Fundstelle:
+  	Jede Seite. Die Seiten/Dateinamen existieren nicht wirklich, sondern
+  	werden vom Server auf Browser-Anfrage erstellt. Dazu wird die URL an das
+  	CMS Vignette übergeben.
+  
+
+  (13)
+  Patent:	EP0644483
+  	Computer system and method for performing multiple tasks.
+  	IBM (US)
+  
+  Kommentar:
+  	Multitasking: mehrere Programme werden gleichzeitig ausgeführt.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0644483
+  
+  Fundstelle:
+  	Die Seiten werden von einem Webserver geliefert, der mehrere Browseranfragen
+  	gleichzeitig bearbeiten kann.
+  
