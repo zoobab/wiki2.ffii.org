@@ -1,0 +1,387 @@
+# US Patents on PDF functionality with EP equivalents {#us_patents_on_pdf_functionality_with_ep_equivalents}
+
+-\> \[ [ Patent news](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*What is software with a \"further technical effect\"? Word processing
+is often given as an example of software which cannot have something
+like that. Nonetheless, we found 10 granted European patents equivalent
+with US patents which cover the Adobe Acrobat software and its document
+format (*!AdobeReader *6.0 is a pdf-reader used by most* !MEPs *in the
+European Parliament, see copy of legal notice below). These patents
+would undoubtedly become enforceable with the Commission and Council
+versions of the directive.*
+
+-   US4837613 = [EP0357191: Method of color selection for display and
+    printing](http://l2.espacenet.com/espacenet/viewer?PN=EP357191 "wikilink")
+-   US5050103 = [EP0397299: Method for displaying kanji
+    characters](http://l2.espacenet.com/espacenet/viewer?PN=EP397299 "wikilink")
+-   US5185818 = [EP0518554: Method of substituting fonts and displaying
+    characters](http://l2.espacenet.com/espacenet/viewer?PN=EP518554 "wikilink")
+-   US5237313 = [EP0411739: Method for editing character bitmaps at
+    small
+    sizes](http://l2.espacenet.com/espacenet/viewer?PN=EP411739 "wikilink")
+-   US5255357 = [EP0466330: Method for editing character bit maps at
+    small sizes using connected
+    runs](http://l2.espacenet.com/espacenet/viewer?PN=EP466330 "wikilink")
+-   US5546528 = [EP0689133: Method of displaying multiple sets of
+    information in the same area of a computer
+    screen](http://l2.espacenet.com/espacenet/viewer?PN=EP689133 "wikilink")
+    (patent 4 of the [webshop](http://webshop.ffii.org "wikilink"))
+-   US5625711 = [EP0700197: Method and apparatus for producing a hybrid
+    data structure for displaying a raster
+    image](http://l2.espacenet.com/espacenet/viewer?PN=EP700197 "wikilink")
+-   US5634064 = [EP0701220: Method and apparatus for viewing electronic
+    documents](http://l2.espacenet.com/espacenet/viewer?PN=EP701220 "wikilink")
+-   US5832530 = [EP0702322: Method and apparatus for identifying words
+    described in a portable electronic
+    document](http://l2.espacenet.com/espacenet/viewer?PN=EP702322 "wikilink")
+-   US5943063 = [EP0772144: Method and apparatus for rendering
+    characters](http://l2.espacenet.com/espacenet/viewer?PN=EP772144 "wikilink")
+
+------------------------------------------------------------------------
+
+[Splash Screen of Adobe Acrobat 6.0
+Professional](http://www.ffii.se/erik/misc/acrosplash.png "wikilink")
+
+------------------------------------------------------------------------
+
+## [AdobeReader](AdobeReader "wikilink") 6.0 \"Patent and Legal Notices\" {#adobereader_6.0_patent_and_legal_notices}
+
+Protected by U.S. Patents 4,837,613; 5,050,103; 5,185,818; 5,200,740;
+5,233,336; 5,237,313; 5,255,357; 5,546,528; 5,625,711; 5,634,064;
+5,729,637; 5,737,599; 5,754,873; 5,781,785; 5,819,301; 5,832,530;
+5,832,531; 5,835,634; 5,860,074; 5,929,866; 5,930,813; 5,943,063;
+5,995,086; 5,999,649; 6,049,339; 6,073,148; 6,185,684; 6,205,549;
+6,275,587; 6,289,364; 6,324,555; 6,385,350; 6,408,092; 6,411,730;
+6,415,278; 6,421,460; 6,466,210; 6,507,848; 6,515,675; Patents Pending.
+Contains an implementation of the LZW algorithm licensed under U.S.
+Patent 4,558,302.
+
+Copyright © 1987-2003 Adobe Systems Incorporated and its licensors. All
+rights reserved.
+
+Adobe, the Adobe logo, Acrobat, the Adobe PDF logo, Distiller, and
+Reader are either registered trademarks or trademarks of Adobe Systems
+Incorporated in the United States and/or other countries.
+
+Portions include technology used under license from Verity, Inc. and are
+copyrighted.
+
+Copyright © 1996-2001 Installshield Software Corporation and/or its
+suppliers. 900 North National Parkway, Suite 125, Schaumburg, IL
+60173-5108 USA. All Rights Reserved.
+
+This software contains the RSA Data Security, Inc. MD5 Message-Digest
+Algorithm.
+
+e_Db is a licensed product from Simple Software Solutions, Inc.
+
+Portions utilize Microsoft Windows Media Technologies. Copyright ©
+1999-2002 Microsoft Corporation. All Rights Reserved.
+
+Combined [PostScript](PostScript "wikilink") Drivers are a result of a
+cooperative development process by Adobe and Microsoft.
+
+Portions copyright (c) 1996-2002 Palm, Inc. or its subsidiaries. All
+rights reserved.
+
+Portions copyright © Chris Maunder, 1998.
+
+Portions developed in part by the University of Southern California,
+Information Sciences Institute.
+
+This product includes software developed by The International
+Cooperation for the Integration of Processes in Prepress, Press and
+Postpress (www.cip4.org).
+
+Size optimization of Adobe Reader 6 performed using FEAD(R) technology
+licensed from Netopsystems AG, Berlin, Germany. All rights reserved.
+
+Pool.c_Copyright 1987 - NeXT, Inc. and Graphics.c_Copyright 1988 NeXT,
+Inc. as an unpublished work. All Rights Reserved.
+
+This product includes software developed by the Apache Software
+Foundation (http://www.apache.org/).
+
+This product includes software developed by Greg Roelofs and
+contributors for the book, \"PNG: The Definitive Guide,\" published by
+O\'Reilly and Associates.
+
+This product contains either BSAFE and/or TIPEM software by RSA Data
+Security, Inc.
+
+Onix Full-Text Indexing and Retrieval Toolkit. Copyright 1993-2002
+Lextek International.
+
+Portions include software under the following terms:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright (c) 1982, 1986, 1989, 1990 The Regents of the University of
+California. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met: 1. Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer. 2.
+Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution. 3.
+All advertising materials mentioning features or use of this software
+must display the following acknowledgement: \"This product includes
+software developed by the University of California, Berkeley and its
+contributors.\" 4. Neither the name of the University nor the names of
+its contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS \`\`AS IS\'\'
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright 1989, 1991 by the Massachusetts Institute of Technology
+
+Permission to use, copy, modify, distribute, and sell this software and
+its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation, and that the name of M.I.T. not be used in
+advertising or publicity pertaining to distribution of the software
+without specific, written prior permission. M.I.T. makes no
+representations about the suitability of this software for any purpose.
+It is provided \"as is\" without express or implied warranty.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+The TWAIN Toolkit is distributed as is. The developer and distributors
+of the TWAIN Toolkit expressly disclaim all implied, express or
+statutory warranties including, without limitation, the implied
+warranties of merchantability, noninfringement of third party rights and
+fitness for a particular purpose. Neither the developers nor the
+distributors will be liable for damages, whether direct, indirect,
+special, incidental, or consequential, as a result of the reproduction,
+modification, distribution or other use of the TWAIN Toolkit.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright (c) 1994 Hewlett-Packard Company
+
+Permission to use, copy, modify, distribute and sell this software and
+its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation. Hewlett-Packard Company makes no
+representations about the suitability of this software for any purpose.
+It is provided \"as is\" without express or implied warranty.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright 1990, David Koblas. Permission to use, copy, modify, and
+distribute this software and its documentation for any purpose and
+without fee is hereby granted, provided that the above copyright notice
+appear in all copies and that both that copyright notice and this
+permission notice appear in supporting documentation. This software is
+provided \"as is\" without express or implied warranty.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Mach Operating System Copyright (c) 1991,1990, 1989 Carnegie Mellon
+University All Rights Reserved.
+
+Permission to use, copy, modify and distribute this software and its
+documentation is hereby granted, provided that both the copyright notice
+and this permission notice appear in all copies of the software,
+derivative works or modified versions, and any portions thereof, and
+that both notices appear in supporting documentation.
+
+CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS \"AS IS\"
+CONDITION. CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY
+DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
+
+Carnegie Mellon requests users of this software to return to
+
+`Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU`\
+`School of Computer Science`\
+`Carnegie Mellon University`\
+`Pittsburgh PA 15213-3890`
+
+any improvements or extensions that they make and grant Carnegie Mellon
+the rights to redistribute these changes.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright remains Eric Young\'s, and as such any Copyright notices in
+the code are not to be removed. If this package is used in a product,
+Eric Young should be given attribution as the author of the parts of the
+library used. This can be in the form of a textual message at program
+startup or in documentation (online or textual) provided with the
+package.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met: 1. Redistributions of source code must retain the copyright notice,
+this list of conditions and the following disclaimer. 2. Redistributions
+in binary form must reproduce the above copyright notice, this list of
+conditions and the following disclaimer in the documentation and/or
+other materials provided with the distribution. 3. All advertising
+materials mentioning features or use of this software must display the
+following acknowledgement: \"This product includes cryptographic
+software written by Eric Young (eay\@cryptsoft.com)\" The word
+\'cryptographic\' can be left out if the rouines from the library being
+used are not cryptographic related :-). 4. If you include any Windows
+specific code (or a derivative thereof) from the apps directory
+(application code) you must include an acknowledgement: \"This product
+includes software written by Tim Hudson (tjh\@cryptsoft.com)\" THIS
+SOFTWARE IS PROVIDED BY ERIC YOUNG \`\`AS IS\'\' AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+`The licence and distribution terms for any publically available version or derivative of this code cannot be changed.  i.e. this code cannot simply be copied and put under another distribution licence `[`the`` ``GNU`` ``Public`` ``Licence.`](including "wikilink")
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright (c) 1988-1997 Sam Leffler Copyright (c) 1991-1997 Silicon
+Graphics, Inc.
+
+Permission to use, copy, modify, distribute, and sell this software and
+its documentation for any purpose is hereby granted without fee,
+provided that (i) the above copyright notices and this permission notice
+appear in all copies of the software and related documentation, and (ii)
+the names of Sam Leffler and Silicon Graphics may not be used in any
+advertising or publicity relating to the software without the specific,
+prior written permission of Sam Leffler and Silicon Graphics.
+
+THE SOFTWARE IS PROVIDED \"AS-IS\" AND WITHOUT WARRANTY OF ANY KIND,
+EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+IN NO EVENT SHALL SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR ANY
+SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR
+ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY
+OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright 1990, 1991 by OMRON Corporation, NTT Software Corporation, and
+Nippon Telegraph and Telephone Corporation
+
+Copyright 1991 by the Massachusetts Institute of Technology
+
+Permission to use, copy, modify, distribute, and sell this software and
+its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation, and that the names of OMRON, NTT Software,
+NTT, and M.I.T. not be used in advertising or publicity pertaining to
+distribution of the software without specific, written prior permission.
+OMRON, NTT Software, NTT, and M.I.T. make no representations about the
+suitability of this software for any purpose. It is provided \"as is\"
+without express or implied warranty.
+
+OMRON, NTT SOFTWARE, NTT, AND M.I.T. DISCLAIM ALL WARRANTIES WITH REGARD
+TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS, IN NO EVENT SHALL OMRON, NTT SOFTWARE, NTT, OR M.I.T. BE
+LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+`   Author: Hiroshi Kuribayashi OMRON Corporation.`
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright (c) 1996-1997 Sam Leffler Copyright (c) 1996 Pixar
+
+Permission to use, copy, modify, distribute, and sell this software and
+its documentation for any purpose is hereby granted without fee,
+provided that (i) the above copyright notices and this permission notice
+appear in all copies of the software and related documentation, and (ii)
+the names of Pixar, Sam Leffler and Silicon Graphics may not be used in
+any advertising or publicity relating to the software without the
+specific, prior written permission of Pixar, Sam Leffler and Silicon
+Graphics.
+
+`THE SOFTWARE IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY  WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  `\
+` `\
+`IN NO EVENT SHALL PIXAR, SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF  LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE  OF THIS SOFTWARE.`
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright © 1995 Netscape Communications Corporation, all rights
+reserved. Created: Jamie Zawinski \<jwz\@netscape.com>, 24-Dec-94.
+
+Permission to use, copy, modify, distribute, and sell this software and
+its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation. No representations are made about the
+suitability of this software for any purpose. It is provided \"as is\"
+without express or implied warranty.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright (c) 1993 X Consortium
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+\"Software\"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS ORIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+NO EVENT SHALL THEX CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER INAN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR INCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of the X Consortium shall
+not be used in advertising or otherwise to promote the sale, use or
+other dealings in this Software without prior written authorization from
+the X Consortium.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Copyright (c) 1990, 1991, 1992, The University of Utah and the Center
+for Software Science at the University of Utah (CSS). All rights
+reserved.
+
+Permission to use, copy, modify and distribute this software is hereby
+granted provided that (1) source code retains these copyright,
+permission, and disclaimer notices, and (2) redistributions including
+binaries reproduce the notices in supporting documentation, and (3) all
+advertising materials mentioning features or use of this software
+display the following acknowledgement: \`\`This product includes
+software developed by the Center for Software Science at the University
+of Utah.\'\'
+
+THE UNIVERSITY OF UTAH AND CSS ALLOW FREE USE OF THIS SOFTWARE IN ITS
+\"AS IS\" CONDITION. THE UNIVERSITY OF UTAH AND CSS DISCLAIM ANY
+LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE
+OF THIS SOFTWARE.
+
+CSS requests users of this software to return to css-dist\@cs.utah.edu
+any improvements that they make and grant CSS redistribution rights.

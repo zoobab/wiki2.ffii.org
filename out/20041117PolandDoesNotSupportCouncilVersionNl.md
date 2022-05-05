@@ -1,0 +1,135 @@
+PERSBERICHT FFII/VRIJSCHRIFT \-- \[ binnenland *Europa* economie / ICT
+\]
+
+==========================================================================
+
+17/11/04: Polen zegt nee tegen softwarepatenten : debat weer helemaal
+open
+
+==========================================================================
+
+Warschau - De Poolse Ministerraad heeft gisteren, 16 november, formeel
+besloten dat de Europese Raadstekst van 18 mei over softwarepatenten te
+veel dubbelzinnigheden en tegenspraken bevat om hem te kunnen steunen.
+Daarmee komt definitief vast te staan dat de gekwalificeerde meerderheid
+van 18 mei voor die versie van het richtlijnvoorstel is weggevallen. De
+weg naar een discussie ten gronde lijkt hiermee eindelijk open te liggen
+op het niveau van de Europese Ministerraad.
+
+De Poolse regering neemt hetzelfde standpunt in als het Europees
+Parlement vorig jaar door te stellen dat ook uitvindingen die met behulp
+van computers gerealiseerd worden octrooieerbaar moeten blijven, maar
+dat softwarepatenten niet kunnen. Dit staat in sterk contrast met de
+Raadstekst van 18 mei, die de huidige praktijk van het Europese
+Octrooibureau zou bevestigen. Die praktijk heeft geleid tot meer dan
+30.000 octrooien op ideeën waarop software steunt, zoals het online
+winkelwagentje of een automatische medische diagnose stellen.
+
+De Tweede Kamer zette op 1 juli de zaak op scherp door de motie van Dam
+aan te nemen. Daarin legde zij onder andere vast onjuist te zijn
+geïnformeerd door minister Brinkhorst, en dat het bereikte politiek
+akkoord \"onvoldoende waarborgen biedt om uitwassen met betrekking tot
+softwarepatentering tegen te gaan\". Vervolgens kwam het overal in
+Europa tot discussies, onder andere in Duitsland, Frankrijk, Polen,
+Denemarken en Hongarije.
+
+Nu heeft de Poolse regering dus een officieel standpunt ingenomen dat
+geheel in lijn ligt met de opvattingen van bijvoorbeeld de Tweede Kamer,
+het Europese parlement en de Duitse Bundestag, zoals blijkt uit een
+publicatie van de Poolse overheid op haar website:
+
+\>\>\> <http://www.kprm.gov.pl/441_12649.htm>
+
+`De [Poolse] Ministerraad heeft een standpunt ingenomen in het dossier`\
+`betreffende de richtlijn van het Europese Parlement en de [Europese]`\
+`Ministerraad over patenteerbaarheid van in computer geïmplementeerde`\
+`uitvindingen.`
+
+`Omdat er talrijke dubbelzinnigheden en tegenspraken in het huidige`\
+`voorstel staan, kan Polen de tekst zoals die in de Ministerraad van 18`\
+`mei 2004 is goedgekeurd niet ondersteunen.`
+
+`Tegelijkertijd is Polen absoluut voor ondubbelzinnige regelgeving die`\
+`zou garanderen dat computer geïmplementeerde uitvindingen patenteerbaar`\
+`zouden zijn. Maar een computerprogramma of een gedeelte daarvan zal`\
+`zondermeer niet patenteerbaar zijn.`
+
+Met dit standpunt is officieel duidelijk geworden dat de gekwalificeerde
+meerderheid zoals die op 18 mei nog bestond gebroken is en dat er dus
+opnieuw onderhandeld zal moeten worden. Deze ongebruikelijke gang van
+zaken komt doordat op 1 november de stemverhoudingen binnen de EU
+gewijzigd zijn als gevolg van de uitbreiding met een aantal nieuwe
+lidstaten.
+
+Hierdoor werd de positie van Polen plotseling bepalend voor het al dan
+niet aanwezig zijn van een voldoende meerderheid, terwijl destijds het
+Ierse voorzitterschap \-- in de veronderstelling dat er ook zonder
+Poolse steun een meerderheid bestond \-- niet eens de moeite had genomen
+naar het Poolse standpunt te informeren.
+
+Het is nu wachten op een verklaring van het Nederlands
+EU-voorzitterschap over de verdere tijdsplanning.
+
+==========================================================================
+
+Contact
+
+==========================================================================
+
+Ir. Arend Lammertink: arend (at) vrijschrift.org tel. +316 5425 6426
+
+Ante Wessels ante (at) vrijschrift.org tel. +316 100 99 063
+
+Dieter Van Uytvanck: dieter (at) vrijschrift.nl tel. +316 275 879 10
+
+==========================================================================
+
+Nadere Informatie
+
+==========================================================================
+
+Poland Does Not Support Current Proposal for EU Software Patent
+Directive (Internationaal persbericht in het Engels)
+<http://kwiki.ffii.org/PolandDoesNotSupportCouncilVersionEn>
+
+Uitgebreide analyse over de besluitvorming rond de richtlijn
+softwarepatenten, waaruit blijkt dat de Kamer meerdere malen verkeerd
+geïnformeerd werd en twee maal op het verkeerde been werd gezet.
+Octrooien op software werpen hun schaduw vooruit:
+<http://www.vrijschrift.nl/Members/awessels/vrijschrift.nl_misleiding-kamer.pdf>
+
+Empirisch onderzoek toont aan dat softwarepatenten de innovatie schaden:
+<http://www.elis.ugent.be/~jmaebe/swpat/nlstudies/studies.pdf>
+
+Een treffende illustratie: <http://webshop.ffii.org>
+
+==========================================================================
+
+Over Vrijschrift \-- <http://www.vrijschrift.nl/softwarepatenten/>
+
+==========================================================================
+
+Stichting Vrijschrift heeft als doel het bevorderen en het beschermen
+van intellectuele goederen die vrij te verspreiden en aan te passen
+zijn. Vrijschrift probeert bewustwording te realiseren van de betekenis
+van het publieke domein voor de samenleving. Bescherming van het
+publieke domein is van groot economisch en maatschappelijk belang en
+vormt een belangrijke activiteit. Internationaal wordt samengewerkt met
+de Foundation for a Free Information Infrastructure, de Free Software
+Foundation, Project Gutenberg en vele andere organisaties.
+
+==========================================================================
+
+Over FFII \-- <http://www.ffii.org>
+
+==========================================================================
+
+De Stichting voor een Vrije Informatie-infrastructuur (Foundation for a
+Free Information Infrastructure) is een non-profit organisatie die
+gevestigd is in München en zich bezig houdt met bewustmaking rond
+gegevensverwerking. FFII ondersteunt de ontwikkeling van openbare
+informatiegoederen gebaseerd op auteursrecht, vrije concurrentie en open
+standaarden. Meer dan 400 leden, 1000 bedrijven en 60.000 sympathisanten
+hebben FFII de toestemming gegeven hen te vertegenwoordigen in het
+publieke debat over exclusieve rechten (intellectuele eigendom) op het
+gebied van software.
