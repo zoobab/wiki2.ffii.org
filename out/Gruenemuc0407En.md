@@ -1,0 +1,20 @@
+# 2004-07-21 DE Munich Greens demand council vote reversal {#de_munich_greens_demand_council_vote_reversal}
+
+\[ [ News](SwpatcninoEn "wikilink") \|
+[Motion](http://swpat.ffii.org/papiere/europarl0309/gruenemuc0407/index.de.html "wikilink")
+\| [ Council vote](Cons040518En "wikilink") \| [
+Reversal](ConsReversEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+The Greens\' motion was accepted on the Munich city assembly without
+opposition and one abstention. Especially a detrimental effect on the
+city\'s IT expenses was feared by patentability of software (Munich
+recently startet a switch to Linux).
+
+It addresses the Green National assembly starting in the beginning of
+October.
+
+Generally the Green National assembly, by the principle of \"basis
+democracy\", can oblige the Green politicians in the Berlin government
+to follow its motions.

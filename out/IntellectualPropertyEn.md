@@ -1,0 +1,41 @@
+# Intellectual Property {#intellectual_property}
+
+------------------------------------------------------------------------
+
+Intellectual Property is a term to put patent law, copyright, trademarks
+and similar rights under one hat. The problem is that all of these
+rights lay on different foundations. In most of the cases IP means
+copyright but often the term is used in lobbying to extent copyright
+thinking to patent law. Intellectual Property implies the \"property\"
+theory which has no foundation in the patent sphere. In European
+acedemics or legal pratice the term is hardly used, in the US it is
+widely adopted. In lobbying it is quite popular. The new EU constitution
+also concludes that Intellectual Property has to get protected. It is a
+subclause of property protection.
+
+Many critics such as [ Richard Stallman](SwpatrmsEn "wikilink") strongly
+resist the terminology.
+
+# Quotes
+
+The term confuses \"right\" with \"property\" and it is this that makes
+it dangerous. All of a sudden **your** copies is not your property
+anymore.
+
+` This is a good way of explaining:`\
+` Look at your wall, i bet you have some paintings painted by `\
+` others hanging there, those paintings are your property, `\
+` though you do not have the copyright for them, the same goes `\
+` for data in your computer sent to you over the net, it is your data.`
+
+(it works just as good to substitute paintings with books in the above
+example - it is your books.)
+
+# Similar terms {#similar_terms}
+
+-   Exclusive rights - the proper term in economics
+-   Immaterial Monopoly Rights - put forward by opponents
+-   PCT = patents, copyrights, trademarks, used in the UN sphere.
+    Unfortunately it also stands for patent cooperation treaty.
+-   Immaterial Privilege
+-   [ Industrial Property](IndustrialPropertyEn "wikilink")

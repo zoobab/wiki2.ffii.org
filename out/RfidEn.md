@@ -1,0 +1,10 @@
+# RFID and software patents {#rfid_and_software_patents}
+
+------------------------------------------------------------------------
+
+*The RFID technology is covered by many patents, most of them being
+owned by Intermec. The EPC has tried to create an open and royalty-free
+standard for RFID, but some companies that were owning patents poped up
+to collect royalties on the standard.*
+
+------------------------------------------------------------------------

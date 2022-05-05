@@ -1,0 +1,64 @@
+[ parent Alliance](Alliance "wikilink") Last 25.01.2006 18:35 CET
+
+European Open Technology Alliance / EOTA
+
+cec-alliance\@oss.cz
+
+ToDo List
+
+## within a month {#within_a_month}
+
+-   setup functional committe
+
+` up to 5 members at start`
+
+-   agree on shortname ( EOTA , [OpenThought](OpenThought "wikilink"),
+    more proposals?)
+
+` I'll rather stay on more formal one (like EOTA)`
+
+-   setup webpage with basic information
+
+```{=html}
+<!-- -->
+```
+-   agree on first projects
+
+` project incubators, pilot projects (sk/cz, more?)`
+
+-   research country for master foundation (bxl/belgium?)
+
+`  ___    ___    ___    ___`\
+` |CZ|  |SK|  |PL|  |..|`\
+`   \     |     |   /`\
+`    \    |     |  /`\
+`      EOTA MASTER      - provide support for national foundations`
+
+-   define possible support features
+
+## within half a year {#within_half_a_year}
+
+-   upgrade page to more sofisticated way
+
+` translation to every member country native language (EU style)`
+
+-   define incubated and pilot project for widespread international use
+
+```{=html}
+<!-- -->
+```
+-   set points of going
+
+```{=html}
+<!-- -->
+```
+-   lunch international partnership campaign (for more national members)
+
+` define rules for members (what is default and what optional characterics for new members)`
+
+## within a year {#within_a_year}
+
+-   get more members
+-   connect more members into projects
+-   support platform
+-   fundraise

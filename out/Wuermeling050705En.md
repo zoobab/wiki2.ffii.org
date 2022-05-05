@@ -1,0 +1,48 @@
+1.  1.  -\*- dok: wuermeling050705; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# 2005-07-05 Wuermeling speech in Plenary {#wuermeling_speech_in_plenary}
+
+-\> \[ [ Speeches](PlenTrans050705En "wikilink") \| [
+Wuermeling](SwpatjwuermelingEn "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Joachim Wuermeling MEP portrays himself as guided by naive dogmatic
+motives, asserts that this vote is about assuring the supremacy of the
+creative mind over money.*
+
+*Transcript of english translation, speech was in german* Source stream:
+<http://www.dd.chalmers.se/~klingber/parl/parl0705.rm>
+
+Thank you president, commissioner, my dear collegues.
+
+Now, in this room we have talked about the importance of inventiveness,
+the spirit of the age, the aspect of assets of Europe and globalisation.
+That\'s been said so often, but equally important,(Of course We have to
+keep that spirit. Butit is equally important) that out ideas should not
+be stolen by others.
+
+Millions of euros can be invested in an invention and then three monts
+later someone can imitate it, put it on the market, and the inventor
+does not get a just reward for his efforts, or her efforts. So we must
+protect the weak. We must protect inventors against those who have power
+in the market, and the patent settles the fight between the power of the
+mind and the power of the market, and it does so in favor of the power
+of the mind, irrespective of whether the mind is that of a big or a
+small business.
+
+So my dear collegues, as we have listened thorugh this debate today and
+previous weeks, I have been very dissatisfied. We have had a sort of
+overheated atmosphere, We have had a lot of lobbying, and to be honest
+we are bound to see,allthough we have now reached the second reading,
+basicall there are still a whole lot of things we have to decide on:
+possessions, forms of words and the effects of these we can not really
+assess, at this stage. And there have been a number of amendments, many
+of them on article 10, and it is very diffucult to forsee what their
+effects might be. I have the impression that this issue is not yet right
+for decision, and we should really thing about whether we shouldn\'t
+extend this legislature procedure by rejecting the proposal. I think
+that might be the most sensible position we might take at this stage
+Thank you.

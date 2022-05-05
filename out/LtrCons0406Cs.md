@@ -1,0 +1,1 @@
+Vice informaci: LtrConsRecvCz0406Cs

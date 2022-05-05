@@ -1,0 +1,54 @@
+`Sehr geehrte Damen und Herren,`
+
+`am Freitag, den 17. Juni 2005 möchten wir Sie im Rahmen einer`\
+`Informationsveranstaltung darüber informieren, welche Haftungsrisiken in`\
+`Verbindung mit der angedachten Patentierung von Software auf Ihr`\
+`Unternehmen und Sie persönlich als Geschäftsführer zukommen können,`\
+`sollte der EU-Richtlinienentwurf über die "Patentierbarkeit`\
+`computerimplementierter Erfindungen", ohne wesentlich Änderungen,`\
+`angenommen werden.`
+
+`An dieser Veranstaltung werden als Referenten teilnehmen:`
+
+`- Herr Johannes Sommer, Inhaber der Hamburg Firma Sommer Communication`\
+`und Gründer der Initiative Hamburger Unternehmen gegen die`\
+`Patentierbarkeit von Software`
+
+`- Herr Andre Schenk, Hamburger Rechtsanwalt mit dem Spezialgebiet`\
+`IT-Recht und LL.M.Eur., der sich eingehend mit den Haftungsrisiken bei`\
+`Patentverletzungen beschäftigt hat`
+
+`- Herr Dr. Guntram Walther, Patentanwalt und Gesellschafter der Firma`\
+` `[`MedikaDat`](MedikaDat "wikilink")`, Langenfeld, der Ihre Fragen rund um das Patentrecht`\
+`ausführlich beantworten kann.`\
+\
+`"Haus Konen"`\
+`Suitbertusstrasse 1`\
+`40223 Düsseldorf`
+
+[`http://mail.map24.com/konen`](http://mail.map24.com/konen)
+
+`Die Veranstaltung beginnt um 17.00 Uhr.`\
+`Dauer der Veranstaltung ca. 2 Std. zzgl. Ausklang in Einzelgesprächen.`
+
+`Um besser planen zu können, möchte ich Sie bitten, mir mit einer kurzen`\
+`Antwort Ihre Teilnahme zu bestätigen oder abzusagen. Im Fall der Zusage`\
+`werde ich Ihnen dann die genauen Daten zum Veranstaltungsort zukommen`\
+`lassen.`
+
+`Bitte bedenken Sie, dass Ihr zahlreiches Erscheinen politische Signale`\
+`nach Brüssel sendet und die Entscheidung bzgl. der geforderten`\
+`Änderungen der Softwarepatentrichtlinie beeinflussen kann. Kommen Sie`\
+`daher bitte zahlreich und laden Sie bitte auch Ihre Geschäftspartner und`\
+`andere Ihnen bekannte Unternehmen zu dieser Veranstaltung ein.`
+
+`Mit freundlichen Grüssen`
+
+`Uwe Solleder`\
+`--`\
+`us AT msdnet.de`\
+`MSD Computersysteme GmbH`\
+`Martinstrasse 47-55`\
+`40223 Düsseldorf`\
+`Tel.: +49-211-311608-0`\
+`Fax : +49-211-311608-19`

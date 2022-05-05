@@ -1,0 +1,146 @@
+This was a page that collided with
+[ConsFlash0405En](ConsFlash0405En "wikilink"); so we\'re in the process
+of resolving it.
+
+# Flash video based on IE-DK dialogue at the Council Meeting of 18 May {#flash_video_based_on_ie_dk_dialogue_at_the_council_meeting_of_18_may}
+
+This is a work area for people who may help make this video. We
+currently only have a script and a soundtrack; we need photographs and
+someone to make the flash video.
+
+## Photographs
+
+If you know of any useful photographs that are redistributable, and
+could be incorporated in the video, please insert links right below this
+paragraph. We need a photograph of Bolkestein, of demos, of frowning
+politicians, of amendments, of [MEPs](MEPs "wikilink"), or whatever.
+
+## The script {#the_script}
+
+Please note that I\'m no director and no graphics artist. In scene 4
+below I\'m proposing certain tricks with fonts and colours, but until I
+really see it I don\'t know if it will look right. So feel free to
+change things if you think that I suck. Anyway, that\'s just a script;
+directors/implementers normally ignore/change whatever they like :-)
+
+------------------------------------------------------------------------
+
+### 1
+
+`   We start in silence, and the text fades in.`
+
+One day, the European Commission made a proposal that concerned
+Europe\'s technological future.
+
+`   Fade out.`
+
+### 2 {#section_1}
+
+`   The following three sentences fade in one after the other, one below`\
+`   the other. At the same time, a picture shows each time a sentence`\
+`   appears (maybe partially hiding the previous picture). Bolkestein`\
+`   for the first sentence, some other politician - ideas? - for the`\
+`   second, a demo picture (or a composite from demo + paperwork +`\
+`   amendments) for the third.`
+
+Some said it was nice.
+
+Others claimed it would be catastrophic.
+
+There was upheaval all around Europe.
+
+`   Fade out.`
+
+### 3 {#section_2}
+
+So the Council considered the issue very, very carefully,
+
+discussed in great depth,
+
+and made very, very thoughtful decisions.
+
+`   Fade out.`
+
+### 4 {#section_3}
+
+`   The IE-DK dialogue from the council starts to play`\
+`   (http://www.itia.ntua.gr/~anthony/tmp/soundtrack.ogg). The dialogue`\
+`   is also echoed on the screen. Initially, both Ireland and Denmark`\
+`   are in blue, and each part of the dialogue appears in fast fade-in`\
+`   (like the Windows Start menu :-).`
+
+*Irish Chairman:* Belgium: abstain.
+
+And Denmark? Can I hear from Denmark please?
+
+*Denmark:* I would really like to ask the commission why they couldn\'t
+accept the last sentence put forward by the Italians, which was in the
+original German proposal.
+
+`   Ireland's response is now not blue, but something between blue and`\
+`   red, still in normal typeface.`
+
+*Ireland:* I think the Commissioner already answered that question, I\'m
+sorry Denmark. So are you \"yes\", \"no\", \"abstain\"?
+
+`   Denmark's still blue, but is now slightly smaller.`
+
+*Denmark:* I think we wouldn\'t, we\'re not hap\...
+
+`   Ireland is now red, bold, and appears sharply, no fade-in at all.`\
+`   For the rest of the dialogue, Ireland always appears this way;`\
+`   Denmark remains blue fade-in, but each time it is smaller, until in`\
+`   her final phrase it is about half the size of Ireland.`
+
+*Ireland:* **I assume you\'re a \"yes\".**
+
+*Denmark:* We\'re not happy.
+
+*Ireland:* **Are you 80% happy?**
+
+*Denmark:* But\... I think we\...
+
+*Ireland:* **We don\'t need you to be totally happy. None of us are
+totally happy.**
+
+*Denmark:* Oh, I know that, I know that.
+
+*Ireland:* **If we were, we wouldn\'t be here!**
+
+*Denmark:* I think we\'re not very happy, but I think we would, we
+would\...
+
+*Ireland:* **Thank you very much.**
+
+*Denmark:* \... we would like to see a solution today.
+
+*Ireland:* **Thank you very much, Denmark.**
+
+**Ladies and Gentlemen, I\'m happy to say that we have a qualified
+majority, so thank you all very very much indeed, and thank you to
+commissioner Bolkestein.**
+
+### 5 {#section_4}
+
+Why was the Irish Chairman so eager to get Denmark\'s support?
+
+### 6 {#section_5}
+
+`   The following two sentences pop in order in black, which immediately`\
+`   fades out slowly to grey.`
+
+Get the facts.
+
+Find the answers.
+
+`   After a short pause, the URL fades in. The colour is a difficult`\
+`   choice. Green's the obvious choice, but since the intended audience is`\
+`   someone who don't have a clue and who we try to make them click on`\
+`   the URL, and since the video so far has only presented a mystery,`\
+`   I'm afraid it might give the impression that we're simply some`\
+`   Greens with a vague cause. But this really depends on the country -`\
+`   for example, this might be risky in Greece, but not in that context.`
+
+<http://swpat.ffii.org/>
+
+------------------------------------------------------------------------

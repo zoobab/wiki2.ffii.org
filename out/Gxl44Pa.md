@@ -1,0 +1,148 @@
+Roland Orre\'s press text 040414 at 10:00
+
+I\'m Roland Orre, chairman and research director for
+[NeuroLogic](NeuroLogic "wikilink") Sweden AB. A research and
+development company, developing multi relational data mining methods and
+artificial intelligence data analysis methods, based upon data
+warehousing principles. Since several years we have been developing
+early warning systems, and unsupervised pattern recognition methods for
+WHO, the World Health Organization, which are now becoming a standard
+within the pharmacovigilance sector.
+
+Before this I was working at Asea Brown Boweri with human computer
+interaction where I was also developing expert systems to analyse power
+distribution failures, from which time I also have an EPO patent. This
+patent was a feature space approach to store analogue disturbances in a
+knowledge data base. An idea I got from my, at that time, recent
+experiences with neural networks, which I later did my PhD in.
+
+Our company\'s view is that the patent system of today has serious
+flaws. One of these flaws is that software, which in reality is
+mathematics, interpretable by the abstract concept of a Turing machine,
+has become seen as a technology, which it is not, and as we have seen
+from United States almost everything has become patentable. As I said,
+software for me is mathematics and my favourite language, scheme, is
+very close to a mathematical theory called lambda calculus.
+
+One of the original intentions with the patent system was that patents
+should be incentives to innovations and thus stimulate technological
+development, as we have seen from the software world, patents there have
+exactly the opposite effect. They slow down development, they are
+ineffient, as they can in reality only be thoroughly checked for free
+software, and they are trivial. In my Master thesis work I had for
+instance, used two trivial constructs which I ten years later got to
+know that these both constructs were patented at this time.
+
+For a few years I was considering how these flaws of the patent system
+could be corrected, and I realized that a somwhat paradoxical way was to
+patent a method which could make inventions from peoples ideas, one of
+my old visionary dream inventions from the middle of the 80ies.
+
+When I finally had understood, how to implemented this method, I
+patented it. The method is an artificial intelligence approach to do
+business, which is able to create inventions from peoples ideas, you
+could see it as collaborate innovation, in a somewhat similar way as the
+GPL, General Public License, works.
+
+This patented method, which is a software solution, a business method
+and a system for manufacturing on demand, will, if this patent will be
+allowed within EU, be a cure for the patent system over time. It will
+speed up the technological development, it will correct the flaws of the
+patent system of today, as the system will produce new inventions it
+will also counteract trivial inventions. The system will enhance the
+patent system towards the real innovations. The patented method will
+also stimulate shaping of standards within knowledge representation and
+generic design. It will create win-win-win scenarios for the patent
+holder, for the customer and for the society as well, because it will
+also create new job incentives. One funny thing is, however, that if the
+patent system didn\'t have these flaws, that is, software and business
+methods being patentable, then I would hardly be able to patent this
+method.
+
+Jörg F. Wittenberger
+
+I\'m Jörg F. Wittenberger, from softeyes.net; a free software developer
+since 1993. I\'ve been working for Companies like Siemens, IBM and
+others. Mostly consulting in document, version and configuration flow
+control communication between my clients and their subcontractors and
+customers.
+
+At a point I had the idea to use set theory to proof permission handling
+systems safe. (Which means to proof that no user can ever become
+impersonated by any other including administrative personnel.) I\'m now
+actively marketing from a product based on that idea. But such a
+protection scheme only reaches as far as no malicious person can take
+physical action to modify sensitive data, let alone find a way to abuse
+administrative power.
+
+To make my systems safe I had to assure the processes continue in the
+face of hardware failure or malicious attack from inside. To do so I
+reorganized the computation in such a way, that only the majority of all
+nodes of a network can define how the systems reacts over all. Now even
+the owner of a machine can not forge the global state of affairs.
+Equipped with my permission permission handling scheme, the system is
+now an intrusion resistant operating system, which serves undeniable
+processes \-- \"computation like power from the wall plug\". I can grow
+now to a globally distributed operating system.
+
+In the context of that network, which I\'m calling \"Askemos\", several
+logical providers offer the execution of arbitrary operations as a
+service - following the model of power companies. All operations are
+completely defined by contract. Loyalty with respect to the contract is
+constantly checked during operation by comparison of cryptographic check
+sums. Furthermore in the abstract framework there is no concept of
+physical location or interaction - these are always done via the
+network.
+
+I understand, that all objects and operations within Askemos are
+consequence of a business process and a priori without technical
+reference. Future theories could refine the definition of that criterion
+and proof other objects and operations as non-technical.
+
+How relates the Askemos concept to patent law?
+
+------------------------------------------------------------------------
+
+If program claims where allowed in patent law, how would that translate
+into the Askemos system?
+
+Since the providers have a Carrier status with respect to the operation,
+they can\'t be liable for the combination of operations. This could be
+used as a patent law work around, which is obviously needed for the US
+but hopefully avoidable in Europe.
+
+Program claims would furthermore conflict with freedom of speech and
+freedom of contract:
+
+Askemos has a commercial counter part, where a business contract with
+different licensing conditions replaces the GPL. The system itself can
+work under any contract, as long as the contract provides \"inalienable
+rights\" and a Turing complete machine. Guaranties of some further
+requirements are just direct consequences. Related here is just one:
+
+All devices used legally binding context must assure that they do not
+accidentally give up on rights of their users. Since it is easy to find
+that \"security by obscurity\" doesn\'t work, as all serious security
+experts will eventually confirm, devices must produce a proof that they
+follow a certain procedure. At that point we need to provide two things
+to our users a) the freedom to follow any code of their choosing and b)
+the chance to read the code beforehand.
+
+If now article 3a of the parliamentarian decision where doped and \"data
+processing\" (which is to me the need of a \"turing machine\") became a
+field of technology - and thus due to TRIPS treaty subject to patent
+law - than anything in need of a computation became patentable.
+
+Summary
+
+------------------------------------------------------------------------
+
+Program claims are ill-logical since the support of a device instead of
+the brain to perform some mental operation doesn\'t make the operation
+itself a technical one. But the \"media shift\" to use computers for
+business matter makes contracts, trade and other business methods become
+subject to data processing. Our product just facilitates that trend. If
+we could not take non-patentability of turing machines for granted,
+computers would become useless in any legally binding context.
+
+<http://garkin.softeyes.net/Ab544facbe7bc972264658df0d7894620>

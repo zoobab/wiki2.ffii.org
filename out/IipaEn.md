@@ -1,0 +1,19 @@
+# IIPA
+
+Extremist IPR adviocacy groups that tries to impose the Us copyright
+regime on third world countries viua Free trade Agreements. IIPA has no
+position on software patenting but uses the harmful intellectuial
+property term when it talks about copyright enforcement.
+
+## Members
+
+-   AFMA
+-   Association of American Publishers (AAP)
+-   Business Software Alliance (BSA)
+-   Entertainment Software Association (ESA)
+-   Motion Picture Association of America (MPAA)
+-   Recording Industry Association of America (RIAA)
+
+## Link
+
+<http://www.iipa.com>

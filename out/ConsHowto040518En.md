@@ -1,0 +1,69 @@
+# How to topple the Council Cardhouse on 2004-05-18 {#how_to_topple_the_council_cardhouse_on_2004_05_18}
+
+## Purpose
+
+When on tuesday 2004-05-18 the irish presidency
+
+## Establish Connections {#establish_connections}
+
+One of the biggest obstacles is that most officials, especially those
+from the new member states, wrongly believe that there is a strong
+consensus behind the council proposal. In fact there is widespread
+resistance, but isolation of the resistants must be overcome.
+
+-   inform consilium-help at ffii org (or phm or blasum or bkaindl or
+    jheald or jmaebe at ffii org) about any direct or indirect contacts
+    to participants in the Council meeting who might be willing to help
+
+## Call on Players {#call_on_players}
+
+The Council presidency has prepared a \"compromise document\" for
+unlimited patentability which is extreme in every way, especially in the
+way in which it tries to conceal its real contents, see
+
+-   <http://swpat.ffii.org/papers/europarl0309/cons0401/#tabl>
+
+Some of the responsible politicians have meanwhile become aware of this.
+
+This gives us an opportunity to get the proposal postponed on May 18th.
+All that is needed seems to be that one of the ministers should, when
+asked by the Irish presidency, say that \"yes, this proposal needs
+discussion\" and then poke some fun at the rhetorics used in it (e.g. in
+Art 4A and 5(2)).
+
+With some effort it should be possible for 1 informed minister to make
+the whole cardhouse fall apart.
+
+There is even a good chance for such a minister to appear
+\"constructive\" at the meeting. E.g. by removing Art 5(2) and adopting
+the german proposal for Art 2b, it might be possible to create a basis
+for a further reading by the parliament \-- not a good directive, but at
+least something that does not ruin the directive project altoghether.
+And even something that the Irish Presidency can achieve in its term, if
+that is so important.
+
+We are am now trying to put together a kind of memorandum for officials
+who would like to take this path, and I am putting interested officials
+or activists from various national ministeries into BCC or into a mail
+alias cons040518. Please tell cons040518 at ffii org of any email
+addresses we can put there.
+
+If it helps you can ask for submitting national signatories of
+petition.eurolinux.org to national minsters (done so far in
+es,pt,nl,be,se), mail blasum(att)ffii.org or call/sms him at
++49-174-7313590 (response time as fast as possible).
+
+## Background material {#background_material}
+
+-   Maebe analysis
+    <http://www.elis.ugent.be/~jmaebe/swpat/councilanalysis/paper-en.pdf>
+-   Beauprez analysis
+    <http://bh.udev.org/filez/swpat/beaupre/compliance.pdf>
+-   Council proposal text
+    <http://www.vetmed.uni-muenchen.de/tmp/directive_council.doc>
+    (text-only:)
+    <http://www.vetmed.uni-muenchen.de/tmp/directive_council.txt>
+-   Council proposal comments
+    <http://www.vetmed.uni-muenchen.de/tmp/directive_council_comments.doc>
+    (text-only:)
+    <http://www.vetmed.uni-muenchen.de/tmp/directive_council_comments.txt>

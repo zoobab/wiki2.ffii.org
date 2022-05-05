@@ -1,0 +1,112 @@
+1.  1.  -\*- dok: restart0501; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  title: 61 [MEPs](MEPs "wikilink") Urge Return to 1st Reading
+    3.  datum: 2005-01-10
+
+-\> \[ [ Restart](EuroparlSwpat04En "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Brussels, 10 January 2005* \-- A motion for a resolution, signed by 61
+members of the European Parliament, calls for a new first reading of the
+software patent directive. The motion received particular support from
+!MEPs from Poland and other new member states. However, many veteran
+!MEPs also feel that the Council has \"failed to do its homework\". By
+merely codify current EPO practice instead of delivering a reasoned
+response to the Parliament\'s amendments of September 2003, the Council
+would place the EP in a difficult position to rectify everything again.
+A restart could, given the new insights and experiences gained over the
+past few years, allow for a balanced approach from the start.
+
+The motion, initiated by [Jerzy Buzek
+MEP](http://wwwdb.europarl.eu.int/ep6/owa/whos_mep.data?ipid=0&ilg=EN&iucd=28269&ipolgrp=PPE-DE&ictry=PL&itempl=&ireturn=&imode= "wikilink")
+(Christian Democrats, former prime minister of Poland) and [Adam Gierek
+MEP](http://wwwdb.europarl.eu.int/ep6/owa/whos_mep.data?ipid=0&ilg=EN&iucd=28379&ipolgrp=PSE&ictry=PL&itempl=&ireturn=&imode= "wikilink")
+(Socialists, Poland), refers to two procedural reasons that allow for
+returning to the first reading. The first reason is that since the
+previous first reading, the situation has substantially changed.
+Patent-related risks regarding software are becoming increasingly
+obvious to both public administrations and private entities, especially
+regarding their ability to order services from small and medium-size
+enterprises. Secondly, elections have been held since the previous first
+reading took place.
+
+Among the signatories are many prominent !MEPs, including a former
+Commissioner, several vice presidents of the EP, vice chairmen of
+several groups, members of the bureau of several groups and a multitude
+of (main and vice) chairmen and chairwomen of various committees
+(including the Juridical Committee, which is responsible for this
+directive in the European Parliament). Due to the short time span in
+which signatures were collected right before the holidays, it was
+impossible to include several other !MEPs that wanted to sign the motion
+as well.
+
+The 18 May 2004 text of the Council was written by the Council\'s
+\"Working Group on Intellectual Property (Patents)\", which consists of
+more or less the same people that sit on the European Patent Office\'s
+Administrative Council. Being delegates from national patent offices and
+ministries, most of them also advised their governments on how to vote
+on the text they wrote. Ever since they, together with the Commission,
+managed to force a political agreement to be reached on the text,
+unwritten diplomatic rules have been used to prevent dissenting states
+from reopening discussions, [undermining European
+democracy](http://k.lenz.name/LB/archives/000966.html "wikilink").
+
+It is very unlikely that a text like the 18 May version of the Council
+could, in the future, again win support from a qualified majority:
+
+-   It has become clear to all parties involved that the directive as
+    proposed by the Commission and Council [ includes patents on plain
+    computer programs executed on conventional
+    computers](CIIisSwEn "wikilink"), also known as software patents.
+-   Poland [ officially declared](Polon0411En "wikilink") they do not
+    support the May text.
+-   The [ Dutch](NlMot040701En "wikilink") and [
+    German](Bundestag041130En "wikilink") national parliaments asked
+    their respective governments to withdraw support for the May 18
+    text.
+-   [Germany\'s
+    reaction](http://kwiki.ffii.org/Zypries041221En "wikilink") to
+    Poland\'s request for a [ delay](Cons041221En "wikilink") at the
+    Agriculture and Fisheries Council session last month was quite
+    favourable.
+-   The unilateral declarations of concerns, which were prepared for the
+    Council adoption by countries that officially still support the text
+    ([ Hungary](ConsUniHu0412En "wikilink"), [
+    Latvia](ConsUniLv0412En "wikilink"), France), indicated that several
+    supporters have second thoughts.
+-   Reports by [ Deutsche Bank](Dbank040622En "wikilink") and [
+    [PricewaterhouseCoopers](PricewaterhouseCoopers "wikilink")](Pwc0409En "wikilink"),
+    which point at the dangers of software patents and advise to take a
+    different approach.
+
+In a new first reading, the European Parliament will have time to
+further improve its previous text. It will be able to amend the,
+potentially new, Commission proposal with regular majorities and won\'t
+be limited to 3 or 4 months to reach a constructive consensus, as would
+be the case in a second reading. Subsequently, the Council will also
+have to hold a new first reading, enabling concerned member states to
+discuss the issues at hand instead of diplomatic customs.
+
+## Comments
+
+Jonas Maebe, board member of FFII, comments:
+
+`A renewed referral would be a win for all parties that want a text based on substance`\
+`and democratic legitimacy, as opposed to one based on diplomatic rigidity. New`\
+`member states will be able to have their say from the beginning, and hopefully the`\
+`Council will decide that its next first reading text should not be written by the same`\
+`people that rule the European Patent Office.`
+
+## Background information {#background_information}
+
+-   [Motion](http://www.ffii.org/~jmaebe/reso/resolution_55_4.pdf "wikilink")
+-   [List of signatories by
+    nationality](http://www.nosoftwarepatents.com/docs/050106restartsign_nat.pdf "wikilink")
+-   [List of signatories by political
+    group](http://www.nosoftwarepatents.com/docs/050106restartsign_grp.pdf "wikilink")
+-   [Rules of Procedure of the European Parlimanet, Rule 55, renewed
+    referral to
+    Parliament](http://www2.europarl.eu.int/omk/sipade2?PUBREF=-//EP//TEXT+RULES-EP+20040720+RULE-055+DOC+XML+V0//EN&HNAV=Y "wikilink")
+    ([Deutsch](http://www2.europarl.eu.int/omk/sipade2?SAME_LEVEL=1&LEVEL=2&NAV=X&HNAV=Y&DETAIL=&PUBREF=-//EP//TEXT+RULES-EP+20040720+RULE-055+DOC+XML+V0//DE "wikilink"))

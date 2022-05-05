@@ -1,0 +1,35 @@
+Sehr geehrte Damen und Herren,
+
+in letzter Zeit stellte ich fest, dass Ihre Partei im Europa-Wahlkampf
+unter anderem auch mit einer ablehnenden Haltung gegenüber der
+Patentierbarkeit von Software wirbt. Meiner Meinung nach ein äußerst
+lobenswerter Ansatz!
+
+Dem entgegen musste ich heute zu meinem tiefsten Bedauern feststellen,
+dass der Richtlinienentwurf die Abstimmung im Europa-Rat mit der
+notwendigen Zwei-Drittel-Mehrheit passiert hat. Unbegreiflicherweise
+haben die Vertreter Deutschlands, denen \-- soweit ich informiert bin
+\-- auch die Grünen als Regierungspartei der BRD angehören, FÜR
+Softwarepatente gestimmt. Zuvor war noch die Rede von einer Enthaltung
+Deutschlands, was schlimm genug gewesen wäre. Aber dass dies mit einer
+immer dementierten Zustimmung noch zu toppen war, hatten wahrscheinlich
+nur die wenigsten erwartet.
+
+Wie passt das zu Ihrem Wahlkampf? Was sind tatsächlich Ihre Ansichten?
+Und wieso um alles in der Welt haben Sie mit \"Ja\" gestimmt?
+
+Ich würde Sie bitten, Ihre Politik transparanter zu gestalten und Ihren
+Wahlkampf zu überdenken, wenn Sie schon vor der eigentlichen Wahl Ihre
+Prinzipien verraten.
+
+So wie sich mir die momentane Situation darstellt, führt Ihre Politik
+dazu, dass die Demokratie (es ist doch eigentlich undenkbar, dass die
+Entscheidung eines Parlaments vom September so einfach übergangen wird)
+zu einer mehr und mehr obsoleten Idee verkommt - und das auf Kosten von
+Lobbyismus und Großkapitalismus.
+
+Ich für meinen Teil bin jedenfalls mehr als enttäuscht.
+
+In der Hoffnung auf eine Antwort verbleibe ich
+
+mit freundlichen Grüßen,

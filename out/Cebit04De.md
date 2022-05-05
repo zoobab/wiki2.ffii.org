@@ -1,0 +1,1 @@
+More up to date info: <http://plone.ffii.org/events/2004/cebit/>

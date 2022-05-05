@@ -1,0 +1,8 @@
+Describe the new page here.
+
+Qu\'en est il devenu des amendements 74 (code source) ? Votés ? Aprouvés
+? Inclus dans quel texte ?
+
+Haypo : Très petite correction à apporter à l\'article, le G de Règles a
+été oublié \...
+<http://swpat.ffii.org/papers/eubsa-swpat0202/plen0309/resu/index.fr.html#art4>

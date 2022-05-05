@@ -1,0 +1,37 @@
+## Article 5.1 {#article_5.1}
+
+\|\| number \|\| submitter \|\| recommendation \|\| text \|\| \|\| 33
+\|\| Rocard \|\| + \|\| 1. Member States shall ensure that a
+computer-controlled invention may be claimed only as a product, that is
+as a device controlled by a programmed computer, a programmed computer
+network or other programmed apparatus, or as a technical process
+controlled by such a computer, computer network or apparatus through the
+execution of software. \|\| \|\| 116 \|\| Szejna \|\| + \|\| Member
+States shall ensure that a computer-implemented invention may be claimed
+as a product in the form of a machine or technical apparatus with the
+addition of a computer, computer network or other programmable apparatus
+or as a technical process which is started and controlled by means of
+sensors, circuit breakers and commutators through such a computer,
+computer network or other control apparatus. \|\| \|\| 117 \|\|
+Lichtenberger, Frassoni \|\| + \|\| Member States shall ensure that a
+computer-implemented invention may be claimed only as a product, that is
+a programmed device, or as a technical production process. \|\| \|\| 118
+\|\| Ortega \|\| ++ \|\| Member States shall ensure that a
+computer-assisted invention may be claimed only as a product, that is a
+programmed device, or as a technical production process. \|\| \|\| 119 =
+120 = 121 \|\| Kudrycka and Zwiefka; Bertinotti; Kauppi \|\| ++ \|\|
+Member States shall ensure that a computer-aided invention may be
+claimed as a product, that is as a programmed apparatus, or as a process
+carried out by such an apparatus. \|\|
+
+116 is better than the Council version, but is overly complex (the
+inclusion of sensors, circuit breakers etc is no necessary).
+
+117 is a reprise from first reading. 118 is a little better since it
+says \"computer-assisted\" instead of \"computer-implemented\". 33 is
+quite similar, though a bit more convoluted since it takes on board a
+lot of Council wordings.
+
+119 = 120 = 121 simplifies the first reading definition by removing the
+\"technical production\" wording (this article is only about the form of
+the claims, not about patentability criteria).

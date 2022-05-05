@@ -1,0 +1,161 @@
+# Unternehmerinitiativen in NRW und Bwb gegründet {#unternehmerinitiativen_in_nrw_und_bwb_gegründet}
+
+\[ [ BWB](FfiiDeBwbDe "wikilink") \| [ NRW](FfiiDeNrwDe "wikilink") \| [
+Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Unternehmer in Nordrhein-Westfalen und Baden-Württemberg sind dem
+Beispiel anderer Bundesländer gefolgt und haben eigene Initiativen gegen
+Softwarepatentierung gegründet. Das geht aus den Pressemeldungen der
+Hamburger und der baden-württembergischen Initiative gegen
+Softwarepatente hervor.*
+
+## PRESSEMITTEILUNG 11.04.2005 - Baden-württembergische Initiative {#pressemitteilung_11.04.2005___baden_württembergische_initiative}
+
+-   [Pressemitteilung
+    (PDF)](http://www.bw-gegen-softwarepatente.de/docs/2005_04_11_Pressemitteilung.pdf "wikilink")
+
+### Neue Unternehmerinitiative gegen Brüsseler Pläne zur Einführung von Software­patenten {#neue_unternehmerinitiative_gegen_brüsseler_pläne_zur_einführung_von_softwarepatenten}
+
+Daß sich in Brüssel mit Softwarepatenten eine Existenzgefährdung von
+historischer Grö­ßenordnung zusammenbraut, bemerken nun zunehmend mehr
+mittelständische Unter­nehmen. Um sich dagegen zu verteidigen, haben
+seit Oktober letzten Jahres mehr als 250 Firmen Initiativen in sechs
+Bundesländern gestartet. Am heutigen Montag geht in Baden-Württemberg
+die siebte Initiative online. Noch rechtzeitig vor der zweiten Lesung im
+Europaparlament Anfang Juni formieren die Betroffenen Widerstand gegen
+die von der EU-Kommission vorangetriebene und vom Ministerrat
+akzeptierte Richtlinien-Version zur Einführung von Softwarepatenten.
+
+Die Unternehmen setzen sich dafür ein, daß die Vorstellungen des
+EU-Parlamentes um­gesetzt werden, welches sich in der ersten Lesung Ende
+September 2003 mit einem klaren Nein gegen die Patentierbarkeit von
+Software ausgesprochen hat. Der Ministerrat jedoch hat in seinem
+Gegenentwurf vom Mai 2004 sämtliche relevanten Vorschläge des
+Parlamentes gestrichen. Am 07. März dieses Jahres wurde dieser
+kontroverse Gegen­entwurf dann unter Verletzung der eigenen Regeln und
+gegen den expliziten Willen so­wohl mehrerer Regierungen als auch
+nationaler Parlamente (darunter auch des Deut­schen Bundestages)
+beschlossen.
+
+Wenn es dem Europäischen Parlament nicht gelingt, in seiner zweiten
+Lesung  voraus­sichtlich am 2. Juni  die bereits im Jahr 2003
+beschlossenen Änderungen erneut durch­zusetzen, werden mittelständische
+Unternehmen in Deutschland und Europa zu Freiwild für die größtenteils
+US-amerikanischen Schwergewichte in der Software-Branche.
+
+Da es für das EU-Parlament auf Grund mehrerer prozeduraler Hürden sehr
+schwierig wird, sich in einer zweiten Lesung gegen den Ministerrat
+durchzusetzen, sehen die Unter­nehmen somit akuten Handlungsbedarf. Sie
+wollen sich daher nun persönlich an die Abgeordneten wenden. Die
+Initiativen dienen dabei als Sprachrohr, da viele der klassischen
+Branchenverbände, wie z.B. die Bitkom, gesteuert von Großkonzernen wie
+Siemens und SAP gegen die eigenen mittelständischen Mitglieder
+lobbyieren.
+
+Weitere Informationen zur Initiative:
+<http://bw-gegen-softwarepatente.de>
+
+URL dieser Mitteilung:
+<http://www.bw-gegen-softwarepatente.de/docs/2005_04_11_Pressemitteilung.pdf>
+
+## PRESSEMITTEILUNG 11.04.2005 - Hamburger Initiative {#pressemitteilung_11.04.2005___hamburger_initiative}
+
+-   [Pressemitteilung
+    (PDF)](http://www.stop-swpat.de/docs/Pressemitteilung_11.04.2005.pdf "wikilink")
+
+### Unternehmerinitiativen gegen Softwarepatente in Nordrhein-Westfalen und Baden-Württemberg gegründet / Wirtschaftsverbände unterstützen Initiativen {#unternehmerinitiativen_gegen_softwarepatente_in_nordrhein_westfalen_und_baden_württemberg_gegründet_wirtschaftsverbände_unterstützen_initiativen}
+
+Der Zusammenschluss von Unternehmen gegen Softwarepatentierung geht
+weiter: Kürzlich startete die Initiative Baden-Württembergischer
+Unternehmen gegen Patentierbarkeit von Software (1) sowie ihre
+Schwesterinitiative in Nordrhein-Westfalen (2). Somit sind die
+Unternehmerinitiativen, die von regionalen Unternehmen getragen werden,
+mittlerweile in sieben Bundesländern vertreten.
+
+Die Initiativen wollen das Inkrafttreten des im März bestätigten
+EU-Richtlinienentwurfs des EU-Ministerrats, der eine unbegrenzte
+Patentierbarkeit von Software ermöglicht, verhindern. Die Unternehmer
+setzen sich dafür ein, dass die Vorstellungen des EU-Parlaments
+umgesetzt werden, das sich für einen klaren Ausschluss der
+Patentierbarkeit von Software ausgesprochen hatte. Die Unternehmer
+verweisen dabei auch auf die Position des Deutschen Bundestags, der die
+Bundesregierung aufgefordert hatte, sich für klare Grenzen einzusetzen.
+Nun wollen sie sich persönlich an die Abgeordneten des Europaparlaments
+wenden, um einer Ablehnung des umstrittenen Ministerratsentwurfs zu
+bewirken.
+
+Uwe Solleder, Gründer der Initiative in Nordrhein-Westfalen: Sollte die
+Patentierbarkeit von Software legalisiert werden, wird die Luft sehr
+dünn für die mittelständischen Unternehmen in Deutschland und Europa.
+Das betrifft direkt die IT-Unternehmen  indirekt trifft es alle Bürger.
+Auch die Vorgehensweise der Bundesregierung, die trotz starker Proteste
+der betroffenen Unternehmen für den Ministerratsentwurf in diesem
+Gestzgebungsverfahren gestimmt hat, lässt für die Zukunft nichts Gutes
+erwarten. Doch der Mittelstand in Deutschland ist eine Macht, die von
+der Politik nicht ignoriert werden kann. Einige müssen jetzt anfangen,
+aktiv zu werden - viele werden folgen.
+
+Die Initiativen erhalten zusätzlich Unterstützung von
+Unternehmensverbänden: so tritt der Bundesverband mittelständische
+Wirtschaft (BVMW) Nord (3) als offizieller Unterstützer der Initiativen
+in Schleswig-Holstein (4), Hamburg (5) und Niedersachsen (6) auf. Die
+Initiativen informieren auch auf dem Stand des BVMW auf der
+Hannovermesse Industrie (Halle 2 Stand D 15/2) über die Gefahren von
+Softwarepatenten.
+
+Auch der Berufsverband der Selbständigen in der Informatik e.V. (BVSI)
+(7) steht hinter den Unternehmern, wie der 1. Vorstand des BVSI e. V.
+Dr. Dirk Bisping bekräftigt: Der BVSI als Vertreter der selbständigen
+IT-Berater lehnt die Patentierbarkeit von Computer implementierten
+Erfindungen ab, weil dadurch insbesondere Einzelberater und kleine
+Softwarefirmen in ihrer Tätigkeit bedroht sind. Es ist kontraproduktiv
+für die hiesige Wirtschaft und den Arbeitsmarkt, mittelständische
+IT-Unternehmen mit dem Gesetz zu Softwarepatenten in die Defensive zu
+drängen. Deshalb unterstützt der BVSI e. V. die Aktivitäten der
+Hamburger Unternehmen gegen Patentierbarkeit von Software und ihrer
+Schwesterinitiativen.
+
+1\. Initiative BaWü <http://bw-gegen-softwarepatente.de>
+
+2\. Initiative NRW <http://www.softwarepatente-nein-danke.de>
+
+3\. BVMW <http://bvmw-nord.de>
+
+4\. Initiative SH <http://schups.patentschmutz.de>
+
+5\. Initiative Hamburg <http://www.stop-swpat.de>
+
+6\. Initiative Niedersachsen <http://www.no-swpat.de>
+
+7\. BVSI <http://www.bvsi.de>
+
+## Über die \"Initiative Hamburger Unternehmen gegen Patentierbarkeit von Software\" {#über_die_initiative_hamburger_unternehmen_gegen_patentierbarkeit_von_software}
+
+Die Initiative (1) wurde Anfang November letzten Jahres gegründet, um es
+Hamburger Firmen zu ermöglichen, in einer gemeinsamen Erklärung gegen
+die geplante Patentierbarkeit von Software Stellung zu nehmen (2). Ziel
+ist es zu erreichen, dass Unternehmen Software auch weiterhin ohne
+Einschränkung durch Patentansprüche entwickeln und nutzen können. Die
+Initiative will politische Entscheidungsträger dazu bewegen, dem
+EU-Ratsentwurf (3) ihre Zustimmung zu entziehen und stattdessen den
+Gegenentwurf des EU-Parlaments (4) zu unterstützen. Die gemeinsame
+Erklärung wurde von 128 Unternehmen im Grossraum Hamburg unterzeichnet
+(5). Die Initiative wird unterstützt vom Bundesverband mittelständische
+Wirtschaft (BVMW) Nord (6) und dem Berufsverband der Selbständigen in
+der Informatik (BVSI) (7).
+
+1\. Hauptseite der Initiative mit weiterführenden Infos:
+<http://www.stop-swpat.de>
+
+2\. Wortlaut der gemeinsamen Erklärung
+<http://www.stop-swpat.de/#erklaerung>
+
+3\. <http://register.consilium.eu.int/pdf/de/04/st09/st09713.de04.pdf>
+
+4\. <http://www.stop-swpat.de/#erklaerung> (siehe Link dort)
+
+5\. Unterstützerliste <http://www.stop-swpat.de/unterstuetzer.html>
+
+6\. <http://bvmwonline.de> 7. <http://www.bvsi.de>

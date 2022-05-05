@@ -1,0 +1,9 @@
+The Karriere magazin, in the German Handelblatt group, issued an article
+in Trends on 26 May:
+
+`"Patents on software increase administrations costs and run diametrically counter our innovation `\
+`ability", says Thomas Wünsche, CEO of the automotive supplier EMS.`
+
+The 400 SME initiative in Germany is quoted by Johannes Sommer: \"SMEs
+are endangered in their agility by process costs risks.\". the June
+conference is mentioned as well as EICTA.

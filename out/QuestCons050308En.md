@@ -1,0 +1,346 @@
+1.  1.  -\*- dok: [QuestCons050308](QuestCons050308 "wikilink"); lang:
+        en; coding: iso-8859-1; mode: fundamental; -\*-
+
+# Questions to the Council: what happened on monday? {#questions_to_the_council_what_happened_on_monday}
+
+-\> \[ [ Letter to Consilium](LtrFfiiCons050308En "wikilink") \| [
+Presidency Position](Cons050307En "wikilink") \| [ Excerpts Council
+rules](ConsRules050308En "wikilink") \| [McCreevy
+Questions](http://wiki.ffii.org/QuestMcCreevy050307En "wikilink") \| [
+FFII Priorities](FfiiprojPriorEn "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+1.  1.  \| \[:ConsTranscript050307En: Session Transcript\] link broken
+
+**Here is the** [ FFII draft letter to
+Consilium](LtrFfiiCons050308En "wikilink").
+
+Interinstitutional File: 2002/0047 (COD)
+
+## Sorted questions {#sorted_questions}
+
+*The original questions are below in the unsorted section.* *Please feel
+free to move more of them up here, or to enhance the sorting classes.*
+
+Please delete points that are already in the [ draft
+letter](LtrFfiiCons050308En "wikilink").
+
+### agenda
+
+-   (still something ?)
+
+### meaning of written statements submitted to the presidency {#meaning_of_written_statements_submitted_to_the_presidency}
+
+------------------------------------------------------------------------
+
+There were written statements delivered to the presidency even before
+the council session, from Latvia, Poland, Nerherlands, Denmark, and
+Cyprus, where these members clearly expressed that they do no more agree
+with the text as negotiated on 204-5-18.
+
+-   Is it correct that the presidency was informed about the content of
+    these statements ?
+-   In how far differ written statements submitted before the council
+    session from literally expressed opinions during the council
+    session, in terms of significance to the presidencies decisions ?
+-   Is the presidency basically able to accept written statements as
+    indication that there might be \'further need of discussion\' ?
+
+### what is a session, anyway ? {#what_is_a_session_anyway}
+
+------------------------------------------------------------------------
+
+-   At which time in relation to the start of the public audio
+    transmission was the council session officially opened ?
+-   In the case the Council dealt with the point in question already
+    before the public transmission started, what was negotiated and why
+    wasn\'t it made public ?
+
+### the session: public part {#the_session_public_part}
+
+------------------------------------------------------------------------
+
+The presidency explained that Denmark, Poland, and Portugal would have
+preferred the point in question to be the subject of a B-Item
+discussion, and that it \'was not able to accept that\'.
+
+-   What exactly was the presidency unable to accept ?
+-   When, and in which form, did these member states inform the
+    presidency of their wish ?
+-   Under what conditions would the presidency be able to accept a
+    request for degrading an A-Item to a B-Item after the political
+    agreement has been achieved already ?
+-   What are the conditions to reject a B-Item request in terms of votes
+    or number of member states ?
+-   Would the case a written statement does not comply with the literal
+    statement of a council member of the same member state, would the
+    presidency be obliged to clarify this occurence ?
+-   according to the press release
+    <http://ue.eu.int/cms3_Applications/applications/search/newsDocDetails.asp?cmsid=245&dockey=84021&doclang=EN&#9001;=EN>
+    spain voted against it (vote against an A item?)
+
+### the session: not public parts ?? {#the_session_not_public_parts}
+
+------------------------------------------------------------------------
+
+The presidency stated lierally \"Now I call on the Council to approve
+also the other A-points.\" \[3\], before proceeding to adopt the
+A-Items. This might be reasonably understood as a vote. Everyone keeping
+quiet in that second might be assumed to have approved under Number 16
+of Annex IV of the Rules of Procedure. However, the expression \'approve
+also the other\' indicate that the vote in this particular moment was
+only about other A-items than the one in question.
+
+-   When did the vote on the item in question happen ?
+
+According to the PR protcol
+(http://ue.eu.int/cms3_Applications/applications/search/newsDocDetails.asp?cmsid=245&dockey=84151&doclang=EN〈=EN)
+there have been items on Energy:Energy policy, Research:Korea,
+Security:Iraq accepted.
+
+### speaking time management {#speaking_time_management}
+
+------------------------------------------------------------------------
+
+-   How could a delegate express his wish to speak, and under what
+    conditions is he allowed to do ?
+-   Are there conditions when a delegate can not speak even if he
+    expresses his wish to do so ?
+-   Who is responsible for the microphone mamagement ?
+-   How is it decided whose micro is switched on or off at a given
+    moment ?
+-   There was an incident with the french delegate at minute
+    \_\_\_\_\_\_(05:14)\_\_\_\_\_\_ and also with the cyprus at
+    mnute\_\_\_\_\_(01:20)\_\_\_\_ (footnote-\>1). It seemed to happen
+    that they wanted to say something, however, their microphones get
+    switched off. Does the repsidency agree to this interpretation ?
+-   Is there any provision to ensure a delegate who wants to speak can
+    ensure to get the possibility, even when his microphone is not
+    switched on ?
+
+### recording and streaming to the public {#recording_and_streaming_to_the_public}
+
+------------------------------------------------------------------------
+
+-   What kinds of literal protocoling is basically done at the council
+    (written, audio, video), and who is responsible for the orderly
+    conduction ?
+-   When start the different types of protocoling, after the ministers
+    enter the council ?
+-   Are these protocols intendet to be complete ?
+-   If yes, how long after a council session - if at all - are complete
+    protocols of any type and recording available to the public ?
+-   If not, what is the legal base for this decision ?
+-   There seems to be a gap in the public audio stream from minute
+    \_\_\_\_(06:36)\_\_\_\_ to \_\_\_\_(07:08)\_\_\_\_, when minister
+    Brinkhorst started to make a statement. Do you know the reason ?
+-   Do you intend to supply the public with the missing piece (eg from
+    the written protocol) later ?
+
+### interpreting the rules {#interpreting_the_rules}
+
+------------------------------------------------------------------------
+
+-   Is the presidency obligated to the principles \'The presideny is
+    neutral\' and \'The presidency is always in the hand of the
+    Council\' as outlined in the \'Council Guides Volume I\'
+    (footnote-\>3), Chapter I(3) and I(5) ?
+-   Given that there was no explicit vote (in terms of asking the
+    individual members) on the point in question, what does the
+    presidency consider to be the meaning of \'vote\' in article 8 and 9
+    CRP, and where can it be found in the published protocols ?
+-   Within the CRP, do exist articles where the terms \'the Council\'
+    and \'the presidency\' can be interpreted as fully synonymic ?
+-   Is there any article in the CRP excluding the downgrading and
+    rediscussion of an A-Item ?
+-   Are the chapters \'The presideny is neutral\' (I (3)) and \'The
+    presidency is always in the hand of the Council\' (I (59)) of the
+    \'Council Guides Volume I\' (footnote-\>3) directly or indirectly
+    binding to the Council presidency when interpreting the CRP ?
+
+### footnotes
+
+------------------------------------------------------------------------
+
+**1** According to inofficial transcripts
+
+<http://crashrecovery.org/council-transcript.html>
+
+<http://kwiki.ffii.org/ConsTrans050307En>
+
+**2** \"Maintenant j\'invite le Conseil à adopter aussi les autres
+points de la liste points A. Tel est le cas? Je vous en remercie, les
+points A sont adoptés.\"
+
+\... which we translate as:
+
+\"Now I call on the Council to approve also the other A-points. Yes?
+Thank you, the A-points are adopted.\"
+
+**3** \'Council Guide\' Volume I-III of February 2001,
+
+published by the General Secretariat DG F \-- Information, Transparency
+and Public
+
+## \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Unsorted questions {#unsorted_questions}
+
+-   Do you think that the final decisions of the council should be
+    regarded as democratically legitimated by the member states?
+-   What other procedure than a formal voting process do you regard as
+    acceptable for assuring that the required majority is met in a final
+    decision of the council?
+-   To what institutional entity could a democratically legitimated
+    final decision of the council be referred in your opinion:
+    -   -   to the personal decision of the council presidency
+        -   to the personal decisions of the council members
+        -   to the decision of the member state governments, represented
+            by the council members
+        -   to the decision of the member state legislatives,
+            represented by the council members?
+-   Was the agenda sent to the other members of the Council within 14
+    days before the beginning of the meeting (article 3(1))?
+-   At what time the complete agenda has been published on the Council
+    website?
+-   The Presidency probably did not put the item on the agenda enough in
+    advance. All the Council members should anonymously agree to have it
+    on the agenda. Do you have a written proof of their agreement of the
+    agenda?
+-   When does the presidency has sent a request for inclusion on the
+    agenda? When do other council members have received it?
+-   Why does Bulgaria and Romania do not have benefited from the 7 days
+    required to have a look on this important directive? Why the Council
+    Presidency has shortened their period of for reasons of urgency? Did
+    they agreed to shorten it? Do you have official documents proving
+    their agreement with the shortening of their rights?
+-   The Danish European Affairs Committee obliged the Danish minister to
+    remove the directive as an A-item according to article 3(8), but
+    that obligation was not fullfilled. Why?
+-   Only \"the Council\" decide that B-Items are inadmissible. Who was
+    \"the Council\" in this case?
+-   How many countries are needed to have a B-item?
+-   The Council Presidency once refers to itself as \"I, the Council\".
+    Does the Presidency want to imply that the reference to \"the
+    Council\" in rule 3 is a reference to the Presidency, i.e. the
+    presidency alone can decline B-item requests ?
+-   Certain parts of the session were not public, e.g. speeches by
+    Brinkhorst and Bendt. Why?
+-   Can the Common Position be sent to the European Parliament before
+    the minutes are signed?
+-   What happens if a member state does not sign the minutes?
+-   Given that adoption of an A-Item requires an absolute majority in
+    the commission, when did the commission agree to the common position
+    on software patents?
+-   Did you know that Patent Lawyers **alone** of the DG Internal Markt
+    have written the proposal? Do you think it is normal that Patent
+    Lawyers alone writes the European Patent Law?
+-   Do you think the Luxembourg Presidency had the right to deny the
+    B-item request on monday?
+-   Do you have recordings of the **whole** council meeting, even parts
+    that are not public?
+-   Can you point out which rule of the Council Rules of Procedure (CRP)
+    the Lux Presidency has used to deny the B-item request?
+-   Can you point out where is the rule of the CRP which says that a
+    political agreement cannot be rediscussed?
+-   If you cannot locate the previous article, can we consider that the
+    Presidency has misguided Council Members and the whole yesterday?
+-   In his speech, Mr Kreke invites the Council Members to approve the
+    \"other\" items from the list, and has not asked to approve the
+    software patents item. Where does the Presidency has invited Council
+    Members to approve this item? Can we consider, if Mr Kreke has
+    invited Council Members to approve the list of other items, that
+    Members have not given their agreement on this item, because they
+    were never asked?
+-   The Presidency has refused to discuss anything about the B-item
+    possibility. 3 countries has anyway requested some wishes to have a
+    B-item. Is this contrary to the Rule xx, which says if a directive
+    needs further discussions\...
+-   On the Rule xx, it says that nanana further discussions. How many
+    declarations are required for the Presidency to reopen discussions?
+-   How many directives in the history of the Council has had more
+    statements attached to the formal approval of the Council in first
+    reading? How many are required to have
+-   Mr Kreke mentionned in his speech that there are \"procedures to
+    follow\" and that he can cannot accept the request from the 3
+    countries for those reasons. The Belgian Minister Verwilghen said in
+    the Belgian Parliament that no country asked for a B-item. Can you
+    explain why the Presidency mentions the request from those 3
+    countries in his speech if nobody asked? If those countries has
+    really asked the presidency in private or informally, can they
+    confirm it? Can they provide the answer Mr Kreke has provided at
+    that time outside public eyes and ears?
+-   If those 3 countries have asked the Presidency informally or orally,
+    and if the Presidency has replied informally or orally, can we
+    conclude that the Speeches of the Public Deliberation has been
+    prepared in advance?
+-   What is the exact procedure to follow by the Presidency when a
+    Council Member asks informally to have a B-item?
+-   If it appears that there are no procedural reasons to argue that a
+    political agreement always leads to a common position, can we say
+    that the Presidency has misguided the public?
+-   If it appears that there are no procedural reasons to argue that a
+    political agreement always leads to a common position, can we say
+    that the Presidency has misguided the Council Members?
+-   If it appears that there are no procedural reasons to argue that a
+    political agreement always leads to a common position, can we say
+    that the Presidency has misguided the Commission?
+-   If it appears that there are no procedural reasons to argue that a
+    political agreement always leads to a common position, can we say
+    that the Presidency has misguided the National Parliaments?
+-   If it appears that there are no procedural reasons to argue that a
+    political agreement always leads to a common position, can we say
+    that the Presidency has misguided the European Parliament?
+-   If during informal discussions with the Council members, it appears
+    that the Presidency has answered the same arguments as in his speech
+    (procedural and institutional reasons), can we conclude that he has
+    misguided diplomats?
+-   Why was the Presidency apparently afraid to initiate a vote on this
+    \'informal\' request from those 3 countries? If this vote was
+    initiated, what question would the Council members have been asked
+    to vote on? With which majority?
+-   During discussions between a lobbyist and a Luxembourg diplomat,
+    this diplomat agreed that it was possible to have a B-item in
+    Council. Why does the Presidency has denied that possibility in
+    Council?
+-   Can the Presidency explain just how it sees Parliament\'s
+    suggestions as irrelevant?
+-   Will the Council continue to deny that its text allows for patenting
+    any software item? What then does it make of the results of the
+    second hearing organised by the Polish Government in November 2004,
+    where all the industrialists present came to the opposite
+    conclusion?
+-   Just how does the Council reconcile the position of its text, saying
+    it confines itself to codifying the existing practice of the
+    European Patent Office, with that of those who affirm that it does
+    not permit the patentability of software?
+-   Does the Council intend to validate the thousands of EPO patents
+    granted concerning the organisation of computer-based data, or
+    business methods patents, and potentially those which may be granted
+    for pedagogical or surgical purposes?
+-   Can the Council bring itself to admit that a definition of what is
+    \"technical\" such as \"using technical means\" is quite
+    tautological and cannot therefore suffice to distinguish that which
+    is patentable from that which is not?
+-   If in the Council\'s eyes reference to putting natural forces
+    (material and energetic) to work is not relevant as a basis for
+    distinguishing what is patentable from what is not, can the Council
+    propose another, since our principal objective as lawmakers is
+    precisely to propose one?
+-   Was there an informal dinner beforehand, as the stenographic
+    (UNCORRECTED!) report on the site of the Dutch Parliament mentions?
+    What does the Council think this means to European democracy in the
+    EU if such decisions, to the public, seem to happen in
+    \'backrooms\'?
+
+## Other
+
+-   [ Collection of questions for Charlie
+    [McCreevy](McCreevy "wikilink")](QuestMcCreevy050307En "wikilink")
+
+## History
+
+-   added Links to two Press Releases about the meeting
+    \--BerndEckenfels

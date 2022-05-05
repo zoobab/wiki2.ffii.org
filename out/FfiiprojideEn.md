@@ -1,0 +1,8 @@
+Every politician in EU should receive copy of this article!
+
+It is the best explanation of just how crazy SW patents are:
+<http://www.newscientist.com/news/news.jsp?id=ns99995072> and
+<http://www.charitybase.org/>
+
+Not kidding read US patent office decision: (April 27, 2004)
+<http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,727,830.WKU.&OS=PN/6,727,830&RS=PN/6,727,830>

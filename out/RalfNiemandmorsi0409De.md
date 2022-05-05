@@ -1,0 +1,57 @@
+[ FFII Niedersachsen](FfiiDeNdsDe "wikilink")
+
+# Mitstreiter Ralf Niemand nach schwerem Krebsleiden verstorben {#mitstreiter_ralf_niemand_nach_schwerem_krebsleiden_verstorben}
+
+```{=mediawiki}
+{{http://setiathome2.ssl.berkeley.edu/images/user_profile/sm_2615806.jpg}}
+```
+Ralf Niemand ist kein Unbekannter, sein Ableben hat alle, die ihn
+kannten schmerzlich getroffen. Für die FSF Europe hat Ralf viele Events
+tatkräftig unterstützt, ganz wesentlich Aktivitäten des FFII im
+norddeutschen Raum ermöglicht. So half er noch zuletzt bei der
+Vorbereitung der [WHV.NET Veranstaltung am
+25-09-04](http://testweb1.isg-whv.de/index.php?id=126 "wikilink").
+
+## Thomas Templin berichtet: {#thomas_templin_berichtet}
+
+Gestern Abend ist der Ralf im Krankenhaus an seinem Krebsleiden
+verstorben.
+
+Ralf war vor zwei Wochen noch einmal auf dem Treffen der LUG-WHV. Wir
+haben uns alle sehr erschrocken wie stark mitgenommen er war. Er war nur
+noch ein Schatten seiner selbst.
+
+Drei Tage später ist er in Oldenburg ins Krankenhaus gegangen. Seine
+Chemo Therapie hat zu schweren Komplikationen geführt.
+
+Ich habe noch letzten Donnerstag mit ihm im Krankenhaus telefoniert er
+machte auf mich einen sehr bedrückten und niedergeschlagenen Eindruck.
+Trotz allem hat er noch vom Krankenbett aus einen Messestand Aufbau
+durch seinen Arbeitgeber Floragard für die LUG WHV auf der WHV.NET Messe
+in der nächsten Woche organisiert.
+
+Heute früh hat die Nachricht von seinem plötzlichen Tod alle wie einen
+Schock getroffen. Die LUG-WHV, der FFII und einige andere werden auf
+ihren Web-Seiten einen Nachruf für Ralf veröffentlichen / sich an einem
+Nachruf beteiligen. Auch werden wir zusammenlegen um in zwei örtlichen
+Tageszeitungen in Jever und Wilhelmshaven eine Sterbeanzeige zu
+veröffentlichen um unserer Trauer Ausdruck zu geben.
+
+Ich kann mich nur aus vollsten Herzen den Worten von Georg Greve
+anschliessen, \"Ich fühle mich sehr hilflos. Möchte gerne etwas tun, um
+zu zeigen, daß es uns nicht egal ist, weiß aber nicht, wie.\" Ich denke
+Georg hat damit sehr treffend ausgedrückt was viele von uns tief im
+innersten bei dieser schrecklichen Nachricht bewegt.
+
+Thomas
+
+## Beteiligung an der Beleidsanzeige {#beteiligung_an_der_beleidsanzeige}
+
+Wer sich an der Sterbeanzeige für den Ralf beteiligen möchte kann unter
+dem Stichwort \"Nachruf für Ralf\" einen Obulus auf das Konto der
+LUG-WHV überweisen.
+
+Bitte sagt uns auch wie wir Euch erwähnen sollen.
+
+Bankinstitut: Volksbank Jever Empfänger: LUG WHV e.V. Kontonummer: 237
+542 000 4 Bankleitzahl: 282 622 54

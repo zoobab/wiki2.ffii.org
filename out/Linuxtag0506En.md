@@ -1,0 +1,8 @@
+-\> [German version](http://wiki.ffii.org/Linuxtag0506De "wikilink")
+
+This year FFII will be at booth Y40 at the Karlsruhe linuxtag.
+
+FFII will win supporters for the
+<http://www.wirtschaftliche-mehrheit.de/> campaign there.
+
+If interested in helping: linuxtag-help AT ffii.org.

@@ -1,0 +1,153 @@
+1.  1.  -\*- dok: [LtrConsRecvDe0503](LtrConsRecvDe0503 "wikilink");
+        lang: de; coding: iso-8859-1; mode: fundamental; -\*-
+
+# Adressaten für Briefe zur Ratssitzung am 7. März {#adressaten_für_briefe_zur_ratssitzung_am_7._märz}
+
+-\> \[ [ Beispielbriefe](LtrCons0503De "wikilink") \| [ EU-Kommission
+(Verheugen)](ComDe "wikilink") \| [ ältere
+Adressatenliste](LtrConsRecvDe0406De "wikilink") \| [ Softwarepatente in
+Deutschland](SwpatdeDe "wikilink") \| [ Neues](SwpatcninoDe "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+*Wir wissen nicht, wer für Deutschland an der Ratssitzung teilnimmt,
+listen aber frühere Teilnehmer vergleichbarer Sitzungen und weitere
+einflussreiche Personen auf.*
+
+## Adressaten
+
+### Büro der deutschen Delegation in Brüssel {#büro_der_deutschen_delegation_in_brüssel}
+
+`Tel.: +32 2285 6371`\
+`Fax.: +32 2285 6367`\
+`E-Mail: del-1.eu@bruessel.diplo.de`
+
+### Geiger
+
+[ Hansjörg Geiger](HansjoergGeigerDe "wikilink") vom [
+BMJ](SwpatbmjDe "wikilink") hat das Dossier in der Sitzung am [18. Mai
+2004](http://wiki.ffii.org/ConsDe040518De "wikilink") vertreten.
+
+`Herr Staatssekretär Prof. Dr. Hansjörg Geiger`\
+`Bundesministerium der Justiz`\
+`Mohrenstraße 37`\
+`10117 Berlin`
+
+`Tel: 01888-580-9023`\
+`Fax: 01888-580-9525 `\
+`E-Mail: geiger-ha@bmj.bund.de`
+
+### Bulmahn
+
+`Frau Bundesministerin Edelgard Bulmahn`\
+`Bundesministerium für Bildung und Forschung`\
+`Ministerbüro`\
+`Hannoversche Straße 28-30`\
+`10115 Berlin`\
+\
+`Tel: 01888-57-5003`\
+`Fax: 01888-57-5500`\
+`E-Mail: edelgard.bulmahn@bmbf.bund.de`
+
+### Clement
+
+`Herr Bundesminister Wolfgang Clement`\
+`Bundesministerium für Wirtschaft und Arbeit`\
+`Scharnhorststr. 34-37 `\
+`10115 Berlin `\
+`Postanschrift: 11019 Berlin `
+
+`Tel: 01888-615-9 `\
+`Fax: 01888-615-7010`\
+`E-Mail: wolfgang.clement@bmwa.bund.de`
+
+### Trittin
+
+`Herr Bundesumweltminister Jürgen Trittin`\
+`Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit `\
+`Ministerbüro`\
+`Alexanderplatz 6`\
+`10178 Berlin`\
+\
+`Tel: 01888-305-0`\
+`Fax: 01888-305-4375`\
+`E-Mail: Kontaktforumlar `[`http://www.bmu.bund.de/service/kontakt/content/4120.php`](http://www.bmu.bund.de/service/kontakt/content/4120.php)
+
+### Dudenhausen \--\> Meyer-Krahmer {#dudenhausen____meyer_krahmer}
+
+Herr Wolf-Dieter Dudenhausen, ist jedoch nicht mehr Staatssekretär im
+BMBF. Siehe [PE vom
+31.01.2005](http://www.bmbf.de/press/1372.php "wikilink"). Abgelöst hat
+ihn:
+
+`Herr Staatssekretär Prof. Dr. Frieder Meyer-Krahmer`\
+`Bundesministerium für Bildung und Forschung`\
+`Büro des Staatssekretärs`\
+`Heinemannstraße 2`\
+`53175 Bonn-Bad Godesberg`
+
+`Tel: 01888-57-3023`\
+`Fax: 01888-57-2308`\
+`E-Mail: Frieder.Meyer-Krahmer@bmbf.bund.de`
+
+### Zypries
+
+An der richtigen Stelle ist man auch beim federführenden BMJ:
+
+`Frau Bundesjustizministerin Brigitte Zypries`\
+`Bundesministerium der Justiz`\
+`Büro der Ministerin`\
+`Mohrenstraße 37`\
+`10117 Berlin`
+
+`Tel: 01888-580-0`\
+`Fax: 01888-580-9525 `\
+`E-Mail: Brigitte.Zypries@bmj.bund.de`
+
+### Kommission in Deutschland {#kommission_in_deutschland}
+
+Die Vertretung der Europäischen Kommission in Deutschland:
+<http://www.eu-kommission.de/>
+
+`Europäische Kommission`\
+`Vertretung in Deutschland`\
+`Leiter: Dr. Gerhard Sabathil`\
+`Unter den Linden 78`\
+`10117 Berlin`
+
+`Tel: 030-2280-2000`\
+`Fax: 030-2280-2222`\
+`E-Mail: eu-de-kommission@cec.eu.int`
+
+### Deutsche Vertretung bei der EU {#deutsche_vertretung_bei_der_eu}
+
+Die [Ständige Vertretung der Bundesrepublik Deutschland bei der
+Europäischen Union](http://www.eu-vertretung.de/ "wikilink")
+unterrichtet und vertritt die Bundesrergierung in Belangen der EU. Herr
+Dr. Heinz Hetmeier ist [Abteilungsleiter
+Wirtschaft](http://www.eu-vertretung.de/de/vertretung/abteilungen_referate/wirtschaft/aussenwirtschaftspolitik.php "wikilink").
+
+`Ständige Vertretung der Bundesrepublik Deutschland bei der Europäischen Union`\
+`EU-Vertretung`\
+`19-21 Rue Jacques de Lalaing`\
+`1040 Brüssel`\
+`Belgien`
+
+`Tel: 02-2381 811 (Zentrale)`\
+`Fax: ?`\
+`E-Mail: info@eu-vertretung.de`
+
+### Bundeskanzler
+
+Bundeskanzler Schröder
+<http://www.bundeskanzler.de/E-Mail-an-den-Kanzler-.7727.htm>
+
+### Abgeordnete
+
+Die Abgeordneten müssten daran interessiert sein, dass ihr Wille
+geachtet wird, sowohl diesmal als auch generell. Es geht um einen
+Präzendenzfall für die Verantwortlichkeit des EU-Rates gegenüber den
+nationalen Parlamenten.
+
+S. [ deutsche Adressaten](SwpatdeDe "wikilink").

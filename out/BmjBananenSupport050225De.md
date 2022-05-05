@@ -1,0 +1,259 @@
+1.  1.  Some people have requested to be removed from this page. Since
+        we have no policy for this, and no privacy statement has been
+        shown to them before adding their name here, and removing their
+        name would anyway keep it in the page history, we have no
+        solution, from the time being at least, than removing public
+        access from the page. Antonis Christofides, 25 September 2007
+
+2.  acl [TrustedGroup](TrustedGroup "wikilink"):read
+    aptiko:read,write,admin,delete,revert All:
+
+# B-Punkt jetzt! {#b_punkt_jetzt}
+
+\[
+[Aktionsbeschreibung](http://demo.ffii.org/bmjbananen050225/ "wikilink")
+\]
+
+## B wie Banane - Bananen für das BMJ {#b_wie_banane___bananen_für_das_bmj}
+
+Folgende Personen haben sich an der Aktion beteiligt:
+
+-   **Name, Ort, Anzahl der Bananen**
+-   Mateusz Nitka, 88422 Bad Buchau, 3
+-   Marc Manthey, 50672 Köln , Nur Muell
+-   Steffen Mutter, 76135 Karlsruhe, 1
+-   Ingo Wendt, 12689 Berlin, 1
+-   Sascha Zosgornik, aus Bitterfeld, 5
+-   Koch-Callies, Hayo, 27321 Thedinghausen, 1
+-   Brosche, Norbert, 76344 Eggenstein, 7
+-   Gesk Tobias, 70619 Stuttgart, 2
+-   Kraschinski Arnold, 86381 Krumbach, 3
+-   Kuznetsov, Berlin, 3
+-   Veit Weber, Dresden, 1
+-   Andre Dierker, 48153 Münster, 2 (wenn ich das Paket vor
+    Schalterschluss noch aufgegeben bekomme..)
+-   Matthias Bernges, Mannheim. 4
+-   Christoph Müller, Hannover, 6
+-   Florian Voswinkel, Wetter, 3
+-   Gisela Rosendahl, Dortmund, 3
+-   Michael Wagner, Ludwigsburg, 5
+-   Kai Jander, Hamburg, 17 (Abgeschickt. Gibt extra Schalter für
+    Freimarken, ging schnell\...)
+-   Max Dalichow, Potsdam, 5
+-   Peter Pfandt, Marburg, 5
+-   Björn Ahrens, 26129 Oldenburg, 5
+-   Christoph Neerfeld, Sankt Augustin, 1
+-   Frank-Olaf Braunert, Hamburg, 3
+-   control IT !GmbH, Koblenz, 3
+-   Andreas Rudert, Berlin, 2 (\...hat sein Paket soeben beim BMJ
+    überreicht)
+-   Marc Geldon, Augsburg, 3
+-   Andrea Störmer, Herford, 4
+-   Rudolf Schwietering, Heek, 2
+-   Carsten Kompa
+    ([kompaConsult](http://www.kompaconsult.com "wikilink")), Witten, 4
+-   Christian Heller, Ilmenau, 3
+-   Rainer Bielefeld, Braunschweig, 0 `<i>`{=html}(Habe aber per E-Mail
+    das B-Punkt-Jetzt-Plakat verschickt, da ich keine Paketmarke mehr
+    hatte und das Paket M.E. auch zu spät ankäme)
+-   Matthias Schulz, Coswig, 2
+-   M. Rosenthal, Neuler, 1
+-   A. Stiebing, Bielefeld, 1
+-   Divi Beineke, Ostercappeln, 3
+-   Bären-Software Thorsten Stöcker, und Regina Bartels, Berlin, 3
+-   Tobias F., Konstanz, 4
+-   Stefan Schlosser, Nuernberg, 1
+-   Dihor Viktor, Ulm, 4
+-   A. Berto, Herrenberg, 3
+-   Laudo Technologies, Esslingen, 1
+-   Bertram Oliver, Berlin, 2
+-   Bätzner Jan, Köln, 2
+-   Lars Hein, Straubenhardt, 3
+-   Christoph Lelie, Essen, 1
+-   Y. Arman, Waibstadt, 1
+-   Kammer,Berlin, 3
+-   Paul Janowitz, 10625 Berlin, 3
+-   Dawe, Köln, 1
+-   Lechner Udo, Aalen, 1
+-   Marek Dominik Werstak, Dresden, 2
+-   Eckhard Anders, Kiel, 5
+-   Christian Gosch, Mannheim, x (ich versuchs noch, kanns aber nicht
+    versprechen. Werde das Plakat als E-Mail verschicken.)
+-   Georg Wiegand, Hannover, 5
+-   Christian Mayer, Bous, 5
+-   Dihor Viktor, Ulm, 3
+-   Sven Goßlau, Oberhausen, 1
+-   Josef Riedl, Scheyern 3,
+-   Lars Siemssen, Köln, 3
+-   Anonym, Bielefeld, 3
+-   Alexander Gareis, Düsseldorf, 3
+-   Matthias Sieber, Hamburg, 3
+-   Erik Schanze, Freital, 1
+-   brand new media, Köln, 1
+-   Diehl, Baden, 1
+-   Herr Weber, Mannheim, 8.
+-   Alexander Gareis, Düsseldorf, 2 (erneut)
+-   Reinhold Roppert, Ulm 1
+-   Alexander Gareis, Düsseldorf, 3 (ein letztes Mal - ich mag keine
+    Bananen!)
+-   Andreas Schneider, Linden-Hess., 5
+-   Florian Fischer, Hamburg, 3
+-   Colja Vendel, München, 6
+-   Nicolas Rachinsky, München, 24 Schokobananen
+-   Peter Asemann, Erlangen, 3
+-   Michael Born, Hannover, 2
+-   Michael Conrad, Mainz, 1 KG geht heute noch raus!
+-   Jungblut, Offenbach, 2
+-   Dirk Werner, Köln, 1
+-   Tim Gollnik, Bremerhaven, 4
+-   Thomas Munz, Karlsruhe, 1
+-   Steve Müller, Hagen, 1
+-   Raúl Steimbach, Neuenbürg, 1
+-   Christian Buesge, Heek, 3
+-   Rochada GmbH, Wehrheim, 3
+-   Holger Hellmuth, Karlsruhe, 2
+-   Hans Ch. Gossel, Lollar
+-   advICo microelectronics GmbH, 45657 Recklinghausen, 2
+-   Pascal Brück, Mannheim, 2
+-   Andreas Haardt ([BueroByte
+    GbR](http://www.buerobyte.de "wikilink")), Dortmund, 1
+-   Uwe Gerisch, Stuttgart, 1
+-   Hans Baier, München, 2
+-   Toni Baier, Mutlangen, 2
+-   [Martin
+    Vogt](http://www.imipolex-g.de/weblog/wreck/2005/02/protest.html "wikilink"),
+    Leipzig, 4
+-   Frank Schubert, Berlin, 10 (mit kurzem persönlichen Anschreiben)
+-   Christian Cornelssen, Berlin, 2
+-   Wilhelm Hoffstiepel, Bochum 4
+-   Adam Pyschny, Oberhausen, hab keine Bananen: 1 Apfel, 1 Orange
+-   Günther Montag, Berlin, 4
+-   Anonym, Berlin, 2
+-   Sebastian Scheele, Dollern, 6
+-   Joachim Holtorf, Lüneburg, 3
+-   [NightLabs GmbH](http://www.NightLabs.de "wikilink"), 79100
+    Freiburg, 7 (+6 Bananen an den Präsidenten der EU-Kommission in
+    Brüssel)
+-   Hubert Denkmair, Reichertshofen, 7 (+ 3 scharfe Pepperonis)
+-   Christian Schulte, Tuchenbach, 4
+-   Ralf Paaschen, Lengerich, 1
+-   Fabian W. 3 Bananenschalen
+-   Maik-Oliver Rutz, Göttingen, eine
+-   [in prozess - Stefan U. Hegner](http://www.inprozess.de "wikilink"),
+    32584 Löhne, 13 (+ einen ernsten Brief)
+-   Michael Arlt, Schwanstetten, 6 (3 davon schon stark dunkelbraun)
+-   Annette Linder, Röhlingen, eine Bananenschale
+-   Manfred Frommel, Allershausen, 2
+-   [Andreas Voßloh Software &
+    Service](http://www.vossloh.biz "wikilink"), Plettenberg, 7 (Wie die
+    Zahl der Todsünden - SWPAT wäre die 8te)
+-   Carl Volhard, Hannover, 5
+-   [Puya Badakhsh](http://www.webmasterdorf.de "wikilink"), Berlin, 1
+-   Sebastian Hegler, Dresden, 4
+-   Benito van der Zander, Düsseldorf, 3
+-   Christian Garbs, Lehrte, 2
+-   [GkWare e.K. - Gero Kuehn](http://www.gkware.com "wikilink"), 45149
+    Essen, 2
+-   Rolf Skowronek, Jülich, 4
+-   Carl von Einem, München, 2
+-   Andreas Herr, Seesen, 6
+-   Gideon, München, 2
+-   Johann Fischer, Neustadt a.d.W., 3
+-   Mike Dornberger, Berlin, 3
+-   Anne Krickeberg, Bananenbild
+-   Manuel Massing, Bonn, 2
+-   Dr. Frieder Ferlemann, Heidelberg, 3
+-   Thomas Schlich, Stuttgart, 3
+-   Ralf Bader, Nürnberg, 3
+-   Andreas Burger, Unterspiesheim 1
+-   Florian Schneider, Schwebheim 1
+-   Simon Frettlöh, Karlsruhe, 7
+-   Netzoffice R. Wölfel, 36041 Fulda, 5
+-   Marcel Meyer, Erding/Muenchen, 3
+-   Stefanie Menner, Blaubeuren, 3
+-   Fred Besen, Bonn, 1
+-   Christian, München, 1
+-   Ewald Geier, Edelbach, 3
+-   Bergwinkl Thomas, Mühlhausen, 1
+-   Christian Dickes, Darmstadt, 3
+-   Holger Weiss, Bielefeld, 2
+-   Archie C. Füßer, Freiburg,2
+-   Felix Nölken, Düsseldorf, 2 (waren am vergammeln und werden
+    aufsehenerregend riechen, wenn sie ankommen)
+-   Christian Richter, Elmshorn, 2
+-   Kerscher Michael, Mühlhausen, 1
+-   Kerscher Christina, Mühlhausen, 1 ;)
+-   Robert Eiglmaier, Vaterstetten, 2
+-   Ingo Frost, Potsdam, 4
+-   Roehnelt Johannes, Sankt Augustin, 1 Bananenbild
+-   Daniel Brüßler, Nürnberg, 1 (mit 3 Farbstreifen umwickelt in
+    schwarz, rot, gelb)
+-   Christina, Mainz, 2 Bananen (mit 1 Peperoni..)
+-   Stefan Ruehrup, Paderborn, 1 (Track & Trace: Sendungscode
+    983014561787, PLZ 10117)
+-   Christoph Amma, Karlsruhe, 4
+-   Thomas Cherouny, Dorfmark, 4
+-   Mey Mark Meyer, Bremen, 1 (ausgereift, wie meine Software, verspätet
+    daher mit Porto, \@BMF: bitte kommenden Steuerausfall beachten)
+-   Martin Koch, Juechsen, 6
+-   Thomas Nusko, Regensburg, 1 Birne (Hatte leider keine Bananen
+    mehr\...)
+-   Jan Meiners, Hofheima.Ts., 1 !chiquita (Mit handgeschriebenen
+    Beiblatt da z.zt. kein Drucker) :-)
+-   Jan Meiners, Hofheima.Ts., 1 !chiquita (wie oben, hatte halt 2
+    Freimarken und 2 Kartons vom letzten ebay-Streifzug)
+-   Simon Forman, Osnabrück, 2
+-   Marian Momper, Bad Neuenahr, 4
+
+Summe der Bananen: 476
+
+Summe der Pakete: 156
+
+### Kommentare
+
+IMHO sollte am Montag mindestens ein Videoteam in der Poststelle des BMJ
+erscheinen und den Paketturm im Bild festhalten. ;) Was denkt die
+Gemeinde? Interessiert das TV-Journalisten? Kennt jemand welche? (M.
+Vogt)
+
+Das dürften aber nur noch die Nachzügler sein, der größte Teil ist schon
+am Samstag dort eingetroffen. Ist halt nicht mehr die Schnecken Post wie
+man sie mal kannte. ;-) (Frank Schubert)
+
+Der Gedanke kam mir auch schon, dass Pakete in D heutzutage wirklich nur
+einen Tag unterwegs sind, \"postseidank\". Dann sollte das Videoteam
+schnurstracks in Abt. III/B4 marschieren und die entnervten Mitarbeiter
+beim Auspacken filmen. Ich gehe nicht davon aus, daß der gemeine
+Ministerialbeamte am Sa./So. arbeitet. \--hämischgrins\-- (M. Vogt)
+
+Ich bezweifle das die Post die ganzen Pakete dieser Sonderaktion mit
+gewohnter Geschwindigkeit zustellen konnte. Ich könnte mir duchaus
+vorstellen das der Großteil erst am Montag eintrifft. Kennt sich jemand
+damit von Berufs wegen aus?
+
+Habe den Tipp mit auf den Weg gegeben, die Bananen, nach der Erfüllung
+ihrer Aufgabe als Symbolträger, doch bitte an die \"Berliner Tafel\"
+oder eine ähnliche Einrichtung zu Spenden, falls sie nicht alle selber
+essen (oder wollen oder dürfen). Dann kann uns wenigstens keiner
+nachsagen wir hätten mit Essen gespielt, bzw. es verschwendet. ;) (J.
+Meiners)
+
+Leider war keine einzige Chiquita-Banane dabei. :-( Das BMJ Immer noch
+keine Chiquita-Bananen eingetroffen! Das BMJ.
+
+Ist ja gar nicht wahr, meine 8 sind Chiquitas! Und ich hab extra grüne
+gekauft, damit die schön softwaremäßig nachreifen können. Herr Weber,
+Mannheim. Meine 3 waren auch Chiquitas! Gab\'s im Angebot bei meinem
+Supi-Markt. J.
+
+Meins war auch eine Chiquita! Mit dem blauen Aufkleber und Seriennummer.
+Hab aber vergessen die zu notieren. Sind da schon rfids drin? Gruss,
+Maik-O
+
+David GLAUDE: I don\'t read german\... but I would suggest not to send
+Chiquitas bananas. There was a comercial war between EU and US where US
+(with Chiquita behind) was saying that EU was protecting it\'s market
+against those banana\'s from US. EU actually wanted to protect the poor
+country of Africa, Caraibe and arround. So try to take \"Made in
+Dignity\" banana\'s from those country, this will make it much more
+politicaly informed. ;-)

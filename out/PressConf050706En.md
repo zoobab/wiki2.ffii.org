@@ -1,0 +1,272 @@
+1.  1.  -\*- dok: [PressConf050706](PressConf050706 "wikilink"); lang:
+        en; coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-07-15
+
+# European Parliament Press Conference after software patent directive rejection {#european_parliament_press_conference_after_software_patent_directive_rejection}
+
+-\> \[ [ Français](PressConf050706Fr "wikilink") \| [ Español
+](PressConf050706Es "wikilink") \] \[ [
+Debate](PlenTrans050705En "wikilink") \| [
+Result](PlenVote050705En "wikilink") \| [ News](SwpatcninoEn "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+*July 6th, 2005 \-- Transcription of the Press Conference by Josep
+Borrell and Michel Rocard, delivererd after the near to unanimous vote
+of the European Parliament to reject the software patents directive.*
+
+**transcriptions in process, help is very wellcomed**
+
+## Source
+
+-   [Audio source :](http://media.vrijschrift.org/40791.ogg "wikilink")
+    (left: original version / right: English simultaneous translation)
+-   [Video source
+    :](http://media.ffii.org/stb050705/20050705_EP_debate_en.wmv "wikilink")
+    (audio: Italian simultaneous translation)
+
+## President Josep Borrell 00:31-06:35 {#president_josep_borrell_0031_0635}
+
+-   [ Spanish original](Borrell050706Es "wikilink")
+-   [ English translation](Borrell050706En "wikilink")
+
+## Rapporteur Michel Rocard 06:35-23:25 {#rapporteur_michel_rocard_0635_2325}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English simultaneous translation
+
+` Thank you President. This vote has been extremly important, yes. I'm`\
+` starting off by saying that if there'd only been internal`\
+` disagreement in the Parliament and this disagreement was about a`\
+` fifty-fifty split, I'm not at all certain that the result would had`\
+` been what it was. But the extra argument, which give rise to so much`\
+` enthusiasm and scoop to the rejection is the will of the Parliament`\
+` to do what President has just described: to send to Council and`\
+` Commission a strong signal that you cannot go in treating the`\
+` Parliament like you've been doing. On this subject: there's been a`\
+` total arrogant scorn from Commission and Council in public of the`\
+` arguments and positions put forward by the Parliament at the first`\
+` reading; the drafting of the proposal of the second reading by the`\
+` Commission was made without any consultation of the Parliament, its`\
+` spokers and rapporteurs and shadow rapporteurs, none; and there was`\
+` even an attempt to squash the debate in the Council and on three`\
+` occasions, the Commission tried to get it adopted without debate.`
+
+1.  1.  34567890123456789012345678901234567890123456789012345678901234567890
+
+` Ladies and gentlemen, members of the Press, Europe is in crisis,`\
+` specially in my country, but you see that things are emerging in`\
+` Luxembourg... And I am convinced that the insufficiency of democracy`\
+` in Europe is a significant component of this crisis.`
+
+**to be continued at 8:27**
+
+## President Borrell 23:25-24:06 (FR/EN) {#president_borrell_2325_2406_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**
+
+## Question for EU Reporter 24:06-25:06 (EN/EN) {#question_for_eu_reporter_2406_2506_enen}
+
+-   English transcription
+
+` A couple of questions to President Borrell. First of all, in`\
+` relation to the Community patents, do you think now that that's an`\
+` end to dead issue, and if not, how do you think that an agreement`\
+` could be reached on that if you can't reach an agreement on the`\
+` sector issue. And you've mentionned that you're going to have`\
+` discussions about this issue with President Barroso, maybe you would`\
+` like to paint the picture of the atmosphere that might be created`\
+` after that, or during that, those discussions, and what sort of`\
+` discussions you're going to have with Mister Barroso, are you going`\
+` to give a little slap on the wrist, again?`
+
+### Answer from President Borrell 25:06-26:53 (FR+ES/EN) {#answer_from_president_borrell_2506_2653_fresen}
+
+-   [ Spanish original](PressConf050706Es "wikilink")
+-   Transcription of English simultaneous translation
+
+` Taper sur quoi ? Ah si c'est sur la main... Non, ce n'est pas un `\
+` problème, on ne va pas se bagarrer, hein ?`
+
+` But, I think Mr. Rocard has been very clear: there is a problem; the`\
+` Commision put forward a solution, that has to be approved by the two`\
+` legislative bodies, one of them has not accepting by an overwhelming`\
+` majority, and the subject is going back to the Commission. Now, very`\
+` formaly, the Commission can say "well, you didn't want my solution,`\
+` so there'll be no solution". This, you can say that would be`\
+` unacceptable attitude. If there is a problem, we have to find a`\
+` solution which can be approved by those who can approve it. So I`\
+` think the Commissionners, who in the Parliament were so hastened to`\
+` say in public and in private that the Parliament has to be carefull,`\
+` because if it'd say "no", there wouldn't be any more proposals,`\
+` they've lost an excellent occasion to keep silent. And Mr. Rocard is`\
+` saying the Commission would not be able to maintain the situation in`\
+` real terms, and formally they can. And legally, you couldn't`\
+` criticize them of doing so. But perhaps Mr. Rocard could explain`\
+` this better, because his opinion is that formally they could, but`\
+` in real terms they couldn't -- that's what I've thought I understood`\
+` you to say...`
+
+### Answer from Rapporteur Rocard 26:53-31:21 (FR/EN) {#answer_from_rapporteur_rocard_2653_3121_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**
+
+## Question for Libération from Jean Quatremer 31:21-31:39 (FR/EN) {#question_for_libération_from_jean_quatremer_3121_3139_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**
+
+### Answer from Rapporteur Rocard 31:39-34:11 (FR/EN) {#answer_from_rapporteur_rocard_3139_3411_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**
+
+### Adding from President Borrell 34:11-34:43 (FR/EN) {#adding_from_president_borrell_3411_3443_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**
+
+## Question for Radio Radicale from David Carretta 34:43-35:19 (FR/EN) {#question_for_radio_radicale_from_david_carretta_3443_3519_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**
+
+### Answer from Rapporteur Rocard 35:19-38:21 (FR/EN) {#answer_from_rapporteur_rocard_3519_3821_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**
+
+## Question for Reuters from Huw Jones 38:21-39:12 (EN/EN) {#question_for_reuters_from_huw_jones_3821_3912_enen}
+
+-   English transcription
+
+` Yes, a question for Mr. Borrell. Can you give any comments on the`\
+` lobbying you've seen? Mr. Rocard has just mentionned the naval`\
+` battle and the abominable behaviour of some of the lobbyists. Are`\
+` you gonna ask the Commission or the Parliament seek for the steps,`\
+` regarding how lobbyists are controlled?`
+
+` [:Borrel :: « Des mesures sur le combat naval, vous dites ? » [Rires]`\
+` « Non, le combat naval, c'était amusant, non ? Non, ce n'est pas`\
+` ça... »]`
+
+` No, I'm referring to the lobbying in general, with this bill, I`\
+` mean, did it raise any concerns for the Parliament services? Is that`\
+` the ask for any particular steps to be taken?`
+
+### Answer from President Borrell 39:12-40:34 (ES+FR/EN) {#answer_from_president_borrell_3912_4034_esfren}
+
+-   [ Spanish original](PressConf050706Es "wikilink")
+-   Transcription of English simultaneous translation
+
+` In life, you shouldn't have too much of anything. You have to have`\
+` just the right measure of everything. That's inevitable that`\
+` organized lobbies defend their interests and they try to get close`\
+` to the Parliament and try to explain. And the difference between`\
+` explaining and lobbying and exercing pressure, well, is difficult`\
+` to define. But of course, we cannot prevent the people who are`\
+` interested in a subject from expressing their point of view, but of`\
+` course we don't want too much of it. I mean, if the lobbie are not`\
+` being so strong that they're dictating their solution on the people`\
+` voting on things. And of course, that would be a situation that`\
+` would require an institutional response. But I don't think we've`\
+` arrived there yet, certainly not. I mean, I've seen that the MEPS`\
+` are independant and that independance has not been invalidated by`\
+` the presence of the lobbies and they have every right to be here. I`\
+` don't know if Michel has any different view of the problem but I`\
+` think, for the moment, this isn't a situation which require an`\
+` institutional response.`
+
+### Answer from Rapporteur Rocard 40:34-41:46 (FR/EN) {#answer_from_rapporteur_rocard_4034_4146_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**
+
+## Question for XXX 42:20-43:52 (IT/EN) {#question_for_xxx_4220_4352_iten}
+
+*Thanks to review française translation, that was based upon a
+preliminary transcription from the english spoken translation.*
+
+-   [ Italian original](PressConf050706Fr "wikilink")
+-   English translation (FFII)
+
+` I speak Italian. Mr. President, what happened today and also the`\
+` accusations, made by Rapporteur Rocard, and also by you, on the`\
+` Commission for not having listened, for have had an arrogant`\
+` behaviour, etc, is this all part of a trend, which we are beginning`\
+` to see now in the Commission that is listening too much to the`\
+` lobbies and not enough to European Parliament or indeed the civil`\
+` society? I'm thinking here of the pressure that the UNICE is putting`\
+` to go back from the REACH [Registration, Evaluation & Authorisation`\
+` of Chemicals] regulations, for not present the thematic strategies`\
+` on environment and air pollution... We know that Barroso has`\
+` received a letter from UNICE and he has promptly reacted by putting `\
+` off this July 20th decision upon thematic strategies on pollution...`\
+` So do you think that there is an answer by the Commission also at`\
+` the crisis due to the "No" to the referenda that is going toward a`\
+` more listening to industrial's lobbies and less listening to the`\
+` Parliament and the public opinion and the civil society, the exact `\
+` contrary of what, probably, the Commission should do instead?`\
+` Thanks.`
+
+### Answer from President Borrell 43:52-45:38 (ES/EN) {#answer_from_president_borrell_4352_4538_esen}
+
+-   [ Spanish original](PressConf050706Es "wikilink")
+-   Transcription of English simultaneous translation
+
+` Well, let's not go overboard here. We shouldn't exagerate. I mean,`\
+` we are keeping things on proportions. We're not calling into`\
+` question the Commission in how it functions, nor waging any`\
+` interinstitutional battle. As Mr. Rocard said, this is just a`\
+` unprecedented situation and we're facing many new situations in`\
+` this legislature. So, we started up questionning the composition of`\
+` the Commission and since then we've been constantly in a new `\
+` situation. I mean, this had never happened before. Simply I have`\
+` limited myself to say that even if the Commission has scrupulously,`\
+` formally, respected the interinstitutional agreement, because we've`\
+` been informed at every moment of their positions, I really think,`\
+` frankly, that we have to see what the Parliament thinks on a debate`\
+` what we have to do. As Mr. Rocard said, there's a problem that we`\
+` can't avoid here. I mean, part of legislative bodies here doesn't`\
+` like this solution, so we just have to seat together and decide`\
+` what we do, and not taking unilateral decisions. And I as said, the`\
+` Commission formally, they're covered by the Treaty, but I don't`\
+` think this an answer we want to give. We want a cooperative,`\
+` coordinated solution to these problems. But of course, I don't want`\
+` to go overboard and get into another type of situations we don't`\
+` want to get into.`
+
+## Question for XXX 45:38-46:22 (ES/EN) {#question_for_xxx_4538_4622_esen}
+
+-   [ Spanish original](PressConf050706Es "wikilink")
+-   Transcription of English simultaneous translation
+
+` President, this results of 648 vote, you've been presented this as`\
+` an overhaul rejection of the Commission's proposal. But we know that`\
+` in this results, there are two main positions: one which was in`\
+` favour and one which was against the proposal as presented by the`\
+` Commission. Can we say that this general result is the position of`\
+` the European Parliament against the Commission's proposal? I think`\
+` it's difficult to say that, when you know the result includes two`\
+` divergent positions.`
+
+### Answer from President Borrell 46:22-46:49 (ES/EN) {#answer_from_president_borrell_4622_4649_esen}
+
+-   [ Spanish original](PressConf050706Es "wikilink")
+-   Transcription of English simultaneous translation
+
+` Well, it's like with the "No"s to the Constitution. There are the`\
+` "No"s to the Constitution which are "No"s because it seems it's too`\
+` little and others, because it seems it's too much. But when you add`\
+` the heterogeneous "No"s, you reach that result. I mean, I'm not`\
+` inside the mind of each MEP and noone was in his mind, but that's`\
+` the number of "No"s there were. I don't know whether Mr. Rocard`\
+` wants to add anything...`
+
+### Answer from Rapporteur Rocard 46:49-48:24 (FR/EN) {#answer_from_rapporteur_rocard_4649_4824_fren}
+
+-   [ French original](PressConf050706Fr "wikilink")
+-   English translation: **to be done**

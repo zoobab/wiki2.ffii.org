@@ -1,0 +1,822 @@
+# FFII Analysis of European Patent Litigation Agreement {#ffii_analysis_of_european_patent_litigation_agreement}
+
+\[ [ EPLA](EplaEn "wikilink") \| [ Community
+Patent](ComPatEn "wikilink") \|
+[Consultation](http://consultation.ffii.org "wikilink")\]
+
+------------------------------------------------------------------------
+
+-   **The software patents the European Patent Office granted (outside
+    its competence) will be made enforceable.**
+-   **Litigation will be more expensive, for no discernable advantage.**
+-   **We are witnessing the executive taking over the judiciary. We have
+    independent national courts and Supreme Courts for civil patent
+    cases, we will have a dependent European Patent Court.**
+-   **We will see US style litigation in Europe.**
+
+------------------------------------------------------------------------
+
+## Contents
+
+-   Introduction
+-   Analysis
+    -   -   EPLA
+        -   Relation with EU
+-   Attachments
+    -   -   Draft Agreement, with comments
+        -   Draft Statute, with comments
+
+## Introduction
+
+The goals of European Patent Litigation Agreement (EPLA) are: improve
+the enforcement of European patents, enhance legal certainty and promote
+the uniform application and interpretation of European patent law.
+
+While these goals may seem highly desirable, it is good to realise that
+in the United States a centralised patent litigation system was created
+some 25 years ago. In the U.S. the streamlined system has led to grave
+problems, companies want reform. With EPLA, litigation costs will go up,
+causing problems for Europe\'s strength: the Small- and Medium sized
+Enterprises. Since most patents are in practice currently enforced in
+only one jurisdiction, mandatory litigation in a centralised court will
+only increase costs without discernable advantage. The basic assumptions
+underlying the European Patent litigation Agreement need review.
+
+EPLA itself is excessive. EPLA leads to an overconcentration of power in
+the hands of an uncontrollable group of people. The judges can be
+re-appointed after 6 years, which makes them dependent. Basically the
+same people will appoint the President and Vice-Presidents of the
+European Patent Office (EPO Office), the members of the internal EPO
+Office\'s Boards of Appeal and the judges of the European Patent Court.
+Members of the EPO Office\'s internal Boards of Appeal and members of
+national patent offices\' Boards can be a judge at the European Patent
+Court at the same time! The executive takes over the judiciary. The
+software patents the European Patent Office granted (outside its
+competence) will be made enforceable this way. The reservoir of software
+patents will be unleashed. Furthermore, EPLA uses an outdated damages
+system, and EPLA does not have compulsory licenses. Retroactive
+liability opens the possibility for legal extortion. The language
+advantage is on the side of the patent applicant, the languages system
+is Western-Europe centered. U.S. style litigation will benefit
+litigators, not innovators.
+
+EPLA creates an uncontrollable, excessive situation, for higher costs,
+without discernable advantage.
+
+## Analysis
+
+### Litigation will be more expensive, for no discernable advantage {#litigation_will_be_more_expensive_for_no_discernable_advantage}
+
+A litigation case before the EPLA court will at least be twice as
+expensive as litigation before the national courts of Germany, France or
+the Netherlands.
+
+The European Commission writes in its FUTURE PATENT POLICY IN EUROPE,
+[preliminary
+findings](http://ec.europa.eu/internal_market/indprop/docs/patent/hearing/preliminary_findings_en.pdf "wikilink"):
+
+\|\| \"EFPIA is one of the few stakeholders who point out that EPLA
+benefits might be overstated because the risks and costs have not been
+fully appreciated. If it is true, as statistics seem to suggest, that
+cost of litigation in a centralised court would be twice that of
+proceedings in France or Germany, and if most patents are in practice
+currently enforced in only one jurisdiction, then mandatory litigation
+in a centralised court will only increase costs without discernable
+advantage. EFPIA also has concerns about the quality of decisions
+similar to those of EGA.\" \|\|
+
+The costs for litigation can found in the EPO Office impact assesment,
+[annex
+1](http://www.european-patent-office.org/epo/epla/pdf/impact_assessment_annex1_2006_02.pdf "wikilink")
+and [annex
+2](http://www.european-patent-office.org/epo/epla/pdf/impact_assessment_annex2_2006_02.pdf "wikilink").
+The EPO Office itself concludes that EPLA litigation will be less
+expensive, but can only reach this conclusion by adding up litigation in
+3 countries. Since most patents are in practice currently enforced in
+only one jurisdiction, this is a nice example of playing with
+statistics.
+
+EPLA will be good for those with deep pockets, the multinationals and
+patent trolls. For !SMEs, the situation will be worse. Already,
+litigation is often too expensive. More often they will not be able to
+enforce their patents. More often they will be forced to settle if
+accused of infringement.
+
+And all this, without **\"discernable advantage\"**.
+
+### Political vacuum {#political_vacuum}
+
+\|The Administrative Committee shall be composed of the representatives
+and alternate representatives of the Contracting States. Each
+Contracting State shall be entitled to appoint one representative and
+one alternate representative.\|
+
+[(EPLA
+Draft)](http://www.european-patent-office.org/epo/epla/pdf/agreement_draft.pdf "wikilink")
+
+Like the European Patent Organisation (EPO), the European Patent
+Judiciary (EPJ) will **not** be led by someone who is politically
+accountable, who will **not** answer to a parliament. The EPO has 31
+ministers who are all a little bit in charge, by way of proxy. The
+ministers (or state secretaries) may hardly know what is happening. The
+parliaments of the Contracting States will be even less informed. If the
+public would like to change something it would have to address 31
+parliaments, which would have to influence 31 ministers. The political
+power is fragmented, creating a political vacuum. From a democratical
+point of view, this governance model is a black box.
+
+It can be maintained the European Union lacks legitimacy too, yet, the
+Union does have a Parliament that is gaining influence, does have a
+Commission which can be sent home, its Council consists of the ministers
+of the sovereign countries. This governance model is far to be preferred
+over the EPO / EPJ model, which lacks legitimacy.
+
+### Captive incrowd {#captive_incrowd}
+
+A patent office sells rights, a product that doesn\'t them cost
+anything. In fact, the more easy they grant them, the better the
+business, the more happy the buyers. Such a situation calls for strong
+**external checks and balances**. The EPO governance model does not
+provide these. The patent incrowd is a captive incrowd, they share the
+same interests and beliefs. They do not represent the public at large.
+
+### Administrative puppy courts {#administrative_puppy_courts}
+
+Granting patents is an **administrative** process. The EPO\'s unit that
+sells the patents, the European Patent Office (EPO\'s Office), has its
+own Boards of Appeal. These Boards
+
+-   are internal,
+-   are not independent. The judges are re-appointable,
+-   the members are [appointed by
+    decision](http://www.european-patent-office.org/legal/epc/e/ar11.html#A11_3 "wikilink")
+    of the Administrative Council, taken on a proposal from the
+    President of the European Patent Office.
+
+Lord Justice Jacob [said about the
+Boards:](http://news.zdnet.co.uk/business/legal/0,39020651,39247521,00.htm "wikilink")
+
+\|\"The European Patent Office Boards of Appeal is a pretty damn silly
+system  they are judges and yet they are part of the European Patent
+Office and that stinks. They shouldnt be part of the \[Patent\]
+Office,\"\|
+
+### Policy change, outside competence {#policy_change_outside_competence}
+
+The EPO Office\'s internal Boards of Appeal introduced software patents.
+The pervasive introduction of software into patent law is not a
+\"technical\" legal decision but a policy change definitively outside
+the competence of any court, requiring proper treatment as a policy
+change.
+
+### Independent national civil courts {#independent_national_civil_courts}
+
+There is no appeal possible against these Boards of Appeal decisions.
+Once the patent is granted, the patent holder can litigate against
+assumed infringers in **civil** cases. The proposed European Patent
+Court will decide these **civil** cases, which are currently handled by
+independent national courts and Supreme Courts  the highest form of
+administering justice. These judges handle civil cases where patent
+owners and assumed infringers meet, they see both sides of the coin. In
+these courts the policy changes introduced by the EPO\'s Office\'s
+Boards of Appeal have met resistance. This is the reason we do not see
+much software patent litigation in Europe.
+
+### European civil puppy court {#european_civil_puppy_court}
+
+The member states\' representatives to the ECJ\'s Administrative
+Committee will often be the same representatives as the representatives
+to the EPO\'s Administrative Council. They come from the member states\'
+executive and patent offices. Basically the same people will appoint the
+President and Vice-Presidents of the European Patent Office (EPO
+Office), the members of the internal EPO Office\'s Boards of Appeal and
+the judges of the European Patent Court. Members of the EPO Office\'s
+administrative Boards of Appeal and officials from patent offices will
+qualify. The judges can be re-appointed after 6 years, which makes them
+dependent.
+
+The European Patent Court\'s judges will be appointed by an executive
+style, politically unaccountable organisation. Members of EPO Office\'s
+internal (the lowest form of administering justice) administrative (a
+different kind of law) Boards will qualify. Members of the European
+Patent Office\'s internal Boards of Appeal and members of national
+patent offices\' Boards can be a judge at the European Patent Court **at
+the same time!** An unheard of mixture of executive and judiciary. An
+unheard of overconcentration of power.
+
+### Reservoir of software patents {#reservoir_of_software_patents}
+
+The EPLA court\'s judges will be appointed by captive representatives
+that do not represent the public at large.
+
+The policy changes introduced by the EPO Office\'s internal and not
+independent Boards of Appeal will be validated by the European Patent
+Court this way. **The software patents the European Patent Office
+granted (outside its competence) will be made enforceable.** The
+reservoir of software patents will be unleashed.
+
+### Executive taking over the judiciary {#executive_taking_over_the_judiciary}
+
+We are witnessing the executive taking over the judiciary. We have
+independent national courts and Supreme Courts for civil patent cases,
+but we will have a dependent European Patent Court.
+
+### U.S. style litigation {#u.s._style_litigation}
+
+In the U.S., decades ago a central court was created. [Brian Kahin,
+Cnet:](http://news.com.com/How+Washington+reinvented+invention/2010-1028_3-6057761.html "wikilink"):
+
+\|Twenty-five years ago, Congress created a specialized court to hear
+all patent appeals. Although Congress did not change patent law, the
+idea was to make the judicial interpretation of patent law more
+consistent. Yet the new Court of Appeals for the Federal Circuit quickly
+became a champion for its specialty. It made patents easier to get,
+easier to enforce, more powerful and available for virtually anything,
+including software and business methods.\|
+
+Without a change of law, the landscape changed dramatically. And one
+stop litigation is profitable for the right holders. We will see U.S.
+style litigation in Europe. Europe is at the crossroads. We can go the
+same way as the U.S., or call it a narrow escape.
+
+### Damages
+
+In the U.S. big software vendors demand changes in the way damages are
+awarded, since things clearly run out of hand.
+[ZDnet:](http://news.zdnet.com/2100-3513_22-5867383.html "wikilink")
+
+\|Emery Simon, chief counsel for the Business Software Alliance, said
+his organization\'s large member companies\--including Microsoft, Apple
+Computer, Macromedia and Symantec\--favor a system that would award
+damages \"based on the proportional value of patented invention(s)
+alone, not on the cumulative value of all features included on a large
+product, which, for a computer, can be thousands and thousands of
+features.\"\|
+
+The fact Europe does not have much software patent litigation, and does
+not have European scale litigation, with its economy of scale profits,
+camouflages the damages problem. Europe has the excellent possibility to
+solve the problem before European scale litigation is introduced, before
+things run out of hand here as well.
+
+In the U.S. the patent system has become a problem, many companies
+demand reform. We should not follow the U.S. We better watch the
+problems and the solutions that present themselves, and only act then.
+
+### Captive Working Party {#captive_working_party}
+
+When the drafts were ready the Working Party issued a
+[declaration:](http://www.european-patent-office.org/epo/epla/pdf/declaration.pdf "wikilink"):
+
+\|\"It believes that the drafts\' detailed and comprehensive provisions
+for a unitary European court system with a decentralised court of first
+instance, a centralised appellate court and a Facultative Advisory
+Council offer an optimum solution for users of the European patent
+system.\"\|
+
+The \"users of the European patent system\" are those who acquire
+patents, and for them the drafts may \"offer an optimum solution\". May
+we call the Working Party that wrote the drafts captive? The users seem
+happy. Software companies like Microsoft and SAP are lobbying for EPLA.
+Since in the U.S. these companies want features which the EPLA does not
+have or undoes (damages reform, compulsory licenses), we may wonder
+whether they are mistaken about the nature of EPLA.
+
+### Compulsory licenses {#compulsory_licenses}
+
+EPLA does not mention compulsory licensing at all. In the U.S. big
+software vendors [want compulsory
+licenses.](http://www.law.com/jsp/article.jsp?id=1115370308794 "wikilink")
+Here a working party just throws it out without telling anyone about it.
+The Community patent proposal on the other hand has extensive provisions
+on compulsory licenses. See also
+[eBay](http://news.xinhuanet.com/english/2006-05/16/content_4553630.htm "wikilink")
+and [z4 Technologies v.
+Microsoft](http://www.patentlyo.com/patent/2006/06/ebay_casualty_e.html "wikilink").
+
+### Retroactive liability {#retroactive_liability}
+
+Retroactive liability opens the possibility for legal extortion. It will
+be profitable to apply for broad, vague and trivial patents, and then
+send out notices after some years. Since going to court will often be
+too expensive, !SMEs will have to pay. See art 67 Agreement.
+
+### Languages
+
+People should have the right to defend themselves in their own language.
+Already Small and Medium sized Enterprises go broke over litigation
+costs.
+
+Using the language(s) used at the European Patent Office would be
+Western Europe centered.
+
+------------------------------------------------------------------------
+
+## Relation with European Union {#relation_with_european_union}
+
+The EPO is not a Community organisation, the EPLA Patent Court will not
+be a Community organisation.
+
+[The Commission
+stated](http://www.europeanaffairs.org/archive/2003_winter/2003_winter_109.php4 "wikilink")
+that after the adoption of the \"[Council regulation on jurisdiction and
+recognition and enforcement in civil and commercial
+matters](http://europa.eu.int/scadplus/leg/en/lvb/l33054.htm "wikilink")\"
+((EC) No 44/2001, of 22 December 2000), Members States do not have the
+power to sign the EPLA.
+
+Accession to the EPLA will not solve the problems. As a consequence of
+art 32 EPLA, accession to the EPLA will (partially) imply accession to
+the EPC, will (partially) make the EPC Community law. As a result
+subsequent changes of the European Patent Convention will also be
+Community law. Most problematic aspects of accession to the EPC will be
+problematic aspects of accession to the EPLA.
+
+The EPC can not only be changed by a diplomatic conference, the European
+Patent Organisations Administrative Council can change the
+Implementing Regulations, as well as Parts II to VIII and Part X of
+the European Patent Convention, thereby taking on the role of
+legislator. The constituting treaties of the European Community, with
+its precise rules on making Community laws, will be bypassed. The
+European Parliament will be bypassed. We will have Community law without
+democratic control. Accession to the EPC undermines the European
+Communitys constituting treaties.
+
+Accession to the EPLA can only be concluded after the assent of the
+European Parliament has been obtained, see
+<http://wiki.ffii.org/EuAccEplaEn>
+
+See also
+<http://www.ffii.org/~ante/compat/FFII.org_EC-accession-EPC.pdf>
+
+### Two European Courts {#two_european_courts}
+
+To make it all work, the European Community probably has to accede to
+the European Patent Convention as well. Commissionar
+[McCreevy](McCreevy "wikilink") [said about such an
+accession](http://wiki.ffii.org/LtrMcCreevy051223En "wikilink"): \"The
+Community would accede to the EPC which would have as a consequence that
+the latter becomes Community law.\" Ultimately the ECJ decides on
+Community Law. Of course it will be unacceptable that a non-Community
+institution will ultimately decide on Community law. This will reduce
+the EPLA court to a lower court\...
+
+If we take the Community serious, it is impossible to have a
+non-Community European patent court.
+
+The EPLA court is overexpensive on its own. How expensive will it be to
+have two European courts to decide patent matters?
+
+### European Court of Justice {#european_court_of_justice}
+
+The European Union has a proposal for a European scale patent court too,
+the Community patent related Community Patent Court, which would be part
+of the European Court of Justice (ECJ). [Art 2 and
+3](http://register.consilium.eu.int/pdf/en/04/st05/st05189.en04.pdf "wikilink")
+describe the way judges will be appointed. This would lead to a much
+higher quality, a much higher impartiality. ECJ judges can not hold
+another office
+[(art4)](http://europa.eu.int/cj/hu/instit/txtdocfr/txtsenvigueur/statut.pdf "wikilink").
+
+The European Union already has a Court, the highly prestigious European
+Court of Justice (ECJ). If we want a European Patent Court, let the ECJ
+handle patent cases. And do keep the members of the EPO\'s Office puppet
+court out.
+
+------------------------------------------------------------------------
+
+# Attachments
+
+-   Choice of articles from Draft Agreement on the establishment of a
+    European patent litigation system, with comments
+-   Choice of articles from Draft Statute of the European Patent Court,
+    with comments
+
+## Draft Agreement on the establishment of a European patent litigation system {#draft_agreement_on_the_establishment_of_a_european_patent_litigation_system}
+
+<http://www.european-patent-office.org/epo/epla/pdf/agreement_draft.pdf>
+
+\|Working Party on Litigation 16.2.2004 Draft Agreement on the
+establishment of a European patent litigation system\|
+
+\|Preamble THE CONTRACTING STATES, CONSIDERING that co-operation among
+the countries of Europe in the field of patents renders a significant
+contribution to the legal and economic integration of Europe, WISHING to
+promote the uniform application and interpretation of European patent
+law, to improve the enforcement of European patents\|
+
+including software patents
+
+\|Art. 5 Judicial independence. The European Patent Court, its judges
+and the Registrar shall enjoy judicial independence.\|
+
+Judges can be reappointed (art 17.3). May serve at the same time at EPO
+Boards of Appeal (Statute art 2 and 6). This does not guarantee
+independence.
+
+\|CHAPTER III ADMINISTRATIVE COMMITTEE \|
+
+\|Article 13 Composition The Administrative Committee shall be composed
+of the representatives and alternate representatives of the Contracting
+States. Each Contracting State shall be entitled to appoint one
+representative and one alternate representative. \|
+
+See introduction for the deficiencies of this governance model.
+
+\| (3) The Administrative Committee shall, in accordance with the
+Statute, appoint, re-appoint or remove from office, the judges and the
+Registrar of the European Patent Court. \|
+
+With a simple majority of the Contracting States represented and voting
+judges can be appointed, re-appointed or removed.
+
+\|Article 19 The budget of the European Patent Judiciary shall be
+financed from its own resources and, where necessary, from contributions
+made by the Contracting States. Regional Divisions shall be financed as
+laid down in Article 21a. Article 20 Own resources of the European
+Patent Judiciary\|
+
+A court is not a company. Courts have to be financed by public means to
+ensure integrity.
+
+\|Article 32 Substantive patent law to be applied by the European Patent
+Court For the purposes of litigation under this Agreement, European
+patents shall be subject to: (a) the provisions of this chapter, (b)
+those provisions of the European Patent Convention which apply to every
+European patent and which are consequently deemed to be provisions of
+this Agreement, and (c) those provisions of national law which have been
+enacted by the Contracting States to implement Article 65, Article 67,
+paragraphs 2 and 3, and Article 70, paragraphs 3 and 4, of the European
+Patent Convention.\|
+
+( FYI: Art. 65 Translation of the specification of the European patent
+Art. 67 Rights conferred by a European patent application after
+publication Art. 70 Authentic text of a European patent application or
+European patent )
+
+No mention at all of compulsory licenses. There will be European scale
+infringement cases, but no possibility of European scale compulsory
+licenses at the request of a private party. This compares very
+unfavorably with the Community patent.
+
+32 (b) Accession to the EPLA will (partially) imply accession to the
+EPC, will (partially) make the EPC Community law. See art 89.
+
+\|43 (5) Subject to the national law relating either to claims for
+damages caused by negligence or lack of good faith on the part of the
+proprietor of the patent, or to unjust enrichment, the retroactive
+effect of the revocation of a European patent under paragraph 3 shall
+not affect any final decision on infringement enforced prior to the
+revocation of the patent. \|
+
+This article clearly shows patent cases are a lottery. Here society
+says: if it goes wrong do not come knocking at our door.
+
+Sidenote: See Art. 33(2) CPC 1989,
+<http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41989A0695(01):EN:HTML>
+
+(longer, with repayment clause)
+
+\|Article 64 Damages (1) The European Patent Court may order the party
+who knowingly, or with reasonable grounds to know, infringes the
+European patent, to pay the injured party damages adequate to compensate
+for the injury suffered. \|
+
+or with reasonable grounds to know, has to be taken out. See art 67.
+
+\|(2) The European Patent Court shall have the same power in respect of
+a party who caused or tolerated such infringement, on the basis of his
+relationship with the party infringing the European patent, while it was
+in his power to stop it. \|
+
+Patent cases are lotteries. It is most often impossible to know in
+advance whether a patent is violated, art 43 even shows that final
+decisions may differ. Why then would a relation be held responsible?
+Tolerated and in his power to stop it are very broad. Normally,
+relations like to have an exemption from liability. Such an exemption
+may be seen as an indication the relation knew there may have been an
+issue and may on the contrary increase liability. This will have a
+disruptive effect.
+
+It is impossible to write software without violating patents. Do we have
+to stop all our relations from writing and using software?
+
+\|(3) Regarding the assessment and awarding of damages, the injured
+party shall, as far as possible, be restored to the position he would
+have been in if no infringement had taken place, and the party
+infringing the European patent shall not benefit from the infringement.
+(4) Damages shall not be punitive.\|
+
+\| Article 65 Kinds of damages (1) Damages shall compensate for any loss
+suffered by the injured party because of any infringing act. They shall
+include, without necessarily being confined to, (a) the profits the
+injured party would have made if no such act had taken place, or (b) any
+profits actually made or likely to have been made by the party
+infringing the European patent. (2) The European Patent Court may order
+the party infringing the European patent to lay open his books to the
+injured party or to such expert as the Court may designate. (3) If it is
+impossible or disproportionately difficult or costly to establish the
+real extent of any damages under paragraph 1, the European Patent Court
+may freely determine the amount of damages to be awarded, which shall in
+any event exceed the amount of the customary licence fee. (4) In
+awarding damages, the European Patent Court may also order the party
+infringing the European patent to perform, or refrain from, certain
+acts. \|
+
+\(1\) Implies you can take all products the owner could have sold and
+take that as the damage. But that is not what the invention itself is
+worth. First, you have to pay patent owner A for all the products he
+could have sold, then patent owner B for all the products he could have
+sold, then C and D, etc. There is no relation with the worth of the
+inventions itself, which are most often trivial, at best often only
+sequential additions. Why pay the full price to all that have a little
+stake in the product? One does not pay the full price of a car if one
+only buys a mirror, not? It is this system that makes the damages
+awarded in patent cases extreme and insane. This system may work in an
+one product - one patent situation, but not in an one product - many
+patents situation, which is the case in the software field (and in any
+field with sequential development).
+
+In the U.S, software companies are against such a system.
+<http://news.zdnet.com/2100-3513_22-5867383.html>
+
+This damages problem is a problem in all patent litigation systems, not
+just EPLA. But creating European scale litigation makes it much worse.
+
+The damages problem has to be solved before any European scale
+litigation is made possible.
+
+\(3\) which shall in any event exceed the amount of the customary
+licence fee Patents are exclusive rights, the owner can ask whatever he
+likes. An obligation that the damages must exceed the customary license
+fee may have an inflatory effect.
+
+\|Article 66 Indemnification of a party The European Patent Court may
+order a party, at whose request measures ordered by the Court were
+enforced, to provide the other party wrongfully enjoined or restrained
+with adequate compensation for the injury suffered as a result of such
+enforcement, and to pay his expenses. Article 65 shall apply mutatis
+mutandis.\|
+
+\|Article 67 Limitation of right to claim damages (1) The right to claim
+damages shall expire five years from the date on which the injured
+person became, or had reasonable grounds to become, aware of the
+infringing act. \|
+
+Retroactive liability. A patent holder will claim the assumed infringer
+had reasonable grounds to become aware. Retroactive liability opens the
+possibility for legal extortion. It will be profitable to apply for
+broad, vague and trivial patents, and then send out notices after some
+years. Since going to court will often be too expensive,
+[SMEs](SMEs "wikilink") will have to pay. or had reasonable grounds to
+become has to be taken out.
+
+\|(2) Notwithstanding paragraph 1, the right to claim damages shall
+expire five years after proceedings for damages were terminated without
+a decision or a settlement. (3) The parties may agree in writing to
+another period of limitation. \|
+
+\|Article 84 TRANSITIONAL AND FINAL PROVISIONS TRANSITIONAL PROVISIONS
+Scope \|
+
+\|This Agreement shall apply to (a) any European patent which at the
+time of its entry into force was already effective in one or more
+Contracting States, or was granted for and became effective in one or
+more Contracting States after that date\|
+
+The software patents already granted by the EPO Office. With an influx
+of EPO Office !BoA members, these patents will become enforceable.
+
+\|(b) any European patent application pending at the time of its entry
+into force, or filed on or after that date, unless proceedings on such
+European patent or patent application were initiated before a national
+court or other competent authority of a Contracting State prior to that
+date. Article 85 Jurisdiction of national courts during a transitional
+period\|
+
+Side note:
+
+\|If the EPLA is to be open to accession by the European Community, it
+is not sufficient merely to add a clause in Article 89. The possibility
+of accession by the EC has further implications. Appropriate solutions
+must be found for the definition of the contracting parties to the EPLA,
+the composition of the Administrative Committee and delegates\' voting
+rights, and for the provisions on financing the European Patent
+Judiciary. In-depth study may reveal further issues. Provision necessary
+because of the inclusion in the EPLA of the rules governing the FAC. \|
+
+There are major issues with accession, not only when it comes to the
+EPLA text.
+
+\|Article 89 Accession (1) This Agreement shall be open to accession by
+any Contracting State to the European Patent Convention [to the European
+Community](and "wikilink"). \|
+
+As a consequence of art 32, accession to the EPLA will (partially) imply
+accession to the EPC, will (partially) make the EPC Community law. See
+above, Analysis, Relation with EU.
+
+\|Article 93 Revision (1) This Agreement may be revised by a Conference
+of the Contracting States. (2) The Conference shall be prepared and
+convened by the Administrative Committee. The Conference shall not be
+validly constituted unless at least three- quarters of the Contracting
+States are represented at it. Adoption of the revised text shall require
+a majority of three-quarters of the Contracting States represented and
+voting at the Conference. \|
+
+three-quarters for revision
+
+------------------------------------------------------------------------
+
+## Draft Statute of the European Patent Court {#draft_statute_of_the_european_patent_court}
+
+Abbreviations:
+
+-   Community Patent Court: CPC (Community patent related)
+-   European Court of Justice: ECJ
+-   European Patent Office\'s Boards of Appeal: !BoA
+
+\|Working Party on Litigation 16.2.2004\|
+
+\|CHAPTER I JUDGES Article 2 Requirements for office Any person who has
+a good command of at least one of the official languages of the European
+Patent Office may be appointed as a judge of the European Patent Court,
+provided that he has sufficient experience of patent law and (a) has
+been or is a judge in one of the Contracting States to the European
+Patent Convention, (b) has been or is a member of a Board of appeal of
+the European Patent Office or a national patent office of one of the
+Contracting States to the European Patent Convention, or (c) has other
+equivalent experience enabling him to act as a judge of the European
+Patent Court.\|
+
+\|DK: opposes that a person be member of a !BoA and judge of the
+European Patent Court at the same time (see also Art. 6(1) Draft
+Statute)\|
+
+The European Patent Court will decide civil cases, now decided by
+national courts. It does make sense to appoint judges from the member
+states.
+
+Members of a Board of appeal of the European Patent Office or a national
+patent office on the other hand come from the administration. The Boards
+of Appeal have never been independent. Administrative law is a different
+kind of law.
+
+Judges of the highest European civil patent court can also be members of
+a Board of appeal of the European Patent Office or a national patent
+office, which are internal and not independent. An unheard of mixture of
+executive and judiciary.
+
+This compares unfavourably to the Community patent related CPC, which
+would be a part of the ECJ. ECJ judges can not hold another office.
+
+Article 4 The Judges may not hold any political or administrative
+office. They may not engage in any occupation, whether gainful or not,
+unless exemption is exceptionally granted by the Council. When taking up
+their duties, they shall give a solemn undertaking that, both during and
+after their term of office, they will respect the obligations arising
+therefrom, in particular the duty to behave with integrity and
+discretion as regards the acceptance, after they have ceased to hold
+office, of certain appointments or benefits. Any doubt on this point
+shall be settled by decision of the Court.
+
+<http://europa.eu.int/cj/hu/instit/txtdocfr/txtsenvigueur/statut.pdf>
+
+!BoA members and patent office officials have been engaged in enlarging
+the scope of patent law, which was outside their competence. There are
+political reasons not to appoint even former !BoA members, see the
+introduction for this.
+
+See also article 6.
+
+\|Article 3 Legally and technically qualified judges The European Patent
+Court shall comprise both legally and technically qualified judges.\|
+
+The Commission proposal for a Community Patent Court mentioned in an
+initial draft technically qualified judges as well.
+
+<http://register.consilium.eu.int/pdf/en/02/st13/13408en2.pdf> (point
+12)
+
+After Council Working Party discussion this idea was set aside. The
+Community Patent Court proposal now mentions (art 7) technical experts
+without voting right. The EPLA statute draft is outdated, not in line
+with Council vision.
+
+<http://register.consilium.eu.int/pdf/en/04/st05/st05189.en04.pdf>
+
+\|Article 4 Appointment (1) Judges shall be appointed by the
+Administrative Committee as legally or technically qualified judges for
+a term of six years, on a proposal from the Common Presidium. They may
+be re-appointed.\|
+
+Re-appointable judges are not independent. Basically, the same people
+will control the European Patent Office, will appoint the Boards of
+Appeal members and the European Patent Court judges. An enormous
+concentration of power, while the governance model is a political
+vacuum.
+
+The way judges are appointed compares unfavourable with the CPC.
+
+Article 2 The Community Patent Court shall consist of seven Judges, who
+shall be appointed for a period of six years. The membership shall be
+partially renewed every three years, replacing four and three members
+alternately. Retiring members shall be eligible for reappointment. The
+Judges shall be chosen from candidates presented by the Member States
+having an established high level of legal expertise in patent law. They
+shall be appointed by the Council on the basis of their expertise after
+consultation of a committee to be set up in accordance with Article 3.
+
+Article 3 An advisory committee to be set up for this purpose shall,
+prior to the appointment decision of the Council, give an opinion on the
+adequacy of the profile of candidates with a view to the function of a
+Judge at the Community Patent Court. It may attach to its opinion a list
+of candidates possessing the most appropriate high level of legal
+experience. Such a list shall comprise a number of candidates twice the
+number of Judges to be appointed by the Council. The advisory committee
+shall be composed of seven members chosen from among former members of
+the Court of Justice, the Court of First Instance, the Community Patent
+Court or lawyers of recognised competence. The appointment of members of
+the advisory committee and its operating rules shall be decided by the
+Council, acting by a qualified majority, on a proposal from the
+President of the Court of Justice.
+
+<http://register.consilium.eu.int/pdf/en/04/st05/st05189.en04.pdf>
+
+\| (2) The decision appointing a judge shall state the court for which a
+legally qualified judge is appointed and the fields of technology for
+which a technically qualified judge is appointed.\|
+
+Speaking about the CPC, Sir Robin Jacob critisised the idea of
+technically qualified judges, for different fields of technology:
+
+Judge Jacob claimed the EC showed a limited understanding of
+technology, in its suggestion of \"technically qualified judges\". \"The
+European Commission\'s proposal would have been a total disaster. They
+had an idea that there would be technical judges, and they said \'there
+are seven fields of technology\'. Only somebody with an arts degree
+could say that,\" he said
+<http://news.zdnet.co.uk/business/legal/0,39020651,39247521,00.htm>
+
+As said above, after Council Working Party discussion this idea was set
+aside for the CPC, it still lives on for the European Patent Court.
+
+\| Article 6 Incompatibility of other functions (1) Apart from being
+members of other courts or Boards of appeal of the European Patent
+Office or national patent offices, judges of the European Patent Court
+shall not pursue any gainful occupation unless authorised by the
+Executive Committee. Nor shall they occupy any political or
+administrative office.\|
+
+See art 2 for this.
+
+\| Article 10 Impartiality (1) A judge or assessor may not take part in
+the hearing of any case in which he has previously (a) taken part as
+adviser, (b) acted for one of the parties, or (c) been called upon to
+pronounce as a member of a court, tribunal or Board of appeal, of a
+commission of inquiry or in any other capacity. (2) If, for some special
+reason, a judge or assessor considers that he should not take part in
+the examination of a particular case, he shall inform the President of
+his Court accordingly. If, for some special reason, the President of a
+Court considers that a judge or assessor should not sit on a particular
+case, he shall notify him accordingly (3) Any party to the proceedings
+may object to a judge or assessor for any of the reasons mentioned in
+paragraph 1 or if he is suspected with good reason of partiality. A
+party may not object to the composition of a panel on the grounds of
+either the nationality of a judge or assessor or the absence from the
+panel of a judge or assessor of the nationality of that party. (4) Any
+decision under this Article shall be taken, in accordance with the Rules
+of Procedure, by a panel of the Court without the participation of the
+judge or assessor concerned.\|
+
+!BoA members and patent office officials have been engaged in enlarging
+the scope of patent law, which was outside their competence.
+
+\|Article 32 Language of the proceedings (1) The language of the
+proceedings shall be: (a) in proceedings before the Central Division of
+the Court of First Instance, the language of the proceedings before the
+European Patent Office\|
+
+The text is unclear about which proceedings. This shows how European
+Patent Office centered the draft is. The court will handle civil cases.
+There is no direct relation with the European Patent Office.
+
+The summary has: before the Central Division of the Court of First
+Instance, the language of the proceedings will be the language of the
+European patent or the European patent application
+
+The language advantage is on the side of the patent applicant.
+
+It would be a good principle if people have the right to defend
+themselves in their own language. Already now Small and Medium sized
+companies go broke over litigation costs.
+
+Using the language used at the European Patent Office would be
+Western-Europe centered.
+
+\|ES, PT: general reservation on language regime\|
+
+\|Article 33 Language of decisions Decisions of the European Patent
+Court shall be drawn up in the language of the proceedings.\|
+
+People will not even be able to read the decision in their own language.

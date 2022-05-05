@@ -1,0 +1,164 @@
+1.  1.  -\*- dok: tacke040825; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2004-08-25
+    3.  title: Staatssekretär entschuldigt sich bei Bitkom wegen
+        BMWA-Umfrage
+
+-\> \[ [ BMWA](SwpatbmwaDe "wikilink") \| [ News Log zur
+BMWA-Umfrage](BmwaLog0407De "wikilink") \| [
+Tacke](AlfredTackeDe "wikilink") \| [ Bitkom](SwpatbitkomDe "wikilink")
+\| [ Teufel](FritzTeufelDe "wikilink") \|
+[Tacke-Brief](http://swpat.ffii.org/papiere/tacke040825/tacke040825.pdf "wikilink")
+\| [ Geiger](HansjoergGeigerDe "wikilink") \| [
+Baggehufwudt](NilsBaggehufwudtDe "wikilink") \| [
+Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Der Staastssekretär im Bundesministerium für Wirtschaft und Arbeit, Dr.
+Alfred Tacke, entschuldigt sich in einem Brief an den
+Bitkom-Vorsitzenden Bernhard Rohleder für die vom BMWA im Juli
+veranstaltete Umfrage über die Auswirkungen von Softwarepatenten auf die
+Softwarebranche.*
+
+## Presse-Echo {#presse_echo}
+
+-   [Heise](http://www.heise.de/newsticker/meldung/50669 "wikilink")
+-   [silicon.de](http://www.silicon.de/cpo/news-wipo/detail.php?nr=16342 "wikilink")
+
+## Der Vorfall {#der_vorfall}
+
+Der Staastssekretär im Bundesministerium für Wirtschaft und Arbeit, Dr.
+Alfred Tacke, entschuldigt sich in einem [Brief an den
+Bitkom-Vorsitzenden Bernhard
+Rohleder](http://swpat.ffii.org/papiere/tacke040825/tacke040825.pdf "wikilink")
+für die [ vom BMWA im Juli veranstaltete Umfrage über die Auswirkungen
+von Softwarepatenten auf die Softwarebranche](Bmwa040715De "wikilink").
+
+Insbesondere bedauert Tacke, dass die vom Bitkom beanstandete Wortwahl
+(\"Softwarepatent\" statt \"computer-implementierte Erfindungen\") zu
+dem falschen Eindruck Anlass gegeben haben könnte, dass für die
+Bundesregierung die Frage der Patentierbarkeit von Software noch offen
+sei (und die von Bitkom zu diesem Thema vertretenen Interessen in Frage
+gestellt werden könnten).
+
+Tacke schreibt mit Datum 2004-08-25:
+
+` Sehr geehrter Herr Rohleder,`
+
+` vielen Dank für Ihr Schreiben vom 22. Juli 2004.  Ich bedaure, wennn`\
+` die Umfrage zur Wechselbeziehung zwischen Interoperabilität,`\
+` Patentschutz und Wettbwerb zu Missverständnissen und Irritationen über`\
+` die grundlegende Position der Bundesregierung zum Richtlinienentwurf`\
+` über die Patentierbarkeit computerimplementierter Erfindungen geführt`\
+` hat.`
+
+` Diese Umfrage ist Teil einer Studie, mit der ausschließlich die`\
+` Wechselbeziehungen zwischen Interoperabilität, Patentschutz und`\
+` Wettbewerb untersucht werden sollen.`
+
+` Keinesfalls soll diese Umfrage, wie es die bedauerlicherweise in`\
+` Tielen recht unglückliche Wortwahl suggeriert, zu einer Neuauflage der`\
+` Diskussion über die Patentierbarkeit von computerimplementierten`\
+` Erfindungen insgesamt führen.  Es ist schon jetzt absehbar, dass die`\
+` Fragebogenaktion keine Resultate bringen wird, die den Anforderungen`\
+` an wissenschaftlich fundierte Ergebnisse gerecht werden.  Dies liegt`\
+` auch daran, dass es -- nicht zuletzt wegen der Kürze der Erhebungszeit`\
+` -- vielen Unternehmen nicht möglich war, den Fragebogen zu`\
+` beantworten.`
+
+` Ich hoffe, Ihre Bedenken damit ausgeräumt zu haben.`
+
+Tacke und andere BMWA-Beamte hatten schon in der Vergangenheit immer
+wieder darauf aufmerksam gemacht, dass das Interessen der Patentbehörden
+an der nachträglichen Anerkennung und Absicherung ihrer
+Softwarepatentierungspraxis dem BMWA heilig ist und keinesfalls zur
+Diskussion gestellt werden darf.
+
+Aus Gesprächen in Regierungskreisen ist dem FFII bekannt geworden, dass
+diesmal die Initiative zur Einstampfung der BMWA-Studie von
+BMJ-Staatssekretär [ Hansjörg Geiger](HansjoergGeigerDe "wikilink")
+ausging, der sich eine Einmischung in die Politikdomäne des BMJ verbat.
+Dabei erfuhr Geiger Unterstützung sowohl von seinem BMJ-Kollegen [
+Alfred Hartenbach](AlfredHartenbachDe "wikilink") als auch von Kollegen
+des [ BMWA](SwpatbmwaDe "wikilink")-Patentreferats ([
+Baggehufwudt](NilsBaggehufwudtDe "wikilink"), [
+Weber-Cludius](SwantjeWeberCludiusDe "wikilink")).
+
+Bisher vom BWMA in Auftrag gegebene Studien belegten, dass die
+Softwarebranche zur Belohnung/Stimulierung ihrer Investitionstätigkeit
+keine Patente braucht. Dennoch empfahlen diese Studien in dem von
+Politikern gelesenen kurzen Zusammenfassungsteil, die Regierung möge den
+Patentämtern geben, was sie verlangen.
+
+Eine vom BMWA in Auftrag gegebene [ Studie des Infratest-Instituts vom
+April 2004](Bmwa0404De "wikilink") fordert ebenfalls die \"Ermöglichung
+der Patentierung computer-implementierter Erfindungen\", ohne jedoch in
+ihrem Hauptteil überhaupt Untersuchungen zum Thema Patente oder
+gewerblicher Rechtschutz anzustellen.
+
+Die Arbeit des BMWA zu Softwarepatenten wird im wesentlichen nicht von
+Alfred Tacke sondern vom Leiter des Patentreferats des Ministeriums, [
+Nils von Baggehufwudt](NilsBaggehufwudtDe "wikilink"), geleitet. Wir
+wissen nicht, in wie weit Tacke selber die Verantwortung für den Brief
+an Bitkom trägt.
+
+Bitkom hatte Anfang August vom BMWA gefordert, seine Untersuchung zu
+Softwarepatenten zu stoppen, da darin der \"irreführende\" Begriff
+\"Softwarepatente\" gebraucht wird. Die Entscheidung hierzu war von dem
+Vorsitzenden des \"Arbeitskreises für Geistiges Eigentum\" des Bitkom,
+IBM-Patentanwalt [ Fritz Teufel](FritzTeufelDe "wikilink"), getroffen
+worden. Bislang leitet Teufel, gestützt von den 5-10
+Großkonzern-Patentanwälten, die regelmäßig an seinen
+Arbeitskreissitzungen teilnehmen, weitgehend unangefochten die Arbeit
+des Bitkom zu Patentfragen. Seine Entscheidung, die Bundesregierung
+öffentlich zu kritisieren, führte jedoch zum Überkochen der Unruhe
+innerhalb des Vereins. Nach Erhalt zahlreicher Protestschreiben
+beauftragte Rohleder Teufels Arbeitskreis, den Bitkom-Standpunkt zu
+überarbeiten. Das Schreiben von Alfred Tacke dürfte nun dazu beitragen,
+den Druck von Teufel wegzunehmen.
+
+Laut [neuesten
+Zeitungsberichten](http://www.sueddeutsche.de/wirtschaft/artikel/593/38555/ "wikilink")
+verlässt Tacke gerade seinen Posten, um zu seinem früheren Minister [
+Werner Müller](WernerMuellerDe "wikilink") in die Energiewirtschaft
+überzuwechseln.
+
+## Presse über Tacke-Abgang {#presse_über_tacke_abgang}
+
+-   [FAZ](http://tinyurl.com/48phe "wikilink")
+-   [über Tacke\'s Desinterresse an Makroökonomie
+    FTD](http://www.ftd.de/pw/de/1094280024787.html?nv=cpwd "wikilink")
+
+### FTD: Tacke hatte keinen Sinn für gesamtwirtschftliche Fragen {#ftd_tacke_hatte_keinen_sinn_für_gesamtwirtschftliche_fragen}
+
+Zitat aus
+[FTD](http://www.ftd.de/pw/de/1094280024787.html?nv=cpwd "wikilink")
+(vielleicht interessant, denn gerade die Studien, die die Markoökonomie
+ins Bild gerückt haben haben ein schlechtes Bild von Softwarepatenten
+gegeben):
+
+Der Hausökonom des Kanzlers verlässt die Regierung. Ein Schaden für die
+Wirtschaftspolitik ist das nicht.
+
+Alfred Tacke wird als künftiger Vorstandschef der Steag voraussichtlich
+einen guten Job machen. Der promovierte Wirtschaftswissenschaftler, der
+zum Jahresende als Staatssekretär im Wirtschaftsministerium ausscheidet
+und zum Essener Stromkonzern wechselt, hat sich in seiner langen
+Beamtenkarriere einen Ruf als geschickter Macher und Verhandler
+erarbeitet. Als enger Vertrauter und Hausökonom von Gerhard Schröder hat
+er manche Krise gemanagt.
+
+Für die deutsche Wirtschaftspolitik ist sein Abgang dennoch kein
+Verlust.
+
+Der Kanzlerintimus Tacke verkörpert wie kein anderer die eklatanten
+Schwächen des Wirtschaftspolitikers Gerhard Schröder: Seine Leidenschaft
+gilt der Welt der Unternehmensführung und der Industriepolitik, des
+modernen Managements und der faszinierenden Technik.
+
+Für alles was mit volkswirtschaftlichen Argumenten oder gar mit
+Makroökonomie zu tun hat, zeigte des Kanzlers \"Troubleshooter\" stets
+nur fröhlich hochmütiges Desinteresse.
+
+Mit entsprechend negativen Folgen für die Wirtschaftsentwicklung.

@@ -1,0 +1,11 @@
+1.  1.  -\*- dok: [FishDemo0501](FishDemo0501 "wikilink"); lang: nl;
+        coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-01-24
+
+(Aanvullende) Nederlandse info
+
+De procedure om de zaak op de agenda van de landbouwraad te krijgen, is
+kennelijk gestart door Economische Zaken. Contactpersoon daarvoor is
+mevrouw Chan, te bereiken vanaf 9 uur op +31 70 3797295
+
+En natuurlijk: het is een wiki, zet er info bij als er nieuws is

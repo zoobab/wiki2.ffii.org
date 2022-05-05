@@ -1,0 +1,11 @@
+How odd: this is the only (first?) page I\'ve come across that\'s
+active, and yet it is empty. Changes in the past 6 hours, in the past 2
+days \... but no contents.
+
+*What this highlights **immediately** is that*
+
+**proper change history ala [MediaWiki](MediaWiki "wikilink") must be
+implemented.**
+
+(/Now, why does the markup for bold fail in that last string? Give me
+AWK and WP5.1!/)

@@ -1,0 +1,79 @@
+# 2004-06-22 DE Deutsche Bank against Software Patents, asks DE Gov\'t to Alter its Course {#de_deutsche_bank_against_software_patents_asks_de_govt_to_alter_its_course}
+
+\--\> \[ [ News](SwpatcninoEn "wikilink") \| [ Council
+2004-05-18](Cons040518En "wikilink") \]
+
+------------------------------------------------------------------------
+
+-   <http://www.dbresearch.com/PROD/DBR_INTERNET_EN-PROD/PROD0000000000175949.pdf>
+
+## Quotes
+
+### Page 1 {#page_1}
+
+`Innovation in Germany`
+
+`Windows of Opportunity`
+
+`Germany's innovation system badly needs a boost. Output is still strong, but`\
+`prospects are dim due to structural problems. Notorious weaknesses include`\
+`slow structural change towards cutting-edge technologies, weak supply of risk`\
+`capital, and declining contributions to innovation from `[`SMEs`](SMEs "wikilink")`.`
+
+`A long list of remedies is under discussion, and the government is slowly starting`\
+`to tackle some of them in its current "Year of Technology". However, they all aim`\
+`at catching up with other nations' higher standards. Catch-up is essential, but not`\
+`enough. To gain a true competitive edge, Germany needs to take steps others`\
+`have not taken, in domains where it is on an equal footing with competitors:`
+
+`...`
+
+-   Set up a balanced IP protection regime to foster the creation and
+    flow
+
+`  of ideas.`
+
+`  Stronger IP protection is not always better. Chances are that patents on`\
+`  software, common practice in the US and on the brink of being legalised `\
+`  in Europe, in fact stifle innovation. Europe could still alter course.`
+
+### Pages 6-7 {#pages_6_7}
+
+` Bearing this in mind, one could be tempted to consider ever stricter`\
+` IP protection regimes to provide ever more stimuli for innovation.`\
+` This conclusion is wrong, however. A prime example is patents on`\
+` software, which might at first sight be seen as a logical expansion of`\
+` the classic technology patent. But creating software differs markedly`\
+` from creating machinery and the like: MIT researchers Bessen and`\
+` Maskin argue that innovation in software is both strongly sequential`\
+` (one invention building on a previous one) and complementary (thriving`\
+` on parallel approaches to the same problem), far more so than in other`\
+` technology fields. In fact, they found empirical evidence that`\
+` software patenting substitutes R&D activity, rather than encouraging`\
+` it, and conclude: "For industries like software or computer, there is`\
+` actually good reason to believe that imitation becomes a spur to`\
+` innovation, while strong patents become an impediment". In accordance`\
+` with other academics, they strongly favour copyright over patent`\
+` protection for software. Copyrighting provides both adequate leeway`\
+` for sequential innovation and enough protection for marketable`\
+` software products.  The cited studies analyse the US software market,`\
+` where patentability has been introduced gradually since the early`\
+` 1980s, lowering patent granting standards and strengthening`\
+` enforcement (see figure).  20 years later, the EU is following suit:`\
+` the Council of the EU has introduced a controversially discussed`\
+` pro-patent bill to the European Parliament, due to be enacted this`\
+` summer. Thus, the rapidly closing window of opportunity for Germany`\
+` and the EU in general is to alter course, keep the legacy copyright`\
+` system for software, and thereby provide a better-balanced IP`\
+` protection regime than software?s old bull: the US3.`
+
+` Measures to take. `
+
+` The German government is among the tentative`\
+` critics of the EU software patent bill. This position should be `\
+` bolstered, by (1) putting forward academic evidence and (2) making`\
+` `[`SMEs`](SMEs "wikilink")`? concerns heard. `[`SMEs`](SMEs "wikilink")` are crucial providers of pathbreaking`\
+` innovations, but would be most adversely affected by patentability.`\
+` The majority of them is deterred by the costs of patenting themselves,`\
+` but would have to navigate around software patent portfolios`\
+` of large corporations.`

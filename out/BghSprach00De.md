@@ -1,0 +1,3 @@
+Vollständiges PDF-Dokument vom BGH hier:
+
+<http://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2000-5&nr=22861&Frame=2>

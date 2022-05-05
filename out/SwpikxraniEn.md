@@ -1,0 +1,334 @@
+1.  1.  -\*- dok: swpikxrani; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+\--\> \[ [ deutsch](SwpikxraniDe "wikilink") \] \[ [
+News](SwpatcninoEn "wikilink") \| [ EPO
+examples](SwpikmupliEn "wikilink") \| [
+Patents](SwpatpiktaEn "wikilink") \| [ Figures](SwpiknamcuEn "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+```{=mediawiki}
+{{http://genba.ffii.org/~arebenti/banner/PatActionEn.jpg}}
+```
+Collection of news stories and case studies showing how the granting,
+licensing and litigation of patents is affecting players in the software
+field.
+
+## Patent Enforcement News Stories {#patent_enforcement_news_stories}
+
+### International/Worldwide
+
+-   2006-11-20 US \[News.com: Wi-Fi standards face patent
+    threathttp://news.com.com/2100-7351-6137372.html?tag=tb\]
+-   2006-07-13 EU [Gamespot: Sony slapped with another patent
+    suit](http://www.gamespot.com/news/6153997.html "wikilink")
+-   2006-03-22 US [Minneapolis Business Journal: Digital River hit with
+    patent
+    suit](http://twincities.bizjournals.com/twincities/stories/2006/03/20/daily36.html "wikilink")
+-   2006-02-06 US [Slate: Weapons of business
+    destruction](http://www.slate.com/id/2135559/ "wikilink") (\--\> [
+    Blackberry](BlackberryEn "wikilink"))
+-   2006-01-13 US [Winewiki: Borland Patent SEH affects
+    GCC](http://wiki.winehq.org/CompilerExceptionSupport "wikilink")
+-   2005-12-19 US [Security Focus: OpenSSH cutting
+    edge](http://www.securityfocus.com/columnists/375 "wikilink") (\"The
+    second reason is more of a killer: many ECC methods are patented\")
+-   2005-05-12 EU [ZDNet: Wine development stifled by software
+    patent](http://news.zdnet.co.uk/software/developer/0,39020387,39198258,00.htm "wikilink")
+-   2005-05-12 US [ITP: HP, EMC lawsuits come to an
+    end](http://www.itp.net/news/details.php?id=15341&category= "wikilink")
+-   2005-05-06 US [NetworkWorld: Suit against Cisco names products,
+    damages](http://www.networkworld.com/news/2005/050605-connectel.html "wikilink")
+-   2005-04-13 US [ Alacritech ./ MS: Microsoft ordered to remove
+    feature from Longhorn](Alacritech0504En "wikilink")
+-   2005-04-13 WW [ZDNet UK: IBM patent sparks open source code
+    rewrite](http://news.zdnet.co.uk/software/linuxunix/0,39020390,39194883,00.htm "wikilink")
+-   2005-04-11 WW [PostgreSQL open source database reverts to inferior
+    caching scheme due to software
+    patent](http://www.postgresql.org/about/news.303 "wikilink")
+-   2005-03-05 EU [ iTunes/iPod under threat from pending US/EU
+    Patent](Apple0503En "wikilink")
+-   2005-02-15 US [Red Herring: Yahoo filed software patent infringement
+    suit against SME Xfire last
+    week](http://www.redherring.com/Article.aspx?a=11277&hed=Passionate+demos+at+Demo§or=Capital&subsector=VentureCapital "wikilink")
+-   2005-02-15 US [Wirelessweek: Padcom vs.
+    [NetMotion](NetMotion "wikilink")](http://www.wirelessweek.com/index.asp?layout=document&doc_id=1340003490&verticalID=34&vertical=Business+and+Finance&industry= "wikilink")
+-   2005-02-04 JP [ FFII: Matsushita sues [MSWord](MSWord "wikilink")
+    Competitor Off the Market](Ichitaro0502En "wikilink")
+-   2005-01-06 WW [Debian: MPEG encoders excluded from Linux
+    distribution because of patent
+    enforcement](http://www.debian.org/News/weekly/2005/01/ "wikilink")
+-   2004-10-30 WW [Linux-Kernel Mailinglist: Writing open source
+    graphics drivers more and more difficult due to
+    patents](http://kwiki.ffii.org/Smirl041025En "wikilink")
+
+### Stories With References to European Patents {#stories_with_references_to_european_patents}
+
+-   2005-06-29 US [PR: Virgin Entertainment to License
+    [NeoMedia](NeoMedia "wikilink")\'s
+    [PaperClick](PaperClick "wikilink")
+    Technology](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050629005231&newsLang=en "wikilink")
+    (also [granted in
+    Europe](http://www.neom.com/press_releases/2005/20050524.jsp "wikilink"))
+-   2005-06-21 EU [p2pnetwork: [VideoLan](VideoLan "wikilink") under
+    serious threat](http://p2pnet.net/story/5292 "wikilink")
+-   2005-06-14 EU [Forbes: EU confirms investigation into telecom
+    standards
+    body](http://www.forbes.com/work/feeds/afx/2005/06/14/afx2091429.html "wikilink")
+-   2005-06-14 EU [Forbes: EU Commission probes telecom standards body
+    over \'patent ambush\'
+    fears](http://www.forbes.com/markets/feeds/afx/2005/06/14/afx2091266.html "wikilink")
+-   2005-06-12 US [Inquirer: RIM, Nokia, world+dog sued over phone
+    network
+    patent](http://www.theinquirer.net/?article=23886 "wikilink") ([EP
+    equivalent](http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0474717+&F=8 "wikilink")
+    was also granted but has expired)
+-   2005-05-24 EU [Australian IT: Futures
+    lawsuit](http://australianit.news.com.au/articles/0,7204,15359298%5E24170%5E%5Enbv%5E24169,00.html "wikilink")
+-   2005-05-04 EU [FinExtra: Trading Technologies serves eight weeks
+    notice on Refco end
+    users](http://www.finextra.com/fullstory.asp?id=13628 "wikilink")
+-   2005-04-28 EU [PR: Absolute Software Signs Patent Licensing
+    Agreements for PC Theft Recovery with Two Computer Security
+    Companies, Files another Patent for New
+    Invention](http://biz.yahoo.com/prnews/050428/to112.html?.v=4 "wikilink")
+-   2005-04-18 EU [ZDNet UK: Funds firm faces patent
+    suit](http://news.zdnet.co.uk/business/legal/0,39020651,39195418,00.htm "wikilink")
+    (-\> [ TT vs
+    [EasyScreen](EasyScreen "wikilink")](Easyscreen0503En "wikilink"))
+-   2005-04-18 EU [HTML Fix It: Software patent: 2.5 cent trade tax to
+    Chicago software firm](http://htmlfixit.com/?p=596 "wikilink") (-\>
+    [ TT vs
+    [EasyScreen](EasyScreen "wikilink")](Easyscreen0503En "wikilink"))
+-   2005-04-18 EU [Out-Law.com: Trading software firm files patent
+    suit](http://www.out-law.com/php/page.php?page_id=tradingsoftwarefir1113826033&area=news "wikilink")
+    (-\> [ TT vs
+    [EasyScreen](EasyScreen "wikilink")](Easyscreen0503En "wikilink"))
+-   2005-04-15 UK [FinExtra: Trading Technologies turns patent fire on
+    Man
+    Group](http://www.finextra.com/fullstory.asp?id=13522 "wikilink")
+    (-\> [ TT vs
+    [EasyScreen](EasyScreen "wikilink")](Easyscreen0503En "wikilink"))
+-   2005-04-13 WW [ FFII: KDE instant messenger Kopete on strike against
+    patents on IM technology](KopeteNetStrike0504En "wikilink")
+-   2005-03-24 UK [FinExtra: [EasyScreen](EasyScreen "wikilink")
+    destabilised by software problems and patent
+    uncertainties](http://www.finextra.com/fullstory.asp?id=13419 "wikilink")
+    (-\> [
+    [EasyScreen](EasyScreen "wikilink")](Easyscreen0503En "wikilink"))
+-   2004-11-00 [ Digital Theater Systems uses EP864146 to threaten
+    features out of Videolan Project](Videolan0411En "wikilink")
+-   2004-08-25 US [Microsoft Asserts Patent on Sender-ID
+    Standard](http://www.aful.org/wws/arc/patents/2004-08/msg00071.html "wikilink")
+    (\--\> [ Microsoft](SwpatmicrosoftEn "wikilink") vs [
+    FLOSS](SwpatFlossEn "wikilink"), [
+    Standards](StandardEn "wikilink"))
+-   [ 2004-08-09 Google pays Yahoo for use of patent on serving ads
+    linked to keywords](Google040809En "wikilink") (patent also granted
+    in DE)
+-   2004-08-04 UK/EU [ Apple obtains patent license from E-Data for
+    downloading music and burning it to CDs in Europe; E-Data plans
+    infringment litigation in UK](Edata0408En "wikilink") (\--\> patent
+    20 of the [webshop](http://webshop.ffii.org/ "wikilink"))
+-   2004-07-28 US [ Intergraph](IntergraphEn "wikilink") cashes in on
+    Parallel Instruction and Clipper System patents: [Quarterly
+    Report](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20040728006055&newsLang=en "wikilink")
+    says they extracted 128 mn USD from Intel, 10 mn + 2% of yearly
+    earning from AMD, are facing counter-suits from HP, some in Europe)
+-   [ 2004-07-13 US Sony sued over image thumbnails
+    patent](Ampex040713En "wikilink")
+-   [ 2004-07-13 DE Neavis ./
+    [McDonald](McDonald "wikilink")\'s](Neavis040713De "wikilink")
+-   [ 2004-07-04 UK/IT Godado.it sues small companies with web searching
+    patent](Godado040704En "wikilink")
+-   [ 2004-06-25 DE Teles launches litigation campaign against internet
+    telephony companies](Teles040625En "wikilink")
+-   [ 2004 UK Government in Court over Bromcom Pupil Data Managment
+    Patent](Bromcom04En "wikilink")
+-   [ 2004-06-16 US/DK/SE/\... Acacia sues digital tv
+    operators](Acacia040616En "wikilink")
+-   [ 2004-06-14 UK/US BTG sues Microsoft with broad downloading &
+    antivirus update patents](Btg040614En "wikilink")
+
+### (Possibly) US only {#possibly_us_only}
+
+-   2005-12-28 US [TMCnet: Padcom(R) Files Suit Against
+    [NetMotion](NetMotion "wikilink") Alleging Invalid and Unenforceable
+    Patent](http://www.tmcnet.com/usubmit/2005/dec/1242727.htm "wikilink")
+-   2005-12-15 US [PC World: Visto Sues Microsoft Over
+    Patents](http://www.pcworld.com/news/article/0,aid,123938,00.asp "wikilink")
+-   2005-08-09 US [SC Magazine: Fortinet ordered to stop selling
+    antivirus in
+    U.S.](http://www.scmagazine.com/news/index.cfm?fuseaction=newsDetails&newsUID=f45a3e60-6ad1-4aca-8a37-7fc905a446f0&newsType=News "wikilink")
+-   2005-07-16 US [Slashdot: Amazon Slaps Orbitz and Avis With Patent
+    Lawsuit](http://yro.slashdot.org/article.pl?sid=05/07/16/2051246 "wikilink")\*
+    2005-07-15 US [ComputerActive: PVR sellers sued for patent
+    infringement](http://www.computeractive.co.uk/vnunet/news/2139836/pvr-sellers-sued-patent "wikilink")
+    (-\> [ Forgent](ForgentEn "wikilink"))
+-   2005-07-15 US [WhatPC: Microsoft settles Longhorn patent
+    suit](http://www.whatpc.co.uk/vnunet/news/2139837/longhorn-microsoft-settles-suit "wikilink")
+-   2005-07-15 US [TechWorld: Appeal court confirms Microsoft infringed
+    AT&T
+    patent](http://www.techworld.com/networking/news/index.cfm?NewsID=4040 "wikilink")
+-   2005-06-21 US [Blackenter: Enterasys Networks Files Patent
+    Infringement Lawsuit Against Foundry Networks and Extreme
+    Networks](http://www.blackenterprise.com/yb/ybopen.asp?section=ybbf&story_id=74073341&ID=blackenterprise "wikilink")
+-   2005-06-21 US [The Register: Apple sued over iTunes -
+    again](http://www.theregister.co.uk/2005/06/21/apple_sued_over_itunes/ "wikilink")
+-   2005-06-21 US [Slashdot: Apple Sued Over iTunes
+    UI](http://yro.slashdot.org/article.pl?sid=05/06/21/1418250&tid=155&tid=3 "wikilink")
+-   2005-06-21 US [BusinessWire: Enterasys Networks Files Patent
+    Infringement Lawsuit Against Foundry Networks and Extreme
+    Networks](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050621006088&newsLang=en "wikilink")
+-   2005-06-20 US [MacDailyNews: Apple sued over iTunes software
+    interface](http://macdailynews.com/index.php/weblog/comments/6085/ "wikilink")
+-   2005-06-14 US [Forbes: As Patent Deal Unravels, Anxiety Rises at
+    [BlackBerry](BlackBerry "wikilink")
+    Maker](http://www.forbes.com/technology/wireless/feeds/wireless/2005/06/14/wirelessbhsuper_2005_06_14_INHT_0000-3136-KEYWORD.Missing.html "wikilink")
+-   2005-06-09 CA [National Post: Research In Motion asks court to
+    complete US\$450M settlement with
+    NTP](http://www.canada.com/national/nationalpost/news/story.html?id=525ccc8e-8f95-4f8f-8869-87a22ac23cbf "wikilink")
+    (\--\> [ Blackberry](BlackberryEn "wikilink")
+-   2005-06-07 US [Boston Globe: A make-or-break court
+    case](http://www.boston.com/business/technology/articles/2005/06/07/a_make_or_break_court_case/?page=1 "wikilink")
+    (BCGI faces closure over patent on prepay phone billing software)
+-   2005-06-06 US [Reuters: Microsoft ordered to pay \$8.9 mln in patent
+    case](http://today.reuters.co.uk/news/newsArticle.aspx?type=internetNews&storyID=2005-06-06T202950Z_01_HO665177_RTRIDST_0_OUKIN-TECH-MICROSOFT-PATENT.XML "wikilink")
+-   2005-05-12 US [Market Watch: Findwhat.com stocks gained 33 cents
+    after Yahoo patent infringement lawsuit
+    failed](http://www.marketwatch.com/news/story.asp?guid=%7BDC89D3A5-7CDE-438D-8ACA-7057123BC817%7D&siteid=google "wikilink")
+-   2005-05-12 US [Clickz: Jury Fails to Determine Validity of Yahoo Ad
+    Tech
+    Patent](http://www.clickz.com/news/article.php/3504671 "wikilink")
+-   2005-05-12 US [PR: Avistar Announces Patent Infringement Lawsuit
+    Against TANDBERG (Videoconferencing
+    Technologies)](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050512005085&newsLang=en "wikilink")
+-   2005-04-29 EU [Computer Business Review: Symbol sues Intermec,
+    again](http://www.cbronline.com/article_news.asp?guid=D58F465B-664E-4CA1-B786-0608B797C274 "wikilink")\*
+    2005-04-14 US [LA Times: 4 Firms Named in Net Security Patent
+    Suit](http://www.latimes.com/business/la-fi-patent14apr14,1,779511.story?coll=la-headlines-business&ctrack=1&cset=true "wikilink")
+-   2005-04-14 US [The Inquirer: Legal smoke affects Microsoft Chimney,
+    Longhorn ](http://www.theinquirer.net/?article=22524 "wikilink")
+-   2004-04-13 US [InternetNews.com: Microsoft Hit with Patent
+    Injunction](http://www.internetnews.com/bus-news/article.php/3497561 "wikilink")
+-   2005-04-13 US [Slashdot: Startup granted injunction against
+    Microsoft](http://yro.slashdot.org/article.pl?sid=05/04/13/2159255&tid=109&tid=123 "wikilink")
+-   2005-03-24 US [Intermec PR: Intermec Files Patent Infringement
+    Claims Against
+    Symbol](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050323005867&newsLang=en "wikilink")
+-   2005-03-12 US [gameshout.com: Yahoo Countersued by
+    Xfire](http://www.gameshout.com/news/032005/article600.htm "wikilink")
+-   2005-03-12 IE [Finfacts: Microsoft pays \$60 million in
+    patent-infringement
+    claim](http://www.finfacts.com/irelandbusinessnews/publish/article_1000839.shtml "wikilink")
+-   2005-03-12 US [Register-Guard: Microsoft to pay \$60 million in
+    settlement with
+    company](http://www.registerguard.com/news/2005/03/12/d6.bz.digest.0312.html "wikilink")
+-   2005-03-13 US [MS PR\@I-newswire: MS and Burst.com
+    settlement](http://i-newswire.com/pr9947.html "wikilink")
+-   2004-11-05 US [EcommerceTimes: Amazon Embroiled in Another Patent
+    Suit](http://www.ecommercetimes.com/story/Amazon-Embroiled-in-Another-Patent-Suit-37913.html "wikilink")
+-   2004-11-05 US [The Register: Graphics patent holder sues Sony, MS,
+    Nintendo](http://www.theregister.co.uk/2004/11/05/graphics_patent_suit_update/ "wikilink")
+    (\--\> [ games](SwpatkelciEn "wikilink"))
+-   2004-10-25 US [DMReview: Expand Beyond Corp. Announces Second
+    Wireless
+    Patent](http://www.dmreview.com/article_sub.cfm?articleId=1012662 "wikilink")
+-   2004-10-21 US [Strategiy: [McAfee](McAfee "wikilink") awarded patent
+    for identifying malicious behavior in
+    software](http://www.strategiy.com/inews.asp?id=20041021064311 "wikilink")
+-   2004-10-21 US [CXOtoday.com: [McAfee](McAfee "wikilink") Bags Patent
+    For Malicious Code
+    Detection](http://www.cxotoday.com/cxo/jsp/index.jsp?section=News&subsection=Security&subsection_code=2&file=template1.jsp=1632 "wikilink")
+-   2004-10-04 US [ Sun loses against Kodak, must pay damages &
+    royalties for use of Java](SunKodak04En "wikilink")
+-   2004-09-03 US [ Amazon sued for patent infringement by its One-Click
+    Method](Amazon0409En "wikilink")
+-   2004-07-30 US [Class Action against Nassada for concealing defeat in
+    software copyright+patent
+    litigation](http://biz.yahoo.com/prnews/040730/nef022_1.html "wikilink")
+    (\"On June 14, 2004, Nassda revealed that the California state court
+    had issued orders on June 11, against defendants in the Synopsys
+    litigation which limited Nassda\'s defenses and established as fact
+    that the first 60,000 lines of source code of Nassda\'s Hierarchial
+    Storage and Isomorphic Matching (\"HSIM\") software product and all
+    ideas and concepts reflected therein were derived from Synopsys\'
+    code or other Synopsys materials while the defendants were employed
+    by Synopsys.\")
+-   [ 2004-07-28 US Creative Labs pressures Id Software (Doom 3) with
+    shadow calculation patent](Creative040728En "wikilink")
+-   [2004-07-16 US Triangle Business Journal \"Etrials hit with
+    patent-infringement
+    lawsuit\"](http://triangle.bizjournals.com/triangle/stories/2004/07/12/daily37.html "wikilink")
+-   [ 2004-07-09 US Adobe sued over patent infringement in
+    Acrobat](Adobe040709En "wikilink")
+-   [ 2003-02-20 Timeline charges huge royalties from Microsoft\'s SQL
+    Server customers](SwxaiTimelineEn "wikilink")
+
+### Australia
+
+-   2005-01-10 AU [News.com.au: \$4m e-health software
+    trashed](http://www.news.com.au/common/story_page/0,4057,11903556%255E15306,00.html "wikilink")
+    (the Pharmacy Guild of Australia claimed ownership of key aspects of
+    the medication record sharing system using a patent)
+
+## Patent Granting News Stories {#patent_granting_news_stories}
+
+### US
+
+-   2005-06-21 US [PharmaLive: invivodata Granted Patent on Patient
+    Compliance
+    System](http://www.pharmalive.com/News/index.cfm?articleid=250385&categoryid=23 "wikilink")
+-   2005-04-29 US [DMNews: I-Behavior Gets Co-op Database Software
+    Patent](http://www.dmnews.com/cgi-bin/artprevbot.cgi?article_id=32663 "wikilink")
+-   2005-03-02 US [BusinessWire PR: Symantec Granted Patent for Key
+    Information Security
+    Technology](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050302005193&newsLang=en "wikilink")
+-   2005-01-12 US [SightSound Technologies file injunction on
+    Napster](http://www.harddancelondon.com/modules.php?name=AvantGo&file=print&sid=347 "wikilink")
+-   [2004-07-21 US Slashdot: Microsoft patents \"encouraging viewers to
+    pay attention to television programs, commercials in particular\"
+    ](http://yro.slashdot.org/article.pl?sid=04/07/22/2156240&tid=155&tid=109 "wikilink")
+    (\--\>
+    [US6766524](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,766,524.WKU.&OS=PN/6,766,524&RS=PN/6,766,524 "wikilink"),
+    [ Microsoft](SwpatmicrosoftEn "wikilink"))
+-   2004-07-12 US [ Linux Weekly News: Oracle receives Patent on Content
+    Management](Oracle0407En "wikilink")
+-   [ Network Associates receives broad antispam
+    patent](Spam040601En "wikilink")
+-   [ Oracle patent on WCMS](Oracle040613En "wikilink")
+-   [ Microsoft patent on transmission of data through human
+    body](Mskin040624En "wikilink")
+-   [ Microsoft patent on task lists](Mspat040608En "wikilink")
+-   [ Microsoft patent on
+    \"double-click\"](Microsoft040602En "wikilink")
+-   [An impossible compression patent (5,533,051): pretends you can
+    compress any file by at least one
+    bit](http://gailly.net/05533051.html "wikilink")
+
+### Elsewhere
+
+-   2004-09-23 SG [TMCnet: ESCOM Granted Singapore Patent for Spam
+    Filtering
+    Technology](http://www.tmcnet.com/usubmit/2004/Sep/1076143.htm "wikilink")
+-   2004-08-22 AE [Khaleej Times: Network Associates gets
+    Antispam-Patent](http://www.menafn.com/qn_news_story_s.asp?StoryId=61383 "wikilink")
+
+## More lists of examples {#more_lists_of_examples}
+
+-   <http://www.gnu.org/patent-examp/patent-examples.html>
+
+## General criticism {#general_criticism}
+
+-   2005-04-12 EN [IBM/Seebach: Naturally occurring standards, patents
+    are a huge weakness for a
+    standard.](http://www-128.ibm.com/developerworks/power/library/pa-spec6.html?ca=dgr-lnxw07NaturalStandards "wikilink")
+
+`for instance, Unisys had a patent governing a bit of the algorithm used for GIF images. In general, patents are a huge weakness    `\
+`for a standard. The MP3 standard is used very widely by people who simply don't know -- or don't care -- that someone `\
+`theoretically has a patent on part of it, and only some code using the patented algorithm actually has a license from the `\
+`patent holder. Developers and users can be bitten by this many years after they make the design decision to use a patented `\
+`algorithm, due to the nature of patents (see Resources). De jure standards often require contributors to clearly disclose any `\
+`known patents; de facto standards generally have no way to do this.`

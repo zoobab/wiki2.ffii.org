@@ -1,0 +1,63 @@
+1.  1.  -\*- dok: odfccia060616; lang: fr; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2006-06-16
+
+# Des multinationales soutiennent l\'adoption de formats ouverts par le gouvernement français {#des_multinationales_soutiennent_ladoption_de_formats_ouverts_par_le_gouvernement_français}
+
+\[ [ Actualités des brevets logiciels](SwpatcninoFr "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Paris et Washington, le 16 Juin 2006 \-- Dans une lettre adressée au
+directeur de la DGME (Direction générale de la modernisation de
+l\'État), Ed Black, le président de la Computer & Communications
+Industry Association (CCIA), soutient fermement les récentes initiatives
+au sein du Référentiel Général d\'Intéropérabilité (RGI). En
+particulier, la CCIA accueille avec un grand enthousiasme la proposition
+d\'adoption du format Open Document (ODF) en tant que standard
+gouvernemental en France.*
+
+La CCIA est une association à but non lucratif d\'entreprises
+industrielles informatiques et de télécommunication, employant plus de
+600 000 salariés et générant des revenus annuels supérieurs à 200
+milliards de dollars. Elle compte parmis ses membres des noms aussi
+prestigieux que Fujitsu, Kodak, Nortel, Microsoft, Oracle, Redhat,
+Sabre, Sun Microsystems ou Yahoo!.
+
+Durant les débats concernant la directive sur les brevets logiciels, la
+CCIA avait soutenu des positions allant dans le sens de la lutte menée
+par la FFII. Fort de son expérience aux États-Unis, Ed Black avait
+notamment envoyé à tous les eurodéputés une lettre en juin 2005,
+accompagnée d\'un rapport de la Federal Trade Commission, pour les
+alerter sur les dangers causés par les brevets logiciels
+
+Aujourd\'hui, dans sa lettre au directeur de la DGME en France, la CCIA
+salue la décision d\'adopter un standard ouvert tel qu\'ODF. Selon Ed
+Black, « ODF sera d\'un grand apport pour encourager l\'innovation au
+sein du gouvernement et au-delà. Les standards ouverts minimisent les
+barrières à l\'entrée, garantissent une concurrence pleine, non faussée
+et ouverte, et obligent les éditeurs à rivaliser sur la qualité, la
+conception, le service et la performance, au lieu de le faire sur la
+conception de formats de fichier incompatibles. Pour faire court, les
+standards ouverts tels qu\'ODF améliorent tout à la fois le bien-être du
+gouvernement, du marché et des consommateurs. La nature non propriétaire
+de ces standards signifie que tout un chacun est libre de les utiliser.
+Cette ouverture s\'est avérée essentielle pour leur adoption à grande
+échelle et a abouti en dernier lieu à la création des logiciels, des
+services et des modèles d\'affaires basés sur Internet et le Web. ».
+
+Cette démarche de la France s\'inscrit dans la lignée d\'actions au
+Danemark, en Norvège, en Thaïlande ou dans l\'État du Massachussetts
+pour l\'adoption de standards ouverts.
+
+## Informations auxilliaires {#informations_auxilliaires}
+
+-   [Intégralité de la
+    lettre](http://www.ffii.fr/IMG/pdf/RGI-06-2006.pdf "wikilink")
+-   [RGI de rédaction collaborative sur règles du Référentiel Général
+    d\'Interopérabilitéhttp://www.adele.gouv.fr/wiki/](Wiki "wikilink")
+-   [Site web de la CCIA](http://www.ccianet.org "wikilink")
+-   [Membres de la
+    CCIA](http://www.ccianet.org/modules.php?op=modload&name=Members_List&file=index "wikilink")
+-   [Lettre de juin de 2005 de la CCIA sur les brevets
+    logiciels](http://www.ffii.fr/Traduction-du-rapport-de-la-FTC "wikilink")

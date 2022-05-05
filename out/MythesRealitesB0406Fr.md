@@ -1,0 +1,555 @@
+# Brevets Logiciels en Europe : Mythes et Réalités **En travaux** {#brevets_logiciels_en_europe_mythes_et_réalités_en_travaux}
+
+L\'objectif de ce document est de démonter les arguments des pro-brevets
+logiciels et les idées préconçues qu\'induisent leurs discours.
+
+Mythe 1 : La brevetabilité des inventions mises en oeuvre par ordinateur
+est un domaine technique qui doit être laissé aux spécialistes du
+domaine.
+
+Réalité 1 : Les principes des brevets sont assez simples : il s\'agit
+d\'un monopole temporaire (jusqu\'à 20 ans) accordé par l\'État pour
+promouvoir l\'innovation en avantageant l\'inventeur et l\'encourageant
+à décrire son invention. Il n\'est pas très difficile de se rendre
+compte que les logiciels ne se prêtent pas un un tel système pour au
+moins deux raisons :
+
+1\) La facilité avec laquelle les logiciels permettent de composer un
+très grand nombre de fonctionnalités les rend particulièrement
+vulnérables. En effet chacune des centaines de fonctionnalités mises en
+oeuvre par un logiciel peut avoir fait l\'objet d\'un brevet. L\'auteur
+d\'un seul programme peut se retrouver sous le coup de dizaines
+d\'attaques en contrefaçon de brevets.
+
+2\) Les besoins d\'interopérabilité (\"network effect\") induisent une
+standardisation de fait. Permettre à une entreprise d\'exclure toute
+concurrence sur une fonctionnalité peut donc permettre à celle-ci
+d\'exclure de fait toute compétition du marché. On n\'imagine par
+exemple pas qu\'il soit possible à une quelconque entreprise de
+concurrencer Microsoft sur le marché des logiciels de traitement de
+texte si l\'on accorde à cette société les brevets qu\'elle a demandés
+sur les formats de fichiers Word XML.
+
+Néanmoins les professionnels de la brevetabilité (avocats en P.I.,
+département de P.I. des grosses entreprises et offices de brevets) ont
+tout intérêt à présenter le sujet comme étant trop complexe pour le
+profane (fût-il législateur) afin de s\'assurer l\'exclusivité du
+discours légitime sur le sujet. Discours que l\'on peut facilement
+imaginer de la part de ceux qui travaillent par et pour les brevets.
+
+Mythe 2 : Les \"brevets logiciels\" sont des brevets sur des logiciels.
+
+Réalité 2 : Les opposants comme les partisans s\'accordent pour dire que
+le terme \"brevet logiciel\" est inadapté car les brevets ne concernent
+pas les logiciels en eux-même. Leurs points de vue et les conclusions
+qu\'ils en tirent sont cependant différents.
+
+Pour les partisans de l\'extension de la brevetabilité, les \"brevets
+logiciels\" ne concernent pas les \"logiciels en tant que tels\" (ce qui
+serait d\'ailleurs interdit par la Convention sur le brevet europén de
+Munich), mais l\'ordinateur qui, programmé selon un logiciel, est ainsi
+transformé en solution technique à un problème technique. Ce n\'est pas
+le logiciel qui est breveté, mais son utilisation. On peut alors se
+demander pourquoi les auteurs de la Convention de Munich ont pris la
+peine d\'exclure explicitement du champ de la brevetabilité les
+programmes d\'ordinateurs qui ne sont pas utilisés sur des ordinateurs.
+Les partisans de l\'extension de la brevetabilité considéraient
+d\'ailleurs cette exclusion comme inutile et ils ont d\'abord proposé de
+la supprimer. Devant l\'opposition massive aux \"brevets logiciels\",
+ils ont radicalement changé d\'attitude et ne manquent pas de rappeler
+dans chaque texte que les programmes d\'ordinateurs en tant que tels ne
+sont pas des inventions brevetables\...(sauf s\'ils tournent sur des
+ordinateurs!).
+
+Pour les opposants à l\'extension de la brevetabilité, c\'est l\'aspect
+réducteur de l\'appellation \"brevet logiciel\" qui est gênante car elle
+laisse penser qu\'un tel brevet ne concerne qu\'un logiciel,
+sous-entendant qu\'un autre logiciel ne sera pas concerné. Or les
+\"brevets logiciels\" (qu\'il faut bien appeler ainsi puisque c\'est la
+terminologie la plus simple et la plus répandue), ne portent pas sur des
+logiciels tels que les produits réalisés et vendus par les éditeurs de
+logiciels. Ces brevets portent sur des fonctionnalités, souvent
+élementaires, mises en oeuvre par des logiciels. La différence est
+capitale car c\'est l\'un des points fondamentaux qui font
+l\'originalité du logiciel. En verrouillant des fonctionnalités
+élémentaires, les détenteurs de brevets peuvent ainsi s\'approprier des
+marchés entiers et non des logiciels. Marchés sur lesquels, pour des
+raisons d\'interopérabilité, il ne sera pas possible de s\'implanter
+sans payer de licences aux détenteurs de brevets.
+
+Mythe 3 : La brevetabilité des inventions mises en oeuvre par ordinateur
+est un problème complexe, il est inévitable que le texte de loi qui le
+régit soit complexe et vague.
+
+Réalité 3 : Les brevets représentent un cas légal particulier car ils
+régissent les relations entre les déposants et les offices de brevets
+qui ont les mêmes intérêts objectifs, à savoir accorder chaque brevet
+(qui représente une source de revenu pour le déposant et pour l\'Office
+européen des brevets). Cette convergence d\'intérêts a amené l\'Office
+européen des brevets à interpréter l\'exclusion des programmes
+d\'ordinateurs \"en tant que tels\" de la brevetabilité de façon
+\"originale\" en accordant des brevets sur les \"inventions mises en
+oeuvres par ordinateur\". Pour cette raison, il est vital que la
+directive finalement adoptée soit particulièrement claire. Aucune
+régulation ultérieure ne peut être attendue de la confrontation entre
+déposants et offices de brevets, bien au contraire. Toute imprécision
+sera exploitée par ceux qui seront chargés de l\'appliquer, car ils sont
+naturellement partisans de la brevetabilité maximale.
+
+Mythe 4 : Le texte de la Présidence irlandaise du Conseil des ministres
+de l\'Union européenne est un texte de compromis entre la directive
+d\'origine de la Commission et le texte amendé par le Parlement européen
+en première lecture.
+
+Réalité 4 : Il serait grossier de vouloir déterminer le degré de
+compromis par une simple approche quantitative sur le nombre
+d\'amendements repris. Les amendements essentiels du Parlement qui
+définissaient strictement les conditions de brevetabilité n\'ont pas été
+repris par la Présidence irlandaise. Par certains aspects, comme
+l\'introduction de revendications de programmes, le texte de
+\"compromis\" est encore pire, c\'est-à-dire plus éloigné de l\'esprit
+du texte voté par le Parlement européen, que le document originel de la
+Commission.
+
+Mythe 5 : Le texte de la Présidence irlandaise clarifie le droit en
+matière de brevetabilité et n\'autorise pas la brevetabilité des
+logiciels.
+
+Réalité 5 : La clarification de la situation d\'incertitude juridique
+sur la brevetabilité des logiciels en Europe est l\'objectif affiché de
+la directive sur \"la brevetabilité des inventions mises en oeuvre par
+ordinateur\". Il faut tout d\'abord noter que les opposants à la
+brevetabilité des logiciels font remarquer que l\'incertitude n\'est pas
+tant dûe au texte (Article 52 de la Convention de Munich qui exclue de
+la brevetabilité les programmes d\'ordinateurs \"en tant que tels\")
+qu\'au décalage entre ce texte qui exclue la brevetabilité des logiciels
+et la pratique de l\'Office européen des brevets qui délivre des
+\"brevets logiciels\". L\'incertitude pourrait donc être supprimée en se
+contentant d\'obliger l\'Office européen des brevets à respecter la
+convention de Munich.
+
+Si une directive est nécessaire pour clarifier le droit, il faut
+qu\'elle soit claire sur la forme comme sur le fond. Sur la forme, le
+texte de la Présidence irlandaise du Conseil des ministres recourt à des
+doubles négations dont il est évident qu\'elle ne servent pas
+l\'objectif affiché de clarté comme le montre par exemple le paragraphe
+5(2): \"A claim to a computer program, either on its own or on a
+carrier, shall not be allowed unless [that can always be
+met](condition "wikilink")\". Sur le fond, le texte du Conseil des
+ministres enlève les amendements du Parlement (par exemple les articles
+2ba et 2bb) qui visaient à définir précisément le champ de la
+brevetabilité. Sur l\'objectif affiché de la directive, le texte de la
+Présidence irlandaise constitue donc objectivement un recul tant sur la
+forme que sur le fond par rapport au texte amendé par le Parlement
+européen.
+
+En conclusion, le texte de la Présidence irlandaise n\'autorise donc pas
+la brevetabilité des logiciels\...sauf s\'ils tournent sur des
+ordinateurs et qu\'ils ont un effet technique indéfini !
+
+Mythe 6 : La promotion des brevets par l\'Irlande en a fait une source
+de revenus importante pour ce pays. C\'est par souci de faire partager
+le secret d\'une R&D active et lucrative au reste de l\'Europe que
+l\'Irlande a profité de sa présidence au Conseil des ministres pour
+faire approuver un texte permettant une très large extension de la
+brevetabilité aux logiciels.
+
+Réalité 6 : L\'Irlande est un paradis fiscal pour les revenus issus de
+licences de brevets. Il semble raisonnable de voir là une explication
+plus plausible des flux considérables d\'argent que génèrent les
+licences de brevets dans ce pays. Parmi les multinationales les plus
+riches, on trouve maintenant des acteurs du marché des logiciels. Afin
+de pouvoir drainer légitimement les bénéfices de ces sociétés sous forme
+de frais de licences de brevets irlandais, il est très important pour
+l\'Irlande d\'étendre le champ de la brevetabilité aux logiciels.
+
+Mythe 7 : Les brevets protègent les petits auteurs de logiciels
+innovants en empêchant les grosses entreprises de s\'approprier leurs
+idées.
+
+Réalité 7 : De par leur nature, les logiciels sont la combinaison d\'un
+très grand nombre de fonctionnalités. Les brevets logiciels permettant
+de monopoliser des fonctionnalités élémentaires, il n\'est pas possible
+de réaliser un logiciel qui n\'enfreigne pas une grande quantité de
+brevets (ne serait-ce que sur la façon de lire les données sur un
+système de fichiers ou de disposer des informations à l\'écran). Un
+petit auteur de logiciels pourra breveter la fonctionnalité originale de
+son logiciel innovant mais il ne pourra pas mettre celui-ci sur le
+marché sans payer de licences aux autres détenteurs de brevets, qui sont
+en pratique les acteurs (Américains) dominants du marché. Ces derniers
+peuvent au contraire se permettre d\'user de leur vastes portefeuilles
+de brevets pour imposer des licences croisées aux petites entreprises
+qui se retrouvent alors obligées de leur laisser accès à leurs quelques
+brevets. Les brevets logiciels sont efficaces lorsque l\'on peut les
+amasser en plus grande quantité que les autres acteurs du marché, ce qui
+n\'est pas le cas des petits auteurs de logiciels.
+
+Mythe 8 : C\'est le manque d\'information qui explique le peu de succès
+des brevets logiciels auprès des PME.
+
+Réalité 8 : Comme on vient de le voir (Réalité 7), les brevets logiciels
+ne sont efficaces que si l\'on en a plus que les concurrents. Il est
+évident que les grosses sociétés auront toujours plus de moyens pour
+accumuler d\'énormes portefeuilles de brevets. Qui plus est, la
+possibilité qu\'ont les acteurs dominants de créer des \"standards de
+fait\" leur permet de rendre incontournables leurs technologies. Une PME
+ne pourra donc lutter \"à armes égales\" sur le plan des brevets que
+contre les autres PME. Il est alors évident que la solution du \"plus de
+brevets\" ne peut pas être appliquée globalement, puisque chacun ne peut
+pas avoir plus de brevets que les autres. L\'Office Européen des Brevets
+et les professionnels de le Propriété Industrielle voudraient néanmoins
+que l\'on essaie, pour des raisons évidentes.
+
+Mythe 9 : L\'innovation technologique s\'étant déplacée vers le domaine
+immatériel du logiciel, il est légitime de faire suivre la protection
+des brevets afin que les innovations soient toujours protégées et les
+inventeurs récompensés.
+
+Réalité 9 : Nous avons déjà vu (Réalité 1) que certaines spécificités du
+logiciel rendaient particulièrement nocif le monopole accordé.
+Heureusement, d\'autres spécificités du logiciel rendent aussi caduques
+les justifications du monopole. Ce monopole a pour origine
+l\'encouragement de l\'innovation en dédommageant l\'inventeur qui
+diffuse son invention sur un marché après de coûteux investissements en
+R&D, en évitant que ses concurrents puissent se contenter d\'observer et
+d\'imiter le produit innovant. Contrairement aux objets physiques, il
+n\'est pas suffisant d\'observer un logiciel du marché pour comprendre
+son fonctionnement. Les droits d\'auteurs empêchent déjà les concurrents
+de se contenter de copier le logiciel. Une imitation qui ne serait pas
+une copie exigerait une rétro-ingénierie très coûteuse en temps et en
+argent pour n\'importe quel logiciel non trivial. En conséquence, les
+économies sur la R&D des concurrents seraient compensées par les coûts
+de rétro-ingénierie et ces compétiteurs auraient eux aussi à payer des
+coûts de développement et de mise au point de leur propre
+implémentation. De plus, et c\'est là aussi un avantage du logiciel par
+rapport aux inventions matérielles, les coûts de R&D sont très
+notablement réduits par l\'absence d\'expérimentations physiques, les
+plus coûteuses en temps et en argent.
+
+Mythe 10 : Les problèmes liés aux brevets logiciels sont seulement dus à
+des problèmes de qualité des procédures d\'examen qui peuvent être
+améliorées.
+
+Réalité 10 : Comme nous l\'avons vu (Réalité 3), lors de l\'examen d\'un
+brevet, l\'examinateur et le demandeur sont tous deux intéressés
+financièrement à l\'acceptation du brevet. Il en résulte forcément un
+biais intrinsèque indépendant des conditions d\'examen des brevets. De
+plus, le logiciel est un domaine dans lequel l\'innovation n\'est pas
+seulement le fait de quelques acteurs du marché (cf. Réalité 9 sur les
+coûts moindres de la R&D logicielle), ce qui rend particulièrement
+difficile les recherches d\'antériorité. L\'objectif d\'une plus grande
+\"démocratisation\" des brevets par un abaissement des coûts est non
+seulement illusoire (à budgets constants, les acteurs dominants en
+profiteront aussi pour accroître encore leur portefeuilles de brevets),
+mais en contradiction avec tout objectif d\'augmentation de la qualité
+des examens, à moins de trouver un financement publique pour ceux-ci.
+Comme il ne sera sans doute pas possible de discriminer les
+bénéficiaires de cette aide publique, elle serait aussi, et même surtout
+(!), aux acteurs dominants Américains qui déposent l\'écrasante majorité
+des brevets logiciels \"Européens\".
+
+Mythe 11 : Il est inévitable que de mauvais brevets passent au travers
+des mailles du filet, mais les procédures d\'annulation de brevets
+permettent de résoudre ce problème.
+
+Réalité 12 : Ceci est malheureusement contredit par la pratique car les
+rationalités individuelles des acteurs ne permettent pas à ce mécanisme
+de fonctionner correctement. En effet, lorsqu\'une entreprise est
+confrontée à un brevet qu\'elle estime abusif et qu\'elle veut
+contourner, elle doit engager des frais d\'expertise afin de monter un
+dossier permettant d\'invalider ce brevet. Une fois ces frais engagés,
+deux possibilités s\'offrent à l\'entreprise :
+
+1\) contester publiquement le brevet pour le faire invalider et libérer
+ainsi le marché pour tous, c\'est-à-dire elle-même, mais aussi pour ses
+concurrents.
+
+2\) indiquer discrètement au détenteur du brevet qu\'elle a les moyens
+d\'invalider le brevet. Le détenteur et l\'entreprise ont alors un
+intérêt objectif à ne pas casser le brevet et limiter l\'exonération à
+l\'entreprise qui a engagé les frais d\'expertise. Le détenteur conserve
+son brevet et l\'entreprise n\'aide pas ses concurrents.
+
+Il est évident que beaucoup d\'entreprises choisiront la deuxième option
+ce qui a non seulement pour effet d\'induire une sous-estimation du
+nombre de brevets litigieux mais surtout de multiplier les frais cachés
+d\'expertises liés à la brevetabilité des logiciels.
+
+Mythe 13 : Les opposants aux brevets logiciels sont les partisans des
+logiciels libres qui veulent que les logiciels soient gratuits.
+
+Réalité 13 : Les opposants aux brevets logiciels sont les partisans
+d\'un marché libre des logiciels. On trouve une sur-représentation des
+partisans des logiciels libres parmi les opposants aux brevets logiciels
+pour deux raisons:
+
+1\) Les logiciels libres sont particulièrement menacés par les brevets
+logiciels car leur auteurs n\'ont pas les structures juridiques pour
+résister à une quelconque attaque et l\'exposition de leur code source
+en fait des proies faciles.
+
+2\) Les acteurs du logiciel libre forme une communauté particulièrement
+solidaire et informée, à motivation égale, ils sont donc plus à même de
+faire entendre leur voix.
+
+Aucun des arguments contre l\'extension de la brevetabilité, même
+avancés par des partisans du logiciel libre, ne repose sur les
+spécificités des logiciels libres. Il serait donc injustifié d\'en
+réduire les enjeux au seul logiciel libre. La seule gratuité que
+revendiquent les opposants à l\'extension de la brevetabilité, c\'est la
+possibilité de développer soit-même gratuitement ses propres logiciels
+et de pouvoir commercialiser librement les logiciels que l\'on a écrit
+soit-même. Ceci conformément aux accords TRIPS (cf. Mythe 22) et de la
+même façon que les auteurs d\'oeuvres littéraires peuvent jouir
+librement (commercialement ou non) des oeuvres qu\'ils réalisent
+eux-mêmes.
+
+Mythe 14 : Les brevets logiciels ne sont pas si catastrophiques que
+leurs opposants veulent le faire croire : le secteur Américain se porte
+plutôt bien, même en ce qui concerne les logiciels libres comme Linux
+dont IBM, le plus gros détenteur de brevets logiciels, est un soutien
+actif.
+
+Réalité 14 : La nocivité des brevets logiciels aux Etats-Unis est
+mitigée par deux aspects: 1) Cette extension de la brevetablité au
+logiciel est récente : elle n\'a donc pas empêché la naissance
+d\'innovations telles que les logiciels de bureautique et ceux qui
+utilisent l\'Internet (courriel, navigateur,\...) pour l\'excellente
+raison qu\'elle n\'existait pas encore ou était très peu répandue
+(premier cas en 1985, règles fixées en 1995). 2) La brevetabilité
+logicielle n\'est pas aussi néfaste qu\'elle pourrait l\'être aux
+Etats-Unis car les multinationales qui pourraient en profiter le plus
+préfèrent attendre que la brevetabilité des logiciels ne puisse plus
+être remise en cause (par exemple par un refus sans ambiguïté de
+l\'Europe). En effet, l\'avantage compétitif des pays refusant les
+brevets logiciels deviendrait alors trop évident.
+
+Mythe 15 : La non brevetabilité des logiciels en Europe n\'est pas si
+bénéfique que cela, l\'innovation logicielle n\'y est pas plus
+importante qu\'aux Etats-Unis.
+
+Réalité 15 : A cause du non respect de l\'exclusion des \"programmes
+d\'ordinateurs en tant que tels\" de la brevetabilité par l\'Office
+Européen des Brevets, les éditeurs Européens de logiciels préfèrent
+souvent ne pas enfreindre les brevets logiciels accordés illégalement
+par l\'OEB. Les conseils en Propriété Industrielle, qui ont un intérêt
+financier objectif à l\'extension de la brevetabilité, ne sont pas pour
+les encourager à ignorer ces brevets. En conséquence, il est
+indispensable de mettre fin à l\'insécurité juridique pour permettre aux
+entreprises Européennes de bénéficier réellement de l\'immunité aux
+\"brevets logiciels\" déjà accordés par l\'OEB (détenus dans leurs très
+grande majorité par des sociétés Américaines et Japonaises).
+
+Mythe 16 : Il est inévitable que certains acteurs dominants du marché se
+servent de brevets pour exclure la compétition, mais les règlements
+anti-trust sont là pour empêcher cela.
+
+Réalité 16 : Il suffit de considérer l\'action en cours contre Microsoft
+(six ans pour la constitution du dossier, deux ou trois ans prévus pour
+l\'appel) pour se rendre compte qu\'aucune PME n\'aura les moyens de
+survire à une confrontation de ce genre pour voir l\'issue du recours
+suivant le règlement anti-trust.
+
+Mythe 17 : Les entreprises Européennes, représentées par l\'European
+Information and Communication Technology Association (EICTA), veulent
+des brevets logiciels en Europe.
+
+Réalité 17 : Apple, Canon, Cisco Systems, Dell, Fujitsu, Hewlett
+Packard, Hitachi, IBM, Intel, JVC, Konica-Minolta, Lucent Technologies,
+Microsoft, Motorola, Nec, Sony, Sun, Toshiba font partie de l\'ECITA qui
+n\'est que le faux-nez Européen des acteurs dominants du marché. Au
+contraire, la Confédération Européenne des Associations de Petites et
+Moyennes Entreprises (CEA-PME), la Confédération Européenne Des
+Indépendants (CEDI)et European Small Business Alliance (ESBA),
+rassemblant 2 millions de PME Européennes, ont fait part de leur
+opposition à l\'extension de la brevetabilité au logiciel.
+
+Mythe 18 : Certaines entreprises Européennes seront obligées de
+délocaliser leur R&D en l\'absence de brevets logiciels Européens.
+
+Réalité 18 : Il n\'y a aucun rapport entre le lieu où est effectué la
+R&D et celui où est obtenu un brevet. Les entreprises n\'auraient donc
+aucun raison particulière de délocaliser ou non en fonction de la
+brevetabilité. La preuve en est apportée par les entreprises Américaines
+qui délocalisent leur R&D et même leur activité de rédaction de brevets
+!
+
+Mythe 19 : Les brevets logiciels sont une arme dont disposent les
+entreprises Américaines. Les entreprises Européennes en ont aussi besoin
+pour pouvoir se battre à armes égales.
+
+Réalité 19 : Les brevets Européens sont des monopoles sur le territoire
+Européen et non des monopoles accordés à des entreprises Européennes. En
+pratique, pour les brevets logiciels accordés illégalement par l\'OEB,
+il s\'agit dans le très grande majorité de monopoles sur le territoire
+Européen accordés à des entreprises Américaines et Japonaises. Rien
+n\'empêche non plus, à part le manque de moyens, les entreprises
+Européennes d\'obtenir des brevets logiciels sur le territoire Américain
+si elle le veulent.
+
+Mythe 20 : Un système de brevets logiciels permet un meilleur retour sur
+investissement de la R&D ce qui se traduit par une augmentation des
+budgets de R&D.
+
+Réalité 20 : Il s\'agit d\'une croyance qui n\'est étayée par aucune
+étude expérimentale. Au contraire, les quelques études réalisées (\"An
+empirical Look at Software Patents\" par Bessen et Hunt, Mars 2004) et
+les témoignages (R.J. Greenhall, audition de la FTC en 2002) montrent
+plutôt le contraire, les budgets liés aux brevets se substituant aux
+budgets de R&D. Cela pourrait s\'expliquer par le fait qu\'il est moins
+essentiel d\'innover pour se distinguer des concurrents s\'il est
+possible d\'exclure ceux-ci du marché grâce à des brevets logiciels.
+
+Mythe 21 : Même si les brevets logiciels dégradent globalement le marché
+des logiciels de part l\'entrave à la libre concurrence qu\'ils
+induisent, cette dégradation est au profit des acteurs dominants.
+Globalement, c\'est-à-dire à l\'échelle mondiale, l\'Europe, bien que
+derrière les Etats-Unis, est plutôt bien placée. Elle a donc,
+pragmatiquement plutôt qu\'idéologiquement, intérêt à promouvoir une
+brevetabilité dont elle pourrait elle aussi profiter.
+
+Réalité 21 : Les besoins spécifiques d\'interopérabilité des logiciels
+imposent souvent d\'avoir recours à des standards (officiels ou non) qui
+sont alors incontournables. La reconnaissances des brevets logiciels
+amènera forcément à la constitution de monopoles sur des marchés qui
+seront alors de type \"le gagnant ramasse tout\" (\"winner takes all\"),
+ne laissant pas plus de parts de marché aux seconds (Européens) qu\'aux
+derniers. Si l\'Europe doit se contenter de la seconde place sur le
+marché internationnal du logiciel, il vaut mieux pour elle que ce marché
+soit concurrentiel plutôt que monopolistique.
+
+Mythe 22 : Les brevets permettant la constitution d\'un \"marché de
+l\'innovation\", on pourrait penser que la recherche sera incitée car
+récompensée et que le marché des logiciels en bénéficiera globalement (y
+compris les PME), ceux qui s\'y opposent sont des gauchistes arriérés.
+
+Réalité 22: Cet argument pseudo-libéral est trompeur car il dissimule le
+fait que le marché de l\'innovation ainsi crée ne peut l\'être qu\'en
+détruisant le marché du logiciel en tant que marché libre (à cause des
+monopoles accordés). Il est évident qu\'une innovation ne peut avoir
+plus de valeur que la somme de ses applications. En conséquence, le
+marché de \"l\'innovation logicielle\" ne peut pas créer plus de
+richesses que le marché des logiciels (qu\'il remplace au lieu de le
+compléter!), même en admettant que le marché libre serait aussi efficace
+pour l\'innovation logicielle qu\'il l\'est pour les logiciels eux-même.
+
+Mythe 23: Les opposants aux \"brevets logiciels\" sont des
+ultra-libéraux qui ne tolèrent aucune intervention de l\'Etat sur le
+marché des logiciels.
+
+Réalité 23 : L\'extension de la brevetabilité au logiciel est
+effectivement une réglementation qui affectera le marché des logiciels
+en Europe. Pour simplifier et résumer les positions des différents
+courants politiques concernant la réglementation des marchés :
+
+Les libéraux préfèrent éviter d\'interférer avec le marché.
+
+Les sociaux-démocrates n\'hésitent pas à protéger les acteurs les plus
+faibles du marché.
+
+Certains pourront aussi vouloir au contraire aider les acteurs dominants
+du marché Européen afin de favoriser le développement d\'acteurs
+Européens les plus forts possibles pour affronter le marché
+international.
+
+De nature apolitique, la FFII ne porte aucun jugement a priori sur ces
+positions. Cependant, la répartition des brevets logiciels \"Européens\"
+déjà accordés illégalement par l\'OEB ne laisse aucun doute sur le fait
+que ceux-ci bénéficient dans leur écrasante majorité aux acteurs
+dominants étrangers Américains et Japonais, ainsi bien sûr, qu\'aux
+professionnels de la brevetabilité : offices de brevets et avocats
+spécialisés.
+
+La brevetabilité des logiciels étant une régulation du marché qui
+bénéficie aux acteurs dominants étrangers (non-Européens), la FFII
+considère qu\'elle devrait être combattue par tous les partis politiques
+Européens.
+
+Mythe 24 : De toutes façon, l\'Europe est obligée d\'accepter les
+brevets logiciels à cause des accords TRIPS qu\'elle a signé.
+
+Réalité 24 : Contrairement à une idée très répandue, non seulement les
+accords TRIPS n\'imposent pas la brevetabilité des logiciels, mais
+respectés scrupuleusement, ils devraient l\'interdire! L\'interprétation
+officielle de l\'OMC indique \"L\'obligation de protéger les programmes
+d\'ordinateur en tant qu\'oeuvres littéraires signifie notamment que
+seules les limitations autorisées pour les oeuvres littéraires peuvent
+être appliquées aux programmes d\'ordinateur.\" Bien sûr, les partisans
+de l\'extension de la brevetabilité expliqueront qu\'ils s\'agit
+seulement des programmes d\'ordinateurs \"en tant que tels\" et non pas
+de programmes d\'ordinateurs s\'exécutant sur des ordinateurs!
+
+Mythe 25 : De toutes façon, il est inutile de vouloir aller contre la
+Commission Européenne (faire le lien avec JURI et intérêts des avocats
+?), M. Frits Bolkestein l\'a dit lui-même : si le parlement ne se
+contente pas d\'amendements cosmétiques, la proposition de directive
+sera retirée et l\'OEB continuera à faire comme bon lui semble.
+
+Réalité 25 : Ce mythe concerne le futur, il n\'est donc pas possible de
+lui opposer une réalité présente. Ce mythe pourrait d\'ailleurs devenir
+réalité si nous baissons les bras et attendons le futur au lieu de le
+créer. Le Parlement Européen ne servira-t\'il que de caution
+démocratique à une instance qui n\'est pas élue ?
+
+# Références
+
+Mythe 1 :Alex Batteson, expert en informatique au sein du cabinet
+d\'avocats britannique Bristows, spécialisé dans les questions de
+propriété intellectuelle et industrielle:«Cela peut paraître peu
+démocratique, mais on peut soutenir que les amendements proposés
+montrent que les questions débattues sont trop complexes pour quon les
+laisse entre les mains du Parlement européen, qui peut difficilement
+avoir une expertise approfondie sur le sujet des brevets»
+<http://www.zdnet.fr/actualites/business/0,39020715,39125506,00.htm>
+
+Réalité 1 : Exemple d\'application simple de vente en ligne enfreignant
+de nombreux brevets
+<http://gibuskro.lautre.net/informatology/webshop/webshop_fr.html>
+
+Demande de brevet Européen numéro EP1376387 sur le format Word XML par
+Microsoft <http://news.com.com/2100-1013_3-5146581.html>
+
+Brevet Américan n°6,041,345 sur le format video ASF déposé par Microsoft
+utilisé pour empêcher la diffusion d\'un logiciel :
+<http://swpat.ffii.org/brevets/effets/asf/index.fr.html>.
+
+Réalité 2 : Distinction sophistique entre le \"programme d\'ordinateur
+en tant que tel\" et le programme d\'ordinateur s\'exécutant sur un
+ordinateur : \"Hence, albeit software as such cannot be subject-matter
+of a patent claim, running a computer with software may fall within the
+scope of a patent.\" \"Ainsi, bien qu\'il ne soit pas possible de
+revendiquer un logiciel, faire exécuter un logiciel sur un ordinateur
+peut tout à fait constituer une contrefaçon de brevet.\"
+<http://www.ipjur.com/01.php3>
+
+Exemple du nombre de brevets qui peuvent encombrer un simple format de
+fichier vidéo : la liste (20 pages !) des brevets couvrant le format
+MPEG 2 <http://www.mpegla.com/mpeg2/m2-att1.pdf>
+
+Mythe 4 :
+
+Réalité 6 : \"An exemption from corporate tax in Ireland in respect of
+income from patents (royalties) where the research and subject of the
+patent was developed in Ireland and an Irish resident owns the patent
+rights.\" \"Les revenus issus de (licences de)brevets dont les
+recherches ont été menées en Irelande et dont les propriétaires sont
+Irelandais sont exempts de taxation\"
+<http://www.kpmg.ie/inv_irl/Pubs/2004/Japan_multinationals.pdf>
+
+\"- Microsoft spends some IR£267m in the Irish economy on labour
+compensation, materials and services.
+
+\- Exports in 1999 amounted to 5.5 per cent of the total Irish exports
+of goods and services - Has generated direct income in the Irish economy
+in the year ending 2000 estimated to amount to just over 2 per cent of
+GNP.
+
+With 1,592 on-site employees, Microsoft thus accounts directly for
+almost 7 per cent of total employment in the software industry Has
+contributed an estimated at 5 per cent of all Corporation Tax payments
+to the Exchequer in the year 2000.\"
+<http://www.microsoft.com/ireland/aboutus/>
+
+Mythe : \"Patent protection is vital if we are to challenge the U.S.
+dominance in the software-inventions market,\" A .Mc Carthy
+<http://www.wired.com/news/technology/0,1282,63628,00.html?tw=wn_tophead_4>

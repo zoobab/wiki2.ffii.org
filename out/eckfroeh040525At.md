@@ -1,0 +1,27 @@
+# 2004-05-25 Ecker und Fröhlich (Linke Austria) vermischen Softwarepatente und Freie Software {#ecker_und_fröhlich_linke_austria_vermischen_softwarepatente_und_freie_software}
+
+-\> [ Neues](SwpatcninoDe "wikilink")
+
+Andre Rebentisch kommentiert den FM4-Chat mit Nikolaus Ecker und Helena
+Fröhlich (LINKE), 25.5.2004:
+
+`  Ganz wie beim Stichwort "Innovation" der Pawlowsche Reflex zuschlägt, und viele an das Rechtsinstrument `\
+`  "Patentierung" denken, ist wohl über alle Fraktionen hinweg inzwischen die Ansicht verbreitet, dass`\
+`  "Softwarepatentierung" etwas mit "Freier Software" zu tun habe. Eine Wahrnehmung, die den massiven `\
+`  Einsatz der Free Software Befürworter gegen die Softwarepatentierung Rechnung trägt, aber unterschlägt, `\
+`  dass Softwarepatente schon heute ein Problem für die gesamte mittelständische Industrie sind.`
+
+# Protokoll des Chats {#protokoll_des_chats}
+
+<http://fm4.orf.at/static/misc/chats/eckerfroehlich_chat_25052004.htm>
+
+`  (sternwelten) meine frage bezieht sich auf softwarepatente`
+
+`  (sternwelten) vor kurzem wuenschte sich der eu-rat diese zu erlauben, wie ist eure position dazu?`
+
+`  (eckerundfröhlich) die LINKE steht ohnehin für die verwendung freier software ein`
+
+Es finden im übrigen viele Chat-Veranstaltungen mit EU-Politikern im
+Wahlkampf statt, bei denen Betroffene, wie der uns unbekannte
+\"Sternwelten\" auf das Problem Softwarepatentierung aufmerksam machen
+können. <http://kwiki.ffii.org/index.cgi?ElectAct0405De>

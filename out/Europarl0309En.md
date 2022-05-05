@@ -1,0 +1,12 @@
+`an "a" is missing in 2b `\
+`"a contribution to the state of the art in technical field"`\
+`should be`\
+`"a contribution to the state of the art in a technical field `
+
+More links at: <http://wiki.ael.be/index.php/SwpatDirective>
+
+in the new parliament (full) version, some things have changed like
+\"technical field\" -\> field of technology\" (which is good) and
+numbering
+
+<http://www2.europarl.eu.int/omk/sipade2?SAME_LEVEL=1&LEVEL=4&NAV=S&LSTDOC=Y&DETAIL=&PUBREF=-//EP//TEXT+TA+P5-TA-2003-0402+0+DOC+XML+V0//EN>

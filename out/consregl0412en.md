@@ -1,0 +1,183 @@
+1.  1.  -\*- dok: [ConsRegl0412](ConsRegl0412 "wikilink"); lang: en;
+        coding: iso-8859-1; mode: fundamental; -\*-
+    2.  keyws: Council, Council of the European Union, Council of
+        Ministers, Consilium, Rules of Procedure of the Council of the
+        European Union
+
+# Rules of Procedure of the Council of the European Union {#rules_of_procedure_of_the_council_of_the_european_union}
+
+## Can any country ask for more time (delay an A-item)? - Answer: yes. {#can_any_country_ask_for_more_time_delay_an_a_item___answer_yes.}
+
+-\> \[ [ Council](SwpatconsiliumEn "wikilink") \| [
+COSAC](CosacEn "wikilink") \| [ Reversal](ConsRevers04En "wikilink") \|
+[Lenz Blog](http://k.lenz.name/LB "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+The Council is trying to quickly adopt the Political Agreement of May
+18th as Common Position, which currently no longer enjoys a really
+democratically justified qualified majority.
+
+Council constellations like the Agriculture and Fisheries Council are
+being used to pass such A-items. But any member of the Council (any
+member state delegation) can ask for any A-item to be withdrawn from the
+agenda, we show you the relevant article of the Council\'s Rules of
+Procedure.
+
+-   [Rules of
+    Procedure](http://ue.eu.int/uedocs/cms_data/docs/2004/6/21/Councils%20rules%20of%20procedure.pdf "wikilink")
+    ([html](http://europa.eu.int/smartapi/cgi/sga_doc?smartapi!celexapi!prod!CELEXnumdoc&lg=EN&numdoc=32004D0338&model=guichett "wikilink"))
+
+## Clauses:
+
+According to Article 3 clause 1, the provisional agenda must have been
+sent out 14 days before the Council meeting. It can change until the
+actual start of the meeting, only then, when it is adopted by all
+national delegations in unanimity at the start of the meeting, the
+agenda is final, not provisional anymore.
+
+The presidency secretariat include Items into agenda at any time before
+adoption at the start of the meeting. COREPER sittings can also decide
+on wether to add items to the provisinal agenda, some days before the
+meeting but the secretariat can add new items until the last minute.
+
+If such new items are added, then only under the rules of clause 7, i.e.
+by unanimous decision of all members. Also in COREPER, any member state
+can take off items not being put in time on the agenda.
+
+## Clauses 7-8, especially 8 {#clauses_7_8_especially_8}
+
+Any member of the council (any national delegation) can make additional
+statements and to ask for further discussion at the session itself.
+
+If a minister believes that an A-item is problematic, he can have the
+item withdrawn from the agenda.
+
+This must happen at the beginning of the meeting, or the member state\'s
+delegation must ask for this item to not be adopted and then the member
+state can also give a statement to fully withdraw it from the agenda, as
+happened on 21 December 2004.
+
+## Clause 3 {#clause_3}
+
+Clause 3 stipulates that the parliaments should have been informed 6
+weeks in advance. This presumably also applies to the [ explanatory
+document which was produced in all member state languages by the
+presidency in early december](Cons041203En "wikilink"). This explanatory
+document was produced in spite of contrary declarations from national
+parliaments, and no 6 weeks period was given.
+
+It seems the Council presidencies have choosen to ignore this rule. This
+could if it really applies here be subject to a court case challenging
+the approval at the EU Court.
+
+The rule also implies that the Parliaments should have had an
+opportunity to be informed before actual decisions were taken. If, as
+the Dutch Presidency insists, the agreement of 18th of May 2004 must be
+maintained even against the will of Poland and other countries who
+clearly do not support it, then it would follow that parliaments had to
+be informed in their languges 6 weeks before the unmofiable decision,
+i.e. in early April 2004. This also has not happened.
+
+## Quotes from the Rules of Procedure {#quotes_from_the_rules_of_procedure}
+
+### Article 3: Agenda {#article_3_agenda}
+
+1\. Taking into account the Council annual programme, the President
+shall draw up the provisional agenda for each meeting. The agenda shall
+be sent to the other members of the Council and to the Commission at
+least 14 days before the beginning of the meeting.
+
+\(1\) See statements (a) and (b) set out below: (a) Concerning Article
+3(1) and (2): \"The President will endeavour to ensure that, in
+principle, the provisional agenda for each meeting of the Council
+dealing with implementation of Title IV of Part Three of the EC Treaty
+and Title VI of the Treaty on European Union and any documents relating
+to the items involved reach members of the Council at least 21 days
+before the beginning of the meeting.\" (b) Concerning Articles 1 and 3:
+\"Without prejudice to Article 22(2) of the Treaty on European Union,
+which specifies that an extraordinary Council meeting may be convened at
+very short notice in cases requiring a rapid decision, the Council is
+aware of the need for matters relating to the common foreign and
+security policy to be dealt with swiftly and efficiently. The
+arrangements in Article 3 shall not prevent this need from being met.\"
+
+2\. The provisional agenda shall contain the items in respect of which a
+request for inclusion on the agenda, together with any documents
+relating thereto, has been received by the General Secretariat from a
+member of the Council or from the Commission at least 16 days before the
+beginning of that meeting. The provisional agenda shall also indicate by
+way of an asterisk the items on which the Presidency, a member of the
+Council or the Commission may request a vote. Such an indication shall
+be made once all the procedural requirements provided for by the
+Treaties have been complied with.
+
+3\. Items relating to the adoption of an act or a common position on a
+legislative proposal or a proposal for a measure to be adopted in
+accordance with Title VI of the Treaty on European Union shall not be
+placed on the provisional agenda for a decision until the six-week
+period provided for in point 3 of the Protocol on the role of national
+parliaments in the European Union has elapsed. The Council may
+unanimously derogate from the six-week period where the entry of an item
+is subject to the exception on grounds of urgency provided for in point
+3 of that Protocol.
+
+4\. Only items in respect of which the documents have been sent to the
+members of the Council and to the Commission at the latest by the date
+on which the provisional agenda is sent may be placed on that agenda.
+
+5\. The General Secretariat shall transmit to the members of the Council
+and to the Commission requests for the inclusion of items in the agenda
+and documents in respect of which the time limits specified above were
+not respected. If, by the end of the week preceding the week prior to a
+Council meeting, Coreper has not completed its examination of
+legislative items within the meaning of Article 7, the Presidency shall,
+unless considerations of urgency require otherwise and without prejudice
+to paragraph 2, remove them from the provisional agenda.
+
+6\. The provisional agenda shall be divided into Part A and Part B.
+Items for which approval by the Council is possible without discussion
+shall be included in Part A, but this does not exclude the possibility
+of any member of the Council or of the Commission expressing an opinion
+at the time of the approval of these items and having statements
+included in the minutes.
+
+7\. The agenda shall be adopted by the Council at the beginning of each
+meeting. The inclusion in the agenda of an item other than those
+appearing on the provisional agenda shall require unanimity in the
+Council. Items entered in this way may be put to the vote if all the
+procedural requirements provided for by the Treaties have been complied
+with.
+
+8\. However, an \"A\" item shall be withdrawn from the agenda, unless
+the Council decides otherwise, if a position on an \"A\" item might lead
+to further discussion thereof or if a member of the Council or the
+Commission so requests.
+
+9\. Any request for the inclusion of an \"other business\" item shall be
+accompanied by an explanatory document.
+
+### Article 7 Cases where the Council acts in its legislative capacity {#article_7_cases_where_the_council_acts_in_its_legislative_capacity}
+
+The Council acts in its legislative capacity within the meaning of the
+second subparagraph of Article 207(3)of the EC Treaty when it adopts
+rules which are legally binding in or for the Member States, by means of
+regulations, directives, framework decisions or decisions, on the basis
+of the relevant provisions of the Treaties, with the exception of
+discussions leading to the adoption of internal measures, administrative
+or budgetary acts, acts concerning interinstitutional or international
+relations or non-binding acts (such as conclusions, recommendations or
+resolutions). Where legislative proposals or initiatives are submitted
+to it the Council shall refrain from adopting acts which are not
+provided for by the Treaties, such as resolutions or declarations, other
+than those referred to in Article 9.
+
+## Further reading {#further_reading}
+
+-   Council Guide: [Part II: Comments on the Council\'s Rules of
+    Procedure](http://www.msa.lt/doc/council_guides_vol_2.pdf "wikilink")
+
+## See also {#see_also}
+
+-   Other kinds of [ Rules of Procedure](RulesOfProcedureEn "wikilink")

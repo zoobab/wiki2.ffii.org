@@ -1,0 +1,6 @@
+# FFII Hessen {#ffii_hessen}
+
+### Mailingliste
+
+Auf der Mailing-Liste hessen-parl diskutieren unsere Unterstützer aus
+dem Bundesland Hessen.

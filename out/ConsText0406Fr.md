@@ -1,0 +1,27 @@
+\--\> \[ [ english](ConsText0406En "wikilink") \] \[ [
+Appel](LtrCons0406Fr "wikilink") \| [
+Envoi](LtrConsRecvFr0406Fr "wikilink") \]
+
+------------------------------------------------------------------------
+
+## Bad links {#bad_links}
+
+-   No PDF version in french (actually th one that is shown is in
+    english and consists in an unreadable table
+-   tabs in header are pointing to english versions
+    (http://swpat.ffii.org/lettres/cons0406/repr/index.en.html and
+    <http://swpat.ffii.org/lettres/cons0406/parl/index.en.html>) instead
+    of french ones
+-   in bue: link \"ep\" points to
+    <http://swpat.ffii.org/analyse/cbe52/index.fr.html> which does not
+    exist, should point to
+    <http://swpat.ffii.org/analyse/cbe52/index.en.html> instead
+-   in bue: link \"fl\" points to
+    <http://swpat.ffii.org/analyse/cbe52/exeg/index.fr.html> which
+    doesn\'t exist, should point to
+    <http://swpat.ffii.org/analyse/cbe52/exeg/index.de.html> instead
+-   in Chr: link \"bp\" points to
+    <http://swpat.ffii.org/papiers/bpatg17-suche02/index.fr.html> which
+    doesn\'t exist, should point to
+    <http://swpat.ffii.org/papiers/bpatg17-suche02/index.en.html>
+    instead

@@ -1,0 +1,180 @@
+1.  1.  -\*- coding: utf-8 -\*-
+    2.  I have only made the page write-protected so not anyone can
+        modify it, not changed anything apart from this comment - jmaebe
+    3.  
+
+# Candidacy of Hartmut Pilch for president of FFII at GA 2005-11-29 {#candidacy_of_hartmut_pilch_for_president_of_ffii_at_ga_2005_11_29}
+
+-\> \[ [ Hartmut Pilch](HartmutPilchEn "wikilink") \| [
+Assembly](FfiiKonv0511En "wikilink") \| [
+Agenda](FfiiKonvAgenda0511En "wikilink") \| [
+Priorities](FfiiprojPriorEn "wikilink") \| [
+Plan](FfiiPlan0510En "wikilink") \]
+
+------------------------------------------------------------------------
+
+*What Hartmut would do in a further term as president of FFII.*
+
+## We need to get our act together, not to change labels {#we_need_to_get_our_act_together_not_to_change_labels}
+
+I\'m not planning to be president of FFII as a profession for life.
+Having founded and led for 6 years an organisation which other people
+are now bidding to take over is in itself a success, and a certain level
+of turmoil in such takeover struggles is perhaps unavoidable. Yet both
+the circumstances of the current struggle and the plans proposed by the
+counter-candidacy don\'t make it seem advisable for me to agree to such
+a succession. Rather I would prefer to work closely with a newly elected
+board in overcoming the impasses and get FFII on its feet, so that we
+can effectively do our work, which has lost none of its reasons of
+existence.
+
+## Reasons for existence of FFII {#reasons_for_existence_of_ffii}
+
+Many organisations exist which have goals similar to FFII.
+
+There are various, partially somewhat conflicting reasons, why FFII is
+of particular value and needs to continue to exist.
+
+-   Software patents are still being granted en masse and systematically
+    by the European Patent Office, and efforts to impose this practise
+    have not faded away. FFII is a center of competence on this issue.
+-   Many organisations have tried to provide a counter-lobby to balance
+    the \"intellectual property lobbies\" that have captured much of the
+    legislative process in the EU. FFII has, more than any other
+    organisation, succeded in organising such a counter-lobby,
+    particularly in the European Parliament.
+-   The FFII represents both civil society and enterprises, as expressed
+    in the term \"economic majority for a free information
+    infrastructure\". The need to maintain alliance could determine the
+    scope of activities of FFII.
+-   We have a large base of 90000 registered supporters and 800
+    (nominally) paying members, constituting a network in all European
+    countries.
+-   There are quite a few individuals in and around FFII who provide
+    good political and legal analysis and form part of a larger academic
+    community which has conducted some conferences in Brussels and
+    elsewhere.
+
+## Weaknesses in basic functions coming to the foreground {#weaknesses_in_basic_functions_coming_to_the_foreground}
+
+-   Basic administrative work, such as communication with our member and
+    supporter base and fundraising, has been neglected. A
+    servant-president is facing service requests from 90,000 supporters.
+    Holger Blasum, who previously filled the most urgent gaps in this
+    area, dropped out in July, and voluntary replacement is not to be
+    expected. Now that there is no clearly visible imminent threat, this
+    work has become more important than before.
+-   Media work has been unsatisfactory. During certain periods a few
+    individuals were able to churn out press releases that were quoted
+    by the IT media. The media could however not rely on FFII to provide
+    quick reactions to ongoing developments. We were not able to assure
+    that anyone was responsible for FFII media work on a regular basis,
+    even by taking weekly turns. Florian Mueller outperformed us by far
+    as a single person. Now, as media attention is no longer focussing
+    on Brussels, media work has become even more important than before.
+-   The association is not presenting itself well in the web. Hopefully
+    Antonios Christofides will change this soon with his proposed
+    website <http://en.ffii.org/>
+
+## Priorities
+
+The following is brain-storming, ultimately the board must decide
+together.
+
+First of all, we need a paid administrator to fulfill the missing basic
+administrative function. The administrator would be someone who is
+interested mainly in building an organisational machinery, but also with
+knowledge of basic communication conventions needed to interoperate with
+FFII (e.g. working in a Unix shell and with sql commands). For this it
+is necessary to specify this function and to conduct a public tender,
+first of all among our activists and supporters. It might not be all
+that difficult to find an attractive offer. Typical administration tasks
+include the following
+
+-   cleaning up the member database, ascertaining the validity of the
+    data
+-   answering and forwarding support questions which come in at mail
+    aliases such as info, buero, president et al
+-   answering the phone for the FFII
+-   writing personally to members, ensuring that they have entered their
+    data as intended and suggesting how they can further engage
+-   providing support to corporate sponsors
+-   keeping track of which members have paid fees
+-   handling and digitising incoming snailmail
+-   making sure leaflets and other supportive materials are available
+    and sent to groups of people who volunteer to participate in events
+-   reserving beds for events
+-   \... (a better and more detailed list has been worked out by Geork
+    Jakob recently, I\'ll post it here ASAP)
+
+Hopefully this will also enable us to soon assure payment of Peter
+Gerwinski for maintenance of <http://www.nosoftwarepatents.com/> and
+basic media work and a sum not too far away from the 4000 eur/month
+demanded by Erik, who has been leading the Brussels network.
+
+See also
+
+-   [ plans](FfiiPlan0510En "wikilink")
+-   [ priorities](FfiiprojPriorEn "wikilink")
+
+## Structure: do the work instead of creating new organisational entities {#structure_do_the_work_instead_of_creating_new_organisational_entities}
+
+Erik\'s plan is to set up three entities: FFII Board, Economic Majority
+as a separate legal entity which pays FFII and a \"Workgroup\" led by me
+which provides analysis for the man in Brussels.
+
+I think FFII is already a trustworthy label, and setting up extra
+entities brings more confusion than benefit. Companies are quite willing
+to support FFII directly, if addressed in a proper way. Since July 7th
+we have not addressed our corporate supporters at all, so how can we
+expect anything from them. If we explain nicely why these corporate
+supporters need to finance our work and why their \"golden corporate
+membership in FFII\" or whatever we set up makes a difference, I\'m
+quite sure we\'ll get significant support. We can be [
+ESA](EuropeanSoftwareAllianceEn "wikilink") and Greenpeace at the same
+time.
+
+A title of \"leader of FFII working group\" does not lend any additional
+authority to whoever owns it. Rather, various informal working groups
+will appear, and some of them may adopt more or less formalised
+structures, possibly with leaders and boards like the FFII itself, and
+they may be appointed to some functions within FFII by means of FFII
+board decisions any time. I\'ll be happy to refrain from personal
+interference in such groups.
+
+In the future I\'ll be using the instrument of submitting resolutions to
+the board regularly. This instrument is new to FFII. The board became
+aware of its role only in a situation of crisis in September 2005. Later
+I learned to use the instrument and found that it can greatly strengthen
+the cohesion of an organisation.
+
+On his [ candidacy page](FfiiKonvJmaebe0511En "wikilink"), Jonas claims
+that I\'m interfering in all kinds of details of other people\'s works.
+I myself often see it the other way around: people want to decide about
+private details of my work, such as what software I should use for pages
+and systems on which nobody but I myself work. I have usually been very
+happy to fork out some spheres to other people and to leave other people
+completely alone in their spheres. Examples are the work of [Peter
+Gerwinski](http://europarl.ffii.org/ "wikilink") and [Stephan
+Uhlmann](http://www.economic-majority.com/ "wikilink"). I told Antonios
+Christofides a month ago that his wonderful project
+<http://en.ffii.org/> should completely replace the current
+<http://www.ffii.org/> and that I completely trust him to be the
+responsible editor for this area. But he didn\'t respond and declined
+calls for irc meetings. Maybe precisely this is one of the case where an
+agreement between Antonios and the board could have helped move things
+forward more quickly. I failed to push for this, but I didn\'t block
+other people\'s initiatives either. I think I\'m quite flexible and much
+of the current talk about my shortcomings is not constructive but rather
+driven by a campaign about persons which seems to have become an end in
+itself.
+
+## What I\'d do if not reelected {#what_id_do_if_not_reelected}
+
+I don\'t consider myself as competent to lead FFII work on all \"R&D
+issues\". E.g. I can\'t provide much competent input to data retention
+or IPR Enforcement. If relieved of my duties as president, I would keep
+up a certain level of commitment as a board member, so as to help smooth
+transition, as far as this is desired, but apart from that I\'d take the
+opportunity for regeneration, so as to be ready at special times when I
+may be needed in the future.

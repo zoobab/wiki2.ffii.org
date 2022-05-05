@@ -1,0 +1,81 @@
+# Open Letter on the \"Task Force to foster the competitiveness of Europe\'s ICT industry\" {#open_letter_on_the_task_force_to_foster_the_competitiveness_of_europes_ict_industry}
+
+-\> \[ [ Open Letter PR](IctTaskForcePressRelease060704En "wikilink") \|
+[ ICT Task Force](IctTaskForceEn "wikilink") \| [
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Brussels, London, Berlin, Warsaw, Ljubljana, 4 July 2006 \-- In an open
+letter to the EU Commission, six small business associations have called
+on Commissioners Verheugen and Reding to modify their plans for a task
+force, designed \"to define the future EU policy in ICT\".*
+
+------------------------------------------------------------------------
+
+`                           Brussels, London, Berlin, Warsaw, Ljubljana`\
+`                           3rd July 2006`
+
+`       Open Letter on the "Task Force to foster the competitiveness of`\
+`       Europe's ICT industry"`
+
+`       Dear Commissioner Verheugen,`\
+`       Dear Commissioner Reding,`
+
+`       On 6 June 2006 the Commission launched an ICT Task Force in order to`\
+`       foster the competitiveness of Europe's IT industry [1]. The Commission`\
+`       chose a group of representatives of the European IT/ICT industry to`\
+`       make IT policy recommendations. With some notable exceptions, these`\
+`       representatives are mostly very large firms.`
+
+`       Given that IT is such a vital part of our modern information economy,`\
+`       and one of the drivers for European competitiveness, we would like to`\
+`       thank the Commission for its initiative in creating this forum.`
+
+`       However, we feel obliged to remind the Commission that 80% of the`\
+`       information economy consists of `[`SMEs`](SMEs "wikilink")`[2], who thus generate the`\
+`       majority of jobs and taxes in this sector. Without a healthy SME`\
+`       sector, European IT will suffer and the European economy will lose`\
+`       competitiveness, jobs, and overall prosperity.`
+
+`       We assume that the Commission's goals are to generate useful`\
+`       discussion of its IT policies, rather than start a friendly but`\
+`       unrepresentative talking club. Therefore we formally request the`\
+`       Commission to complete the missing 80% of its work by ensuring that`\
+`       this Task Force adequately represents the bulk of the IT industry,`\
+`       namely the `[`SMEs`](SMEs "wikilink")`.`
+
+`       We understand that it is easier to group together a few large firms,`\
+`       than to group the hundreds of thousands of `[`SMEs`](SMEs "wikilink")` which form the mass of`\
+`       the European information economy. However we propose that the`\
+`       Commission work together with our organisations to bring this silent`\
+`       majority into the process.`
+
+`       With a true economic majority, the Commission's proposals will be`\
+`       treated with much more weight, and are more likely to be economically`\
+`       accurate, reflecting the desire of the broader market for open`\
+`       standards, fair competition, and proportional ownership.`
+
+`       We hope that the Commission will seriously consider our proposal, and`\
+`       modify the current project to truly represent the European IT sector.`
+
+`       Yours sincerely,`
+
+`       The signatories,`
+
+`       Pieter Hintjens, President of FFII`\
+`       David Ramsden, Chairman of PCG UK`\
+`       Mario Ohoven, President of CEA-PME`\
+`       Marco Schulze, Spokesman of `[`PatentFrei`](PatentFrei "wikilink")`.de`\
+`       Slawomir Kosz, President of the Polish Software Market Association`\
+`       Andrej Mertelj, President of the Slovene Software Developers Assocation`
+
+`       For any questions regarding this letter, please contact Benjamin Henrion`\
+`       <bhenrion@ffii.org> +32-2-4148403`
+
+## Links
+
+-   \[1\] [The Commission webpage of the ICT Task
+    Force](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/06/731&format=HTML&aged=0=EN&guiLanguage=en "wikilink")
+-   \[2\] [FFII ICT sector
+    analysis](http://swpat.ffii.org/analysis/sektor/ "wikilink")

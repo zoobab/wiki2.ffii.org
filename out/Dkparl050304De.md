@@ -1,0 +1,83 @@
+1.  1.  -\*- dok: dkparl050304; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2005-03-04
+
+# Dänisches Parlament verpflichtet Minister zur Neuverhandlung der Softwarepatente im Rat {#dänisches_parlament_verpflichtet_minister_zur_neuverhandlung_der_softwarepatente_im_rat}
+
+-\> \[ [ english](Dkparl050304En "wikilink") \| [
+francais](Dkparl050304Fr "wikilink") \| [
+espanol](Dkparl050304Es "wikilink") \] \[ [
+Dänemark](SwpatdkDe "wikilink") \| [
+Patent-Nachrichten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Kopenhagen, 4. März 2005 \-- Der dänische Minister für Wirtschaft und
+Industrie, Bent Bentsen, wurde vom EU-Ausschuss des dänischen Parlaments
+verpflichtet, die Softwarepatent-Diskussion im EU-Rat der Minister neu
+zu eröffnen. Aus diesem Grund kann die Richtlinie am Montag auf der
+Sitzung des Wettbewerbsrats nicht als \"A-Punkt\" (ohne Neuauszählung
+der Stimmen) angenommen werden.*
+
+Minister Bentsen wollte zunächst die Verhandlungen im Rat nicht erneut
+aufnehmen, aber die Minderheitsregierung, der er angehört, wurde von
+einer Koalition u.a. der Sozialdemokraten und der Sozial-Liberalen
+Partei im EU Kommittee des dänischen Parlaments überstimmt. Lone Dybkjær
+von Det Radikale Venstre (Sozial-Liberale Partei) hat bestätigt, dass
+der Minister die Entscheidung des Kommittees ausführen muss. Diese
+Entscheidung verlangt die Rücknahme des A-Punkts von der Tagesordnung.
+
+Darüber hinaus verlangt die Entscheidung die Aufnahme als B-Punkt in der
+nächstmöglichen Sitzung des Wettbewerbsrates. Damit wird die Richtlinie
+als Diskussionspunkt behandelt und nicht mehr nur als \"Abnickpunkt\"
+auf der Tagesordnung erscheinen. Damit ist der Hauptkritikpunkt am
+Verfahren - die auch zum Neustart-Antrag durch das EU-Parlament geführt
+hat - anerkannt worden: Das Fehlen einer ordentlichen ersten Lesung im
+Rat.
+
+Lone Dybkjær meint \"Wir hoffen auf Unterstützung durch Schweden in
+dieser Angelegenheit\", und zielt dabei auf den älteren Antrag der [
+Schwedischen Liberalen](Selib0502En "wikilink") mit dem gleichen Ziel.
+Bentsen kann sich aber der [ Unterstützung durch seinen polnischen
+Kollegen Michael Kleiber](Kleiber050304En "wikilink") sicher sein, der
+heute in der polnischen [Gospodarka
+Gazeta](http://gospodarka.gazeta.pl/gospodarka/1,52981,2583315.html "wikilink")
+(Wirtschaftszeitung) sagte:
+
+\|\| \"Ich stehe im ständigen Kontakt mit dem dänischen
+Forschungsminister. Er erwägt ernsthaft, die Richtlinie am Montag zu
+blockieren.\" \|\|
+
+Weiterhin wird auch die niederländische Regierung unterstützend
+eingreifen, sofern sie sich an die gestern verabschiedete
+[Resolution](http://wiki.vrijschrift.nl/Motions050303 "wikilink") hält.
+Arda Gerkens (SP), die diese Resolution eingebracht hatte, zeigt sich
+jedenfalls optimistisch:
+
+\|\"Der Schritt Dänemarks macht mich sehr glücklich. Unsere Regierung
+wird den Antrag auf B-Punkt wohl unterstützen, jedenfalls gehe ich davon
+aus.\"\|
+
+## Kommentare
+
+[ Hartmut Pilch](HartmutPilchEn "wikilink") kommentiert:
+
+Offensichtlich irrte die irische Verhandlungsführerein, als sie den
+Dänen am 18. Mai 2004 [ \"80%
+Zufriedenheit\"](ConsDk040518En "wikilink") unterstellte.
+
+Wenn Minister \"politische Übereinkünfte\" gegen den Willen ihrer
+nationalen Gesetzgeber treffen, sollten sie sich nicht auf die
+Unumkehrbarkeit solcher \"Vereinbarungen\" verlassen können.
+
+Es ist natürlich weiterhin möglich, dass eine Mehrheit der
+Ratsmitglieder den Wunsch Dänemarks und Polens nach Neuverhandlung
+ablehnt und auf ihrer Zombie-Übereinkunft von Mai 2004 besteht, dies ist
+aber jetzt nicht sehr wahrscheinlich.
+
+Heute ist ein Wendepunkt in der Geschichte der
+Softwarepatent-Richtlinie, und hoffentlich werden die Historiker diesen
+Tag auch als Meilenstein in der Entwicklung hin zu einer Europäischen
+Union vermerken, die die Grundsätze der parlamentarischen Demokratie
+wirklich lebt, die sie sich in ihre neue Verfassung geschrieben hat,
+ohne dafür die nötigen Mittel zur Durchsetzung bereitzustellen.

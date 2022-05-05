@@ -1,0 +1,51 @@
+1.  1.  -\*- dok: roithova050304En; lang: fr; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2005-03-04
+
+# Une eurodéputée tchèque du PPE demande à son gouvernement un point B {#une_eurodéputée_tchèque_du_ppe_demande_à_son_gouvernement_un_point_b}
+
+-\> \[ [ tchèque](Roithova050304Cs "wikilink") \| [
+anglais](Roithova050304En "wikilink") \| [
+allemand](Roithova050304De "wikilink") \] \[ [ Refus de la
+Commission](Com050228Fr "wikilink") \| [ République
+tchèque](SwpatczEn "wikilink") \| [ Actualités des brevets
+logiciels](SwpatcninoFr "wikilink") \]
+
+------------------------------------------------------------------------
+
+*4 Mars 2005  Dans une déclaration publique, le Dr. Zuzana Roithova,
+membre du Parlement européen pour le Parti populaire européen et
+vice-présidente de la commission du marché intérieur et de la protection
+des consommateurs, critique sévèrement les tentatives de la Commission
+et du Conseil pour adopter l\'accord zombi de mai 2004 sur les brevets
+logiciels sans majorité qualifiée. Elle appelle le gouvernement tchèque
+à soutenir le mouvement pour une rouverture des négociations.*
+
+Roithova a annoncé aujourd\'hui que le Conseil l\'avait informée que la
+directive serait approuvée en tant que point A lundi et que les trois
+demandes du Parlement pour un redémarrage seraient ignorées.
+
+Roithova a demandé plus d\'informations au gouvernement tchèque sur sa
+position et a reçu comme réponse que le gouvernemnt votera en faveur de
+la directive lundi. Elle a en conséquence annoncé publiquement qu\'elle
+demandait que le gouvernement Tchèque :
+
+-   demande un point B au Conseil
+-   vote NON dans le cas d\'un vote lundi
+-   soutienne un redémarrage et travaille sur un texte constructif,
+    élaboré en respectant l\'intérêt public
+
+Elle déclare :
+
+`    Je crois que le sens commun va gagner, parce que le Conseil `\
+`    ne peut sinon qu'attendre un vote contre la totalité de `\
+`    la directive par la plupart des membres du Parlement européen.`
+
+## Informations supplémentaires {#informations_supplémentaires}
+
+-   [Page originale sur le site web de l\'eurodéputée Roithova
+    ](http://www.roithova.cz/clanek.html?id=31 "wikilink")
+-   [Copie en anglais du communiqué de presse de l\'eurodéputée
+    Roithova](http://www.ffii.org/~blasum/swpat/var/Roithova050304En.pdf "wikilink")
+-   [Copie en tchèque du communiqué de presse de l\'eurodéputée
+    Roithova](http://www.ffii.org/~blasum/swpat/var/Roithova050304Cs.pdf "wikilink")

@@ -1,0 +1,2 @@
+Intro von Alexander Ziegler:
+<http://www.ziegler-web.com/softwarepatente/index.htm>

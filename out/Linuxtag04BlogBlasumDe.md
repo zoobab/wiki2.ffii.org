@@ -1,0 +1,88 @@
+Linuxtag blog (done after the event, so a bit lossy, just some
+highlights, details see [here](http:?Linuxtag04De "wikilink"))
+
+Tue: caught the train to Karlsruhe together with Jan. Fortunately it is
+not full, with us there are some 2.25 m demonstration banner poles\...
+On the journey reading [good news from the Dutch
+Parliament](http://lwn.net/Articles/90574/ "wikilink") and the FFII
+computing restructuring budget. In Karlsruhe, we enter the beautiful
+Messezentrum straight into Linuxtag. Felix Klee and Jörg Hahn have
+perfectly prepared the event and booth, and we are preparing last
+details. In the evening Fabien and his lovely girl-friend fetch t-shirts
+for his <http://www.openstuff.net/> booth and of course the [in prison
+motif\":<http://dhcp42.de/ltag/>](Jan "wikilink") ones for us. (EP
+803105 would put Jan, who developed oscommerce.org in jail). Attempted
+to attend Tue 22:00 CEST chat at bxl (sorry, no log this time).
+
+```{=mediawiki}
+{{http://www.knittelsheim-computer.de/linuxtag04/img_2880.jpg}}
+```
+Wed-Thu, before demo: explored neighbors (pingos, worldforge, and the
+pretty noisy forth) said hello and spread flyers to a lot of pple at
+boothes of debian, python-ldap, lugs, gentoo, mplayer, said thank you to
+apache\'s Ken for supporting
+[webdemos:<http://swpat.ffii.org/group/demo/mir0308/httpd.apache.org/>](previous "wikilink")
+. An attempt to stuff the microsoft booth with patent flyers was however
+considered harmful, especially not good for linuxtag organizers (should
+have been obvious\...). Also fixed some things at the **lost+found**
+department: Britta from linuxland got Alan Cox April t-shirts for
+auctioning for our cause (this included a reminder to read our email
+more frequently\...). Also later, Jean-Marc from Strasbourg turned up at
+our booth, and explained that some of the Strasbourg demo banners were
+still well-preserved with him. On Thu, before the demo I went to Marco
+Schulze\'s SME perspective on software patents, which seemed to me a
+well-rounded talk (how do software patents affect even non-software
+businesses), though a coparticipant that left early (together with me)
+had wished some more detail here and there. Evening program was Brauhaus
+in Karlsruhe, then slept at AKK (waking up in the morning no
+sleeping-bags nearby me anymore, had I snorted so loud?).
+
+```{=mediawiki}
+{{http://www.sbuehl.com/albums/misc_lt2004_do/DSC01064.sized.jpg}}
+```
+Thu, demo: Jan and Joerg had organized music and sound systems and were
+already at Markt (market-place). After 17:30 and more so after 18:00 we
+spent most of the attention on get things out (banners, t-shirts),
+people out (the debianistas are hard to separate from there os\...) and
+make the people grab the things (like banners and prisoner\'s costumes).
+Collecting the more sessile debianites I ran out of the hall at 18:15
+and had to catch for the demo that already had moved (quite fastly). The
+actual demo route is short (15 mins?) and just follows the center of
+gravity from Kongresszentrum to markt. Around [1000 persons
+came](http://kwiki.ffii.org/DemoKarlsruhe04De "wikilink"), speeches were
+good, the having the Young Liberals and Attac framing the prisoners in
+the middle also was a nice sight, balloons (nitrogen instead of helium
+this time) encouraged sports, and we made the
+[Spiegel](http://www.spiegel.de/netzwelt/politik/0,1518,305962,00.html "wikilink").
+Congrats to Jan (and Florian).
+
+Fri, in the morning still had some left-overs from !KaLuG-Party in the
+preceding night in the blood, but now more systematically with Felix we
+started to make contacts with exhibitors too: actually the ratio of big
+to small companies at linuxtag 1:4 or 1:5 quite nicely reflects the
+[overall German
+situation](http://swpat.ffii.org/analysis/sektor/ "wikilink"). We hope
+some regional groups or events come out of this. Big thanks to Benedikt,
+Johann, Klaus, Joerg, Arnim and others for holding guard of the booth.
+Because LPI 201 was harder than I thought, I missed the intro in the
+afternoon\'s linuxtag podium on software patents but good most of the
+panel. There were little arguments really new for me, but it was
+relieving to see the head of the German patent court Melullis defending
+restrictions in substantive patent law (\'materielles Patentrecht\')
+against patent lawyer Axel Horns who considered them less feasible. A
+thing about linuxtag is that due to Karlsruhe\'s proximity to France and
+Switzerland, one can (a) have real good Alsatian flammekuechle/tartes
+flambees in Karlsruhe and (b) refresh Strasbourg contacts (wink to
+Bruno, Thierry, Jean-Marc, Marco, Sacha). The French football team lost
+nonetheless in the evening \... I only was briefly at the social event,
+and I confess, starting to feel a little cold in t-shirt when arriving
+by midnight, was not in the pool.
+
+Sa, we continued contacting the booths and had some nice contacts as
+well, I even didn\'t make it to Hartmut\'s talks \... In the evening got
+home in a car with Munich gentoo user\'s group, a quite active Munich
+linux tribe. Apologies to Joerg for leaving the banner poles to him\...
+
+(On Su mailed contacts to Felix Klee who manages those, on Mo witnessed
+the Munich Social Democrats [motion against software
+patents](http://kwiki.ffii.org/?SpdMuenchen040628En "wikilink"))

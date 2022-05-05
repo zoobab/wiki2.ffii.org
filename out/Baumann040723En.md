@@ -1,0 +1,148 @@
+# Presentation Leo Baumann, Eicta Infobalt 2004-07-23 {#presentation_leo_baumann_eicta_infobalt_2004_07_23}
+
+\[ [ Baumann](LeoBaumannEn "wikilink") \| [
+EICTA](SwpateictaEn "wikilink") \| [ Computer-Implemented
+Inventions](EubsaKinvEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+[Source: Infobalt.vl Eicta_CII_presentation.ppt
+<https://www.infobalt.lt/docs/EICTA_CII_presentation.ppt>](Powerpoint "wikilink")
+
+# Analysis
+
+## Slide 2: What are Computer -implemented Inventions? {#slide_2_what_are_computer__implemented_inventions}
+
+-   Very broad
+-   Anything software-related
+-   Any data processing or info handling device (i.e. hardware)
+-   Covers all sectors developing products incorporating any software or
+    microprocessor
+
+Comment: Leo Baumann apparently no longer sees a need for pretending
+that there is a difference between \"computer-implemented inventions\"
+and \"software\". In fact the legal texts from the EPO and the
+Commissions also do not pretend this. However the Commission and the
+patent departments of the national governments usually do and continue
+to do so.
+
+## Slide 3: \"Why patent Computer-Implemented Inventions?\" {#slide_3_why_patent_computer_implemented_inventions}
+
+-   Increasing % of innovation in SW
+-   500,000 Europeans employed in SW development
+-   Patents available for !CIIs in other parts of the world
+-   Protects/incentivises R&D investment
+-   Return on investment ? licensing revenue etc
+-   Copyright protection alone not sufficient
+
+\-\--\>
+
+1.  So what? off-topic
+2.  dito
+3.  weak me-too strategy
+4.  Lacks evidence that swpat meet this goal
+5.  no hard figures available. Transaction costs of the system??
+    Assumption: Licensing market superiour to free market situation.
+6.  unsupported claims (\--\> [Coypright too
+    weak?](http://swpat.ffii.org/analysis/fukpi/ "wikilink"))
+
+## Slide 4: {#slide_4}
+
+\-\--\> Leo Baumann focusses on weak SME arguments. Casuistic approach
+without case.
+
+Imaginary rocket science examples: DRM solutions, Improved control
+engineering technology, Optimized image or speech recognition software,
+Mobile heart frequency measurement applications, Digital radio
+technology \-\--\> No real example patent claim given, no rule for
+excluding broad claims or less rocket-science-like subject matters
+
+## Slide 5: {#slide_5}
+
+-   Harmonise treatment among !MSs
+-   Confirm legal position in Europe
+-   Based on existing EPO practice
+-   Increase legal certainty
+-   Avoid drift towards US practice of allowing business methods and
+    pure software
+
+Sounds like Frits Bolkestein\'s speech.
+
+1\) harmonisation as weak standard sermon, patent law already
+harmonized, 2) = confirm current bad pratice, do not solve the problems
+for development 3) What legal authority does a executive body have? Is
+EPO\'s legal escape driven by an economic rationale? 4) Legal security
+for whom? 5) How shall this be achieved by opening Pandoras Box??
+
+## Slide 6: {#slide_6}
+
+-   Confirm status quo
+-   Should not hinder patent enforcement
+-   Meet TRIPS obligations
+-   Permit OSS to continue to grow
+
+\--\> Legalistic mechanics vs.- democracy: 1+2 questions the role of the
+legislative body to set rules. When Eicta wants to confirm the status
+quo it will not solve our problems we have today with software patents,
+Eicta agrees with the current bad pratice. 3) rides on false Trips
+references 4) defensive lip service
+
+## Slide 7: Eicta positions {#slide_7_eicta_positions}
+
+-   Harmonise based on existing EPO practice
+-   Confirm status quo ? no broader/no narrower than now
+-   No business method patents
+-   R&D/innovation needs to be protected & incentivised
+-   Better to have no directive than a bad directive
+
+\--\> 1) He tells the lawmaker to abstain rather then to clean up the
+mess
+
+2\) Why is it neccessary to confirm status quo? 4) How do patents reach
+that goal? 5) Why shall the EU kill the directive? Solve the problem.
+
+## Slide 8: \"The Opponents\" {#slide_8_the_opponents}
+
+-   parts of the Open Source movement
+-   quote Bolkestein-Parliament speech \"vocal\" + emotional
+
+\--\> We do not know these stakeholders. Probably the [Free Software
+Alliance](http://swpat.ffii.org/players/fsa/index.en.html "wikilink").
+
+### Their amendments: {#their_amendments}
+
+?Data-processing does not belong to a field of technology? \--\> This is
+a FFII core demand. Such an exclusion is nessecary to ensure
+Trips-compliance.
+
+?Industry means: the automated production of material goods? \--\> The
+Parliament\'s industry definition. No better worded definition proposed.
+
+?Whenever a patented technique is used for a significant purpose, such
+use is not considered to be a patent infringement? \-\--\>
+interoperability amendment from the EP. Overly broad because of changes
+by [McCarthy](McCarthy "wikilink"). The original amendment as approved
+by JURI (and as proposed by Luxembourg in the Council) only mentioned
+interoperability purposes.
+
+## Slide 9: {#slide_9}
+
+\-\--\> wacky statement about negative effects without economic proof or
+foundation
+
+-   \"EU non-level playing field with rest of the world\"
+-   \"Impacts R&D investment in Europe\"
+
+# Conclusion
+
+Eicta has lost the political debate, arguments are weak and
+unprofessional
+
+-   plays on underdog sentiment (vocal and emotional\...)
+-   tries to reduce us as a open source lobby groups or even fraction
+-   no economic evidence
+-   uses parts of our positions
+-   takes over official statements from the commission, no new arguments
+-   former patent radical switched to defensive arguments
+-   Eicta press speaker Leo Baumann now forms a one person \"Eicta
+    Taskforce CII\"

@@ -1,0 +1,25 @@
+# Status quo {#status_quo}
+
+\[ [ Harmonisation](HarmonisationEn "wikilink") \| [ CII is
+SW](CIIisSwEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+Hartmut Pilch 2004-03-14
+
+`It is important that not we but CEC refers to EPO practise as "status quo".`\
+`If the "status quo" consisted only in EPO practise, there wouldn't be anything`\
+`to "harmonise". "harmonising the status quo" is a nonsense expression.`
+
+## 2005-03-18 Wired Magazine {#wired_magazine}
+
+`Jeremy Philpott, a marketing executive and former senior examiner for the U.K. Patent Office, `\
+`noted that although the EU Patent Convention of 1973 specifically prohibits patenting software, `\
+`in practice many such patents are granted.`
+
+`"The intended purpose of the directive is to clarify the law while maintaining the status quo," `\
+`Philpott said. "Anything unpatentable now, such as business methods, should remain so when the `\
+`directive comes in, whereas software which has a technical contribution and is patentable now `\
+`would still be patentable."`
+
+<http://www.wired.com/news/politics/0,1283,66938,00.html?tw=wn_tophead_1>

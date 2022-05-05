@@ -1,0 +1,57 @@
+1.  1.  -\*- dok: manders050702; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Pro-SwPat MEP Manders now fears coming vote and seeks rejection {#pro_swpat_mep_manders_now_fears_coming_vote_and_seeks_rejection}
+
+-\> \[ [ deutsch](Manders050702De "wikilink") \] \[ [ Toine
+Manders](ToineMandersEn "wikilink") \| [ cross-party
+compromise](AmPlenPr050701En "wikilink") \| [
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Brussels, 2 July 2005 \-- Toine Manders, Dutch Liberal MEP, JURI shadow
+rapporteur for the Alliance of Liberals and Democrats for Europe and
+staunchly in favor of software patents, is now apparently fearing the
+directive might be, in his eyes, detrimentally amended. What follows is
+a translation from an article from his personal homepage.*
+
+## Liberals want to reject software directive {#liberals_want_to_reject_software_directive}
+
+At the initiative of spokesperson Toine Manders (VVD) the liberal group
+of the European Parliament ([ ALDE](AldeEn "wikilink")) submitted an
+amendment to reject the controversial directive concerning the
+patentability of computer implemented inventions next week.
+
+Manders is of the opinion that the European Commission should first come
+with a proposal for a single Community Patent. **\"This directive
+concerning software patents can, if necessary, be brought under the
+umbrella of the Community Patent. This offers more judicial certainty,
+the democratic control of the Parliament on the European Patent Office
+would also be guaranteed by it\"**.
+
+By an extremely aggressive lobby many [MEPs](MEPs "wikilink") have begun
+to doubt and a lot of new amendments have been submitted. **\"A chaos is
+threatening next week in Strasbourg. Because of the large number of
+amendments, the directive could shoot in all kinds of directions like a
+firecracker and we want to prevent this. Rather no legislation than bad
+legislation\"**, according to Manders.
+
+[Source in Dutch (free registration
+required)](http://www.toinemanders.nl/content/view/68/29/ "wikilink")
+
+## Comments
+
+[ Hartmut Pilch](HartmutPilchEn "wikilink"): There is a large number of
+amendments, but most of these are mere repetitions of a set of 21
+amendments which has been independently submitted by !MEPs from all
+party groups. These 21 amendments are the only ones that stand a chance
+of being adopted by the required number of 367 !MEPs, precisely because
+they do not \"shoot in all kinds of directions\" but only in one, namely
+that of the first reading. Manders also forgets to mention that the
+Council and the Commission will have the opportunity to work on the
+result of the vote. FFII has always supported initiatives to reject the
+directive entirely, because we understand that the Parliament is
+overburdened with bad legislative proposals and should exercise quality
+control by saying No at an early stage. Manders is however proposing the
+rejection at the wrong stage, for the wrong reasons.

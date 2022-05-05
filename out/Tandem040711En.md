@@ -1,0 +1,32 @@
+# 2004-07-11 DE Researcher looking for Tandem Partner to Investigate EU Software Patent Policy {#de_researcher_looking_for_tandem_partner_to_investigate_eu_software_patent_policy}
+
+\--\> \[ [ News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+Sebastian Haunss (sebastian.haunss at uni-essen.de) is looking for a
+postd-doctoral partner for research on the collective claims-making
+around the issue of EU policies in the area of software patents, to
+apply for the [\"Tandem Program\" of the Volkswagen
+Foundation](http://www.volkswagenstiftung.de/foerderung/foerderinitiativen/merkblaetter/merkumwe_e.htm "wikilink").
+Applications must be submitted before 2004-08-31.
+
+The aim of the research project would be to analyze the actions and
+frames of different political actors involved in the EU software patent
+directive project and the conflicts surrounding it.
+
+The \"Tandem Program\" allows post-doctoral students to pursue a
+research project for a period of up to three years.
+
+Partners should fullfil the following requirements:
+
+-   optimally less than two years after having finished !PhD (it may be
+    slightly more)
+-   because Haunss has a background in political science, and it is an
+    interdisciplinary program, partners should have a background in a
+    different field (eg computer science, law, or economics).
+-   residence in Europe, being able to communicate in English or German
+    with Haunss
+
+In case of interest, please contact Haunss directly (sebastian.haunss at
+uni-essen.de).

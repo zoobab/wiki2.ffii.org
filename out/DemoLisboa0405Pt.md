@@ -1,0 +1,101 @@
+# MANIFESTAÇÃO Contra Patentes de Software {#manifestação_contra_patentes_de_software}
+
+up: <http://kwiki.ffii.org/SwpDemo0405En>
+
+## Report
+
+The event was nice. IMHO, not so nice as I wanted it to be, but it went
+more or less better than I expected.
+
+-   High points
+    -   -   there was 3 times the number of people that I expected
+        -   we met some more people that only talked with on-line
+        -   there were a couple of proprietary software representants
+        -   excellent press articles from Tek.Sapo
+            ([before](http://tek.sapo.pt/4L0/467835.html "wikilink") and
+            [after](http://tek.sapo.pt/4L0/468043.html "wikilink") the
+            demo)
+        -   outcome reasonable
+-   Low points
+    -   -   there where only 30 demonstrators
+        -   few press
+        -   bus strike made people go home earlier to avoid traffic
+            (result was, no traffic jams to deliver the 1700 leaflets)
+        -   few people helped organize it
+
+## 12 de Maio de 2004 {#de_maio_de_2004}
+
+#### Porquê?
+
+-   é uma Quarta-feira, o que torna mais acessível o acesso a
+    funcionários públicos
+-   vem em seguimento do Dia da Europa (9 de Maio
+    <http://en.wikipedia.org/wiki/European_symbols#Europe_day>)
+-   está ainda bem a tempo da campanha para as eleições europeias
+
+#### Como
+
+-   Tertúlia a partir das 16:00?
+    -   -   Sugestões de local: Santiago Alquimista (daria para fazer
+            desfile até ao INPI)
+        -   A convidar:
+
+`    * ASSOFT`\
+`    * SPA...`
+
+-   O [Governo Civil de Lisboa
+    ](http://www.gov-civil-lisboa.pt/03secretaria/secr04_14.asp "wikilink")
+    já foi [ notificado](DemoLisboa0405PtCarta "wikilink") da
+    manifestação
+    -   -   aviso por escrito ao Governo Civil, com a antecedência
+            mínima de dois dias úteis, à data escolhida. Convém pedir
+            mais cedo caso haja problemas com percursos, horas ou locais
+
+`    * Governo Civil de Lisboa, Rua Capelo n.º 11, 1249-110 LISBOA, Tel: 21 321 88 00, Fax: 21 342 15 89`
+
+-   -   dirigida ao Governador Civil, Dr. Lino Ramos
+    -   tem de ter a indicação do dia, hora, local e objecto da reunião
+    -   trajecto de marcha ou manif apenas em frente ao Parlamento?
+    -   não se pode estar a menos de 100m de edifícios públicos, mas se
+        a manifestação for ordeira, há flexibilidade na distância.
+    -   se fizermos desfile, a indicação do trajecto a seguir.
+    -   deve ser assinado por três promotores devidamente identificados
+
+`    * pelo nome`\
+`    * profissão`\
+`    * morada`\
+`    * ou no caso das associações, pela respectiva Direcção.`
+
+-   -   só pode ter lugar nos dias úteis depois das 19H30 e nos
+        feriados, sábados e domingos depois das 12H00. Por telefone
+        disseram após as 14h00 aos fins de semana e feriados, há
+        contradição. De qualquer das formas, pode-se aproveitar para
+        almoçar
+    -   não pode prolongar-se para além das 00H30, salvo se realizado em
+        recintos fechados
+    -   estimar número de participantes
+
+### Como começar antes das 19:30 ? {#como_começar_antes_das_1930}
+
+-   distribuindo panfletos e respondendo a perguntas (ideia do Hartmut)
+-   tertulia
+
+## Promotores
+
+Rui Seabra (rms\@1407.org), Óscar Barroso, Pedro Roque
+
+# Material
+
+É necessário arranjar material, é importante saber preços:
+
+-   **cartazes**
+-   t-shirts
+-   autocolantes
+-   **balões**
+-   **megafone**
+
+## Media
+
+Seria bom que todos os media possíveis fossem avisados do evento, quem
+conheça jornalistas, fotógrafos, etc. seria notavel que os conseguisse
+trazer à manifestação.

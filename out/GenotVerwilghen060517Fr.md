@@ -1,0 +1,149 @@
+# Question de Mme Genot au Ministre Verwilghen sur l\'European Patent Litigation Agreement (EPLA) {#question_de_mme_genot_au_ministre_verwilghen_sur_leuropean_patent_litigation_agreement_epla}
+
+------------------------------------------------------------------------
+
+*La député Zoé Genot (Ecolo) questionne le ministre sur l\'indépendance
+des futurs juges de la court centrale European Patent Court, et le fait
+que ceux-ci puissent être en même temps membres de la court d\'appel de
+l\'OEB et de l\'EPCT.*
+
+------------------------------------------------------------------------
+
+## Source
+
+<http://www.lachambre.be/doc/CCRI/pdf%5C51%5Cic966.pdf>
+
+## Transcription
+
+**06.01 Zoé Genot (ECOLO)**: Monsieur le président, je vous prie de bien
+vouloir excuser mon retard, mais je ne savais pas que l\'ordre du jour
+de notre commission avait été modifié. Monsieur le ministre, le 16 avril
+dernier, la Commission européenne DG Marché intérieur a clôturé la
+consultation sur le futur système de brevet européen. L\'une des options
+parallèle au projet de brevet communautaire est l\'European Patent
+Ligitation Agreement (EPLA), mentionné et supporté par certains Etats
+membres comme étant une solution en concordance avec l\'accord de
+Londres afin de réduire le nombre de langues pour un brevet européen
+moins cher et plus accessible aux entreprises. L\'EPLA est un projet de
+traité entre les 31 Etats européens signataires de la Convention sur le
+brevet européen. Le projet est actuellement en phase terminale. Certains
+experts mentionnent qu\'une conférence diplomatique pourrait être
+organisée dans les mois à venir. La séparation des pouvoirs législatif,
+judiciaire et exécutif est une base primordiale pour le bon
+fonctionnement et la crédibilité des institutions. Or, dans le présent
+projet de traité EPLA, quelques problèmes sérieux semblent apparaître en
+ce qui concerne l\'indépendance des juges. Tout d\'abord, selon les
+articles 2(b) et 6(1) du statut de l\'EPCt (European Patent Court), il
+serait permis à un membre de la cour d\'appel de l\'Office européen des
+brevets (OEB) d\'être \"en même temps\" juge à cet
+[EPCt](EPCt "wikilink"). Bien que la délégation danoise se soit opposée
+à ce principe lors des discussions dans les groupes de travail, il
+semble que les autres Etats membres y soient favorables. Pourtant, il
+serait préférable que tous les membres de la cour d\'appel de l\'OEB
+soient inéligibles pour l\'EPCt. Ensuite, la nouvelle désignation des
+juges tous les 6 ans ne fournit pas de garanties d\'indépendance
+judiciaire. Concernant l\'indépendance des membres de la cour d\'appel
+de l\'OEB, voici ce que dit Sir Robin Jacob, un juge Lord de la cour
+d\'appel de Londres: \"The European Patent Office Boards of Appeal is a
+pretty damn silly system. They are judges and yet they are part of the
+European Patent Office and that stinks. They shouldn\'t be part of the
+Patent Office\". Un juge est indépendant s\'il n\'a de comptes à rendre
+à personne, surtout pas au comité qui est chargé de le réélire. Il
+serait préférable de voir les juges désignés pour une période limitée,
+sans possibilité de redésignation. La désignation des juges à la Cour
+européenne est un cas spécial selon lequel les juges sont désignés par
+les gouvernements et leur désignation doit être ratifiée par les
+parlements nationaux pour un mandat de 6 ans. La composition des
+parlements tend à changer significativement au cours des 6 ans, ce qui
+n\'est pas le cas du conseil d\'administration de l\'European Patent
+Organisation ou du comité d\'administration proposé pour l\'EPLA.
+Monsieur le ministre mes questions sont les suivantes:
+
+1\. Quelle est la position du gouvernement sur le fait qu\'un juge de la
+cour d\'appel de l\'OEB soit aussi éligible pour la cour d\'appel de
+l\'EPCt?
+
+2\. Le gouvernement belge pourrait-il introduire des amendements
+permettant que les juges qui sont élus pour l\'EPCt le soient de la même
+manière que les juges de la Cour européenne de justice, c\'est-à-dire
+que leur nomination soit approuvée par une assemblée parlementaire?
+
+3\. La Commission européenne pourra-t-elle négocier le traité au même
+titre que les autres Etats lors de la conférence diplomatique? Quelles
+seront les conséquences de cette participation de la Commission sur la
+législation des 25 Etats membres, dont certains ne signeront
+probablement pas l\'EPLA?
+
+4\. La Commission européenne doit négocier un mandat auprès des
+ministres des 25 pour s\'asseoir à la table des négociations de l\'EPLA.
+Quelle majorité est-elle requise pour que la Commission puisse obtenir
+un mandat (majorité qualifiée ou unanimité)?
+
+5\. Quelles sont les prochaines étapes prévues dans les discussions sur
+ce sujet?
+
+**06.02 Marc Verwilghen, ministre:** Monsieur le président, madame
+Genot, premièrement, l\'indépendance des juges est garantie par
+l\'article 5 du projet d\'accord sur le règlement des litiges en matière
+de brevets européens (EPLA). En outre, l\'article 10 du projet de statut
+de la Cour européenne des brevets prévoit que le juge ne peut pas
+intervenir dans une affaire dans laquelle il est intervenu
+antérieurement en tant que conseil ou s\'il s\'est prononcé d\'une
+matière ou d\'une autre dans la même affaire. Un juge peut en outre être
+récusé. Pour la composition des juridictions européennes des brevets de
+première instance et d\'appel, il est nécessaire de reprendre des juges
+formés sur le plan technique, de sorte que les juridictions puissent
+exercer effectivement leur rôle d\'uniformisation de la jurisprudence
+européenne. Ces juges devront posséder un haut degré de spécialisation
+dans des domaines techniques spécifiques. Deuxièmement, compte tenu de
+la réponse donnée à la première question, le gouvernement est d\'avis
+que le projet EPLA présente des garanties suffisantes d\'indépendance
+des juges qui composeront les juridictions européennes des brevets.
+Troisièmement, le service juridique du Conseil de l\'Union européenne a
+jugé que la compétence de négociation en vue de négocier avec des pays
+tiers des accords qui portent sur le même sujet que le règlement 44/2001
+du 22 décembre 2000 est passée des Etats membres à la Communauté. Les
+aspects des atteintes aux brevets et de la reconnaissance et du maintien
+des décisions prises par les cours et tribunaux des Etats membres sont
+aussi régis par ce règlement. Pour les aspects qui ne sont pas réglés
+dans ce règlement, les Etats membres ont cependant encore une compétence
+de négociation. La réponse à cette question n\'est donc pas équivoque
+mais univoque dans la mesure où le projet de Traité EPLA porte sur des
+aspects qui sont couverts par le règlement 44/2001 précité: la
+Communauté européenne est compétente pour négocier le projet EPLA.
+Quatrièmement, les mesures relevant du domaine de la coopération
+judiciaire dans les matières civiles ayant une incidence
+transfrontalière visée à l\'article 65 du Traité instituant la
+Communauté européenne doivent être adoptées, conformément à l\'article
+67 du même Traité, selon la procédure avec une majorité qualifiée.
+Cinquièmement, récemment, la Commission européenne a organisé une
+enquête sur l\'avenir du système des brevets dans l\'Union européenne
+qui a été clôturée le 31 mars 2006. Le 12 juillet prochain, une audition
+sera organisée par la Commission à Bruxelles. Il est à espérer que cette
+procédure de consultation permettra de préciser davantage la position de
+l\'Union européenne dans ces discussions, de sorte que cette position
+soit uniforme.
+
+**06.03 Zoé Genot (ECOLO):** Monsieur le ministre, j\'aurais souhaité
+revenir sur l\'indépendance des juges. Vous me dites que si un juge a
+été conseil ou s\'est déjà prononcé sur une affaire, il ne pourra pas se
+prononcer à nouveau. Je pense que c\'est le strict minimum. Le fait que
+son collègue de bureau qui, lui, ne s\'est pas prononcé dans l\'affaire
+puisse être juge en appel ne me paraît pas garant d\'une indépendance
+importante. De même, le fait qu\'un juge soit désigné à nouveau par les
+personnes qu\'il a dû juger ne me paraît pas non plus garantir une
+indépendance en la matière. J\'espère que l\'avis des collègues danois
+et autres pourra permettre une évolution dans ce dossier.
+
+**06.04 Marc Verwilghen, ministre:** Madame Genot, je pense que vous
+sous-estimez la procédure. Les avocats utiliseront, sans aucun doute, en
+cas d\'hésitation à propos de la correction du juge, la procédure de
+récusation. C\'est clair! Cette procédure assez sérieuse doit mettre
+tout juge en garde. Je suis persuadé que cela ne se fera pas à la
+légère.
+
+**06.05 Zoé Genot (ECOLO):** Je regrette que cela doive se passer de la
+sorte. Je préfèrerais qu\'on l\'ait directement affaire à des juges
+indépendants plutôt que d\'avoir recours à la possibilité de les récuser
+éventuellement. Cela me paraît le prélude à de futures bagarres
+juridiques lourdes et coûteuses. L\'incident est clos.

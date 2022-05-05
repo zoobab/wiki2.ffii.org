@@ -1,0 +1,12 @@
+15\. November (Mo), 19-21 Uhr, Galerie der Heinrich-Böll-Stiftung,
+Hackesche Höfe
+
+# GLOBALISIERUNG UND SICHERHEIT {#globalisierung_und_sicherheit}
+
+Veranstalterin: Heinrich-Böll-Stiftung Infos: Ingrid Spiller, Fon
+030-285 34-304, spiller\@boell.de; Sabrina Taubenek, Fon 030-285 34-314,
+taubenek\@boell.de
+
+## Details
+
+<http://www.boell.de/calendar/viewevt.aspx?evtid=600&crtpage=6>

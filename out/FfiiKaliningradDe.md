@@ -1,0 +1,5 @@
+# FFII Kaliningrad {#ffii_kaliningrad}
+
+Mailing lists: <http://lists.ffii.org/mailman/listinfo/ru-parl/> (not
+**yet existing**, please write to buero at ffii.org if you want to
+become an admin.)

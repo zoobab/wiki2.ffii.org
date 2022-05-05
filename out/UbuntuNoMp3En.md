@@ -1,0 +1,49 @@
+# The Linux Ubuntu Distribution does not include MP3 players {#the_linux_ubuntu_distribution_does_not_include_mp3_players}
+
+------------------------------------------------------------------------
+
+<https://wiki.ubuntu.com/RestrictedFormats>
+
+Disclaimer and Legal Notice
+
+Packages distributed in unofficial repositories are not supported by
+Ubuntu or Debian. Please do not file bugs caused by the use of
+third-party packages.
+
+Some of the packages listed here may be illegal in your country. Use at
+your own risk.
+
+Most of the formats listed here have been replaced by
+[FreeFormats](FreeFormats "wikilink") and this information is presented
+here for legacy and migration purposes. Be aware that the usage of
+non-free programs and formats cannot be supported because of the
+restrictions that affect them.
+
+There are reasons why Ubuntu lacks media support for closed codecs \"out
+of the box.\" A single example will be used- MP3s.
+
+The group that holds the patent on MP3s demands that for each player
+with MP3 support a 75 cent fee must be paid: \[WWW\]
+<http://www.mp3licensing.com/royalty/index.html>
+
+It might not seem like a lot, but when the distro is free then even such
+a small fee is too much. The only other option is to pay a large one
+time fee that could otherwise pay a developer to work on Ubuntu for a
+whole year! So it costs money to distribute software that plays MP3s.
+
+If Ubuntu ignored this, it could be sued in nations like the U.S. where
+this patent is valid. Either Ubuntu would have to pay up or the
+developers could never set foot in a country with such patent laws ever
+again (not reasonable). So because it costs money, Ubuntu has no MP3
+support.
+
+Now take this situation and multiply it times every type of restricted
+software out there (that is not free like OGG), and you see what the
+situation is. So in order to spend money on developers, not laywers,
+Ubuntu has to avoid touching these codecs. Even an easier way to install
+them such as \"click here to install\" would make Ubuntu an accessory to
+a crime in many nations.
+
+This is why it is important to support open codecs and standards. But
+Ubuntu cannot provide restricted software or make it any easier because
+of the law.

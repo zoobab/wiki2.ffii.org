@@ -1,0 +1,3 @@
+<http://lists.ffii.org/mailman/listinfo/ch-parl/>
+
+You also may want to contact <http://www.wilhelmtux.ch/>

@@ -1,0 +1,115 @@
+1.  1.  -\*- dok: ukpoworkshop050310; lang: en; coding: iso-8859-1;
+        mode: fundamental; -\*-
+    2.  datum: 2005-03-17
+
+# Report on the UKPO \"Technical Contribution\" workshop in Bolton {#report_on_the_ukpo_technical_contribution_workshop_in_bolton}
+
+-\> \[ [ UKPO Workshops](UkpoWorkshops0503En "wikilink") \| [ Technical
+Invention](SwpatkorcuEn "wikilink") \| [ FFII
+Interests](SwpatnitcuEn "wikilink") \| [ Patent
+news](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*17 March 2005 \-- The UK Patent Office is organising workshops to have
+people evaluate various definitions for the term \"technical
+contribution\". Below, you can find a report from someone attending the
+workshop in Bolton.*
+
+## Report
+
+### Overview
+
+Firstly attendance seemed to be 100% here about 33 people. Like Coventry
+we were all assigned to tables of about 5 or 6. Each table also had a
+lawyer from the patent office, presumeably to help things along. It was
+not clear to me how the assignment to each table was made however I note
+that one table was completely made up of lawyers.
+
+We were given 5 imaginary patent claims and asked to apply 4 different
+definitions of technical contribution to each. The first definition was
+the one in the directive as it currently stands.
+
+`"Technical contribution" means a contribution to the state of the art in a `\
+`field of technology which is new and not obvious to a person skilled in the `\
+`art. The technical contribution shall be assessed by consideration of the `\
+`difference between the state of the art and the scope of the patent claim `\
+`considered as a whole, which must comprise technical features, irrespective `\
+`of whether or not these are accompanied by non-technical features.`
+
+The second was the FFII definition
+
+`"Technical contribution" means a contribution made by a claimed`\
+`invention, considered as a whole, to the state of the art in a field of`\
+`technology.  "Technical" means belonging to a field of technology.`
+
+`New teaching about the use of controllable forces of nature under the`\
+`control of a computer program, beyond the implementation of the data`\
+`processing procedure itself, is technical.   The processing, handling,`\
+`representation and presentation of information by a computer program is `\
+`not technical, even where technical devices are employed for such purposes.`
+
+The third and fourth definition were so poor to not worth mentioning,
+they were apparent drawn from a pool of twelve suggestions put together
+from the feedback on the event invite forms.
+
+### Evaluation
+
+Of all the definitions all but one table (the table of lawyers) found
+the FFII version the easiest to apply. Most found the directives current
+definition poor because it was somewhat recursive, defining \"Technical
+contribution\" in terms of \"technical features\".
+
+One thing I noted was that the patent office lawyers at each table
+seemed to think the use of the term \"controllable forces of nature\"
+was too vague and left too much leeway for debate.
+
+*(update: It seems I was mistaken in assuming that the lawyer/attorney
+we had at our table (and the similar person I noticed at each of the
+other tables) was from the patent office. They were presumably like
+myself members of the public who responded to the invitation.)*
+
+Finally we were ask if we thought any of the claim should be patentable
+irrespective of the definitions and most people thought not.
+
+### Final discussions {#final_discussions}
+
+A poll was taken on whether we did or did not support the patenting of
+software everyone except some of the lawyers at the lawyer table were
+against this.
+
+There was a short final discussion where several people mentioned that
+the event was too guided and narrow, not allowing for expression of
+views over and above the narrow definition of \"Technical
+contribution\". In their defense they said this is what Lord Sainsbury
+asked them to do.
+
+On a personal note it certainly highlighted what a bad definition the
+current directive has and the patent office lawyer at our table
+certainly agreed with this view.
+
+### Comments
+
+[ André Rebentisch](AndreRebentisch "wikilink") on [ defining
+\"technical contribution\" or \"technical invention\" by reference to
+forces of nature](SwpatkorcuEn "wikilink"):
+
+Defining \"technical invention\" by reference to \"forces of nature\" is
+the prevailing approach in Germany. It matured over many years. Most
+critics of software patentability take a rather instrumental view of
+legal teachings. We do not talk about legal teachings as such, we want
+to use them to divide spheres of interests. Natural forces serves the
+purpose. For us it is important to have stable, simple definitions that
+inhibit an unauthorized drift in jurisdiction as we observed in the
+past. Britian with its case law tradition is less reluctant to grant
+jurisdiction the right to decide normative questions of patent law.
+Given the vested interests of the patent system such pratice leads to
+the current uncontrolled expansion. From a German perspective
+jurisdiction lacks competence to decide on the scope of patent law. This
+is the role of the lawmaker only who sets his opinion in statutory law.
+From a rationalist perspective use of patent law as an incentive system
+in a specific field needs an economic rationale. I believe that judicial
+bodies are neither trained nor competent to decide on the scope of
+patent law. Weakening the \"technical\" requirement is such a decision
+on the scope. The lawmaker has to consolidate and reinforce
+interpretation instead of codifying legal escape.

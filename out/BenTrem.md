@@ -1,0 +1,6 @@
+*Je suis ici!* (This should be italicized; is there no
+[WikiMarkup](WikiMarkup "wikilink") here?) \--09JULY06; 13:49MDT (1949Z)
+
+Fixed \... I found
+[KwikiFormattingRules](KwikiFormattingRules "wikilink"). Ah, to learn
+another scheme \... Textile, Kwiki, PBB, and on and on it goes!

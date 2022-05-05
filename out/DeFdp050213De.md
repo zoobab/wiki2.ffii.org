@@ -1,0 +1,32 @@
+1.  1.  -\*- dok: fdp050213; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2005-02-13
+
+# FDP Baden-Württemberg verabschiedet Resolution gegen Softwarepatente {#fdp_baden_württemberg_verabschiedet_resolution_gegen_softwarepatente}
+
+-\> \[ [ FDP](SwpatfdpDe "wikilink") \| [FDP
+2004-05-25](http://swpat.ffii.org/papiere/europarl0309/fdp0405/index.de.html "wikilink")
+\| [ Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*13. Februar 2005 \-- Nach der FDP-Bundesfraktion und dem
+FDP-Landesverband Bayern hat nun auch der FDP-Landesverband
+Baden-Württemberg eine Resolution gegen Softwarepatente verabschiedet.*
+
+Der Vorstand des traditionell mitgliederstarken baden-württembergischen
+FDP-Landesverbandes hat den [Antrag \"Softwarepatente\" (pdf, Antrag Nr.
+17, Seite 44ff)](http://www.fdp-bw.de/docs/antraegelpt05.pdf "wikilink")
+auf seiner letzten Sitzung angenommen (auf dem Parteitag am 05. Januar,
+an dem dieser Antrag erstmals gestellt wurde, konnten aus Zeitgründen
+nur wenige Anträge besprochen werden).
+
+Die Aufforderung an die FDP-Abgeordneten im Bundestag und
+Europaparlament, \"sich für eine EU-Richtlinie einzusetzen, welche die
+Patentierbarkeit von Software als solcher ausschliesst und bestehende
+Rechtsunsicherheit diesbezüglich beseitigt\", ist insbesondere
+angesichts der am Donnerstag anstehenden Beschlüsse im Bundestag und
+Europaparlament (Konferenz der Präsidenten) ein wichtiges Signal.
+
+Der Antrag bestätigt [ FDP-Positionen](SwpatfdpDe "wikilink"), die
+bereits im Bundestag, Bayern und Stuttgart in mitgeformt wurden.

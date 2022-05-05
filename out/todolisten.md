@@ -1,0 +1,27 @@
+# [TodoList](TodoList "wikilink")
+
+------------------------------------------------------------------------
+
+List of things TODO or DONE in the FFII priorities. Need a syntax like:
+user (ex: phm); priority (ex:8/10), etc\...
+
+------------------------------------------------------------------------
+
+## Todo
+
+-   kwiki2moin migration \-- zoobab; 5/10
+-   transcriptions of <http://media.ffii.org/epepo050330/seminar/>
+-   transcriptions of <http://media.ffii.org/juri050330/>
+-   transcriptions of <http://media.ffii.org/epepo050330/pressconf/>
+-   transcriptions of <http://media.ffii.org/epepo050330/itre/>
+-   transcriptions of other JURI sessions
+-   transcriptions of
+    <http://media.ffii.org/bxl050629/EmKonf050629.xvid>
+-   transcriptions of
+    <http://media.ffii.org/bxl050629/SmeIntergroup050629.xvid>
+-   translations of [Call For Action
+    III](http://swpat.ffii.org/papers/europarl0309/demands/0504/index.en.html "wikilink")
+    and deliver it to National Parliaments
+-   transcriptions of the [Interview with the Council Legal Service (in
+    FR)](http://media.ffii.org/Council050418/CouncilLegalServiceInterview.ogg "wikilink")
+-   Prepare Call for Action IV \-- arebenti 2/10

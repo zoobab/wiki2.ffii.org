@@ -1,0 +1,85 @@
+1.  1.  -\*- dok: lux0501; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# 2005-01-02 LU/EU Council Presidency Priorities: Promote Patents, Conclude Software Directive {#lueu_council_presidency_priorities_promote_patents_conclude_software_directive}
+
+-\> \[ [ Council](SwpatconsiliumEn "wikilink") \| [
+Reversal](ConsRevers04En "wikilink") \| [
+Future](SwpatFuturEn "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+The Luxemburg presidency has pledeged its belief in the patent system as
+\"one of the best ways of promoting entrepreneurship in Europe\" and
+support for \"dossiers on intellectual and industrial property\", among
+others for a revival of the Community Patent and for \"successful
+conclusion\" of the \"directive on the patentability of
+computer-generated inventions\".
+
+## The Text {#the_text}
+
+-   Presidency Priorities:
+    -   -   [french
+            original](http://www.eu2005.lu/fr/presidence/priorites_et_pgm/priorites/index.html "wikilink")
+        -   [english
+            translation](http://www.eu2005.lu/en/presidence/priorites_et_pgm/priorites/index.html "wikilink")
+
+` Intellectual and industrial property`
+
+` Ensuring economic continuity for the results of research and`\
+` encouraging economic risk-taking are some of the best ways of`\
+` promoting entrepreneurship in Europe. The Luxembourg Presidency`\
+` intends to continue the efforts under way, to achieve this objective`\
+` by promoting dossiers on intellectual and industrial property.`
+
+` The Luxembourg Presidency will have to examine whether the`\
+` conditions are propitious for relaunching the dossier on the`\
+` Community patent. It is aware that no advantageous economic`\
+` alternative to this project, currently in deadlock, exists. The`\
+` proposal for a directive on the patentability of computer-generated`\
+` inventions must also be concluded successfully in 2005.`
+
+The French original speaks about \'inventions mises en oevre par
+ordinateur\', i.e. the official term \"[ computer-implemented
+inventions](EubsaKinvEn "wikilink")\".
+
+The text also contains a paragraph about methodologies for improving the
+quality of Community legislation which are currently being proposed by
+the Commission. The Council might do good in trying to apply these
+methodologies to the [ Council\'s Software Patent
+Agreement](Cons040518En "wikilink").
+
+## Comments / FAQ {#comments_faq}
+
+### Question: What does this Text Mean? {#question_what_does_this_text_mean}
+
+### Answer
+
+[ Hartmut Pilch](HartmutPilchEn "wikilink"):
+
+It means that the \"Intellectual Property (Patents) Working Party\" is
+still in control and able to impose its views on the Luxemburg
+presidency just as on all the other previous presidencies. Previous
+programmatic statements have been even more blindly pro-patent than this
+one. E.g. in March 2003, when the dossier was still in the Parliament,
+the Council [pledged its resolve to \"protect patents\" for
+\"computer-implemented
+inventions\"](http://lists.ffii.org/archive/mails/news/2003/Mar/0001.html "wikilink").
+The Council has always been pursuing patents for the sake of patents.
+This time they claim that it is for entrepreneurship, but of course
+nobody in the patent policy working group cares whether patents really
+serve entrepreneurship. There is [ ample
+evidence](SwpatsiskuEn "wikilink") in disfavor of such an assertion, at
+least as far as \"computer-implemented\" (software) solutions are
+concerned. But nobody is interested in this evidence. Words such as
+\"entrepreneurship\" or \"innovation\" are merly codewords for
+\"patents\", or, more precisely, for \"the agenda of the governmental
+patent officials who are anonymously organised in the Patents Working
+Party\". The Patents Working Party has once more demonstrated that it is
+the master of its dossiers. Such a demonstration \-- one could call it a
+pledge of allegiance to the patent faith \-- is conducted at the
+beginning of every EU Council Presidency. It is already a traditional EU
+ritual. The Luxemburg Presidency is said to lack ardency in its patent
+beliefs, at least compared to the Dutch. But even disbelievers often
+tend to respect established rituals.

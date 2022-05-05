@@ -1,0 +1,32 @@
+# 2004-06-28 Munich Social Democrats against Software Patents, back European Parliament {#munich_social_democrats_against_software_patents_back_european_parliament}
+
+\--\> \[ [ deutsch](SpdMuenchen040628De "wikilink") \] \[ [
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+After five speakers in favor, the resolution was adopted in a nearly
+unanimous vote (several dozens of yes, one abstention, one no) on 28
+July 2004 at the annual caucus of the Munich social democrats. The
+German text below urges national !MPs, the national caucus, and the
+government to stick to the Parliament\'s, not to the Council\'s version.
+
+-   <http://www.jusos-muenchen.de/Themen/Wirtschaftspolitik/d20040629080701.html>
+
+`Motion to the ministry of Justice, the party caucus and the SPD !MPs:        `\
+`                                                                               `\
+`The Munich SPD demands a clear vote against software patents from `\
+`the German Government and the MPs of the German Bundestag.               `\
+`Especially the Bundestag shall clarify that the "directive`\
+`on patentability of computer-implemented inventions"                 `\
+`(KOM(2002)92 2002/0047 (COD)) in its of 18 May 2004 is directed    `\
+`18. Mai 2004 against the most innovative parts of the German`\
+`economy. Many software patents would be legalized and this would `\
+`make nearly the entire IT sector, and especially open source `\
+`initiatives patent violators. The German government and the `\
+`German `[`MEPs`](MEPs "wikilink")` are asked to back the European Parliament's version`\
+`of the directive because it introduces clear limits to `\
+`the patentability of computer programs.           `
+
+Disclaimer: this text is partially recited from memory (there were some
+minor changes in wording).

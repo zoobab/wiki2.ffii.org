@@ -1,0 +1,5 @@
+Some information in these days is found at:
+<http://wiki.ael.be/index.php/SwpatDirective>
+
+Find your local organisation:
+<http://wiki.ael.be/index.php/PatentInformationLeafletsLinks>

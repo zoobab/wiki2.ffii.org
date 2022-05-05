@@ -1,0 +1,150 @@
+1.  1.  -\*- dok: [SwpatcninoMeta](SwpatcninoMeta "wikilink"); lang: en;
+        coding: iso-8859-1; mode: fundamental; -\*-
+
+# The FFII Software Patent News Wiki Page: How to Edit It {#the_ffii_software_patent_news_wiki_page_how_to_edit_it}
+
+\--\> \[ [ deutsch](SwpatcninoMetaDe "wikilink") \] \[ [ Swpat
+News](SwpatcninoEn "wikilink") \| [ Naming](PagNomEn "wikilink") \| [
+Document Metadata](DokDataEn "wikilink") \| [ RSS](FfiiRssEn "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+## News & Correction Changelog {#news_correction_changelog}
+
+-   2006-03-28 jborme removed an article from The Moscow Times that
+    duplicates (with some paragraph cuts, though) a Bloomberg article 3
+    lines below
+-   2005-06-01 amacfie removed duplicate mention of !ZDNet: IT giants
+    accused of exploiting open source
+-   2005-04-29 amacfie removed duplicate mention of Patents breeding
+    software extortion: Moglen
+-   2005-03-13 amacfie removed duplicate mention of !OpenDemocracy:
+    Patents for profit: dystopian visions of the new economy
+-   2005-01-24 amacfie moved EFF: Endangered Gizmos - Help EFF Protect
+    the Environment for Innovation! to
+    [FfiinewsEn](FfiinewsEn "wikilink"), has nothing to do with patents
+-   2004-12-13 dietvu changed ä by a because the generated RSS [did not
+    validate](http://feedvalidator.org/check.cgi?url=http%3A%2F%2Fwww.ffii.org%2Fnews%2Frss%2FSwpatcninoEn.rss "wikilink")
+    anymore
+-   2004-12-09 jmaebe removed duplicate mention of Heise coverage of
+    council delay
+-   2004-11-20 jmaebe removed second mention of \"monopolies of the
+    mind\" editorial from The Economist (it\'s already below in the
+    news)
+-   2004-11-18 André added a retorte article \"2004-11-18 EU FFII
+    Background Commission had strong reservations against program claims
+    deception (Article 5.2)\" with the function to draw attention of
+    readers to the issue of program claims.
+-   2004-11-17 dietvu changed the \--\> into -\> for FT.com article as a
+    workaround for a rss generator bug (splits \> in \>\..., resulting
+    in an XML error)
+-   2004-11-17 jheald reverted the item about Apple DRM and Virgin to
+    [SwpatcninoEn](SwpatcninoEn "wikilink"). Shows limitations of
+    competition law in preserving interoperability. (Article 6a).
+    Apple\'s ability to lock-out reverse engineering of its protocol can
+    only by anchored by patents.
+-   2004-11-17 jmaebe moved item about Apple DRM and Virgin to
+    [FfiinewsEn](FfiinewsEn "wikilink"), has nothing to do with patents
+-   2004-11-11 somebody created sections again, jmaebe complained and
+    arebenti reversed it.
+-   2004-10-12 phm made [SwpatcninoEn](SwpatcninoEn "wikilink") writable
+    only after login. All active FFII \* members have an editor login.
+    In view of intensifying absue of our wiki for search engine spamming
+    (= replacement of a page or parts of it with lists of commercial
+    links) this has become difficult to avoid, and we we are trying it
+    out in the hope that productivity will not significantly drop.
+-   2004-10-12 phm moved
+    [ItalianMeeting04En](ItalianMeeting04En "wikilink") announcement to
+    [FfiiprojNewsEn](FfiiprojNewsEn "wikilink") where it belongs (see
+    section \"other news pages\" below)
+-   2004-10-06 jmaebe removed \"[Slashdot: Nose-implemented
+    inventions](http://yro.slashdot.org/article.pl?sid=04/10/07/0029252 "wikilink")\",
+    this is not about software patents (and the article is pure
+    speculation about how smells could possibly be patented in the
+    future) (phm finds the Slashdot text of poor quality but believes
+    that it is within the range of
+    [SwpatcninoEn](SwpatcninoEn "wikilink") subject matter, see also
+    Greg Aharonians site [patenting
+    art](http://www.patenting-art.com/ "wikilink"): we don\'t have a
+    more appropriate news page for questions of limits of patentability)
+-   2004-09-21 jmaebe removed \"BSA applauds John Bruton\'s
+    appointment.\" after [EUReporter](EUReporter "wikilink") artcile on
+    swpats and democracy. If you think that is important, add a separate
+    item, and maybe also link to a page describing what he has to do
+    with software patents.
+-   2004-09-10 jmaebe moved another Sender ID article to
+    [SenderID0409En](SenderID0409En "wikilink")
+-   2004-09-07 someone reorders the news page, introducing subheadings;
+    phm reverts and makes page require login; this restriction is later
+    removed again
+-   2004-09-03 phm moves exhortation \"Please do **NOT** add \...\" from
+    news page to meta page (section \"exhortations\" below)
+-   2004-08-26 jmaebe news item on [MS probe regarding
+    DRM](http://news.google.com/?ned=us&ncl=http%3A%2F%2Fwww.usatoday.com/tech/news/techpolicy/business/2004-08-25-ms-tw-drm-euro_x.htm&filter=0 "wikilink")
+    removed, has nothing to do with patents.
+-   2004-08-25 jmaebe [linux free of copyright violations
+    article](http://www.computerweekly.com/articles/article.asp?liArticleID=130034&liFlavourID=1&sp=1 "wikilink")
+    removed, it has nothing to do with patents. (phm: wasn\'t it at
+    least worth moving to [FfiinewsEn](FfiinewsEn "wikilink")? And, in a
+    wider sense, the SCO-type legal terrorism has to do with patents)
+-   2004-08-05 phm [softpedia limux
+    news](http://news.softpedia.com/news/2/2004/August/9174.shtml "wikilink")
+    moved to [Limux040804En](Limux040804En "wikilink") \-- if you think
+    it deserves a place on the top of the main newsticker, please chose
+    a heading that makes clear why and put a link to the
+    [Limux040804En](Limux040804En "wikilink") page in brackets
+-   2004-08-04 phm: !InternetNews article \"Linux\'s patent risk\"
+    removed: it is already in [Osrm040802En](Osrm040802En "wikilink")
+-   2004-07-30 phm: subjective comments removed (\"great article!\",
+    \"trivial patent\"). We want factual news reporting only! The news
+    page is not a blog for lyrics from anonymus!
+-   2004-07-27 phm: news about media echo on Rosen and HP Memo
+    integrated into existing kwiki reporting
+-   2004-07-26 phm: page created
+
+## Some Advice {#some_advice}
+
+-   Please do **NOT** add everything with the words \"Microsoft\",
+    \"Linux\" or \"copyright\" in it. This is an overview of news about
+    *(software) patents*. Add other items to the [ Information
+    Infrastructure News page](FfiinewsEn "wikilink") instead.
+-   Don\'t try to improve the structures of this page. If you want more
+    neatly classified news, transfer them to other more specialised
+    pages, such as [ Council Reversal](ConsRevers04En "wikilink") or [
+    Netherlands](SwpatnlEn "wikilink"), which should usually start with
+    a \"News and Chronology\" section.
+-   [Example how non-English language news/press releases can be
+    handled, Hungarian in this
+    example.](http://wiki.ffii.org/IVSZ040826En "wikilink"). Of course
+    you also could add it to <http:SwpatcninoHu> but then the readership
+    is Hungarian-only (though sometimes that matters more than
+    international, so doing both is another option.)
+
+## Naming Conventions {#naming_conventions}
+
+If your news item is more than one line long, fork it out into a
+separate wiki page. The wiki page should be [
+named](PagNomEn "wikilink") like
+[Cons040129En](Cons040129En "wikilink"), i.e.
+Stem+year+month+day+Language.
+
+Find more explanations on naming at [PagNomEn](PagNomEn "wikilink")
+
+## Moving Items to Other News Pages {#moving_items_to_other_news_pages}
+
+Some newsitems are moved to other pages, where they are more
+appropriate, e.g.
+
+-   [Swpatcnino04En](Swpatcnino04En "wikilink") \-- News of 2004: more
+    appropriate for some news that are already too old (currently there
+    is no page for 2003 and backward, so everything that\'s too old goes
+    here)
+-   [FfiinewsEn](FfiinewsEn "wikilink") \-- Information Infrastructure
+    News: more appropriate in cases that are of interest to FFII but not
+    related to patents
+-   [FfiiprojNewsEn](FfiiprojNewsEn "wikilink") \-- Project News: more
+    appropriate in case of news that are of interest to ffii supporters
+    rather than to the public at large.
+
+x

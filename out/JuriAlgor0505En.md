@@ -1,0 +1,41 @@
+## Recital 16 {#recital_16}
+
+\|\| number \|\| submitter \|\| recommendation \|\| text \|\| \|\| 230
+\|\| Ortega \|\| + \|\| \[deleted\] \|\| \|\| 15 = 231 \|\| Rocard;
+Lichtenberger, Frassoni \|\| ++ \|\| Thus, an algorithm or computer
+program, which are inherently non-technical, can never be regarded as
+inventions. A computer-controlled technical procedure might be
+patentable to the extent that this process has characteristics which
+make it a technical contribution. However, any patent granted for such a
+process may not establish a monopoly on the algorithm or the program
+itself, as programs as such cannot be patentable, as stated in
+particular in Article 52(2)(c) of the European Patent Convention. \|\|
+\|\| 232 = 233 = 234 = 235 \|\| Kauppi; Szejna; Kudrycka and Zwiefka;
+Bertinotti \|\| + \|\| Furthermore, an algorithm is inherently
+non-technical and therefore cannot constitute a technical invention.
+\|\|
+
+The original Council claims that algorithms are patentable if they are
+used to solve a \"technical problem\" (\"a method involving an
+algorithm\" includes algorithms as such). The EPO uses the
+problem-solution-effects approach to make pretty much everything,
+including computer-implemented business methods, patentable. As soon as
+one of those three things (problem, solution, effects) is technical,
+it\'s ok for them.
+
+Examples of technical problems are the fact that you must use less
+computer memory or use less space on a computer screen. Examples of
+technical effects are automating something which is known and results in
+surprising economy of scale benefits.
+
+230 properly deletes the original Council text.
+
+232 = 234 = 235 clarify the Council text by removing the
+problem-solution approach, which suggests that if the problem is
+technical, the invention (= the solution) automatically becomes
+technical as well.
+
+15 = 231 are even more clarifying, by noting that a
+computer-controlled/aided/assisted technical process is perfectly
+patentable, and by explaining the meaning of the exclusion of computer
+programs as such from patentability in the European Patent Convention.

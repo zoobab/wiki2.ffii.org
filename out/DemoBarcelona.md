@@ -1,0 +1,297 @@
+Les fotos de la concentració són aquí:
+
+<http://caliu.info/gallery/manifestacio>
+
+------------------------------------------------------------------------
+
+Hola gente!
+
+Yo no pude asistir y me gustaría saber cómo fue la cosa, si hay fotos o
+algo por ahí para hacerme una idea.
+
+Un saludo!
+
+------------------------------------------------------------------------
+
+Cartells:
+
+He fet un cartell per anunciar l\'event. A aquesta adreça:
+
+<http://davdela.homeip.net:8080/~davdela/pub/manifestacio_patents/>
+
+teniu tres formats del cartell: ps, png y svg (fet amb sodipodi, per si
+el voleu modificar)
+
+------------------------------------------------------------------------
+
+-   [DemoBarcelona040529Es](DemoBarcelona040529Es "wikilink")
+
+Demo Barcelona 2004-05-19 12.00 Doncs de groc semblarem els del
+forum\....
+
+2004-05-18 14.00h Hola a todos !!!!
+
+Os paso los datos concretos para el dia 29:
+
+Dia: 29/05/2004
+
+Hora 12.00h
+
+Lugar: Plaza Llevant (es la conjunción de Rambla Prim con Avda.Diagonal,
+justo delante de la entrada del Forum)
+
+Como llegar: me he puesto en contacto con los organizadores del Forum y
+nos han hecho esta página:
+<http://www.barcelona2004.org/esp/info_practica/comollegar.htm>
+
+)
+
+!! TODOS DE AMARILLO !! he pensado en hacer camisetas con un \" No a las
+patentes de software \", quien quiere? quien me ayuda? quien pone la
+pasta? \.....
+
+erzoto pasaba por aquí y se decidió a colaborar: me parece buena idea,
+en la línea de las de sincanon, Yo puedo poner 100 euros, vivo en Gràcia
+enviame un mail a erzoto(at)moviments.net i nos ponemos en contacto.
+
+Hasta luego,
+
+------------------------------------------------------------------------
+
+Hola,
+
+Soy Fran de Barcelona, he visto que no hay ningún dia planificado para
+hacer una quedada contra las patentes de software en BARCELONA y eso no
+puede ser !!!!!!
+
+!! Tenemos que coordinarnos y montar una quedada delante del FORUM !!
+
+!! Es una gran oportunidad de que se nos oiga !!
+
+Por favor, os podeis poner en contacto conmigo en fanlmail\@jazzfree.com
+o tambien en esta misma página.
+
+Si us plau, apunteu-vos també a docscaliu-no-epatents\@lists.sf.net per
+parlar-ne. <http://patents.caliu.info/llistes.html>
+
+<http://www.gratisweb.com/nopatentes/>
+
+------------------------------------------------------------------------
+
+NO A LAS PATENTES DE SOFTWARE
+
+------------------------------------------------------------------------
+
+IDEAS
+
+-Organizar recogida de firmas contra las patente de software.
+
+-Llamar a los periódicos para informarles sobre la protesta. Hay alguien
+que trabaje en algún diario?
+
+------------------------------------------------------------------------
+
+LOGÍSTICA
+
+Contamos con páginas de sincanon.hispalinux.es, softwarelibre.net, y
+diversas de la Asociación de Hispalinux. Desde Sindominio.net vamos a
+anunciar todo lo necesario.
+
+------------------------------------------------------------------------
+
+DIFUSIÓN
+
+Todos los indymedia.org del estado español. Pancartas\....
+
+------------------------------------------------------------------------
+
+ADHESIONS / COMENTARIS
+
+------------------------------------------------------------------------
+
+Yo me apunto, escribiré a la lista de debian en castellano, para ver si
+algunos se nos unen, si hay que algo que debemos hacer, es intentar
+evitar que este tema de las patentes que tanto nos afecta a todos siga
+adelante.
+
+Hola \"companyers\". Em dic Joaquim. M\'apunto a la possible \"mani\"
+davant del Forum el dissabte 29. És cert que és una bona oportunitat.
+
+El Sabado 29 puede ser un muy buen dia, para montar el \"pollo\" delante
+del Forum. Si a la mani el sabado 29!!! Hay que publicar la notícia en
+alguna web?
+
+Por supuesto seria necesario un mailing masivo.
+
+Podem presentar firmes al Govern de la Generalitat. Però el més efectiu
+és avisar els diaris i fer loguda davant del Forum.
+
+Lo mas efectivo, movida \"televisada\". Hay que avisar a los periodicos
+i TV3.
+
+Segur que els de Softcatalà s\'apunten a difondre la notícia
+d\'organitzar la moguda pel dia 29.
+
+Yo colaboro en lo que sea, siempre que haya alguna iniciativa
+organizada.
+
+Si, s\'ha de fer alguna cosaaaaaaaaaaaaaaaaaaa!!!!!!!!!!!!! Compteu amb
+mi en allò que pugui ajudar. Josep Vives (jvives\@cibersocietat.net)
+
+Otro que se apunta. A estas alturas no nos podemos rendir. DZPM
+
+Hola nois, alguns ja vam considerar aquesta fa temps. Crec personalment
+que es una de les millors maneres de donar a coneixer l\'assumpte. Cal
+adreçar l\'escrit de comunicació a la Subdelegació del Govern, ja sigui
+en persona o mitjançant el fax 934820413. Ho diu al web de
+<http://www.bcn.es>
+<http://www.bcn.es:88/ya2/baSimpleSearchAc.do?idioma=ca&queryText=manifestaci%C3%B3&y=0&x=0>
+
+\[xdrudis: acabo de trucar a la delegació del govern espanyol i em diuen
+que ja estan al corrent, que algú ja ho ha comunicat. Gràcies a qui
+sigui\]
+
+Bon día, a tothom. Pueden contar conmigo y flia. Avisaré a TV de L\'H, a
+ver si se pueden venir. Esto hay que pararlo ahora, si no después se
+hace imposible.
+
+Contad conmigo. Dia 29 de Mayo delante del forum. En que parte del forum
+y a qué hora. Solo decídmelo y voy para allá. Esto es importante. Hay
+mucho en juego.
+
+Hola sóc el Ricard de Sabadell, jo m\'hi apunto!!!! NO a les patents de
+software!!!!!!
+
+\>\-\-\--\< Hola, soy Rubén, de Barcelona. Respecto a la página
+<http://www.gratisweb.com/nopatentes/> casi todos los enlaces
+informativos llevan a información en inglés, incluso el link de
+\"300.000 ciudadanos\" podría llevar a su versión española,
+<http://petition.eurolinux.org/index_html?LANG=es> Pensando en quién no
+tiene mucha idea de qué va el tema, y quién apenas tiene conocimientos
+de inglés, existen las versiones traducidas de respectivas páginas de la
+FFII. Tal vez podríamos hacer una traducción o un resumen\... Mi inglés
+es bastante malo xD, pero con él y algún traductor de google o altavista
+se podria hacer un apaño, siempre que no se vulnere algún copyright\....
+Un saludo, nos vemos el Sábado 29\... a ver que consigo hacer con lo de
+ir de amarillo \^\^ seta_san\_\@hotmail.com \>\-\-\--\<
+
+Fran (fanlmailARROBAjazzfree.com)
+
+============ ============
+
+soy estudiante en la FIB (facultad de informatica de Bcn). En la UPC.
+
+Haré correr la voz en el forum de los estudiantes.
+
+miKeL a.k.a.mc2
+
+-   -   
+
+Hi ha material gràfic, multimèdia i tal a la FFII i altres llocs. Llista
+<http://patents.caliu.info/index.html#Multimedia>
+
+-   -   
+
+Molts record al catalans en aquestes jornades tan promisories. Albert -
+Argentina.
+
+-   -   
+
+------------------------------------------------------------------------
+
+DIFUNDIDO EN:
+
+<http://barrapunto.com/articles/04/05/19/0710219.shtml>
+
+<http://puntbarra.com/node/view/2073>
+
+<http://www.bandaancha.st/weblogart.php?artid=2510>
+
+<http://barcelona.indymedia.org/newswire/display/90935/index.php>
+
+Lista de correo de vorwireless: tenes777 en champinet punto com
+
+Llista de correu del Tenes777: tenes777 a listas punto sindominio punto
+net
+
+Lista de correo de Kernel Panic: kernelpanic en sindominio punto net
+
+Lista de correo de ASSL: assl-list en assl-site punto net
+
+Lista de correo de Mataró Sensefils: llista en matarosensefils punto net
+
+Lista de correo de Badopi: comandob en badopi.org
+
+------------------------------------------------------------------------
+
+21/05/2004 10.51
+
+------------------------------------------------------------------------
+
+Hola a todos,
+
+NOTA IMPORTANTE: Primero deciros que tenemos el permiso de la
+Subdelegación del Gobierno de hacer la concentración, por lo tanto es
+legal y no habrá ningún problema en ese sentido.
+
+segundo queria exponer unas pequeñas reflexiones:
+
+esta página está creada para que las personas que la visiten sepan como
+las multinacionales quieren agrandar su imperio imponiendo las patentes
+de software en Europa. esta página está creada para animar las personas
+que la visiten a que vengan a la concentración convocada para el dia 29
+en el Forum en Contra de las Patentes de Software.
+
+para hablar de otras posibles manifestacions/concentraciones/etc os
+animo a apuntaros a las listas de distribución que estan hechas con tal
+fin, por ejemplo la de caliu como anteriormente nos animó un compañero.
+\"Si us plau, apunteu-vos també a docscaliu-no-epatents\@lists.sf.net
+per parlar-ne. <http://patents.caliu.info/llistes.html>\"
+
+considero oportuno el forum por: el sábado puede llegar a tener mas de
+30.000 visitantes es un sitio plagado de medios de comunicacion que
+pueden difundir la noticia - Obviamente también considero buenas muchas
+de las opciones que se han escrito, pero de momento esta convocada esta,
+animo a seguir convocando muchas mas para para este abuso contra la
+Libertad de Software.
+
+p.d.: pido disculpas a quien he borrado su intervención, contactaré con
+ellos personalmente por mail.
+
+Un saludo a todos y nos vemos el dia 29,
+
+FRAN
+
+fanlmailARROBAjazzfree.com
+
+Hola! yo lei que en la votacion que hubo, solo españa voto en contra,
+alguien podria corrovorarlo?
+
+\[Cert. Àustria, Bèlgica, Itàlia i Polònia es van abstenir, per tant
+només van faltar 2 vots per bloquejar la votació (ajornar-ho). Polònia
+la van comptar com un \"si\" en la nota de premsa de la presidència
+irlandesa. Vegeu <http://patents.caliu.info/nota20040518.html>
+<http://proinnova.hispalinux.es/notas-prensa/nota-036.html>
+<http://kwiki.ffii.org/index.cgi?SwpatcninoEn>
+<http://www.elis.ugent.be/~jmaebe/nobackup/council2.mov> ( 4 Mb )
+<http://foro.araykoo.com/> No sé si això toca aquí o no. Si no toca ja
+ho esborrareu i perdó. \]
+
+Creo que lo mas interesante es una difusion de la idea de software libre
+y recogida de firmas. Un saludo a todos! Elio
+
+------------------------------------------------------------------------
+
+-   Alguien ha propuesto de utilizar las chaquetas reflectantes
+    amarillas para hacernos ver mas. Me parece buena idea :)
+-   Tambien se hablaba de ir hacia la delegacion europea que hay en el
+    passeig de Gracia (creo).
+
+`  Tampoco me parece mal una excursion en metro __despues__ de la concentracion delante del forum :).`
+
+Bueno solo son cosillas que he oido por ahi y que podrian estar bien,
+no?
+
+BeavieS
+
+------------------------------------------------------------------------

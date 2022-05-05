@@ -1,0 +1,36 @@
+\[ [Rechtsausschuss stimmt für Neustart des
+Softwarepatent-Verfahrens](http:Restart050202De "wikilink") \]
+
+## Stellungnahme von Eva Lichtenberger nach dem Beschluss der Neustart-Empfehlung {#stellungnahme_von_eva_lichtenberger_nach_dem_beschluss_der_neustart_empfehlung}
+
+#### Neustart ist möglich, Rechtsausschuss hilft Rat aus der Misere {#neustart_ist_möglich_rechtsausschuss_hilft_rat_aus_der_misere}
+
+In der heutigen Sitzung des Rechtsausschusses, nach einer Aussprache mit
+dem neuen Kommissar !McCreevy und nach einer hitzigen Debatte über die
+Zukunft der Richtlinie über die Patentierbarkeit computerimplementierter
+Erfindungen fällte die überwiegende Mehrheit des Ausschusses eine
+Entscheidung, die vor einer Woche noch nicht zu erwarten gewesen wäre.
+Da die Richtlinie im Rat derzeit keine klare Mehrheit mehr hat und die
+letzten Sitzungen keine Einigung brachten, nahm das Parlament das Heft
+in die Hand und forderte - entsprechend der Geschäftsordnung - einen
+Neustart der Verhandlungen über die gesamte Richtlinie. Dies ist der
+einzige vernünftige Ausweg aus der derzeitigen Sackgasse.
+
+!McCreevy hatte im Hearing vorher jede Klarheit - und jede
+Positionierung - vermissen lassen, und das, obwohl von den Abgeordneten
+einige Male nachgefragt wurde. In der Debatte herrschte breite Einigkeit
+darüber, dass der derzeit am Tisch des Rates liegende Vorschlag
+kontraproduktiv und keine gute Entscheidungsgrundlage mehr war. Dass es
+nun einen Ausweg brauchte, war allen klar.
+
+#### Zitat MdEP Eva Lichtenberger: {#zitat_mdep_eva_lichtenberger}
+
+Die jetzige Initiative des Ausschusses ist ein guter Anfang, aber noch
+nicht das glückliche Ende in der Frage der Patentierung von Software.
+Aber die mutige Entscheidung des heutigen Abends hat eine gute Chance
+auf eine bessere Lösung eröffnet. Ich bin sehr zufrieden darüber, dass
+damit eine Möglichkeit geschaffen wird, die Patentierung von Software zu
+verhindern und eine bessere Richtlinie für die gesamte Branche zu
+bekommen, ohne dass die Giganten am Markt mithilfe eines
+quasi-amerikanischen Patentrechts die innovativen Klein- und
+Mittelbetriebe aus dem Markt drängen können.

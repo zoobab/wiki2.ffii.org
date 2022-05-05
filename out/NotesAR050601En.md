@@ -1,0 +1,76 @@
+### andersen
+
+rules of the game: design of patent law vs. interaction of the game
+
+Design \"belive system\"
+
+### Müglich, IFIS {#müglich_ifis}
+
+\- Project 09/2004
+
+\- 1214 participants
+
+\- high intrinsic information
+
+\- 1580 downloads of the pdf minimum
+
+\- SME problem
+
+\-- 48.19% 1-4 employees
+
+\-\-- 69.17 % \> 3 J in business
+
+\- don\'t know about possible patent protection
+
+\- rather negative
+
+\- influence on the Intellectual Rights Management
+
+\- suits cannot be survived
+
+\- cannot check whether they infringe
+
+600 EU says EPO cost BUT + patent attorney costs (more!)
+
+\- not part of licensing
+
+\- purpose of patente aggraoub(?) of market access + defense against
+patent claims
+
+\- publications of patents
+
+\- most companies \"very negative\" concerning the impact.
+
+\- 42 % say they will ignore patents
+
+\- 44% want to bypass them
+
+-SMEs don\'t apply
+
+\-- cost
+
+\-- time
+
+\-- risks
+
+Obviously: most SMes who answered had a negative point of view.
+
+### Kaj Arnö, MySQL AB {#kaj_arnö_mysql_ab}
+
+\- agree with \...
+
+\- for few, for many
+
+\- thought it went alone \-- no
+
+\- MySQL
+
+\-- production and business model innovative
+
+\- 200 employees
+
+Pragmatic reality
+
+\- swpat: the us system
+
+\- swpat not good for the markets

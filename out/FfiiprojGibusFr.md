@@ -1,0 +1,34 @@
+# Liste de tâches pour Gibus {#liste_de_tâches_pour_gibus}
+
+## Tâches générales {#tâches_générales}
+
+-   *compte-rendu du chat du 2004-05-04* **OK le 2004-05-05**
+-   *traduire et améliorer* <http://kwiki.ffii.org/ParlReso0405En> *-\>*
+    <http://kwiki.ffii.org/ParlReso0405Fr> **OK le 2004-05-07**
+-   *traduire* <http://kwiki.ffii.org/MepV0405En> *-\>*
+    <http://kwiki.ffii.org/MepV0405Fr> *voir aussi*
+    <http://wiki.ael.be/index.php/MepV0405Fr> **OK le 2004-05-06**
+-   *mettre à jour la base de données des amendements avec*
+    <http://www.elis.ugent.be/~jmaebe/swpat/council040406/> **OK le
+    2004-05-04**
+-   *traduire le communiqué*
+    <http://swpat.ffii.org/journal/04/cons0507/index.fr.html> **OK le
+    2004-05-06**
+-   *traduire* <http://kwiki.ffii.org/SwpatxatraFr> **OK le 2004-05-09**
+-   *répondre aux demandes de fr-help -\>*
+    <http://kwiki.ffii.org/RespHelpFr> **OK le 2004-05-10**
+-   mettre à jour <http://kwiki.ffii.org/LtrInfosoc040504Fr> avec
+    <http://kwiki.ffii.org/LtrInfosoc040506En>
+-   mettre à jour <http://kwiki.ffii.org/MepV0405Fr> avec
+    <http://kwiki.ffii.org/MepV0405En>
+-   traduire <http://swpat.ffii.org/papers/europarl0309/cec0405/>
+-   mettre à jour <http://kwiki.ffii.org/SwpatfrFr> avec
+    <http://www.elections2004.eu.int/ep-election/sites/fr/yourvoice/fr/candidates.html>
+-   compléter <http://kwiki.ffii.org/DemoParis0405Fr>
+
+## 2004-05-18
+
+-   Conf Stallman
+-   Attaché au ministère de la recherche
+-   !MandrakeSoft
+-   !ObjectWeb

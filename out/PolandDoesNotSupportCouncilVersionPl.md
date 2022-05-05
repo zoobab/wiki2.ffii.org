@@ -1,0 +1,131 @@
+Polska nie poprze aktualnego projektu dyrektywy o patentach na
+oprogramowanie
+
+Oficjalny komunikat na stronie KPRM po wtorkowej Radzie
+[MinistrAl](MinistrAl "wikilink")/w: \"Z uwagi na liczne niejasnoL\*ci i
+sprzecznoL\*ci dotyczÄ\*ce obecnego projektu dyrektywy, Polska nie moLze
+poprzeÄ\* jego brzmienia, ktAl/re zostaL\*o przyjÄ\*te w gL\*osowaniu
+Rady 18 maja 2004 r.\" - Zgoda polityczna z 18 maja 2004 dla projekty
+dyrektywy nie moLze zostaÄ\* formalnie zaakceptowana przez RadÄ\* Unii
+Europejskiej.
+
+Warszawa, 17 listopada 2004. Po posiedzeniu Rady
+[MinistrAl](MinistrAl "wikilink")/w, RzÄ\*d Polski oficjalnie
+zadeklarowaL\* wczoraj wieczorem Lze Polska nie moLze poprzeÄ\* tekstu
+uzgodnionego 18 maja 2004 r. jako propozycji \"dyrektywy w sprawie
+zdolnoci patentowej wynalazkAl/w realizowanych przy pomocy komputera\".
+Tym samym Rada Unii Europejskiej nie moLze formalnie przyjÄ\*Ä\* tego
+projektu jako jej wspAl/lnego stanowiska. Bez poparcia Polski, krajom
+ktAl/re forsowaL\*y projekt w Maju, brakuje teraz 16-tu gL\*osAl/w do
+osiÄ\*gniÄ\*cia wiÄ\*kszoL\*ci kwalifikowanej. Nowy system gL\*osowania
+wszedL\* w Lzycie z dniem 1-go listopada.
+
+Po szerokich konsultacjach z organizacjami z branLzy IT i UrzÄ\*dem
+Patentowym RP, Rada [MinistrAl](MinistrAl "wikilink")/w doszL\*a do
+wniosku Lze omawiany projekt dyrektywy nie osiÄ\*ga stawianych mu
+celAl/w ograniczenia patentowania oprogramowania i metod biznesowych w
+Europie. RzÄ\*d Polski wyjaL\*niL\*, Lze zdecydowanie popiera
+jednoznaczne regulacje, ale nie dyrektywÄ\* w ktAl/rej program
+komputerowy moLze byÄ\* patentowalny. Komisja Europejska i rAl/Lzne
+delegacje rzÄ\*dowe niektAl/rych krajAl/w przekonywaL\*y iLz ten projekt
+dyrektywy nie pozwoli na patentowanie oprogamowania.
+[JednakLze](JednakLze "wikilink"), na spotkaniu zogranizowanym przez
+Ministerstwo Nauki i Informatyzacji 5-go listopada, absolutnie wszyscy,
+wL\*Ä\*czajÄ\*c w to reprezentatAl/w UrzÄ\*du Patentowego RP, Sun,
+Novell, Hewlett-Packard i Microsoft, jak i prawnicy patentowi,
+potwierdzili iLz projekt Rady UE czyni kaLzde oprogramowanie
+patentowalnym.
+
+W zeszL\*ym tygodniu, staL\*y reprezentant Holandii przy UE
+zadeklarowaL\*, Lze Rada UE, ktAl/ra jest obecnie pod prezydencjÄ\*
+HolenderskÄ\*, bÄ\*dzie staraÄ\* siÄ\* przekazaÄ\* swoje wspAl/lne
+stanowisko na temat dyrektywy o patentach na oprogramowanie do
+Parlamentu Europejskiego w poL\*owie grudnia. Tymczasem teraz Rada UE
+bÄ\*dzie musiaL\*a renegocjowaÄ\* projekt zamiast przyjÄ\*Ä\* juLz teraz
+niewaLznÄ\* zgodÄ\* politycznÄ\* z 18 maja. Uprzednio formalne
+przyjÄ\*cie stanowiska byL\*o opAl/Lsniane formalnie ze wzglÄ\*du na
+niedobAl/r tL\*umaczy.
+
+Jan Macek z FFII w Polsce mAl/wi: \"Kraje takie jak Luksemburg, L\*otwa,
+Dania, WL\*ochy ktAl/re wnosiL\*y o zmiany podobne do poprawek
+Parlamentu Europejskiego, ale zostaL\*y odrzucone przez
+wAl/wczas-IrlandzkÄ\* prezydencjÄ\*, teraz bÄ\*dÄ\* miaL\*y szansÄ\*
+zaproponowaÄ\* swoje poprawki ponownie, z poparciem Polski. To pomoLze
+zbliLzyÄ\* treL\*Ä\* dyrektywy do wersji Parlamentu Europejskiego
+ktAl/ry przyjÄ\*L\* stanowisko wyraLsnie zabraniajÄ\*ce przyznawania
+patentAl/w na oprogramowanie i metody biznesowe.
+
+WL\*adysL\*aw Majewski, prezes Internet Society Polska, podkreL\*liL\*
+Lze ekonomiczne i spoL\*eczne implikacje patentAl/w na oprogramowanie:
+\"WÄ\*tpliwy kompromis ktAl/ry Rada UE osiÄ\*gnÄ\*L\*a w maju byL\*
+najwiÄ\*kszym zagroLzeniem dla wzrostu gospodarczego, i dla wolnoL\*ci
+komunikacji. LtÄ\*dania systemu patentowego i departamentAl/w patenowych
+niektAl/rych wielkich korporacji nie mogÄ\* nigdy przesL\*oniÄ\*
+interesAl/w gospodarki i spoL\*eczeL\*stwa w caL\*oL\*ci.
+
+Zgoda polityczna Rady UE byL\*a pod silnÄ\* krytykÄ\* od momentu kiedy
+zostaL\*a ogL\*oszona 18 maja. Politycy z przerAl/Lznych czÄ\*L\*ci
+demokratycznego spektrum, maL\*e i L\*rednie przedsiÄ\*biorstwa,
+programiL\*ci i ekonomiL\*ci apelowali do Rady UE aby renegocjowaL\*a
+swoje stanowisko. Deutsche Bank Research i
+[PriceWaterhouseCoopers](PriceWaterhouseCoopers "wikilink") wprost
+ostrzegaL\*y o negatywnych konsekwencjach dla europejskich
+przedsiÄ\*biostw z branLzy IT, dla innowacyjnoL\*ci, i dla moLzliwoL\*ci
+osiÄ\*gniÄ\*cia przez UE celAl/w przedstawionych w Agendzie
+LizboL\*skiej. 1-go lipca parlament Holenderski uchwaliL\* rezolucjÄ\*
+rzÄ\*dajÄ\*cÄ\* od swojego rzÄ\*du zmiany stanowiska Holandii z poparcia
+na wstrzymanie siÄ\* od gL\*osu. 21-go paLsdziernika wszystkie cztery
+grupy polityczne w parlamencie niemieckim wypowiedziaL\*y siÄ\*
+przeciwko patentom na oprogramowanie i omawianemu projektowi dyrektywy,
+i przyjÄ\*L\*y rezoucje tego LzÄ\*dajÄ\*ce.
+
+------------------------------------------------------------------------
+
+OdnoL\*niki
+
+Omawiane stanowisko polskiej Rady [MinistrAl](MinistrAl "wikilink")/w
+jest dostÄ\*pne pod adresem <http://www.kprm.gov.pl/441_12649.htm>
+
+Opracowanie na temat starego i nowego systemu gL\*osowania w Radzie UE
+jest opublikowane pod adresami:
+<http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=97> (PR)
+<http://www.nosoftwarepatents.com/docs/041101qm.pdf> (analiza)
+
+O Fundacji na rzecz Wolnej Infrastruktury Informacyjnej (FFII):
+
+Fundacja na rzecz Wolnej Infrastruktury Informacyjnej (FFII) jest
+niedochodowym stowarzyszeniem zarejestrowanym w Monachium, ktAl/rego
+gL\*Al/wnym celem jest propagowanie umiejÄ\*tnoL\*ci przetwarzania
+danych. FFII wspiera rozwAl/j sfery informacji publicznej w oparciu o
+prawo autorskie, wolnÄ\* konkurencjÄ\* i otwarte standardy. Ponad 300
+czL\*onkAl/w, 700 firm i 50000 osAl/b wspierajÄ\*cych upowaLzniL\*o FFII
+do wypowiadania siÄ\* w ich imieniu w kwestiach polityki dotyczÄ\*cej
+praw wyL\*Ä\*cznych (wL\*asnoL\*ci intelektualnej, monopoli
+intelektualnych) w dziedzinie przetwarzania danych. Stowarzyszenie
+aktywnie sprzeciwia siÄ\* zmianom prawnym dopuszczajÄ\*cym moLzliwoL\*ci
+patentowania oprogramowania.
+
+O Internet Society Polska (ISOC-PL):
+
+Internet Society (ISOC) propaguje rozwAl/j Internetu i spoL\*eczeL\*stwa
+informacyjnego. Do ISOC naleLzy wiÄ\*kszoL\*Ä\* L\*wiatowych pionierAl/w
+Internetu. OddziaL\*y ISOC dziaL\*ajÄ\* w 150 krajach. W ramach Internet
+Society dziaL\*ajÄ\* Internet Engineering Task Force (IETF) i Internet
+Architecture Board (IAB), ktAl/re od zarania okreL\*lajÄ\* podstawowe
+standardy techniczne Internetu.
+
+O [NoSoftwarePatents](NoSoftwarePatents "wikilink").com moLzna
+przeczytaÄ\* pod adresem
+<http://www.nosoftwarepatents.com/pl/m/about/index.html>
+
+------------------------------------------------------------------------
+
+Kontakt:
+
+Jan Macek FFII, Polska miernik\@ffii.org telefon: +48-888-299997
+
+WL\*adysL\*aw Majewski ISOC Poland wladek\@isoc.org.pl
+
+Florian MAzller Campaign Manager,
+[NoSoftwarePatents](NoSoftwarePatents "wikilink").com
+press\@nosoftwarepatents.com telefon: +49-8151-651850

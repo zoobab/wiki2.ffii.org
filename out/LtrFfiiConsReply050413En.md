@@ -1,0 +1,16 @@
+# 23 Questions not answered by the Council Legal Service {#questions_not_answered_by_the_council_legal_service}
+
+Brussels, 11th March 2005
+
+Mister, Madam,
+
+Your letter of the 15th March has been caustiously examined. In my
+answer, I attract your attention on the following points:
+
+1\. The procedure of consultation of candidate countries has been opened
+the 28th February 2005 and has ended on the 4th March 2005 pour reasons
+of urgency related to the session date of the Council. No observation
+has been made by those countries.
+
+2\. About the inscription of this item on the agenda, you have
+mentionned the article 3.7 of the Council Rules of Procedure,

@@ -1,0 +1,70 @@
+# WIPO SCP Casablanca Statement {#wipo_scp_casablanca_statement}
+
+\[ [ EPO B+](EPO050223En "wikilink") \]
+
+------------------------------------------------------------------------
+
+# STATEMENT ADOPTED AT THE END OF INFORMAL CONSULTATIONS IN CASABLANCA ON FEBRUARY 16, 2005 {#statement_adopted_at_the_end_of_informal_consultations_in_casablanca_on_february_16_2005}
+
+1\. Following the mandate given to him by the WIPO General Assembly in
+September 2004, the Director General of WIPO convened informal
+consultations concerning future sessions of the Standing Committee on
+the Law of Patents (SCP) in Casablanca, Morocco, on February 16, 2005.
+The consultations were attended by delegates from Brazil, Chile, China,
+France, Germany, India, Italy, Japan, Malaysia, Mexico, Morocco, Russian
+Federation, Switzerland, United Kingdom, United States of America,
+African Regional Intellectual Property Organization (ARIPO), Eurasian
+Patent Office (EAPO), European Patent Office (EPO), African Intellectual
+Property Organization (OAPI) and the European Union. Dr. R.A. Mashelkar,
+Director General of the Council of Scientific and Industrial Research
+(CSIR) and Secretary of the Department of Scientific and Industrial
+Research in India, chaired the consultations.
+
+2\. The consultations were held in a positive spirit. The delegates
+strongly endorsed the importance of multilateralism, in particular, in
+WIPO. The consultations resulted in the development of a proposed action
+plan for the near future.
+
+3\. There was broad agreement that the objectives of the future work
+program of the SCP should be to address issues with a view to improving
+the quality of granted patents, thus avoiding unwarranted encroachments
+on the public domain, and to reducing unnecessary duplication of work
+among Patent Offices, which should produce benefits by making the patent
+system more accessible and costeffective.
+
+4\. In order to achieve these objectives, the meeting agreed that the
+following six issues should be addressed in an accelerated manner within
+WIPO with a view to progressive development and **codification** of
+international intellectual property law:
+
+**prior art, grace period, novelty, inventive step, sufficiency of
+disclosure** and genetic resources. These issues should be addressed in
+**parallel, accelerated processes, the first four issues** (prior art,
+grace period, novelty and inventive step) **in the SCP** and the other
+two issues (sufficiency of disclosure and genetic resources) in the
+Intergovernmental Committee on Intellectual Property and Genetic
+Resources, Traditional Knowledge and Folklore (IGC). Each of the SCP and
+the IGC should agree on a timetable and report progress on the
+development of their discussions of the issues to the other.
+
+5\. The meeting underlined the importance of the continued active
+pursuit of discussions and work within WIPO on issues related to
+development and intellectual property so that a robust, effective and
+actionable WIPO Development Agenda could emerge.
+
+6\. The meeting recommended to the Director General of WIPO (a) to call
+on Member States for proposals on the International Development Agenda
+for discussion at the April 2005 session of the Intersessional
+Intergovernmental Meeting (IIM), (b) to convene the next session of the
+SCP in May 2005 to consider and endorse the objectives and work program
+set out above, (c) to convene the next session of the IGC in June 2005
+to consider and endorse the objectives and work program set out above,
+and (d) to transmit the decisions of the above meetings to the General
+Assembly in September 2005 for its consideration, including a time frame
+for the conclusion of these issues within WIPO.
+
+7\. The meeting expressed its warm thanks and gratitude to the
+authorities of the Kingdom of Morocco for hosting the consultations.
+
+The delegate of Brazil did not associate himself with the foregoing
+text.

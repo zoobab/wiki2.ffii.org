@@ -1,0 +1,103 @@
+1.  1.  -\*- dok: [FfiiKonv0511Pr](FfiiKonv0511Pr "wikilink"); lang: fr;
+        datum: 2005-11-30 -\*-
+    2.  url: <http://www.ffii.fr/ffii-ag-2005>
+
+# FFII est une force pour le futur, explique le nouveau président {#ffii_est_une_force_pour_le_futur_explique_le_nouveau_président}
+
+------------------------------------------------------------------------
+
+*Bruxelles, 30 novembre 05 - L\'assemblée générale de la FFII a élu hier
+son nouveau président, Pieter Hintjens, qui prend la tête de
+l\'organisation pour 2006, soutenu par un bureau renforcé incluant le
+fondateur Hartmut Pilch.*
+
+------------------------------------------------------------------------
+
+` Subject: FFII est une force pour le futur, explique le nouveau président`
+
+` COMMUNIQUÉ de PRESSE FFII  [ Europe `*`Économie`*` TIC ]`\
+` `\
+` ======================================================================`\
+` FFII est une force pour le futur, explique le nouveau président`\
+` ======================================================================`
+
+` Bruxelles, 30 novembre 05 - L'assemblée générale de la FFII a élu hier son`\
+` nouveau président, Pieter Hintjens, qui prend la tête de l'organisation pour`\
+` 2006, soutenu par un bureau renforcé incluant le fondateur Hartmut Pilch.`
+
+` Après leur succès de l'été en faisant échouer la directive sur les brevets`\
+` logiciels, et la croissance rapide de la FFII dans 19 pays, le président et le`\
+` bureau ont proposé Pieter Hintjens pour mener la FFII dans une nouvelle phase de`\
+` croissance et d'activité. L'assemblée générale de la FFII a approuvé à`\
+` l'unanimité la nomination de Pieter Hintjens avec un bureau renforcé qui inclus`\
+` le fondateur et ancien président Hartmut Pilch.`
+
+` Pieter Hintjens, 43 ans, est le fondateur et dirigeant de iMatix Corporation,`\
+` une entreprise belge de logiciels. Il a été actif dans le débat contre les`\
+` brevets logiciels, expliquant à l'Office européen des brevets et au Parlement`\
+` européen pourquoi les brevets sur les logiciels et les méthodes d'affaires`\
+` sont si dangereux pour les petites entreprises innovantes qui sont le poumon de`\
+` l'économie européenne. Il apporte à la FFII toute son expérience du monde des`\
+` affaires en tant que chef d'entreprise et de développeur de logiciels.`
+
+` "La FFII est une force pour le futur", mentionne Pieter Hintjens, "et je suis`\
+` fier de pouvoir représenter cette organisation. L'objectif de ma présidence`\
+` sera d'asseoir les fondations pour gérer notre croissance rapide, pour nous transformer`\
+` en organisation professionnelle globale, et pour fournir des`\
+` résultats aux individus et aux industries qui dépendent de nous."`
+
+` Hartmut Pilch, qui était a la tête de la FFII depuis sa création il y a six`\
+` ans, commente:`
+
+` "C'est un pas en avant pour la FFII. Je connais Pieter comme orateur`\
+` charismatique lors des conférences que nous avons organisées au Parlement`\
+` Européen. Quand Pieter m'expliqua ses objectifs et proposa de passer une partie`\
+` significative de son temps l'année prochaine pour concrétiser ses objectifs,`\
+` j'ai immédiatement trouvé sa proposition irrésistible. De même, Pieter a`\
+` immédiatement conquis les coeurs de l'assemblée générale d'hier. Il y a`\
+` maintenant un élan de confiance pour introduire des propositions législatives`\
+` au lieu de seulement mener des combats défensifs. Sans aucun doute, je donnerai a`\
+` Pieter tout mon soutien."`
+
+` ===============================================================================`\
+` Contacts`\
+` ===============================================================================`
+
+` -  Gérald Sédrati-Dinet`\
+`    FFII France`\
+`    gibus@ffii.fr`\
+`    +33-6-60-56-36-45`\
+`    (français/anglais)`
+
+` -  Benjamin Henrion`\
+`    FFII Belgique`\
+`    bhenrion@ffii.org`\
+`    +32-484-566109`\
+`    (français/anglais)`
+
+` -  Jonas Maebe`\
+`    FFII Belgique`\
+`    jmaebe@ffii.org`\
+`    +32-485-369645`\
+`    (néerlandais/anglais)`
+
+` -  Hartmut Pilch`\
+`    FFII Allemagne`\
+`    phm@ffii.org`\
+`    +49-172-8661737`\
+`    (allemand/anglais/français)`
+
+` ===============================================================================`\
+` A propos de la FFII -- `[`http://www.ffii.org`](http://www.ffii.org)\
+` ===============================================================================`
+
+` L'association pour une infrastructure informationnelle libre (FFII) est une`\
+` association à but non lucratif enregistrée dans divers pays européens, ayant`\
+` pour objet de promouvoir les savoirs dans le domaine du traitement des données.`\
+` La FFII soutient le développement de biens informationnels publics fondés sur`\
+` les droits d'auteur, la libre concurrence et les standards ouverts. Plus de 850`\
+` membres, 3000 sociétés et 90 000 supporters ont chargé la FFII de représenter`\
+` leurs intérêts dans le domaine de la législation sur les droits de propriété`\
+` attachés aux logiciels.`
+
+` ===============================================================================`

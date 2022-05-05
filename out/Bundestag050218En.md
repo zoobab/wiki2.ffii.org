@@ -1,0 +1,102 @@
+1.  1.  -\*- dok: bundestag050218; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2005-02-18
+
+# Unanimous Bundestag (German Parliament) vote against software patents {#unanimous_bundestag_german_parliament_vote_against_software_patents}
+
+-\> \[ [ German](Bundestag050218De "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Berlin, 17 February 2005 \-- The German Bundestag unanimously passed a
+motion which strongly attacks the Council version of the European
+software patents directive. As such, the German Bundestag joins growing
+the club of national Parliaments which have spoken out against software
+patents. These actions make the Council\'s attempts to continue trying
+to push it through look more desperate and unworldly by the day.*
+
+The [Council of Ministers version](http:Cons040518En "wikilink") was
+generally considered to be completely inappropriate: \"I think that here
+in the German Bundestag we were able to quickly reach an agreement about
+the fact that the state of the discussion at the EU level leaves many
+central questions open\", stated MP Dirk Manzewski (SPD). MP Rainer
+Funke (FDP) elaborated: \"The necessary and meaningful unification of
+patenting practice should not be allowed to lead to an extension of
+substantive patent law.\"
+
+MP Dr. Günter Krings (CDU/CSU) emphasized that a directive \"that is
+worth its name\", needs a concrete definition of technicality and must
+exclude program claims. He was happy to be in time with the Bundestag
+resolution:
+
+\"When we dealt with this issue in the Bundestag about four months ago,
+probably nobody expected that the EU Council of Ministers would not yet
+have passed the Political Agreement negotiated in May. It is rare for
+the passing of a resolution draft to be postponed this often. The
+directive draft has become a buck that EU Council presidencies pass to
+their successors. After the Dutch government found that nut too hard to
+crack, it is now up to the Luxemburgers.\"
+
+In addition to the Dutch Tweede Kamer, the Spanish Senado and the
+Bundestag votes, he also praised the European Parliament:
+
+\"Our MEP colleagues have now also opted for a restart of the
+legislative process in the European Parliament and to search for a
+constructive solution. The German government should take this motion at
+heart, as it is notably also supported by the representatives of the
+EPP. Now it\'s time for the Minister of Justice base its negotiations in
+Brussels on the interest of software developers and their employees. We
+are waiting for deeds.\"
+
+Manzewski (\"if even I as SPD legal specialist had to swallow when
+reading some of the formulations \...\") and Krings thanked the
+employees of all groups for their help during the negotiation process,
+namely Mr Nermin Fazlic and Mrs Petra Marmann (SPD), Mr Oliver Passek
+and Mrs Franziska Vilmar (Greens), Mr Ole Jani (FDP) and Mr Jörn Henkel
+(CDU). It is thanks to their cooperation, \"that Germany speaks with one
+voice in Brussels\" (MP Jerzy Montag, Greens).
+
+MP Jörg Tauss (SPD) said: \"Incidentally, this refutes an old prejudice
+that computer scientists generally are apolitical or technocratic. They
+are not at all \'specialists without spirit\' in the way Max Weber had
+predicted for the outcome of the societal rationalisation process. They
+are highly qualified, discerning and committed often young persons
+standing up for their convictions and taking part in political
+processes.\"
+
+\"The present motion especially intends to partially correct a deficit
+of the Brussels conciliations. The central concern for me is the
+obstinate ignorance that Brussels has shown to the real European and
+German economical interests in the software field. It is the !SMEs that
+are the vectors of innovation in Germany\'s and Europe\'s IT field\", he
+added.
+
+Holger Blasum (FFII) comments: \"Past Tuesday, entrepreneurs and
+software developers were looking for signals from the Ministry of
+Justice when demonstrating at its Berlin Mohrenstraße site. The restart
+option submitted by the Conference of Presidents yesterday opens new
+doors. All groups in the Bundestag deserve praise for their clear
+position. In so far the government is concerned, I now follow Dr.
+Krings: \'We are waiting for deeds.\' The possibilities to act are
+plentiful now.\"
+
+## Background
+
+-   \"Intergroup motion against software patents in the Bundestag\",
+    <http://wiki.ffii.org/Bundestag050217De>
+-   \"Conference of Group Presidents in the European Parliament demands
+    restart of the software patent directive\",
+    <http://wiki.ffii.org/Restart050217En>
+
+## Contact
+
+-   Hartmut Pilch, phm\@ffii.org, +49-89-18979927
+    (German/English/French), +49-174-7313590, medien\@ffii.org
+-   Benjamin Henrion, bhenrion\@ffii.org, +32-498-292771
+    (French/English)
+-   Dieter Van Uytvanck, dietvu\@ffii org, +32-499-16-70-10 oder
+    +31-6-275-879-10 (Dutch/English)
+-   Erik Josefsson, erjos\@ffii.org, +46-707-696567 or +32-485-83-21-26
+    (Swedisch/English)
+-   Roman Muñoz, tatel\@infonegocio.com +34-943341472 (Spanish)

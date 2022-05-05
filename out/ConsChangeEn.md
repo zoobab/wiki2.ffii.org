@@ -1,0 +1,15 @@
+# Council Decisions are Changeable {#council_decisions_are_changeable}
+
+Talks with politologists and Brussels lobbyists independently confirmed
+that the heads of state do sometimes reverse decisions of their
+ministers, especially in cases such as that of 2004-05-18, where it
+appears that the decision taken by the ministers did not reflect the
+viewpoints taken by the governments at home.
+
+We need to research further and find case examples.
+
+A list of examples to point to will help our friends everywhere to
+counter the FUD that is likely to be launched in favor of the Irish
+\"compromise\".
+
+Please talk to EU politics experts within your reach about this.

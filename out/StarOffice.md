@@ -1,0 +1,197 @@
+Java ES 5 Porting Plan September 12, 2005 (v1.1)
+
+1.0 Proposed Plan to Java ES PMT on September 13, 2005: Release JES 5 on
+Windows simultaneously with Solaris and Linux. Release JES 5 on HP-UX 60
+days after Solaris, Linux and Windows
+
+2.0 Proposed Model: Porting engineers work side-by-side with
+[CPTs](CPTs "wikilink") to port Windows for [JES5](JES5 "wikilink").
+This will eliminate the need for forking sources. If incremental funding
+is an issue, we should consider colocated development only for high risk
+products (identified below) Loan out testing resources to product QE/QA
+teams so that joint testing can be done for Windows. All
+product-specific testing for Windows will be done by CPT\'s. This will
+eliminate the need for separate validation of test results and signoff.
+JES specific testing (e.g., installer, post-integration) will be done by
+porting team. If incremental funding is an issue, we should consider
+colocated testing only for high risk products (identified below)
+
+3.0 Proposed Build Schedule:
+
+Build 1 (Sh Comp, WS, WPS, SR, MQ, Comms-1) 12/7/05 Build 2 (AS, DS, PS,
+AM, Comms-2) 12/21/05 Build 3 (Open build) 1/11/06 Build 4 (Beta build)
+2/1/06 Build 5 2/22/06 Build 6 3/15/06 Build 7 4/5/06 Build 8 (RR build)
+4/26/06 RR (Solaris, Linux, Windows) 6/7/06 GA (Solaris, Linux, Windows)
+7/10/06
+
+4.0 Analysis of Products in [JES5](JES5 "wikilink"):
+
+New Products/Technologies: in [JES5](JES5 "wikilink"): Integration
+Server, Monitoring Console
+
+Products/technologies in [JES5](JES5 "wikilink") that are considered
+major releases : Portal, Application Server, DSEE,
+[WebServer](WebServer "wikilink"),, Message Queue, Calendar Server,
+Messaging Server, Comms Express, Cacao/MFWK In terms of complexity:
+Cacao/MFWK, DSEE, Application Server, Portal Server,
+[WebServer](WebServer "wikilink"), Message Queue
+
+Products/technologies in [JES5](JES5 "wikilink") that are considered
+minor/update releases : Instant Messaging, Delegated Admin, Web Proxy,
+Service Registry, Access Manager, Installer
+
+Products/technologies that are not ported to Windows by
+[CPTs](CPTs "wikilink"): Portal, Messaging Server, Access Manager, Other
+Comms products, Services Registry
+
+Products that are not ported to Windows by [CPTs](CPTs "wikilink") and
+are not Java based:
+
+`   Messaging Server, Calendar Server`
+
+High risk products for development (intersection of the above and R3
+learnings):
+
+`   Messaging Server, Calendar Server, DSEE, Cacao/MFWK, Integration Server`
+
+High risk products for testing (intersection of the above and R3
+learnings): Messaging Server, Calendar Server, DSEE, Cacao/MFWK,
+Application Server, Web Server, Web Proxy, Access Manager
+
+5.0 Joint development on Windows
+
+5.1 Development activities will include the following
+
+Source Merge Building product Packaging Core product porting Install
+integration Developer unit testing
+
+Each of these activities are described below. Source Merge For products
+that are minor releases from [JES4](JES4 "wikilink") this involves (a)
+merge Porting Branch contents to [JES3](JES3 "wikilink")/4 Sustaining
+Branch, and (b) merge Porting Branch contents to [JES5](JES5 "wikilink")
+Development Branch For products that are major upgrades from
+[JES4](JES4 "wikilink") releases this involves (a) merge Porting branch
+contents to [JES3](JES3 "wikilink")/4 Sustaining Branch for the sake of
+single sustaining branch, and (b) Work directly on
+[JES5](JES5 "wikilink") branch for [JES5](JES5 "wikilink") porting work
+For certain products eg, Portal, DSEE, there is no merge involved since
+[JES5](JES5 "wikilink") is new source base and file layout has
+significantly changed. we could still reuse porting code changes we did
+in [JES3](JES3 "wikilink")/4 but they need to be \'carried over
+manually\' on an as needed basis only. Building product Getting products
+to build in local Wipro environment is important to understand what
+changes have occured in the product and how much of our past porting
+work can be reused. Most of the porting previously done for makefiles
+etc can be reused. Since most products are in active development as of
+right now, this is a good time to start building products on Solaris,
+port build scripts if necessary and make product build on HPUX/Windows.
+Setting up tinderbox and establishing nightly builds is also part of
+this activity. Native packaging Most of the work previously done for
+packaging can be reused in [JES5](JES5 "wikilink"). In some cases,
+product teams have changed their packaging model, mostly in order to
+simplify the model, reducing number of packages or modularizing for
+better patch management etc. Once the build is done, we should focus on
+getting the packaging correct. Since we already adhere to good packaging
+policies, there should be no major surprises here. Initial Configuration
+Initial configurators to be ported to both HPUX and Windows. Several
+products have reworked their configurators, in some cases simplifying
+the interface and using Java. We incurred quite a bit of porting effort
+in [JES3](JES3 "wikilink") for porting shell-based configurators to
+Java; much of that can be reused, particularly in cases like Portal, we
+may not need much porting. Requirements for each product w.r.t Initial
+Configuration needs to be identified. Core product porting Effort
+involved for actual porting of product code. For products that are Java
+based (Portal, AM, AS, UWC, DA etc) this effort is fairly minimal. For
+products that are C/C++ based, we did considerable amount of coding
+depending on whether the product was built for HP/Windows (like
+[WebServer](WebServer "wikilink"), [DirServer](DirServer "wikilink")) or
+not (Calendar, Messaging) and if those native products have made
+significant code changes in [JES5](JES5 "wikilink") that would require
+additional porting effort. Assessment to be made after looking at
+[JES5](JES5 "wikilink") sources and comparing them with our work from
+[JES3](JES3 "wikilink")/4 Install integration On HPUX, this is
+essentially creating the PPXML for the product and nothing else. On
+Windows, there is more work involved in getting the install layout,
+Windows specific configuration Some of this work will be done by the
+porting install team but porting product developers must be active
+participants and contributors to product-installer integration.
+Developer unit testing Developers will test the product during each of
+the above activities but it is also important that they are able to
+spend quality time just testing various aspects of the product that may
+or may not be exposed to the development aspects listed above. for
+example, this involves testing the product in a deployment
+configuration, trying various administrative features and uninstall
+testing etc.
+
+5.2 Resource allocation and Tentative schedule
+
+`   Product     Location        Porting engineer        Schedule`
+
+Comms SCA Harish Sep-Oct 2005 MQ SCA Dattu Oct-Nov 2005 AM SCA Arun
+Mohan Oct-Nov 2005 Integration Server SCA Sajesh Oct-Nov 2005 Cacao/MFWK
+GNBL Bobby Oct-Nov 2005 DSEE GNBL Madhav Oct-Nov 2005 App Server IEC
+Varun Oct-Nov 2005 Web Server IEC Arumugam Oct-Nov 2005 Portal Server
+IEC Vasanth Oct-Nov 2005 WPS IEC TBD Oct-Nov 2005 Comms Express IEC Arun
+Mohan Oct-Nov 2005
+
+5.3 Assumptions and Risks
+
+It is assumed that All developers including porting developers use same
+branch No special Porting Branch will be created No merge or sync up
+required No need to align with specific tags for Solaris milestone
+builds Risks are Ramp up time on new products/technologies: Integration
+Server, MFWK/CACAO Late binding products Ability of porting developers
+to be productive in a new environment Availability of shared components
+Late changes to core products Stability of products before porting
+begins Slip in [JES4](JES4 "wikilink") schedule Availability of hardware
+resources with product teams
+
+6.0 Co-located testing on Windows
+
+6.1 Testing activities include the following
+
+Product specific testing includes BAT, sanity, functional, stress,
+system, deployment and other testing that is specific to the products
+(versus Java ES). For types of testing see:
+<http://multiplatform.sfbay.sun.com/Wiki.jsp?page=RR_QA_HP_WIN_Dashboard>
+Product specific testing will be the responsibility of component product
+teams. This includes identification of what tests to run, test
+execution, validation of test results and test signoff. Porting
+resources will be loaned to component teams for test execution.
+
+JES specific testing will be the responsibility of the porting team.
+This will include installer, upgrade/migration (jes stack upgrade only,
+will not include component product upgrade testing), compatibility,
+performance and post integration testing.
+
+6.2 Resource Allocation and Tentative Schedule:
+
+`   Product     Location        Porting engineer    Schedule`
+
+Integration Server SCA TBD Oct-Feb 2006 Comms SCA/IEC Prema, Suriya
+Nov-Feb 2006 MQ, AM SCA Kanda Nov-Feb 2006 Cacao/MFWK GNBL TBD Oct-Feb
+2006 DSEE GNBL Chiddu Oct-Feb 2006 App Server IEC Devesh Nov-Dec 2005
+Web Server IEC Shoba Nov-Dec 2005 Portal Server IEC Nawaz Nov-Dec 2005
+WPS IEC Murugan Nov-Dec 2005 Comms Express IEC TBD Nov-Dec 2005 6.3
+Assumptions and Risks: It is assumed that Product teams have windows
+infrastructure Product teams will train QA resources on JES 5 changes
+and test suites. Product teams will host and manage loaned QA resources.
+Risks are: Ability to ramp up with new hires Overlap of
+[JES4](JES4 "wikilink") and [JES5](JES5 "wikilink") activities Slips in
+[JES4](JES4 "wikilink") Additional hardware requirements from product
+teams New requirements from product teams
+
+7.0 Model to address communication and governance issue: Porting
+engineer responsible for component product porting and testing joins
+component engineering meeting aliases Porting is represented on
+component product P-teams. If resources is an issue, atleast the high
+risk products need to be covered. Rethink the governance model, i.e.,
+phase reviews of individual porting projects at component
+[PACs](PACs "wikilink")
+
+8.0 Incremental Resources Required:
+
+For Development 4 people to travel to SCA for 2 months (8 weeks) 2
+people to travel to GNBL for 2 months (8 weeks) For Testing
+(incremental) 4 people to travel to SCA for 2 months (8 weeks) 2 people
+to travel to GNBL for 2 months (8 weeks) Capital and other costs: TBD

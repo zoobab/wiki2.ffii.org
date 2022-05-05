@@ -1,0 +1,153 @@
+## Señor Atorrasagasti: {#señor_atorrasagasti}
+
+Tal como habíamos concertado en nuestra conversación telefónica le
+adjunto la información solicitada sobre la postura de la FFII a respecto
+de la propuesta de la Presidencia Irlandesa para la Directiva del
+Parlamento Europeo y del Consejo sobre Patentabilidad de Invenciones
+Implementadas en Computadora, así como análisis adicionales y ejemplos
+de cómo el nuevo texto permite la patentabilidad de programas de
+ordenador al tiempo que perjudica a la industria de software europea.
+
+la Fundación para la Libre Infraestructura de la Información (FFII) es
+una asociación sin ánimo de lucro registrada en Munich (Alemania)
+dedicada a la extensión del procesado de datos. La FFII promueve el
+desarrollo de bienes de interés público basados en la propiedad
+intelectual, la libre competencia y los estándares industriales
+abiertos. Más de 400 miembros, 1.000 empresas y 60.000 firmantes
+acreditan a la FFII para actuar en su representación ante las cuestiones
+de políticas públicas en el área de los derechos de reserva (propiedad
+intelectual) que afectan al procesado de datos.
+
+Desde su propuesta en el año 2002 por parte de la Comisión, la FFII se
+ha comprometido en la tramitación de esta directiva de acuerdo a los
+intereses que representa. La patentabilidad del software resulta en un
+grave perjuicio para la economía europea por varios motivos de los que
+cabe destacar dos:
+
+-   en primer lugar impide la innovación favoreciendo monopolios que
+    utilizan las patentes de software para litigar con las PYMES y los
+    emprendedores cuando estos ofrecen al mercado soluciones
+    competitivas acusandolos de violación de patentes previamente
+    registradas y muchas veces triviales como pueda ser el caso de las
+    \"barras de progreso\".
+
+```{=html}
+<!-- -->
+```
+-   en segundo lugar supedita al mercado y la industria europeas a los
+    intereses de los mercados norteamericano y japonés cuyas
+    corporaciones detentan la titularidad de las dos terceras partes de
+    las patentes validadas hasta el momento por la Oficina Europea de
+    Patentes.
+
+Por todo ello la FFII promovió la Petición por una Europa Libre de
+Patentes, que fué suscrita por más de 300.000 firmas y que con el apoyo
+de miles de empresas, científicos y economistas fué tenida en cuenta por
+el Parlamento Europeo que en su sesión plenaria del 24 de septiembre de
+2003 introdujo una serie de enmiendas que, de forma clara y explícita,
+impiden la patentabilidad de software. En esta dirección puede consultar
+una relación de los científicos y economistas de reconocido prestigio
+que apoyaron esta petición:
+
+<http://swpat.ffii.org/papers/eubsa-swpat0202/komp0305/index.en.html>
+
+Bajo la apariencia de ser una revisión menor de la versión consolidada a
+objeto de obtener la posición común del Consejo previa a la segunda
+lectura, las sugerencias alternativas contenidas en el documento de
+trabajo distribuido a los representates gubernamentales por la
+Presidencia Irlandesa no es otra cosa que una contrapropuesta a la
+versión aprobada por el europarlamento.
+
+Consideramos que esto es así por que de la lectura detallada y atenta
+del nuevo texto resultante, obtenemos no solo la legitimación necesaria
+para la patentabilidad ilimitada de software, sinó que ademas se declara
+su forzosa aplicabilidad a la industria del software:
+
+-   los algoritmos y los métodos de negocio \"implementados en
+    computadora\" serían, según este nuevo texto, invenciones bajo el
+    ámbito de esta ley.
+-   la publicación de descripciones funcionales de una idea patentada
+    constituirían una vulneración de patentes.
+-   los protocolos de comunicación y los formatos de los datos serían
+    patentables impidiendo su uso para propósitos de interoperabilidad.
+
+Es precisamente el lenguaje laxo y oscuro de esta nueva propuesta el que
+oculta estas implicaciones a un lector sin la formación técnica y legal
+que sí tienen las grandes compañías que podrían pues utilizar la
+directiva así redactada en el sentido que precisamente consigue
+descartar la propuesta original con las enmiendas que impiden de forma
+explícita la patentabilidad de software.
+
+Con el objeto de dar a conocer el alcance real de esta nueva propuesta,
+hemos puesto a disposición de todas las personas interesadas una serie
+de recursos accesibles desde cualquier navegador, de los que destacaría
+los siguientes:
+
+-   El análisis de Jonas Maebe, de la Universidad de Bélgica en el que
+
+los cuatro problemas fundamentales de la propuesta irlandesa:
+<http://bh.udev.org/filez/swpat/JonasCouncilAnalysis/paper-en.pdf>
+
+-   El análisis exhaustivo de los expertos de la FFII del nuevo texto:
+
+<http://swpat.ffii.org/papers/europarl0309/cons0401/index.en.html>
+
+-   Una base de datos online de patentes que, habiendo sido validadas
+    por
+
+la Oficina Europea de Patentes, entrarían dentro del ámbito de esta
+directiva según el nuevo texto propuesto:
+<http://swpat.ffii.org/pikta/index.en.html>
+
+-   Una maqueta en la que se especifica la cantidad de patentes que
+    harían
+
+imposible cualquier iniciativa empresarial europea que consistiera en
+vender productos a través de internet: <http://webshop.ffii.org/>
+
+Por último me gustaría facilitarle, como ya hemos hecho con el
+Secretario de Estado para la Unión Europea, señor Alberto Navarro, los
+contactos de Secretarías de Estado del Gobierno Alemán para invitarlos a
+intercambiar sus respectivas impresiones al respecto, dada la postura
+contraria de este gobierno que está siendo secundada por los motivos que
+le acabo de exponder por los gobiernos de Bélgica, Dinamarca y
+Eslovakia:
+
+\-\--
+
+Dr. Hansjörg GEIGER, Secretario de Estado, Ministerio de Justicia 11015
+Berlin; Fon.: +49-1888-580-0
+
+Georg Wilhelm ADAMOWITSCH, Secretario de Estado de Economía 11019
+Berlin, Fon: +49-30-2014-6440
+
+Dr. Wolf-Dieter DUDENHAUSEN, Secretario de Estado de Investigación 11055
+Berlin, Fon: +49-1888-57-2020
+
+\-\--
+
+que pueden facilitarle información relevante al respecto, puesto que la
+situación en España está afectada sin duda por la de Alemania, donde la
+preocupación por la eventual aprobación de este texto es muy notoria: no
+en vano, el 80.9% de los empleos del sector de las nuevas tecnologías en
+Alemania es generado por PYMES que serían precisamente las más
+perjudicadas por el nuevo texto, siendo del 60% en los casos de Bélgica
+y otros países como España, donde solo en Cataluña el 69% de empresas
+catalanas de Tecnologías de Información Comunicación de más de 10
+empleados tienen menos de 200 empleados según las últimas estimaciones
+que obran en nuestro poder.
+
+Le rogamos encarecidamente que transmita al Ministro de Industria,
+Turismo y Comercio, señor José Montilla Aguilera esta información
+haciendo notar la concordancia de nuestra postura con la manifestada por
+reconocidos representates del PSOE como el señor Rodríguez Ibarra
+durante la entrega del Premio Europeo a la Innovación Regional por la
+difusión del proyecto gnuLinex o la convicción de la eurodiputada Rosa
+Miguélez al afirmar el carácter contrario de la propuesta irlandesa a
+las enmiendas aprobadas en el Parlamento Europeo.
+
+Una vez más, le agradecemos la confianza depositada en nuestra
+organización, con la seguridad de que sabrá valorar convenientemente
+nuestra postura. Atentamente,
+
+Suso Baleato FFII

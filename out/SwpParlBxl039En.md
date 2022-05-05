@@ -1,0 +1,7 @@
+# EP Brussels 2003/09/17: Software Patents: The Choice is Yours {#ep_brussels_20030917_software_patents_the_choice_is_yours}
+
+<http://swpat.ffii.org/events/2003/europarl/09/bruxelles/>
+
+This page has a link to the official invitation:
+
+<http://wiki.ael.be/index.php/GreensEfaTheChoiceIsYours>

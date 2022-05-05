@@ -1,0 +1,72 @@
+1.  1.  -\*- dok: kairoe04; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Kaiser & Rønde 2004: A Danish View on Software Patents {#kaiser_rønde_2004_a_danish_view_on_software_patents}
+
+-\> \[ [ Economic Studies](SwpatsiskuEn "wikilink") \| [
+Denmark](SwpatdkEn "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+Ulrich Kaiser and Thomas Rønde, two Danish economists, explain the
+situation in Europe and Denmark concerning software patents after the
+decision of the European Parliament of September 2003 and review some of
+the economic literature on patents. The study was funded by the Danish
+Ministry of Economy. There is no date on the paper, but we guess that it
+was published in 2004.
+
+## The Paper {#the_paper}
+
+-   [original](http://www.sam.sdu.dk/economics/edp-pdf/kaiser_roende.pdf "wikilink")
+-   [local
+    copy](http://swpat.ffii.org/papers/kairoe04/kaiser_roende.pdf "wikilink")
+-   [local text
+    version](http://swpat.ffii.org/papers/kairoe04/kaiser_roende.txt "wikilink")
+
+## Structure and Quotes {#structure_and_quotes}
+
+## Comments
+
+### Andre Rebentisch {#andre_rebentisch}
+
+[ Andre](AndreRebentischDe "wikilink") commented on a mailing list:
+
+The reasoning is a little bit weak from methodological point of view but
+it is worth a read. A scientific literature based approach and clueless
+authors with some innovative ideas.
+
+Some contributions of the authors are very silly, e.g. page 15
+\"Division of labour between copyright and patents where only the very
+novel inventions are protected by patent laws and all other inventions
+are protected by copyrights.
+
+However they try to discuss the issue unbiased and provide the usual
+result. - patents less likely beneficial for dk than the US But the
+argument is here a \"free ride\": \"since Denmark lacks a significant
+software industry\"
+
+They quote many players including Lutterbeck, Horns and Smets-solanes.
+
+### Hartmut Pilch {#hartmut_pilch}
+
+The paper tells the story of the patent directive and outlines much of
+the theoretical economic thinking on patents but, like many economists\'
+papers, takes the governmental (patent office) rationale about the
+proposed patenting rules (e.g. \"US patents software as such, we patent
+only inventions with a technical contribution\") at face value and fails
+to look at the relation between such rules and the resulting patents. It
+only examines the relation between patents (as abstract entities in a
+fairly crude model) and economic output. Here it applies the usual
+critical wisdom of economists about the upsides and downsides of
+monopoly rights as instruments for securing return on innovation
+investments.
+
+With a central link in the causal chain between legislation and economic
+effects missing, the study is unable to deliver on its promise of
+investigating the economic effects of legislatve proposals.
+
+### Benjamin Henrion {#benjamin_henrion}
+
+Hopefully it is considered as an economic study. I would entitled it as
+a litterature review. Where are the modelling equations?

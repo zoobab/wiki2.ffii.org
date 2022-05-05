@@ -1,0 +1,16 @@
+Exmo. Sr. Dr. Lino Santos
+
+Governador Civil de Lisboa
+
+Lisboa, 7 de Maio de 2004
+
+Rui Miguel Silva Seabra, portador do BI N. XXXX, Tania Maria Guedes
+Ferreira, portadora do BI N. XXXXX e Paulo Espirito Santo, portador do
+BI N. XXXX, em virtude de que, contra os legitimos interesses dos
+inovadores de software portugueses, o governo Portugues esta a promover
+a pantenteabilidade ilimitada e a contornar a democracia Europeia,
+propoem assim uma manifestacao em Lisboa a 21 de Junho de 2005 a partir
+das 19:30, em frente ao Sana Lisboa Hotel, sito na rua Fontes Pereira de
+Melo.
+
+Subscrevem esta proposicao

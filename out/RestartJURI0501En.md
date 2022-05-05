@@ -1,0 +1,4 @@
+1.  1.  -\*- dok: juri0501; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+-\> [Juri0501En](Juri0501En "wikilink")

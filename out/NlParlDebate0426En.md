@@ -1,0 +1,311 @@
+# Debate 26 June 2004 Commission of Economic Affairs of the Dutch Parliament: Summary {#debate_26_june_2004_commission_of_economic_affairs_of_the_dutch_parliament_summary}
+
+### President Hofstra: {#president_hofstra}
+
+-   The meeting of the permanent commission for Economic Affairs (EA) is
+    hereby opened. I sincerely welcome the political top of the
+    department, as well as their associates. Also the many interested
+    people and of course my colleagues. Today, it will be about software
+    patents and related affairs. A number of letters have been put on
+    the agenda. We have time until maximally 20h45 and I propose my
+    colleagues to use at most 5 minutes to present their case in first
+    instance. I assume that you can speak the order in which you are
+    seated. In that case, Mr Hessels from the CDA can start speaking.
+
+### (00:46) Hessels (CDA): {#hessels_cda}
+
+-   Apologies accepted for misinformation and bad preparation of
+    standpoint in Council
+
+```{=html}
+<!-- -->
+```
+-   The heart of the problem lies according to the CDA fraction in 3
+    points:
+    -   -   How definitieve is the influence of the standpoint of the
+            Competition Council for the final text of the new directive
+            about software patents?
+        -   To what extent should we meddle in the work of the EP?
+        -   And what should be the commitment of the State Secretary and
+            the Minister at a next Council meeting in which the decision
+            of 18 May will be formalised?
+
+```{=html}
+<!-- -->
+```
+-   Technical details responsibility of EP
+
+```{=html}
+<!-- -->
+```
+-   First question answered by letter 16 June of State Secretary: must
+    go back to EP at least once more and in the end Council and EP must
+    agree on the text
+
+```{=html}
+<!-- -->
+```
+-   As such, present text is just first opinion of the Council, but is a
+    signal of the Council which requires great diligence. Most countries
+    with doubts abstained in Council. Given the commotion of the last
+    few weeks in the Netherlands, a similar position of The Netherlands
+    would be appropriate.
+
+```{=html}
+<!-- -->
+```
+-   As such, my fraction wonders wether abstention by NL during the
+    second vote wouldn\'t be appropriate. This way, we don\'t mingle
+    unnecessarily in the affairs of the EP, nor in the relation between
+    Council and EP, and that seems to be best to me. It is our turn when
+    the directive has to be implemented in national law.
+
+### Van Dam (PvdA): {#van_dam_pvda}
+
+-   A short question. I will tell you later that I will present a motion
+    on this subject asking the cabinet to review its position. Does this
+    mean that the CDA will not support that anymore? And that the CDA
+    takes distance from the quote of Mr Doorn stating that it is
+    shameful that the amendments have been ignored? I think you are
+    retreating your position a lot now.
+
+### Hessels:
+
+-   I said that I think NL should abstain during the next Council
+    meeting and the previous time we were in favor, so that is still a
+    change. I prefer abstention because that is similar to what other
+    countries with similar internal discussions did.
+
+### (05:35) Gerkens (SP): {#gerkens_sp}
+
+-   To put it weakly: SP is not impressed very much by the letter of 16
+    June of the State Secretary. I still think that the case at hand has
+    been handled very undemocraticly both at the national and at the
+    European level, and that the parliament has been seriously misled.
+
+```{=html}
+<!-- -->
+```
+-   I also wonder about the statement of the State Secretary on page 15
+    where she says that the EP will still have a plenty of opportunity
+    to intervene in this case. Is it true that in second reading in the
+    EP an absolute majority is required to still be able to change
+    anything? Can the State Secretary elaborate on that?
+
+```{=html}
+<!-- -->
+```
+-   Next, the proposal itself. I am not convinced software patents would
+    be good for innovation nor that the text of the Council agrees with
+    the one of the EP. On the contrary, and it seems this sentiment is
+    supported by 340,000 people, among which more than 2000 CEO\'s,
+    25,000 developers and engineers, more than 2000 scientists and 180
+    attorneys, among 30 professors in computer sciences and a group of
+    distinguised economists. President, that is quite something.
+
+```{=html}
+<!-- -->
+```
+-   This opposition means that something really shocking is going on and
+    the State Secretary must agree with me on this. Even better, EA
+    stated in a report published in 2001 itself that NL should be
+    critical about the souple application of software patentability as
+    it happens in the US. Can the State Secretary explain where the
+    sudden turn-around comes from? Is this a consequence of new
+    insights, or are there more likely other interests at stake?
+
+```{=html}
+<!-- -->
+```
+-   Very sad that this government has created a whole platform to
+    strengthen the innovative potential of NL, and that we fight for
+    Open Source and Open Standards, but that on the other hand the
+    government gives all power to large companies such as IBM and
+    Microsoft with this proposal, thus destroying the innovative
+    potential of small companies.
+
+```{=html}
+<!-- -->
+```
+-   I can\'t stress enough that the most labour intensive part of
+    software is the programming and writing of the code, and that this
+    is already protected plentifully by copyright. That\'s also the
+    reason why without patents one can make money with software and that
+    inventions are protected adequately. No justification for software
+    patents left and on top of that not one example of a good software
+    patent. Maybe the State Secretary knows one.
+
+```{=html}
+<!-- -->
+```
+-   Another embarrassing details is that US macro-economical research,
+    by James Bessen and Robert Hunt, has shown that software patents
+    cause shifts of money from R&D to patents and juridical budgets. So
+    what we want, that companies invest more in R&D, goes to juridical
+    costs, so I wonder how the State Secretary sees these
+    contradictions.
+
+```{=html}
+<!-- -->
+```
+-   Finally, one of the priorities of the cabinet has been to reduce the
+    administrative costs for companies by 25% during this term. How does
+    the state Secretary want to prevent the juridical jungle for
+    software businesses and internet shops and the consequential
+    administrative costs?
+
+### (9:11) Örgü (VVD): {#örgü_vvd}
+
+-   Letter from Minister shows that nothing will be rendered patentable
+    which isn\'t patentable now. On the contrary, the directive makes
+    sure there is no extension of patentability and simply a
+    clarification of existing rules and solving an inconsistency between
+    national laws.
+
+```{=html}
+<!-- -->
+```
+-   VVD supports scrapping \"forces of nature\" wording because this is
+    confusing, since all processes are based on natural forces.
+
+```{=html}
+<!-- -->
+```
+-   Without a clear directive, patent granting in Europe will slide
+    towards the situation that opponents of this directive fear: a US
+    situation where patents on trivial inventions are the norm. With all
+    consequential negative influences for SME\'s.
+
+```{=html}
+<!-- -->
+```
+-   Obligation for Commission to report after 3 years on the
+    consequences of the directive very important for the VVD. VVD
+    supports State Secretary in that if the consequences would be larger
+    and more negative than what is foreseen now, the Commission has to
+    present amendments to alleviate these problems.
+
+```{=html}
+<!-- -->
+```
+-   (some comments on the community patent)
+
+### (11:51) Van Dam: {#van_dam}
+
+-   Happy that the minister attends this time, surprised he wasn\'t
+    there last time, since he was responsible for the standpoint taken
+    in the Council and since he has the authority and the age to be able
+    handle criticism from the Parliament.
+
+```{=html}
+<!-- -->
+```
+-   Last time, State Secretary already talked a bit about wrong
+    information, an error in the word processor. That is very different
+    from what Johanna Boogerd said, then still EP member for D66, who
+    talked about pure deceit. She noted that the Council presented the
+    proposal as a compromise. I am curious how the minister judges the
+    statements of his part colleague and I still find it very
+    unbelievable that wrong information, without the minister noting it,
+    could be passed in a letter to the Parliament. The State Secretary
+    has already apologised and the minister will undoubtedly do the same
+    in a minute, since a \"sorry\" is certainly appropriate here.
+
+```{=html}
+<!-- -->
+```
+-   Regarding contents of the dossier: previous time, State Secretary
+    could not explain why Council deviated from Parliament text. Now
+    this has been extensively documented in writing, for which my
+    gratitude to the State Secretary. Motives of the Council and those
+    that support the Council text are more clearly now, but for the PvdA
+    it\'s now even more clear why we hold a different opinion.
+
+```{=html}
+<!-- -->
+```
+-   Let me first say that the PvdA also supports a directive on the
+    patentability of software, since this directive must harmonise the
+    EU policy and must put an end to the practice run out-of-hand in
+    some member states and in particular at the EPO.
+
+```{=html}
+<!-- -->
+```
+-   That\'s why we supported in the EP a number of amendments which
+    limit patentability. As far as we are concerned, software can be
+    patented as far as this software is part of a material invention,
+    embedded software so to speak. Software which works on a regular
+    computer, PC, laptop or palmtop consequently does not fall under
+    this category and the EP amendments have led to a directive which
+    takes care of exactly that.
+
+```{=html}
+<!-- -->
+```
+-   The Council proposal deviates from this, two examples: articles 2
+    and 5.
+
+```{=html}
+<!-- -->
+```
+-   Article 2 of the Council weakens the proposal compared to the EP,
+    especially regarding the technical contribution. We have plenty of
+    experience with the EPO that shows that with such a definition of
+    technical contribution as in the Council text. An example of such a
+    technical contribution is a reduction in the number of required
+    mouse clicks. And the example of the State Secretary in her letter
+    is also a good example: she notes that also in Europe she can
+    imagine something when thinking about the double-click patent. I
+    can\'t imagine anything when thinking of that.
+
+```{=html}
+<!-- -->
+```
+-   Article 5, paragraph two states that a patent is allowed on a
+    computer program as such, if this program when running on a computer
+    realises a process which is described in the patent application. As
+    such, this applies to all computer programs and I will give you an
+    example. The EPO has granted a patent on selling stuff using a
+    network consisting of a client and a server and the programmed
+    devices together form something inventive, something patentable. We
+    are talking about webshops here, as there are possibly millions in
+    the world by now. But at the moment of the patent application this
+    was undoubtedly something novel. And this kind of patents get a
+    legal basis thanks to this Council proposal.
+
+```{=html}
+<!-- -->
+```
+-   Scared by passage on page 10 of letter State Secretary where she
+    says that you don\'t even have to have written a program, not even
+    need a prototype, in order to be able to get patent on a software
+    invention. This opens the door to exactly those defensive patents we
+    are so afraid of.
+
+```{=html}
+<!-- -->
+```
+-   This leads to my intention to make a request to the government via a
+    motion.
+
+### President
+
+-   You could first try without a motion
+
+### Van Dam {#van_dam_1}
+
+-   Well no, since we talked about this last time and the State
+    Secretary then clearly said she did not intend to reviews her
+    standpoint if there is not first a decision of the parliament. If
+    she keeps this standpoint, let me rephrase it like this, than I
+    consider filing a motion. And I intended to ask the government to
+    vote against in that motion, but given Mr Hessels\' words, I will
+    request the government to abstain.
+
+### President {#president_1}
+
+Ok, but in this house it\'s common to only talk about motions during the
+second term. Mr Vendrik of !GroenLinks
+
+### (17:34) Vendrik (GL): {#vendrik_gl}

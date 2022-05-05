@@ -1,0 +1,115 @@
+## PSE draft resolution on the European patent system {#pse_draft_resolution_on_the_european_patent_system}
+
+*The PSE made a draft resolution on the European patent system.*
+
+------------------------------------------------------------------------
+
+## Comment Ante Wessels {#comment_ante_wessels}
+
+I would like to highlight two points:
+
+### 1
+
+`"6. Believes that only  as  long  as  the  Community  patent does `\
+`not seem achievable,  the improvement of the existing framework `\
+`of  the  European  Patent Convention, especially the litigation `\
+`and linguistic arrangements is to  be considered as a transitional approach"`
+
+A transitional approach will not work. Establishing a court is very
+expensive. Once the EPLA court is established, it will never go away.
+Why not create a good permanent solution immediately? It is possible to
+create the Community Patent Court (CPC) and give it the jurisdiction the
+EPLA court would have.
+
+-   EPLA court: Basically, the same people will control the European
+    Patent Office, will appoint the European Patent Office\'s Boards of
+    Appeal members and the European Patent Court judges. An enormous
+    concentration of power, while the governance model is a political
+    vacuum. A patent incrowd that does not represent the general public
+    will control the European patent system. Members of the European
+    Patent Office\'s internal Boards of Appeal and members of national
+    patent offices\' boards can be a judge at the European Patent Court
+    at the same time! An unheard of mixture of executive and judiciary.
+    Board of Appeal members have been engaged in enlarging the scope of
+    patent law, which was outside their competence. The software patents
+    the European Patent Office granted (outside its competence) will be
+    made enforceable this way. The reservoir of software patents will be
+    unleashed. EPLA has more deficiencies, for instance, the draft
+    contains nothing on compulsory licenses. And in the U.S. big
+    software vendors [demand changes in the way damages are
+    awarded](http://news.zdnet.com/2100-3513_22-5867383.html "wikilink"),
+    since things clearly run out of hand. Europe has a chance to repair
+    the way damages are awarded before European scale litigation is
+    created, before things will run out of hand here.
+
+```{=html}
+<!-- -->
+```
+-   Community Patent Court: Quality and independence are much better
+    guaranteed with the CPC. ECJ judges can not hold another office (art
+    4 ECJ Statute.). The way CPC court judges are appointed compares
+    favorable with the EPLA court (art 2 and 3 CPC draft).
+
+<http://europa.eu.int/cj/hu/instit/txtdocfr/txtsenvigueur/statut.pdf>
+<http://register.consilium.eu.int/pdf/en/04/st05/st05189.en04.pdf>
+
+But should we want European scale patent litigation? One stop litigation
+is profitable for the right holders. We will see U.S. style litigation
+in Europe. Europe is at the crossroads. We can go the same way as the
+U.S, or call it a narrow escape. U.S. style litigation will benefit
+litigators, not innovators.
+
+In our opinion, accession to the EPLA [needs assent
+EP.](http://wiki.ffii.org/EuAccEplaEn "wikilink") By asking for
+accession the EP throws away much of its influence.
+
+More: <http://wiki.ffii.org/EplaEn>
+
+### 2 {#section_1}
+
+`"8. Considers it advantageous that the European Community `\
+`becomes part of the European Patent Convention, and in `\
+`consequence of  the European  Patent Litigation Agreement `\
+`and the London Agreement;"`
+
+After the Community patent draft became ready, Europe became more aware
+of the problems the patent system has. Care has to be taken the
+Community patent does not make these problems bigger. For instance the
+way damages are awarded (see above) deserves attention.
+
+An essential part of the Community patent is accession to the European
+Patent Convention (EPC). If assent EP is needed for accession, the EP
+has a strong position. If the EP now calls for accession anyway, it
+throws away much of its position.
+
+If the EP wants to maintain its position, it should not \"blindly\" call
+for accession to the EPC.
+
+Accession to the European Patent Convention (EPC) does not automatically
+give the EP more influence on patent policy. In fact, it may turn out
+the other way. The EPC can not only be changed by a diplomatic
+conference, the European Patent Organisations Administrative Council
+can change the Implementing Regulations, as well as Parts II to VIII
+and Part X of the European Patent Convention, thereby taking on the role
+of legislator. The constituting treaties of the European Community, with
+its precise rules on making Community laws, will be bypassed. The
+European Parliament will be bypassed. We will have Community law without
+democratic control. Accession to the EPC undermines the European
+Communitys constituting treaties.
+
+The EPO is not in line with Parliament. The EP needs to maintain as much
+influence as possible, and not give it away.
+
+In our opinion, accession to the EPC [needs assent EP
+too.](http://wiki.ffii.org/EuAccEpcEn "wikilink") Community patent
+related accession issues [are described
+here.](http://www.ffii.org/~ante/compat/FFII.org_EC-accession-EPC.pdf "wikilink")
+
+For comments on the European Patent Litigation Agreement, see above (1).
+
+Regarding languages: It would be a good principle if people have the
+right to defend themselves in their own language. Already Small and
+Medium sized companies go broke over litigation costs.
+
+Using the language used at the European Patent Office would be
+Western-Europe centered.

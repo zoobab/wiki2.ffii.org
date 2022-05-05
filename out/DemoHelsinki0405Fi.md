@@ -1,0 +1,2 @@
+Koska demo/lehtitilaisuus/\... on? Kuka järjestää? \-- Martin Vermeer at
+hut piste fi

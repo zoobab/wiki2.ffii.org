@@ -1,0 +1,14 @@
+The EU is bringing in new rules on when patent licensing and other
+technology-transfer agreements should and should not be allowed by
+competition law:
+
+<http://www.bi.les-europe.org/news/93.html#8>
+
+` "Important changes have been proposed to the laws relating to technology `\
+` licensing agreements. Essentially, and in line with other areas such as `\
+` agency and distribution, the new law will concentrate on the actual `\
+` effect of the agreement entered into, rather than its form. Economic `\
+` concepts such as market share tests will become relevant, with all the `\
+` difficulties these will entail. This means that while the law should be `\
+` more effective in catching anti-competitive agreements, assessing `\
+` whether the law is complied with will be more difficult".`

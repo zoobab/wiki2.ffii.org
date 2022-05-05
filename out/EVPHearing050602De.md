@@ -1,0 +1,243 @@
+1.  1.  -\*- dok: [EppHearing050602](EppHearing050602 "wikilink"); lang:
+        de; coding: iso-8859-1; mode: fundamental; -\*-
+
+# Anhörung offenbart hermetischen Diskurs in der deutschen EVP-Fraktion {#anhörung_offenbart_hermetischen_diskurs_in_der_deutschen_evp_fraktion}
+
+-\> \[
+[Heise-Bericht](http://www.heise.de/newsticker/meldung/60212 "wikilink")
+\| [ Notizen](Epp050602En "wikilink") \| [
+Lehne](KlausHeinerLehneDe "wikilink") \| [
+Kauppi](PiiaNooraKauppiEn "wikilink") \| [
+FFII/CCIA/EVP-Konferenz](Konf050601En "wikilink") \| [
+Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*2. Juni 2005: Die Europäischen Volkspartei organisierte eine Anhörung
+im europäischen Parlament in Verbindung mit der gemeinsam mit FFII, CCIA
+und der EPP veranstalteten Fachkonferenz und parallel zu einer
+Softwarepatent-Veranstaltung der Grünen. Auffallend war die starke
+Dominanz deutscher Akteure aller Seiten und dass die Positionen der
+deutschen EVP-Vertreter weit weg von denen der finnischen
+EVP-Schattenberichterstatterin Piia-Noora Kauppi lagen, die sich um
+Interessenausgleich bemühte. Eine sachliche Diskussion gelang nicht,
+denn viele Experten verbreiteten eloquent hinreichend widerlegte
+Glaubenssätze. Dem Schlusswort von* !MdEP *Klaus-Heiner Lehne nach zu
+urteilen hatten diese Statements einen starken Eindruck hinterlassen.*
+
+Die Gesprächsleitung hatte !MdEP Prof. Dr. Mayer (EVP, Vechta). Er
+verteidigte sehr erfolgreich den Zeitplan gegen Überschreitungen. Als
+Experten traten Patentanwälte, Europäisches Patentamt, Patentanwälte von
+Nokia, Siemens und Scania, Vertreter der deutschen Internetwirtschaft,
+der europäische KMU-Verband, Microsoft-Lobbyist Hugo Lueders und der
+amerikanische Wissenschaftler Brian Kahin u.a. auf. Aus dem Publikum
+meldeten sich zahlreiche Unternehmer und Wissenschaftler zu Wort. Fragen
+von Abgeordneten wie z.B. !MdEP Dr. Würmeling beschränkten sich auf
+\"Softballs\". Unternehmer und Wissenschaftler aus dem Publikum stellten
+insbesondere die Widersprüchlichkeiten der Argumentation in ihren
+Interventionen heraus, und gaben den Befürwortern des Patentschutzes auf
+Datenverarbeitung breiten Raum zur Darstellung ihrer Position.
+
+## Wichtige Diskussionsthemen: {#wichtige_diskussionsthemen}
+
+### (a) Fallrecht oder Gesetzgebung {#a_fallrecht_oder_gesetzgebung}
+
+Wie bereits auf dem letzten Panel der Fachkonferenz am Vortag wurde
+Skepsis vor einer Überregulierung artikuliert. Patentanwalt Betten
+(Ficpi) plädierte im Hinblick auf einen behaupteten Wandel der
+BGH-Gesetzgebung nach 2000 dafür, die Regulierung den Gerichten zu
+überlassen. Eine Rechtsflucht in der Vergangenheit gestand er ein.
+Microsoft sei aufgrund des schwachen Patentschutzes durch Ideendiebstahl
+groß geworden. Auch die Vertreterin der EPO bemühte sich die Kompetenzen
+für die Grenzziehung des Patentwesens dem Gesetzgeber streitig zu
+machen. Befürworter der Ratsversion lehnten alle substanziellen
+Änderungen zur Klarstellung des Technikbegriffes ab und argumentierten
+mit einem undefinierten Technikbegriffs als argumentative
+Projektionsfläche. PA Betten gestand dem Fortschrittsbalken Technizität
+zu. Brian Kahin verdeutlichte, dass die US-Situation allein auf eine
+Rechtsdrift in den Institutionen zurückzuführen sei. Befürworter von
+Softwarepatentschutz konnten ferner nicht ausräumen, dass die
+EU-Situation allein auf Fallrecht der EPO, nicht auf eine Entscheidung
+des Gesetzgebers hindeutete. Schattenberichterstatterin Kauppi sah darin
+ein Einschwenken der Gerichte auf den Wandel des Marketes. Brandt(?)
+verdeutlichte, dass es üblich sei durch Präzedenzfälle die Institutionen
+zu testen und dann manchmal Patente unerwartet und unerwünscht vergeben
+würden. Über die notwendige Regelungstiefe herschte Dissens. Befürworter
+eines weiten Patentschutzes neigten zu einer Definition über Fallrecht
+und befürchten Externalitäten von Definitionen, Befürworter eines
+Ausschlusses von Software dagegen neigen zu einer detaillierten
+Klarstellung, um weitere Rechtsflucht - etwa in Richtung
+Geschäftsmethoden - zu unterbinden und Rechtssicherheit für
+Softwareentwickler zu ermöglichen.
+
+### (b) Patente auf Computer-implementierte Erfindungen oder Softwarepatente? {#b_patente_auf_computer_implementierte_erfindungen_oder_softwarepatente}
+
+Der Versuch einen Unterschied zwischen Softwarepatenten und Patenten auf
+computer-implementierte Erfindungen zu konstruieren schlug fehl. Die
+vorgebrachten Fälle für computer-implementierte Erfindungen wie im
+Zusammenhang eines Computertomographen entpuppten sich als reine
+Softwarepatente zur Bildverarbeitung. Technizität sei in diesem Fall
+dadurch gegeben, dass Daten technischen Ursprungs verarbeitet würden.
+Verschiedene Akteure plädierten für den patentrechtlichen Schutz von
+software-implementierten Lösungen respektive Datenverarbeitungsverfahren
+als Erfindungen. Ein Ausschluss des Verarbeitens von Daten wurde daher
+von den Befürwortern der Ratsposition deutlich abgelehnt. Oliver Lorenz,
+EMCITA, der für die deutschen Internetprovider und auch in Namen ihrer
+Kunden sprach, stellte fest, dass das übliche begriffliche Verwirrspiel
+kein Thema sei. Ob er hiermit Recht behalten hat, konnte aufgrund der
+Nebelkerzen kaum in Erfahrung gebracht werden. Deutlich wurde, dass es
+eine Interessenkluft zwischen der europäischen Softwarebranche und
+Geräteherstellern gibt, die den Urheberrechtsschutz als zu schwach für
+ihren Bereich behaupten. PA Betten behauptete Urheberrecht sei ein
+reiner schwacher Kopierschutz.
+
+### (c) Wettbewerbsfähigkeit der EU {#c_wettbewerbsfähigkeit_der_eu}
+
+Die Gefahr einer Schwächung der europäischen Wettbewerbsfähigkeit ohne
+Patentschutz für Software wurde von mehreren Vertretern postuliert. PA
+Betten behauptete wahrheitswidrig eine Übernahme von
+Softwarepatentschutz in Indien. Insbesondere eine Bedrohung durch den
+chinesischen Markt wurde verdeutlicht. Die sich darin offenbarende
+Unkenntnis des patentrechtlichen Territorialprinzips blieb ohne
+Richtigstellung der patentrechtskundigen Vertreter. Die Vertreterin der
+KMU-Verbände postulierte eine Schwächung der europäischen
+Wettwettbewerbsfähigkeit. Prof. Brian Kahin gab Einblick in die
+US-Situation, wo das Funktionieren des Wettbewerbes durch Patente und
+das \"Trollphänomen\" gefährdet sei. PA Betten hatte zuvor die
+\"Troll\"-Klagen gegen Microsoft als Beispiel für die Wehrhaftigkeit des
+Mittelstands dank Softwarepatentierung dargestellt.
+
+### (d) Änderungsanträge {#d_änderungsanträge}
+
+Gut orchestriert kritisierten die Befürworter von Softwarepatentschutz
+sämtliche substanziell begrenzenden Änderungsvorschläge. Abgelehnt
+wurden von Befürwortern alle einschränkenden Änderungsanträge, vor allem
+der Ausschluss des Verarbeitens von Daten als Gebiet der Technik ohne
+nähere juristische Begründung. !MdEP Lehne kritisierte den Umfang der
+eingebrachten Änderungsvorschläge im Rechtsausschuss. Die Position von
+JURI-Berichterstatter Michel Rocard (PSE) wurde als radikal verworfen.
+Die Bemühungen von EVP-Schattenberichterstatterin Kauppi um
+Kompromissformeln wurden nicht aufgenommen. Lehne beschränkte den Bedarf
+hinsichtlich Nachbesserung auf die Interoperabilitätsklausel und
+positionierte sich gegen die Haltung der CDU/CSU-Fraktion im Bundestag
+und andere softwarepatentkritische Akteure in der EVP. Ziel von Lehne
+ist es Konsens mit dem Rat auf der Basis der Gemeinsamen Position
+herzustellen und eine Konzilierungsphase zu vermeiden. Dementsprechend
+lehnt er die Änderungsanträge, die zu einer starken Verhandlungsbasis
+mit dem Rat führen, ab.
+
+### (e) Emotionalität der Debatte {#e_emotionalität_der_debatte}
+
+Lobbyist Hugo Lueders ([ CompTIA](CompTiaEn "wikilink") = Microsoft)
+wendete sich emotional an die Abgeordneten. Im Zeichen des
+Lissabonprozesses und der EU-Verfassungskrise sei die Durchsetzung von
+Softwarepatentschutz eine Frage der instituionellen Glaubwürdigkeit. Die
+Bewertung dieser Intervention bei Teilnehmern differierte zwischen
+\"lächerlich\" bis \"den Nerv der Stunde getroffen\". Emotionen schlugen
+auch gegen die Vertreter der Patentanwaltsinteressen hoch. In seinem
+Abschlussstatement warf !MdEP Lehne Kritikern der Ratsposition ein
+unbegründetes sektierhaftes Auftreten und Kompromisslosigkeit vor. Die
+bekannte Kontraproduktivität der Attac-Massenmail-Kampagne wurde von ihm
+heraus gestellt. Zugleich demonstrierte er Nichtkenntnisnahme der
+rechtlichen Analyse durch die Behauptung, die Ratsversion schliesse
+Patente auf reine Software aus. Zahlreiche störende Zwischenrufe
+verdeutlichten die Unzufriedenheit der anwesenden Kleinunternehmer mit
+der Veranstaltung, trugen jedoch nicht unbedingt zu einer Versachlichung
+der Diskussion bei. Eine solche Versachlichung wurde angemahnt.
+
+### (f) Führungsanspruch in der EVP: Lehne vs. Kauppi {#f_führungsanspruch_in_der_evp_lehne_vs._kauppi}
+
+Die EVP ist in ihrer Position gespalten, wie man an zahlreichen
+Änderungsanträgen mit konfliktären Interessen sieht. Die
+EVP-Schattenberichterstatterin Kauppi hatte bislang versucht eine
+integrierende Kompromisslinie zwischen den Polen Buzek und Dr. Würmeling
+zu fahren. Auch in der Veranstaltung wahrte sie eine weitgehend
+unparteische Position. Von den deutschen EVP-Abgeordneten wurde ihre
+Rolle als Schattenberichterstatterin jedoch schon in der Vergangenheit
+streitig gemacht, zumindest beziehen sich viele deutsche Kollegen eher
+auf den früheren Schattenberichterstatter !MdEP Dr. Würmeling. Das
+Abschlussstatement von !MdEP Lehne, der von !MdEP Prof. Dr. Mayer in
+seiner Rolle als Koordinator der EVP im Rechtsausschuss (JURI) das Wort
+erhielt, lässt in Sachen Softwarepatente einen deutschen
+Führungsanspruch vermuten. Dr. Würmeling scheint dabei seine führende
+Position (ehemaliger Schattenberichterstatter) an Lehne (Koordinator in
+JURI) abzutreten, der sich seiner Position in voller Breite
+anzuschließen scheint. Im Auftritt Lehnes offenbart sich eine
+Positionierung gegen die finnische Schattenberichterstatterin contra
+bones mores.
+
+## Lehne Schlusswort (Auszüge): {#lehne_schlusswort_auszüge}
+
+Ich will vielleicht auch noch auch anmerken und das ergänzt wieder das,
+was auch schon teilweise hier diskutiert worden ist, es gibt glaube ich
+innerhalb der EVP glaube ich schon einen mächtigen Unterschied, was die
+Position der EVP-ED angeht, zur Position Rocard: Die Rocardanträge
+ziehen und nach meiner Einschätzung nach auch die
+Kompromissänderungsanträge dahin, das Patentsystem wie es existiert, als
+Ganzes in Frage zu stellen. Das ist jedenfalls mein Eindruck.
+(Zwischenruf: \"Blödsinn\") Es ist mein Eindruck, den ich davon habe,
+sie mögen das für Blödsinn halten, es ist mein Eindruck, den ich davon
+habe, den haben, auch viele andere, und das ist nicht unsere Position.
+Das war nie unsere Position, und unsere Position ist eben die dass es
+sich im Grundsatz es sich bewährt hat und wenn wir hier vom
+Lissabon-Prozess sprechen, von einer knowledge-based Economy dass
+Patente ein wesentliches Element einer solchen einer solchen
+Knowledge-Minded economy sind dass man darauf unter keinen Umständen
+verzichten kann.
+
+Zu den Panels insgesamt, eine Reihe von Anmerkungen, eine Reihe von
+Anmerkungen, von denen ich glaube, dass sie für mich mich jedenfalls als
+Erkenntnisse sehr wertvoll sind: Den ersten Eindruck den ich mitnehme
+ist, dass die Probleme sind nicht so sind, wie sie manchen
+Stellungnahmen beschrieben worden sind:
+
+Ich habe z.B. heute nicht ein **einziges** Argument gehört, warum der
+Inhalt des Gemeinsamen Standpunkts zu den Problemen führen sollte, die
+in der Kritik angeführt worden sind:
+
+Der Gemeinsame Standpunkt sagt in aller Klarheit: **Software, reine
+Software ist nicht patentierbar.** - steht in **aller** Klarheit und
+Ausdrücklichkeit
+[drin](http://swpat.ffii.org/papers/europarl0309/amends05/juri0504/prog.en.html "wikilink").
+Mit ist aus der Debatte hier jedenfalls heute nicht klar geworden,
+[warum vor diesem Hintergund der Gemeinsame Standpunkt eigentlich ein
+Problem sein
+soll](http://swpat.ffii.org/briefe/cons0406/text/index.de.html "wikilink").
+Ist **mir** nicht klar geworden.
+
+\...
+
+Und zu der Stellungnahme der Vertreterin von [
+UEAPME](UeapmeEn "wikilink"), also kann das nur aus vielen Gesprächen
+die ich in meiner Region komme aus Düsseldorf und dem Bergischen Land da
+ist sozusagen das Rückgrat der auch der Maschinenbauindustrie in der
+Deutschland mit angesiedelt und der Automobilzulieferer wenn ich **DAS**
+als Stellungnahme des Mittelstandes hier vernommen habe, dann kann ich
+nur sagen, dass die mittelständischen Unternehmen bei mir in meiner
+Heimat **überhaupt nicht** einverstanden gewesen wären, und sich
+überhaupt nicht in dieser Stellungnahme wiedergefunden hätten, da werden
+die Dinge zweifelsohne anders gesehen.
+
+\...
+
+Wenn man manchmal - Ich habe manchmal jedenfalls den Eindruck schon bei
+der Ersten Lesung gehabt, dass ich bei vielen den Eindruck gehabt, dass
+ich bei vielen nicht mit Lobbyvertretern sondern mit Sektenvertretern
+gehabt habe. Das darf ich einmal in aller Klarheit und Deutlichkeit als
+eigene Meinung hier sagen - passt auch nich jedem, sach ich aber hier
+offen und deutlich - und ein **bisschen mehr Sachlichkeit** wäre hier
+doch geboten, dass man dem anderen nicht immer nur unterstellt, dass der
+andere er immer nur böse meint oder würde was anderes damit wollen.
+
+In dem Zusammenhang mit der Sachlichkeit, **noch** ein Hinweis: Was ich
+überhaupt kritisieren möchte ist dass die jeweiligen beteiligten
+Parteien, manche mehr, manche weniger, diesen ganzen Aspekt aus ihrer
+eigenen egoistischen Sicht heraus sehen - gut das ist für
+Lobbyvertreter, könnte man sagen normal, weil die da nur die
+spezifischen Interressen ihres jeweiligen Bereiches zu vertreten haben.
+Auf der anderen Seite ist das für uns auch nicht zwingend hilfreich.
+
+Wenn z.B. aus dem Sektor der Open Source die Probleme der Industrie
+überhaupt nicht beachtet werden - überhaupt keine **Lösungmöglichkeiten
+dafür angeboten werden** - dann ist das nicht unbedingt hilfreich für
+die Berücksichtigung für die Positionen die dort vorgetragen werden.

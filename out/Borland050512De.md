@@ -1,0 +1,66 @@
+1.  1.  -\*- dok: borland050512; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Borland: Softwarepatente sind Mist, keine generelle Lösung für OSS verfügbar {#borland_softwarepatente_sind_mist_keine_generelle_lösung_für_oss_verfügbar}
+
+-\> \[ [ english](Borland050512En "wikilink") \] \[ [ Patentpatient
+Wine](Wine05De "wikilink") \| [ Borland](SwpatborlandDe "wikilink") \| [
+Patent-Nachrichten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Anfang Mai wurde für die breite Öffenlichkeit ersichtlich, dass manche
+Programme für Microsoft Windows nicht auf der Linux-Platform verfügbar
+gemacht werden können, da es ein Patent von Borland gibt, das den
+Windows-Emulator Wine und die GNU Compiler Collection (GCC)
+beeinträchtigt. Borlands Chef-Wissenschaftler Danny Thorpe begann einen
+öffentlichen Dialog. Obwohl Thorpe Borlands traditionelle Meinung
+wiederholte, dass Softwarepatente Mist seien (patents \"suck\") und
+allein für Abwehrzwecke gesammelt würden, stellte sich heraus, dass das
+Problem schwer lösbar ist.*
+
+## Herausragende Zitate {#herausragende_zitate}
+
+Aus dem [originalen Weblog-Artikel von Borlands FuE-Chef Danny Thorpe
+und den Rückmeldungen der
+Leser](http://blogs.borland.com/dcc/archive/2005/05/12/4294.aspx "wikilink"):
+
+Danny Thorpe (Borland):
+
+` Patente sind Mist, natürlich, aber es ist das herrschende System,`
+
+` Wenn Sie Absicherung benötigen, dass ein Gegenstand`\
+` nicht dazu verwendet wird, ihr Projekt zu sabotieren,`\
+` dann klingeln sie einfach und fragen.`
+
+Steven Edwards:
+
+` Ich habe Borland danach vor Jahren gefragt`\
+` und mir wurde gesagt, und mir wurde eine grobe Schätzung`\
+` der Lizenzkosten übermittelt, die weit über dem lag,`\
+` was irgend ein Free-Software-Projekt bezahlen könnte.`
+
+Hubert Lepicki:
+
+` Okay, Sie sagen: "Patente sind Müll". Ich stimme zu.`\
+` Aber was kann Borland dagegen tun? Vielleicht solltet`\
+` Ihr Kerls mal darüber nachdenken, Eure Patentpolitik`\
+` zu ändern; zuallererst: öffnet eure Patente für`\
+` Open Source Projekte, und dann: betreibt Lobby-Arbeit`\
+` gegen Softwarepatente.`
+
+Gerasimos Melissaratos:
+
+` Ich glaube, dass IBM eine öffentlich bekannte Politik hat. `\
+` (Ich denke, sie lautet: "Wir werden Sie nicht verklagen,`\
+` wenn es in einem OSS-Projekt verwendet wird".)`\
+` Wie sieht die Politik von Borland aus? Soll jeder OSS-`\
+` Entwickler, der eine von Borland patentierte Technik`\
+` einsetzen möchte, hingehen und klingeln?`
+
+## Mehr zum Fall Wine {#mehr_zum_fall_wine}
+
+Ähnliche Patente wurden an Borland in Europa erteilt und werden schwer
+anzugreifen sein, sollte der Entwurf des Ministerrats ohne substanzielle
+Verbesserungen verabschiedet werden. Bitte lesen sie die [ FFII
+Dokumentation zum Fall Wine](Wine05De "wikilink").

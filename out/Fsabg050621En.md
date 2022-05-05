@@ -1,0 +1,124 @@
+# Bulgarian Declaration {#bulgarian_declaration}
+
+\[ [ News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Bulgarian IT companies signed a declaration put forward by FSA-Bg. It
+has been given to the EU embassies in Sofia.*
+
+-   <http://fsa-bg.org/>
+
+## Main points {#main_points}
+
+-   !SMEs are against software patenting
+-   Big Corporations astroturf
+-   innovation will suffer
+-   standard arguments: market dynamics and dynamic markets etc.
+
+## Declaration
+
+We, Bulgarian IT companies, declare:
+
+In the near future, The European Parliament will vote on a directive
+that will, in fact, legalize the patents in the software.
+
+As citizens of a state that soon will be an EU member, we are very
+embarrassed by this development. It contradicts directly with the
+interests of EU and the European IT business. And, since these interests
+are ours, too, we are concerned.
+
+Some say that this directive will protect the small and middle business.
+The truth is the directly opposite? look at who supports, and who
+opposes the directive. All supporters of the software patents are
+multinational megacorporations. All !SMBs that have expressed an
+opinion, are against the patents.
+
+The !SMBs provide more than 70% of the job positions and 2/3 of the
+taxes collected in the IT business. A crash of their business will
+affect negatively not only the IT production of the EU, but also the
+unemployment levels and the income of the municipalities and the
+governments. Also, the IT specialists have a big influence in the
+society, and their dissatisfaction may get a broad support.
+
+It is said that without patent protection, the business will not dare to
+innovate, and the IT development will suffer. This is not true. The
+companies innovate to be more competitive, with or without patents. An
+introducing of software patents will obstruct the implementation of the
+innovations; it is then when the IT development will suffer.
+
+It is said that without patents the software innovations cannot be
+defended. This is not true. The innovations are very well defended by
+the copyright laws, which are valid now, and are created for this
+purpose. The patents only create exclusive rights, and these are
+especially dangerous in the software field.
+
+The standard expiration time of a patent ? 20 years ? is, in most
+industries, more than the life of the innovation it covers. In the
+software, this is not true ? a technology that is 20 years old is
+totally useless there. This makes the software patents as good as if
+they were eternal ? and this contradicts directly with the very idea of
+the patenting.
+
+Every program that is practically usable includes thousands of software
+technologies and ideas ? that is, it potentially violates thousands of
+patents. If even only a few of them are controlled by opponents of this
+program, it may not be created. And there is no programs that don\'t
+have a competition, at least. Thus, the software patents will severely
+limit the abundance of software on the market, and the level of the
+competition.
+
+Until 1980, when they instituted the software patents, USA were
+practically the world software monopoly. Since then, the tendency is
+reversed ? their share both in the production of software and in the
+creation of top software technologies decreases. Since Japan instituted
+software patents, despite its huge technological potential, its
+promising software industry practically disappeared. The position of EU
+in the software industry is very similar to that of Japan before the
+software patents ? there are no reasons to believe that the things here
+will go otherwise.
+
+On the other side, countries without IT patents show a fast growth in
+their software production. Some explain this with the low salaries in
+countries like China and India, but the growth is present also in EU,
+where salaries are much higher. Recently India rejected categorically
+the software patents, and China is not expected to even consider them.
+If they are instituted in EU, the IT investors will be even more tempted
+to move their production outside EU. A new stimulus will join the others
+? the danger of litigation with software patents. It is potentially even
+larger than the difference in the salaries.
+
+Often some European companies are mentioned as main backers of the
+software patents, but the situation is different. Most of the lobbying
+behind the patents is provided by non-European companies. This reflects
+the reality that we will have if the patents are instituted. After the
+synchronization of the European patents bank with the world, over 90% of
+the European software patents will be in the hands of non-European
+companies. In long-term perspective, this puts even the largest European
+companies in bad position; for the !SMBs, this is the immediate
+perspective.
+
+Right now, EU has the opportunity to free itself from the domination by
+non-European companies, and to become a major IT player. An institution
+of the software patents will destroy this opportunity, and will put EU
+again in a subordinate position, this time not only to USA, but also to
+some ambitious countries that are considered now to be Third World ones.
+Aside from this, EU will be the most convenient territory for wars
+between the USA patent holders and the China and India software
+producers. For the conflicting countries the result might be any, but
+the territory is always devastated. Having in mind the importance of the
+software in the modern information technologies, and their importance
+for the development, EU risks becoming a Third World place,
+technologically dependent on China and India.
+
+All this is a big concern for all of us. The perspective of Bulgaria
+joining EU begins to look like a joining an union that tries to destroy
+its business in the areas of the most advanced technologies. This way,
+such a membership turns from a privilege into a danger, for all
+countries ? both these who want to join, and these who are already EU
+members.
+
+With sincerest concern:
+
+signed by more than 20 IT-companies (list is being updated as we send
+it)

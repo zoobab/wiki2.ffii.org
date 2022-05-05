@@ -1,0 +1,67 @@
+1.  1.  -\*- dok: dataretpr051205; lang: hu; coding: iso-8859-2; mode:
+        fundamental; -\*-
+    2.  datum: 2005-12-05
+
+# Az EU egy Nagy Testvér törvényt vezet be: figyelmeztet az FFII {#az_eu_egy_nagy_testvér_törvényt_vezet_be_figyelmeztet_az_ffii}
+
+\[ [ Adatmegõrzés: a törvényhozási virsligyár túlhajtás
+alatt](DataRet0512Hu "wikilink") \] \[ [
+English](DataRetPr051205En "wikilink") \| [
+français](DataRetPr051205Fr "wikilink") \| [
+Português](DataRetPr051205Pt "wikilink") \]
+
+------------------------------------------------------------------------
+
+*2005. december 5. (Brüsszel, Belgium) Az EU egy Nagy Testvér törvényt
+fogad el, hogy minden elektronikus kommunikációt követhessen,
+figyelmeztet az FFII, a Müncheni székhelyû nemzetközi információjogi
+csoport.*
+
+Képzeljen el egy világot, amelyben az Állam minden tevékenységét
+követi. Egy olyan világot, ahol számítógépek figyelik minden lépését.
+Egy világot, amelyben a magánélet halott, gépek vadásznak le percek
+alatt minden disszidenst. Egy világot, melyet nem választott ügynökségek
+uralnak, kéz a kézben együtt mûködve a kereskedelmi érdekekkel. Egy
+világot, ahol az állampolgároknak nincsen joguk, kivéve a fogyasztáshoz
+való jogot. Tudományos fantasztikum? A Gépek Kora? Nem, ez Európa, amely
+2006-ban válik ilyenné.
+
+Így figyelmeztet Pieter Hintjens, az FFII elnöke. Azt mondja, hogy az
+EU éppen egy olyan irányelvet kész elfogadni, amely minden
+kommunikációját követi. Ez a törvény amatõrökké degradálja a régi
+szovjet rendõrállamokat.
+
+Majd tovább folytatja Ez a törvény szembeszegül az európai polgári
+szabadság hagyományaival. Úgy tûnik, meg is sérti az Európai Emberi
+Jogok Egyezményének 8. bekezdését. Tönkreteszi a kis
+internetszolgáltatókat és áremelkedéshez vezet. Ahhoz, hogy betartassa,
+az EU-nak be kell majd zárnia vagy meg kell figyelnie minden
+internetkávézót, webes email hozzáférést és !WiFi hotspotot. Egy ilyen
+rendszer még önkényesebb lenne, mint Kína. Még az Amerikai Egyesült
+Államok, szeptember 11-e után sem hozott ilyen elnyomó törvényeket. Az
+EU-nak nincsen szüksége ilyen törvényre: ez egy rossz törvény, melyet a
+demokratikus eljárásokra való tekintet nélkül nyomnak keresztül.
+
+Erik Josefsson, az FFII-tól azt mondja, hogy: Egy olyan korszakba
+léptünk, amelyet a \'nincsen idõnk erre\' törvényhozás jellemez. A
+Bizottság kibõvített illetékessége mellett a fegyver nélküli és
+legyengített Parlamentnek esélye sincsen, hogy rendesen végezze a dolgát
+(lásd az Európai Bíróság szeptember 13-i ítéletét, a c-176/03 esetet,
+Bizottság a Tanács ellen). A \'virsligyárral\' nagyon könnyû
+visszaélni.
+
+A Nagy Testvér adatmegõrzési irányelv kötelezi az internet és
+telefonszolgáltatókat arra, hogy õrizzék meg a kommunikációs forgalom
+adatait jó pár évig. Ez a rengeteg mennyiségû személyes adat nagyon
+könnyen kiszivárog, ellophatják és visszaélhetnek velük. Azok, akik
+erõltetik a Nagy Testvér törvényt azt állítják, hogy megelõzhetõ vele a
+terrorizmus. Az FFII nem fogadja el ezt a leegyszerûsítõ érvelést. A
+jelek alapján a valódi célpontok az egyszerû állampolgárok, akik végzik
+a napi munkájukat.
+
+Az FFII elnöke rámutat, hogy majdnem mindenki hord magával
+mobiltelefont. Ezzel a törvénnyel a mobiltelefonja és az internet
+böngészõje a Nagy Testvér megfigyelési eszközeivé válnak. Ha ez a
+felvetés nem tetszik Önnek, sürgõsen vegye fel a kapcsolatot a
+képviselõjével még ma, és magyarázza el, hogy miért aggódik. 2005.
+december 13-án, a magánélet történelemmé válik.

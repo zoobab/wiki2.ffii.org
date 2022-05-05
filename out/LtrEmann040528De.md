@@ -1,0 +1,122 @@
+`EUROPABÜRO`\
+`ODEONSTR. 15/16`\
+`D-30159 HANNOVER`\
+`TEL : +49 511 1674 268`\
+`FAX: +49 511 1674 263`\
+`andreas.flegel(att)spd.de`
+
+`  Erika Mann`\
+`  EUROPÄISCHES PARLAMENT`
+
+`ASP 12 G 342`\
+`B-1047 BRÜSSEL`\
+`TEL: +32 2 284 5191`\
+`FAX: +32 2 284 9191`\
+`emann(att)europarl.eu.int`
+
+`Brüssel, den 28.5.2004`
+
+`Stellungnahme zur europäischen Richtlinie über die Patentierbarkeit`\
+`computerimplementierter Erfindungen`
+
+`Der Ministerrat hat am 18. Mai eine erste Einigung erreicht. Dieser`\
+`"Gemeinsame Standpunkt" ist die Antwort der Regierungen auf die`\
+`Änderungsvorschläge des Europäischen Parlamentes aus erster Lesung vom`\
+`24. September 2003. Die Vorschläge des Europäischen Parlamentes sind`\
+`eindeutig rigider hinsichtlich der Definition und der Vergabe von`\
+`Patenten im Vergleich zum Kommissionsvorschlag. Ich bedaure es, dass der`\
+`Ministerrat weit hinter den Vorschlägen des Europäischen Parlamentes`\
+`zurückgeblieben ist. Allerdings sollte dies nicht überdramatisiert`\
+`werden, da dies im Gesetzgebungsverfahren durchaus als normal anzusehen`\
+`ist. Das Europäische Parlament hat in der zweiten Lesung die`\
+`Möglichkeit, seine Position erneut zu bekräftigen. Immerhin ist der nun`\
+`vorliegende Standpunkt des Rates gegenüber früheren Entwürfen der`\
+`Ratspräsidentschaft deutlich verbessert. Dies ist im übrigen maßgeblich`\
+`auf die Intervention der deutschen Bundesregierung im Rat`\
+`zurückzuführen. Die Unstimmigkeiten zwischen einigen Bundesministerien`\
+`im Zusammenhang mit der Ratssitzung vom 18. Mai sind bekannt.`
+
+`Wie geht das Gesetzgebungsverfahren nun weiter? Derzeit wird der Entwurf`\
+`des Rates in alle Amtssprachen übersetzt. Danach wird der Rat seinen`\
+`Entwurf formal an das Europäische Parlament überweisen. Nach`\
+`Neukonstituierung des Europäischen Parlamentes im Nachgang der Wahlen am`\
+`13. Juni wird der Bericht in zweiter Lesung im zuständigen Ausschuss`\
+`beraten. Ich gehe davon aus, dass der neue Bericht von der`\
+`Berichterstatterin aus erster Lesung, Arlene Mc Carthy (britische `\
+`Sozialdemokraten), im frühen Herbst vorgelegt wird. Hierzu können dann`\
+`erneut Änderungen eingereicht werden. Meiner Einschätzung nach wird das`\
+`Europäische Parlament vorraussichtlich gegen Ende des Jahres 2004 in`\
+`zweiter Lesung abstimmen.`\
+\
+`Da derzeit davon auszugehen ist, dass eine Einigung mit Ministerrat und`\
+`Europäischer Kommission in zweiter Lesung nicht leicht wird zu erzielen`\
+`sein, muss dann möglicherweise ein Kompromisstext im`\
+`Vermittlungsverfahren ausgehandelt werden.`\
+\
+`Es wird also noch eine Reihe von Möglichkeiten geben, Bedenken in die`\
+`Beratungen einzubringen. Der Fraktion der Sozialdemokraten geht es`\
+`darum, eine Patentierung von computerimplementierten Erfindungen nur in`\
+`den Bereichen zuzulassen, wo Software einen Beitrag zu einer tatsächlich`\
+`technischen sowie neuen Erfindung leistet. Der Parlamentstext aus erster`\
+`Lesung schließt ausdrücklich die Patentierung von Geschäftsmethoden,`\
+`mathematischen oder anderen Methoden aus. Ich freue mich, dass die`\
+`deutsche Bundesregierung in der Ratssitzung vom 18. Mai die Einfügung`\
+`eines Artikel 4a erreicht hat, der den entsprechenden Änderungsvorschlag`\
+`des Parlaments wörtlich übernimmt und ergänzt. Explizit wird`\
+`ausgeschlossen, dass ein Computerprogramm als solches eine patentierbare`\
+`Erfindung darstellen kann. Die Bundesregierung hat im Rat zudem eine`\
+`genauere Definition des Begriffes des "technischen Beitrags" in Artikel`\
+`2(b) durchgesetzt.`
+
+`Ich persönlich halte eine EU-Richtlinie über die Patentierbarkeit`\
+`computerimplementierter Erfindungen für sinnvoll, um die derzeit`\
+`bestehenden Unklarheiten darüber, was patentierbar ist und was nicht, zu`\
+`verringern. EU-weit bestehen unterschiedliche gesetzlichen Auslegungen,`\
+`die teilweise zur Vergabe von Patenten durch das Europäische Patentamt`\
+`und einzelne nationale Patentämter geführt haben, die erheblich über den`\
+`von uns gewünschten Rahmen hinaus geht. Die vorgeschlagene Richtlinie`\
+`würde im Prinzip Klarheit und Vereinheitlichung bei der Vergabe von`\
+`Patenten für computerimplementierte Erfindungen schaffen.`
+
+`Die Abstimmung im Parlament in erster Lesung hat der Öffentlichkeit`\
+`deutlich gezeigt, dass die Mehrheit der Abgeordneten im Europäischen`\
+`Parlament nicht den einseitigen, patentfreundlichen Ansatz etwa der`\
+`Vereinigten Staaten oder Japan übernehmen will. Wir möchten strengere`\
+`Regeln für die Patentierbarkeit. Besonders die europäischen`\
+`Sozialdemokraten haben mit ihren Anträgen dafür gesorgt, dass`\
+`entsprechende Formulierungen aufgenommen wurden. Unserer Meinung nach`\
+`soll die Richtlinie einerseits gewährleisten, dass Innovation und`\
+`Freiraum für jene Programmierer gewährleistet ist, die den Ansatz des`\
+`Urheberrechtsschutzes für ausreichend halten. Andererseits sollte es`\
+`keine Nachteile für die europäische Industrie geben, die aus der`\
+`Vernachlässigung des Patentschutzes für tatsächliche Erfindungen`\
+`entstehen würden. Die Patentierung von computerimplementierten Erfindungen wird`\
+`ausdrücklich von einem großen Teil der europäischen Unternehmen`\
+`(einschließlich kleiner und mittlerer Unternehmen) gewünscht. Viele`\
+`Unternehmen operieren international und möchten ihre Produkte ähnlich`\
+`schützen lassen wie es ihre Wettbewerber in anderen Teilen der Welt tun.`\
+`Dies ist u.a. auch notwendig, damit die Forschungs- und`\
+`Entwicklungsinvestitionen in diesen Bereichen in Europa gewahrt bleiben.`
+
+`Vor diesem Hintergrund gebe ich zu bedenken, dass eine`\
+`Fundamentalopposition gegen die Richtlinie für computeremplementierte`\
+`Erfindungen kontraproduktiv wäre. Die Mitgliedstaaten könnten zu der`\
+`Überzeugung gelangen, dass ein Scheitern der Richtlinie eher im`\
+`Interesse der breiten Mehrheit der Unternehmen ist als die`\
+`Verabschiedung einer Richtline, die Patentschutz für tatsächliche`\
+`computerimplementierte Erfindungen nicht oder unzureichend gewährt. Das`\
+`würde bedeuten, dass die derzeitige, unbefriedigende Praxis der`\
+`Patentvergabe andauern würde. Ich bezweifle dass eine solche Entwicklung`\
+`letztlich im Interesse der kleineren Entwicklungshäuser und`\
+`Programmierer wäre.`
+
+`Zusammen mit meinen sozialdemokratischen Kollegen im Europäischen`\
+`Parlament werde ich mich in der kommenden Legislaturperiode weiterhin`\
+`auch für die Anliegen der kleinen und mittleren Softwareunternehmen`\
+`sowie der unabhängigen Programmierer einsetzen. Unser Hauptziel wird`\
+`sein, eine klare und strenge Definition dessen sicherzustellen, was`\
+`patentiert werden kann.`
+
+`Erika Mann`
+
+`MdEP`

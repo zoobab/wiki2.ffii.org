@@ -1,0 +1,34 @@
+WikiLinks are formed by two or more words in *camel-case.* Camel-Case
+means nothing more than a word that is built up by an upper-case letter
+in first position, at least one second upper-case letter and least one
+lower-case letter. In this Wiki, an upper-case letter can mark the
+beginning of a [WikiLink](WikiLink "wikilink") even when it is not the
+start of the word itselves.
+
+It is possibly best readable for humans if you do semantically split a
+[WikiLink](WikiLink "wikilink") word into two or more parts by setting
+the first letter of each part to upper case.
+
+Referring to the samples below it is shown, how you should use
+[CamelCase](CamelCase "wikilink") correctly.
+
+Samples that do work:
+
+-   [CamelCase](CamelCase "wikilink")
+-   CAmelcase
+-   CamelcasE
+-   [CAMELCASe](CAMELCASe "wikilink")
+-   [CaMeLcAsE](CaMeLcAs "wikilink")
+
+Samples that do not really work:
+
+-   cAmElCaSe
+-   cAMELcASE
+-   camelCASe
+
+Samples that do not work at all:
+
+-   CAMELCASE
+-   cAMELCASE
+-   camelCASE
+-   camelCase

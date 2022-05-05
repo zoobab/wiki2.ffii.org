@@ -1,0 +1,44 @@
+Up: [Cons041217aEn](Cons041217aEn "wikilink")
+
+From
+
+<http://register.consilium.eu.int/pdf/en/04/st14/st14574-ad01.en04.pdf>
+
+later also from the ADD 1 of the \"A\" Item note:
+
+<http://register.consilium.eu.int/pdf/en/04/st16/st16120-ad01.en04.pdf>
+
+3\. Statement by the Netherlands
+
+`  (Translation in English provided by the Netherlands delegation)`
+
+The Kingdom of the Netherlands states that it considers the
+harmonisation directive on the patentability of computer-implemented
+inventions to be of high importance. On 18 May, the Netherlands, part of
+a qualified majority of member states, politically agreed with the text
+of a common position in first reading. The Dutch Parliament stated as
+its position that the political agreement offers insufficient guarantees
+to prevent proliferation regarding software patenting. This concern will
+be taken into account by the Netherlands in the further consideration of
+the directive in second reading.
+
+The directive aims to harmonise the rules within the European Union on
+the patenting of computer-implemented inventions and to offer clarity on
+which inventions are patentable and which are not.
+
+In this light, the Netherlands wishes to confirm explicitly that the
+directive text now under consideration aims to exclude non-technical,
+non-inventive inventions, business methods and pure software from
+patentability. This is because patenting of this nature will not make a
+positive contribution to the ability to innovate.
+
+Recently, a lot of public and political debate has arisen on the
+proposed directive and the patenting of computer-implemented inventions
+in general. On further consideration of this directive in second
+reading, the Netherlands will confirm as it premises that the rules on
+and the implementation practice of the patentability for
+computer-implemented inventions are sufficiently clear and that the
+aforementioned undesirable forms of patenting are prevented. Therefore,
+the Netherlands will in second reading only be able to agree with a
+directive text that does not disturb the balance between patentability
+and non-patentability.

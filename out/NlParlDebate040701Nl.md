@@ -1,0 +1,208 @@
+# Verslag kamerdebat 1 juli {#verslag_kamerdebat_1_juli}
+
+Gerkens:
+
+-   Beantwoording door minister onbevredigend.
+-   De voorstem kan juridisch gezien omgezet worden in een tegenstem.
+-   Ligt misschien moeilijk, maar soms moeten we moeilijke dingen doen.
+-   Motie tegen te stemmen.
+
+Van Dam:
+
+-   Inhoudelijk uitvoerig besproken in twee AO\'s
+-   Kort procedureel:
+    -   -   Minister heeft de kamer onjuist geïnformeerd.
+        -   Daardoor was de kamer te laat om haar mening aan de minister
+            mee te geven voor de Raad.
+        -   De minister heeft een verkeerd standpunt in de Raad
+            ingenomen.
+-   Motie steun te onthouden.
+-   Sympathie motie Gerkens, maar geen meerderheid in de kamer.
+
+Dittrich:
+
+-   Bij de tweede lezing kunnen de dingen die misgegaan zijn toch
+    teruggedraaid worden? Er is toch geen man overboord?
+
+Van Dam:
+
+-   EU Parlement kan als nog amendementen indienen. Maar ik denk dat er
+    helderheid moet zijn over te positie van Nederland.
+
+Dittrich:
+
+-   Daarom is D66 ook mede-ondertekenaar van deze motie.
+
+Gerkens:
+
+-   Het is toch zo dat er een absolute meerderheid nodig is in het
+    Europees Parlement?
+
+Van Dam:
+
+-   Wat ik begrepenen heb is dat er een meerderheid van de stemmen moet
+    zijn en niet zoals hier weleens de meerderheid van de aanwezigen.
+    Dus die absolute meerderheid. En er zit een nieuwe parlement, dus ik
+    denk dat beter is om zo vroeg mogelijk nu een correctie aan te
+    brengen in het standpunt van de Nederlandse regering.
+
+Orgu:
+
+-   Geldt de onthouding voor de tweede lezing?
+
+Van Dam:
+
+-   Er kan altijd een gewijzigd raadsvoorstel komen, maar de motie
+    strekt niet zover dat er daarvoor altijd onthouden moeten worden.
+    Deze motie gaat alleen over het onthouden van steun aan het huidige
+    raadsvoorstel. En hopelijk ontstaat er een nieuw voorstel.
+
+Orgu:
+
+-   Dan zegt u toch hetzelfde als het kabinet?
+
+Van Dam:
+
+-   Volgens mij heeft het kabinet aangegeven het raadsvoorstel te
+    steunen en gesteund.
+
+Staatssecretaris Van Gennip:
+
+-   We hebben uitgebreid over de inhoud en procedurele kant van de zaak
+    gepraat.
+-   De minister en staatssecretaris betreuren allebei de foutieve
+    informatie. Goed uitgezocht en voor gezorgd dat het niet weer kan
+    gebeuren.
+-   Bij codecisie gebruikelijk dat de raad en parlement in eerste lezing
+    allebei hun mening presenteren. Dat is niet ondemocratisch, maar de
+    manier waarop codecisie werkt.
+-   We zijn het eens dat er harmonisatie moet komen enerzijds en dat
+    anderzijds mogelijke uitwassen moeten worden voorkomen.
+-   Wij vinden dat het raadsvoorstel voldoende bescherming biedt.
+-   Ik ben bereid de motie uit te voeren als een kamermeerderheid die
+    ondersteunt.
+-   De minister en ik zijn nog steeds van mening dat wat er nu ligt
+    voldoende waarborg biedt.
+-   Ik wil u op twee dingen wijzen als de motie aangenomen wordt:
+    -   -   We zijn komend halfjaar ook voorzitter. Als het dan aan de
+            orde komt zal ik als voorzitter mij er voor inzetten om de
+            dialoog tussen EP en Raad goed te voeren.
+        -   Als voorzitter zijn we gehouden aan het uitdragen van het
+            gemeenschappelijk standpunt. Ook als we ergens tegen zijn.
+
+Hessels:
+
+-   Hoe gaat het in de praktijk? We hebben de regering als voorzitter,
+    de regering als voorstander van het huidige voorstel en als
+    uitvoerder van deze motie.
+
+Staatssecretaris:
+
+-   Als Nederlands regering dragen we ofwel de motie uit ofwel het
+    standpunt dat de minister en ik tot nu toe verdedigd hebben.
+-   Ook als de motie niet wordt aangenomen zal ik de dialoog met EP
+    aangaan.
+-   Ik zal er bovenop zitten dat we voor het volgende belangrijke punt
+    een debat hebben.
+
+Van Dam:
+
+-   Voor de helderheid, het voorstel komt nog terug voor de formele
+    bekrachtiging. Ik ga er van uit dat u zich dan ook onthoudt.
+
+Staatssecretaris:
+
+-   Het komt terug als hamerstuk en ik vind niet dat ik een stemming kan
+    aanvragen en vervolgens ga onthouden, dat is een beetje vreemd.
+-   Vendrik zei: \"eenmaal gestemd is gestemd.\" Wat dat betreft ga ik
+    geen stemming aanvragen.
+
+Van Dam:
+
+-   De motie zegt vanaf heden steun onthouden. Hoe u dat invult mag u
+    zelf weten, maar het betkent dat u niet zwijgend akkoord gaat met de
+    huidige voorstel.
+
+Staatssecretaris:
+
+-   U vraagt ons deze opvatting over te brengen aan andere lidstaten.
+    Dat gaan we doen, maar dat is wat anders dan een stemming aanvragen
+    en vervolgens onthouden, daarmee maak ik me belachelijk.
+
+Dittrich:
+
+-   Moet ik dat zien als een schriftelijke stemverklaring zonder dat er
+    gestemd wordt? Hoe gaat u dat aanpakken?
+
+Staatssecretaris:
+
+-   Gewoon een brief aan mij collega\'s
+
+Vendrik:
+
+-   Ik dacht dat er al over gestemd was, maar nu blijkt dat er nog een
+    formele bekrachtiging is. Ik zie geen enkel beletsel dat Nederland
+    daar geen stemming over aanvraagt.
+-   Ik vind dat u dat wel een beetje verplicht bent gezien de
+    voorgeschiedenis. En dat u vindt dat u zich daarmee belachelijk
+    maakt, daar heb ik heb even geen boodschap aan.
+-   De motie is helder: als er een procedure is van formele
+    bekrachtiging dan onthoudt u zich ook dan van stemming.
+
+Hessels:
+
+-   Hoe ziet de staatssecretaris een mogelijkheid om door middel van
+    formele stemverklaring, een kort briefje ofzo, te verklaren dat
+    Nederland wenst te onthouden van stemming.
+
+Vendrik:
+
+-   Ik sprak over onthouding.
+
+Staatssecretaris:
+
+-   Ik ontraad de motie als ik een stemming aan moet vragen over een
+    hamerstuk en me dan vervolgens moet onthouden. Maar als ik het via
+    een formele brief mag doen, dan laat ik het oordeel aan de kamer.
+
+Vam Dam:
+
+-   Zal ik dan helderheid bieden?
+-   De motie vraagt u alleen maar om als de formele bekrachting
+    plaatsvindt dat u aan de andere lidstaten laat weten dat u geen
+    steun geeft aan het raadsvoorstel. Ik vraag niet om een stemming aan
+    te vragen.
+
+Staatssecretaris:
+
+-   Is geen steun geven wat anders dan onthouden?
+
+Van Dam:
+
+-   Ik bedoel onthouden.
+
+Staatssecretaris:
+
+-   Dat is de interpretatie die de Heer Dittrich er aan gaf. Dat oordeel
+    kan ik aan de kamer laten. De interpretatie van de heer Vendrik moet
+    ik ontraden.
+
+Gerkens:
+
+-   Mijn verzoek is dat de staatssecretaris het niet alleen op dat
+    moment laat weten, maar dat zij het zo vroeg mogelijk aan haar
+    collega\'s laat weten wat het standpunt van deze kamer is.
+
+Staatssecretaris:
+
+-   Dat heb ik net gezegd, maar ik moet nog even kijken hoe ik dat doe.
+    Daar moet natuurlijk een briefje voor verzonden worden.
+
+[werd wat in de kamer geroepen](Er "wikilink")
+
+-   Een brief? Korte brieven zijn beter dan lange brieven kan ik u als
+    lezer van veel van dat soort brieven zeggen.
+
+Voorzitter:
+
+-   We stemmen aan het eind van de vergadering over de moties.

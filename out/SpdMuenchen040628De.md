@@ -1,0 +1,32 @@
+# 2004-06-28 DE Muenchener SPD gegen Ratsentscheidung zu Softwarepatenten {#de_muenchener_spd_gegen_ratsentscheidung_zu_softwarepatenten}
+
+\--\> \[ [ english](SpdMuenchen040628En "wikilink") \] \[ [
+Neues](SwpatcninoDe "wikilink") \| [
+Rats-Entscheidung](Cons040528De "wikilink") \| [
+SPD](SwpatspdDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+Nach fünf bejahenden Plädoyers angenommen fast einstimmig (Holger
+schätzt: mehrere Dutzend Ja-Stimmen, eine Gegenstimme, 1-2 Enthaltungen)
+auf dem jährlichen Parteitag der Münchner SPD am 28. Juni 2004.
+
+-   <http://www.jusos-muenchen.de/Themen/Wirtschaftspolitik/d20040629080701.html>
+-   <http://www.heise.de/newsticker/meldung/48694>
+
+Antrag der Jusos München am SPD Parteitag am 28.06.2004 in München, so
+beschlossen:
+
+Die Münchner SPD fordert die Bundesregierung und die Abgeordneten des
+Bundestags zu einem eindeutigem Votum gegen Softwarepatente auf.
+Insbesondere soll im Bundestag klargestellt werden, dass ?die Richtlinie
+des Europäischen Rates über die Patentierbarkeit computerimplementierter
+Erfindungen? (KOM(2002)92 2002/0047 (COD)) in der Fassung des
+Ministerrats vom 18.05.2004 gegen die innovativsten Teile der deutschen
+Wirtschaft gerichtet ist. Zahlreiche Software-Patente würden rechtlich
+durchsetzbar und somit fast die gesamte IT-Branche, insbesondere die
+Open-Source Initiativen, zu Patentverletzern machen. Die Bundesregierung
+und die Abgeordneten des Bundestages werden dazu aufgefordert sich in
+der Softwarepatentfrage hinter den Entwurf des Europäischen Parlamentes
+zu stellen, da dieser der Patentierung von Computerprogrammen klare
+Grenzen setzt.

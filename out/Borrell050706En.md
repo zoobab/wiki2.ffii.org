@@ -1,0 +1,94 @@
+1.  1.  -\*- dok: Borrell050706; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Josep Borrell: Why the Parliament rejected the Directive {#josep_borrell_why_the_parliament_rejected_the_directive}
+
+-\> \[ [ español](Borrell050706Es "wikilink") \] \[ [
+Conference](PressConf050706En "wikilink") \| [
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*6th July 2005, Strasburg \-- On the day of the rejection of the
+Commission\'s and Council\'s \"Common Position\" for a directive \"on
+the patentability of computer-implemented inventions\" (software patent
+directive), the president of the European Parliament sharply criticises
+the unconstructive approach of the Commission and Council to the dossier
+and explains this unprecedented move of the Parliament as a logical
+reaction to this approach.*
+
+Well thank you very much to everyone. Now, what has happened in European
+Parliament has shown that Europe is at a crossroads but is not
+paralized. And we aren\'t broken down. We continue to do with very
+important subjets. And today, we\'ve had a vote which we can call, if
+not historic, at least well something that\'s happening for the very
+first time. I think it\'s the first time if I\'m not wrong that the
+European Parliament is rejecting a Common Position of Council. On a few
+occasions, the Parliament rejected the result of the process of
+Conciliation. But today, it has rejected a Common Position of Council.
+Well, and in an overwhelming fashion. 648 votes in favour and 14
+against. This is perhaps the most unanimous vote we ever had.
+
+Now, the rapporteur, Mr. Rocard, has worked very hard on the subject
+will explain the details, the technical details, well not just the
+technical details, but the details of what\'s at stakes here today.
+
+Now, I would just like to put out the critical importance that that has
+for interinstitutional balance and for the role the Parliament does
+clay. I would like to emphasis that on three early occasions, the
+Parliament rejected the draft proposal of the Comittee of Counciliation
+on biotechnologies, on [OPAs](OPAs "wikilink") and port services in
+2003. But this time, we rejected the Common Position of Council as I\'ve
+said, and we\'ve done so after having previously asked Council to
+withdraw it \-- sorry we asked the Commission to withdraw it. Now, the
+Commission \-- I have to say very courteously of course \-- ignored us
+totally. We\'ve asked them to withdraw it and they\'ve said they want to
+maintain it. Well this is the result now. And I hope the Commission will
+note that, and the Council as well. The Commission proposes, but it
+doesn\'t decide, doesn\'t dispose. It\'s the legislative bodies that
+decide: the Council and the Parliament. And we do so on an equal
+footing, the two of us. Now this time, the Parliament has demonstrated
+this, and this is one more milestone in the history of the Parliament,
+which is assuming its functions and carrying them out. Today, they did
+want to withdraw their proposal, so they got 648 votes against it.
+
+I also have to say that I\'ve found it totally inappropriate how certain
+Commissionners conduct themselves, that before the vote of the
+Parliament had warned \-- and this term \"warned\" is an euphemism \--
+they warned that if the Parliament rejected the draft directive they
+would not present any other. Of course the Commission has the monopoly
+over initiative taken \-- I mean they\'re legally right to say this \--
+but the Commissionners are paid extremely well to take up problems and
+to propose solutions which can receive the support of legislators. And
+if there\'s a problem and the solution that they\'ve put forward isn\'t
+convincing to those who have to approve it, and they still think that
+there\'s a problem, they\'re going to have to put forward another
+solution, because if not, they\'re not fulfilling their functions. And I
+hope I\'m going to be able to talk to Mr. Barroso about this attitude,
+which doesn\'t correspond to the spirit of the agreement that we\'ve
+signed, both institutions, to, in a more coordinated constructive
+fashion to carry out the functions of each of our institutions.
+
+There is a problem. And the solution that has been proposed is not
+satisfactory. This is very clear, we see this in the vote, and Mr.
+Rocard will explain why. Now, of course the Commission can say \"well,
+let\'s just leave things as they are\", but I don\'t think that\'s any
+reasonable way of going to got carrying out of their functions.
+
+Now, we\'ll have the opportunity to discuss this. But I\'d like to
+recall that after the rejection of biotechnologies and the
+[OPAs](OPAs "wikilink"), after that, there were new directives put
+forward, and then accepted by the Parliement. And in the subject of port
+services, there\'s a new directive that is being discussed. So, I can\'t
+say the Commission formally hasn\'t respected the agreement between our
+two institutions, but I think that we can work in a more coordinated
+fashion to achieve the common good for Europe.
+
+I\'m very pleased that the Parliament has very clearly marked its
+position. Of course, it would have been better if, among all of us, we
+had been able to agree on specific amendments, and it would have made it
+possible for us to move forward, but there were enough differences
+between the Parliament\'s position and that of Commission and Council
+for us to achieve this result which was to be expected. And I hope that
+the Parliament will be taken in more considerations starting from now.
+Thank you. The rapporteur\...

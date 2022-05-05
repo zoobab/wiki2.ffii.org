@@ -1,0 +1,34 @@
+1.  1.  -\*- dok: [KwikiProt](KwikiProt "wikilink"); lang: en; coding:
+        iso-8859-1; mode: fundamental; -\*-
+
+# kwikiprot: protecting KWiki pages from spammers once per month {#kwikiprot_protecting_kwiki_pages_from_spammers_once_per_month}
+
+\--\> \[ [ KWiki](KwikiEn "wikilink") \| [ Editing
+Access](KwikiEditEn "wikilink") \| [ genba](GenbaEn "wikilink") \| [
+computing](PolisEn "wikilink") \| [ Project
+News](FfiiprojNewsEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+The script
+
+`   genba:/var/www/adm/bin/kwikiprot`
+
+sets all kwiki pages read-only (i.e. editable after login only).
+
+This script is invoked once per month via
+
+`   genba:/var/www/adm/bin/monthly.knecht`
+
+from the knecht crontab.
+
+All ffii active members have editor rights.
+
+An editor is free to make a kwiki page world-writable again.
+
+This is recommended when
+
+-   there is an active community working on the page
+-   contributions can be expected from non-active-ffii-members
+-   the page is not very interesting for index spammers (not exposed to
+    a large public, no high rank in google etc)

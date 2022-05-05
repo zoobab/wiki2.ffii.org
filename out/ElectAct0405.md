@@ -1,0 +1,115 @@
+`-------- Original Message --------`\
+`Subject: voting recommendation for Hungary`
+
+`Hi!`
+
+`We vote for parties, not for candidates.`
+
+`I cannot recommend anyone who have strong commitment,`\
+`sorry.`
+
+`However I think that voting to small parties are better`\
+`for democracy, as the EP vote on swpats also shown. It is`\
+`because small parties are more responsive.`
+
+`We have two small parties with chance to have an elected candidate:`\
+[`SzDSz`](SzDSz "wikilink")` (Liberals) and MDF (EPP).`
+
+------------------------------------------------------------------------
+
+`-------- Original Message --------`\
+`Subject: politics in Poland`\
+\
+`Hi,`
+
+`Here you have page with position of political parties and politicians`\
+[`http://ffii.org.pl/index.php?s=politycy`](http://ffii.org.pl/index.php?s=politycy)
+
+`PiS , Law and Justice, against softpat`\
+`SDPL, Polish Social Democracy, it is working on its position`\
+`Unia Pracy, Union of Labour, against, declaration at the conference in`\
+`the parliament`\
+`Zieloni, Greens, against, election program`\
+`Balicki, senator`\
+`Bielan, MP`\
+`Dorn, MP`\
+`Pinior, candidate to Europarl, SDPL`
+
+------------------------------------------------------------------------
+
+`-------- Original Message --------`\
+`Subject: Portuguese `[`MEPs`](MEPs "wikilink")
+
+`I'm only focusing on "probably ellectable candidates".`
+
+`Have stated their position against software patents:`
+
+`Ilda Figueiredo (PCP) (GUE/NGL)`\
+`Sérgio Ribeiro (PCP) (GUE/NGL)`\
+`Note: the official line of the party is with us. If you want to put all`\
+`the candidates see`\
+[`http://swpatwiki.ffii.org/EuropeanElection2004CandidatesPortugal#head-09197b170c03e1aa71f40c50131eadeb2b67abfd`](http://swpatwiki.ffii.org/EuropeanElection2004CandidatesPortugal#head-09197b170c03e1aa71f40c50131eadeb2b67abfd)
+
+`Miguel Portas (BE) (probably a new left group - not defined yet)`
+
+`Have not answered the questionnaire but voted with us in the plenary`\
+`vote (and some of them helped us a lot):`
+
+`Luis Queiró (PP) (UEN*)`\
+`José Ribeiro e Castro (PP) (UEN*)`
+
+`Regina Bastos (PSD) (PPE-DE)`\
+`Carlos Coelho (PSD) (PPE-DE)`\
+`Vasco Graça Moura (PSD) (PPE-DE)`
+
+`Paulo Casaca (PS) (PSE)`
+
+-   They might become PPE-DE
+
+`I'd love to have a link like: If your favourite candidate is not on this`\
+`list, please send him the following questionnaire (link) and send the`\
+`results to the list pt-parl@lists.ffii.org so we can add him/her to this`\
+`list.`
+
+`Portuguese version: Se o seu candidato preferido não está nesta lista,`\
+`envie-lhe o seguinte questionário (link) e envie as resposta para a`\
+`lista pt-parl@lists.ffii.org de forma a podermos adicioná-lo(a) a esta`
+
+link is here: <http://ffii.org/~bkaindl/questionnaire/>
+
+------------------------------------------------------------------------
+
+`---------- Forwarded message ----------`\
+`Subject: Stemmeanbefaling til valget søndag 13. juni`
+
+`Hej Venner.`
+
+`Som I ved har jeg beskæftiget mig en del med softwarepatenter og er`\
+`derigennem blevet draget ind i politik. Det viser sig at det kommende `\
+`Europaparlamentsvalg nu på søndag (den 13. juni) indirekte kan blive `\
+`afgørende for den sag.`
+
+`Det pudsige er, at der er uenighed om sagen på tværs af partierne. Hvis du endnu`\
+`ikke har låst sig fast på, hvem du vil stemme på, vil jeg gerne opfordre dig til`\
+`at stemme personligt på en af nedenstående; din personlige stemme kan være afgørende`\
+`for, om netop den person bliver valgt som kandidat. Husk: Hvis du ikke gider stemme`\
+`søndag, så kan du stemme på folkeregistret og sandsynligvis også dit rådhus (Kbh`\
+`og Frb har særåbnet i den anledning). Medbring ID.`
+
+`Liste A: Anna Haaland Hansen`\
+`Liste B: Camilla Hersom`\
+`Liste F: Pernille Frahm`\
+`Liste J: Bent Hindrup`\
+`Liste K: Jakob From Høeg`\
+`Liste N: Ole Krarup`\
+`Liste O: Mogens Camre`\
+`Liste V: Ellen Trane Nørby`
+
+`Liste C: (Kristian Kolind) Chancen er desværre stor for at din stemme `\
+`         indirekte går til Gitte Seeberg, som er for softwarepatenter.`\
+`         Vælg derfor hellere en anden liste medmindre du __vil__ stemme C.`
+
+`Du vil gøre mig en stor tjeneste, hvis du sender denne anbefaling videre`\
+`til andre, som du tror vil sætte pris på anbefalingen.`
+
+------------------------------------------------------------------------

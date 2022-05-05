@@ -1,0 +1,73 @@
+WRITTEN QUESTION E-3526/06
+
+by Marc Tarabella (PSE)
+
+to the Commission
+
+The European Patent Office (EPO) has emphasised that defending a suit
+would cost two to three times as much as doing so within a single Member
+State.
+
+1\. Can the Commission provide an analysis of the structure of the costs
+of a typical suit under the future judicial system set up as part of the
+European Patent Litigation Agreement (EPLA)?
+
+2\. Does the Commission have an impact study into how small and
+medium-sized businesses would proceed (e.g. out-of-court settlement with
+the patent holder etc.) in the event that the costs of a suit were
+doubled or even trebled?
+
+QUESTION ÉCRITE E-3526/06
+
+posée par Marc Tarabella (PSE)
+
+à la Commission
+
+L\'Office européen des brevets (EPO) a souligné que le coût du
+contentieux pour un défendant serait deux à troiss fois plus cher que le
+coût du contentieux dans un seul État membre.
+
+1\. La Commission peut-elle fournir une analyse de la structure des
+coûts d\'un contentieux typique pour le futur système judiciaire mis en
+place dans le cadre de l\'EPLA?
+
+2\. La Commission dispose-t-elle d\'une étude d\'impact concernant le
+comportement des PME (ex.: accord à l\'amiable avec le détenteur du
+brevet, etc\...) dans le cas où le coût du contentieux serait doublé,
+voire triplé?
+
+E-3526/06FR
+
+Réponse donnée par M. [McCreevy](McCreevy "wikilink")
+
+au nom de la Commission
+
+(13.9.2006)
+
+Par sa question, l\'honorable parlementaire cherche des informations sur
+les coûts prévus des litiges en vertu de l\'accord européen sur les
+litiges en matière de brevets (EPLA - actuellement au stade de projet)
+et leur impact sur les petites et moyennes entreprises (PME).
+
+Le projet EPLA est basé sur une initiative des états contractants à
+l\'Organisation européenne des brevets, à laquelle la Communauté
+européenne n\'est pas partie contractante, et est élaboré par un groupe
+de travail sur les litiges, sans la participation de la Communauté
+européenne. L\'Office européen des brevets agissant comme secrétariat du
+groupe de travail sur les litiges a réalisé une évaluation de l\'impact
+d\'EPLA sur les litiges de brevets européens\[1\]. Il n\'est pas du
+ressort de la Commission d\'analyser la structure des coûts sous EPLA ou
+leur impact sur les PME et une telle analyse n\'a pas été réalisée.
+
+Par ailleurs, dans le cadre de la consultation sur la future politique
+en matière de brevet en Europe, la Commission procède à une analyse de
+l\'EPLA et des possibilités éventuelles pour la Communauté européenne de
+faire avancer ce projet. La consultation a été lancée le 16 janvier 2006
+et s\'avère être un énorme succès, produisant plus de 2.500 réponses des
+milieux intéressés. Une audition publique s\'est tenue le 12 juillet
+2006. La Commission analyse maintenant toutes les réponses afin d\'en
+tirer ses conclusions. Naturellement, le Parlement sera informé des
+résultats et des conclusions de la Commission dès que ceux-ci auront été
+finalisés.
+
+\[1\] <http://www.european-patent-office.org/epo/epla/index_f.htm>

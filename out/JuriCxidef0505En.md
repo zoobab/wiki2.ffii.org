@@ -1,0 +1,65 @@
+## Article 2 a {#article_2_a}
+
+\|\| number \|\| submitter \|\| recommendation \|\| text \|\| \|\| 24
+\|\| Rocard \|\| + \|\| a) \"computer-controlled invention\" means any
+invention the performance of which involves the use of a computer,
+computer network or other programmable apparatus, the invention having
+one or more nontechnical features realised wholly or partly by means of
+a computer program or computer programs, besides the technical features
+which any invention must possess; \|\| \|\| 50 = 51 \|\| Kudrycka and
+Zwiefka; Bertinotti \|\| ++ \|\| \"Computer-aided invention\", also
+called \"computer-implemented invention\", means an invention in the
+sense of patent law the performance of which involves the use of a
+programmable apparatus; \|\| \|\| 52 \|\| Kauppi \|\| + \|\|
+\"computer-implemented invention\" means an invention within the meaning
+of the European Patent Convention, the performance of which involves the
+use of a computer, computer network or programmable apparatus. \|\| \|\|
+53 \|\| Szejna \|\| o \|\| \"computer-implemented invention\" means any
+invention within the sense of patent law the application of which
+involves the additional use of a computer, computer network or other
+programmable apparatus as a control apparatus, which changes one or more
+features of the state of the art in a given field; \|\| \|\| 54 \|\|
+Lichtenberger, Frassoni \|\| + \|\| \"computer-assisted invention\"
+means any invention the performance of which involves the use of a
+computer, a computer network or other programmable apparatus and having
+one or more non-technical features which are realised wholly or partly
+by means of a computer programme or computer programmes besides the
+technical features that any invention must contribute. \|\| \|\| 55 \|\|
+Ortega \|\| - \|\| (a) \"computer-assisted invention\" means any
+invention within the meaning of the European Patent Convention the
+performance of which involves the use of a computer, computer network or
+other programmable apparatus, the invention having one or more
+non-technical features in its application which are realised wholly or
+partly by means of a computer program or computer programs, besides the
+features which any invention should provide; \|\| \|\| 56 \|\| Harbour
+\|\| o \|\| (a) \"computer implemented inventions\" means any invention
+within the meaning of the European Patent Convention, the performance of
+which involves the use of a computer, computer network or other
+programmable apparatus, the invention having one or more features which
+are realised wholly or partly by means of a computer program or computer
+programs; \|\|
+
+54 is similar to the amendment adopted in first reading, except that
+\"implemented\" was replaced with \"assisted\" and the reference to the
+EPC has been dropped, so it compromises with Commission criticism that
+the EPC cannot be embedded in EU law like that. 24 is similar.
+
+Amendment 53 is similar to 54, except that it changes that phrasing to
+\"in the sense of patent law\". It mixes statutory subject matter and
+novelty, however.
+
+Amendment 50 = 51 simplifies the first reading amendment and also uses
+the \"in the sense of patent law\" phrasing.
+
+Amendment 52 is also a simplified version of the first reading, keeping
+the \"in the sense of patent law\".
+
+Amendment 55 is a weakened version of the first reading, by removing the
+requirement that the invention provides technical features
+(\"technical\" is removed, and \"must\" has been replaced by \"should\".
+Additionally, it still contains the \"within the meaning of the EPC\"
+phrasing.
+
+56 takes on board the Commission and Council-criticised \"within the
+meaning of the European Patent Convention\", and leaves the Council text
+alone for the rest.

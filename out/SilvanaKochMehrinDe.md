@@ -1,0 +1,428 @@
+# Dr. Silvana Koch-Mehrin (FDP-Spitzenkandidatin fuer Europa-Parlament) und Softwarepatente {#dr._silvana_koch_mehrin_fdp_spitzenkandidatin_fuer_europa_parlament_und_softwarepatente}
+
+\--\> [ FDP](SwpatfdpDe "wikilink"), [
+EU-Wahl](ElectAct0405De "wikilink"), [ Briefe](SwpatxatraDe "wikilink")
+
+-   [Selbstdarstellung der
+    Kandidatin](http://www.silvana2004.de/ "wikilink")
+-   [FDP und
+    Softwarepatente](http://swpat.ffii.org/akteure/fdp/index.de.html "wikilink")
+-   [ FDP-Kandidat Chatzimarkakis zu
+    Softwarepatenten](JorgoChatzimarkakisDe "wikilink") \-- aehnliche
+    Versatzstuecke wie bei Koch-Mehrin
+
+## Eigentlich neu und doch vielleicht nur altes neu aufgebacken {#eigentlich_neu_und_doch_vielleicht_nur_altes_neu_aufgebacken}
+
+Beitrag von Vasudeva Martin: Beim lesen dieser Mail und dem Vergleich
+mit der Mail die Herr Bader am 21.04 von Frau Koch-Mehrin bekommen hat
+beschleicht mich irgendwie ein Gefühl das es nicht wirklich besser
+geworden ist. Außerdem zweifle ich irgendwie daran, das Frau Koch-Mehrin
+jemals solche Mails zu Gesicht bekommt. Ich habe irgendwie eher so ein
+Gefühl, daß je nachdem was für ein Mitarbeiter der Abteilung \"Strategie
+und Kampagnen\" die Mail liest, man ein etwas anderes
+zusammengewürfeltes Dokument bekommt. Aber wie gesagt das ist nur ein
+Gefühl. Vielleicht irre ich mich ja auch und die Antwort ist wirklich
+von Frau Koch-Mehrin. Ich habe von Silvana Koch-Merin folgende Antwort
+bekommen auf die Anfrage nach der Postion zum Thema Softwarepatente und
+Grenzwerte für Verunreinigungen von Saatgut durch gentechnisch
+verändertes Saatgut.
+
+`FDP- Bundesgeschäftsstelle * Thomas-Dehler-Haus * ( 0 30 - 28 49 58 - 0 *  `\
+`Fax 28 49 58 22                                                            `\
+`Postfach 04 03 49 - 10062 Berlin * Reinhardtstraße 14 - 10117 Berlin *     `\
+`www.fdp.de                                                                 `\
+`Thomas-Dehler-Haus - Postfach 04 03 49 - 10062 Berlin                      `\
+`                                                                           `\
+`Vasudeva.Martin@gmx.de                                                     `\
+`                                                                           `\
+`Abteilung Strategie und Kampagnen                                          `\
+`                                                                           `\
+`Tel.: 030 / 28 49 58-51/53                                                 `\
+`Fax: 030 / 28 49 58-52                                                     `\
+`e-mail: politik@fdp.de                                                     `\
+`                                                                           `\
+`Berlin, 21. Juni 2004                                                                                                                                                                                  `\
+`                                                                           `\
+`Sehr geehrter Herr Martin,                                                 `\
+`                                                                           `\
+`vielen Dank für Ihre E-Mail vom 11.06.2004.                                `\
+`                                                                           `\
+`Bei der Frage der Softwarepatente handelt es sich um ein hochkomplexes     `\
+`Thema, dessen Regelung große Auswirkungen auf den Sektor der IT-Branche    `\
+`hat. Es wird auch deutlich, dass die in dem aktuellen Entwurf vorgesehenen `\
+`Regelungen, insbesondere unter den Betroffenen sehr umstritten sind.       `\
+`                                                                           `\
+`Die FDP hat zu dem Thema Software-Patente folgende Position:               `\
+`                                                                           `\
+`Vernünftiger Patentschutz verbessert die Wettbewerbsposition europäischer  `\
+`Unternehmen gegenüber jenen aus den USA und Japan. Auch wird damit eine    `\
+`Verlagerung von Industriebetrieben in Niedrigkostenländer außerhalb der EU `\
+`verhindert. Softwarepatente müssen grundsätzlich genauso behandelt werden  `\
+`wie Patente in anderen Technologiebereichen. Man kann viel über den Sinn   `\
+`und Unsinn von Patenten nachdenken. Diese Diskussion ist nicht neu.        `\
+`Patente sind die Belohnung für kreative Arbeit und schützen die            `\
+`geleisteten Investitionen des Pateninhabers. Dieses geistige Eigentum      `\
+`sollte grundsätzlich auch Softwareunternehmen zugute kommen. Allerdings    `\
+`nur in dem Umfang, wie dies nach deutschem Recht vorgesehen ist, also      `\
+`nicht auch  wie in den USA  auf bloße Geschäftsmodelle und Algorithmen.  `\
+`                                                                           `\
+`Ich selber vertrete auch die Auffassung, dass Geschäftsideen keine für die `\
+`Patentvergabe geeigneten Erfindungen sind. Sogenannte Trivialpatente,    `\
+`wie sie in den USA gang und gäbe sind, müssen hier verhindert werden. Auch `\
+`für reine Software dürfte es keinen Patentschutz geben. Seit Mitte der     `\
+`90er Jahre ist die Zahl der beim Europäischen Patentamt in München         `\
+`angemeldeten Softwarepatente stark gestiegen. Schätzungen zufolge beziehen `\
+`sich schon 10% aller Anmeldungen auf Computer-Patente. Oft sind es aber    `\
+`keine bahnbrechenden Neuerungen, die das Amt für patentwürdig erachtet,    `\
+`sondern nur triviale Ideen oder schlicht elementare Grundlagen der         `\
+`Informatik. Tatsache ist dabei allerdings auch: Je mehr Patente erteilt    `\
+`werden, desto mehr Patentstreitigkeiten landen vor Gericht oder müssen     `\
+`kostspielig außergerichtlich geklärt werden. Die Prüfung einer             `\
+`Patentkonkurrenz kostet nach Angaben von Experten durch eine               `\
+`spezialisierte Kanzlei EUR 400.000,--!                                     `\
+`                                                                           `\
+`Grundsätzlich ist sicherlich festzuhalten, dass die Aufmerksamkeit für das `\
+`Thema Softwarepatente in der deutschen Politik nicht besonders ausgeprägt  `\
+`ist. Vielleicht können wir aber dazu beitragen, dies im Rahmen des         `\
+`EU-Wahlkampfes ein wenig zu ändern.                                        `\
+`                                                                           `\
+`Mit freundlichen Grüßen                                                                                                                                                                                                         `\
+`Silvana Koch-Mehrin                                                                                                                                  `\
+`                                                                           `\
+`ps: Wir können Europa besser! www.fdp.de                                   `\
+`                                                                         `\
+`Anhang zur Gentechnischen Veränderung von Saatgut:                         `\
+`                                                                           `\
+`Deutscher Bundestag Drucksache 15/                                         `\
+`15. Wahlperiode                                                            `\
+`Antrag                                                                     `\
+`der Abgeordneten Dr. Christel Happach-Kasan, Hans-Michael Goldmann, Ulrike `\
+`Flach, Gudrun Kopp, Dr. Volker Wissing, Rainer Brüderle, Angelika          `\
+`Brunkhorst,                                                                `\
+`Ernst Burgbacher, Helga Daub, Jörg van Essen, Otto Fricke, Dr. Karlheinz   `\
+`Guttmacher, Christoph Hartmann (Homburg), Klaus Haupt, Ulrich Heinrich,    `\
+`Birgit Homburger, Dr. Werner Hoyer, Jürgen Koppelin, Sibylle Laurischk,    `\
+`Harald                                                                     `\
+`Leibrecht, Dirk Niebel, Günther Friedrich Nolting, Hans-Joachim Otto       `\
+`(Frankfurt), Eberhard Otto (Godern), Detlef Parr, Cornelia Pieper, Dr.     `\
+`Andreas                                                                    `\
+`Pinkwart, Dr. Max Stadler, Dr. Rainer Stinner, Carl-Ludwig Thiele, Dr.     `\
+`Wolfgang                                                                   `\
+`Gerhardt und der Fraktion der FDP                                          `\
+`Chancen der Grünen Gentechnik nutzen  Gentechnikgesetz und Gentechnik-    `\
+`Durchführungsgesetz grundlegend korrigieren                                `\
+`                                                                           `\
+`Der Bundestag wolle beschließen:                                           `\
+`Die Potenziale der Grünen Gentechnik sind vielfältig und sie werden        `\
+`weltweit seit zehn Jahren auf inzwischen mehr als 60 Mio. Hektar genutzt.  `\
+`Die Grüne Gentechnik vergrößert die Auswahl an Genen, die für die Züchtung `\
+`von Kulturpflanzen zur Verfügung stehen. Dadurch können Kulturpflanzen für `\
+`verschiedene Verwendungen optimiert werden und es ergeben sich für         `\
+`verschiedene Lebensbereiche Vorteile: z. B. für Verbraucherinnen und       `\
+`Verbraucher durch Verbesserungen der Nahrungsmittel und geringere Kosten   `\
+`bei der Nahrungsmittelproduktion, für die Umwelt durch Minderung von       `\
+`Umweltbelastungen, für die weitere Entwicklung nachhaltiger Produktion `\
+`durch Optimierung nachwachsender Rohstoffe für die industrielle Produktion. `\
+`Die Grundlagenforschung an deutschen Universitäten und `\
+`Forschungseinrichtungen und die anwendungsbezogene Forschung in        `\
+`Unternehmen hat bedeutende Beiträge zur Weiterentwicklung gentechnischer   `\
+`Methoden und zur Entwicklung wichtiger, bei der Züchtung verwendeter       `\
+`Konstrukte erbracht. Die gesetzlichen Rahmenbedingungen müssen so          `\
+`gestaltet werden, dass die Vorteile gentechnischer Züchtung in Deutschland `\
+`angewendet und das vorhandene Wissen von Unternehmen genutzt und           `\
+`weiterentwickelt werden kann. Über die Einführung neuer technischer        `\
+`Methoden und den daraus entwickelten Produkten entscheidet der Markt. Das  `\
+`gilt auch für Produkte der Grünen Gentechnik. Daher sind die Umfragen zur  `\
+`Akzeptanz der Grünen Gentechnik keine Leitlinie für die Politik sondern    `\
+`für Produzenten, d. h. für die Land- und Ernährungswirtschaft. In Umfragen `\
+`werden Vorbehalte gegen die Grüne Gentechnik zum Ausdruck gebracht. Doch   `\
+`es weiß niemand, wie sich die Menschen tatsächlich verhalten werden, wenn  `\
+`echte Wahlfreiheit gegeben ist. Die Rahmenbedingungen für die Grüne        `\
+`Gentechnik müssen die Interessen der Verbraucherinnen und Verbraucher      `\
+`angemessen berücksichtigen, den Produzenten in der Land- und               `\
+`Ernährungswirtschaft Planungssicherheit gewährleisten und Innovationen in  `\
+`Deutschland ermöglichen. Die umfangreichen Zulassungsverfahren für         `\
+`genetisch veränderte Kulturpflanzen sichern die Unbedenklichkeit der aus   `\
+`ihnen hergestellten Nahrungs- und Futtermittel. Der Anbau genetisch        `\
+`veränderter Kulturpflanzen bedeutet keine durch das Züchtungsverfahren `\
+`bedingte Belastung der Umwelt.          `\
+`Verbraucherinnen und Verbraucher haben Anspruch auf eine möglichst         `\
+`vollständige Information über die Inhaltsstoffe der von ihnen gekauften    `\
+`Nahrungsmittel. Dazu gehören die Angaben über Gehalte von Bestandteilen    `\
+`von genetisch veränderten Pflanzen, die den Schwellenwert von 0,9%         `\
+`überschreiten.                                                             `\
+`Die Kennzeichnungspflicht und die Vorschriften über die Rückverfolgbarkeit `\
+`dienen der Verbraucherinformation und sind Voraussetzung, um die `\
+`Wahlfreiheit der Verbraucherinnen und Verbraucher zu verwirklichen.                                                          `\
+`Der Deutsche Bundestag fordert die Bundesregierung auf,                    `
+
+1.  eine grundlegende Korrektur des Gesetzentwurfes zur Novellierung des
+
+`Gentechnikgesetzes vorzunehmen, die die Nutzung der Grünen Gentechnik in `\
+`Deutschland ermöglicht und nicht pauschal verhindert. Die vielfältigen `\
+`Chancen dieser Innovationstechnologie für Verbraucherinnen und Verbraucher, `\
+`Landwirte, mittelständische Unternehmen und Forschung müssen auch in `\
+`Deutschland genutzt werden können. Dazu ist erforderlich:                              `\
+`- die Koexistenz von Pflanzensorten, die mit den verschiedenen Methoden    `\
+`gezüchtet wurden, entsprechend den unterschiedlichen Eigenschaften der     `\
+`verschiedenen Kulturpflanzen zu regeln. Um die Koexistenz zu ermöglichen,  `\
+`sollten spezifisch für jede Kulturpflanzenart entsprechend den             `\
+`vorliegenden Forschungsergebnissen (Ressortforschung der Biologischen      `\
+`Bundesanstalt für Land- und Forstwirtschaft, Max Planck-Institut,          `\
+`wissenschaftliche Einrichtungen in Deutschland und der Europäischen Union) `\
+`Regeln zur Koexistenz (Abstandsgebote, Fruchtfolgen                        `\
+`etc.) aufgestellt werden;                                                  `\
+`- eine für alle Betroffenen akzeptable Haftungsregelung zu entwickeln und  `\
+`vorzulegen. Die Haftungsregeln müssen sicherstellen, dass Landwirte, die `\
+`durch den Eintrag von Fremdpollen Gewinneinbußen haben, entschädigt werden. `\
+`Gleichzeitig sollen Landwirte, die die Regeln zur Koexistenz einhalten, `\
+`keine Forderungen zu befürchten haben. Sollte keine Versicherungslösung                                                        `\
+`gefunden werden, wäre die Einrichtung eines Haftungsfonds eine Lösung. In  `\
+`den Fond zahlen die Unternehmen ein, die in Deutschland genetisch verändertes       `\
+`Saatgut vermarkten.                                                        `\
+`Der Haftungsfond wird nur dann in Anspruch genommen, wenn Beimengungen von `\
+`genetisch veränderten Kulturpflanzen zu einer Minderung des Erlöses führen. `\
+`Es haften nur die Landwirte, die die Koexistenzregeln nicht konsequent `\
+`einhalten. Die von der Bundesregierung vorgeschlagene gesamtschuldnerische `\
+`Haftung ist abzulehnen, weil sie Landwirte auch dann zur Haftung heranzieht, `\
+`wenn sie nicht Verursacher der Erlösminderung sind.    `\
+`Damit würde der Einsatz gentechnisch veränderter Pflanzen auch bei Befolgung `\
+`aller Regeln zum existentiellen Risiko. Dies geht über die Zielsetzung von `\
+`Haftungsregelungen hinaus;      `\
+`- ein freiwilliges Kataster zu entwickeln und anzulegen, das für die       `\
+`Klärung von Haftungsfragen und für ein wissenschaftliches Monitoring zur `\
+`Verfügung steht. Das Kataster wird bei den Landwirtschaftskammern bzw. `\
+`Landwirtschaftsverwaltungen geführt. Um Zerstörungen von Feldern mit `\
+`gentechnisch veränderten Pflanzen zu verhindern und das Eigentum zu schützen,                                                      `\
+`wird Einsicht nur bei konkret begründeten Vorhaben gewährt;                `\
+`- die Ausschüsse der Zentralen Kommission für die Biologische Sicherheit   `\
+`(ZKBS), die über die Zulassung von Freisetzungsversuchen entscheiden, `\
+`überwiegend mit Personen zu besetzen, die Fachkompetenz besitzen, um die `\
+`schwerwiegenden Entscheidungen sachgerecht treffen zu können;                                                                    `\
+`- den Entwurf des Gentechnikgesetzes so zu korrigieren, dass Forschungen   `\
+`für Züchtungen von Pflanzensorten, die zur Produktion gesünderer Lebensmittel `\
+`z. B. durch Entfernen allergener Eiweiße beitragen, die die Umweltbelastungen `\
+`landwirtschaftlicher Kulturen verringern und die nachwachsende Rohstoffe für `\
+`die industrielle Verwertung optimieren, entsprechend den Zielen des `\
+`Gentechnikgesetzes gefördert werden;                            `\
+`- sich auf europäischer Ebene für Regeln einzusetzen, die eine einheitliche`\
+`Vorgehensweise bei grenzüberschreitenden Streitigkeiten sicherstellen;                        `\
+`- sich auf europäischer Ebene zur Schaffung von Rechtssicherheit für die   `\
+`Verabschiedung von Schwellenwerten für Saatgut nach fachlichen Kriterien `\
+`einzusetzen;         `\
+`2. das Gentechnik-Durchführungsgesetz zur Verhinderung von Problemen bei   `\
+`der Umsetzung und beim Verwaltungsvollzug zu korrigieren. Die im Vergleich `\
+`zum Lebensmittel- und Bedarfsgegenständegesetz(LMBG) unverhältnismäßig `\
+`harten Sanktionen müssen an die des LMBG angepasst werden, die fachfremde `\
+`Beteiligung des Bundesamtes für Naturschutz (BfN) mus durch Beteiligung                                                      `\
+`des Umweltbundesamtes (UBA) ersetzt werden;                                `\
+`3. die Rahmenbedingungen insgesamt für die Nutzung der Grünen Gentechnik   `\
+`so zu verbessern, dass zur Sicherung und Schaffung von hoch qualifizierten `\
+`Arbeitsplätzen deren Innovationspotenziale und deren Anwendungsmöglichkeiten`\
+`in den verschiedensten Lebensbereichen genutzt werden können; `\
+`Das umfasst Functional Food, allergenarme Nahrungsmittel, Verminderung des`\
+`Einsatzes von Pflanzenschutzmitteln und die Entwicklung moderner `\
+`nachwachsender Rohstoffe.                                                  `\
+`Berlin, den 28. April 2004                                                 `\
+`Dr. Christel Happach-Kasan                                                 `\
+`Hans-Michael Goldmann                                                      `\
+`Ulrike Flach                                                               `\
+`Gudrun Kopp                                                                `\
+`Dr. Volker Wissing                                                         `\
+`Rainer Brüderle                                                            `\
+`Angelika Brunkhorst                                                        `\
+`Ernst Burgbacher                                                           `\
+`Helga Daub                                                                 `\
+`Jörg van Essen                                                             `\
+`Otto Fricke                                                                `\
+`Dr. Karlheinz Guttmacher                                                   `\
+`Christoph Hartmann (Homburg)                                               `\
+`Klaus Haupt                                                                `\
+`Ulrich Heinrich                                                            `\
+`Birgit Homburger                                                           `\
+`Dr. Werner Hoyer                                                           `\
+`Jürgen Koppelin                                                            `\
+`Sibylle Laurischk                                                          `\
+`Harald Leibrecht                                                           `\
+`Dirk Niebel                                                                `\
+`Günther Friedrich Nolting                                                  `\
+`Hans-Joachim Otto (Frankfurt)                                              `\
+`Eberhard Otto (Godern)                                                     `\
+`Detlef Parr                                                                `\
+`Cornelia Pieper                                                            `\
+`Dr. Andreas Pinkwart                                                       `\
+`Dr. Max Stadler                                                            `\
+`Dr. Rainer Stinner                                                         `\
+`Carl-Ludwig Thiele                                                         `\
+`Dr. Wolfgang Gerhardt und Fraktion `
+
+## Neuere \"bessere\" Antwort {#neuere_bessere_antwort}
+
+`From Europawahl2(*att)fdp.de  Wed Jun  9 13:50:09 2004                                              `\
+`To: holgerlists(*att)blasum.net                                                                     `\
+`Subject: Antwortschreiben-FDP                                                                  `\
+`X-Mailer: Lotus Notes Release 6.0.3 September 26, 2003                                         `\
+`From: Europawahl2(*att)fdp.de                                                                       `\
+`Date: Wed, 9 Jun 2004 13:53:15 +0200                                                           `\
+\
+`G:\SILVANA-LOUNGE\Montforts\blasum.doc`\
+`FDP- Bundesgeschäftsstelle * Thomas-Dehler-Haus * ( 0 30 - 28 49 58 - 0 *`\
+`Fax 28 49 58 22`\
+`Postfach 04 03 49 - 10062 Berlin * Reinhardtstraße 14 - 10117 Berlin *`\
+`www.fdp.de`\
+`Thomas-Dehler-Haus - Postfach 04 03 49 - 10062 Berlin`
+
+`holgerlists(*att)blasum.net`
+
+`Abteilung Strategie und Kampagnen`\
+`Zeichen CH/pm`\
+`Tel.: 030 / 28 49 58-51/53`\
+`Fax: 030 / 28 49 58-52`\
+`e-mail: politik(*att)fdp.de`
+
+`Berlin, 9. Juni 2004`
+
+`Sehr geehrter Herr Blasum,`
+
+`vielen Dank für Ihre E-Mail vom 07.06.2004. Aufgrund der hohen Belastung`\
+`durch den Wahlkampf hat Frau Koch-Mehrin mich gebeten, Ihnen zu antworten.`
+
+`Bei der Frage der Softwarepatente handelt es sich um ein hochkomplexes`\
+`Thema, dessen Regelung große Auswirkungen auf den Sektor der IT-Branche`\
+`hat. Es wird auch deutlich, dass die in dem aktuellen Entwurf vorgesehenen`\
+`Regelungen, insbesondere unter den Betroffenen sehr umstritten sind.`
+
+`Das Europäische Parlament hat nach intensiven und kontroversen Beratungen`\
+`im September 2003 einen Richtlinienentwurf in erster Lesung gebilligt, der`\
+`aufgrund zahlreicher Änderungen gegenüber dem ursprünglichen Entwurf der`\
+`Kommission einen sachgerechten Kompromiss darstellt. Insbesondere `\
+`gewährleistet die vom Europäischen Parlament angenommene Fassung die `\
+`Interoperationsfreiheit. Außerdem enthält er die notwendige Klarstellung,`\
+`dass die Datenverarbeitung kein "Gebiet der Technik" im Sinne des`\
+`Patentrechts ist. Im Gegensatz zu dem Entwurf des Europäischen Parlaments`\
+`erlaubt der "Kompromissvorschlag der Präsidentschaft" eine unbegrenzte`\
+`Patentierbarkeit und Patentdurchsetzbarkeit sogenannter Softwarepatente.`\
+`Der Entwurf des Rates fällt damit weit hinter den vom Parlament`\
+`gebilligten Kompromiss zurück und wird den Anforderungen, die aus`\
+`wettbewerbs- und industriepolitischen Gründen an den Regelungsgehalt der`\
+`Richtlinie zu stellen sind, deshalb nicht gerecht.`
+
+`Die Bundesregierung hat sich entgegen ihrer Ankündigung gegen den vom`\
+`Europaparlament gebilligten Richtlinienentwurf um die sogenannte`\
+`Softwarepatent-Richtlinie ausgesprochen. Dieser plötzliche Meinungswechsel`\
+`der Bundesregierung hat maßgeblich dazu beigetragen, dass der dem Willen`\
+`des Europäischen Parlaments zuwiderlaufende Vorschlag der`\
+`Ratspräsidentschaft im Ministerrat beschlossen wurde.`\
+`Das Votum der Bundesregierung stellt eine wettbewerbs- und`\
+`wirtschaftspolitische Fehlentscheidung dar. Die FDP missbilligt diesen`\
+`Kurswechsel der Bundesregierung. Wir wollen uns dafür einsetzen, dass`\
+`diese Entscheidung revidiert wird. In der Frage der Grenzen der`\
+`Patentierbarkeit von Computerprogrammen fordern wir, stattdessen die`\
+`Position des Europäischen Parlamentes zu unterstützen.`
+
+`Mit freundlichen Grüßen`
+
+`Rene Hagemann-Miksits`\
+`Leiter Kampagnenbüro Europawahl 2004`
+
+`ps: Wir können Europa besser! www.fdp.de`
+
+## Älteres \"eiertaenzerisches\" Standard-Antwortschreiben zu Softwarepatenten {#älteres_eiertaenzerisches_standard_antwortschreiben_zu_softwarepatenten}
+
+Auf eine Anfrage antwortete Frau Koch-Mehrin mit einem Schreiben, das
+Softwarepatente befürwortet und keine Bereitschaft zeigt, das Gemeinwohl
+gegen die Patentlobby zu verteidigen. Das Schreiben ist ein
+Standardtext, den auch andere FDP-Kandidaten verschickt haben. Er weicht
+stark von der andernorts vertretenen Linie der FDP ab.
+
+Herbert Bader (magico69 at gmx de) stellte am 2004/04/15 im
+[Frageformular der
+Kandidatin](http://www.silvana2004.de/text/frage.php "wikilink")
+folgende Anfrage:
+
+` Sehr geehrte Frau Dr. Koch-Mehrin, `
+
+` eine Frage, die mich seit geraumer Zeit sehr bewegt, und für meine`\
+` Stimme bei der Europawahl entscheidend sein wird, ist die nach der`\
+` Einstellung der Kandidaten zu Softwarepatenten.`
+
+` Als Kleinunternehmer in der IT-Branche wäre ein juristisches`\
+` Dickicht aus 30000 wirksam werdenden EPO-Patenten, gehalten zu 3/4`\
+` von amerikanischen und japanischen Firmen, und die juristische`\
+` Überlegenheit von Großfirmen existenzbedrohend und`\
+` motivationszerstörend.`
+
+` Angenommen, Sie und weitere FDP-KollegInnen würden Mitglieder des`\
+` EU-Parlaments: Würden Sie die bisherige Haltung der Mehrheit des EU-`\
+` Parlaments (Abstimmung nach erster Lesung des Richtlinienentwurfes`\
+` am 24.9.2003) oder eher die Einstellung des EU-Rates (ausgedrückt`\
+` durch seinen Kompromissvorschlag als Grundlage zur zweiten Lesung)`\
+` unterstützen?`
+
+Darauf kam folgende Antwort:
+
+` Subject: Frage an Fr. Dr. Koch-Mehrin`\
+` Date: Wed, 21 Apr 2004 10:54:46 +0200`\
+` From: Moreen Wasserzier at fdp de`
+
+` Sehr geehrter Herr Bader,`
+
+` danke für Ihre interessante Anfrage zu Softwarepatenten.`
+
+` In der Tat handelt es sich bei der Frage der Softwarepatente um ein`\
+` hochkomplexes und sehr technisches Thema, dessen Regelung große`\
+` Auswirkungen auf einen Sektor der IT-Branche hat. Aber es wird auch`\
+` deutlich, dass die in dem aktuellen Entwurf vorgesehenen Regelungen,`\
+` insbesondere unter den Betroffenen sehr umstritten sind.`
+
+` Die FDP hat zu dem Thema Software-Patente folgende Position:`
+
+` Vernünftiger Patentschutz verbessert die Wettbewerbsposition`\
+` europäischer`\
+` Unternehmen gegenüber jenen aus den USA und Japan. Auch wird damit eine`\
+` Verlagerung von Industriebetrieben in Niedrigkostenläder außerhalb`\
+` der EU`\
+` verhindert. Softwarepatente müsen grundsätzlich genauso behandelt`\
+` werden`\
+` wie Patente in anderen Technologiebereichen. Wenn man Einwände gegen`\
+` Softwarepatente hat, dann treffen diese nicht nur auf Softwarepatente`\
+` zu.`\
+` Man kann viel über den Sinn und Unsinn von Patenten nachdenken. Diese`\
+` Diskussion ist nicht neu. Patente sind die Belohnung für kreative`\
+` Arbeit`\
+` und schützen die geleisteten Investitionen des Pateninhabers. Dieses`\
+` geistige Eigentum sollte grundsätzlich auch Softwareunternehmen zugute`\
+` kommen. Allerdings nur in dem Umfang, wie dies nach deutschem Recht`\
+` vorgesehen ist, also nicht auch wie in den USA auf bloße`\
+` Geschäftsmodelle und Algorithmen.`
+
+` Ich selber vertrete auch die Auffassung, dass Geschäftsideen keine`\
+` für die Patentvergabe geeigneten Erfindungen sind. Sogenannte`\
+` "Trivialpatente", wie sie in den USA gang und gäbe sind, müsen hier`\
+` verhindert werden. Auch für reine Software dürfte es keinen`\
+` Patentschutz geben. Seit Mitte der 90er Jahre ist die Zahl der beim`\
+` Europäischen Patentamt in München angemeldeten Softwarepatente stark`\
+` gestiegen. Schätzungen zufolge beziehen sich schon 10% aller`\
+` Anmeldungen auf Computer-Patente. Oft sind es aber keine`\
+` bahnbrechenden Neuerungen, die das Amt für patentwürdig erachtet,`\
+` sondern nur triviale Ideen oder schlicht elementare Grundlagen der`\
+` Informatik.  Tatsache ist dabei allerdings auch: Je mehr Patente`\
+` erteilt werden, desto mehr Patentstreitigkeiten landen vor Gericht`\
+` oder müssen kostspielig außergerichtlich geklÃ¤rt werden. Die`\
+` Prüfung einer Patentkonkurrenz kostet nach Angaben von Experten`\
+` durch eine spezialisierte Kanzlei EUR 400.000,--!`
+
+` Grundsätzlich ist sicherlich festzuhalten, dass die Aufmerksamkeit`\
+` für das Thema Softwarepatente in der deutschen Politik nicht`\
+` besonders ausgeprägt ist. Vielleicht können wir aber dazu beitragen,`\
+` dies im Rahmen des EU-Wahlkampfes ein wenig zu ändern.`
+
+` Mit freundlichen Grüßen`
+
+` Dr. Silvana Koch-Mehrin`\
+` FDP-Spitzenkandidatin zur Europawahl 2004`
+
+Hierauf antwortete Herr Bader, indem er die Utopie von nicht-triviale
+Patente auf nicht-reine Software (nicht Algorithmen betreffend), die
+Softwareunternehmen zugute kommen, im einzelnen widerlegte und weitere
+Fragen stellte. Es kam dann keine weitere Antwort mehr.

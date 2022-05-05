@@ -1,0 +1,77 @@
+# Over 50 NGO ask Barroso to curb excessive influance of corporate lobby groups {#over_50_ngo_ask_barroso_to_curb_excessive_influance_of_corporate_lobby_groups}
+
+Keywords:
+
+-   <http://en.wikipedia.org/wiki/Lobbying>
+-   <http://en.wikipedia.org/wiki/Political_corruption>
+-   <http://de.wikipedia.org/wiki/Korruption_in_der_EU> (unfortunately
+    this article only exists in German so far)
+
+Amsterdam, October 25 2004 In an open letter released today, over 50
+[NGOs](NGOs "wikilink") from more than a dozen EU countries call upon
+Commission President Barroso *\"to act immediately to curb the excessive
+influence of **corporate** lobby groups over EU policy making\"*.
+
+The open letter is intended as a first step in a hopefully increasingly
+broad civil society campaign for rolling back the excessive influence of
+corporate lobby groups over EU policies.
+
+Sign-ons (from European groups) are still very welcome! Send an email
+to: ceo at corporateeurope org
+
+The open letter is online at:
+<http://www.corporateeurope.org/barroso.html>
+
+Please add (only important) arguments (with immediate rebuttals, if
+needed) for or against signing this letter:
+
+Observations:
+
+-   It isn\'t a call against lobbying, but for limiting the excessive
+    influence of **corporate** lobby groups
+-   FFII, if seen as a lobby group can be classified on one hand as an
+    NGO because of it\'s grass-roots component and as an private
+    interest group because it represents the interest of European SME.
+-   Because this call is already signed by a broad variety of
+    [NGOs](NGOs "wikilink"), it can\'t be used to melt us together with
+    any specific kind of lobby group and use it against us
+
+Positions taken in the call:
+
+-   States that over fifteen thousand full-time lobbyists now operate in
+    Brussels, a large majority representing business interests.
+-   States that lobby groups succeed all too frequently in postponing,
+    weakening or blocking sorely needed progress in EU social,
+    environmental and consumer protections.
+-   Welcomes the \"Code of Conduct for Commissioners\" as step in the
+    right direction, but not sufficient.
+-   Demands that all European Commissioners and other Commission
+    officials should be obliged to accept substantial and well-defined
+    cooling-off periods to prevent \'revolving door\' cases.
+-   Asks to learn from the lobbying disclosure legislation in place in
+    the United States and Canada and oblige firms and organisations
+    targeting the EU institutions (with a lobbying budget over a certain
+    threshold) to submit regular reports giving details on the issues
+    they are lobbying on, for which clients and with what budget. These
+    lobbying disclosure reports should be fully accessible to the public
+    in an online searchable database.
+-   Asks Barruso to make a clean break with undemocratic practices like
+    the incestuous relationship with the Trans-Atlantic Business
+    Dialogue (TABD)
+    -   -   Names TABD a prime example of the inappropriate influence
+            over EU trade and regulatory policies which previous
+            European Commissions have granted large corporations
+        -   Names The European Services Forum (ESF) another example of a
+            corporate grouping awarded far-reaching and inordinate
+            privileges by the European Commission.
+-   States that EU policies should serve the public interest, not the
+    narrow commercial agendas of large corporations
+
+Con:
+
+Pro:
+
+-   We are constantly confronted with the results of the enormous
+    influence of corporate lobby practices.
+-   CEO is a very knowledgeable organisation in the field of lobby
+    research.

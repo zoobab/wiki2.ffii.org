@@ -1,0 +1,4 @@
+# IPR Enforcement directive {#ipr_enforcement_directive}
+
+-   German:
+    <http://europa.eu.int/eur-lex/pri/de/oj/dat/2004/l_195/l_19520040602de00160025.pdf>

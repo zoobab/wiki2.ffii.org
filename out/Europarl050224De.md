@@ -1,0 +1,87 @@
+1.  1.  -\*- dok: europarl050224; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Europäisches Parlament ruft die Kommission zu neuem Vorschlag auf {#europäisches_parlament_ruft_die_kommission_zu_neuem_vorschlag_auf}
+
+-\> \[ [ English Version](Europarl050224En "wikilink") \| [
+Neustart](Restart050217De "wikilink") \| [
+Patentneues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Brüssel, 24. Februar 2005 \-- Heute hat das europäische Parlament
+einstimmig einen Plenumsantrag angenommen, in dem es \"die Kommission
+auffordert, ihren Vorschlag für die Softwarepatentrichtlinie in
+Übereinstimmung mit der Entscheidung des Rechtsausschusses vom 2.
+Februar 2005 und der Konferenz der Präsidenten vom 17. Februar zu
+revidieren\".*
+
+Der Text zur Softwarepatentrichtlinie ist von dem polnischen MdEP [
+Jerzy Buzek](JerzyBuzekEn "wikilink") (Premierminister von Polen
+1997-2001) vorgeschlagen worden. Buzek erläuterte ihn kurz im Plenum. Er
+wurde von allen Fraktionen unterstützt und ohne Einspruch angenommen
+(d.h. durch Zuspruch, ohne namentliche Abstimmung).
+
+Die von den Mitgliedern des Europaparlaments unterstützte Textpassage
+lautet:
+
+` "Fordert die Kommission auf, ihren Vorschlag für die `\
+` Softwarepatentrichtlinie in Übereinstimmung mit der`\
+` Entscheidung des Rechtsausschusses vom 2. Februar 2005 und der `\
+` Konferenz der Präsidenten vom 17. Februar zu revidieren".`
+
+Sie ist Teil eines Antrags über das Legislative and Work Programme for
+2005 (B6-0120/2005 RC1) der Kommission.
+
+Erik Josefsson, FFII-Vertreter in Brüssel, kommentiert:
+
+`  "Es ist nun klar, dass das EP als Ganzes hinter dem Neustartprozess der `\
+`  Softwarepatentrichtlinie steht, der von Herrn Buzek und Herrn Gierek im `\
+`  Dezember initiiert wurde, von dem polnischen Informatikminister vor `\
+`  Weihnachten im Fischereirat bestätigt wurde, angenommen vom `\
+`  Rechtsausschuss des Parlaments im Januar, ausgeführt durch die `\
+`  Konferenz der Präsidenten im Februar, und schlussendlich durch das `\
+`  ganze Europaparlament heute bestätigt. Ich möchte ergänzen: `\
+`  'Können Sie uns nun hören, Herr `[`McCreevy`](McCreevy "wikilink")`?'"`
+
+Verschiedene Fraktionen im Parlament hatten unabhängig davon ähnliche
+Anträge eingebracht:
+
+[PSE (Sozialdemokraten)](http://tinyurl.com/5sal3 "wikilink"):
+
+` 13. Ruft die Komission auf, das Parlament erneut über den`\
+` Vorschlag für eine Richtlinie zu computer-implementierten`\
+` Erfindungen zu konsultieren, damit die europäische `\
+` Gesetzgebung eine bessere Balance zwischen allen betroffenen`\
+` Interessen erzielen kann;`
+
+[ALDE (Liberale)](http://tinyurl.com/3lceh "wikilink"):
+
+` 3. Lädt die Kommission ein, ihren Vorschlag für die `\
+` Softwarepatentrichlinie zu überarbeiten und ihre `\
+` gesetzgeberischen Vorschläge für eine integriertes`\
+` Patentgesamtsystem vorzulegen;`
+
+[Grüne:](http://tinyurl.com/5om97 "wikilink")
+
+` 27. Fordert die Kommission auf, die Rechtlinie über die `\
+` Patentierbarkeit von sogenannten 'computer-implementierten Erfindungen'`\
+` neu zu entwerfen, so dass eine klare rechtliche Unterscheidung zwischen`\
+` dem, was technisch ist und patentiert werden kann, und was nicht, `\
+` zu finden; empfiehlt dass die Kommission mehr Unterstützung für `\
+` die Entwicklung von Freier und Opne Source Software innerhalb der `\
+` Strategie für die Europäische Informationsgesellschaft bis 2010`\
+` gibt;`
+
+[GUE/NGL (Kommunisten)](http://tinyurl.com/58787 "wikilink"):
+
+` 4. Ruft Kommission und Rat dazu auf, die Richtlinie über `\
+` Softwarepatente zurückzurufen und ruft die Kommission dazu auf, `\
+` Priorität für die Entwicklung von Freier und Open-Source Software`\
+` zu geben und die 'Digital Spaltung' innerhalb der Strategie`\
+` für die Informationsgesellschaft bis 2010 zu überwinden;`
+
+Es gibt keine Erwähnung in den Anträgen der [UEN
+(Konservativen)](http://tinyurl.com/6h6qc "wikilink") und [PPE
+(Christdemokraten)](http://tinyurl.com/6vq7t "wikilink"), aber bei
+Fraktionen stimmt von Buzek (PPE) im Plenum geäußerten Formulierung zu.

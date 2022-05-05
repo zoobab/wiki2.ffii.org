@@ -1,0 +1,34 @@
+industrial -\> intellectual
+
+The International Association for the Protection of Intellectual
+Property (http://www.aippi.org/)
+
+The swedish organisation SFIF has a aippi group. But the swedes call
+themselves Swedish Association for the Protection of Industrial Property
+(http://www.sfir.org/)
+
+AIPPI newsletter: \"Q132 had to deal with recent developments in the
+European Parliament concerning the Draft Directive for the protection of
+computer implemented inventions. The Open Source movement and other
+circles had managed to bring amendments into the discussion which limit
+the protection of computer implemented inventions to a level which falls
+even below the present standard of the EPO. The Resolution adopted urges
+the European Parliament not to accept the suggested amendments but to
+continue to work on the Draft Directive to ensure that computer
+implemented inventions are treated equally compared to inventions in
+other fields of technology and that the criteria for patentability are
+strictly applied.\" <http://www.aippi.org/Newsletter/Newsletter1_04.pdf>
+
+The resolution: <http://www.aippi.org/reports/resolutions/Q132_E.pdf>
+
+------------------------------------------------------------------------
+
+Mr. Alberto BERCOVITZ Chairman of the Session
+<http://www.aippi.org/reports/minutes/minutes_q168_E.pdf> Mr. Gustavo
+LEONARDOS (Brazil). Point 5 of the Resolution seems to imply that the
+principle of free speech does not apply to the use of trademarks in
+parody. Perhaps it is just a matter of substi- tuting the word
+\"should\" by \"may\" or \"could\". Mr. BOCHNOVIC. The principle of
+freedom of speech is so fundamental that no AIPPI Resolution or
+trademark law would be able to erode it. I suggest leaving it out of the
+Resolution. Mr. LEO- NARDOS (Brazil) withdraws his proposal.

@@ -1,0 +1,44 @@
+Die [EU-Kommission](http://europa.eu.int/comm/ "wikilink") ist die
+europäische Regierung.
+
+Jedes Land stellt einen Kommissar, das Äquivalent zu einem Minister auf
+Bundesebene.
+
+Entscheidungen werden oft in Besprechungen der Kommissarenrunde gefällt
+(Äquivalent zur Kabinettsrunde in DE).
+
+-   Der deutsche Kommissar ist Industrie Verheugen. [Es ist
+    ersichtlich](http://www.europa.eu.int/comm/commission_barroso/verheugen/cabinet/cabinet_de.htm "wikilink"),
+    dass auch sein Kabinett (=Beraterstab, entsprechend in loser
+    Analogie etwa den politischen Beamten) vergleichsweise stark deutsch
+    gefärbt ist.
+
+`Kommissar Günter Verheugen`\
+`Europäische Kommission`\
+`200, Rue de la Loi`\
+`B-1049 Bruxelles`\
+`Belgien`
+
+(Bemerkung: das Porto für Standardbriefe ist für die Deutsche Post
+EU-weit einheitlich, also EUR 0,55 von Deutschland aus)
+
+-   Darüberhinaus hat aber jeder Kommissar auch einen festen
+    Beamtenapparat, und der ist in der Regel international besetzt, so
+    z.B. auch in der Generaldirektion Binnenmarkt (MARKT) unter Vorsitz
+    des irischen Kommissars [McCreevy](McCreevy "wikilink"), hier z.B.
+    das
+    [Organigramm](http://europa.eu.int/comm/dgs/internal_market/docs/organigramme/organichart_en.pdf "wikilink").
+    In Binnenmarkt ist für die Softwarepatentrichtlinie D.2 Industrial
+    Property zuständig, z.B. Erik Noteboom und für die
+    Softwarepatentrichtlinie Elisabeth Coleman.
+
+```{=html}
+<!-- -->
+```
+-   [Telefonverzeichnis](http://europa.eu.int/comm/staffdir/plsql/gsys_page.display_index?pLang=DE "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   Die Vertretung der Eropäischen Kommission in Deutschland:
+    <http://www.eu-kommission.de/>

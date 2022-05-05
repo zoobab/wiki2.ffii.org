@@ -1,0 +1,21 @@
+1.  1.  -\*- dok: swpatkelci; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Computerspiele und Patente {#computerspiele_und_patente}
+
+\--\> \[ [ english](SwpatkelciEn "wikilink") \] \[ [
+Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+Im Sommer 2004 kam es wegen Patenten in der Doom-Gemeinde zu einiger
+Unruhe. Kurz darauf versuchte eine Firma, mit einem Patent auf
+dreidimensionale Darstellung die Spielehebranche in den USA zu
+besteuern. Spielherstellerverbände wie APOM haben sich gegen
+Softwarepatente und insbesondere gegen die die Ratsversion der geplanten
+EU-Softwarepatentrichtlinie ausgesprochen.
+
+## Neues und Chronik {#neues_und_chronik}
+
+-   2004-11-04 DE [Computerwoche: Patent auf 3D Technik gefährdet
+    Spieleindustrie](http://www.computerwoche.de/index.cfm?pageid=254&type=detail&artid=67169 "wikilink")

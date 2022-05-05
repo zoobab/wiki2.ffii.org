@@ -1,0 +1,107 @@
+-\> [ NSP-Presseerklärung zum
+Event](DihkDemoNspPrVorab050407De "wikilink")
+
+## \*\*\* ENTWURF - NICHT ZUR VERÖFFENTLICHUNG \*\*\* {#entwurf___nicht_zur_veröffentlichung}
+
+## Presseerklärung des FFII zur IHK-Veranstaltung \"Softwarepatente - Ja oder Nein?\" {#presseerklärung_des_ffii_zur_ihk_veranstaltung_softwarepatente___ja_oder_nein}
+
+### Photo-/Pressetermin in der Orleansstr. 10 - 12 (IHK-Akademie) ab 17.00 Uhr (nach der Podiumsdiskussion) {#photo_pressetermin_in_der_orleansstr._10___12_ihk_akademie_ab_17.00_uhr_nach_der_podiumsdiskussion}
+
+### Nosoftwarepatents.com und FFII München mahnen die IHK, die Interessen ihrer Mitglieder zu vertreten. {#nosoftwarepatents.com_und_ffii_münchen_mahnen_die_ihk_die_interessen_ihrer_mitglieder_zu_vertreten.}
+
+*München, Donnerstag 7. April 2005 - Der FFII gibt bekannt, dass es im
+Verlauf des Tages zu Demonstrationen, Kundgebungen und ähnlichen
+Aktivitäten vor dem Gebäude der IHK-München kommen wird. Anlass für die
+Proteste ist eine Veranstaltung im Haus unter Federführung des DIHK zum
+Thema Softwarepatenten. Auf die Strasse gehen Mitglieder des
+FFII-München, die Initiative* !NoSoftwarePatents.com *sowie einige
+Mitglieder der IHK.*
+
+` "Während in den USA und in Japan kaum Restriktionen für `\
+` die Anmeldung von Patenten bestehen, fehlt es in Europa `\
+` an Klarheit und Rechtssicherheit auf dem Gebiet`\
+` computerbasierter Erfindungen."`
+
+Mit diesen Worten kündigte Doris Möller für die Industrie- und
+Handelskammer (IHK; Interessenvertretung des Mittelstandes) die
+angeblich neutrale Informationsveranstaltung zum Thema Softwarepatente
+in Europa an, die am 07.04.2005 in der Fortbildungsstätte der IHK
+stattfand. Für mittelständische Softwareentwickler klingen diese Worte
+wie blanker Hohn. So wurde von der Veranstaltung auch die
+Interessenvertretung europäischer Programmierer, der Förderverein für
+freie informationelle Infrastruktur (FFII e.V.) ausgeladen, angeblich,
+um die Neutralität zu wahren.
+
+Uli Sommer vom FFII München spricht:
+
+` "Ich mahne daher als IHK-Mitglied eindringlich, dass die IHK sich auf die `\
+` Vertretung der Interessen ihrer Mitglieder konzentriert."`
+
+Mitglieder des FFII München demonstrierten am Freitag in
+Sträflingskleidung vor dem Fortbildungszentrum der IHK, um auf die
+strafrechtlichen Gefahren hinzuweisen, die von einer Zulassung von
+Softwarepatenten für Programmierer und Unternehmer ausgehen.
+
+### Hintergrund
+
+*Am Freitag, den 7. März 2005 erlebte die Demokratie der Europäischen
+Union eine schwere Niederlage: Die luxemburgische Ratspräsidentschaft
+erklärte unter Verletzung von Verfahrensregeln einen Entwurf für eine
+Richtlinie zur Zulassung von Softwarepatenten als angenommen. Sowohl das
+deutsche Parlament, als auch das dänische Parlament hatten ihre
+Regierungen beauftragt, die Annahme dieser aktuellen Entwurfsfassung des
+Ministerrates vom Mai 2004 zu verhindern.*
+
+Demnächst wird das Eurpäische Parlament über die Annahme dieses Entwurfs
+entscheiden bzw. Änderungen einbringen. Das Europäische Parlament hatte
+zuvor eine Fassung für die Regelung ausgearbeitet, die Software von der
+Patentierbarkeit ausgeschlossen hatte. Diese Fassung wurde vom Rat
+komplett übergangen.
+
+Die aktuelle Entwurfsfassung des Ministerrates ermöglicht durch eine
+seltsam freie Auslegung des Europäischen Patentabkommens die
+Patentierung von Software. Dieses weiterhin gültige Patentabkommen
+formuliert sehr klar, daß Patente auf Software, auf Geschäftsmethonden
+und Algorithmen nicht zulässig sind. In den Auswirkungen würde diese
+Regelung der amerikanischen Patentierungspraxis weitgehend gleich
+kommen. In den USA gibt es wegen der ungehinderten Patentierbarkeit von
+Software eine derartige Flut von Softwarepatenten, daß Entwicklung von
+Software ohne Patentverletzungen nicht mehr möglich ist. In der Folge
+einigen sich Unternehmen überwiegend durch den Handel von Patenten oder
+durch gemeinsame Verwaltung von Patentpools. Derartige
+Nichtangriffsverträge werden nach Machtpossition ausgehandelt und
+bedeuten für kleinere Entwicklungsunternehmen oder freie Programmierer
+eine unkalkulierbare strafrechtliche Gefahr und vielfach auch die
+Abtretung einer Art von Schutzzöllen.
+
+Die innovationsfördernde Bedeutung von Patenten, die im technischen
+Bereich partiell zu beobachten ist, spielt im Falle von Software keine
+Rolle mehr, sondern im Gegenteil ist eine verstärkte Tendenz zur
+Monopolbildung erkennbar. Leidtragende sind in erster Linie
+mittelständische Unternehmen und Freie Programmierer.
+
+### Über den FFII \-- <http://www.ffii.org/> {#über_den_ffii____httpwww.ffii.org}
+
+Der FFII ist ein in München eingetragener gemeinnütziger Verein für
+Volksbildung im Bereich der Datenverarbeitung. Der FFII unterstützt die
+Entwicklung öffentlicher Informationsgüter auf Grundlage des
+Urheberrechts, freien Wettbewerbs und offener Standards. Über 500
+Mitglieder, 1200 Firmen und 80000 Unterstützer haben den FFII mit der
+Vertretung ihrer Interessen im Bereich der Gesetzgebung zu
+Software-Eigentumsrechten beauftragt.
+
+### Kontaktdaten
+
+Für weitere Informationen zur Demonstration wenden Sie sich bitte an:
+
+` Jan Wildeboer`\
+` jan.wildeboer@gmx.de`\
+` +49 174 7917833`
+
+Für weitere Informationen zu dieser Ankündigung oder den FFII wenden Sie
+sich bitte an:
+
+` Hartmut Pilch`\
+` Vorsitzender, FFII e.V.`\
+` Tel. +49 (89) 18979927`\
+` phm@ffii.org `

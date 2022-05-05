@@ -1,0 +1,117 @@
+1.  1.  -\*- dok: [PrReject050706](PrReject050706 "wikilink"); lang: pt;
+        coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-07-06
+    3.  url <http://swpat.ffii.org/log/05/ep0706/>
+
+# Parlamento Europeu diz não às patentes de software, sim à inovação {#parlamento_europeu_diz_não_às_patentes_de_software_sim_à_inovação}
+
+-\> \[ [ français](Prreject050706Fr "wikilink") \| [
+english](Prreject050706En "wikilink") \| [
+deutsch](Prreject050706De "wikilink") \] \[ [ 21
+Amendments](AmPlenPr050701En "wikilink") \| [
+Noticies](SwpatcninoPt "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Estrasburgo, 6 de Julho de 2005 \-- O Parlamento Europeu decidiu hoje
+por uma larga maioria rejeitar a directiva de patentes de software. Esta
+rejeição foi a resposta lógica à recusa da Comissão de recomeçar o
+processo legislativo em Fevereiro e à falta de vontade do Conselho de
+entrar em qualquer diálogo com o Parlamento. A FFII congratula o
+Parlamento Europeu pelo seu claro \"não\" a uma má proposta legislativa,
+e a maus procedimentos legislativos.*
+
+Isto é uma grande vitória para aqueles que têm lutado por assegurar que
+a inovação e a competitividade Europeia está protegida da ameaça das
+patentes de software e métodos de negócio. Marca o fim desta tentativa
+da Comissão Europeia de codificar em lei a prática similar à dos EUA do
+Instituto Europeu de Patentes. Acreditamos que o trabalho do Parlamento,
+em particular as 21 emendas de compromisso, providenciam uma boa base
+sobre a qual poderão ser construídos futuros projectos legislativos.
+
+A rejeição providencia espaço para novas iniciativas baseadas em todo o
+conhecimento obtido durante os últimos cinco anos. Contudo, o facto de
+que a Posição Comum do Conselho necessitava de 21 emendas para ser
+transformada num bloco legislativo coerente, indica que o texto
+simplesmente não estava preparado para entrar em fase de Conciliação
+entre o Parlamento, Comissão e Conselho. Esperamos que a Comissão e o
+Conselho finalmente respondam às preocupações levantadas pelo Parlamento
+na próxima tentativa, de forma a evitar este tipo de coice no futuro.
+
+Jonas Maebe, Membro da Direcção da FFII, comenta o resultado do voto de
+hoje:
+
+\"Este resultado claramente demonstra que através da análise, os
+cidadãos genuinamente preocupados e a informação factual têm mais efeito
+que gelados gratuitos, carradas de lóbistas pagos e ameaças
+encomendadas. Espero que esta reviravolta possa dar às pessoas uma nova
+esperança no processo de decisão Europeu. Também espero que incentive o
+Conselho e a Comissão a imitar o Parlamento Europeu no que diz respeito
+à transparência e à capacidade dos intervenientes directamente afectados
+de participar no processo de decisão não importa o seu tamanho.\"
+
+A FFII deseja agradecer a todas as pessoas que tomaram a oportunidade de
+contactar os seus representantes. Também agradecemos aos numerosos
+voluntários que generosamente deram o seu tempo e energia. Para além do
+Parlamento, esta também é uma vitória vossa.
+
+## Mais informação {#mais_informação}
+
+-   [ Gelados gratuitos pela
+    patentabilidade](CampIcecream050601En "wikilink")
+-   [Lóbistas de patentes de software adicionam barcos ao seu
+    arsenal](http://lists.ffii.org/pipermail/news/2005-July/000297.html "wikilink")
+-   [Fotografias da
+    Embarcação](http://gallery.ffii.org/Strasbourg050705 "wikilink")
+
+## Contactos
+
+`Hartmut Pilch e Holger Blasum`\
+`FFII Munich Office`\
+`info ffii.org`\
+`++49-89-18979927`
+
+`Rufus Pollock`\
+`FFII UK`\
+`rufus.pollock ffii.org.uk`\
+`+44-7795-176976`
+
+`Jonas Maebe`\
+`FFII BE`\
+`jmaebe ffii.org`\
+`+32-485-369645`
+
+`Dieter Van Uytvanck`\
+`FFII BE`\
+`dietvu village.uunet.be`\
+`+32-499-167010`
+
+`Erik Josefsson and Jonas Bosson`\
+`FFII SE`\
+`erjos cleosan.com`\
+`+32-40-82063`\
+`jbosson ffii.org`\
+`+46-70-4217840`\
+\
+`João Miguel Neves`\
+`Presidente, Associação Nacional para o Software Livre`\
+`joao.neves@ansol.org`\
+`+351 933 252 302`
+
+`Rui Seabra`\
+`Vice-Presidente, Associação Nacional para o Software Livre`\
+`rms@ansol.org`\
+`+351 933 255 619`
+
+## Sobre a FFII \-- <http://www.ffii.org> {#sobre_a_ffii____httpwww.ffii.org}
+
+A Fundação para uma Infraestrutura de Informação Livre (FFII) é uma
+associação sem fins lucrativos registada em diversos países Europeus,
+que se dedica à difusão da literacia no processamenteo de dados. A FFII
+apoia o desenvolvimento de bens de informação públicos baseado no
+Direito de Autor, competição livre, standards abertos. Mais de 600
+membros, 3,000 companhias e 90,000 apoiantes confiam na FFII para agir
+como a sua voz em questões de legislação pública que digam respeito a
+direitos de exclusão (propriedade intelectual) no processamento de
+dados. A FFII mantém escritórios em Munique e Bruxelas, e grupos
+nacionais de apoio na maioria dos países Europeus.

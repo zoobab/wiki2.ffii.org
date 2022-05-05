@@ -1,0 +1,125 @@
+Translation of main messages in Statskontorets appeal of patent SE518978
+sources at [StatskontoretSe](StatskontoretSe "wikilink")
+
+Statskontoret - The Swedish Agency for Public Management
+
+The Swedish Agency for Public Management provides support to the
+Government and Government Offices. Our task is to conduct studies and
+evaluations at the request of the government and also to modernize
+public administration with the use of IT. Our activities are directed
+according to the Governments needs and demands.
+
+<http://www.statskontoret.se/english/index.htm>
+
+patent links:
+
+<http://l2.espacenet.com/espacenet/bnsviewer?CY=ep&LG=en&DB=EPD&PN=SE0104066&ID=SE+++0104066L++I+>
+<http://l2.espacenet.com/espacenet/bnsviewer?CY=ep&LG=en&DB=EPD&PN=SE518978&ID=SE++++518978C2+I+>
+<http://l2.espacenet.com/espacenet/viewer?PN=EP1228451>
+<http://register.epoline.org/espacenet/regviewer?AP=EP20000970385&PN=WO0133420&CY=ep&LG=en&DB=REG>
+
+[http://ofi.epoline.org/view/GetDossier?dosnum=00970385&#9001;=en#](http://ofi.epoline.org/view/GetDossier?dosnum=00970385&#9001;=en#)
+
+there is a difference between the original se application and what is
+filed at EPO,no news of 20031113 about swedish translation of EPO
+application
+
+av Sunnanvind (sunnan\@handgranat.org) den 16 sep 2003 18.46 Fulfillment
+of the conditions in PatL §1.
+
+The invention as stated in the patent is only describing a flow of
+information between different cooperating entities. Each partaking unit
+is well known. The claim is that the described flow of information is
+somehow a solution to one or more technical problems. The solution
+provided gives no new technical solutions with regard to how a database
+works, how to create a form, how to connect units with each other, in
+which way computer files can encompass different formats or what these
+formats would mean, how a file includes indentification of a reciever,
+how means for transaction and reception work, or how encryption and
+signing work. It\'s only indicated that these features exist but none of
+them advance the technical state of the art. The description refers only
+to known conventional means and methods to accomplish the invention. The
+combination in itself does not lift the invention to any technical
+level. The inventions thus subsists solely of an administrative method
+to submit a form. No technical features whatsoever are presented in the
+patent according to the granted claims, which is why the patent is not
+considered an invention within the patentable realm defined in PatL §1.
+
+av epi (Urban.Koistinen\@abc.se) den 16 sep 2003 19.50 Demand
+
+As there is no invention in the patentable realm according to PatL
+paragraph 1, and as there is no novelty, or at least no inventive
+height, according to PatL paragraph 2 we demand that the patent office
+revoke the granted patent in its entirety.
+
+In case the patent office can not decide to revoke the granted patent
+only based on written communication we demand a personal conference with
+the member who is dealing with the matter in order to thereby orally
+further explain our position on the matter.
+
+Proof of publication of referenced publications can be sent if required.
+
+Stockholm 15 September 2003. GROTH & Co. KB
+
+Ulf Kärn
+
+Attached
+
+Letter of attorney
+
+Attachment 1: \"Spridnings- och HämtningsSystem SHS Hewlett Packard
+Sverige AB Ramavtal nr 6425/99\", Dnr 118/98-3, Bilaga 6 Specifikation
+av produkter. Attachment 2: \"Spridnings- och HämtningsSystem SHS Tankar
+och Visioner\", Riksskatteverket, Riksförsäkringsverket, 1998-06-03,
+Version 2.00. Attachment 3: \"Gemensamma IT-plattformar för
+informationsutbyte\", rapport från förstudie. Toppledarforum och
+Riksförsäkringsverket., distribuerad av Statskontoret,1995. Attachment
+4: \"Super-Forms: A Security-Enhanced Smart Electronic Form Management
+System\", Anthony B. Dayao et.al, In
+[GlobalTelecommunications](GlobalTelecommunications "wikilink")
+Conference, 1990, and Exhibition \'Communications: Connecting the
+Future\', GLOBECOM \'90., IEEE. 2-5 december, 1990 on pages 1079 ­ 1083
+Vol. 2. Attachment 5: Föreläggande enligt A 96(2) EPC, daterad 27
+augusti, 2002, rörande europeisk patentansökan 00 970 358.1. Attachment
+6: Svaromål till föreläggande enligt bilaga 4, daterat 9 december, 2002.
+Attachment 7: Teknisk lösning för Kontakt-N\". Reine Bergström, 23
+September 1999, Version 1.3.
+
+We will also discuss (expand on) the (more general) relevancy of these
+distinguishing caracteristics.
+
+Patent claim 1 is about (has as subject): 1a: A system for accessing,
+modifying and transferring computer (data) files including: 1b: a
+universal, widely spread network, 1c: a database system, 1d: at least
+(minimally) a (one) local data processing system (computer), 1e: a
+notary server (a server providing notary services), 1f: and at least
+(minimally) a (one) reciever (recieving) system, 1g: which comprise
+independent systems attached to the network, 1h: where the database
+system comprises (makes, is a means for) storing a number(set) of data
+files, 1i: which each one includes a form, 1j: where each form is in a
+mainly arbitrary but predetermined format which can differ from the
+format of other forms in the database system, 1k: whereby each file
+includes identification which associates it with a given
+reciever(receiving) system, 1l: and the database system becomes the
+means to transfer data files by the network to the local data processing
+system, 1m: whereby each local data processing system becomes the means
+for using the database system, for downloading through the network of at
+least one user selected data file stored in the database system, 1n: for
+(the purpose of) registering changes introduced by the user in the
+downloaded data file, 1o: and for transfer of the modified data file as
+a transferred data file to the notary server by way of the network, 1p:
+and whereby the notary server comprises a means to receive every
+transfered data file by way of the network, 1q: and to transfer every
+transferred data file to the receiver system by which the transferred
+data file is associated.
+
+Patent claim 6 is about (has as subject), besides what is meant in
+patent claim 1: 6a: a portable memory device which stores personal
+encryption parameters for the user, and 6b: a reader that is attached to
+the local data processing system to (for the purpose of) reading the
+users encryption parameters from the portable memory device, 6c: where
+every local data processing system also comprises the means for
+encryption of transferred data files with use of public(common)
+encryption codes, and 6d: to attach to every transfered form a with
+public code encrypted digital code which uniquely identifies the user of
+the receiver system, with which the transferred form is associated.

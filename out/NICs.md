@@ -1,0 +1,1 @@
+Network Interface Card. Placa de rede

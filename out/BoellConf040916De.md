@@ -1,0 +1,79 @@
+# Konferenz der Boell-Stiftung \"Open Innovation\" 2004-09-16..7 {#konferenz_der_boell_stiftung_open_innovation_2004_09_16..7}
+
+\--\> \[ [ Neues](SwpatcninoDe "wikilink") \| [
+Veranstaltungen](SwpatpenmiDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+Participant: Florian Müller of MySQL (no FFII member), Marcus Dapp (FFII
+CH)
+
+## E I N L A D U N G {#e_i_n_l_a_d_u_n_g}
+
+### OPEN INNOVATION! {#open_innovation}
+
+### Auf der Suche nach neuen Leitbildern {#auf_der_suche_nach_neuen_leitbildern}
+
+Datum: 16./17. September 2004
+
+Ort: Landesvertretung Schleswig-Holstein, In den Ministergaerten 8,
+10117 Berlin
+
+### [TeilnehmerInnen](TeilnehmerInnen "wikilink") u.a. {#teilnehmerinnen_u.a.}
+
+-   Reinhard Buetikofer, Bundesvorsitzender Buendnis90/ Die Gruenen
+-   Elmar Geese, Vorsitzeder Linux-Verband, Bonn
+-   Marie-Thérèse Huppertz, Microsoft, Bruessel
+-   Prof. Claus Leggewie, Giessen
+-   Prof. Lawrence Lessig, Stanford
+-   Prof. Margit Osterloh, Universitaet Zuerich
+
+Innovation ist mit der modernen, fortschrittsorientierten Gesellschaft
+unaufloesbar verbunden. Die Politik redet von ihr besonders dann, wenn
+es mit dem Fortschreiten hakt. Doch auch Innovationsmodelle fallen nicht
+vom Himmel und muessen dem Neuen, das nicht zuletzt durch die technische
+und mediale Entwicklung moeglich geworden ist, Raum geben. Die Konferenz
+\"Open Innovation!\" will ausloten, welche Anregungen fuer eine
+zeitgemaesse Innovationsoffensive aus dem Geist des Internet zu gewinnen
+sind, der wichtigsten Basisinnovation der vernetzten, digitalen
+Gesellschaft.
+
+Die kommunikative Netzwelt des Internet hat sich zum Leitmedium der
+Wissensgesellschaft gemausert. Es baut auf offenem Zugang (Open Access)
+und offenen Standards auf, die Entscheidungen den Endnutzern
+ueberlassen. Die vom Internet ausgeloesten Folgeinnovationen reichen vom
+World Wide Web ueber freie Software bis hin zu Peer-to-Peer-Netzen und
+der GRID-Technologie. Auch innovative Geschaeftsmodelle wie
+Online-Auktionen, bei denen private Verkaeufer und Kaeufer uebers Netz
+direkt miteinander in Kontakt gebracht werden, profitieren vom so
+genannten \"end to end\"-Prinzip des Internet.
+
+\"Open Innovation!\" stellt zur Diskussion, inwieweit die neuen
+Prinzipien und Strukturen der Netzwelten die grundlegenden
+Innovationsbedingungen der Gegenwart sein muessen. Innovationspolitik
+kann nur dann erfolgreich sein, wenn sie erkennt, was die aktuellen
+Rahmenbedingungen fuer Invention und Innovation sind. Es wird die Kunst
+der Politik sein, die aktuellen \"Informationskriege\" in eine
+produktive Innovationskooperation umzuleiten, bei der Offenheit die
+Leitidee ist. Die Konferenz begreift Innovationspolitik als
+Wissenspolitik und Open Access als Bedingung fuer nachhaltige
+Entwicklung und Innovation und wird Denkanstoesse fuer die aktuelle
+Debatte geben.
+
+Konferenz in Kooperation mit der Technischen Universitaet Berlin und der
+Humboldt-Universitaet zu Berlin
+
+## Anmeldung/Infos/Programm:
+
+<http://www.wissensgesellschaft.org/openinnovation>
+
+Gebuehr: ? 25 *? 15 (ermaessigt* ein Tag)
+
+Bitte ueberweisen Sie den Betrag vorab auf folgendes Konto der
+Heinrich-Boell-Stiftung: Bank fuer Sozialwirtschaft, Kto-Nr. 3076701,
+BLZ 100 205 00, Kennwort: KST 165505, Innovationskongress
+
+### FACHKONTAKT
+
+-   Olga Drossou, 030. 285 34 - 183
+-   innovation\@boell.de

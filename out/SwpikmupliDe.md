@@ -1,0 +1,9 @@
+Mehr Beispiele:
+
+Auf Peter Gerwinski\'s Patinfo: Beispiele für Software-Patente:
+<http://patinfo.ffii.org/patente.html>
+
+<http://wiki.ael.be/index.php/EnglishSWPatentExamples> (mit vielen
+Grafiken)
+
+<http://wiki.ael.be/index.php/InfringementExamples>

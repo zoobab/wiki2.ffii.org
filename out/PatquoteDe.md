@@ -1,0 +1,27 @@
+-\> \[ [ englisch](PatquoteEn "wikilink") \] \[ [
+Softwarepatent-Zitate](SwpatcuskuDe "wikilink") \| [
+Neuigkeiten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+# Zitate zum Patentwesen im allgemeinen {#zitate_zum_patentwesen_im_allgemeinen}
+
+-   **Dr. Rehberger**, Minister für Wirtschaft und Arbeit in
+    Sachsen-Anhalt vor dem Landtag: \"Die Straße der Romanik ist ein
+    in sich geschlossenes touristisches Produkt mit
+    Alleinstellungscharakter. Sie stellt für Sachsen-Anhalt das
+    wichtigste kulturtouristische Projekt mit identitätsstiftender und
+    imagebildender Bedeutung dar. Aufgrund dieser Bedeutung hat das
+    Wirtschaftsministerium den Namen und das Produkt als Patent
+    urheberrechtlich schützen lassen.\", 17.6.2004, Quelle:
+    <http://www.landtag.sachsen-anhalt.de/ltpapier/plenum/4/041stzg.doc>
+
+```{=html}
+<!-- -->
+```
+-   **Host Köhler**: \"Mit ungezählten Programmen, Projekten und
+    Vorschriften drängt der Staat sich ins Leben der Bürger, verbietet
+    und gebietet, empfiehlt und missbilligt, zwackt hier etwas ab,
+    spendet da etwas hinzu, und alles, alles wird verwaltet und gelenkt
+    und kontrolliert und muss von allen mit Steuern und Abgaben bezahlt
+    werden.\", 3.10.2003

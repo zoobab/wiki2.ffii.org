@@ -1,0 +1,20 @@
+### Bundes Verfassungs Gericht (BVerG, BVG) {#bundes_verfassungs_gericht_bverg_bvg}
+
+Das Bundes Verfassungs Gericht ist die höchste Instanz im deutschen
+Rechtswesen. Es hat über Belange der Auslegung des Grundgesetzes zu
+entscheiden und kann nur in Ausnahmefällen angerufen werden, meist als
+Folge eines von den anderen Instanzen nicht aus den bereits vorhandenen
+Regelungen heraus klar erkennbaren Rechtslagen. Dabei wird das
+vorinstanzliche Urteil unter Vorbehalt gestellt und der Senat des BVG,
+der aus von der Regierung berufenen Richtern (zu einem nicht
+unerheblichen Teil mit Beziehungen oder Mitgliedschaften in den
+Parteien) besteht entscheidet per Mehrheitsvotum. Bei Stimmenpatt gilt
+ein Antrag als nicht angenommen. Es muss also bei der Entscheidung eine
+Mehrheit gegeben sein.
+
+## News
+
+-   2006-03-01 DE [Welt: Gespeicherte E-Mails fallen nicht unter
+    Fernmeldegeheimnis](http://www.welt.de/data/2006/03/02/853857.html "wikilink")
+    (BVerfG-Urteil erleichtert Zugriff auf
+    Handy-/E-Mail-Verbindungsdaten)

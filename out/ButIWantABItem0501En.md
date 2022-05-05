@@ -1,0 +1,16 @@
+## But I want a B-item {#but_i_want_a_b_item}
+
+Welcome, attentive reader! (If you have followed here, you really know
+the options.)
+
+If you can get your friendly government to get a B-item, then go ahead!
+The renewed referral (\"restart\") in Parliament is a measure to kill
+the Council text. This either can be done by renewed referral in
+Parliament (that is advertised here) or B-item (that is no so much
+advertised at least this week). We are going in parallel, both ways are
+fine, and if you can get your government to get a B-item, that is
+welcome too, and which way is to be chosen is decided on a first-come,
+first-served basis \...
+
+[Here is a model to emulate on the B-item track
+\...](http://kwiki.ffii.org/Buksti0501En "wikilink")

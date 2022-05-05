@@ -1,0 +1,98 @@
+\... please translate from FR \[Genot050309Fr\] \...
+
+COMMISSIE VOOR HET BEDRIJFSLEVEN, HET WETENSCHAPSBELEID, HET ONDERWIJS,
+DE NATIONALE WETENSCHAPPELIJKE EN CULTURELE INSTELLINGEN, DE MIDDENSTAND
+EN DE LANDBOUW
+
+`   * BEKNOPT VERSLAG (voorlopige versie): `[`http://www.dekamer.be/doc/CCRA/pdf%5C51%5Cac523.pdf`](http://www.dekamer.be/doc/CCRA/pdf%5C51%5Cac523.pdf)` (pagina 28 à 31 = PDF pagina 34 à 37)`\
+`   * INTEGRAAL VERSLAG (voorlopige versie): `[`http://www.dekamer.be/doc/CCRI/pdf%5C51%5Cic523.pdf`](http://www.dekamer.be/doc/CCRI/pdf%5C51%5Cic523.pdf)` (pagina 30 à 33 = PDF pagina 36 à 39) `
+
+17 Samengevoegde vragen van - mevrouw Zoé Genot aan de minister van
+Economie, Energie, Buitenlandse Handel en Wetenschapsbeleid over \"de
+Europese Raad Concurrentievermogen op 7 maart\" (nr. 5892) - mevrouw
+Camille Dieu aan de minister van Economie, Energie, Buitenlandse Handel
+en Wetenschapsbeleid over \"de bespreking van de dienstenrichtlijn op de
+Raad Concurrentievermogen van 7 maart\" (nr. 5942)
+
+17.01 Zoé Genot (ECOLO): Op 7 maart jongstleden kwam de Europese Raad
+voor de Mededinging samen. Het thema van de softwarepatenten werd reeds
+in december door de Raad behandeld, in tegenstelling tot wat u toen in
+de Commissie verklaarde. Waarom ging men niet akkoord om dit dossier als
+een punt B te behandelen, ondanks het verzoek van verscheidene landen
+waaronder Polen? De enige rechtvaardiging die de commissaris voor die
+weigering zou hebben gegeven, betrof procedurekwesties. Welk standpunt
+heeft België ter zake ingenomen? Het Europees Parlement uitte
+verscheidene bezwaren tegen die patentrichtlijn, waarmee de Commissie
+naar zijn mening onvoldoende rekening heeft gehouden. Het huidige
+standpunt van de Europese Ministerraad werd door talrijke parlementaire
+fracties afgekeurd. De commissarissen erkennen nu dat de tekst inzake de
+vrijmaking van de diensten niet ideaal is en dat het beginsel van het
+land van oorsprong gevaarlijk is, maar leggen daarnaast ook
+tegenstrijdige verklaringen af. Wat is nu eigenlijk de stand van zaken
+in dit dossier?
+
+17.02 Camille Dieu (PS): Het Luxemburgse voorzitterschap zou de
+octrooieerbaarheid van in computers geïmplementeerde uitvindingen als
+punt A inschrijven, wat betekent dat het punt zonder bespreking werd
+goedgekeurd. Welk standpunt neemt ons land, dat zich in 2004 bij de
+stemming onthield omdat het inzag dat het er niet zou in slagen een
+blokkeringsminderheid tot stand te brengen, vandaag in? Uit de recente
+verklaringen van commissaris Charlie [McCreevy](McCreevy "wikilink")
+blijkt dat de Commissie bereid is het voorstel van richtlijn met
+betrekking tot de diensten te herzien. Niet alleen de notie land van
+oorsprong, maar tal van andere punten doen vragen rijzen. Welk
+standpunt nam de Commissie naar aanleiding van de Raad van 7 maart in?
+Hoe reageerden België en de andere lidstaten? Wat is de stand van zaken
+van de richtlijn betreffende de oneerlijke handelspraktijken en het
+REACH-systeem?
+
+17.03 Minister Marc Verwilghen (Frans): Naar aanleiding van de Raad
+Concurrentievermogen van 17 en 18 mei 2004, nam België met betrekking
+tot de softwareoktrooien een drievoudig standpunt in. Ten eerste schonk
+de eenvoudige vermelding van de toepasbaarheid van het mededingingsrecht
+ons land geen voldoening. Om die reden pleitten we ervoor een bepaling
+op te nemen waarbij sommige vormen van compatibiliteit niet als
+piraterij worden beschouwd.
+
+Ten tweede heeft België gevraagd het principe dat een computerprogramma
+in broncode, doelcode of in enige andere vorm niet als een
+octrooieerbare uitvinding kan worden beschouwd, in de richtlijn op te
+nemen. Ten derde heeft België de amendementen nrs 107 en 69 van het
+Europees Parlement met betrekking tot het begrip \"technische bijdrage\"
+goedgekeurd. Het Luxemburgse voorzitterschap zet de bespreking van
+titels VI tot en met IX van het REACH-voorstel in de ad hoc werkgroep
+voort. In mei zal tevens een workshop worden georganiseerd om uit te
+maken of REACH op de KMOs kan worden toegepast. Tijdens de bijeenkomst
+van de Raad voor de Mededinging op 6 en 7 juni 2005 zal het voorstel
+opnieuw ter tafel liggen. Op 24 februari 2005 keurde het Parlement met
+een ruime meerderheid de negentien amendementen goed die op het verslag
+van mevrouw Bressaud inzake het oneerlijke handelsbeleid werden
+ingediend. Ook die richtlijn zal tijdens de bijeenkomst van 6 en 7 juni
+door de Raad voor de Mededinging worden behandeld.
+
+17.04 Zoé Genot (ECOLO): Wij vinden dat de door de Commissie
+voorgestelde tekst inzake de softwarepatenten veel minder ver gaat dan
+de tekst van het Parlement. Ik had dan ook gehoopt dat België zich zou
+aansluiten bij de landen die de tekst van de Commissie opnieuw willen
+bespreken door van deze richtlijn een punt B te maken.
+
+17.05 Minister Marc Verwilghen (Frans): Niemand heeft gevraagd dat die
+richtlijn een punt B zou worden!
+
+17.06 Zoé Genot (ECOLO): Ik heb iets anders vernomen. Naar verluidt
+maken sommige parlementen zich zorgen over de richtlijn en vragen zij
+hun regeringen de tekst, die niet met de tekst van het Europees
+Parlement overeenstemde, opnieuw te bespreken. Ik vind het spijtig dat
+de landen die aanstuurden op een tekst die dichter bij de tekst van het
+Parlement lag, het niet eens zijn kunnen worden. Het verheugt mij dat de
+richtlijn over de liberalisering van de diensten opnieuw ter tafel ligt,
+maar het verbaast mij dat in afwachting de bespreking van de artikelen
+14 en 15 in het COREPER wordt voortgezet. Wanneer zal de Commissie de
+geamendeerde tekst ter tafel leggen?
+
+17.07 Camille Dieu (PS): De tekst over de octrooien op software zal in
+een tweede lezing door het Europees Parlement worden behandeld, wat het
+proces zal demcratiseren. Wij volgen de evolutie. De herziening van de
+dienstenrichtlijn is voor ons een goede zaak want we zijn er van bij het
+begin tegen gekant. We zullen u in dit verband opnieuw bevragen en we
+zullen u aans ons standpunt herinneren. Het incident is gesloten.

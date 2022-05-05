@@ -1,0 +1,40 @@
+# Bürgerbeteiligung von oben {#bürgerbeteiligung_von_oben}
+
+Die EU hat sich eine geförderte Bürgerbeteiligungsindustrie geschaffen,
+um junge Leute von Europa zu begeistern. Echte politische Fragen werden
+dennoch zumeist heraus gehalten. Diese Organisationen legen besonderen
+Wert auf ihre Unverbindlichkeit und das allgemeinpolitische Bekenntnis
+zu Europa. Schüler, Studenten und Junge Leute geben Besinnungsaufsätze
+zu Europa ab und es werden substanzlose Pseudoevents veranstaltet. Das
+passt zur EU-Informationszentrumsindustrie. Wir sind dennoch der
+Meinung, dass es sich hier lohnt seine Interesse darzulegen und auf
+Missstände hinzuweisen. Leider ist in vielen Fällen nur eine Beteiligung
+in englischer Sprache vorgesehen.
+
+Diskussionsforum takinITGlobal (EN)
+
+<http://www.takingitglobal.org/home.html?width=1024>
+
+EU-Kommissionsforum zur Zukunft Europas
+
+<http://www.europa.eu.int/futurum/index_de.htm>
+
+Politea
+
+<http://www.politeia.net>
+
+Oxfam Internationales Jugendparlament
+
+<http://www.iyp.oxfam.org/index.html>
+
+Toolkit citizen participation
+
+<http://www.toolkitparticipation.nl/>
+
+Erziehung zur demokratischen Staatsbürgerschaft
+
+<http://www.coe.int/T/E/Cultural_Co-operation/education/E.D.C/>
+
+Youth.ie Seiten zur Ratspräsidentschaft Irlands
+
+<http://www.youth.ie/eupresidency/>

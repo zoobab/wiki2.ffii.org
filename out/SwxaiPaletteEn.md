@@ -1,0 +1,2 @@
+The link \"phm: Adobe ./ Macromedia (en)\" is dead. Perhaps put in one
+to <http://news.com.com/2100-1040-898061.html> instead.

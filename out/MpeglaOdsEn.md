@@ -1,0 +1,30 @@
+# MPEG LA Sue DVD Disc Manufacturer ODS for Patent Infringement {#mpeg_la_sue_dvd_disc_manufacturer_ods_for_patent_infringement}
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Source: <http://www.mpegla.com/news/n_05-08-02PR.pdf>
+
+` (Denver, Colorado, US  02 August 2005)  MPEG LA today announced that several leading electronics`\
+` companies and a university have filed suit in Germany against Optical Disc Service (ODS) for`\
+` infringing patents used in DVD disc manufacturing. Plaintiffs include France Télécom, S.A.; Fujitsu`\
+` Ltd., GE Technology Development, Inc.; Koninklijke Philips Electronics NV; Matsushita Electric`\
+` Industrial Co., Ltd.; Mitsubishi Electric Corporation; Robert Bosch GmbH; Sony Corporation; Thomson`\
+` Licensing S.A., The Trustees of Columbia University in the City of New York, and Victor Company of`\
+` Japan, Ltd.`\
+` We regret that ODSs refusal to take a license with individual patent holders or with MPEG LA has`\
+` made it necessary for these companies to decide to take legal action , said MPEG LA CEO Baryn S.`\
+` Futa. ODSs continued use of MPEG-2 essential patents without a license is unfair to both patent`\
+` holders and DVD manufacturers who are meeting their MPEG-2 intellectual property obligations. It also`\
+` leaves their customers exposed to patent infringement liability. DVD manufacturers need a license under`\
+` MPEG-2 essential patents, and MPEG LA hopes ODS will rectify this unfairness immediately.`
+
+## Chronology
+
+-   2005-08-04 DE [Heise: DVD manufacturer reacts to accusations by MPEG
+    patent
+    holders](http://www.heise.de/english/newsticker/news/62468 "wikilink")
+-   2005-08-04 WW [Businesswire: Leading Companies and University Sue
+    DVD Disc Manufacturer ODS for Patent
+    Infringement](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050802005030&newsLang=en "wikilink")

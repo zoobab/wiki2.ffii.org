@@ -1,0 +1,90 @@
+1.  1.  -\*- dok: [PatexamReform](PatexamReform "wikilink"); lang: en;
+        site: kwiki; coding: iso-8859-1; mode: fundamental; -\*-
+
+# Proposals for Reform of the Patent Examination System {#proposals_for_reform_of_the_patent_examination_system}
+
+-\> \[ [ Industrial Copyright](IndpropEn "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*We collect here proposals for a reform of the patent examination
+system. In particular, FFII and others have endorsed proposals for
+privatisation of this system by careful distribution of burdens of
+proof. Such a reform would result in debureaucratisation and, by
+consequence, dissolution of the European Patent Organisation, which some
+have called \"an intergovernmental creature that no longer has a place
+in today\'s European Union\". A lean privatised patent examination
+system would, as a side effect, also solve the problems of the Community
+Patent.*
+
+## News & Chronology {#news_chronology}
+
+-   2005-05-14 US [Wired: Web could unclog patent
+    backlog](http://www.wired.com/news/technology/0,1282,68186,00.html?tw=wn_tophead_8 "wikilink"):
+    New York Law School professor Beck Noveck proposes to replace patent
+    examination by peer review
+-   2005-07-08 phm creates this page
+-   2000-12-00 FFII [proposes \"5 legislative initiatives for protection
+    of information
+    innovation\"](http://swpat.ffii.org/letters/patg2C/ "wikilink"),
+    among them privatisation of the patent examination system
+
+## Privatise Patent Examination {#privatise_patent_examination}
+
+-   Already in the 1970s and before, law scholars have repeatedly said
+    that the patent examination system performs too poorly to be
+    justified in the long run.
+-   The speed, cost reliability of patent examination was never at an
+    acceptable level and has greatly deteriorated during the last years.
+    Patent Offices make money by handing out pollution permits, and at
+    the same time act as professional lobbies in favor of pollution.
+    This community has become a danger to democracy in the EU, as was
+    seen in the case of software patents and the way they handled the
+    matter through the Council\'s patent policy working party.
+-   Most patent offices in European do not conduct a substantive patent
+    examination. E.g. in France patents are very cheap due to this fact.
+-   It would also be possible to completely abolish the patent
+    examination procedure as a whole and instead merely specify a
+    procedure and format in which patents must be published on the web.
+-   The publication of such a patent of course constitutes a (potential)
+    pollution of the public sphere, and the responsibility for this
+    pollution, in particular for pollution by invalid patents, would
+    have to entail a financial burden to the pollutant. Thus, if someone
+    else proves the patent to be invalid, the pollutant would at least
+    have to recompense this person for his research efforts.
+-   Private insurance companies should be encouraged to act as patent
+    examination authorities. They would then certify the validity of the
+    patent in return for an additional burden of responsibility, i.e. a
+    higher recompensation to be paid for anyone who proves the
+    invalidity.
+-   The EU patent language problem could be solved by (1) requiring a
+    publication in one national language plus an intermediate Logical
+    Language which can be automatically translated with some degree of
+    intelligibility to other languages (2) requiring an idiomatic
+    translation to the member state language at least 1 year before
+    enforcement starts in that member state.
+-   All this would not require creation of any EU Patent Office and it
+    could even allow dissolution of the EPO and national patent offices.
+
+## Parallels from Copyright Registration {#parallels_from_copyright_registration}
+
+Lawrence Lessig and others have proposed registration and renewal
+procdures for copyrighted works after some time, so as to enlarge the
+public domain and reduce transaction costs (mainly lawyers costs) for
+those who want to build on old works. These proposals were widely
+supported but eventually failed in Congress due to resistance of the
+lobby groups such as MPAA (Motion Picture Association of America) and
+RIAA (Recording Industry Association of America), who say that the
+bureacracy associated with registration and renewal is too burdensome.
+To allay their concerns, Lessig
+[argues](http://www.authorama.com/free-culture-23.html "wikilink") for a
+system that requires no involvement of any Copyright Office:
+
+` The important formalities are three: marking copyrighted work,`\
+` registering copyrights, and renewing the claim to`\
+` copyright. Traditionally, the first of these three was something the`\
+` copyright owner did; the second two were something the government`\
+` did. But a revised system of formalities would banish the government`\
+` from the process, except for the sole purpose of approving standards`\
+` developed by others.`

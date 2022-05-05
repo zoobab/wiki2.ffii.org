@@ -1,0 +1,72 @@
+1.  1.  -\*- dok: [AmPlenSummary05](AmPlenSummary05 "wikilink"); lang:
+        de; coding: iso-8859-1; mode: fundamental; -\*-
+
+# Ziele der wichtigsten Änderungsanträge: Übersicht {#ziele_der_wichtigsten_änderungsanträge_übersicht}
+
+-\> \[ [ English version](AmPlenSummary05En "wikilink") \| [
+Erläuterungen](AmPlenExplanation05De "wikilink") \| [ Press
+Release](AmPlenPr050701En "wikilink") \| [ Amendments
+page](Plen05En "wikilink") \| [ News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Beachten Sie, dass wir hier nur eine mögliche Sichtweise auf die
+Anträge präsentieren. In einigen Fällen sind auch weniger eingeschränkte
+Interpretationen möglich. Die Verbesserung gegenüber der Ratsversion ist
+nicht, dass die Änderungen keinerlei Interpretationsspielraum mehr
+ließen, sondern dass sie diejenigen Interpretationen ausschließen, die
+unbeschränkte Patentierbarkeit von Software zulassen.*
+
+## 1. Effektiver Ausschluss von Geschäftsmethoden {#effektiver_ausschluss_von_geschäftsmethoden}
+
+Änderungsantrag 47=79=100=121=142=165 zum Artikel 4.2 entfernt die Lehre
+vom \"zusätzlichen technischen Beitrag\". Sie wurde vom EPA eingeführt,
+um Patente auf computer-implementierte Geschäftsmethoden zu erteilen.
+
+## 2. Klarstellung des Ausschlusses von \"Computerprogrammen als solchen\" {#klarstellung_des_ausschlusses_von_computerprogrammen_als_solchen}
+
+Änderungsantrag 46=78=99=120=141=164 zum Artikel 4.1 und
+47=79=100=121=142=165 zu 4.2 stellen Rechtssicherheit her, indem sie
+klarstellen, was der Patentierbarkeitsausschluss (des Zwecks oder der
+Vorgänge) von Computerprogrammen als solchen bedeutet: Innovationen, die
+kein Problem der angewandten Naturwissenschaften über eine
+Effizienzsteigerung in der Datenverarbeitung hinaus lösen, sind nicht
+patentierbar.
+
+## 3. Ausgewogene aber dennoch sinnvolle Definition von \"technisch\" {#ausgewogene_aber_dennoch_sinnvolle_definition_von_technisch}
+
+Indem \"technisch\" durch Änderungsantrag 42=74=95=116=137=160 zum
+Artikel 2(ba) (neu) als \"angewandte Naturwissenschaft\" definiert wird,
+ist klar, dass nicht-technische Felder wie Mathematik oder
+Geschäftsmethoden niemals als technisch angesehen werden können.
+Gleichzeitig wird klargestellt, dass z.B. medizinische
+Aufzeichnungsgeräte oder Elektronik weiterhin zu einem Gebiet der
+Technik gehören.
+
+## 4. Verminderung der Problems von Trivialpatenten {#verminderung_der_problems_von_trivialpatenten}
+
+Änderungsantrag 45=77=98=119=140=163 zum Artikel 2(b) und
+Änderungsantrag 6 zum Artikel 3 legen fest, dass der technische Beitrag
+alle Bedingungen zur Patentierbarkeit erfüllen muss. Weder EPA-Praxis
+noch Rats- oder JURI-Version fordern dies.
+
+## 5. Keine Patente auf Informations-\"Objekte\", Förderung von Informationsveröffentlichung {#keine_patente_auf_informations_objekte_förderung_von_informationsveröffentlichung}
+
+Änderungsantrag 48=80=101=122=143=166 zum Artikel 5.2 sichert ab, dass
+nicht Computerprogramme selbst patentierbar sind. Änderungsantrag
+49=81=102=123=144=167 zu 5.2(b) garantiert, dass bei der Beurteilung von
+Patentverletzungen durch die Veröffentlichung eines Programmen die
+Publikationsfreiheit von Informationen beachtet werden muss: Handelt es
+sich lediglich um die Verbreitung von Informationen, vergleichbar mit
+einem Handbuch, das einen patentierten Prozess beschreibt, oder
+verbreitet jemand tatsächlich den entscheidenden Teil einer Erfindung?
+
+## 6. Entfernung des Eindrucks, Software selbst sei patentierbar {#entfernung_des_eindrucks_software_selbst_sei_patentierbar}
+
+Änderungsantrag 40=72=93=114=135=158 zum Artikel 1 ersetzt den Ausdruck
+\"computer-implementierte Erfindung\" durch \"computer-gestütze
+Erfindung\". Das einzige, was in einem Computer implementiert werden
+kann, ist Software. Dieser Änderungsantrag macht deutlich, dass die
+Richtlinie sich um technische Erfindungen dreht, die mit Hilfe von
+Computerprogrammen realisiert werden. Dabei kann die \"Erfindung\" nicht
+ausschließich in dem Computerprogramm selbst sein.

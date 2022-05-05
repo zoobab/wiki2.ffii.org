@@ -1,0 +1,30 @@
+# Monsanto gewinnt gegen Landwirt, dessen Raps-Felder mit patentierten Genen verschmutzt wurden {#monsanto_gewinnt_gegen_landwirt_dessen_raps_felder_mit_patentierten_genen_verschmutzt_wurden}
+
+Der Kanadische Oberste Gerichtshof (1) hat beschlossen, dass der
+Landwirt Schmeiser sich der Patentverletzung schuldig gemacht hat, indem
+er Raps geerntet und ausgesäht hat, der durch umliegende Felder (2,3)
+mit von Monsanto patentierten Genen verschmutzt worden ist. Monsanto
+feiert dies als grossen Sieg für das Geistige Eigentum (4).
+
+\"Globe and Mail\" berichtet auch über diesen Fall. (5)
+
+**Neu**: Deutscher Artikel in der Telepolis (6)
+
+------------------------------------------------------------------------
+
+Source:
+<http://slashdot.org/article.pl?sid=04/05/21/1653238&mode=thread&tid=123&tid=134&tid=155&tid=191&tid=99>
+
+1:
+<http://www.cbc.ca/stories/2004/05/21/canada/schmeiser_monsanto040521>
+
+2: <http://www.percyschmeiser.com/>
+
+3: <http://www.percyschmeiser.com/Tolerance.htm>
+
+4: <http://www.monsanto.com/monsanto/layout/media/04/05-21-04.asp>
+
+5:
+<http://www.theglobeandmail.com/servlet/story/RTGAM.20040521.w3mons0521/BNStory/National/>
+
+6: <http://www.heise.de/tp/deutsch/special/leb/17492/1.html>

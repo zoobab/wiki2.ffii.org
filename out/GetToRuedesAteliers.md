@@ -1,0 +1,71 @@
+## Metro to Yser, continue by foot (400 m) {#metro_to_yser_continue_by_foot_400_m}
+
+### Map
+
+Go to <http://www.mappy.be>, fill in
+
+-   on the top left side as departure:
+
+`Street, tube, district: Place de l'Yser`\
+`Place: Brussel`
+
+-   below that, as arrival
+
+`Street, tube, district: Rue des Ateliers 15`\
+`Place: Sint-Jans-Molenbeek`
+
+On the generated map, the \"circled M\" right above the departure point
+is the metro station. After you exit the metro, you have to go in the
+direction of the large Citroën garage, but on the other sided of the
+road. Take the first street to the left. The entrance is a pair of
+large, blue doors on the left side of the street (number 15)
+
+### Itinerary
+
+1.  m 0H00 Ijzerplein/Place de l\'Yser Brussels (Belgium)
+
+`           Carry on the Ijzerplein/Place de l'Yser (R20a) 27m`
+
+27 m Carry on the Sainctelettesquare 240m
+
+260 m 0H04 Turn right on the Rue Adolphe Lavalléestraat 49m
+
+310 m Turn left on the Rue des Ateliers 110m
+
+430 m 0H06 13 Rue des Ateliers Sint-Jans-Molenbeek (Belgium)
+
+## By foot, from Brussels Central station (1.9 km) {#by_foot_from_brussels_central_station_1.9_km}
+
+1.  m 0H00 Brussel-Centraal Brussel (België)
+
+`           Carry on the Boulevard de l'Impératrice 10m`
+
+10 m Turn right on the Carrefour de l\'Europe 17m
+
+27 m Turn left on the Putterie 41m
+
+68 m 0H01 Turn right on the Infante Isabellastraat 110m
+
+240 m 0H03 Go through the Grasmarkt and turn left on the Grasmarkt 250m
+
+500 m 0H07 Carry on the Kiekenmarkt 240m
+
+740 m 0H11 Carry on the Rue Sainte-Catherine 140m
+
+890 m 0H13 Carry on the Place Sainte-Catherine 26m
+
+910 m Carry on the Rue de Flandre 310m
+
+1 Km 0H18 Turn right on the Oppemstraat 130m
+
+`   0H20        Exit from Brussels and turn left on the Rue de Witte de Haelen 210m`
+
+`   0H23        Carry on the Rue de l'Avenir 12m`
+
+`           Turn right on the Groene Hondstraat 170m`
+
+`   0H26        Carry on the Beekstraat 40m`
+
+`           Turn right on the Rue des Ateliers 120m`
+
+1 Km 0H28 13 Rue des Ateliers Sint-Jans-Molenbeek (België)

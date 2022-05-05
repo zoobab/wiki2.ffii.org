@@ -1,0 +1,319 @@
+[ Ver esta página em Inglês](SwpatEn "wikilink")
+
+Esta página não está inteiramente traduzida, pelo que alguns conteúdos
+ainda são apresentados em Inglês.
+
+\--
+
+Algumas críticas costrutivas a este site. Devem ser encaradas como
+ideias para a melhoria deste movimento.
+
+I believe the swpat.ffii.org would reach further, and more influentially
+with a look and feel directed to business, NGO\'s and government orgs,
+with solutions, howto\'s, whyto\'s. I say this after I directed a
+friend, working for a multinational software company to swpat.ffii.org.
+He suggested that the page looks too \'grass roots\' and \'evangelical\'
+to be \'looked at twice\' by management in his company. He said it seems
+to be directed to \'activists\' and does not give an image that
+exemplifies the fact that swpat\'s are outside of professional and even
+commercial interests (especially for smaller enterprises).
+
+In my own opinion there is a problem with both this, and also the
+language of swpat.ffii.org. I feel that the language the site uses is a
+little scornful, pessimistic and catastrophic (the language of those
+already lost). While this is often a successful technique to spur
+drastic action, it appeals to only those that **already care**. However,
+it is not the free-software movement that is influential here, and for
+this reason should not be swpat.ffii.org\'s primary audience. The
+influential are those voting in Parliament, analysts working for Member
+States, technology magazines, CEO\'s and beaurocrats. As it stands, the
+language of the site does little to the ends of the movement as an
+optomistic and affirmative endeavour in the interests of better serving
+the social, cultural and professional interest.
+
+While much of the language is directed at the real risks that unlimited
+software patentability pose, I think swpat.ffii.org should also offer
+itself also as a professional consultancy, as opposed to strictly an
+advocacy organisation. It should pronounce the benefits of a
+software-patent free Europe, as opposed to only the negative impact of
+software patents.
+
+Julian Oliver
+
+delire at xdv dot org.
+
+There is a call for a consumer boycot of Nokia, because they spread
+misinformation while campaining pro software patents. See
+www.vitanova.dds.nl
+
+Ante Wessels
+
+------------------------------------------------------------------------
+
+Q: I would like specific examples of how software patents have inhibited
+or made more costly open source/free software development in the US
+(where they are legal). Can anyone provide me with some? - Struan
+
+A: In this you will find example given by RMS talking about an early
+compression program and more:
+<http://audio-video.gnu.org/audio/rms-speech-patents-lse2002.ogg>
+<http://audio-video.gnu.org/audio/rms-speech-cambridgeuni-england2002.ogg>
+<http://audio-video.gnu.org/audio/rms-speech-patents-westminster.ogg>
+
+Azi: How much money is at stake for the players ? How much revenue do
+these patents generate for Alcatel annually? How many companies are
+paying these players royalties? What is the avarage annual royalty paid?
+With such huge sums at stake for such well connected companies, how will
+any of this actually change?
+
+phm: A lot is at stake for the patent arms of Alcatel and the like.
+These departments employ hundreds of people. Companies like Alcatel do
+not necessarily benefit on the whole. But their organisations have been
+adapted and feel they are on the winner side of the game. They are of
+course also politically well organised and keep reinforcing the game by
+regulation. But 1/10 of their organisational strength can be enough to
+defeat them. They are paper tigers, relying completely on political
+masquerading. The problem is that until recently not even that 1/10 was
+ever put together.
+
+------------------------------------------------------------------------
+
+Q: Any more news on the ruling on software patents? I understand that
+the council made a decision on the 10th, but can\'t find any information
+anywhere about what is going on. Anyone know?
+
+Aldous
+
+------------------------------------------------------------------------
+
+Here you are from the Green\'s List of Who voted
+<http://greens-efa.org/pdf/documents/SoftwarePatenting/AppelsnominauxMacCarthy2003-09-24.htm>
+Green in Eurpoe Homepage <http://www.greens-efa.org/en/>
+
+Q: What I cannot seem to find on the FFII pages is a list of which MEP
+voted for/against which amendment. Was the voting secret or open? If it
+was open, where can I find detailed results, to see which MEP needs
+further support for defending the amended directive?
+
+A: It is there, see
+<http://swpat.ffii.org/papers/eubsa-swpat0202/plen0309/vote/>
+
+------------------------------------------------------------------------
+
+Q: Isn\'t it really convenient that while BBC News24 have finally
+covered the patents protests (albeit only on the biznews) that Microsoft
+have grabbed the headlines again. Contrary to what their spinmaster said
+on Irish radio today, the technology existed for years to protect
+content from porn-links. This is cynical headline-grabbing at it\'s
+worst. WAKE UP MEDIA -this stuff matters -or will it be like everything
+else, wait for the disaster then report? m mcweeney Ireland
+
+A: See <http://swpat.ffii.org/players/media/> and edit the wiki
+extension to insert commented links to media reports.
+
+------------------------------------------------------------------------
+
+Q: The originating page asks for support on these issues and links to a
+sign up page. Unfortunately after signing up with an email address a
+further page is presented which demands completion, asking for
+residential address and so on, and requiring a good deal more time.
+Well, not actually in my case as I will not complete two stage selling
+forms operating on the principal that now we have your commitment we
+will trade on it to get what we want. Make such requests on the first
+page so that people can see what you intend asking for. Even if it were
+an honest process, an unintrusive process, how many people have time for
+cumbersome web forms? If it is a case of obtaining lobbying data that
+would be best achieved by a subsequent email asking for cooperation.
+
+`   Why is it done as presently?`
+
+------------------------------------------------------------------------
+
+Q: Open letter to Europarl from an italian blogger whith knowledge about
+the telecom area:
+
+[Blogs.it: Open Letter to Strasbourg and
+Bruxelles](http://blogs.it/0100206/2003/09/23.html#a1156 "wikilink")
+
+A: Some more telecom-related cases would fit well into the [Patents in
+Action](http://swpat.ffii.org/patents/effects/ "wikilink")
+documentation. Maybe some people at Telecom Italia will be open for
+these arguments.
+
+phm: I removed the text of the open letter from this wiki, since it only
+reduplicates the blogs.it text. Nothing against the text, it is quite
+interesting to read.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Q: Can we patent any software which will make life of
+lawyers/politicians miserable, so they understand ?
+
+Some one please answer.
+
+A: Patent the \"online patent submission and search method\".
+
+------------------------------------------------------------------------
+
+# How To Help us Fight Software Patents {#how_to_help_us_fight_software_patents}
+
+## Talk with \> Write \> Phone \> Fax your national Parliament or Goverment: {#talk_with_write_phone_fax_your_national_parliament_or_goverment}
+
+This page is german, but you can look for the correct domain of the
+parliament web site: <http://www.bundestag.de/europa/parl_peu.html>
+
+### Put info whom to write to into the national wiki pages: {#put_info_whom_to_write_to_into_the_national_wiki_pages}
+
+-   [SwpatconsiliumEn
+    ](http://kwiki.ffii.org/index.cgi?SwpatconsiliumEn "wikilink")
+-   [SwpatseSv](http://kwiki.ffii.org/index.cgi?SwpatseSv "wikilink")
+-   [SwpatdeDe](http://kwiki.ffii.org/index.cgi?SwpatdeDe "wikilink")
+-   [SwpatitIt](http://kwiki.ffii.org/index.cgi?SwpatitIt "wikilink")
+-   [SwpatfrFr](http://kwiki.ffii.org/index.cgi?SwpatfrFr "wikilink")
+-   [SwpatbeEn](http://kwiki.ffii.org/index.cgi?SwpatbeEn "wikilink")
+    [SwpatbeFr](http://kwiki.ffii.org/index.cgi?SwpatbeFr "wikilink")
+    [SwpatbeNl](http://kwiki.ffii.org/index.cgi?SwpatbeNl "wikilink")
+    (see also <http://www.softwarepatenten.be/raad.html>)
+-   [SwpatukEn](http://kwiki.ffii.org/index.cgi?SwpatukEn "wikilink")
+-   [SwpatptPt](http://kwiki.ffii.org/index.cgi?SwpatptPt "wikilink")
+
+etc Direct your message to your local MPs and let them forward it to the
+appropriate party representatives and to the ministers in charge of the
+subject. Usually, this is the ministry of trade or the ministry of
+justice.
+
+### Tell them your own experience and draw the conclusions, mentioning for example: {#tell_them_your_own_experience_and_draw_the_conclusions_mentioning_for_example}
+
+-   Programmers shall not be deprived of their work. When a programmer
+    has made a program, he has the copyright on it, and no one else
+    shall be able to restrict his right to publish or sell it or lay
+    down the conditions of use without the programmer\'s consent. This
+    is the very foundation of any working business model in the software
+    market, and software patents undermine it.
+
+```{=html}
+<!-- -->
+```
+-   Software patents promote only one business model: Impose a private
+    tax on market players, divert resources into patent filings and
+    lawsuits instead of R&D, perform litigation instead of innovation.
+    This climate only supports megacorporations and oligopolists, it
+    raises prices, slows down innovation, hinders competition, decreases
+    variety and quality.
+
+```{=html}
+<!-- -->
+```
+-   It is easy to describe an algorithm as a computer-implementable
+    method, the actual work is in doing the implementation. That\'s what
+    programmers do. Therefore, the incentive must be for the programmer,
+    in the form of copyright, without any legal uncertainty or risk of
+    stepping onto patent mines.
+
+```{=html}
+<!-- -->
+```
+-   Software patents have not encouraged innovation, but have stifled
+    it. Broadly known examples are data formats and communication
+    protocols using compression methods: Stac (ISDN), LZW (GIF), RLE
+    (JPEG), MP3 where patents severely affect interoperability. (See
+    <http://swpat.ffii.org/patente/wirkungen/>)
+
+```{=html}
+<!-- -->
+```
+-   Algorithms are useless until implemented. Patenting algorithms means
+    hindering others from making them useful. This directly hinders
+    innovation.
+
+```{=html}
+<!-- -->
+```
+-   It\'s like patenting truths to hinder others from making any use
+    thereof. Logic is a system, and making one part unavailable
+    demolishes the system.
+
+```{=html}
+<!-- -->
+```
+-   The hope for a genius rewarded by a software patent has no support
+    from real business. Actually, software patents are spread out like
+    traps for others to step into by accident.
+
+```{=html}
+<!-- -->
+```
+-   The key to distinguish unpatentable logic from patentable subject
+    matter is a strict definition of technical contribution, requiring
+    the use of controllable forces of nature to achieve predictable
+    results. The european parliament has provided such a definition, and
+    it shall not get weakened.
+
+```{=html}
+<!-- -->
+```
+-   Without requirement of a use of controllable forces of nature,
+    claims become so abstract that they cover any implementation, not
+    just a specific one. This is what makes software patents so harmful
+    und unjust.
+
+```{=html}
+<!-- -->
+```
+-   The task is about reverting EPO grant policy back to a lawful
+    doctrine. It is not about legalizing illegal patents in the name of
+    harmonization.
+
+```{=html}
+<!-- -->
+```
+-   It is not up to us to switch to doing patent business when we
+    already know that it\'s bad. It is up to politics to save us from
+    getting robbed by software patents.
+
+```{=html}
+<!-- -->
+```
+-   Explain that the US patent laws, the EPO is adopting, are designed
+    to protect slave labor and not Intellectual Property. In order for
+    US corporations to move production around between countries with
+    cheap labor, they have to prevent their products from being copied
+    by manufacturers in those countries and be sold into the markets.
+    The US is putting pressure on countries to have the same patent
+    laws. The US patent laws create market monopolies necessary to
+    facilitate this use of slave labor, even for products that
+    technically are not new inventions, but just variations over old
+    themes. This is an attack on the work forces of countries that
+    provide the bare necessities of a modern democratic society with a
+    higher cost of living.
+
+```{=html}
+<!-- -->
+```
+-   The US patent laws the EPO is adopting, is protecting market
+    monopolies by big corporations, which forces smart people to work
+    for them instead of starting their own businesses.
+
+```{=html}
+<!-- -->
+```
+-   A good environment for starting up software development in Europe
+    will encourage smart people in the US and around the world to come
+    to Europe to build their futures there.
+
+#### Background Information: {#background_information}
+
+<http://swpat.ffii.org/papers/europarl0309/aipla0310/>
+
+## Become a member (pay membership fee) or supporter of FFII {#become_a_member_pay_membership_fee_or_supporter_of_ffii}
+
+[Signup via the FFII Participation
+System](http://aktiv.ffii.org/?m=n&l=en "wikilink")
+
+# Donations to FFII {#donations_to_ffii}
+
+Contact konto at ffii org(Holger Blasum, Treasurer) for receipts and
+details. Donations are tax-deductible. Detailed bank account data on:
+<http://swpat.ffii.org/letters/parl034/>

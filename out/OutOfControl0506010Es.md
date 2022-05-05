@@ -1,0 +1,86 @@
+# Carta Abierta para el control democrático del consejo de la Unión Bananera {#carta_abierta_para_el_control_democrático_del_consejo_de_la_unión_bananera}
+
+------------------------------------------------------------------------
+
+Estimados miembros del Parlamento,
+
+El Sr. José Montilla, Ministro de Industria, Comercio y Turismo, tiene
+ante sí la responsabilidad de abrir o no las puertas a las patentes de
+Software en Europa (1). Actualmente, y amparados en el secreto de
+oscuros despachos, administradores anónimos de patentes dentro del Grupo
+de Trabajo sobre la Propidad Intelectual (Patentes) del Consejo están ya
+decididiendo la posición de su país sobre este asunto, todo ello a
+escondidas del conocimiento público. Cuando sus propuestas aparezcan en
+la mesa del Consejo, será prácticamente imposible modificarlas. Dichos
+funcionarios representan a sus ministerios nacionales pero, debido al
+carácter aparentemente técnico del asunto, a menudo se seleccionan entre
+el equipo directivo de sus respectivas oficinas nacionales de patentes.
+Por ello, a menudo, los ministros siguen sus criterios; dichos
+funcionarios tienen poder decisorio.
+
+En la primera lectura de la directiva, los documentos oficiales
+presentados por este Grupo de Trabajo han devenido en el texto más
+extremo e ilimitado posible en materia de patentabilidad del software y
+métodos de negocio (2), formalmente aprobado el pasado 7 de Marzo por la
+Presidencia Luxemburguesa usando un procedimiento inédito para ignorar
+el deseo de los tres paises que querían reabrir las negociaciones. El
+acceso a dichos documentos fué denegado hasta el último minuto \"debido
+a la naturaleza sensible de las negociaciones (3) y a la ausencia de
+interés público primordial\" (4).
+
+La Presidencia Luxemburguesa ha propuesto una agenda acelerada en la que
+administradores anónimos de patentes de cada país deberán tomar una
+postura sobre las enmiendas propuestas por el Comité de Asuntos Legales
+del Parlamento Europeo. Esta iniciativa del Consejo probablemente
+resultará en una pérdida de transparencia del trabajo del Parlamento,
+influenciando a los Miembros del Parlamento Europeo para que voten por
+las enmiendas que los administradores anónimos de patentes del Consejo
+consideren oportunas.
+
+Los minutos filtrados de reuniones secretas organizadas el 25 de Mayo y
+el 3 de Junio (5) muestran que muchos administradores anónimos de
+patentes aprovechan su anonimato para promover la extensión de la
+patentabilidad, en interés de las oficinas de patentes Nacionales y
+Europea, en la que muchos de ellos desempeñan un papel activo. No es
+raro encontrar a la misma gente que participa en estas reuniones en el
+Cuadro Administrativo de la Oficina Europea de Patentes.
+
+Así, en función de la agenda acelerada (6) definida por la Presidencia,
+le encarecemos para que, con urgencia:
+
+-   no mandate a la Presidencia Luxemburguesa para discutir sobre este
+    asunto si la posición de su país no ha sido aprobada por su
+    Parlamento;
+-   preparar una propuesta de resolución para pedir una extensión de 3 a
+    4 meses para la Segunda Lectura del Consejo;
+-   Organizar, urgentemente, una agenda para discutir en su Parlamento
+    sobre este asunto crucial para la supervivencia de de una sociedad
+    de la información abierta y competitiva.
+
+Nos sentiríamos muy felices viendo a la democracia y a la transparencia
+avanzando contra la dictadura y la oscuridad de la estructura más
+poderosa de la Unión Europea.
+
+El abajo firmante,
+
+Miguel Ángel Novo Villasuso
+
+------------------------------------------------------------------------
+
+## Referencias
+
+1 <http://swpat.ffii.org/log/intro/index.en.html>
+
+2 <http://swpat.ffii.org/log/04/cons0518/index.en.html>
+
+3 <http://wiki.ffii.org/Cons050307En>
+
+4 <http://www.ffii.org/~jmaebe/swpat/council20040423.html>
+
+5 Leaked minutes of 27th May and 3rd June meetings of Council Working
+Group on Intellectual Property (Patents):
+<http://swpat.ffii.org/log/05/cons0527/>
+
+6 <http://wiki.ffii.org/TrilogAgendaEn>
+
+------------------------------------------------------------------------

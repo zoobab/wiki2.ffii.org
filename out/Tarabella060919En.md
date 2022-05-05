@@ -1,0 +1,53 @@
+# The Commission refuses to comment on EPO judges sitting on EPLA court {#the_commission_refuses_to_comment_on_epo_judges_sitting_on_epla_court}
+
+-\> \[ [ EPLA](EplaEn "wikilink") \| [ EPLA and EPC
+accession](Tarabella060908En "wikilink") \| [ Cost and
+[SMEs](SMEs "wikilink") question](Tarabella060913En "wikilink") \| [
+Rocard EPLA questions](Rocard060915En "wikilink") \|
+[News](http://press.ffii.org/Software_patent_news "wikilink") \]
+
+------------------------------------------------------------------------
+
+*The Commission refuses to answer Marc Tarabella MEP about the lack of
+judicial independence of the proposed EPLA court, cause by the fact that
+members of the EPO Technical Boards of Appeal can be judges there.*
+
+------------------------------------------------------------------------
+
+## Question
+
+` WRITTEN QUESTION E-3525/06`\
+` by Marc Tarabella (PSE) `\
+` to the Commission`
+
+` Regarding the current wording of the European Patent Litigation Agreement (EPLA),`\
+` will the Technical Board of Appeal (TBA) judges be able to be candidates for the`\
+` European Patent Judiciary (EPJ)?`
+
+-   [Source](http://www.europarl.europa.eu/omk/sipade3?SAME_LEVEL=1&LEVEL=3&NAV=S&LSTDOC=Y&DETAIL=&PUBREF=-//EP//TEXT+WQ+E-2006-3525+0+DOC+XML+V0//EN "wikilink")
+
+### Answer
+
+` E-3525/06EN`\
+` Answer given by Mr `[`McCreevy`](McCreevy "wikilink")` on behalf of the Commission`\
+` (19.9.2006)`
+
+` The Commission is currently in the process of examining the issue of the`\
+` draft European Patent Litigation Agreement (EPLA) and the possibility of`\
+` moving the project forward in the context of its consultation on the`\
+` future patent policy in Europe. The consultation was launched on 16`\
+` January 2006 and proved to be a huge success, generating over 2 500`\
+` answers from interested circles. A public hearing took place on 12 July`\
+` 2006. The Commission is now in the process of analysing the responses and`\
+` drawing its conclusions. Naturally, the Parliament will be informed about`\
+` the Commission's findings and recommendations as soon as they have been`\
+` finalized.`
+
+` The question as to whether, under the draft EPLA, judges from the`\
+` Technical Boards of Appeal of the European Patent Office could be`\
+` candidates for the European Patent Judiciary is a question that would`\
+` form part of the EPLA negotiations. The Community is not a party to the`\
+` negotiations and can therefore not comment on this issue.`
+
+-   <http://www.europarl.europa.eu/omk/sipade3?L=EN&OBJID=127683&LEVEL=3&SAME_LEVEL=1&NAV=S&LSTDOC=Y>
+    (MS Word document)

@@ -1,0 +1,99 @@
+[ ebsummit](ebsummit.org "wikilink")
+
+# 2004-03-11 - 12 European Business Summit III, 2004 {#european_business_summit_iii_2004}
+
+[Report European Business Summit (pdf, 44
+pages)](http://smooz.4your.net/ebsummit/files/EBS_Report_2004.pdf "wikilink")Research
+and innovation: A European strategy for more growth and jobs prepared
+by Arthur D. Little
+
+<http://www.ebsummit.org>
+
+Lobbying event in Brussels
+
+Under the patronage of Philippe Busquin, European Commissioner for
+Research Fientje Moerman, Federal Minister for Economy, Energy, Science
+Policy Jacques Simonet, Federal State Secretary for European Affairs
+Daniel Ducarme, Minister-President Brussels-Capital Region
+
+# Quote
+
+The European Business Summit of 11-12 March is an ideal platform to
+bring all research & innovation stakeholders together. If we want to
+boost research efforts in Europe, we need to have an open debate with
+all parties involved.
+
+Policy makers should listen to the needs of the business world, business
+leaders should explore ways to intensify the co-operation between
+industry and public research and scientists should feel better rewarded
+in Europe.
+
+Creating, protecting and exploiting intellectual property rights - How
+can Intellectual Property Protection encourage R&D in new areas? - The
+IP challenge for [SMEs](SMEs "wikilink"): is small always beautiful? -
+Higher returns from public research through patenting and licensing -
+Community patent: pipedream or achievable goal? Speakers  Ingo Kober,
+President European Patent Office  Paul van Grevenstein, President
+Association of European Science and Technology Transfer Professionals 
+Thierry Sueur, Vice-President Intellectual Property Air Liquide  Ad
+Huijser, Executive Vice-President & Chief Technology Officer Royal
+Philips Electronics  Moderator: William Stevens, Founder & Executive
+Director Europe Unlimited
+
+Financial and fiscal incentives: Abrasive or lubricant for innovation? -
+Do financial incentives reach the right target? - How to improve the
+venture capital market - Tax competition or harmonisation across
+Europe? - Which mix of incentives provides the greatest stimulus?
+Speakers  Francis Carpenter, Chief Executive European Investment Fund 
+Didier Reynders, Federal Minister for Finance of Belgium  Jean
+Stephenne, President [GlaxoSmithKline](GlaxoSmithKline "wikilink")
+Belgium  Ken Guy, Managing Director Wise Guys  Henryka Bochniarz,
+President Polish Confederation of Private Employers  Moderator: Rudy
+Aernoudt, Head of Cabinet of the Federal Minister for Economy, Foreign
+Trade and Science Policy of Belgium
+
+Research and innovation in Europe: A European strategy for more growth
+and jobs Speakers  Luc Vansteenkiste, President Federation of
+Enterprises in Belgium  Philippe Busquin, European Commissioner for
+Research  Maria João Rodrigues, President of the Interministerial
+Commission for the follow-up of the Lisbon European strategy  Didier De
+Chaffoy, Senior Vice President Drug Discovery Europe, Johnson & Johnson
+Pharmaceutical Research & development
+
+Boosting innovation through people management - How to prevent a brain
+drain and relocation out of Europe - Making Europe more attractive for
+scientists and entrepreneurs - Changing the culture by adapting
+regulation - Making scientists and engineers think innovation Speakers 
+Anna Diamantopoulou, European Commissioner for Employment & Social
+Affairs  Achilleas Mitsos, Director-General European Commission
+Directorate-General for Research  Hans Straberg, President & Chief
+Executive Officer Electrolux \*  Marcel Crochet, Rector Catholic
+University of Louvain  Gilles Capart, Chief Executive Officer Sopartec
+and President [ProTon](ProTon "wikilink") Europe Network  Edward de
+Bono, Founder World Academy of New Thinking
+
+The ICT challenge: Getting connected to an e-Europe - Progress made on
+e-Europe 2005 (e-government, e-business, digital divide and broadband
+infrastructures) - Information Society Technology and ICT approach to
+R&D - Partnerships as a driving force in ICT innovation Speakers  Erkki
+Liikanen, European Commissioner for Enterprise and Information Society 
+Miguel Borras, Chief Executive Officer Antara Information Technology 
+Paul Mehring, Chairman of the Board of the EUREKA Cluster ITEA and Head
+of Telematics and Strategic IT Research Daimler Chrysler  Patrick De
+Smedt, Chairman Microsoft EMEA  Moderator: Andreas Hürlimann, Global
+Head of Telecommunications, IT, Media and Electronics Practice Arthur D.
+Little
+
+Re-appraising Europes approach to innovation and research Keynote
+speech  Mary Harney, Vice Prime Minister and Minister for Enterprise,
+Trade and Employment of Ireland and President of the EU Competitiveness
+Council in the first half of 2004 Speakers  Philippe de Buck, Secretary
+General UNICE  Pierre Jean Everaert, Chairman Interbrew  Fientje
+Moerman, Federal Minister for Economy, Foreign Trade and Science Policy
+of Belgium With a special business appeal to the EU Spring Summit by: 
+Daniel Janssen, Chairman of the Board Solvay and Chairman of the ERT
+Working Group on Competitiveness
+
+Innovate for a competitive Europe: a new Action Plan for Innovation
+Speaker  David White, Director of Enterprise Policy, European
+Commission Enterprise Directorate-General

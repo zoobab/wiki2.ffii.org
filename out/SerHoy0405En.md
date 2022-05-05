@@ -1,0 +1,168 @@
+# Spanish Radio SER will broadcast live from Brussels {#spanish_radio_ser_will_broadcast_live_from_brussels}
+
+The most important radio station of Spain will retransmit its most
+important program from Brussels next monday.
+
+The software patent question is likely to be on the agenda.
+
+The following message has been distributed in spanish mailing lists to
+try to put this message in the working table of Iñaki Gabilondo, who is
+the locutor of that program in the monday morning:
+
+\-\--
+
+Hola
+
+El próximo lunes la Cadena SER (5.000.000 de oyentes) retransmitirá el
+programa Hoy por Hoy de Iñaki Gabilondo en directo desde Bruselas al
+tiempo que se celebra el Consejo de Competitividad en el que se votará
+la propuesta irlandesa sobre patentes.
+
+Se trata de hacerle llegar este texto por correo, fax o personalmente de
+modo que tenga la información a tiempo para incluirla en el programa, o
+que llame a la gente de la FFII.
+
+Si hay alguien en Madrid por ahí que pudiera imprimirlo y llevarlo
+directamente a las oficinas de la Cadena SER (Gran Vía, 32, 8ª planta..
+28013 Madrid), o enviarlo por correo desde otras partes\... lo que sea,
+que no se lo piense dos veces. Por favor, usemos este asunto:
+
+ATT/ Iñaki Gabilondo FFII - Bruselas 17/05: postura Gobierno español en
+la votación de patentes.
+
+Lo que tiene que llegarles es a partir de aquí:
+
+-\>\>\>\-\-\-\-\-\-\-\--
+
+Les ruego hagan llegar al señor Iñaki Gabilondo esta información de
+interés para la retransmisión del próximo lunes 17 de mayo desde
+Bruselas debido a su coincidencia con el Consejo de Competitividad.
+
+Nuestro contacto para la prensa en español es el señor Jesús Benítez a
+quien podrán localizar en el (0034) 661 07 96 57 \-\--
+
+Señor Gabilondo:
+
+Sabedores de su próxima retransmisión desde Bruselas con ocasión del
+Consejo de Competitividad, de gran trascendencia para las
+[PYMEs](PYMEs "wikilink") europeas y españolas, nos gustaría hacerle
+partícipe de la información que obra en nuestro poder sobre la
+significativa postura del Gobierno Español en relación a la votación
+sobre la propuesta de la Presidencia Irlandesa para la Directiva del
+Parlamento Europeo y del Consejo sobre Patentabilidad de Invenciones
+Implementadas en Computadora, contraria a los intereses de la PYMES
+españolas que generan en torno al 69% de los puestos de trabajo
+relacionados con las nuevas tecnologías (TIC) siendo del 80.9% en el
+caso de Alemania.
+
+Le escribimos desde la Fundación para la Libre Infraestructura de la
+Información (FFII), una asociación sin ánimo de lucro registrada en
+Munich (Alemania) dedicada al fomento de la alfabetización informática.
+La FFII promueve el desarrollo de bienes de interés público basados en
+la propiedad intelectual, la libre competencia y los estándares
+abiertos. Más de 400 miembros, 1.000 empresas y 60.000 firmantes
+acreditan a la FFII para actuar en su representación ante las cuestiones
+de políticas públicas en el área de los derechos de exclusión (propiedad
+intelectual) que afectan al procesado de datos.
+
+Tal como nos ha sido confirmado desde la Oficina Española de Patentes y
+Marcas así como desde la Representación Permanente de España en la Unión
+Europea, el sentido del voto del Gobierno Español en el próximo Consejo
+será a favor de la propuesta de la Presidencia Irlandesa que en las
+sugerencias alternativas a las enmiendas aprobadas por el Parlamento
+Europeo, permite de nuevo la patentabilidad del software (programas de
+ordenador).
+
+La postura del Gobierno Español es, por lo tanto, paradójicamente
+contraria a la mantenida por los eurodiputados españoles del grupo
+socialista en el Parlamento Europeo que habían votado en contra de la
+patentabilidad del software, así como por lo manifestado en recientes
+declaraciones de destacados representates del PSOE como el señor
+Rodríguez Ibarra, Presidente de la Junta de Extremadura, que en la
+reciente entrega del Premio Europeo a la Innovación Regional vió
+reconocida su iniciativa de promoción del sistema gnuLinex que mantiene
+esta administración autonómica: \"afirmamos que las patentes de software
+van en contra de la innovación solidaria y aumentan la brecha digital\".
+
+La unánime protesta ante la propuesta de la Presidencia Irlandesa, que
+ha sido emitida por representantes de todo el arco parlamentario europeo
+sin excepción es sin duda significativa por cuanto nos encontramos en un
+proceso electoral que llevará a la constitución del nuevo Parlamento
+Europeo, y todas coinciden en señalar que la propuesta de la Presidencia
+Irlandesa no solo ignora las enmiendas aprobadas que impiden la
+patentabilidad del software, sinó que es incluso más permisiva al
+respecto que la propuesta inicial de la Comisión del año 2002. En este
+punto es importante señalar que aquellas enmiendas fueron aprobadas con
+el respaldo de la Petición por una Europa Libre de Patentes que recibió
+el apoyo de más de 300.000 firmas de ciudadanos europeos, 25.000 de las
+cuales se corresponden con ciudadanos españols y fueron entregadas el
+pasado jueves en el Ministerio de Industria. Esta petición cuenta con la
+credibilidad de miles de científicos y economistas así como por parte de
+más de 2.000.000 de PYMES de toda Europa.
+
+Nuestra preocupación al respecto se ve agravada por el hecho de gozar
+Irlanda de una política fiscal que beneficia la presencia de las grandes
+corporaciones norteamericanas y japonesas en el mercado europeo de la
+industria del software. Estas corporaciones detentarían la titularidad
+de aproximadamente el 75% de las patentes actualmente concedidas por la
+Oficina Europea de Patentes, y que serían validadas gracias a la nueva
+propuesta irlandesa. Esta situación favorecería la extensión de
+monopolios que impedirían la innovación y la salida de soluciones
+competetivas supeditando el desarrollo de la industria europea a los
+intereses de los mercados estadounidense y japonés.
+
+Tal como hemos hecho llegar al señor Secretario de Estado para la Unión
+Europea, señor D. Alberto Navarro que probablemente representará a los
+intereses de España en nombre del Ministro de Industria, Turismo y
+Comercio, señor D. José Montilla Aguilera, le hacemos llegar ahora esta
+información con la esperanza de que ello contribuya a harmonizar la
+postura del Gobierno Español con la del partido político en el poder, ya
+que la estrategia de la Presidencia Irlandesa consiste en lograr la
+aprobación de su propuesta sin la discusión previa que en nuestra
+opinión debe haber al respecto, dada la gran trascendencia que tendría
+su aprobación para la industria del software y las tecnologías de la
+información y la comunicación de España y de Europa.
+
+Con el objeto de dar a conocer el alcance real de esta nueva propuesta,
+hemos puesto a disposición de todas las personas interesadas una serie
+de recursos accesibles desde cualquier navegador, de los que destacaría
+los siguientes:
+
+-   Gráfico que demuestra cómo las dos terceras partes de las patentes
+    europeas, que serían válidas con la aprobación de esta directiva,
+    están en manos de corporaciones norteamericanas y japonesas:
+    `{{http://www.ffii.org.uk/images/byCountry.png}}`{=mediawiki}
+-   Una maqueta en la que se especifica la cantidad de patentes que
+    harían imposible cualquier iniciativa empresarial europea que
+    consistiera en vender productos a través de internet:
+    <http://webshop.ffii.org/>
+-   Una base de datos online de patentes que, habiendo sido validadas
+    por la Oficina Europea de Patentes, entrarían dentro del ámbito de
+    esta directiva según el nuevo texto propuesto:
+    <http://swpat.ffii.org/pikta/index.en.html>
+-   El análisis de Jonas Maebe, de la Universidad de Ghent, Bélgica, en
+    el que describe los cuatro problemas fundamentales de la propuesta
+    irlandesa:
+    <http://bh.udev.org/filez/swpat/JonasCouncilAnalysis/paper-en.pdf>
+-   El análisis exhaustivo de los expertos de la FFII del nuevo texto:
+    <http://swpat.ffii.org/papers/europarl0309/cons0401/index.en.html>
+
+Nos gustaría ponernos a su disposición para facilitarles toda la
+información que pudieran requerir al respecto, adelantándoles que según
+información de última hora, la postura de los gobiernos de Alemania y
+Bélgica ha pasado de plantear reservas a posicionarse claramente en
+contra, postura que está siendo seguida por los gobiernos de Dinamarca,
+Eslovakia y también Italia, como pueden comprobar en este fax que
+acabamos de conocer:
+
+<http://www.marcovic.it/Prot_1069.pdf>
+
+Sabemos también que la Presidencia Irlandesa se ha entrevistado en la
+tarde de ayer con el gobierno de Portugal a través del señor Durao
+Barroso sin que por el momento haya trascendido el resultado de esa
+negociación, siendo previsible su presencia esta tarde en Madrid con el
+objeto de lograr una postura común con el gobierno español.
+
+Atentamente,
+
+Jesús Benítez, FFII

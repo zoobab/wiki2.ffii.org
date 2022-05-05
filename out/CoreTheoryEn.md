@@ -1,0 +1,189 @@
+# The European Patent Office, the core theory and \"technical affects\" {#the_european_patent_office_the_core_theory_and_technical_affects}
+
+-\> \[ [ Español](CoreTheoryEs "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Jozef Halbersztadt, an examiner at the Polish Patent Office, describes
+the way the practice at the European Patent Office practice evolved over
+the years, how Poland dealt with software patents until now and how in
+his view the directive should be amended to stop the EPO\'s
+misapplication of patent law to software.*
+
+## Introduction
+
+Until 2004, Poland wasn\'t a member of the EPO and it was beyond the
+economic mainstream during last few decades. Nevertheless, we have a
+well established, 85 years old patent office. As many other smaller
+European countries such as Austria, Czechoslovakia and the Netherlands,
+Poland also followed German standards and traditions in patenting.
+
+Until now patent applications on software are, with a few exceptions,
+only from abroad. Their number is not very high and the Polish Patent
+Office often is not following the EPO line. However, what exactly is the
+EPO line?
+
+## History of the EPC {#history_of_the_epc}
+
+The European approach to patenting, as all European ventures, is a mix:
+a synthesis of the former diversity. Two main builders of the common
+position were the Germans and the British.
+
+As you probably know, in English \"technicality\" is not a clear term.
+In German and many other continental languages it means physicality,
+materiality; in English it is close to utility.
+
+Maybe because of this the word \"technical\" is missing from the first
+paragraph of Article 52 of the original European Patent Convention.
+Instead the founding fathers attached an open list of non-technical
+activities as examples of non-invention subjects. I suspect that nobody
+at the birth of the European patents expected trouble. The list was
+seen, even with phrase \"as such\", as a solid barrier against unwelcome
+intangible subjects.
+
+The barrier was however broken not because Englishmen (or Americans)
+cannot understand the true meaning of the word \"technical\". It can be
+problematic for them, but nevertheless I still do not know of any
+decision of the Boards of Appeal in which \"technical\" does not mean
+\"physical\", \"material\".
+
+## The broken prerogative {#the_broken_prerogative}
+
+The barrier was broken in another place and the problem with
+technicality is only a by-product of this main event. The main
+\"innovation\" of the European patenting practice cannot be found in the
+European Convention. A trace of the new approach can however be found in
+the [Implementing
+Regulations](http://www.european-patent-office.org/legal/epc/e/rpiii.html#RIII "wikilink")
+(note: these can be independently modified by the Administrative Council
+without requiring approval at a diplomatic conference).
+
+But it is only a trace and one can wonder why a rule regulating the
+content of the description and obliging an applicant to indicate
+advantageous effects can introduce such a fundamental change:
+
+*The description shall . . . . . disclose the invention, as claimed, in
+such terms that the \_\_technical problem\_\_ (even if not expressly
+stated as such) \_\_and its solution can be understood\_\_, and
+\_\_state any advantageous effects\_\_ of the invention with reference
+to the background art;*
+
+([Rule 27
+EPC](http://www.european-patent-office.org/legal/epc/e/r27.html "wikilink"))
+
+The fundamental change which has arrived with the EPC (in Poland) is the
+\"problem-solution-(effect)\" approach. The invention can now be in any
+of them.
+
+## The \"core\" theory {#the_core_theory}
+
+Before the EPC arrival, the task of an examiner was to find essential
+features of the invention (in the claims) and to research and examine
+whether they are patentable. The Germans formalised this process in the
+so-called \"core\" theory.
+
+The first stage of the \"core\" method applied to subject matter with
+technical and non-technical features meant weighing them to choose the
+group which prevailed. Only when technical features were more essential,
+the subject matter was potentially patentable.
+
+At the first sight there isn\'t any change in the rule that the extent
+of the protection is determined by the the technical features in the
+claims:
+
+*The claims shall \_\_define the matter\_\_ for which protection is
+sought \_\_in terms of the technical features\_\_ of the invention.*
+
+([Rule 29
+EPC](http://www.european-patent-office.org/legal/epc/e/r29.html "wikilink"))
+
+## The problem-solution-effects approach {#the_problem_solution_effects_approach}
+
+However, the EPO replaced looking for the most essential features (the
+\"core\" theory) with looking for the objective task (problem) of
+modifying or adapting the closest prior art to provide *the effects*
+that the solution provides over the prior art.
+
+In accordance with the EPO case law, the technical contribution to the
+art may lie either in the problem underlying and solved, or in the means
+constituting the solution of the underlying problem, or in the effects
+achieved in the solution of the underlying problem.
+
+## Practical consequences {#practical_consequences}
+
+After the EPO has dismissed the \"core\" theory, only subject matter
+with purely non-technical features became non-patentable per definition.
+Only one technical feature is enough to regard the subject matter as
+patentable. Even subject matter without any technical features is
+patentable if only it has the potential to produce a technical effect.
+
+As one can observe in the attached examples, this required potential to
+produce a technical effect can be very vague. In the [Karmarkar European
+Patent](http://swpat.ffii.org/gasnu/konno/ "wikilink") (a theoretical
+allocation method - a great sophisticated mathematical achievement) the
+claim that *\"industrial and technical resources\"* are allocated is the
+sole factor that is lending the algorithm its physicality.
+
+## Current EPO practice {#current_epo_practice}
+
+This EPO decision is from 1990. As one can observe, the principle of the
+\"further technical effect\" was born very early. It took however until
+2001 before it was written down to the EPO Guidelines. The Commissions
+Directive is now legitimising it. None of the amendments of the
+Parliament is addressing this issue, so there still is a need for a
+clear rule forbidding any post-solution claims, for example:
+
+`If the problem-solution is already completed as an abstract`\
+`solution of an abstract problem before its implementation`\
+`in a technical field, the subject matter is not patentable.`
+
+Once, in late 80\'s, the lending of technical character by the
+post-solution activity was explicitly forbidden by the Guidelines of the
+US PTO.
+
+Today, if the EPO is finding that an application is essentially
+non-technical but there are some shades of technicality as everybody
+suspects they are usually artificial, it must prove that this
+technicality is known and obvious.
+
+This is not easy because according to the case the law examiner is not
+allowed match any documents. The examiner must prove a link between
+them. And when in such a case an objection is raised, it\'s not because
+the subject matter lacks technicality. Such applications are rejected
+due to lack of inventive step.
+
+Therefore, the purely non-technical [COMVIK
+patent](http://legal.european-patent-office.org/dg3/pdf/t000641ex1.pdf "wikilink")
+was revoked because of lack of inventive step. No amendment to the
+Directive is aimed at changing this situation.
+
+## Proposed solutions {#proposed_solutions}
+
+It is however possible to do this, as proven by:
+
+\(1\) The Polish version of art. 84 EPC (a recital could point to this
+fact)
+
+`"The claims shall define the matter for which protection is`\
+` sought. They shall be clear . . . " `
+
+This article is used to reject means-plus-function claims when they
+cover the non-technicality of the application;
+
+\(2\) The Polish version of art 52 EPC, which was added to the law only
+in 2000, lacks the \"as such\" part. Furthermore the regulation of the
+Prime Minister was clearly modeled on the famous [Red Dove / Disposition
+program](http://swpat.ffii.org/vreji/papri/bgh-dispo76 "wikilink")
+landmark decisions\' \"tangibility clause\", according to which a patent
+application should not be recognised as an invention when
+
+`"it does not concern any tangible creation susceptible of`\
+` application, determined by means of technical features`\
+` relating to its structure or composition, nor any particular `\
+` technical way in which it affects a material."`
+
+\(3\) The earlier mentioned text about forbidding post-solution claims:
+
+`If the problem-solution is already completed as an abstract`\
+`solution of an abstract problem before its implementation`\
+`in a technical field, the subject matter is not patentable.`

@@ -1,0 +1,89 @@
+This is an attempt to organize tips useful when contacting
+[MEPs](MEPs "wikilink"), MPs, and other politicans by phone.
+
+For now it\'s just a small, chaotic collection of thoughts.
+
+-   Always be honest. It is \_\_them\_\_ who don\'t tell the truth.
+    Simplification is OK but be careful.
+
+```{=html}
+<!-- -->
+```
+-   If you are planning to call a politican, it might be a good idea to
+    prepare a rough written plan of what you wan\'t to talk about, and
+    send it to him by post, fax or e-mail. Two or three days after you
+    expect him to receive it, call him and refer to your letter.
+
+```{=html}
+<!-- -->
+```
+-   Respect your adressee\'s time: if he says he is too busy to speak
+    about it, ask politely if he is willling to schedule a conversation
+    later, in the time chosen by the politican.
+
+```{=html}
+<!-- -->
+```
+-   Do not care much about the political party.
+
+```{=html}
+<!-- -->
+```
+-   Tell them about your situation, your friends, your collegues, your
+    business( the important one).
+
+```{=html}
+<!-- -->
+```
+-   Be prepared is to hear the \"usual lies\", as you find it on the
+    ffii website. Best is to avoid them already in your argumentation
+    with terms like \"as can be seen easily\" or \"when taking into
+    account that\" or \"closer look\". Example: \"I am very concerned
+    about a directive that looks like software should not be patented
+    generally, but after a closer look it does exactly the opposite\".
+
+```{=html}
+<!-- -->
+```
+-   concentrate on few important things. \... not more than 3
+    \"messages\" pro call
+
+```{=html}
+<!-- -->
+```
+-   if your adresee is \"democrat\" tell him how concerned you are about
+    the fake studies in the beginning of the directive, the way the
+    (old) kommission handled it, how [SMEs](SMEs "wikilink") were
+    threated first as open source freaks, then as anti globalization and
+    then as ruthless liars. \< Add something about german bank and
+    european organization of [SMEs](SMEs "wikilink") here>
+
+```{=html}
+<!-- -->
+```
+-   if the party is more on commercial voters you can argue with
+    barriers in the market, monopolism that hinders free competition
+
+```{=html}
+<!-- -->
+```
+-   tune your arguments \... best is to use the same wording they used a
+    while ago on another topic. Simply: thats the speech they
+    understand.
+
+```{=html}
+<!-- -->
+```
+-   dont call most important [MEPs](MEPs "wikilink") first \... learn
+    from the calls you did wrong.
+
+One more for interrogations:
+
+Ask about reduction of taxes to compensate for the lower produktivity
+for [SMEs](SMEs "wikilink"). Ask about how much the cost of SWPAT is now
+in government IT. Ask about how much it will be after the directive is
+through.
+
+Questions like these that do not have much \"message\" but let the
+adresse go into deep. But take into account that governments normally
+run to their patent office first.

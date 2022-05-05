@@ -1,0 +1,18 @@
+# Date
+
+2004-05-05 wednesday (subject to change)
+
+# Purpose
+
+-   call mediatic attention to the imbecility of software patents and
+    Finnish Politicians pushing them
+
+```{=html}
+<!-- -->
+```
+-   bring software developpers, scientists and politicians together
+
+```{=html}
+<!-- -->
+```
+-   influence European Parliament elections

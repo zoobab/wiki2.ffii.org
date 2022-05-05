@@ -1,0 +1,44 @@
+# MEP Zverina wants more IP protection {#mep_zverina_wants_more_ip_protection}
+
+------------------------------------------------------------------------
+
+*Czech MEP Jaroslav Zvěřina (EPP-DE) wants the Commission to provide
+protection for software developers. He argues that competiveness of
+Europe is lagging further behind the US or China and needed strong IP
+protection rules. However his question does not address whether he
+wishes protection of software developers against anticompetitive legal
+instruments or requests the application of these. While the wording
+suggests the latter market players from the SME sector generally want
+the former. He further asks for EPLA or Community Patent regulation
+which is already under discussions as he should know as a member of the
+legal affairs committee..*
+
+WRITTEN QUESTION P-2518/06 by Jaroslav Zvěřina (PPE-DE) to the
+Commission (31 May 2006)
+
+Subject: Intellectual Property (IP) protection in Europe
+
+High-tech companies in Europe, particularly [SMEs](SMEs "wikilink")!,
+are struggling on a daily basis to compete in the global marketplace. To
+this end, the ICT industry is constantly having to support R&D for
+innovation in order to remain competitive and help the EU achieve the
+ambitious goals set out in the Lisbon Agenda. However, the results are
+limited because the EU has still not been able to deliver on the Lisbon
+promises and ensure fundamental changes and improvements for the ICT
+industry. Consequently, the high-tech industry in the EU is lagging
+further behind global competitors, including China and the United
+States.
+
+One of the most crucial preconditions for the promotion of high-tech
+growth and employability in Europe is a business environment that
+provides for strong IP protection. This would ensure that venture
+capital is made available, particularly for [SMEs](SMEs "wikilink"), and
+that creators are being sufficiently protected and nurtured within
+Europe.
+
+How will the Commission ensure that software developers in Europe are
+being properly protected? Will the Commission ensure patent protection
+and/or a workable litigation agreement, or at least complete
+harmonisation of substantive patent rules? Furthermore, when will the
+Commission propose new legislation to promote strong IP and patent
+protection in the EU?

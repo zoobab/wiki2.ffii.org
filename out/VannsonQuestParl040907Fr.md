@@ -1,0 +1,27 @@
+# 2004-09-07 FR Question écrite de François Vannson au gouvernement {#fr_question_écrite_de_françois_vannson_au_gouvernement}
+
+\--\> \[ [ Nouvelles](SwpatcninoFr "wikilink") \| [ Appel
+urgent](LtrCons0406Fr "wikilink") \]
+
+------------------------------------------------------------------------
+
+En réponse à [ l\'Appel urgent de la FFII](LtrCons0406Fr "wikilink"),
+François Vannson (UMP) a posé une question écrite au ministre de la
+recherche :
+
+`M. François Vannson appelle l'attention de M. le ministre délégué à la recherche`\
+`sur l'inquiétude que suscite auprès des professionnels la position adoptée par la`\
+`France au Conseil de l'Union européenne, le 18 mai dernier, favorable de fait à`\
+`une brevetabilité illimitée et une application sans entrave des brevets sur les`\
+`algorithmes et méthodes de gestion « mis en oeuvre par ordinateur » en Europe.`\
+`Les formules rhétoriques utilisées par le texte proposé introduisent en fait une`\
+`brevetabilité illimitée dont les conséquences peuvent être préjudiciables pour`\
+`l'innovation, la concurrence et la croissance de l'économie informationnelle.`\
+`Plus graves peuvent encore être les conséquences de cette directive pour`\
+`l'indépendance des États en général et de la France en particulier alors que doit`\
+`se développer une administration électronique grâce à l'usage d'Internet et des`\
+`logiciels libres. En effet, une brevetabilité aux contextes d'appréciation et`\
+`d'application aussi larges que ceux proposés freinera les développements logiciels`\
+`non commerciaux permettant l'indépendance des États par rapport aux éditeurs établis.`\
+`Compte tenu des éléments exposés, il lui demande de bien vouloir lui indiquer si la`\
+`France compte s'opposer à cette proposition.`

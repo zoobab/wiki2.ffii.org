@@ -1,0 +1,50 @@
+Sehr geehrter Herr Dr. Langen,
+
+als Inhaber eines deutschen High-Tech Unternehmens aus dem Bereich
+Steuerungs-/Automatisierungstechnik, das international exportiert und in
+verschiedenen Bereichen die vorderste Front der technologischen
+Entwicklung belegt, bin ich über Ihre Pressemeldung mehr als erstaunt.
+Ich bin Erfinder in mehreren europäischen Patenten, darunter auch eines
+der Firma Infineon. Mit dem Richtlinienentwurf zur CII-Richtlinie sowie
+den Prüfrichtlinien des EPA beschäftige ich mich seit 2002. Den Vorwurf,
+ein unzureichend informierter Aktivist zu sein, möchte ich mir vor
+diesem Hintergrund nicht machen lassen.
+
+In Ihrer Pressemitteilung behaupten Sie, niemand wolle reine Software
+patentieren. Sowohl das Engagement von Firmen wie Microsoft und SAP, wie
+auch von US-amerikanischen Verbänden wie der BSA (beachte Name: Business
+Software Alliance) für den Richtlinienentwurf belegt klar, daß es in der
+\"Common Position\" um die Patentierung reiner Software geht. Das von
+mir ausgearbeitete Dokument
+([Anlage](http://swpat.ffii.org/swpat/log/05/langen0706De/erlaeuterung_anlage_anschreiben.pdf "wikilink")),
+das den Wortlaut der Prüfbedingungen des EPA, aufgrund derer eine große
+Zahl von Patenten auf Software und Geschäftsmethoden erteilt wurde,
+analysiert und einen Vergleich des Richtlinienentwurfs von
+Kommission/Ministerrat mit diesem Wortlaut enthält, weist ebenfalls klar
+die Intention des Richtlinienentwurfs, Software patentierbar zu machen,
+nach.
+
+Zum Handlanger eines weiteren, volkswirtschaftlich unverantwortlichen
+Transfers europäischen Wissens nach Asien macht sich, wer die
+Patentierbarkeit von Software gemäß der \"Common Position\" stützt. Dies
+legt eine schlüssige Argumentationskette in der zweiten
+[Anlage](http://swpat.ffii.org/swpat/log/05/langen0706De/konzern_swpat.pdf "wikilink")
+dar. Auch die fast täglich durch die Presse gehenden Meldungen über den
+Abbau von Entwicklungsarbeitsplätzen in Europa durch europäische
+Konzerne und Verlagerung dieser nach Asien belegt die Argumentation.
+
+Auf den Vorwurf der Erpressung durch Gegner von Software-Patenten gehe
+ich nicht weiter ein. Wenn Erpressung erfolgt, dann durch
+US-amerikanische Konzerne und jene Zentralen europäischer Konzerne, die
+sonst vorwiegend durch Verlagerung von Arbeitsplätzen nach Asien
+glänzen.
+
+Gerne bin ich zur Diskussion darüber bereit, wie eine Regelung zur
+Patentierbarkeit technischer Erfindungen bei gleichzeitigem Ausschluß
+von Patenten auf reine Software aussehen kann. Zur Vorabinformation
+würde ich dringend das Studium der anliegenden Dokumente anregen, so daß
+die Diskussion auf inhaltlicher Basis geführt werden kann.
+
+Mit freundlichen Grüßen,
+
+Dr.-Ing. Thomas Wünsche

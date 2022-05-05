@@ -1,0 +1,10 @@
+# \"Buy Gauss Patents\" Project {#buy_gauss_patents_project}
+
+------------------------------------------------------------------------
+
+*The goal of this project is to make a selling system in order to sell
+FFII certificates with \"This is not a patent\" for each Gauss Patent.
+Supporters would be able to buy A3 posters certificates to put at the
+wall for a certain amount of Euros (typically 10EUR or more).*
+
+------------------------------------------------------------------------

@@ -1,0 +1,162 @@
+1.  1.  -\*- dok: verwilghen050310; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2005-03-10
+
+# Verwilghen says Belgium was supporting B-Item {#verwilghen_says_belgium_was_supporting_b_item}
+
+-\> \[ [ Adoption Farce](Cons050307En "wikilink") \| [
+Questions](LtrFfiiCons050308En "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Brussels, 10 March 2005 \-- Today, Philippe Mahoux (PS), Member of the
+Belgian Senate, asked a parliamentary question about the Competitiveness
+Council of Monday 7th March. In his answer about the Belgian position,
+the Minister said that he mentioned to his Danish, Dutch, Portuguese and
+Polish colleagues that Belgium would support a B-item if someone asked
+for it. Those countries have however not done that under the insistence
+of the Luxembourg Presidency.*
+
+------------------------------------------------------------------------
+
+From: <http://www.senate.be/crv/draft3-100.html#_Toc98256216> (Sénat de
+Belgique *Session ordinaire 2004-2005* Séances plénières *Jeudi 10 mars
+2005* Séance de laprès-midi *3-100* Compte rendu provisoire *Non encore
+approuvé par les orateurs.* Ne pas citer sans mentionner la source.)
+
+Official version: <http://www.senate.be/crv/3-100.pdf> /
+<http://www.senate.be/crv/3-100.html>
+
+------------------------------------------------------------------------
+
+*Question orale de M. Philippe Mahoux au ministre de lÉconomie, de
+lÉnergie, du Commerce extérieur et de la Politique Scientifique sur «la
+brevetabilité des logiciels» (n° 3-609)*
+
+**M. Philippe Mahoux (PS)**: Ce lundi, le Conseil «Compétitivité» a
+adopté, en procédure écrite sans débat, une position commune sur la
+brevetabilité des logiciels sur la base de laccord du 18 mai 2004. Pour
+rappel, cet accord ignore en bonne partie le travail du Parlement
+européen et durcit même, sur quelques points, sa version par rapport à
+la première lecture.
+
+Tout comme en mai, la Belgique, que vous représentiez, monsieur le
+ministre, sest abstenue sur la question parce que le texte retenu
+répondait à différents desiderata belges et parce quil pourrait être
+amélioré en deuxième lecture au Parlement européen.
+
+Pour employer un terme modéré, je qualifierai cette position dambigüe.
+En effet, dans le cadre de la procédure de codécision, ce nest plus la
+majorité simple mais la majorité absolue qui est nécessaire, lors du
+vote en deuxième lecture, pour rejeter la position commune du Conseil ou
+pour adopter des amendements.
+
+Pouvez-vous expliquer labstention de la Belgique sur ce dossier?
+Pourquoi na-t-elle pas soutenu les demandes de la Pologne, du Danemark
+et du Portugal dinscrire ce dossier en point B, avec débat? Dautant
+plus que le Parlement européen avait introduit une demande de saisine
+répétée, conformément à larticle 55 de son règlement.
+
+Je rappelle que ladoption de cette proposition de directive placerait
+les développeurs européens dans une position très inconfortable. Ils
+risqueraient de se faire assigner en justice pour violation dun brevet
+parmi les plus de 30 000 délivrés aujourdhui par lOffice Européen des
+Brevets, pratiques qui ne sont pas formellement légalisées. Ils auraient
+ainsi à divertir une partie importante de leurs budgets de recherche en
+dépenses juridiques.
+
+À lheure où lUnion européenne peine à respecter les objectifs fixés
+par le processus de Lisbonne, le choix de la brevetabilité illimitée,
+aujourdhui du logiciel, est donc pour le moins curieux, voire
+déplorable.
+
+A une question sur le même sujet que javais adressée au gouvernement,
+voici environ deux ans, votre prédécesseur, Mme Moerman, sétait montrée
+rassurante en confirmant que la Belgique sopposerait à la totalité de
+la brevetabilité.
+
+Je souhaite obtenir de votre part des explications sur la position que
+vous avez défendue ce lundi, monsieur le ministre. Quelles en seront les
+conséquences? Il serait également souhaitable de lever la contradiction
+apparente avec la position antérieure du gouvernement belge.
+
+**M. Marc Verwilghen (VLD)**: Lors du Conseil «Compétitivité» des 17 et
+18 mai 2004, la position belge sur la «brevetabilité» des logiciels
+sétait concentrée sur trois aspects.
+
+Premièrement, la délégation belge a indiqué, au sujet de
+l«interopérabilité», que la simple mention de lapplicabilité du droit
+de la concurrence ne suffisait pas. Conformément à la décision du
+conseil des ministres belge du 14 mai 2004, la Belgique a préconisé
+dinsérer une disposition selon laquelle certaines actes
+d«interopérabilité» sont qualifiés de non contrefaisants.
+
+Deuxièmement, la Belgique a demandé de couler, dans un article de la
+directive, le principe selon lequel un programme dordinateur en code
+source, en code objet ou sous toute autre forme ne peut être considéré
+comme une invention brevetable.
+
+Troisièmement, en ce qui concerne la notion de \"contribution
+technique\", la Belgique sest exprimée en faveur des amendements 107 et
+69 sous une forme légèrement modifiée. Conformément à la position
+arrêtée le 21 novembre 2003 par le Conseil des ministres belge, le
+groupe de travail \"Propriété intellectuelle\" du Conseil des ministres
+européen a procédé à un examen approfondi des amendements du Parlement
+européen. La reprise, dans leur forme initiale ou non, dune partie de
+ces amendements dans le projet de directive a fait lobjet dun accord
+politique au sein du Conseil des ministres le 18 mai 2004.
+
+Le résultat du Conseil Compétitivité de mai 2004 peut être résumé de la
+manière suivante : à la demande de la Belgique, le principe de la
+non-brevetabilité des logiciels a été intégré dans la directive et une
+adaptation a été portée à la définition de la notion \"contribution
+technique\". Comme la question de linteropérabilité na pas été réglée
+dune manière conforme à la position de la délégation belge, notre pays
+sest abstenu lors du vote du Conseil. Le projet de directive modifié
+par les points précités a toutefois fait lobjet dun accord à la
+majorité qualifié.
+
+Jen viens maintenant au Conseil « Compétitivité » du lundi 7 mars
+dernier. Je dois tout dabord vous signaler quaucun pays, ni le
+Portugal, ni la Pologne, ni le Danemark, ni les Pays-Bas, na demandé de
+faire dun point A un point B. Ces pays avaient envisagé de le faire
+mais y ont finalement renoncé, essentiellement à la demande de la
+présidence luxembourgeoise. Ils se sont donc ralliés au texte et la
+proposition de directive sur les brevets logiciels a dès lors été
+formellement adoptée par le Conseil à la majorité qualifiée et envoyée
+au Parlement européen pour avis en deuxième lecture. Etant donné que la
+proposition votée ne modifiait pas la proposition des 17 et 18 mai 2004,
+il ny avait pas de raison de changer la position belge qui consistait
+en une abstention.
+
+Sur la base de la position quelle a adoptée en mai 2004, la Belgique
+participera via le Conseil aux prochaines négociations sur la
+proposition avec le Parlement européen. À cet égard, la Belgique estime
+essentiel que laccès à linteropérabilité soit garanti, que seules les
+inventions techniques soient brevetables et que les simples programmes
+dordinateur ne soient pas brevetables. La position belge est donc
+connue et sera défendue lors des prochains travaux.
+
+**M. Philippe Mahoux (PS)**: Je nai bien sûr aucune raison de penser
+que les déclarations dintention de la Pologne, du Danemark et du
+Portugal nont pas été suivies deffet. Pour le reste, je dirais que
+nous sommes pratiquement au bout du processus. Vous signalez que le
+gouvernement espère encore influencer le contenu. Quelles possibilités
+vous reste-t-il dinfluencer le contenu dans le sens souhaité par le
+gouvernement ou, en tout cas, dans le sens que, nous, nous souhaitons ?
+
+**M. Marc Verwilghen (VLD)**: Je suis daccord avec vous. Si vous avez
+posé cette question, cest parce que vous savez que la procédure se
+déroule différemment. En ce qui me concerne, **jai déclaré à mes
+collègues danois, néerlandais, portugais et polonais que sils
+souhaitaient passer dun point A à un point B, ils bénéficieraient du
+soutien de la Belgique. Cest à eux toutefois quil appartenait de
+formuler la demande. Ils y ont renoncé sur les instances de la
+présidence luxembourgeoise.**
+
+Pour le reste, il faut attendre la deuxième lecture du texte devant le
+Parlement européen. Je nexclus pas que des adaptations soient encore
+apportées à ce stade, vu les positions adoptées dans le passé. Je suis
+curieux  pour le dire de manière très sage  de voir comment les choses
+se dérouleront.

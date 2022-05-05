@@ -1,0 +1,70 @@
+[ Ficpi (patent attorney association)](FicpiEn "wikilink")
+
+RESOLUTION EXCO/SG04/RES/2001 \"Proposal for a Directive on the
+Patentability of Computer-Implemented Inventions  Amendments by the
+European Parliament\"
+
+FICPI, the International Federation of Intellectual Property Attorneys,
+broadly representative of the free profession of nearly eighty
+countries, assembled at its Executive Committee held in Singapore from
+February 1 to February 3, 2004, passed the following Resolution :
+
+Recognising the desirability for legal certainty through harmonization
+of the interpretation by European Member States of the legal rules
+regarding the patentability of computer-implemented inventions (CIIs)
+and that such legal certainty should permit enterprises to derive the
+maximum advantage from the patent system as far as it is applied to
+CIIs and should provide an incentive for investment and innovation in
+that field;
+
+Considering that such desirability was one of the basic premises for the
+Proposal by the Commission of the European Union for a Directive of the
+European Parliament and of the Council regarding the patentability of
+CIIs, published on February 20, 2002, that the Proposal had the
+unanimous support of all Member States, that the Council of the European
+Communities accepted the Commissions Proposal with only minor
+amendments and that the Parliamentary Committee on Legal Affairs (JURI)
+approved the Commissions Proposal, in June 2003, also with a small
+number of amendments;
+
+Considering that the proposal was submitted to the European Parliament
+which, subjected to lobbying pressure from anti-patent groups, voted no
+less than 64 amendments;
+
+Observing that such amendments effectively reverse the effect of the
+proposal of the Commission, introducing, amongst others, provisions that
+would result in severe restrictions on the patentability of inventions
+and enforceability of patents not only in the field of computer-related
+inventions, but also in other technical fields, in conflict with
+international contractual obligations and contrary to the official
+policies of the EU Member States; and
+
+Noting that, while lacking harmonization in some details, the current
+legal status of patent protection for computer-implemented inventions is
+generally acceptable for all companies and individuals affected by
+patent law in Europe;
+
+RECOMMENDS : that full consideration be given by the Competitive Council
+to the following : (i) the Proposal, as amended by vote in the European
+Parliament on September 24, 2003, contains numerous violations of the
+TRIPS agreement; (ii) the Proposal, as amended, introduces severe
+restrictions on the patentability of all inventions utilising a
+programmable apparatus (e.g. a microprocessor), such as in the fields of
+electrical engineering, telecommunications, medical appliances and
+automobile controls; (iii) information technology is an area of
+technology that involves data processing which cannot in the 21st
+century reasonably be considered as non-technical within the meaning of
+the patent law (see Article 3a as amended); (iv) European
+competitiveness would certainly be affected negatively if the Directive
+as amended were to be adopted; (v) legal uncertainty would be increased
+by the adoption of the Directive as proposed to be amended, deterring
+investments of high-tech companies in Europe; and (vii) the attached
+FICPI Position Paper containing comments and conclusions relating to the
+Proposal as amended on September 24, 2003 by the European Parliament;
+
+AND URGES : A return to the original proposal of the Commission, the
+contents of which were unanimously accepted by the Member States and by
+the Parliamentary Committee on Legal Affairs; or
+
+In the event of no consensus being reached, the abandonment of the
+proposed Directive.

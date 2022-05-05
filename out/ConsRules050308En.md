@@ -1,0 +1,275 @@
+# Excerpts of the Council Rules of Procedure {#excerpts_of_the_council_rules_of_procedure}
+
+\[ [ Council \"adoption\"](Cons050307En "wikilink") \| [ Patent
+news](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+Excerpts of the \'Council Rules of Procedure\', plus the beginning of a
+review of the \'Council Guide\', selected for relevance to the [
+questions to be asked in a letter to the Council
+presidency](LtrFfiiCons050308En "wikilink") after [ \"adoption\" of the
+Common Position 2005-03-07](Cons050307En "wikilink").
+
+### Sources
+
+-   CRP = Council Rules of Procedure, Version of 2004-03-22 published in
+    the Official Journal of the EU, L106/25
+
+```{=html}
+<!-- -->
+```
+-   CG = Council Guides Volume I-III (2001)
+
+### Links:
+
+[ Online ressources (links) are collected on this
+page](RulesOfProcedureEn "wikilink").
+
+*\# = comment*
+
+1.  1.  please use another symbol to comment as it is interpreted by
+        kwiki when at beginning of line.
+
+## Council Rules of Procedure {#council_rules_of_procedure}
+
+### Article 3: Agenda {#article_3_agenda}
+
+1\. Taking into account the Council annual programme, the President
+shall draw up the provisional agenda for each meeting. The agenda shall
+be sent to the other members of the Council and to the Commission at
+least 14 days before the beginning of the meeting. (1) See statements
+(a) and (b) set out below \# \--\> here irrelevant
+
+2\. The provisional agenda shall contain the items in respect of which a
+request for inclusion on the agenda, together with any documents
+relating thereto, has been received by the General Secretariat from a
+member of the Council or from the Commission at least 16 days before the
+beginning of that meeting. The provisional agenda shall also indicate by
+way of an asterisk the items on which the Presidency, a member of the
+Council or the Commission may request a vote. Such an indication shall
+be made once all the procedural requirements provided for by the
+Treaties have been complied with.
+
+3\. \# irrelevant
+
+4\. Only items in respect of which the documents have been sent to the
+members of the Council and to the Commission at the latest by the date
+on which the provisional agenda is sent may be placed on that agenda.
+
+5\. The General Secretariat shall transmit to the members of the Council
+and to the Commission requests for the inclusion of items in the agenda
+and documents in respect of which the time limits specified above were
+not respected. \# rest is irrelevant
+
+6\. The provisional agenda shall be divided into Part A and Part B.
+Items for which approval by the Council is possible without discussion
+shall be included in Part A, but this does not exclude the possibility
+of any member of the Council or of the Commission expressing an opinion
+at the time of the approval of these items and having statements
+included in the minutes.
+
+7\. The agenda shall be adopted by the Council at the beginning of each
+meeting. The inclusion in the agenda of an item other than those
+appearing on the provisional agenda shall require unanimity in the
+Council. Items entered in this way may be put to the vote if all the
+procedural requirements provided for by the Treaties have been complied
+with.
+
+8\. However, an \"A\" item shall be withdrawn from the agenda, **unless
+the Council decides otherwise**, if a position on an \"A\" item might
+lead to **further discussion thereof or if a member of the Council or
+the Commission so requests.**
+
+9\. \# irrelevant
+
+### Article 6: Professional secrecy and production of documents in legal proceedings {#article_6_professional_secrecy_and_production_of_documents_in_legal_proceedings}
+
+1\. Without prejudice to Articles 8 and 9 and to provisions on public
+access to documents, the deliberations of the Council shall be covered
+by the obligation of professional secrecy, except in so far as the
+Council decides otherwise.
+
+2\. The Council or Coreper may authorise the production for use in legal
+proceedings of a copy of or an extract from Council documents which have
+not already been released to the public in accordance with the
+provisions on public access to documents.
+
+### Article 8: Council deliberations open to the public and public debates {#article_8_council_deliberations_open_to_the_public_and_public_debates}
+
+1\. Council deliberations on acts to be adopted in accordance with the
+codecision procedure pursuant to Article 251 of the EC Treaty shall be
+open to the public as follows:
+
+\(a\) \# irrelevant
+
+\(b\) **the vote on legislative acts shall be open to the public, as
+well as the final Council deliberations** leading to that vote and the
+explanations of voting accompanying it (1).
+
+Footnote (1): *See statement (c) set out below:* *(c) Concerning Article
+8(1)(b):* *Article 8(1)(b) will be implemented in the following way: the
+Presidency will indicate in the provisional agenda, using the words
+\"Public deliberation\", those items on which the Council will take a
+vote at the end of the deliberations. This practical arrangement shall
+have no effect on the rule according to Article 11(1) of the Council\'s
+Rules of Procedure.*
+
+In such cases, Council deliberations shall be open to the public through
+transmission of the Council meeting by audiovisual means, notably in an
+overflow room. **The outcome of voting shall be indicated by visual
+means.**
+
+`# rest is irrelevant`
+
+### Article 9: Making public votes, explanations of votes and minutes {#article_9_making_public_votes_explanations_of_votes_and_minutes}
+
+1\. and 2. \# irrelevant
+
+3\. Votes shall not be made public in the case of discussions leading to
+indicative votes or the adoption of preparatory acts. \# ???
+
+### Article 11: Voting arrangements and quorum {#article_11_voting_arrangements_and_quorum}
+
+1\. The Council shall vote on the initiative of its President. **The
+President shall, furthermore, be required to open a voting procedure on
+the initiative of a member of the Council or of the Commission, provided
+that a majority of the Council\'s members so decides.**
+
+2\. - 4. \# irrelevant
+
+Article 13: Minutes
+
+1\. Minutes of each meeting shall be drawn up and, **when approved**,
+shall be signed by the Secretary- General/High Representative for the
+common foreign and security policy (hereinafter referred to as \"the
+Secretary-General\") or the Deputy Secretary-General. They may delegate
+their power to sign to Directors-General of the General Secretariat.
+
+The minutes shall as a general rule indicate in respect of each item on
+the agenda:
+
+-   the documents submitted to the Council,
+-   the decisions taken or the conclusions reached by the Council,
+-   the statements made by the Council and those whose entry has been
+    requested by a member of the Council or the Commission.
+
+2\. The draft minutes shall be drawn up by the General Secretariat
+**within 15 days and submitted to the Council or to Coreper for
+approval**.
+
+3\. Prior to such approval any member of the Council, or the Commission,
+may request that more details be inserted in the minutes regarding any
+item on the agenda. These requests may be made in Coreper.
+
+Article 20: The Presidency and the businesslike conduct of discussions
+
+`# only this point excerpted:`
+
+1 (c) organise the time allotted for discussion of a particular item, in
+particular through limiting the time during which participants may speak
+and determining the order in which they may take the floor; (\...)
+
+### ANNEX IV: WORKING METHODS FOR AN ENLARGED COUNCIL {#annex_iv_working_methods_for_an_enlarged_council}
+
+**Conduct of meetings**
+
+9\. At the start of a discussion on a substantive point, the Presidency
+shall, depending on the type of discussion which is needed, indicate to
+delegations the maximum length of their interventions on that point. In
+most cases interventions should not exceed two minutes.
+
+16\. Unless indicated otherwise by the Presidency, delegations shall
+refrain from taking the floor when in agreement with a particular
+proposal; **in this case silence will be taken as agreement in
+principle.**
+
+## Council Guides Vol 1, Chapter I {#council_guides_vol_1_chapter_i}
+
+### 3. The Presidency is neutral {#the_presidency_is_neutral}
+
+The Presidency must, by definition, be neutral and impartial. It is the
+moderator for discussions and cannot therefore favour either its own
+preferences or those of a particular Member State. This presupposes both
+good coordination with its own State\'s spokesmen so that they can voice
+the national position without impeding the work of the Presidency, **as
+well as taking due account, on their own merits, of all positions
+expressed.**
+
+**The duty to be neutral exists alongside the political dimension which
+informs the conduct of Union business and which is particularly apparent
+in the order of priority set in the choice and handling of items of
+business. This order of priority is occasioned by considerations of
+topicality and of deadlines, as well as by the political tone which the
+Presidency wishes to set for its six-month period.** In its role as
+moderator, the Presidency must also take action where it notes that a
+stalemate has occurred; this will take the form of compromise
+suggestions to reconcile the different interests involved in a single
+issue or a set of interconnected issues (package deal), which inevitably
+means that political choices have to be made.
+
+### 5. The Presidency is always in the hands of the Council {#the_presidency_is_always_in_the_hands_of_the_council}
+
+Any procedural decision by the Presidency may be challenged by the
+Council by a simple majority. Any statement by or letter from the
+Presidency expressing the Council position, particularly in its
+relations with the other institutions, must meet with the Council\'s
+agreement.
+
+## CG Vol 1, Chapter III {#cg_vol_1_chapter_iii}
+
+### 4. The Council {#the_council}
+
+(\...)
+
+Like the agenda for Coreper, the Council\'s agenda is divided into two
+parts:
+
+-   \`A\' items, which the Council may adopt without any discussion.
+    However, a member of the Council may always request the withdrawal
+    of one of these items on the actual day of the Council meeting (the
+    item then being held over until a forthcoming Council, or kept on
+    the agenda by a simple majority if the item had been entered 14 days
+    beforehand). Delegations may, additionally, make statements when
+    \`A\' items are adopted (1);
+
+*(1) See also Chapter III, Section 4(g) , \`Publication of votes*\'
+
+-   \`B\' items. These are the items which the Council will discuss.
+
+## CG Vol 1, Chapter III {#cg_vol_1_chapter_iii_1}
+
+### 4 d) The Council proceedings {#d_the_council_proceedings}
+
+In the interests of concision and lower costs for the Council, the
+Presidency must endeavour to avoid proceedings continuing beyond 21.00.
+
+As regards conduct of business, the Presidency proceeds in turn to:
+
+-   take note of \`Other business\' items and any requests for changes
+    to the agenda;
+-   adopt the agenda;
+-   adopt the \`A\' items, taking account of any statements (1) or
+    reservations. These \`A\' items are normally adopted en masse. If an
+    item is the subject of a statement by one or more members of the
+    Council which is likely to give rise to a discussion or a request
+    for withdrawal, it can either be withdrawn from the agenda or left
+    on the agenda on the basis of a simple majority vote (see above);
+
+\(1\) Council members who make a statement may request that it appear in
+the Council minutes. *See Chapter III, Section 4(g), \`Publication of
+votes*\'
+
+### 4 e) Voting procedure {#e_voting_procedure}
+
+As regards voting procedure, Article 11 CRP provides that:
+
+-   the Council votes on the initiative of its President. The President
+    is also required to open a voting procedure on the initiative of a
+    member of the Council or of the Commission, provided that a majority
+    of the Council\'s members so decides (simple majority);
+
+```{=html}
+<!-- -->
+```
+-   (\...)

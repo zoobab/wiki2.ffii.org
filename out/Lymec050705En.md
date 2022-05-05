@@ -1,0 +1,69 @@
+# European Liberal Youth: time to act! {#european_liberal_youth_time_to_act}
+
+\[ [ News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*The following press release was sent by Lymec to FFII by mail. Unlike
+Lymec assumes Toine Manders work in JURI was quite the opposite of what
+they assume and as a ALDE rapporteur responsible for the weak JURI
+result.*
+
+## PRESS RELEASE: No to Software Patents: Time to act! {#press_release_no_to_software_patents_time_to_act}
+
+Whilst the European Parliament is readying itself to gather the 367
+votes necessary to amend the Council\'s proposal in the second reading,
+scheduled to take place on 6th July, the European Liberal Youth (LYMEC)
+calls upon ALDE [MEPs](MEPs "wikilink") to support the 21 cross-partisan
+compromise amendments tabled by Michel Rocard MEP and backed by Andrew
+Duff MEP, and to reject the directive in case these essential amendments
+are voted down.
+
+Roger Albinyana i Saigi, President of LYMEC, noted: \"I am disappointed
+by the weak results of the vote of the Legal Affairs committee on the 20
+June, which proves once again the strength of pro-Software Patents
+lobbies such as the Business Software Alliance and of big software
+corporates like Microsoft. It shall be repeated that empirical studies
+show that software patents stifle innovation by increasing entry costs
+and favour large over small businesses\". He added: \"we should learn
+from the US experience and recognise that the software industry is
+different than others: there is no market for software components and
+such patents will lead to an increase of legal disputes and - as a
+consequence - discourage innovation\".
+
+The European Liberal Youth also supports ALDE MEP Toine Manders\'
+proposal aiming at bringing the work of the European Patent Office (EPO)
+under the democratic control of the European Union. \"The EPO has, in
+contradiction to the letter and spirit of the written law, granted tens
+of thousands of patents on rules for computing with conventional data
+processing equipment over the last years, this is simply unacceptable\"
+stressed Roger Albinyana i Saigi, underlining that the EPO is
+\"something from the past, another of these undemocratic
+intergovernmental creatures\".
+
+ENDS
+
+If you are a journalist and would like more information, please contact
+Aloys Rigaut, +32 2 237 0146; office\@lymec.org
+
+## ANNEXE
+
+Background: European Liberal Youth, LYMEC, is a pan-European youth
+organisation seeking to promote liberal values throughout the EU and
+particularly through the European Liberal Democrat and Reform (ELDR)
+party and group in the European Parliament. With 210,000 members from 75
+organisations in 41 countries, LYMEC is active across the breadth and
+diversity of the European continent.
+
+The European Liberal Youth unanimously adopted a resolution against
+software patents at its recent Congress in Amsterdam, on 8-10 April
+2005, and subsequently signed the Foundation for a Free Information and
+Infrastructure (FFII)\'s petition against software patents. It has since
+then actively engaged itself in an electronic campaign against the
+patentability of softwares and invited the ALDE Group to follow a same
+line.
+
+`For more information, click here`
+
+{<http://www.lymec.org/repository/uploaded/Final%20resolutions%20-%20adopted.pdf>}(page
+16)

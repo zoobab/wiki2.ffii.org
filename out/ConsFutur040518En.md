@@ -1,0 +1,32 @@
+# Council Decision 2004-05-18 for Unlimited Patentability \-- What Next? {#council_decision_2004_05_18_for_unlimited_patentability____what_next}
+
+\--\> [ Council 2004-05-18](Cons040518En "wikilink"), [
+Reversal](ConsReversEn "wikilink")
+
+------------------------------------------------------------------------
+
+Faced with an unconstructive counter-proposal which goes even further
+away from the Parliament\'s position than the previous one, addresses
+none of the Parliaments concerns and slams shut doors of possible
+compromise that were previously open, the European Parliament will have
+little other option than to say No in one way or another. If it choses
+to simply reaffirm its previous position in another reading, this would
+ultimately lead to a conciliation procedure. Unless enough pressure is
+built at the national level to make ministers stop blindly trusting
+their patent office administrators, the conciliation procedure also
+offers little guarantee of producing a workable compromise.
+
+There will of course be more pressure on the European Parliament from
+all sides. The patent departments of the large corporations will be
+sending even more fully paid lobbyists than before. In previous
+campaigns for the gene patent directive many millions were spent by the
+patent lobby. A similar attempt at pushing the Council paper through the
+Parliament by all means is to be expected.
+
+Yet the critics of software patentability have also grown stronger. The
+message has reached the top level of ministerial bureaucracy in many
+countries and with each round of negotiations in the Council more ice
+melts away. More ministerial officials than ever before have realised
+that the emperor is naked. This is one of the reasons why the patent
+administrators in the Council\'s backrooms have opted for an
+all-or-nothing approach.

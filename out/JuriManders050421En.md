@@ -1,0 +1,92 @@
+# JURI Transcripts 050421: Toine Manders MEP {#juri_transcripts_050421_toine_manders_mep}
+
+-\> \[ [ Rest of the meeting, and audios](Juri050421En "wikilink") \]
+
+------------------------------------------------------------------------
+
+(NB: the sound quality was not good. The transcription below still needs
+some corrections and some gaps filled in, and is probably best read in
+conjunction with listening to the [ original
+audio](Juri050421En "wikilink"))
+
+## Toine Manders (ALDE, NL): {#toine_manders_alde_nl}
+
+(1:18:38) Thank you chairman.
+
+I would like to thank my colleague, because I think that he in a short
+and succinct way describes the aching points that this directive brings
+and I hope that the amendments that he will submit shortly will dissolve
+these aching points.
+
+There are a few points I would like to make.
+
+Personally, I find as shadow rapporteur of the ALDE group that the piece
+that the Council has produced is very close to the one by Arlene
+[McCarthy](McCarthy "wikilink") which we adopted in the ??? last time
+??? especially by pretty aggressive lobbyists ??? I don\'t understand
+that ??? UNICE ??? I deeply regret that the lobby is not posturing on
+healthy arguments but much more on threats ??? while we should have a
+clear piece.
+
+I will not repeat everything others had, but one thing I want to make
+clear: This week I received a manifest of a large amount of small,
+medium and large entrepreneurs and from that at least I have learned \--
+and this may seem naive \-- that there is a very large difference
+between a software programmer and an inventor. And we should be very
+clear in that, because I thought ??? They have made it clear to me that
+especially small companies ??? if we talk about computer-implemented
+inventions that they can protect themselves against multinationals who
+would otherwise steamroll over and copy their ideas and that can of
+course not be the idea, because the goal of the patent legislation is of
+course to protect inventors and to reward them, because at the moment
+that you don\'t reward an inventor you won\'t have an inventor in the
+end.
+
+I have a few questions to mister Rocard. We talk about interoperability.
+I think everybody is in unison here, but I\'m of the opinion that it
+should be possible, but under the condition that the inventor of the
+base product is given a reasonable compensation for his or her idea, his
+invention, and then I think ??? interoperability is no problem
+whatsoever.
+
+I had another question about the access to ideas, access to information.
+In my vision, the purpose of our patent system is actually to make
+ideas, technical inventions public to allow others to build on those
+ideas, to make innovation possible. If we all hide and obscure our
+ideas, then I\'m of the opinion that the piece slows down innovation and
+I think actually that we ??? reach a goal that by seeing ideas which are
+public that you come to new ones, and I think that it\'s the strong
+point about out patent system, I also think that\'s the strong point of
+Europe, preceding all those years, because we are especially strong
+about good ideas and inventions and it would be a shame to implement
+brain drain and times are changing and it is said that software is
+immaterial, not tangible, but then I ask mister Rocard ???. If I patent
+a new kind of ??? I CAN ask for a patent; the moment I talk about a
+piece of software that makes a technical connection possible (in
+combination because that\'s very important then), that we at one point
+would say that wouldn\'t be possible, because we arrive with a very
+difficult definition and I think working with natural forces, but even
+if you would bring it down to details ??? software ??? natural forces
+??? put into motion and arrive at a result, a technical result.
+
+I had another question. I would want that considering this directive, we
+wouldn\'t speak of software ???, but of computer-implemented inventions,
+technical inventions, or else ??? could lead to an amount of unclarity
+and unrest and I think we don\'t need that anymore. We already went
+through this. I think that we\'re technically clear.
+
+I would like to have an explanation from mister Rocard about a text that
+he writes on, let\'s see, page 3 (ed: actually 4) I think, somewhere in
+the middle it says in English: \"controlling a chain of patented
+software programs, each of which depends on the other, to prohibit
+access by the competition to activities downstream affecting the
+industry and the invention concerned\" Or it\'s a jab to high industry
+that wants to set up a monopoly with a chain downstream ??? and I find
+it a shame ??? trying to indicate that especially small companies that
+like to make that invention in order not to be copied by the large
+companies. And subsequently a patent ??? is acquired. So I want an
+explanation over that if that\'s possible.
+
+Let\'s see ??? then I see that it\'s further clear. I wish colleague
+Rocard a lot of success with setting up good arguments in these very
+difficult days. Thank you.

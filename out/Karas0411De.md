@@ -1,0 +1,97 @@
+1.  1.  -\*- dok: karas0411; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Karas (EVP-Wirtschaftssprecher) unterstützt Polen, fordert Revision der Ratsvereinbarung {#karas_evp_wirtschaftssprecher_unterstützt_polen_fordert_revision_der_ratsvereinbarung}
+
+\--\> \[ [ english](Karas0411En "wikilink") \] \[ [
+Karas](OthmarKarasDe "wikilink") \| [ AT & Swpat](SwpatatDe "wikilink")
+\| [ Polen bekräftigt Ablehnung](Polon0411De "wikilink") \| [
+Umkehr](ConsReversDe "wikilink") \| [
+Patentnachrichten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+Der wirtschaftspolitische Sprecher und Vize-Fraktionsvorsitzende der
+Europäischen Volkspartei im Europäischen Parlament, Mag. Othmar Karas
+von der Österreichischen Volkspartei, fordert in einer Erklärung den
+EU-Rat dazu auf, seine politische Vereinbarung vom 18. Mai 2004 erneut
+zu überdenken.
+
+## Die Erklärung {#die_erklärung}
+
+-   [Original](http://www.othmar-karas.at/ok.php?ok=new_presse_zeigen.php&id=223 "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   Karas: Überdenken der Ratsposition zu Softwarepatenten notwendig
+-   Utl.: Karas fordert Gorbach zu ausgewogener Lösung auf
+
+(Brüssel, 23.11.2004)
+
+\"Ich teile die Sorge vieler Software-Entwickler, dass durch eine
+Patentierbarkeit von Software-Codes die Interessen kleiner und mittlerer
+IT-Unternehmen nachhaltig geschädigt werden könnten. Nachdem die
+polnische Regierung nunmehr offiziell erklärt hat, den Ratsvorschlag für
+eine Richtlinie zur Patentierbarkeit computer-implementierter
+Erfindungen nicht unterstützen zu können, ergibt sich auch für
+Österreich und den Rat die Möglichkeit, ihren bisherigen Standpunkt zu
+überdenken und den ausgewogeneren Beschluss des Europäischen Parlaments
+nicht zu ignorieren\", sagte heute der Wirtschaftssprecher der
+ÖVP-Delegation im Europäischen Parlament, Mag. Othmar Karas, in Brüssel.
+
+In einem Schreiben an den zuständigen Minister Vizekanzler Gorbach
+ersuchte Karas diesen, sich für eine entsprechende Regelung im
+Gemeinsamen Standpunkt des Rates einzusetzen. \"Für eine ausgewogene
+Lösung stellt der Beschluss des Europäischen Parlaments eine gute
+Grundlage dar. Der ursprüngliche Kommissionsvorschlages geht erheblich
+zu weit. Unser Beschluss hingegen zieht die erforderlichen Grenzen und
+legt einen vernünftigen Rahmen für die Patentierbarkeit
+computerimplementierter Erfindungen fest\", so Karas in seinem
+Schreiben.
+
+Grundsätzlich begrüßte Karas die Einführung einer Richtlinie, die die
+einheitliche Rechtsanwendung durch Patentämter und Patentgerichte im
+Interesse eines funktionierenden Binnenmarktes, zur Schaffung von
+Rechtssicherheit und zur Vermeidung von Wettbewerbsverzerrungen regelt.
+\"Dies ist schon alleine deshalb ein wichtiger Schritt, um der
+gegenwärtigen Praxis des Europäischen Patentamts einen Riegel
+vorzuschieben. Entgegen dem Wortlaut des Europäischen
+Patentübereinkommens hat das EPA bereits nahezu 30.000 Patente auf reine
+Software erteilt\", betonte Karas.
+
+Auch den KMU müsse mit vernünftigen Regelungen ermöglicht werden, an der
+Innovation und Entwicklung teilzunehmen, ohne durch hohe Gebühren oder
+durch ungerechtfertigte Monopolstellungen gehindert zu werden. \"In der
+Praxis führen Softwarepatente zu unüberwindbaren bürokratischen
+Hindernissen. Es ist weder einsichtig noch praktizierbar, dass ein nur
+technisch, nicht jedoch rechtlich geschulter Programmierer die
+Patentdatenbanken der Mitgliedstaaten durchforsten muss, um ausfindig zu
+machen, ob ein von ihm entwickeltes Verfahren bereits von Dritten
+geschützt worden ist\", kritisierte Karas. \"Daher lehne ich die
+Patentierbarkeit von Code grundsätzlich ab.\"
+
+\"Die Quantität der erteilten Patente sagt nichts über die Innovations-
+und Wettbewerbsfähigkeit eines Wirtschaftsraumes aus - diese Aussage in
+den Lissabon Zielen ist stark anzuzweifeln. Alleine die Qualität der
+individuellen Leistung sollte im Vordergrund stehen\", sagte Karas. Da
+das Patentwesen auf territorialen Rechten beruhe, sei die Argumentation
+des Wettbewerbsnachteils gegenüber dritten Staaten, allen voran den USA
+oder Asien, nicht nachzuvollziehen. \"Gäbe es im Territorium der EU
+keine Softwarepatente, könnten folglich auch keine Unternehmen aus
+Drittstaaten Softwarepatente für den EU-Raum erlangen. Auf der anderen
+Seite sind europäische Unternehmen bereits jetzt nicht daran gehindert,
+Patente für Software in Drittstaaten zu beantragen und zu bekommen\",
+meinte Karas abschließend.
+
+Rückfragen: MEP Mag. Othmar KARAS, Tel.: 0032-2-284-5627
+(okaras\@europarl.eu.int) oder Mag. Philipp M. Schulmeister, EVP-ED
+Pressestelle, Tel.: 0032-475-79 00 21 (pschulmeister\@europarl.eu.int)
+
+## Medienecho
+
+-   2004-11-24 AT [Heise: Österreichische Abgeordnete beziehen Stellung
+    gegen
+    Softwarepatente](http://www.heise.de/newsticker/meldung/53608 "wikilink");
+    sieht bei Karas fälschlicherweise eine Kehrtwende (\--\>
+    [Karas0411De](Karas0411De "wikilink"))

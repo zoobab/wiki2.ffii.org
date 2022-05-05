@@ -1,0 +1,1 @@
+Typo: \"30,0000 US-style patents\" should be \"30,000 US-style patents\"

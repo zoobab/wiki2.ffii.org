@@ -1,0 +1,9 @@
+# 2004-05-17 Patent Newspeak Translator created {#patent_newspeak_translator_created}
+
+Christian Beauprez has created a javascript program called 
+Newspeak Translator v1.0, which turns the voice of the patent lobby back
+into reasonably understandable english.  
+
+-   <http://www.beauprez.net/softpat/newspeakdecoder.htm>
+
+ 

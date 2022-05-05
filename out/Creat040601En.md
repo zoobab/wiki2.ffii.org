@@ -1,0 +1,85 @@
+Friends of the Creative Domain are seeking signatures for the following
+letter, to be sent to the relevant people at the BBC:
+
+------------------------------------------------------------------------
+
+`Dear ``<Name>`{=html}
+
+`We write to express our support for the BBC Creative Archive, and our`\
+`concerns relating to how it will be implemented.`
+
+`As TV licence holders, citizens concerned about access to our national`\
+`heritage, and artists and students who have witnessed the shrinkage of the`\
+`creative domain, we strongly supported Greg Dyke?s August, 2003 commitment`\
+`to take ?a massive step forward in opening our content to all ? be they`\
+`young or old, rich or poor.?`
+
+`There are many obvious reasons for taking such a step. Digital technology now`\
+`gives us the chance to unlock and democratise an otherwise inaccessible part`\
+`of our national culture, an opportunity of immeasurable educational value. `\
+`An online archive of past and present BBC material could give artists and`\
+`students unprecedented ways to build creative works, and making material`\
+`available for non-commercial use would open new markets for our nation?s`\
+`artists and the Corporation. In short, the Archive has the potential to`\
+`ignite a ?digital campfire? for the nation.`
+
+`However, we have become concerned that the BBC will not ultimately implement`\
+`the Archive in a way that is conducive to these social goods. Some`\
+`commercial broadcasters have already expressed opposition to an accessible`\
+`archive of free material for non-commercial use, even while asking the BBC`\
+`to ?seed? the market for digital content. We worry that the BBC will face`\
+`political pressure from these broadcasters to pursue commercialisation above`\
+`access.`\
+\
+`We also worry that the recent changing of the BBC guard places the original`\
+`vision of the Archive in jeopardy. The BBC?s new chairman, Michael Grade,`\
+`has said that a top priority of his is creating a commercial plan for the`\
+`archives. Recent reports that the Board of Governors will take more control`\
+`of the BBC?s policy and planning division suggest that champions of the`\
+`Creative Archive may not be able to overcome pressures to limit access.`
+
+`We do not object to a commercial plan in principle, as long as it does not`\
+`unreasonably impede non-commercial use by licence holders. However, the`\
+`latest reports about the initial implementation of the Creative Archive`\
+`indicate that only short three-minute clips will be available. Although we`\
+`are confident that the BBC management has more ambitious long-term plans,`\
+`the lack of concrete proposals or public discussion of these plans stokes`\
+`our fears that the Archive will not go beyond a shop window for content that`\
+`TV-licence holders have already paid for.`
+
+`We believe that the stakes for the Creative Archive are high enough to merit`\
+`a public discussion on how to achieve the project?s fullest potential. This`\
+`discussion should bring in all the relevant stakeholders, including TV`\
+`licence holders, digital video artists, actors, musicians, producers,`\
+`librarians, archivists, historians and students.`
+
+`Now is an ideal time to open this discussion and to update the BBC Charter to`\
+`allow the BBC to fulfil its public mission in the digital age. We support`\
+`new charter language that would:`
+
+-   Make the Creative Archive one of the primary objectives of the
+    Corporation,
+
+`with an emphasis on access and creative use. * Specify prospective licensing`\
+`of content for online use in a way that allows licence holders to get their`\
+`best value for money. * Specify the conditions of retrospective licensing of`\
+`content for online use in a way that would maximise the educational and`\
+`cultural value of the archives.`
+
+`We respectfully request a meeting with you and your staff so that we may`\
+`discuss these concerns and proposals.`
+
+`Thank you for your consideration.`
+
+`Sincerely yours,`
+
+`Friends of the Creative Domain:`
+
+`Damian Tambini, Director, PCMLP`\
+`Annabelle Littoz-Monnet, PCMLP`\
+`David Tannenbaum, Union for the Public Domain`\
+`<additional signatories>`{=html}
+
+------------------------------------------------------------------------
+
+To sign, contact: David Tannenbaum \<davidt_AT_public-domain.org>

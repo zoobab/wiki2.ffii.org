@@ -1,0 +1,105 @@
+# PATINFO 2004/06/03 Ilmenau - Softwarepatent-Propagandaveranstaltung der Hochschulpatentbewegung {#patinfo_20040603_ilmenau___softwarepatent_propagandaveranstaltung_der_hochschulpatentbewegung}
+
+\--\> [ BMBF](SwpatbmbfDe "wikilink"), [ BMBF zu
+Swpat](BmbfSwpat0401De "wikilink"), [ Patinfo
+Ilmenau](PatinfoIlmenauDe "wikilink"), [ EPA](SwpatepoDe "wikilink"), [
+Haase](HeikoHaaseDe "wikilink"), [ Neues](SwpatcninoDe "wikilink")
+
+------------------------------------------------------------------------
+
+# Ankündigung der Veranstalter {#ankündigung_der_veranstalter}
+
+PATINFO 2004 - Patentrecht und Patentinformation - Mittel zu
+Innovationen 3. Juni 2004 bis 4. Juni 2004
+
+Ilmenau
+
+Die PATINFO 2004 als 26. Kolloquium der TU Ilmenau über
+Patentinformation findet im Jahr der Osterweiterung der Europäischen
+Union statt. Zusätzliche Chancen und Probleme prägen die europäische
+Wirtschaft. Der wirtschaftliche Erfolg erfordert in Deutschland und in
+der Europäischen Union einen spürbaren Zuwachs an Innovationen. Die
+Bundesregierung hat dieses dringende Erfordernis erkannt, indem sie das
+Jahr 2004 zum Jahr der Innovation erhob, obgleich die zusätzlichen
+Mittel auf dem Wege zu mehr Innovationen nicht ausreichend scheinen.
+**Umso mehr müssen die traditionellen Mittel des gewerblichen
+Rechtsschutzes reformiert und verbessert werden, um Innovationen auf
+allen Technikgebieten stärker als bisher zu fördern**.
+
+Die PATINFO 2004 charakterisiert sowohl die aktuellen und künftigen
+Reformen des gewerblichen Rechtsschutzes als auch die Fortschritte der
+Methoden und Werkzeuge in der Patentinformation.
+
+Grundsätzliche Vorträge des Deutschen Patent- und Markenamtes, des
+Europäischen Patentamtes und des Harmonisierungsamtes für den
+Binnenmarkt zur Entwicklung des Gewerblichen Rechtsschutzes in Europa
+werden durch Beiträge zum **Patentschutz von Software** ergänzt.
+
+Die Darlegungen zur europäischen Patentinformationspolitik bilden den
+Ausgangspunkt für die Vorträge der Datenbankanbieter, Patentämter,
+Hochschuleinrichtungen und Unternehmen über Methoden und Produkte für
+die Patentrecherche und die Patentanalyse.
+
+Die Ausstellung führender nationaler und internationaler Einrichtungen
+auf der PATINFO 2004 ermöglicht den direkten Test der neusten Produkte
+und Dienstleistungen für den gewerblichen Rechtsschutz und die
+Patentinformation.
+
+Das vollständige Programm der PATINFO 2004 finden Sie unter
+<http://www.paton.tu-ilmenau.de/aktuelles/programm2004.pdf>
+
+# Anmeldeunterlagen
+
+<http://www.patent-inf.tu-ilmenau.de/aktuelles/veranstaltungen.html>
+
+# Softwarepatentbezogene Veranstaltungen des Programms {#softwarepatentbezogene_veranstaltungen_des_programms}
+
+-   17.15 Praxis des Europäischen Patentamts bei der Patentierung
+    software-bezogener Erfindungen \-- Bernhard Jünger, [ Europäisches
+    Patentamt](SwpatepoDe "wikilink"), München
+-   18.00 Offenlegung der Quellcodes patentierter Computerprogramme:
+    ökonomische und rechtliche Implikationen \-- [ Heiko
+    Haase](HeikoHaaseDe "wikilink"), [ TU
+    Ilmenau](PatinfoIlmenauDe "wikilink") / Wirtschaftswissenschaften
+
+# FFII-Kommentar {#ffii_kommentar}
+
+Beim jährlichen \"Patinfo\"-Kongress an der TU Ilmenau trifft sich die
+Hochschul-Patentbewegung zum Erfahrungsaustausch und zur gegenseitigen
+Bestärkung im Eintreten für eine immer weitere Verbreitung und
+Verankerung des Patentwesens an den Hochschulen in Deutschland. Geführt
+wird diese Bewegung von der [\"Patentoffensive\" im Bundesministerium
+für Bildung und Forschung
+(BMBF)](http://swpat.ffii.org/akteure/bmbf/ "wikilink"). Kritische
+Stimmen fehlten auch in der Vergangenheit auf diesen
+Mobilisierungsveranstaltungen. Bisher enthielt sich die
+Hochschulpatentbewegung weitgehend der Kommentare zum Thema
+Softwarepatente, aber nach dem Umschwung im Euorpäischen Parlament im
+September 2003 änderte sich dies. Heiko Haase aus Ilmenau und Günter
+Reiner vom BMBF sind mit Streitschriften für die Patentierbarkeit von
+Software in den Ring gesprungen, und auf intraministerieller Ebene
+machte sich das BMBF gegen das Parlamentsvotum und für grenzenlose
+Patentierbarkeit im Sinne des
+[Ratspapiers](http://swpat.ffii.org/papiere/europarl0309/cons0401/index.de.html "wikilink")
+stark.
+
+Das Veranstaltungsprogramm spricht von \"Förderung der Innovation\" auf
+\"allen Gebieten der Technik\" und meint mit diesen Codewörtern die
+Ausdehnung des Patentschutzes auf Software. Ob dadurch Innovation
+gefördert wird, wird nicht ernsthaft gefragt sondern als
+selbstverständlich vorausgesetzt. Eine ausgewogene Darstellung ist von
+den Veranstaltern nicht vorgesehen. Aus Sicht des FFII handelt es sich
+um eine reine Werbeveranstaltung der Patentexekutive und der am
+Patentschutz verdienenden Kreise, finanziert aus Steuergeldern. Diese
+Einmischung der Exekutive in die Meinungsbildung des Volkes verbietet
+sich aus einem liberalen Verständnis der Staatsaufgaben. Das BMBF hat
+sich wiederholt in aktivistischer Form, etwa durch den [ Kleinen
+Katechismus der Softwarepatentierung](BmbfSwpat0401De "wikilink") und
+andere Schriften auf seinem Patentserver, in die Meinungsbildung auf
+legislativem Gebiet eingemischt. In Weimar wurde gar diskutiert wie
+[nach Abschaffung des Hochschullehrerprivilegs in den Hochschulen ein
+Bewusstseinswandel im Hinblick auf Patentierung und Verwertung
+vorangetrieben werden
+kann](http://www.patente.bmbf.de/de/patentpo_1371.php "wikilink").
+Bedrohliche Entwicklungen für die Zukunft des Grundsatzes der
+Gewaltenteilung und die Volkssouveränität.

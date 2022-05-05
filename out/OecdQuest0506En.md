@@ -1,0 +1,79 @@
+# OECD Project on Counterfeiting and Piracy {#oecd_project_on_counterfeiting_and_piracy}
+
+------------------------------------------------------------------------
+
+*An OECD three-phase project to examine counterfeiting and piracy
+confuses piracy with other infringements of \"intellectual property\"
+rights.*
+
+------------------------------------------------------------------------
+
+The first phase of the project will cover products (i.e., tangible
+items) that infringe trademarks, patents, copyrights or design rights.
+The second phase will cover digital piracy, while the third will address
+other forms of infringement of intellectual property. The project will
+be carried out during 2005-2007.
+
+The project includes an industry questionnaire. The deadline has been
+extended.
+
+[OECD project
+information](http://www.oecd.org/document/36/0,2340,en_2649_34173_35281444_1_1_1_1,00.html "wikilink")
+
+A quote from the
+[questionnaire](http://www.oecd.org/dataoecd/40/17/36068551.doc "wikilink"):
+
+\|\| Note: The term counterfeiting and piracy in this questionnaire
+covers infringements of trademarks, copyrights (and related rights),
+patents and design rights. \|\|
+
+## Comment Ante Wessels {#comment_ante_wessels}
+
+### Piracy?
+
+As the quote shows, in this questionnaire no distinction is made between
+counterfeiting and piracy on the one hand and other infringements of the
+mentioned rights.
+
+There is no good definition of piracy, a possible definition could be:
+massive for-profit 1:1 copying, and thereby violating clearly protected
+rights. Without a clear definition major issues arise, for instance:
+
+-   Do we want other infringements than 1:1 copying to be seen as
+    piracy?
+-   Do we want not-for-profit infringements to be seen as piracy?
+-   Infringements often occur during normal business conduct, is this
+    piracy?
+-   Even companies which merely use properly licensed software can be
+    seen as \"pirates\", since such use can infringe on software
+    patents.
+-   It is impossible to write software without violating patents, is
+    every software developer a \"pirate\"?
+
+The questionnaire leaves room for companies to report other
+infringements than clear, massive, for-profit 1:1 infringements. The
+piracy problem may seem bigger than it is.
+
+We witness a tendency to confuse piracy with other infringements. We see
+this in the [IPRED 2
+directive](http://wiki.ffii.org/Ipred2060510En "wikilink"), this
+questionnaire, the [G8
+statement](http://en.g8russia.ru/docs/15.html "wikilink") made after the
+St. Petersburg meeting.
+
+This confusion creates a big threat potential, hampers the (desired)
+freedom to act in a market. The confusion may lead to overprotection of
+\"intellectual property\" rights, legal uncertainty, unwanted arrests
+and confiscations, and a less free cultural life.
+
+Serious crimes call for serious measures - and serious definitions.
+
+### Infringement?
+
+Not all alleged infringements are actual infringements. A civil trial is
+needed to establish whether an alleged infringement is indeed an
+infringement, for example with patents (prior art), trade marks
+(confusion) and copyright (independent recreations, parody, quotations).
+
+The questionnaire leaves room to report alleged infringements. Again,
+the reported problem may be bigger than the actual problem.

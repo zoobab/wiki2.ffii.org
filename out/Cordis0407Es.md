@@ -1,0 +1,50 @@
+## UE Directiva sobre patentes de software bajo ataque. {#ue_directiva_sobre_patentes_de_software_bajo_ataque.}
+
+El servicio de noticias CORDIS de la Comisión Europea informa de que la
+decisión del \"acuerdo politico\" del Consejo de Ministros sobre las
+patentes de software ya no esta amparada por los gobiernos nacionales.
+
+A continuación una copia de los parrafos centrales de la [nota del
+CORDIS](http://dbs.cordis.lu/cgi-bin/srchidadb?CALLER=NHP_EN_NEWS&ACTION=D&SESSION=&RCN=EN_RCN_ID:22295 "wikilink")
+
+------------------------------------------------------------------------
+
+La directiva sobre patentes de sofware, aprobada durante el Consejo de
+Competitividad de la UE el 18 Mayo, parece que va ser revisada después
+de que la Camara Baja del Parlamento Holandes aprobase una moción
+solicitando al ministro de asuntos económicos, Laurens-Jan Brinkhorst,
+que cambiese el voto del gobierno en la directiva de \"a favor\" a una
+\"abstención\".
+
+Oficialmente en otros paises Europea también han proclamado que los
+votos emitidos por los ministros durante el encuentro no es fiel reflejo
+de la posición de los gobiernos. Los paises en cuestión son entre otros:
+Dinamarca, Alemania, Polonica y Portugal.
+
+El tornado politico es el último incidente del conflicto ente las
+grandes empresas, los que apoyan las patentes con importante inversión
+en investigación y las pequeñas y medianas empresas de
+software,informáticos e instituciones de investigación que se oponen a
+las patentes manifestrando que las patentes iran contra la innovación y
+cerrará la mayoría de las pequeñas empresas de Europa.
+
+En un movimiento histórico, el parlamento Holandes ha solicitado cambiar
+el voto del \"si\" al apoyo de las patentes de software en Europa. El
+parlamento manifiesta que lo que estaba pensado en la votación era una
+versión revisada de la propuesta original propuesta por el Comisario
+Frits Bolkestein con las correspondientes enmiendas realizadas por el
+Parlamento Europeo. Esta versión permitía patentes para invenciones
+industriales pero no para el software puro. Al final, sin embargo, esta
+versión fue desechada por el Consejo de Ministros, el cual volvio al
+texto original, donde se permitía la patentabilidad del software.
+
+\'Este signo político se extiendiendo más allá de los Paises Bajos.
+Esperamos que otro paises de la UE con similares dudas den marcha atrás
+a la aprobación, quedando una minoria a favor de la directiva
+propuesta,\' dijo Dieter Van Uytvanck, portavoz de la Fundación por la
+Infrasestructura de Información Libre Holandesa (Dutch Foundation for a
+Free Information Infrastructure).
+
+De hecho, varias propuestas han sido presentadas en los parlamentos de
+otros paises de la UE, como Alemania, para reflejar un cambio de la
+votación.

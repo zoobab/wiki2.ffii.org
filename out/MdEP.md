@@ -1,0 +1,5 @@
+MdEP Mitglied des Europa Parlaments [Member of European
+Parliament](http://wwwdb.europarl.eu.int/ep6/owa/p_meps2.repartition?ilg=EN "wikilink")
+
+-   Liste der Europaabgeordneten der 6. Wahlperiode
+    <http://wwwdb.europarl.eu.int/ep6/owa/p_meps2.repartition?ilg=DE&iorig=hom>

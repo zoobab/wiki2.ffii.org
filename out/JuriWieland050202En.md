@@ -1,0 +1,60 @@
+ob die funktionieren
+
+wuerde ich gern ein Wort von Ihnen hren
+
+wir haben oftmals als Berichterstatter reinschauen - unübersehbare
+Gesetzeslage -
+
+nachschauen
+
+das Parlament hat sehr gedraengt bei der Kommission seinerseits
+
+haben dann einen Verordnung gemacht bei der Massenzahlungsb
+
+dass die Banken bei den ausgehenden Zahlungen eingehende Gebuehren
+verlangt
+
+erwarte Kommission nachzubessern
+
+dass meiste ist gesagt
+
+will offen bekennen dass
+
+lange jenseits der sache
+
+aber die jenigen die
+
+ein frueherer
+
+langsames recht ist schlechtes recht
+
+derartiger wildwuchs an
+
+drei stichworte
+
+erfindungshoehe
+
+begriff technik was ist das überhaupt
+
+ist im allgemeinen teil im AT deutlich mit schwächen behaftet
+
+liefert mehr fragen als er fragen beantwortet
+
+europ recht sollte nicht
+
+nachwachsende pflanzen kein licht mehr zu wachsen
+
+wenn wir schon ein
+
+mit einer rechtlichen behauptung gleich auch die beweislast umgedreht
+wird
+
+patent
+
+was den handwerklichen bereicht anbetrifft rat und kommission nicht
+ausreichend
+
+parlament wird sicherlich nachbessern
+
+hilfreich wenn wir uns aus den schützengräben herausbegeben und einen
+neuen anfang wagen

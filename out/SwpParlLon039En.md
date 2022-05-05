@@ -1,0 +1,44 @@
+# Awareness-Raising in London {#awareness_raising_in_london}
+
+Nobody has so far volunteered to organise something before the 24th on
+the streets in London.
+
+Otherwise please step forward, an info stand somewhere on the streets
+would be enough.
+
+FFII UK may be able to give limited logistic support, because Alex will
+be in Brussels.
+
+Other activities are under way, and street activities are likely to
+happen later, when the proposal comes back to the council and the UK
+Patent Office continues to abuse the gov\'t in its current way.
+
+If you have somebody, ask swpparl039\@ffii.org for the people which want
+to come!
+
+Please add the contact information of the organisator here (edit button
+on the bottom of this page) if you have found someone. Maybe some groups
+would help organise it:
+<http://wiki.ael.be/index.php/PatentInformationLeafletsLinks>
+
+Here is a list of Linux User Groups which might help:
+<http://www.linux.org/groups/united_kingdom/england.html>
+
+The AFFS (fsfe-uk list) and the free-sklarov list could also be a place
+to get help.
+
+Todo:
+
+Contact organisations:
+
+-   GLLUG - Greate London Linux User Group
+-   London 2600 - Mailed twice, no response
+
+Contacted:
+
+-   \....?
+
+Thanks!!!
+
+Add yourself here if you would like to come so that organisers could
+contact you: - ? (just press edit and edit this page)

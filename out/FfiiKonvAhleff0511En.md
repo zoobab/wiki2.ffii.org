@@ -1,0 +1,82 @@
+## Jochen Ahleff\'s Candidacy for Treasurer of the FFII {#jochen_ahleffs_candidacy_for_treasurer_of_the_ffii}
+
+jochen dot ahleff (at) t-online dot de
+
+### Introducing myself {#introducing_myself}
+
+Very few of you knew me before Holger Blasum resigned from his job of
+treasurer at the end of July 2005. Up to that time, I had been hanging
+around at some of the FFII\'s meetings in Munich for about a year,
+meeting (among others) Holger, Jan Wildeboer, Florian Mueller, Hartmut
+Pilch, Nico Manicone\... When Jan asked me to replace Holger
+provisionally as the FFII\'s treasurer, I hesitatingly agreed on the
+condition that I was up to the job.
+
+To cut a long story short, I am not able to replace Holger. From what I
+am hearing and have been seeing, Holger has been delivering
+40-to-60-hour-working-weeks on end for months, organising events, doing
+the treasurer\'s job, in fact building one of the FFII\'s indispensable
+backbones. Nevertheless, since Holger had been overburdened, I found the
+treasury understaffed, and immediately found a lot of problems to fix,
+especially unpaid invoices and a bookkeeping that simply wasn\'t up to
+internal and external requirements. By hiring a professional bookkeeper
+and paying the left-over invoices, we were able to put the FFII afloat
+and financially operative again. The N\*\*\*\*\*\*\* case, which had
+been hanging above us like the sword of Damocles, was finally settled,
+and the FFII is up and running again. And Holger is still putting in
+much more hours than me into the FFII, cleaning up the mess piled up in
+the last three years. My only excuse for working less on FFII stuff is
+the regular 40-hour-job that I have to fill out.
+
+### Reasons
+
+When I was asked to do the treasurer\'s job, I felt half-qualified, but
+100% convinced that the FFII was extremely valuable and direly needed to
+protect us against software patents. I still see the FFII at the
+forefront fighting against software patents and as a very valuable,
+credible organisation in doing so, run by idealists and very capable
+people who know how to run a campaign successfully. Furthermore, I have
+always been interested in politics, and the FFII\'s cause points to a
+lot of boundary conditions that determine politics nowadays: European
+politics is made in Brussels; it is made by commissioners and other not
+democratically elected bodies more than by the EP or national
+parliaments; and it is tilted and manipulated by giant corporations and
+big-money interests, often so to the detriment of many of us. All of
+this, and having the chance to be involved, account for most of my
+motivation working for the FFII, since I hope that the FFII can make a
+stand for the ordinary European citizen.
+
+Seeing that essential requirements went wrong, I feel the urgent need
+for the FFII to professionalise. I strongly suggest that we try to go
+about our business more efficiently, more effectively, with sufficient
+resources and, most of all, more responsibly. Some people bring the
+genius, the hard work and the clever arguments; but then, there are laws
+to abide, tax authorities to be satisfied, and an administration to be
+run properly.
+
+### CV/Qualifications
+
+I am an electrical engineer by formation and a software developer by
+profession. I studied Electrical Engineering and enjoyed my
+post-graduate studies in Operations Research at the Technical University
+(RWTH) Aachen, Germany. I have been working as a software developer
+(mainly as a database programmer) for about 10 years; currently, I am
+working in an SME in Munich, Germany.
+
+I have no formal qualification in accounting or bookkeeping whatsoever,
+and have never been the treasurer of any other organisational entity.
+Nevertheless, I feel qualified for the job of treasurer simply because I
+am managing my own property and finances, especially a house that I am
+renting out with an annual turnover of about 35,000 euros. Moreover, I
+am generally considered trustworthy and credible, and the FFII members
+here in Munich seem to agree with that assessment.
+
+From some general considerations and from what I\'ve seen at the FFII so
+far, I developed the following [Concept for the position of Treasurer of
+the FFII](http://www.ahleff.de/jochen/Concept.doc "wikilink") which I\'d
+try to implement as well as possible, of course only in agreement with
+the newly elected board. Basically, I\'d design the treasurer\'s job to
+be a managerial, political post, delegating as much work as possible to
+others who have more time or are more qualified in certain areas,
+notably the bookkeeper that we hired. The concept is meant to be one of
+the starting points of a discussion on professionalising the FFII.

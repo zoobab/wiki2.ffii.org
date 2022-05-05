@@ -1,0 +1,263 @@
+# The European Ombudsman {#the_european_ombudsman}
+
+\--\> \[ [ Letter Draft 2004-05](LtrFfiiOmbudsman0405En "wikilink") \| [
+Legal Remedies](SwpatpanteEn "wikilink") \| [ Nikiforos
+Diamandouros](NikiforosDiamandourosEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+## Overview
+
+The European Ombudsman is a contact person for European citizens which
+complain about malpractise of the EU institutions. Currently [ P.
+Nikiforos Diamandouros](NikiforosDiamandourosEn "wikilink") is
+EU-Ombudsman. The EOM is appointed by Europarl after each election for
+the duration of its mandate. He works independently in same building.
+For personal complainst and cases related to misapplication of European
+law [SOLVIT of the European Commission may be the better
+address](http://europa.eu.int/solvit/ "wikilink"). Also Petitions may be
+directed to the various Parliaments.
+
+### Ombudsman usefulness (arebenti) {#ombudsman_usefulness_arebenti}
+
+The scheme goes like this:
+
+a\) You have to ask the EU institution first and get an official reply.
+I.e. write letters to the Council and get a reply. Lu presidency
+possibly.
+
+b\) you write a complaint about formal procedural failure to the EU
+ombudsman.
+
+The person who does this needs to study the Rules Of Procedure and what
+happened at the Council on Monday. Documentation is not good yet. Please
+document your findings, so others can step into it. We do not
+overestimate this channel. Euroombudsman ist just one channel we can and
+shall use. It is a 1-3 persons project and please do not discuss outside
+this page whether [EuroOmbudsman](EuroOmbudsman "wikilink") has powers
+and is useful and so on, we did it several times, these discussions just
+waste our time and distract us from doing our tasks. The strategy is
+permanent penetration and what does not harm will do good. All findings
+and discussions shall be documented at the associated kwiki page, so we
+do not have to repeat it again and again.
+
+### scope:
+
+Anybody can complain to the Ombudsman about maladministration in the
+activities of the institutions and bodies of the European Union.
+
+Examples:
+
+-   administrative irregularities
+-   unfairness
+-   discrimination
+-   abuse of power
+-   failure to reply
+-   refusal of information
+-   unnecessary delay
+
+From a phone conversations of phm with Ombudsman office:
+
+-   investigate rule breaches of administrative organs
+    -   -   did the Council\'s secretariat hides a document that it
+            should have disclosed?
+        -   did CEC Internal Market (preferably lower officials, not
+            Bolkestein) violate their duties?
+-   produce paperwork for one case 3 months after submission, handle
+    next case later
+-   give a judgment and a recommendation to the administrative organ
+    -   -   ask this organ to take certain measures, sollicit reply
+        -   ask the European Parliament to further pursue the case
+
+### out of scope: {#out_of_scope}
+
+-   investigate **political** malpractise (e.g. lies of Bolkestein,
+    inadequacy of national handling of Council representation)
+
+### requirements for complaint: {#requirements_for_complaint}
+
+-   You must already have contacted the institution or body concerned,
+    for example by a letter.
+-   Complete documentation
+-   Only one case at once (otherwise a new case must be reopened, with
+    new waiting periods)
+
+Articles 2.4 and 2.8 of the Statute of the Ombudsman require that a
+complaint to the Ombudsman must be preceded by appropriate
+administrative approaches, to give Community Institutions the
+opportunity to resolve problems itself, before the European Ombudsman
+becomes involved.
+
+### power:
+
+If the attempt at conciliation fails, the Ombudsman can make
+recommendations to solve the case. If the institution does not accept
+his recommendations, he can make a special report to the European
+Parliament.
+
+Investigation power (Excerpt
+<http://www.euro-ombudsman.eu.int/lbasis/en/provis.htm> )
+
+Subject to the conditions laid down in the Statute, the Ombudsman may
+require Community institutions and bodies and the authorities of Member
+States to supply, within a reasonable time, information or documents for
+the purposes of an inquiry.
+
+The Ombudsman may inspect the file of the Community institution
+concerned in order to verify the accuracy and completeness of its
+replies. The Ombudsman may take copies of the whole file or of specific
+documents contained in the file. The Ombudsman informs the complainant
+that an inspection has taken place.
+
+The Ombudsman may require officials or other servants of Community
+institutions or bodies to give evidence under the conditions laid down
+in the Statute.
+
+## Illustrative figures {#illustrative_figures}
+
+*These are only highlights, not complete.*
+
+### workload:
+
+In 2000 - 2003, 8419 cases have been examined. About 30% were within the
+mandate of the Ombudsman. An inquiry was initiated in 909 cases.
+
+Number of cases per institution: CEC 699, EP 82, Council of the European
+Union 33, and others.
+
+### timeframes:
+
+The Ombudsman dealt with 1101 inquiries since 01.01.2000 (909 were
+initiated during this period, and 192 were brought from 1999). 917
+inquiries were closed by 31.12.2003 (of which 13 own initiative
+inquiries). Inquiries were closed for one or more of the following
+reasons:
+
+-   270 cases were settled by the institution after the Ombudsman had
+    opened an inquiry
+-   in 18 cases the complainant withdrew the complaint;
+-   no maladministration was found in 441 cases (of which 10 own
+    initiative inquiries);
+-   in 13 cases the Ombudsman achieved a friendly solution;
+-   121 inquiries were closed with a critical remark to the institution
+    concerned;
+-   45 inquiries resulted in draft recommendations;
+
+```{=html}
+<!-- -->
+```
+-   since 01.01.2000,
+    -   -   the body accepted the recommendations of the European
+            Ombudsman in 37 cases (of which 1 own initiative).
+        -   4 cases in which a draft recommendation was made were later
+            closed with a critical remark.
+        -   In 6 other cases, the Ombudsman presented a special report
+            to the European Parliament.
+-   The European Parliament has subsequently adopted resolutions
+    supporting the Ombudsman\'s conclusions and recommendations in all
+    of these cases.
+
+When the EOM receives a complaint, he sends it to the institution or
+body concerned, asking for its opinion on the complaint within two
+months.
+
+*\*If the Ombudsman considers it appropriate to do so, he may take steps
+to ensure that a complaint is dealt with as a matter of priority.\**
+
+## Legal
+
+[The
+Provisions](http://www.euro-ombudsman.eu.int/lbasis/en/provis.htm "wikilink")
+
+[The
+Statutes](http://www.euro-ombudsman.eu.int/lbasis/en/statute.htm "wikilink")
+
+## Contact
+
+-   complaint by letter, preferably the [online available pdf
+    form.](http://www.euro-ombudsman.eu.int/form/pdf/en/form_en.pdf "wikilink")
+-   FR 67001 Strasbourg Cedex / Avenue du Président Robert Schuman 1
+    (B.P. 403)
+-   Fon: +33 (0)388172313
+-   Nicholas Catephores, Assistant Tel.: +33 (0) 623210391
+-   Fax: +33 (0)38817906(2)
+-   mail: euro-ombudsman at europarl eu int
+-   <http://www.euro-ombudsman.eu.int/guide/en/default.htm>
+
+The ombudsman is also present and represented in Bruxles.
+
+## Possible maladministration issues of CEC and Council {#possible_maladministration_issues_of_cec_and_council}
+
+-   translation
+    -   -   problems of consolidated Parlament\'s directive. In German
+            translation article 3 is a mistranslation (data-processing
+            \--\> Datenschutz)
+        -   Parliament\'s version untranslated to many EU member state
+            languages
+
+```{=html}
+<!-- -->
+```
+-   misconduct at the Council session
+    -   -   surprise attack with DE-Bolkestein \"compromise\"
+
+`    * bullying of danish representative by Irish presidency`\
+`    * no time given to Eastern Europeans, failure to ask for their positions `\
+`    * asking first for abstention rather than first for agreement`
+
+-   -   Bolkestein lies about directive contents at Council session
+
+```{=html}
+<!-- -->
+```
+-   misconduct by the Council before the session
+    -   -   failure to disclose documents
+        -   misinformation about proposal
+        -   deceptive langauge of the proposal
+
+`    * ignoring the work of the Parliament's Plenary & CULT & ITRE, Committee of Regions and the Economic and Social Committee, concealing this fact from ministers`\
+`    * phrases of the form "software is not patentable unless `[`condition`` ``which`` ``can`` ``always`` ``be`` ``made`` ``true`](verbose "wikilink")`"`
+
+-   -   participation of patent administrators only, not backed by any
+        elected legislature, misunderstood by ministers
+    -   attempt to interfere before it was their turn in the procedure
+
+```{=html}
+<!-- -->
+```
+-   misconduct by DG Internal Market before the session
+    -   -   false claim that \"overall balance is maintained\", used to
+            gain acceptance for program claims by DG Infosoc
+        -   misleading governments by [secret nitpicking on Europarl
+            amendments](http://swpat.ffii.org/papers/europarl0309/cec0311/ "wikilink")
+        -   threats to withdraw directive from the EU and let EPO decide
+            alone
+
+1.  1.  \*\* close ties with BSA
+    2.  \*\* close ties with EPO, caselaw created by EPO specially for
+        the directive proposal
+    3.  \*\* close ties with JURI !MEPs, lobbying of European Parliament
+
+-   -   concerted attempts to misinform the press about contents of
+        proposals
+    -   [Consultation
+        Scam](http://swpat.ffii.org/papers/eukonsult00/ "wikilink")
+    -   [Intellectual Property Institute study
+        scam](http://swpat.ffii.org/papers/cec-ipi00/ "wikilink")
+
+`    * locking away of the study for half a year`
+
+-   -   Ischia conference 2003/10: Economics expertise from patent
+        lawyers only
+    -   initial greenbook consultations with patent lawyers only
+
+```{=html}
+<!-- -->
+```
+-   Translation problems of Council directive
+    -   -   [ German Council translation](ConsDeTransDe "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   Misinformation of Poland about council rules by NL presidency

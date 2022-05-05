@@ -1,0 +1,19 @@
+## Amendements pour la séance plénière : motion rejetant la directive {#amendements_pour_la_séance_plénière_motion_rejetant_la_directive}
+
+-   Motion rejetant la directive sans autre considération
+
+### Motion de rejet {#motion_de_rejet}
+
+\|\| numéro \|\| déposé par \|\| recommandation \|\| texte \|\| \|\| 62
+= 65 = 71 \|\| Ind Dem; ALDE; Greens \|\| + \|\| \|\|
+
+Le Parlement a accompli un travail considérable sur la directive, si les
+bons amendements passent, elle *peut* être amendée pour n\'être pas trop
+mauvaise. La décision doit donc être jaugée finement. Cependant, tout
+bien considéré, la FFII pense qu\'on aboutirait à un meilleur texte en
+recommançant à partir d\'une base propre. Cela donnerait également plus
+de temps pour mener des études économiques plus complètes sur les
+conséquences des brevets logiciels et pendant ce temps, laisser toutes
+les options ouvertes en Europe. La décision est minutieuse, mais il n\'y
+a pas aujourd\'hui de besoin urgent de cette directive. Il y a donc
+quelque chose à dire sur le temps à prendre pour bien faire.

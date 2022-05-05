@@ -1,0 +1,344 @@
+# Transcript of speech given by Dr David Martin at the November 2004 FFII Conference {#transcript_of_speech_given_by_dr_david_martin_at_the_november_2004_ffii_conference}
+
+------------------------------------------------------------------------
+
+\--\> \[ [BXL Conference 04-11-09](http:SwpatBxl0411En "wikilink") \]
+
+------------------------------------------------------------------------
+
+## Background
+
+-   About [Dr David
+    Martin](http://www.m-cam.com/index.cgi?file=company_info/ceo.html&icon=about "wikilink").
+-   About [M-CAM](http://www.m-cam.com/ "wikilink"), his company
+    specialised in assessing the value of patent portfolios and
+    technology transfers.
+-   Full [audio recording
+    (mp3)](http://www.ffii.org/~jmaebe/conf0411/tue/panel3.mp3 "wikilink")
+    of the panel he spoke in (he\'s the third speaker), and an [extract
+    (mp4)](http://www.elis.ugent.be/~jmaebe/swpat/conf0411/davidmartin.mov "wikilink")
+    with just his speech. The full panel recording has some extra
+    interesting answers from him during the Q&A session.
+-   Full [conference
+    program](http://eu.ffii.org/sections/bxl0411/program/ "wikilink")
+    with links to other audio recordings and slides.
+
+## Transcript: Real economic consequences of the non-accountability of the patent establishment {#transcript_real_economic_consequences_of_the_non_accountability_of_the_patent_establishment}
+
+### Introduction
+
+I\'ll be brief, I was just trying to convince a bunch of
+Parliamentarians at the other side of town to take another look at what
+they want to blindly endorse, and I think that I made a bit of progress
+today. So I apologise for being late, but I think I did at least another
+few neurons for the cause.
+
+Let me actually flash way forward in time, and way forward in time is
+drawing from our experience and looking at the financial and economic
+risks posed by intellectual property systems that have long been out of
+sync with the actual practical intent of the patent law.
+
+### The goal of the patent system {#the_goal_of_the_patent_system}
+
+And I want to begin my comment by making sure that we understand a very
+clear distinction and the distinction is extremely important in the
+context of software patents. It is the distinction between invention,
+innovation and incremental change. You put those three in your mind:
+invention, innovation and incremental change.
+
+We have seen a patent system over the last 20 years that has entirely
+blurred those lines. The patent system was actually a social contract,
+and it was the exchange of a monopoly right. And the exchange of the
+monopoly right was actually saying to society that it was economically
+viable to change the dynamics of fair and free markets, in consideration
+\--and bear this in mind\-- in consideration for a disclosure of
+something that ultimately advances the cause of science, technology or
+industry. That\'s what patents were supposed to be.
+
+Now we saw that over a period of about 15 years, the patent system
+inverted. Now the patent system is not a social contract in exchange for
+whatsoever. We haven\'t bothered to fix the laws yet, so the law
+unfortunately still says that it is.
+
+In practice what it is, is a means by which you create such a great
+obfuscation around what it is you think you\'re doing and what it is you
+think your competitors are doing, that you have mutually assured
+destruction should anyone ever peel back the layers of the patents to
+actually sort out who\'s doing what.
+
+That\'s what we have. And unfortunately that\'s the elephant in the room
+that no one is willing to talk about. Because the elephant in the room
+that no one is willing to talk about is the fact that we are perfectly
+content in defending, ad nausum, our own muons (?), but we\'ve long
+forgotten the social contract that said it was worth granting a monopoly
+once upon a time, for something that really advanced the cause of
+science, technology or industry.
+
+### The Chinese connection {#the_chinese_connection}
+
+And fundamentally don\'t lose sight of that, because let me tell you
+what happens at the logical extension that we now see unfolding before
+us in China. And let me take you to China because it\'s a very
+fast-moving debate and I piss off everyone in the United States Commerce
+Department for what I\'m about to say.
+
+For the last five years, the United States has had a very active policy
+of actually alleging the Chinese steal things. They steal things,
+they\'re bad people because they steal things. That\'s a very funny
+position, and it\'s couched in the \"you don\'t respect intellectual
+property\".
+
+So what you have is, you know Chinese don\'t respect intellectual
+property, therefore they steal things, therefore because MPAA and RIAA
+say that they steal things, we have to all tell the masses \"yes, in
+fact, they steal things\".
+
+There\'s a funny reality unfolding. The funny reality is that the
+Chinese are actually saying \"I wonder if you can pull the pin out of
+the grenade and throw it back\". And by that I mean this: what if the
+patents that are being asserted to be stolen or copied or infringed
+aren\'t actually worth the paper they\'re being printed on and what if
+the Chinese using their sovereign rights actually challenge those
+patents?
+
+What would happen then? Well let\'s play that tape for a little bit more
+because I think at last calculation 43% of the US currency is actually
+owned by the Chinese, because we are very fond of debt. We\'re extremely
+fond of debt, so much so that we\'ve sold our currency to the Chinese
+and they currently own our debt.
+
+Now add to that the fact that they also have a lot of people and a lot
+of resources to call into question the due process of all bad patents.
+Guess what happens. Who wins? I\'m gonna submit to you that everybody
+loses.
+
+### Dupe \... {#dupe_...}
+
+The economic consequence of bad patents is not provincial, and as much
+as people wish it was provincial, they are unfortunately losing the
+argument around the tree and letting the forest burn. Because let me
+tell you in practical terms what is happening.
+
+The Chinese government right now, through the National Development
+Reforms Committee or NDRC, has actually commissioned a study to look at
+the enforceability of US and European patents. And they\'re diddling
+around a very interesting moral argument.
+
+Approximately seven years ago, the Chinese Central Committee and the
+People\'s Congress authorised in a contract form, when the State
+purchases technology from a foreign interest \--and that was anyone
+non-Chinese\-- that they actually mandated that there was a technology
+transfer agreement that included transferring all enabling technologies
+and all enabling know-how that actually support the technology that was
+purchased for 1.2 billion dollars from ABB, or from Siemens, or from GE,
+or from anybody else.
+
+Well, the funny thing is that the companies \--and they\'ve gone on
+public record to saying this\-- they figured the Chinese weren\'t smart
+enough to figure out what patents they really had, so they sold the
+Chinese second rate goods.
+
+And lo and behold, if you look at the patents that they transfered \--in
+the rare instances where they actually complied with their contractual
+obligations\-- the patents that they transfered weren\'t very good. And
+they went on public record saying that.
+
+### \... and be duped {#and_be_duped}
+
+Well, the funny thing is the Chinese aren\'t very fond of being duped.
+And these are billion dollar a piece contracts: this is maglev trains
+out of a series of train consortiums in France and Belgium and Germany,
+these are big patents on energy systems that are also from France and
+Germany and all kinds of neighbouring places around here.
+
+And while I\'m not going to name names of companies, go online and type
+in \"Chinese technology transfer\" and you\'ll find on Google or any
+other search engine all of the companies I\'m referring to. Well here\'s
+the nasty little secret: guess who\'s target number one for the Chinese
+to look at the integrity of their patent portfolios?
+
+The very people who failed to transfer what they were contractually
+obligated to transfer in technology transfer. Now what\'s the economic
+consequence of this? Cancellation of billion dollar contracts. Failure
+to be able to bid on the Three Gorges Dam projects.
+
+Does this have economic consequences, Ladies and Gentlemen? Is this an
+esoteric dialog that we should just sit there and casually let happen?
+Or does it actually matter? And the fact of the matter is: it matters.
+
+And the best part of all is the Beijing embassy recently, when
+interacting with a certain very large corporation that\'s a
+multinational that goes by a two-letter acronym but I can\'t mention
+their name \--one of the letters is a consonant, one is a vowel, in that
+order, but I can\'t mention their name\--, when that certain company was
+bidding on a very large Nepalese train project, they actually ran into a
+very informed Chinese government, that actually said
+
+`"We have to make sure that your patents actually are certified, and that the transfer`\
+` does actually occur out of the state of the art of your portfolio, not what you tell us`\
+` you might want to give us"`
+
+What happens if the balance of power actually leverages the very broken
+system that we currently have? Well, the answer is very clear. I told
+you this is the future, but I\'m telling you the future because it
+already happened. What already happened is that a very large
+multinational corporation that wins every time, lost.
+
+### Economic consequences {#economic_consequences}
+
+Now, why do I say this in a conference about software patents? I say it
+for very clear reason: the integrity of this debate, loses considerable
+integrity, when it fails to call for an accountability standard that is
+universally applied.
+
+Let me say that again. The integrity of *this* debate, loses its *own*
+integrity when it fails to call for accountability in the system. I was
+just told by members of Parliament that they had never heard in the
+software debate discussion talk about the chilling economic
+consequences.
+
+Now you know what? I think they\'re lying to me. But you know what else?
+They don\'t hear it often enough. And they don\'t hear it articulated in
+real data terms, with real substantive information. What they hear is
+the hearsay of \"My poor little friend, or my poor little nephew or
+brother or sister or whoever else, is sitting at his computer and he\'s
+very afraid that Microsoft is gonna crush his business\".
+
+Well the fact of the matter is, that\'s not the economic consequence
+that we should be discussing. Because that economic consequence is
+something that no administration in any government is gonna get. What
+they will get, is real economic data that is really substantive.
+
+If this organisation, or the organisations that support the initiatives
+about making sure that software patents are actually reigned in
+appropriately, wants to succeed, you succeed where the money is. And you
+succeed by presenting the economically compelling case that suggests
+that this is not by inference.
+
+That the overall system overhaul is something that is going to benefit
+the software interpretations, but it will also benefit the general
+system of encouraging the use of applicability of invention standards
+that will be uniformly applied across the border.
+
+### The ethernet plug {#the_ethernet_plug}
+
+Now where does all this take us? Where this takes is us is where my
+business intersects with patents quite often. We deal with the universe
+of trying to deconstruct and demystify what is the delightful ambiguity
+in the patent context and let me just give you one very short example:
+the patent for the ethernet plug.
+
+Some of you are familiar with what I talk about when I mean the ethernet
+plug. That wonderful little thing that actually looks like a phone plug,
+just a few extra more little spiky things on them. There currently are
+683 patents in force covering\... the ethernet plug. Not the use of it,
+the plug.
+
+That means every time any of you actually plugs that thing into the
+wall, there\'s an outside chance that you\'re actually infringing when
+you even plug your computer into the ethernet plug, much less do a
+goddamn thing with your ethernet once you get it hooked up.
+
+You actually don\'t have a place to start. You can\'t plug a computer in
+without infringing a series of patents on plugging your computer in.
+Now, the funny thing about a plug is how did the plug patent get issued?
+Well, the Taiwanese company that figured out they wanted to knock off
+the plug patent first, called a plug \--and I\'m quoting out of the
+patent text\--
+
+`"hermaphroditic matable insertable tongs separated by an insulative surface, that`\
+` allows for the conductance of electrical current"`
+
+That was patentable. The second plagiarism of the patent actually was
+this
+
+`"hermaphroditic matable insertable interlocking tongs, the hermaphroditicly and`\
+` insertable [tongs] exist in an environment that allows for the conductance of`\
+` data"`
+
+Still the plug. And the final piece \--this really dawns right here in
+our own Brussels\--, the patent for the plug here that actually is
+globally in force, is
+
+`"the longitudinally upstanding ribbs, upstanding from said platform with an`\
+` insulative surface and a conductance-avoiding property in that surface that`\
+` prohibits the crosstalk between the electrical surfaces for the conductance of`\
+` electrical information data"`
+
+Now, we\'re debating the merits of software patents when we live in a
+world where \"hermaphroditic matable insertable tongs longitudinally
+upstanding ribbs\" constitute a plug? The degrees of freedom in a plug,
+Ladies and Gentlemen, are two. You\'ve got the insulative surface,
+you\'ve got the prongs. That\'s two degrees of freedom. The third degree
+of freedom is where you shove it.
+
+### (Non-)accountability of the patent establishment {#non_accountability_of_the_patent_establishment}
+
+And until we can inform the debate around the substantive issues that we
+should be calling for, which is accountability at a certain location not
+too distant up the rail line from here in a place called The Hague, or
+if you want to go to Reykjavik or if you want to go to Munich, I don\'t
+care.
+
+If we are not willing to look at 3286 nautical miles from here in
+Washington DC and if we\'re not willing to go 8937 miles to Tokyo, and
+actually confront the integrity problem, which says that we are
+incentivised to issue *garbage*, oddly enough, the floor to which I will
+now yield, to Ian Lewis (ed: from Miller Insurance Ltd), is a floor that
+will never achieve efficiency.
+
+Because the one thing that the financial markets and the one thing that
+the insurance markets and the one thing that public policy cannot
+tollerate, is the sovereign immunity from accountability that exists in
+our patent system. Our patent systems have sovereign immunity from any
+economic consequence and until that reform happens, Ladies and
+Gentlemen, we\'re rearranging deck chairs on the Titanic.
+
+## Q&A
+
+![about whether/how it\'s possible to assess the risk of someone getting
+sued over a patent infringement](Question "wikilink")
+
+The IEEE, which is a fairly well-known publication and organisation,
+commissioned a study 4 years ago to look at [the risk of being sued over
+a patent](assessing "wikilink") and it serves as the core of the now
+growing debate within the US about whether patents actually can be
+legally defined as assets or legally defined as liabilities.
+
+And what we\'re able to do in that particular study with the IEEE is to
+actually show that within 86% clarity of forward projection on a three
+year longitudinal study, we could actually predict based on patenting
+*behaviour*, companies that were going to be named as defendants in a
+lawsuit.
+
+Listen very carefully to what I said: based on patenting *behaviour*, we
+can actually correctly at 86% correct classification, correctly identify
+the companies that will be named as defendants in IP-infringement suits.
+
+The way you do that is by looking at the fact that the patent
+procurement strategies that have been largely promoted by IP-attorneys
+which are these defensive strategies, is a conveniently and politically
+correct way of calling it plagiarism. And if you need to soften that for
+an MEP because they don\'t like words like \"plagiarism\" and
+\"extortion\", you can actually use the term \"conceptualisation\",
+which is a politically correct way to say \"theft of an idea\".
+
+But oddly enough if you actually look at the fact that companies whose
+behaviour is to actually procure IP in this kind of defensive-only
+strategy, what you actually find is rather than creating a defence they
+are actually painting targets on themselves. And we have correctly
+classified that and we\'re going forward: this is now the fifth year of
+the study, and the correct classification is actually going up.
+
+So, yes, you can classify but it\'s not on a patent specific. And
+that\'s a very important point, it\'s not on a patent, it\'s on a
+organisational behaviour of how people handle intellectual property and
+that is what is correctly rated.
+
+So I want to be careful to make sure that you hear the answer: it\'s not
+about looking at a patent in isolation and saying \"Is this patent a
+good or bad patent?\". It is \"Is the patent behaviour behind this
+patent resulting in a increased on decreased risk?\".
+
+So that\'s an empirical point and the first three-year data is
+published, I can get you a reference for that.

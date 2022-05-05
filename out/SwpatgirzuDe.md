@@ -1,0 +1,18 @@
+Describe the new page here.
+
+I just want you to thank for your fighting for us! To be free in every
+way of is one of the most importend right of everyone!!! prometheus1984
+
+I don\'t think we have to mention names here anymore as the network is
+so huge.
+
+swpatag is outdated, hmm?
+
+better refer to our mailing lists and local organisation committees
+
+Bernhard Reiter 20040115:
+
+`Please add a statement where problems in the swpat.ffii.org`\
+`webpages should be reported to. Bigger comments might go into the`\
+`wikis, if people knew that. Technical comments should go somewhere else`\
+`most people will not expect a wiki to be regularily checked by the webmasters.`

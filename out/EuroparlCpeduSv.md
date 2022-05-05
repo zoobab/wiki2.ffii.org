@@ -1,0 +1,2 @@
+kommentarer och/eller förbättringsförslag till den svenska
+översättningen:

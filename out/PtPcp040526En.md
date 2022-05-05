@@ -1,0 +1,33 @@
+Bruno Dias, Member of Portuguese Parliament, PCP, has sent ANSOL four
+documents submitted to the parliament.
+
+One is about Free Software, proposing a white book:
+
+`  Resolution draft over the development of Free Software in Portugal`
+
+<http://www.ansol.org/ansolwiki/IniciativasLegislativasPcpLb>
+
+One is about Free Software and Software patents:
+
+`  Political declaration in plenary about Free Software and patents`
+
+<http://www.ansol.org/ansolwiki/PatentesDeSoftwareArPcpSlPat>
+
+**But most imporantly they demand an explanation to the adjunt minister
+to the Prime Minister, who is responsible for the PT patent office,
+about the dubious actions of INPI**: 19 inquiries with 3 results were
+aledgedly deemed a national consensus and public hearing, and there\'s
+is no official re-opening of the public hearing:
+
+`  Inquiring the government about INPI's role in the process of public`\
+`  discussion of the EC draft directive related to software patents`
+
+<http://www.ansol.org/ansolwiki/PatentesDeSoftwareArPcpInpi>
+
+\... and a **draft resolution to make Portugal change its vote in
+Council to a clear no to software patents**:
+
+`  Resolution draft about the action of Portugal in the process of`\
+`  decision and co-decision in the EC`
+
+<http://www.ansol.org/ansolwiki/PatentesDeSoftwareArPcpSwPat>

@@ -1,0 +1,62 @@
+1.  1.  -\*- dok: karas041208; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# 2004-12-18 AT/EU Karas: \"political agreement of May outdated\" {#ateu_karas_political_agreement_of_may_outdated}
+
+\--\> \[ [ deutsch](Karas041208De "wikilink") \] \[ [
+Karas](OthmarKarasEn "wikilink") \| [ Council
+reversal](ConsRevers04En "wikilink") \| [ News](SwpatcninoEn "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+[ORAL QUESTION
+H-0508/04](http://www2.europarl.eu.int/omk/sipade2?SAME_LEVEL=1&LEVEL=0&NAV=X&DETAIL=&PUBREF=-//EP//TEXT+QT+H-2004-0508+0+DOC+XML+V0//EN "wikilink")
+
+for Question Time at the part-session in January 2005
+
+pursuant to Rule 109 of the Rules of Procedure
+
+by Othmar Karas to the Council Subject: Formal adoption by the Council
+of the common position on the proposal for a directive on
+computer-implemented inventions
+
+How does the Council intend to proceed with regard to the adoption of
+the common position on the proposal for a directive on
+computer-implemented inventions, in the light of the fact that the
+Polish Government has stated that it is unable to support the current
+proposal, the new weighting of votes introduced by the Treaty of Nice is
+now in force and therefore without Poland\'s agreement the necessary
+majority in favour of adoption of the common position on the basis of
+the political agreement reached by the Council on 18 May is no longer in
+place, and in the light of the fact that the Netherlands Parliament is
+calling for the approval given for the common position to be withdrawn
+and of the fact that all four political groups in the German Bundestag
+are calling, in an inter-party motion for a resolution, for a number of
+amendments to be made to the text of the directive.
+
+Is the Council aware that this fragile agreement also completely ignores
+the position of the European Parliament?
+
+------------------------------------------------------------------------
+
+Press release text:
+
+\"The planned directive on software patents no longer has a majority in
+the Council. The political agreement of May is outdated - after the
+coming into force of the new vote weighting function stipulated by the
+Nice treaty and the changes of position in Poland, the Netherlands and
+Germany\", said Mag. Othmar Karas, MEP of the Austrian People\'s Party
+(ÖVP), Vice President of the European People\'s Party (EPP) in the
+European Parliament.
+
+In urgent appeals to the Council, Karas points out that it is highly
+undemocratic to ratify a position that is not backed by a qualified
+majority on the date of official decision. \"Under the changed
+circumstances, the Council has a hard time justifying its attempts to
+turn the May position to a common position\" Karas said in an inquiry to
+the Council, which he published in a [press
+release](http://www.othmar-karas.at/ok.php?ok=new_presse_zeigen.php&id=226 "wikilink")
+on wednesday.
+
+See also the [ German version](Karas041208De "wikilink").

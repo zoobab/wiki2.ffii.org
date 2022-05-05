@@ -1,0 +1,2 @@
+<http://lists.ffii.org/mailman/listinfo/ro-parl/> is **not yet
+existing**, write to buero at ffii.org if you want to become admin.

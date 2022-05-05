@@ -1,0 +1,156 @@
+# 2005-10-20 Mail to FFII Supporters announcing GA and calling to support Florian\'s campaign {#mail_to_ffii_supporters_announcing_ga_and_calling_to_support_florians_campaign}
+
+-\> \[ [ Feedback system](FeedbackEn "wikilink") \| [
+Priorities](FfiiprojPriorEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*We need to write to our supporters once more, informing of the General
+Assembly of Nov 29th in Brussels, of our support for Florian\'s campaign
+to be elected \"European of the Year\", and of the problems we are
+currently facing.*
+
+## Board decision to support Florian\'s campaign {#board_decision_to_support_florians_campaign}
+
+This has been proposed by phm and ehj and endorsed by gibus, lac and
+jmaebe so far. This means we already have a majority.
+
+## Message from the Board at the end of Florian\'s mail {#message_from_the_board_at_the_end_of_florians_mail}
+
+The following has been proposed:
+
+` The FFII's Annual General Assembly will be held in Brussels on 29 November`\
+` 2005, that is on the day of announcement of the result of the "European of the `\
+` Year" vote.  The assembly will be in the afternoon.  Surrounding events will `\
+` begin at 12.00 and end at 22.00.  We will soon contact you again with more`\
+` specifics. For now, please make a note in your calendar if you plan to attend.`
+
+One could add that the board has unanimously decided to endorse
+Florian\'s campaign to be elected as European of the Year.
+
+Another variant would be a PS by Florian himself:
+
+` P.S.: After an unusually long period of silence (in terms of emails like`\
+` this), you are soon going to receive an email from the Board of the FFII.`\
+` The FFII will announce this year's General Assembly, which is going to take`\
+` place in Brussels on 29 November.  If you plan to attend, please make a note`\
+` in your calendar!`
+
+### Prelimary Agenda for 2005-11-29 {#prelimary_agenda_for_2005_11_29}
+
+??
+
+-   28 mon
+-   29 tue
+    -   -   ?? EV50 ceremony ??
+        -   ?? GA ??
+        -   ?? Champaign for Creativity ??
+-   30 wed
+
+### EV50 voting recommendations {#ev50_voting_recommendations}
+
+-   <http://www.nosoftwarepatents.com/en/m/ev50/vote.html>
+
+Texts (and banners) are online in many languages and waiting to be
+placed on more FFII sites.
+
+We still have more than three weeks to go until the end of the poll.
+
+## Florian\'s letter draft {#florians_letter_draft}
+
+SUBJECT: Please vote against software patents in \'EV50 Europeans of the
+Year\' poll
+
+[It could be trimmed down to just \"EV50 Europeans of the Year poll\" if
+it\'s sent from the usual FFII sender address, but if it\'s mine, then
+the first part helps make the swpat context 100%
+clear.](It_could_be_trimmed_down_to_just_"EV50_Europeans_of_the_Year_poll"_if_it's_sent_from_the_usual_FFII_sender_address,_but_if_it's_mine,_then_the_first_part_helps_make_the_swpat_context_100%_clear. "wikilink")
+
+Dear Supporters of the FFII,
+
+The FFII has kindly enabled me to contact you with this campaign message
+on my own behalf. That is just the latest in a long line of ways in
+which the FFII has supported my efforts.
+
+Please consider voting for me (and other candidates who I recommend) in
+the public Internet poll for the \"EV50 Europeans of the Year\" awards,
+the most prestigious series of awards in EU politics. It would send a
+strong message to politicians, the press and the public if a vocal
+opponent of software patents were elected as the new \"European of the
+Year\". We can simultaneously ensure that a couple of our political
+allies, especially Michel Rocard MEP, also receive awards, while the
+proponents of unlimited software patentability (such as commissioner
+[McCreevy](McCreevy "wikilink")) should come away empty-handed.
+
+The poll is open to the worldwide public (including non-Europeans), and
+the idea is explained on this page:
+<http://www.nosoftwarepatents.com/en/m/ev50/index.html> Specific voting
+recommendations are available on this page:
+<http://www.nosoftwarepatents.com/en/m/ev50/vote.html> Those pages are
+available in more than a dozen languages. You will also find an email
+form on that site, which makes it quick and easy to inform others of
+this campaign, and banners for your website.
+
+Should I win, the FFII will receive the prize money, and will be
+credited in my acceptance speech and a subsequent press release. Credit
+where credit is due.
+
+In addition to the general information that you find on the website, let
+me also say a few things about the unique relationship between the FFII
+and myself.
+
+By participating in an FFII conference in April of last year, I became
+more aware of the political controversy over software patents. By
+subsequently participating in various FFII activities, I realized that
+citizens like us can indeed influence a political debate. With the
+financial support of three corporate sponsors (1&1, Red Hat, MySQL), I
+then founded the NoSoftwarePatents.com campaign as a complement to the
+FFII\'s own website and lobbying. From the conceptual stage on, I
+cooperated closely with the FFII. Without the FFII, I would not have
+become involved, let alone been impactful or successful, in the fight
+against an ill-conceived piece of patent legislation.
+
+About six months ago, I handed the
+[NoSoftwarePatents](NoSoftwarePatents "wikilink").com site to the FFII,
+and if you look at the voting form for the EV50 awards, then you will
+notice that the [NoSoftwarePatents](NoSoftwarePatents "wikilink").com
+name is right next to my name. I\'m running on the
+[NoSoftwarePatents](NoSoftwarePatents "wikilink") ticket, and in the
+name of a website that will, hopefully, be a cornerstone of future FFII
+campaigns in the software patent context.
+
+The FFII and I jointly received this year\'s CNET Networks UK Technology
+Award in the Outstanding Contribution to Software Development category.
+It would only have been fair if we had always been jointly nominated for
+such awards and honors, but even where that is not formally the case,
+it\'s still the way I view it in practice.
+
+For your convenience, here is another link to the voting
+recommendations: <http://www.nosoftwarepatents.com/en/m/ev50/vote.html>
+
+Thank you for considering to lend me your support, and once again,
+thanks to the FFII for everything!
+
+Best regards,
+
+Florian Mueller florian.mueller\@nosoftwarepatents.com
+
+## Reusable textbits {#reusable_textbits}
+
+There are bits of texts here that could be reused:
+
+`   `[`http://wiki.ffii.org/Mueller050922En`](http://wiki.ffii.org/Mueller050922En)
+
+I was wrong about the handover date: 30 March 2005
+
+`   `[`http://wiki.ffii.org/Nsp050330En`](http://wiki.ffii.org/Nsp050330En)
+
+## Links
+
+-   free and open-source software luminaries call on worldwide community
+    to vote against software patents in the \"european of the year
+    2005\" internet poll
+    -   -   [French
+            version:](http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=678 "wikilink")
+        -   [German
+            version:](http://www.nosoftwarepatents.com/phpBB2/viewtopic.php?t=677 "wikilink")

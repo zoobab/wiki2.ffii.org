@@ -1,0 +1,21 @@
+## Rejection
+
+\|\| number \|\| submitter \|\| recommendation \|\| text \|\| \|\| 40 =
+41 \|\| Stroz; Lichtenberger and Frassoni \|\| + \|\|  Rejects the
+Common Position \|\|
+
+The case for rejection is a case against adopting a bad directive. Legal
+uncertainty over whether or not software patents are enforceable is
+better than the certainty that they are, especially since there are
+still other open avenues to structurally attack their validity outside
+this directive project. A bad directive would be very harmful to such
+initiatives.
+
+If the Parliament opts for rejection, it should clearly state it does
+not reject the directive because it is \"against a directive on this
+topic\" or because \"it does not want to be involved in this topic\",
+because Commissioner !McCreevy earlier on said that he would \"respect
+the Parliament\'s wishes\" if they reject it. The message must clearly
+be that the Commission did not do its homework and that the EP cannot be
+expected to build a directive from the ground up. That is the
+Commission\'s job.

@@ -1,0 +1,106 @@
+# FFII: EU-Kommission zaubert zur Patent-Umfrage linientreue KMU-Beiträge herbei {#ffii_eu_kommission_zaubert_zur_patent_umfrage_linientreue_kmu_beiträge_herbei}
+
+\[ [ En](PatConsultPr060710En "wikilink") \| [
+Nachrichten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+Brüssel 10.7.2006. Die EU-Kommission setzte in einer Undercover-Aktion
+alles daran, nach dem Ende der Umfrage am 12.4.2006 \"gefällige\"
+Antworten zu erhalten. So wurden speziell Firmen aus der EU ausgesucht,
+die das Patentsystem benutzten. Diese wurden mit neuen Unterlagen
+ausgestattet und ihnen wurden Spezialisten zur Seite gestellt, die ihnen
+beim Schreiben individueller Antworten halfen. Keine der Firmen, die an
+der Online-Umfrage teilnahmen, bekamen diese Art der Hilfe. War eine von
+den \"unterstützten\" Firmen zu den gleichen Ergebnissen wie der FFII
+gekommen, so stufte die EU-Kommission sie als \"Wissen um das
+Patentsystem ermangelnd\" ein.
+
+------------------------------------------------------------------------
+
+Benjamin Henrion vom FFII, der die Tatsachen aufdeckte, sagt hierzu:
+\"Die EU-Kommission veröffentlichte ihre Vorgehensweise bei der Umfrage
+und auf dieser Basis investierten hunderte von Menschen ihre Zeit und
+ihr Geld, um den Fragebogen zu beantworten. Beim FFII wurden mehrere
+hundert Manntage darauf verwendet, gemeinsame Antworten zu finden, die
+von über tausend kleinen und mittelständischen Unternehmen unterstützt
+werden. Nun haben wir erfahren, dass die Kommission die Regeln geändert
+hat, nachdem die Umfrage abgeschlossen war.\"
+
+\"Sie wählten über 600 !KMUs aus, die dafür bekannt sind Patente, zu
+halten oder in Patentstreitigkeiten verwickelt sind und halfen diesen
+mit Expertenunterstützung bei der Beantwortung. Schlussendlich würdigt
+die EU-Kommission unsere gemeinsame Antwort herab und begünstigt die
+Antworten ihrer eigenen !KMUs.\", führt er fort. FFII-Präsident Pieter
+Hintjens ergänzt: \"Wenn es die EU-Kommission gewünscht hätte, den !KMUs
+mehr Zeit für ihre Eingaben zu lassen, so hätte sie unseren Empfehlungen
+folgen sollen.\"
+
+Während die Umfrage lief, dokumentierte der FFII viele Ungereimtheiten
+bei deren Umsetzung in einem offenen Brief und machte Vorschläge um
+diese Missstände auszuräumen. Hintjens fährt fort: \"Das Verhalten der
+EU-Kommission ist unvereinbar mit ihrer Rolle als neutrale Partei. Dies
+legt einen dunklen Schatten über die Glaubwürdigkeit des ganzen
+Vorgehens und auf jedes Ergebnis, das die EU-Kommission bekannt gibt.\"
+
+Ironischerweise schaffte es die EU-Kommision mit ihren Beispielantworten
+nicht, die gleiche Resonanz zu erzeugen, wie es dem FFII mit ihren
+gelang. !KMUs sahen die Gefahr von Softwarepatenten, die mit dem
+Gemeinschaftspatent und dem EPLA europaweit durch die Hintertür
+eingeführt würden. Die EU-Kommission diskreditiert alle !KMUs, die diese
+Meinung teilen und wirft ihnen vor, dass sie das Patentsystem nicht
+verstehen würden.
+
+\"Als Sprecher eines KMU bin ich schockiert, dass ich so viel Zeit
+darauf verwendet habe, dieses Dokument zu analysieren, während einige
+Patent-haltende und nicht produktive Firmen versteckte finanzielle
+Unterstützung von der EU-Kommission erhalten haben, um Antworten zu
+finden,\" kommt Hintjens zu dem Schluss, der beruflich CEO der iMatix
+Corporation ist.
+
+## Hintergrundinformation
+
+Die EU-Kommission nahm Kontakt zu über 170 Europäischen
+Informationszentren (!EICs) in über 19 Ländern auf, um KMU zu finden,
+die ihren erwünschten Kriterien (derzeitige oder zukünftige Nutzung des
+Patentsystems oder Verstrickung des SME in Patentstreitigkeiten)
+entsprachen. Die gefundenen Firmen wurden zu einen Präsentation zu
+diesem Thema eingeladen und füllten entweder selbst im Anschluss ihre
+Fragebögen mit der Unterstützung von Spezialisten für \"geistiges
+Eigentum\" aus oder ein EIC trug die Antworten für sie während einen
+Telefongespräches ein.
+
+## Verweise
+
+-   Anordnungen der Kommission und Dokumente an die !EICs
+    <http://wiki.ffii.org/SmePanel0607En>
+-   FFII Offener Brief bezüglich Konsultationshürden
+    <http://consultation.ffii.org/Open_Letter>
+-   FFII Patentkonsultationsdokumentation
+    <http://consultation.ffii.org/>
+-   Online-Quelle dieser Mitteilung
+    <http://wiki.ffii.org/PatConsultPr060710De>
+
+## Kontaktmöglichkeiten
+
+FFII Medienteam
+
+`media@ffii.org`
+
+Englische und französischsprachige Auskünfte erteilt
+
+`Benjamin Henrion`\
+`FFII Büro Brussel`\
+`+32-2-414 84 03 (Festnetz)`\
+`+32-484-56 61 09 (mobile)`\
+`bhenrion@ffii.org`
+
+## Über den FFII {#über_den_ffii}
+
+Der FFII ist ein in München eingetragener gemeinnütziger Verein für
+Volksbildung im Bereich der Datenverarbeitung. Der FFII unterstützt die
+Entwicklung öffentlicher Informationsgüter auf Grundlage des
+Urheberrechts, freien Wettbewerbs und Offener Standards. Über 3000
+Firmen und 90000 Individuen haben den FFII mit der Vertretung ihre
+Interessen im Bereich der Gesetzgebung zu Software-Eigentumsrechten
+beauftragt.

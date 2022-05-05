@@ -1,0 +1,31 @@
+Hints for demo/event organizers.
+
+Question: How \"big\" should the event be? - There is no definitive
+requirement, you might want to make it very small (eg invite one MEP to
+a company) or larger (a demonstration). You also might just shamelessly
+\"hook up\" sth existing. It should be in May/June (preferably before
+the European election).
+
+Question: what is the rms tour? - Stallman agreed to help with raising
+awareness for swpat with a tour via Warsaw, Prague, Vienna, Linz,
+Bratislava, Szeged.
+
+Question: Where can I get t-shirts, webshop flyers and so on? - You can
+find some things <http://plone.ffii.org/prmat>. On that page you see,
+that webshop posters and t-shirts can be ordered from Fabien. You can
+print out flyers locally (in your favorite language).
+
+Question: I have questions on finance? - Write to konto ATT ffii DOT
+org.
+
+Question: Can I write to x thousand Call for Action supporters in my
+region? - Write to ccorn ATT ffii DOT org.
+
+Question: Do you have \"invitation letters\" ready? -
+<http://plone.ffii.org/events/2004/bxl04/invit/>
+
+Question: General helpdesk? - proj-help ATT ffii DOT org,
++49-174-7313590 (if it is not put off I\'m not sleeping\...) or irc
+channel
+
+1.  1.  bxl-ffii irc.debian.org (freenode)

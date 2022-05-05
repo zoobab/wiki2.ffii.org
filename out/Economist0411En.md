@@ -1,0 +1,59 @@
+1.  1.  -\*- dok: swpatcnino; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# The Economist magazine, 2004-11-11 {#the_economist_magazine_2004_11_11}
+
+\--\> \[ [ Patent News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+The Economist this week ran both an article and an editorial, lamenting
+the state of the patent system across the world, and urging reform. The
+[editorial](http://www.economist.com/displaystory.cfm?story_id=3376181 "wikilink")
+is available to all online. The underlying
+[article](http://www.economist.com/displaystory.cfm?story_id=3388936 "wikilink"),
+available to subscribers only, included the following about the current
+debate in Europe:
+
+## Article
+
+### The cost of ideas: It is becoming ever more apparent that the patent system isn\'t working {#the_cost_of_ideas_it_is_becoming_ever_more_apparent_that_the_patent_system_isnt_working}
+
+INTELLECTUAL property is the cornerstone of the modern knowledge
+economy. But one of the main forms of intellectual property, the
+patenta temporary monopoly designed to provide an incentive to
+innovateis increasingly being found wanting, even as the number of
+applications soars at patent offices around the world. America\'s patent
+system has become sand rather than lubricant in the wheels of American
+progress, argue Adam Jaffe and Josh Lerner in a new book, Innovation
+and its Discontents: How our broken patent system is endangering
+innovation and progress and what to do about it (published by Princeton
+University Press). The world\'s patent system remains splintered along
+national lines, yet the system\'s defects are felt everywhere.
+
+\...
+
+The mission creep of America\'s patent system into more contentious
+areas is also spreading elsewhere. Later this month, the European
+Council of Ministers will discuss draft legislation on harmonising
+policy on computer-implemented innovations. Many small software
+companies in Europe, as well as open-source software developers that
+make non-proprietary software, oppose the initiative. They fear that it
+is a first step towards adopting controversial software patents, already
+awarded in America, which could block different implementations of the
+same features. Were further proof needed that this may not be an
+entirely positive development, look no further than the mighty software
+monopolist, Microsoft, whose chairman, Bill Gates, has called on
+employees to increase the number of patents that the company files.
+
+\...
+
+As these reforms [the USPTO](to "wikilink") are debated, the scale and
+central importance of the patent system are also coming under assault.
+The innovation system is broken in that there is too much emphasis on
+intellectual-property rights, says Suzanne Scotchmer, the author of
+Innovation and Incentives (MIT Press), a book on the role of patents
+to be published soon. More than ever, she says, inventions that would
+otherwise go into the public domain because they are funded by taxpayers
+or charities become cordoned off by the patent system. If so, perhaps
+the patent system not only needs to be repaired, but shrunk?

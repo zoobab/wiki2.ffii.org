@@ -1,0 +1,194 @@
+# Communiqué de presse FFII FR {#communiqué_de_presse_ffii_fr}
+
+## 05/07/04 Les cabinets en propriété industrielle des grandes entreprises et l\'INPI dictent-ils la politique du gouvernement français sur les brevets logiciels ? {#les_cabinets_en_propriété_industrielle_des_grandes_entreprises_et_linpi_dictent_ils_la_politique_du_gouvernement_français_sur_les_brevets_logiciels}
+
+===============================================================================
+
+` Les cabinets en propriété industrielle des grandes entreprises et l'INPI`\
+`dictent-ils la politique du gouvernement français sur les brevets logiciels ?`
+
+===============================================================================
+
+05/07/2004
+
+Pour publication immédiate
+
+**Le « Manifeste pour le brevet » que vient de publier le Mouvement des
+entreprises de France (Medef) reflète étrangement la position prise par
+les ministres français concernant la directive européenne sur les
+brevets logiciels, lors au vote au Conseil de l\'Union européenne le 18
+mai dernier. Les rédacteurs de ce manifeste sont coutumiers du lobbying
+pro-brevets logiciels en France, appartenant eux-mêmes aux services des
+brevets de grandes entreprises et faisant même partie pour l\'un
+d\'entre eux du Conseil d\'administration de l\'Institut national de la
+propriété industrielle (INPI). Si une légalisation des brevets logiciels
+bénéficierait certes à ces « experts en Propriété Intellectuelle », elle
+desservirait les intérêts des entreprises informatiques françaises et
+européennes, remettant même en cause la souveraineté informationnelle de
+l\'Europe, comme le déclarait le président Chirac en 2002 : « Autoriser
+les brevets sur les logiciels mettrait l\'Europe sous la coupe des
+entreprises américaines ». Aussi, la FFII appelle les entrepreneurs
+français à ne pas se laisser abuser par ce manifeste et demande aux
+parlementaires français d\'imiter leurs collègues néerlandais qui ont
+récemment déjugé le vote de leur Ministre pour ne pas laisser la
+démocratie et l\'industrie informatique aux seules mains de ceux qui ont
+un intérêt à ce que la brevetabilité soit étendue à tous les
+logiciels.**
+
+===============================================================================
+
+` Détails`
+
+===============================================================================
+
+Le Mouvement des entreprises de France (Medef) vient de rendre public un
+« Manifeste pour le brevet » \[ 1 \], sensé éclairer les entreprises
+françaises sur les bienfaits économiques et sociaux du système de
+brevets. Lorsque l\'on connaît le pouvoir d\'influence que ce syndicat
+patronal possède auprès du gouvernement français actuel, il nous a paru
+urgent d\'éclaircir ces positions à la lumière des diverses analyses
+produites sur le sujet des brevets dans le domaine du logiciel \[ 2 \].
+
+En ce qui concerne les brevets logiciels, ce « manifeste » du Medef
+prétend :
+
+1.  éclaircir le cadre législatif du droit des brevets et régler les
+    fortes incertitudes provenant du fait que les offices européens et
+    nationaux délivrent d\'ores et déjà des dizaines de milliers de
+    brevets logiciels ;
+2.  interdire les brevets sur les logiciels purs mais permettre ceux sur
+    « les nouveaux procédés techniques ou les produits industriels, même
+    si leur mise en oeuvre fait appel à des moyens logiciels ou inclut
+    un logiciel » ;
+3.  minimiser les impacts de cette brevetabilité, en niant les méfaits
+    sur les logiciels libres, ou par des licences « raisonnables et
+    non-discriminatoires », ou encore en augmentant les moyens d\'examen
+    des offices de brevets.
+
+Ces mesures ne sont pas sans rappeler les explications données par les
+Ministres français immédiatement après la décision du Conseil de l\'UE
+du 18 mai 2004 qui avait annulé les limites que Parlement Européen avait
+imposées à la brevetabilité des logiciels. Mme Haigneré, Ministre
+déléguée aux affaires européennes et Mr Devedjian, Ministre délégué à
+l\'Industrie avaient alors publié un communiqué de presse \[ 3 \] confus
+essayant de justifier leur adhésion à cette décision.
+
+Or cette position n\'est pas étonnante de la part des « experts en
+brevets » du MEDEF qui ont rédigé ce manifeste. En effet, ceux-ci sont
+de longue date de fervents défenseurs des brevets logiciels \[ 4 \]:
+
+-   Christian Nguyen est responsable de la propriété intellectuelle chez
+    Thalès. Prétendant que les brevets logiciels étaient bénéfiques pour
+    le PME, il a déjà déjà déclaré qu\' « il n\'y a pas de spécificité
+    du logiciel par rapport aux autres industries. »
+
+```{=html}
+<!-- -->
+```
+-   Thierry Sueur est vice-président chargé de la propriété
+    intellectuelle à Air Liquide et ancien responsable de la propriété
+    intellectuelle de Thomson Multimédia. Présent dans presque tous les
+    débats et consultations sur les brevets logiciels, il prétend
+    représenter l\'Industrie. Il a déjà déclaré que « tous les logiciels
+    sont brevetables. La brevetabilité est intimement liée à
+    l\'innovation. ». Depuis le 21 avril 2004, il a été nommé « membre
+    du conseil d\'administration de l\'Institut national de la propriété
+    industrielle, représentant les milieux industriels intéressés à la
+    protection de la propriété industrielle. »
+
+On retrouve ces deux auteurs derrière toute la propagande pro-brevets
+logiciels en France. Leurs précédentes prises de position prouvent
+qu\'ils savent parfaitement ce qu\'ils veulent : une brevetabilité
+illimitée du logiciel. Le fait qu\'ils prétendent ne pas vouloir
+breveter les logiciels en tant que tels mais seulement « les inventions
+mises en oeuvre par un programme d\'ordinateur » est le stratagème
+habituel de ceux pour qui cette novlangue désigne en fait tout logiciel
+exécuté sur un ordinateur, c\'est-à-dire **tous les logiciels**.
+
+Le fait qu\'ils fassent étrangement référence au logiciel libre dans un
+document du Medef, tout comme les ministres français, tend à montrer
+qu\'ils agissent volontairement pour orienter les décideurs
+**maintenant** quant à la directive « brevets logiciels ».
+
+On est en droit de se demander si cette belle supercherie, dont les
+auteurs sont coutumiers, n\'a pas directement influencé le vote de la
+délégation française au Conseil des ministres du 18 mai 2004, acceptant
+le « compromis » de la Présidence irlandaise et de la Commission
+européenne satisfaisant ainsi les intérêts des cabinets en propriété
+industrielle des grandes entreprises, mais également les membres de
+l\'INPI, dont on sait que les administrateurs siègent au Groupe de
+travail sur la Propriété intellectuelle du Conseil qui a préparé la
+proposition de « compromis » \[ 5 \].
+
+Il importe que les responsables d\'entreprises informatiques ne se
+laissent pas abuser par cette position mais suivent plutôt les experts
+de leur domaines, tels la CEA-PME, Confédération européenne des
+associations de petites et moyennes entreprises, ou Object Web,
+Consortium pour une architecture d\'intergiciels libres, comptant parmis
+ses membres de grandes entreprises, qui ont tous deux signé récemment un
+Appel urgent aux gouvernements et parlements nationaux \[ 6 \].
+
+Récemment, le Parlement néerlandais a déjugé le vote de son Ministre \[
+7 \] au Conseil du 18 mai 2004. La FFII appelle les députés français à
+faire de même pour ne pas laisser la démocratie et l\'industrie
+informatique françaises aux seules mains de ceux qui ont un intérêt à ce
+que la brevetabilité soit étendue à tous les logiciels.
+
+===============================================================================
+
+` Informations complémentaires `
+
+===============================================================================
+
+\[ 1 \] Manifeste pour le brevet du Medef
+<http://www.medef.fr/staging/site/page.php?pag_id=23548>
+
+\[ 2 \] Analyse détaillée du manifeste par la FFII
+<http://kwiki.ffii.org/index.cgi?Medef040629Fr>
+
+\[ 3 \] Commentaire des ministres français sur leur vote au Conseil de
+l\'UE <http://swpat.ffii.org/log/04/cons0518/fr/brevet.html>
+
+\[ 4 \] Déclarations des auteurs du manifeste du Medef sur les brevets
+logiciels
+<http://www.industrie.gouv.fr/observat/innov/carrefour/tabsyn.htm>
+
+\[ 5 \] Préparation de la position du Conseil de l\'UE
+<http://swpat.ffii.org/papiers/europarl0309/cons0401/index.fr.html>
+
+\[ 6 \] Appel urgent aux gouvernements et parlements nationaux
+<http://swpat.ffii.org/letters/cons0406/index.fr.html>
+
+\[ 7 \] Communiqué de presse sur la motion du parlement néerlandais
+<http://kwiki.ffii.org/?NlVote040701Fr>
+
+===============================================================================
+
+` Contacts média`
+
+===============================================================================
+
+Gérald Sédrati-Dinet sedrati\@bigfoot.com tel. +33 6 60 56 36 45
+
+===============================================================================
+
+` À propos de la FFII -- www.ffii.org`
+
+===============================================================================
+
+L\'Association pour une infrastructure de l\'information libre (FFII)
+est une association à but non lucratif enregistrée à Munich, ayant pour
+objet de promouvoir les savoirs dans le domaine du traitement des
+données. La FFII soutient le développement de biens informationnels
+publics fondés sur les droits d\'auteur, la libre concurrence et les
+standards ouverts. Plus de 400 membres, 1000 sociétés et 60000 adhérents
+ont chargé la FFII de représenter leurs intérêts dans le domaine de la
+législation sur les droits de propriété attachés aux logiciels.
+
+===============================================================================
+
+` URL permanente de ce communiqué de presse`
+
+===============================================================================
+
+<http://swpat.ffii.org/journal/04/medef0705/index.fr.html>

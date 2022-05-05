@@ -1,0 +1,4 @@
+Members of the European Parliament. This page is often linked to by
+mistake within the wiki.
+
+see [SwpateuroparlEn](SwpateuroparlEn "wikilink")

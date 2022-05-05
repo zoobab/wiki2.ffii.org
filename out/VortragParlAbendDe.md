@@ -1,0 +1,57 @@
+1.  acl [TrustedGroup](TrustedGroup "wikilink"):read All:
+
+(Noch veränderliche) Vortragsthemen und -dauern:
+
+Die Gesamtdauer sollte eine Stunde nicht überschreiten. Stefan
+Pollmeiers Vortrag stellt in einer mir (ccorn) vorliegenden
+Folienfassung m.E. eine sehr gute Einführung dar (mit konkreten
+Beispielen und einer Zusammenfassung des bisherigen Geschehens),
+benötigt aber in seiner Vollständigkeit ca. 30 Min. Teile davon lassen
+sich vielleicht profitabel an andere Vortragende abgeben.
+
+Zur Vermeidung größerer thematischer Überlappungen und zwecks
+Zeiteinsparung wäre es gut, wenn diejenigen Punkte, auf welche in den
+Vorträgen näher eingegangen wird und bei denen signifikante
+Überschneidungen zu befürchten sein könnten, in einer Tabelle wie der
+folgenden koordiniert würden:
+
+\|\| Vortrag \|\| H. Pilch \|\| U. Kelber \|\| S. Pollmeier \|\| J.
+Siepmann \|\| \|\| Vortragstitel \|\| ? \|\| ? \|\| Software-Patente:
+Aktuelle Praxis und geplante EU-Richtlinie \|\| Rechtspolitik statt
+Softwarepatente! \|\| \|\| Dauer \|\| ? \|\| ? \|\| 30 Min. \|\| 20 Min.
+\|\| \|\| Pat.kriterien EPÜ/TRIPs/DPatG \|\| ? \|\| ? \|\| Art.52 EPÜ,
+andere erwähnt \|\| Rechtliche Unsicherheit und praktische Auswirkungen
+\|\| \|\| Pat.praxis (Auslegung) \|\| ? \|\| ? \|\| früher, heute (BMBF)
+\|\| nein \|\| \|\| Auswirkungen \|\| ? \|\| ? \|\| akt. Patente,
+Rechtsstreits \|\| ? \|\| \|\| Freihaltungsbedürfnis \|\| ? \|\| ? \|\|
+Kolle 1977, freie/offene SW \|\| ? \|\| \|\| Schutz durch Urheberrecht
+\|\| ? \|\| ? \|\| angedeutet \|\| ja; auch Hinweis auf Würmelings
+Verständnisprobleme; Einlassung von MS im Verfahren vor der
+EU-Kommission beweist, dass UrhG genügt \|\| \|\| Art. 14 GG \|\| ? \|\|
+? \|\| ? \|\| Widerlegung der Behauptung, Softwarepatente folgen aus
+Art. 14 GG \|\| \|\| TRIPS-kompat. Konkretisierung \|\| ? \|\| ? \|\|
+\-- \|\| Exkurs über Auslegung von Verträgen \|\| \|\| Beschreibung der
+Akteure \|\| ? \|\| ? \|\| \-- \|\| nein \|\| \|\| Reformbedarf des EPA
+\|\| ? \|\| ? \|\| \-- \|\| ? \|\| \|\| \"Historie\" der Richtlinie \|\|
+? \|\| ? \|\| EUK, CULT, ITRE, JURI, EP \|\| nein \|\| \|\| Fassungen
+von EUK und JURI \|\| ? \|\| ? \|\| Überblick \|\| nein \|\| \|\|
+Fassung nach 1. Lesung \|\| ? \|\| ? \|\| Verbesserungen, kurz \|\| ?
+\|\| \|\| Vorschlag Technikbegriff \|\| ? \|\| ? \|\| BGH 1980 (ABS)
+\|\| ? \|\| \|\| Vorschlag gewerblich/ind. \|\| ? \|\| ? \|\| \-- \|\| ?
+\|\| \|\| Vorschlag Interoperabilität \|\| ? \|\| ? \|\| \-- \|\| ? \|\|
+\|\| Vorschlag Programmanspr. \|\| ? \|\| ? \|\| \-- \|\| ? \|\| \|\|
+Vorschlag EPA-Struktur \|\| ? \|\| ? \|\| \-- \|\| ? \|\| \|\| Sonstige
+Vorschläge \|\| ? \|\| ? \|\| \-- \|\| ? \|\|
+
+Die Vortragenden werden gebeten, sich abzustimmen, indem sie diese
+Tabelle korrigieren und ergänzen, was auch das Hinzufügen, Aufteilen,
+Zusammenfassen oder Löschen einzelner Zeilen umfassen kann. Kürzungen
+eigener Beiträge können durch entschlossenes Löschen der betreffenden
+Tabellenfelder erfolgen oder durch (Einklammern) ihres Inhalts
+vorgeschlagen werden.
+
+Die Vortragstabelle soll die vorgesehene Themenabdeckung der
+Vortragenden schnappschussartig wiedergeben und dabei helfen, Probleme
+zu identifizieren. Thematische Überlappungen und Zeitprobleme sollten
+also zunächst nicht durch einseitige Zurückhaltung vermieden, sondern
+erst in der Tabelle zum Ausdruck gebracht werden.

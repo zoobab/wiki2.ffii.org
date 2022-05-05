@@ -1,0 +1,3 @@
+Mailing list: <http://lists.ffii.org/mailman/listinfo/fi-parl/>
+
+See also <http://www.effi.org/>

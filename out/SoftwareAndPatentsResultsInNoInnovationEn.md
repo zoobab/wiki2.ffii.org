@@ -1,0 +1,3 @@
+```{=mediawiki}
+{{http://upload.wikimedia.org/wikipedia/commons/2/27/SwPatNoInnovation-GIMP.gif}}
+```

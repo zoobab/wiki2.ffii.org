@@ -1,0 +1,93 @@
+# EICTA asks [MEPs](MEPs "wikilink") to support unlimited patentability {#eicta_asks_meps_to_support_unlimited_patentability}
+
+\--\> [ News](SwpatcninoEn "wikilink"), [
+EICTA](SwpateictaEn "wikilink"), [ Baumann](LeoBaumannEn "wikilink")
+
+------------------------------------------------------------------------
+
+On 9 June, [ Leo Baumann](LeoBaumannEn "wikilink") of [
+EICTA](SwpateictaEn "wikilink") sent a mail to all members of the
+European Parliament, repeating its usual positions and asking
+[MEPs](MEPs "wikilink") to blindly swallow the Council\'s
+counter-proposal of the software patents directive.
+
+Note that more than half of EICTA\'s members are non-European companies,
+so their introductory paragraph is at least misleading.
+
+More information about EICTA can be found
+[here](http://swpat.ffii.org/players/eicta/ "wikilink").
+
+## Text of the email {#text_of_the_email}
+
+` From: "Baumann Leo (LBN)" <xxx at eicta.org>`\
+` Date: 9 June 2004`\
+` To: "Baumann Leo (LBN)" <xxx at eicta.org>`\
+` Subject: EP Elections 2004`\
+` `\
+` `\
+` Dear candidate to the European elections,`\
+` `\
+` We are writing to you on behalf of EICTA, the industry body that`\
+` represents the Information and Communications Technology and Consumer`\
+` Electronics Industry in Europe.  EICTA is composed of 48 major`\
+` multinational companies and 32 national associations from 24 European`\
+` countries. In all, EICTA represents more than 10,000 companies all over`\
+` Europe with more than 2 million employees and EUR 200 billion in`\
+` revenues.`\
+` `\
+` As Europe's citizens approach the forthcoming elections for the European`\
+` Parliament, they expect Parliament to play its role in a European Union`\
+` dedicated to improving the quality of life and accelerating economic`\
+` growth and social cohesion for 450 million Europeans.  These objectives`\
+` can not be met without embracing the digital technologies developed and`\
+` brought to market by EICTA's members including mobile telephones,`\
+` computers, software and consumer electronics devices.   These`\
+` technologies make possible efficient communication, production and`\
+` distribution structures, new e-government services which bring citizens`\
+` closer to public administrations, remote tele-working opportunities and`\
+` flexible work options, new possibilities for life long learning through`\
+` e-learning and broadband communications).`\
+` `\
+` In order to take best advantage of the solutions our sectors are able to`\
+` offer, the right framework in Europe needs to be developed in order to`\
+` stimulate investment in information and communications technologies`\
+` (ICT) and consumer electronic products.  We must encourage companies to`\
+` invest in research and development in Europe and to be able to produce`\
+` and sell at competitive prices and avoid measures which unnecessarily`\
+` increase the prices for digital equipment depriving Europeans of`\
+` affordable equipment and services available elsewhere in the world.`\
+` `\
+` The European Parliament will deal with issues crucial to the development`\
+` of our industry during its next term. Just to mention a few:`\
+` `\
+` - a decision in second reading will be taken on a new framework`\
+` directive, laying down eco-design and energy-efficiency requirements for`\
+` energy using products ("EuP"); it is very important to obtain a`\
+` harmonized European approach that leaves room for voluntary industry`\
+` measures (preferred drive for gaining environmental improvements in`\
+` eco-design) and does not impose too much administrative burden to`\
+` industry and increase prices for consumers;`\
+` `\
+` - the Commission's proposal for registration, evaluation, and`\
+` authorization of chemical substances (REACH) will be discussed in the`\
+` European Parliament in Autumn; issues at stake here: striking the right`\
+` balance between Chemical producers and Downstream users and, in general,`\
+` improving the overall workability of the REACH system;`\
+` `\
+` - the European Parliament will deal with the directive on the`\
+` Patentability of Computer-implemented inventions (CIIs) in second`\
+` reading. It is crucial for companies of all sizes, research institutions`\
+` and individual inventors that adequate patent protection is provided for`\
+` their inventions. We recommend supporting the Council common position`\
+` without imposing further restrictions to the scope of patentability and`\
+` undermining the climate for innovation in Europe.`\
+` `\
+` We hope that we will be able to count on your support and engagement in`\
+` order to find the right solutions to these issues.`\
+` `\
+` Wishing you every success in your election, and looking forward to`\
+` welcoming you to Brussels.`\
+` `\
+`   EICTA`\
+` `\
+` www.eicta.org`

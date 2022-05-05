@@ -1,0 +1,154 @@
+### Ergebnisse zur Patentrecherche im CMS-Bereich (Content Management Systeme) {#ergebnisse_zur_patentrecherche_im_cms_bereich_content_management_systeme}
+
+Details zur Vorgehensweise finden sich unter:
+[CMSRecherche](http://kwiki.ffii.org/index.cgi?CMSRecherche04De "wikilink")
+
+Eine Übersicht zur gesamten Recherche ist unter [
+<http://www.stop-swpat.de/docs/Patente_CMS.pdf>](//www.stop-swpat.de/docs/Patente_CMS.pdf "wikilink")
+als PDF Dokument zu finden.
+
+Weitere Ergebnisse finden sich unter:
+
+-   [ <http://webshop.ffii.org>](//webshop.ffii.org "wikilink")
+-   [
+    <http://wiki.ffii.org/index.cgi?PoliticalMagazinesDe>](//wiki.ffii.org/index.cgi?PoliticalMagazinesDe "wikilink").
+-   [ <http://gauss.ffii.org>](//gauss.ffii.org "wikilink")
+
+### Gefundene Patente/Anmeldungen: {#gefundene_patenteanmeldungen}
+
+Relevant sind europäische Patente (EP). Der Status \"A\" steht für
+Anmeldung, \"B\" für erteilte Patente.
+
+#### Rechteverwaltung
+
+\|\| IBM \|\| US 2004133797 \|\| CONTENT RIGHTS MANAGEMENT SYSTEM \|\|
+\|\| \|\| MATSUSHITA \|\| EP 1358534B1 \|\| INHALTSVERWALTUNGSSYSTEM MIT
+BENUTZUNGSREGELMANAGEMENT \|\| Beschreibt den Umgang mit Benutzerrechten
+beim verschieben von Content von einem System zum Nächsten.
+[DigitalRrightsManagement](DigitalRrightsManagement "wikilink")? \|\|
+
+#### Trennung Funktion/Layout {#trennung_funktionlayout}
+
+\| COREMEDIA AG \| EP 1347394 A1 \| Schema-oriented content management
+system \| bezieht sich auf das getrennte editieren von Content und
+Stylesheet - vermutlich dramatisches Patent, falls zugelassen \|
+
+#### Content spezifisch zur Nutzeranfrage {#content_spezifisch_zur_nutzeranfrage}
+
+\| Vignette \| US 6263332 \| System and method for query processing of
+structured documents \| \| \| Philips \| EP 1384170 A2 \| SEARCH USER
+INTERFACE WITH ENHANCED ACCESSIBILITY AND EASE-OF-USE FEATURES BASED ON
+VISUAL METAPHORS \| Suchmaske für Benutzer mit erweiterter
+Zugänglichkeit \| \| Philips \| EP 200103194 \| METHOD AND APPARATUS FOR
+DEFINING SEARCH QUERIES AND USER PROFILES AND VIEWING SEARCH RESULTS \|
+Methode zum Definieren von Suchanfragen und Nutzerprofilen und zur
+Anzeige von Suchergebnissen \| \| Matsushita \| EP 791883 A3 \| Document
+search and retrieval system with partial match searching of user-drawn
+annotations \| Dokumentensuchsystem mit Teiltreffersuche \| \|
+TECHNISCHE UNIVERSITEIT DELFT \| EP 000001138004 B1 \| METHOD AND
+ELECTRONIC DATABASE SEARCH ENGINE FOR EXPLORING THE CONTENT OF AN
+ELECTRONIC DATABASE \| Methode zum Durchsuchen einer Elektronischen
+Datenbank \| \| Infonautics \| US 5873076A \| ARCHITECTURE FOR
+PROCESSING SEARCH QUERIES, RETRIEVING DOCUMENTS IDENTIFIED THEREBY, AND
+METHOD FOR USING SAME \| Architektur zur Verarbeitung von Suchanfragen,
+daraus resultierender Dokumentenfindung und Methode diese zu nutzen \|
+\| Infonautics \| US 5742816A \| Method and apparatus for identifying
+textual documents and multi-mediafiles corresponding to a search topic
+\| Methode zum Identifizieren von Text- und Multimediadokumenten die zu
+einer Suchanfrage korrespondieren \| \|Hitachi\|EP 0501416 B1\|Verfahren
+und Anordnung zum Registrieren von Textdokumenten und zur
+Dokumentwiederauffindung\|Schnelle Volltextsuche mit einer zuvor
+erzeugten Wortliste\|
+
+#### Speichern von Content {#speichern_von_content}
+
+\| SAP \| EP 1324221 A3 \| Storing data objects either in database or in
+archive \| Speicherung von Datenobjekten in Datenbank/Archiv \|
+\|AT&T\|EP 526034 B1\|Verfahren und Gerät um auf ein rechnergestütztes
+Dateiensystem zuzugreifen\|\|
+
+#### Metadatengenerierung
+
+\| Matsushita \| EP 1396799 A1\| Content Management System \| Es
+beschreibt das Verwalten von \"Nicht-Text\"-Dokumenten (Videos, Musik,
+etc) durch extrahieren von Textinformationen aus selbigen. \| \|
+Documentum \| EP 1309927 A2 \| METHOD AND APPARATUS FOR GENERATING
+METADATA FOR A DOCUMENT \| Methode zum Generieren von Metadaten für
+Dokumente \| \| SAP\|EP 1412883 A2\|BEREITSTELLEN VON HTML-SEITEN DIE
+BENUTZERSCHNITTSTELLENELEMENTE DEFINIEREN DURCH BINDEN VON METADATEN\|\|
+
+#### Generelles
+
+\| Matsushita \| EP 1406175 A1 \|\[EN\] CONTENT MANAGEMENT METHOD AND
+CONTENT MANAGEMENT APPARATUS \| \| \| Siemens \| DE 10232674 A1 \|
+Verfahren zur dynamischen Generierung strukturierter Dokumente \| der
+Titel sagt schon fast alles\... \| \| SUN \| EP 1216442 B1 \| DYNAMISCHE
+VERWALTUNG VON INFORMATIONSINHALTEN, DIE DURCH EINEN INFORMATIONSDIENST
+VERBREITET WURDEN \| \| \| COHESIA CORPORATION \| EP 1196877 B1 \|
+DARSTELLUNG, VERWALTUNG UND SYNTHESE VON TECHNISCHEN INHALTEN \|\| \|
+KABUSHIKI KAISHA TOSHIBA \| EP 0674253 B1 \| Gemeinsame Benutzung eines
+Dateiedierungssystems mit geheimem Dateiinhalt, Versionsverwaltung und
+asynchroner Edierung \|\| \|Siemens\|EP 1199631 A3\|system und Verfahren
+zur Datenvisualisierung durch Internettechnologie\|\| \|IBM\|EP 0747840
+B1\|Verfahren, um Anträge eines Netzbrowsers auszuführen\|Webserver mit
+Perl, JSP, ASP, PHP, etc.\|
+
+#### Content mit Gebührenverwaltung {#content_mit_gebührenverwaltung}
+
+\| TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) \| EP 1383276 A1 \| Management
+system and method for service subscription provisioning \| \| \| Vermeer
+Techn. \| DE 69511425 T2 \| HERSTELLUNGSHILFE FUER ONLINE-DIENSTE MIT
+GEBUEHRENFESTSTELLUNG \| Bezieht sich zunächst nur auf eine
+Entwicklungsumgebung von Online-Gebührensystemen -\> es bestehen
+vermutlich auch Ansprüche an generellem geührenpflichtigem
+Online-Content \| \| Infonautics \| WO 001997010542 A1 \| ROYALTY
+MANAGEMENT IN AN INFORMATION RETRIEVAL SYSTEM \| Verwaltung von
+kostenpflichtigen Angeboten in einem Informationssystem \| \|Canon\|EP
+0538888 B1\|Datenverarbeitungssystem und -methode\|Lesegebühren für
+Webbasierte Anwendungen!\| \| OPEN MARKET, INC. \|EP 0803105
+B1\|VERKAUFSSYSTEM FÜR EIN NETZWERK\|auch ohne Wahrenkorb\...\| \|OPEN
+MARKET, INC.\|EP 0734556 B1\|DATENNETZGESTÜTZTES ZAHLUNGSSYSTEM UND
+VERFAHREN ZUM GEBRAUCH EINES DERARTIGEN SYSTEMS\|\| \|SUN\|EP 0807891
+B1\|Zustandsloser Einkaufswagen für das Netz\|Warenkorb für
+Online-Shop.\|
+
+#### Datenaustausch mit CLient / Nutzer {#datenaustausch_mit_client_nutzer}
+
+\| Apple \| DE 69801816 \| VORRICHTUNG UND VERFAHREN ZUR AKTUALISIERUNG
+UND ZUR SYNCHRONISIERUNG VON INFORMATIONEN ZWISCHEN EINEM KLIENT UND
+EINEM SERVER \| \|
+
+#### Werbung zum Content {#werbung_zum_content}
+
+\| IBM \| US 020040059632 A1 \| Method and system for providing an
+advertisement based on an URL and/or a search keyword entered by a user
+\| Methode zur Anzeige von Werbung passend zur einer URL und/oder eines
+Suchworts \|
+
+#### Benutzerführung
+
+\| BTG (orig. Infonautics) \| US 5,717,860 \| Method and apparatus for
+tracking the navigation path of a user on the world wide web \| Methode
+zum verfolgen des Nutzerweges im WWW \| \| BTG (orig. Infonautics) \| US
+5,712,979 \| Method and apparatus for attaching navigational history
+information to universal resource locator links on a world wide web page
+\| Methode zum anfügen von Navigationsinformation/-vergangenheit zur
+URL-links auf Webseiten \| \| Infonautics \| US 5812769A \| METHOD AND
+APPARATUS FOR REDIRECTING A USER TO A NEW LOCATION ON THE WORLD WIDE WEB
+USING RELATIVE UNIVERSAL RESOURCE LOCATORS \| Nutzerweiterleitung zu
+Webseiten mit relativen [URLs](URLs "wikilink") \| \| DIGITAL EQUIPMENT
+CORP, US\|EP 0335638 B1\|System zur Vereinfachung der
+Tätigkeitkoordinierung bei mehreren Tätern\|Gleichzeitiger Zugriff
+mehrerer User auf beliebige gemeinsame Ressourcen.\|
+
+#### Online Photoservice {#online_photoservice}
+
+\| IWELLCOME \| KR 2003060399 \| SYSTEM FOR ONLINE PHOTO SERVICE \| \|
+\| ICSS CO LTD \| KR 2002000337 \| PHOTO ONLINE SERVICE SYSTEM AND
+METHOD USING INTERNET \| \| \| LYU MIN YOUNG \| KR 2001068106 \| METHOD
+AND SYSTEM FOR INDUCING SUBSCRIPTION OF MEMBER AND ATTRACTING ONLINE
+ADVERTISEMENT VIA DIGITAL COMMEMORATIVE PHOTO AND IMAGE SERVICE \| \| \|
+PARK SANG YOUNG \| KR 2000058669 \| ONLINE SYSTEM AND SERVICE METHOD FOR
+PHOTO DEVELOPMENT AND PRINTING \| \| \| IPAC ACQUISITION SUBSIDIARY I \|
+US 6453361 \| Meta-application architecture for integrating
+photo-service websites \| \|

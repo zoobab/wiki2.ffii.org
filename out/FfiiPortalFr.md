@@ -1,0 +1,171 @@
+# Specification du nouveaux portail www.ffii.org {#specification_du_nouveaux_portail_www.ffii.org}
+
+\--\> \[ [ english](FfiiPortalEn "wikilink") \] \[ [ FFII
+News](FfiinewsEn "wikilink") \| [ Nouvelles Brevets
+Logiciels](SwpatcninoFr "wikilink") \]
+
+------------------------------------------------------------------------
+
+## Objectifs
+
+Pendant la duree du mois de juillet 2004 nexedi.com mettra aux point le
+nouveaux portail ffii.org sur base de [CPS3](CPS3 "wikilink").
+
+Ici nous elaborons les resultats esperees de ce travail.
+
+###### Avis de Bernard {#avis_de_bernard}
+
+Parmi les objectifs les plus importants de notre campagne, la diffusion
+de l\'information me semble primordiale pour au moins deux raisons:
+
+`- montrer, par la qualité des interventions, que notre idée ("les brevets logiciels`\
+`seraient nuisibles à l'Europe, notamment sur le plan économique`\
+`tant pour les producteurs que les consommateurs Européens de logiciels")`\
+`est une "idée vraie" (données, raisonnements...)`
+
+`- montrer, par la quantité des interventions, que notre idée est une "idée force",`\
+`c'est-à-dire capable de mobiliser les gens.`
+
+Le premier point est déjà bien assuré par <http://swpat.ffii.org> , mais
+la politique est un \"rapport de forces\" dans lequel le deuxième n\'est
+pas à négliger. Je pense qu\'il faut essayer de permettre au plus grand
+nombre d\'ajouter sa voix de façon plus tangible et efficace que par la
+signature de pétitions en lignes. Courrier, Fax, e-mails, Forums,
+Formulaires en lignes etc\...
+
+Pour qu\'une personne exprime sa position, il faut plusieurs choses :
+
+`- qu'elle se sente fondée à le faire: cela n'est pas évident sur un domaine perçu comme technique. Il faut donc trouver`\
+`des arguments pour convaincre le plus grand nombre de personne que son opinion mérite d'être diffusée le plus largement possible.`\
+`- qu'elle pense que son effort d'expression sera utile : le résultat encourageant de Septembre 2003 doit servir d'exemple.`\
+`- que l'effort demandé ne soit pas trop important : il faut donc diminuer au maximum cet effort.`
+
+C\'est sur le dernier point que je pense qu\'il faut faire quelque
+chose.
+
+Il faut un site sur lequel le visiteur puisse trouver de quoi exprimer
+nos idée le plus facilement et le plus efficacement possible. Il faut
+donc l\'aider sur les deux points de son message :
+
+`- le destinataire`\
+`- le contenu`
+
+Je les ai listé dans cet ordre car il me semble essentiel d\'adapter le
+contenu du message au destinataire. Comme l\'objectif est de permettre
+l\'émission d\'un message efficace, et donc personnel et personnalisé
+(et non pas une lettre type), il faudra aussi prendre en compte
+l\'identité du visiteur pour l\'aide à la rédaction du contenu.
+
+J\'imagine un système dans lequel le visiteur peut se décrire (âge,
+profession, rapport à l\'informatique, la politique,\... tout étant
+optionnel). Pour un visiteur enregistré, ces informations peuvent être
+persistantes. Le visiteur peut ensuite choisir suivant différents
+critère (cible dans (média, politiques, associations), tendance
+politique, mode de contact dans (courrier, fax, etc.), urgence ou non).
+En fonction de ces informations (et d\'une taille approximative de
+document), le système suggère un plan et des \"paragraphes types\" que
+le visiteur est insité à personnaliser. Une fois la lettre réalisée,
+elle est sauvegardée en locale et le visiteur n\'a plus qu\'à mettre son
+vrai nom et l\'envoyer au destinataire dont l\'adresse lui est donnée.
+
+Afin d\'encourager les visiteur par un sain esprit d\'émulation, une
+comptabilité du \"karma\" qui augmente avec le nombre de lettre rédigées
+et envoyées (on fait confiance aux personnes pour envoyer les lettres
+qu\'elles ont pris la peine de rédiger avec l\'aide de notre site).
+
+Bien sûr, la réalisation d\'un tel site est un travail trop important
+pour un petit groupe de personnes et c\'est pourquoi il faut que le site
+puisse être géré de façon collaborative. D\'où le CMS.
+
+Pour les cibles, il me semble y avoir deux types de cibles:
+
+`- les politiques et les médias`\
+`- les scientifiques (informatique mais aussi économie, politologie, sociologie politique & économique  ...)`
+
+Les premiers sont les seuls à être sensibles à l\'effet de masse (cf.
+\"idée force\" + haut), c\'est pourquoi ils me semblent la principale
+cible. Les seconds ne devraient pourtant par être négligés, car ils
+pourraient apporter une caution importante à notre action. Mes premières
+tentatives de contact se sont révélées décevantes, mais j\'ai contacté
+un peu au hasard. Je pense cependant que notre action politique pourrait
+intéresser des chercheurs en politologie de part la disponibilité d\'une
+grande quantité de données sur celle-ci.
+
+Chaque cible sera identifée par :
+
+`- un nom`\
+`- un type de contact (parmi Courrier, Fax, e-mails, Forums, Formulaires en lignes etc.)`\
+`- un contact (l'adresse courrier, le n° Fax etc.)`\
+`- un type (parmi Député Européen, Ministre, Député, Elu Local, Parti Politique, Média (sous types?), Association )`\
+`- un alignement politique (trouver des qualificatifs) `
+
+Chaque fragment d\'argument sera identifié par :
+
+`- Taille en nb de caractères`\
+`- Connaissance pré-requise du pb`\
+`- type d'argument (économique, philosophique, politique)`\
+`- un alignement politique (même liste à définir que plus haut)`
+
+Un ou plusieurs plan(s) sont proposés. Par exemple, basé sur un plan
+type \"lettre de motiviation\" (Je, Vous, Nous).
+
+`- "Je" : Présentation de la personne établissement le contact (en fonction des informations que le visiteur a donné sur lui), suivi d'une présentation de la FFII et de notre problématique.`\
+`- "Vous" : Rappel sur la cible mettant en avant l'angle sous lequel elle est concernée par notre problématique.`\
+`- Argumentaire : Exposé des arguments les mieux adaptés à la cible pour défendre notre point de vue.`\
+`- "Nous" : Ce que nous attendons de la cible, éventuellement avec une synergie ou au moins un feed-back de notre part (compte-rendu aux membre de l'action (par exemple prise de position) effectuée par la cible.`
+
+Voir les [CasDUtilisations](CasDUtilisations "wikilink").
+
+## Moyens
+
+**ffii.fr** : Serveur hébergé en salle blanche. Pour l\'instant, la BP
+est de 512/512 Kb/s et nous pouvons vous fournir qques gigas. La machine
+est un simple rack 1U PIII 1,2 Ghz, 256 Mo de ram sous Debian Linux avec
+apache+mod_ssl+mod_php+moteur de servlets, le tout en chrooté. Nous
+avons 4 DNS et nous pouvons nous occuper d\'une partie de
+l\'administration. Pour la réservation du nom de domaine, compte 20  HT
+(pour un .fr)
+
+## Idées
+
+**Avis de Yann** : Ne serait-ce pas une idée de faire une partie
+\"avancement du lobbying\" qui nous permettrait de lister les personnes
+contactées (positivement ou pas) ainsi que les avis exprimés, et de
+lister les actions menées. Celà permettrait de mener une campagne
+d\'information organisée. De plus, les visiteurs pourraient mesurer
+l\'étendue de l\'engagement, gage de conviction. Ajouter unse section
+listant exhaustivement les avis de chercheurs, politiques ou autres
+concernant leur oposition aux brevets logiciels ainsi que leurs
+arguments. On profiterait ainsi de l\'effet \"Ah mais si
+`<machin>`{=html} pense ça, il doit bien avoir une bonne raison\". En
+faisant ça, je pense un peu à ce qui avait été fait lors de la demande
+du droit à l\'avortement (la signature de 500 femmes connues).
+
+**Commentaire de Bernard** : Tout à fait. Il faudrait indiquer, pour
+chaque contacts, quelle est la réponse obtenue. Pour certains des
+contacts, je pense qu\'il pourrait être intéressant non seulement de
+permettre d\'accéder à leur engagement (type de mise à disposition
+\"pull\" ou il faut aller chercher l\'information) mais aussi le
+**publier** (type de mise à disposition \"push\" comme la publicité).
+Plutôt que d\'avoir un ensemble de sites sympathisants qui, pour un
+court laps de temps, mettent une page de garde qui envoie vers le site
+de la FFII, pourquoi ne pas demander à ces sites d\'avoir, pendant plus
+longtemps, une espèce de bandeau de \"pub\" qui mette en avant un
+contact qui s\'est engagé. Cela pourrait être un bandeau du genre
+\"Libération publie un article de qualité sur lutte contre les brevets
+logiciels\", \"L\'UMP s\'engage contre les bevets logiciels\". La
+promesse d\'une telle \"publicité\" gratuite pourrait avoir un effet
+incitatif sur les contacts.
+
+**Commentaire de Yann** : Tout à fait intéressant comme principe. Comme
+les média feignent de ne pas nous voir, c\'est à nous à faire en sorte
+d\'être incontournable! De plus, cette médiatisation \"gratuite\"
+pourrait amener certains à prendre position publiquement. Plutot que
+d\'en faire des sympathisants, on les transforment en porte drapeau, ce
+qui aura le double avantage de nous faire entendre et d\'obliger la
+personne à respecter son engagement. Je suis franchement pour!
+
+Autre avis (de \*Yann\*): le principe du wiki est bien pour crystaliser
+une pensée ou un synthèse, mais il serait bien qu\'il existe un système
+de forum à thèmes permettant à tout un chacun de s\'exprimer sans pour
+autant rentrer dans un système d\'édition de page.

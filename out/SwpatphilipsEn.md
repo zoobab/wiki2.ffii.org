@@ -1,0 +1,62 @@
+1.  1.  -\*- dok: swpatphilips; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+-\> \[ [ Buy Fair!](SwpatphilipsEn "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Philips owns a large portfolio of broad and trivial patents on
+algorithms and functionalities, mostly in connection with sound and
+image processing. Philips has been using this portfolio to charge levies
+on DVD players. Patents seem to have become an important part of the
+otherwise often bulky and uncompetitive business of Philips. The
+managment of Philips has allowed and encouraged its patent lawyers to
+lobby for software patents in Europe more aggressively than most other
+companies, openly using lies and blackmail against governments as their
+favorite tactic. The Dutch government seems to be completely obedient to
+Philips.*
+
+## News & Chronology {#news_chronology}
+
+-   2005-03-02 NL [ Philips spreads FUD in Dutch
+    Parliament](Philips050302En "wikilink")
+-   2005-02-05 EU [DM Europe: Philips patent lawyer attacks EPO patent
+    awards](http://www.dmeurope.com/default.asp?ArticleID=5865 "wikilink")
+    (but [ Philips](SwpatphilipsEn "wikilink") distances itself)
+
+## Background Information {#background_information}
+
+More about public blackmail and lies of Philips can be found at
+
+-   <http://www.webwereld.nl/nieuws/19599.phtml>
+
+Here are some translated excerpts:
+
+` Philips threatens to stop developing software in Europe if it does not`\
+` become possible to obtain software patents.`
+
+` This weekend in the "Algemeen Dagblad", the electronics giant`\
+` threatened to move its software development to America and Asia. "By`\
+` obtaining patents, you are able to make money as developer of`\
+` software, which then can be invested again in new software", thus Hans`\
+` Streng, president of the board of Philips Software, in the "Algemeen`\
+` Dagblad".`
+
+They already said they will migrate their research to Asia anyway in
+other articles (without even mentioning software patents):
+
+-   <http://www.chinadaily.com.cn/english/doc/2004-12/02/content_396591.htm>
+
+Philips\'s software patents are as stupid as all the other ones. I\'ve
+gone through some of their applications recently (with Gauss) and I
+found applications for a speaking avatar (with random eye blinks) and
+recognizing a company name in a speech stream.
+
+They are constantly complaining about Asian companies but in fact those
+started lawsuits against Philips, because the latter\'s patent fees on
+DVD players are about half of the price of a DVD player in a shop.
+
+Phlips isn\'t \"better\" or more honest in this whole discussion than
+Nokia, IBM, Siemens. In fact they threatened to move production and R&D
+outside the EU if they don\'t get what they are asking for. Publicly.

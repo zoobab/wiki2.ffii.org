@@ -1,0 +1,11 @@
+Amerikanische Zahlen (c\'t)
+`{{http://www.heise.de/ct/01/17/170/bild1.gif}}`{=mediawiki}
+
+------------------------------------------------------------------------
+
+André: Hier müsste dann auch meine Grafik hin. Auf die Zahlen war sie
+bezogen. Evtl überlegen, ob man nicht eine ansprechendere Präsentation
+als diese Zahlenwüste finden kann, z.B. als kommaseparierten Datensatz
+oder Excel-Datei oder !StarOffice-Datei oder Gnumeric Format.
+
+Evtl. lassen sich mit R nette Analysen fahren.

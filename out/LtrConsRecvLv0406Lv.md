@@ -1,0 +1,9 @@
+`> > could you give me a short report about the UC status in Latvia? Is there`\
+`[...]`\
+`> The situation is simple - we have sent a few emails to officials in`\
+`> ministries. Most replied that it is not their responsibility to handle`\
+`> such questions. I am gathering thoughts at how to proceed and I think`\
+`> that I will draft a second letter to the Prime Minister next week to try`\
+`> to get things moving from the top, again. (we got into a 24-hour public`\
+`> discussion of Latvian position after our first leter :) and then it was`\
+`> ignored by the representative :P ).`

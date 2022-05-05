@@ -1,0 +1,114 @@
+arebenti: this is not supporters related or a work forum for \"us\"
+
+Core
+
+-   Mission statement (improve current one) with Grusswort phm
+-   Interests \--\> no as on swpat, it is misleading see Heute Journal
+-   Others about FFII \-- comments with foto celebrating FFII
+
+```{=html}
+<!-- -->
+```
+-   mailing lists
+-   SWpat and busines
+-   Swpat FAQ
+
+Events
+
+-   past events
+-   upcoming events
+
+Support
+
+-   donate
+-   membership
+
+Contact
+
+-   Central Office
+-   Regional
+-   people at FFII
+-   Impressum und Satzung
+
+-\> link as little as possible to other FFII pages, avoid information
+overload.
+
+phm/lac:
+
+-   the EU swpat directive project ([current
+    status](http://europa.eu.int/prelex/detail_dossier_real.cfm?CL=en&DosId=172020 "wikilink"),
+    documentation)
+-   other upcoming EU-related issues and events relevant to EU
+    politicians
+-   who is ffii and what do we want and why do we want it?
+-   how to get involved or support ffii activities
+
+(the mailing lists and their descriptions will be there, I assume? also
+the irc meeting times and channel?)
+
+anonymous:
+
+-   who are we
+-   what do we want
+-   what you can do
+-   upcoming actions & events
+-   news
+
+ronan:
+
+-   Select\...
+    -   -   Home
+        -   Information
+-   Questions\...
+    -   -   Who is involved?
+        -   What can I do?
+        -   Who is my MEP?
+-   Get Involved\...
+    -   -   Keep me informed!
+        -   Join the FFII
+        -   Events
+        -   Resources
+-   Contact\...
+    -   -   Contact us
+        -   Forum
+        -   Donate
+
+blasum:
+
+-   EU swpat directive project (current status, documentation)
+-   Other upcoming EU-related issues and events relevant to EU
+    politicians
+-   Who is ffii and what do we want and why do we want it?
+    -   -   mission
+        -   campaigns
+        -   supporters
+
+`    * some data about number of supporters, members`\
+`    * sponsor page`
+
+-   -   legal
+
+`    * statutes`\
+`    * membership assemblies`
+
+-   -   finance
+
+`    * donation receipts etc`\
+`    * financial report`
+
+-   -   computing
+
+`    * computing contacts`\
+`    * howtos`\
+`    * current infrastructure`
+
+-   Contact\...
+    -   -   Contact us (mail, phone, fax, email, irc) + people at FFII
+        -   Regional contacts (includes mailing lists)
+        -   Donate
+-   how to get involved or support ffii activities
+    -   -   sign the petitions
+        -   special interest groups / projects
+            (patdb,webstyl,legal,amenddb,\...)
+        -   open positions at ffii
+        -   financial support -\> finance

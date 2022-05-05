@@ -1,0 +1,49 @@
+Sehr geehrter Herr Blasum, sehr geehrter Herr Kaindl,
+
+ich würde die Vorlage des Schreibens unter
+<http://kwiki.ffii.org/FishLtrMdb0501De> wie folgt ergänzend formulieren
+(anbei der vollständige Text):
+
+------------------------------------------------------------------------
+
+Sehr geehrte Frau Künast,
+
+`die mittlerweile entstandene Drucksache 15/4403, die von den Fraktionen von`\
+`SPD, CDU/CSU, Bündnis 90/Die Grünen und FDP mehrheitlich getragen wird`\
+`(siehe auch hib-Meldung vom 02.12.2004,`\
+[`http://www.bundestag.de/bic/hib/2004/2004_299/07.html`](http://www.bundestag.de/bic/hib/2004/2004_299/07.html)`) begrüße ich`\
+`prinzipiell sehr. Es stellen sich mir aber folgende Fragen:`
+
+`- Wird Deutschland die Aufforderungen des Bundestags als demokratisches`\
+`Organ und Volksvertretung rechtzeitig in Form eines B-Punktes oder einer`\
+`unilateralen Erklärung geltend machen? Die nächste Ministerratssitzung ist`\
+`bereits am 24. Januar 2005 (siehe unter anderem`\
+[`http://kwiki.ffii.org/Fish0501De`](http://kwiki.ffii.org/Fish0501De)`). Da dieser Punkt dort jedoch sehr`\
+`kurzfristig eingebracht wurde, besteht laut Art 3 der Geschäftsordnung des`\
+`Rates die Möglichkeit, ihn bei Beginn der Sitzung zu streichen.`
+
+`- Wie wird sich das BMJ stellen, es gab hier vor Weihnachten Interesse an`\
+`bzw. Bereitschaft zu Neuverhandlungen  "[...] Dabei werden wir auch die`\
+`inzwischen formulierte Position des Deutschen Bundestages in die Debatte`\
+`auf Ratsebene einbringen. [...]" (siehe auch`\
+[`http://kwiki.ffii.org/Zypries041221De`](http://kwiki.ffii.org/Zypries041221De)`). Oder gilt immer noch die Aussage`\
+`von Dr. Welp "Der Rat ist nicht demokratisch"`\
+`(siehe `[`http://kwiki.ffii.org/Welp041213De`](http://kwiki.ffii.org/Welp041213De)`)?`
+
+`Ich möchte hier ganz klar betonen, daß ich zwar die Entscheidung der`\
+`Fraktionen begrüße, aber das undemokratische (und meines Erachtens`\
+`rechtlich fragwürdige) Verhalten des BMJ und insbesondere auch von Frau`\
+`Zypries in dieser Angelegenheit mehr als bedauerlich empfinde.`
+
+`Sollte die jetzige Regierungskoalition (und speziell das BMJ unter Leitung`\
+`von Frau Zypries) in dieser und in anderen, ähnlich gelagerten`\
+`Angelegenheiten (siehe zum Beispiel Urheberrechtsnovelle) auf nationale`\
+`als auch auf EU-Ebene weiterhin zu ungunsten der Bevölkerung und der`\
+`kleinen und mittelständischen Unternehmen agieren, sehe ich mich leider`\
+`gezwungen, der jetzigen Regierungskoalition im weiteren meine Stimme zu`\
+`versagen und meinen Freundes- Bekannten- und Kundenkreis verstärkt für`\
+`diese Probleme zu sensibilisieren und für eine andere Politik zu werben!`
+
+Mit der Ihnen zustehenden Hochachtung
+
+Werner Karwen \...

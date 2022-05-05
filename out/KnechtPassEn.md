@@ -1,0 +1,23 @@
+# Access to the knecht user {#access_to_the_knecht_user}
+
+\--\> \[ [ mlhtimport](MlhtImportEn "wikilink") \| [
+genba](GenbaEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+## Access
+
+Please ask proj-help at ffii org if you need access to the user knecht.
+
+Some individuals known to have access also (write to the following [
+ffii uid](FfiiUidEn "wikilink") at ffii org:
+
+-   phm
+-   schinski
+-   bkaindl
+-   miernik
+
+Because knecht has the keys for doing a lot of mischief, we must keep
+the number of people with access limited. For simple uses (e.g. for [
+project creation](FfiiprojKreEn "wikilink")) hopefully one of those with
+access will do the work for you.

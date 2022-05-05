@@ -1,0 +1,10 @@
+[ Esta página também está disponível em
+Espanhol](DemoVigo20040509PT "wikilink")
+
+Discussão sobre as novas propostas de patenteabilidade ilimitada de
+software e situação actual da transmissão no contesto de apresentação do
+terminal público de acesso à Indymedia no centro social A Cova dos Ratos
+em Vigo.
+
+Mais informação sobre o encontro em:
+<http://docs.indymedia.org/view/Local/ReuniaoVigo20040508>

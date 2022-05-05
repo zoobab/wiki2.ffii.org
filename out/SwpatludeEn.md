@@ -1,0 +1,1 @@
+\--\> [SwpatkelciDe](SwpatkelciDe "wikilink")

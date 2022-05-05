@@ -1,0 +1,45 @@
+[Swedish patent
+law](http://www.notisum.se/rnp/sls/lag/19670837.HTM "wikilink") recently
+got a bit cleaner when the old \"utgör\"\* (/constitute,form, make/) was
+replaced by \"är\" (/is/):
+
+**Som en uppfinning anses aldrig vad som enbart är**
+
+1.  en upptäckt, vetenskaplig teori eller matematisk metod,
+
+`2. en konstnärlig skapelse,`\
+`3. en plan, regel eller metod för intellektuell verksamhet, för spel eller för affärsverksamhet eller ett datorprogram,`\
+`4. en presentation av information.`
+
+There is no \"as such\" clause in Swedish Law. The header literally says
+\"As an invention is never regarded what alone is\... a computer
+program\". The text is conformant to [EPC
+52.2](http://www.european-patent-office.org/legal/epc/e/ar52.html "wikilink"):
+
+**The following in particular shall not be regarded as inventions within
+the meaning of paragraph 1:**
+
+`(a) discoveries, scientific theories and mathematical methods;`\
+`(b) aesthetic creations;`\
+`(c) schemes, rules and methods for performing mental acts, playing games or doing business, and programs for computers;`\
+`(d) presentations of information. `
+
+-   old version: Som en uppfinning anses aldrig vad som enbart
+    *utgör*\...
+
+------------------------------------------------------------------------
+
+In fact, there actually isn\'t really any difference \"software as
+such\" and \"software.\"
+
+`programs as such = programs as programs`\
+`X1 as such = X1 as X1`
+
+\"such\" is simply a pronoun referring to the last nominal item
+mentioned.
+
+The syntactic context must be preserved when interpreting the phrase.
+Creating a nominal group \"software as such\" and asking what that means
+is the wrong approach. There is no such nominal group in the law at all.
+This is a bit like taking the \"it\" in \"it is raining\" out of context
+and asking what mysterious entity this \"it\" is that is raining there.

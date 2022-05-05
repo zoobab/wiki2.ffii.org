@@ -1,0 +1,104 @@
+1.  1.  -\*- dok: sennheiser05; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Sennheiser\'s trivial patents not threatened by European Parliament {#sennheisers_trivial_patents_not_threatened_by_european_parliament}
+
+-\> \[ [ deutsch](Sennheiser05De "wikilink") \] \[ [
+ZVEI](SwpatzveiDe "wikilink") \| [
+Astroturfing](SwpatAstroturf05En "wikilink") \| [
+Sennheiser](SennheiserEn "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*July 1st, 2005 \-- In a recent media campaign in favour of broad
+patentability of software and business methods, the Siemens-dominated
+German Electronics Industry Association ZVEI has been touting the German
+headphone maker Sennheiser as an example of a company whose existence
+would be threatened if the Parliament does not rubberstamp the practise
+of the European Patent Office in its vote on the 6th of July. Sennheiser
+has been trying to obtain a monopoly on the method of \"searching for an
+available frequency\" in an infrared device, and their board spokesman
+says that without such a broad monopoly Sennheiser no longer stands a
+chance against their competitors from Shanghai.*
+
+According to several articles which ZVEI appears to have planted in
+top-class newspapers by mediation of a prestigious media agency and
+which all quote Sennheiser\'s board member Rolf Meyer, Sennheiser can
+not risk to spend money implementing a functionality in a computer
+program unless they can be sure that they are the only ones who are
+allowed to write such a program. According to Meyer, this is because the
+Chinese work more efficiently. The only chance, according to Meyer,
+consists in shutting down the Chinese competitors before they can
+accumulate enough capital for their operations.
+
+After a simple patent search, FFII has found the Sennheiser patent
+application to which Meyer must have been referring. Meyer was right.
+The claims are indeed as broad as he suggests, and they are surely
+suitable for locking everybody else, including the Chinese, out of the
+market of infrared devices for 20 years.
+
+Nevertheless, however unreasonable Sennheiser\'s claims may be, the [ 21
+cross-partisan amendments](AmPlenPr050701En "wikilink") currently under
+discussion in the European Parliament certainly do **not** exclude them
+from patentability.
+
+## Sennheiser application for monopoly on automated frequency search {#sennheiser_application_for_monopoly_on_automated_frequency_search}
+
+-   <http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=DE10351286&F=0&RPN=WO2005043782&DOC=deb46d24db974e09c38140f9c17920f097&QPN=WO2005043782>
+
+### Main Claim of WO2005043782 (excerpt translated to English by FFII) {#main_claim_of_wo2005043782_excerpt_translated_to_english_by_ffii}
+
+1\. Infrared receiving unit comprising an infrared receiver that
+receives infrared signals and a searching unit that searches for
+infrared broadcasting stations.
+
+### Abstract of WO2005043782 {#abstract_of_wo2005043782}
+
+Disclosed is an infrared receiver unit comprising an infrared receiver
+for receiving infrared signals and a transmitter-searching apparatus for
+doing an infrared transmitter search. Such an infrared receiver unit can
+be used accordingly in an infrared headphone/hearing aid, mobile
+terminal, or interpretation and conference system so as to make it
+possible to do an IR search. Such a headphone/hearing aid allows
+different systems that are based on different modulation frequencies to
+be combined with each other such that the headphones/hearing aids can be
+used in a compatible and universal manner with other systems.
+
+### Claims of WO2005043782 (German original) {#claims_of_wo2005043782_german_original}
+
+1.  Infrarot-Empfangseinheit, mit einem Infrarot-Empfänger (E) zum
+    Empfangen von Infrarot-Signalen, und einer Sendersuchlaufeinheit
+    (SSE) zum Durchführen eines Infrarot-Sendersuchlaufes.
+2.  Empfangseinheit nach Anspruch 1, ferner mit einem Speicher für
+    vorgegebene Frequenzen (FBS) zum Durchführen eines
+    automatischenSendersuchlaufes innerhalb der vorgegebenen Frequenzen.
+3.  Empfangseinheit nach Anspruch 1 oder 2, ferner mit einer
+    Einrasteinheit (EE) zum Einrasten eines empfangenen
+    Infrarot-Senders.
+4.  Empfangseinheit nach Anspruch 1,2 oder 3, ferner mit einer
+    Schaltereinheit (S) zum Freigeben des Sendersuchlaufes.
+5.  Empfangseinheit nach einem der Ansprüche 1-4, ferner mit einer
+    Anzeigeneinheit (AE) zum Anzeigen der durch den Sendersuchlauf
+    erfassten Infrarot-Sender.
+6.  Empfangseinheit nach Anspruch 5, ferner mit einer
+    Codeauswerteeinheit (CAE) zum Zuordnen eines erfassten
+    Infrarot-Senders einer vorgegebenen Applikation.
+7.  Infrarot-Kopfhörer/Hörhilfe mit einer Infrarot-Empfangseinheit nach
+    einem der Ansprüche 1-6.
+8.  Mobiles Endgerät mit einer Empfangseinheit nach einem der Ansprüche
+    1-6.
+9.  Dolmetscher-und Konferenzsystem, mit einer Vielzahl von
+    Infrarot-Kopfhörern/Hörhilfen nach Anspruch 7 und/oder einer
+    Vielzahl von Empfangseinheiten nach einem der Ansprüche 1-6 und
+    Infrarot-Sendern zum Senden von Infrarot-Signalen bei spezifischen
+    Frequenzen.
+10. System nach Anspruch 9, wobei die Infrarot-Sender dem
+    Infrarot-Signal einen spezifischen Code entsprechend der
+    spezifischen Frequenz des Infrarot-Signals hinzugefügt wird.
+11. System nach Anspruch 9 oder 10, mit Mitteln zum Personalisieren
+    eines Infrarot-Kopfhörers nach Anspruch 7 oder einer
+    Infrarot-Empfangseinheit nach einem der Ansprüche 1-6.
+12. System nach Anspruch 9,10 oder 11, mit Mitteln zum Übertragen eines
+    Bedienungs-und/oder Verarbeitungsprogramms an eine Empfangseinheit
+    nach einem der Ansprüche 1-6.

@@ -1,0 +1,90 @@
+1.  1.  -\*- dok: epoffiipr050520; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2005-05-20
+    3.  title: Conférence « PME, logiciels, droit d\'auteur et brevets »
+        co-organisée par l\'OEB et la FFII
+
+# Conférence « PME, logiciels, droit d\'auteur et brevets » co-organisée par l\'OEB et la FFII {#conférence_pme_logiciels_droit_dauteur_et_brevets_co_organisée_par_loeb_et_la_ffii}
+
+-\> \[ [ English](EpoFfiiPr050520En "wikilink") \] \[ [ Conférence du
+1er juin](ConfPr050601En "wikilink") \| [ Actualité des brevets
+logiciels](SwpatcninoFr "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Bruxelles, le 20 mai 2005 \-- La FFII est heureuse d\'annoncer qu\'elle
+co-organisera, conjointement avec l\'Office européen des brevets (OEB),
+une nouvelle conférence sur la politique européenne des brevets
+intitulée : «* PME *, logiciel, droit d\'auteur et brevets », qui se
+déroulera mardi 24 mai. En explorant les expériences et les attentes
+des* PME *en ce qui concerne les brevets sur les inventions mises en
+oeuvre par ordinateur, la conférence consistera en deux sessions où des*
+PME *impliquées, avec des représentants de l\'OEB discutant cette
+question vitale.*
+
+Jonas Maebe, membre du Bureau de la FFII, commente :
+
+`« En organisant sa première journée d'information au Parlement européen`\
+`  plus tôt cette année, l'Office européen des brevets démontre clairement`\
+`  sa volonté de présenter ouvertement et de discuter ses objectifs et son`\
+`  point de vue. L'OEB s'inscrit à nouveau dans cette tendance en organisant,`\
+`  conjointement avec la FFII, une conférence où les acteurs concernés `\
+`  parleront de la façon dont ils rendent leurs entreprises rentables, de ce `\
+`  qu'ils attendent du système de brevets et de l'expérience qu'ils en ont. »`
+
+Le programme est le suivant :
+
+Session 1 : « Modèles d\'affaires dans l\'industrie du logiciel :
+importance de plusieurs types de droits de propriété intellectuelle ».
+Seront dicutées les diverses façons dont les entreprises du logiciel
+peuvent protéger leur investissement.
+
+*Animatrice* : Mme Theodora Karamanli de l\'Office européen des brevets
+
+-   Intervenant 1 : M. Joao Neves, Intraneia
+-   Intervenant 2 : M. Andrea Nikolai, T6
+-   Intervenant 3 : M. Daniel Doll-Steinberg, Tribeka
+
+Session 2 : « Logiciel, droit d\'auteur et brevets : quel impact pour
+les acteurs ? ». Les droits d\'auteur et les brevets seront étudiés plus
+particulièrement du point de vue des entreprises qui utilisent ces
+systèmes, ainsi que les interactions entre les deux régimes.
+
+*Animateur* : M. David Hammerstein, parlementaire européen (Verts)
+
+-   Intervenant 1 : M. Pieter Hintjens, iMatix
+-   Intervenant 2 : M. Häkon Wium Lie, Opera Software
+-   Intervenant 3 : M. Jean-Paul Smets, Nexedi
+-   Intervenant 4 : M. David Sant, Office européen des brevets
+
+Malgré les délais très courts, nous espérons vous accueillir le 24 mai !
+
+## Détails pratiques {#détails_pratiques}
+
+Date :
+
+` 24 mai 2005`
+
+Horaire :
+
+` 14h30 - 17h`
+
+Lieu :
+
+` Renaissance Hotel`\
+` Rue du Parnasse 19`\
+` 1050 Bruxelles`
+
+## Contact
+
+` Erik Josefsson`\
+` erjos@ffii.org`\
+` Représentant de la FFII à Bruxelles`\
+` +32-484-082063`
+
+` David Sant`\
+` dsant@epo.org`\
+` Chef de bureau`\
+` Office européen des brevets`\
+` Bureau de Bruxelles`\
+` +32-2-2741591`

@@ -1,0 +1,2 @@
+Die RSS-Feeds für FFII-Nachrichten können Sie über diesen Link
+erreichen: <http://www.ffii.org/news/rss/index.html>

@@ -1,0 +1,74 @@
+# Anti-software patent campaigner Florian Mueller nominated for the \"Europeans of the year\" awards {#anti_software_patent_campaigner_florian_mueller_nominated_for_the_europeans_of_the_year_awards}
+
+------------------------------------------------------------------------
+
+*Brussels (22 September 2005) Florian Mueller, the founder of the
+[NoSoftwarePatents.com](http://www.nosoftwarepatents.com "wikilink")
+campaign, has been nominated for the most prestigious award in EU
+politics, the \"EV50 Europeans of the Year\". The campaigner, who
+successfully opposed an EU directive on software patents, now has the
+chance to become \"EU Campaigner of the Year\" or even the overall
+\"European of the Year\".*
+
+------------------------------------------------------------------------
+
+The European Voice, a major EU-focused weekly, today started an Internet
+poll in which Mueller runs against such celebrities as Bono Vox (U2),
+Bob Geldof, Harry Potter author J.K. Rowling, and political leaders
+including British prime minister Tony Blair and German chancellor
+Gerhard Schroeder. The poll is open to the public at this address:
+<http://www.ev50.com/poll/>
+
+In a first reaction, Mueller said that he is \"honored by this
+nomination\", but he was quick to share the glory: \"I really owe this
+to all activists and citizens who supported our cause, especially to the
+FFII (Foundation for a Free Information Infrastructure)\". Mueller has
+previously been listed among the \"top 50 most influential people in
+intellectual property\" by Managing Intellectual Property magazine:
+<http://www.managingip.com/default.asp?page=9&PubID=198&SID=525600&ISS=17456&LS=EMS47649>
+
+Software patent critics are also pleased to see that Michel Rocard, the
+European Parliament\'s rapporteur on the software patent directive, has
+been nominated for the \"MEP of the Year\" award. On 6 July, an
+overwhelming majority of [MEPs](MEPs "wikilink") voted 648-32 against
+the EU Council\'s proposal for a \"directive on the patentability of
+computer-implemented inventions\". Campaigners like Mueller and the FFII
+were worried that the proposed legislation would have given software
+patents a much stronger legal status in Europe.
+
+The FFII\'s Brussels representative, Erik Josefsson, was among the first
+to congratulate: \"I\'m extremely proud that Florian Mueller and Michel
+Rocard have been nominated because they represent countless European
+citizens who are concerned over software patents. Hopefully many will
+vote for the two, so that Europe\'s political leaders fully appreciate
+the importance of our cause.\"
+
+Stefan Zickgraf, the managing director of leading SME organization
+CEA-PME, said: \"We are very happy about Florian Mueller\'s nomination
+because we worked very closely and successfully with him and the FFII.
+The way in which small and medium-sized businesses took political action
+against software patents is unprecedented in Brussels, and the result
+should encourage all [SMEs](SMEs "wikilink") to play a more active
+political role in the future.\" CEA-PME (Confédération Européenne des
+Associations de Petites et Moyennes Entreprises) is the Brussels-based
+umbrella organization of 22 member associations from 19 European
+countries, representing in total more than 500,000 small and
+medium-sized enterprises.
+
+The EV50 winners will be announced on 29 November. A gala evening at the
+Palais d\'Egmont in Brussels will be hosted by former European
+Parliament President Pat Cox. The EV50 awards are supported by Belgian
+Prime Minister Guy Verhofstadt. The European Voice is a publication of
+the Economist group.
+
+NOTE: Florian Mueller founded the
+[NoSoftwarePatents.com](http://www.nosoftwarepatents.com "wikilink")
+campaign in 2004 and managed it until March of 2005. He then gave his
+website to the Foundation for a Free Information Infrastructure (FFII),
+the leading European pressure group that opposes the patentability of
+computer programs.
+
+## Contact
+
+Florian Mueller florian.mueller\@nosoftwarepatents.com phone
++49-8151-21088

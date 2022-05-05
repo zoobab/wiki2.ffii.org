@@ -1,0 +1,8 @@
+Persons to remember
+
+Pls try to google whether there are new publications of them
+
+-   John R. Thomas
+-   Reinier Bakels
+-   
+-   

@@ -1,0 +1,24 @@
+Armin von Bogdandy: [Die Überlagerung der ZPO durch das Recht der WTO:
+zum Schutz geistigen Eigentums nach dem Hermès-Urteil des
+EuGH](http://www.jura.uni-frankfurt.de/bogdandy/Hermes.pdf "wikilink")
+
+V. TRIPS und innerunionale Transaktionen
+
+Das TRIPS-Ü hätte den Streitfall nicht erfaßt, handelte es sich um einen
+rein innerstaatlichen Sachverhalt: laut Art. 1 Abs. 3 TRIPS gewähren die
+Mitglieder die in dem Übereinkommen festgelegte Behandlung den
+Angehörigen der anderen Mitglieder. Die Bestimmungen des TRIPS-Ü sind
+fremdenrechtliche Schutznormen und keine Harmonisierungsverpflichtung30.
+An dieser Stelle wird das ambivalente Dreiecksverhältnis von WTO, EU und
+EU-Mitgliedstaaten praktisch relevant: Zum einen sind sowohl die
+Niederlande wie Frankreich Mitglieder der WTO und Partei des TRIPS (da
+ein gemischtes Abkommen), zum anderen sind aber beide Staaten Mitglieder
+der Union, die unter der Rechtspersönlichkeit der EG ebenfalls Mitglied
+der Organisation ist, als solche die Mitgliedstaaten bündelt (Art. IX
+Abs. 1 WTO-Ü), und die auch Partei des TRIPS ist. Nach der bisherigen
+Rechtsprechung hätte es nahegelegen, die EU und ihre Mitgliedstaaten
+materiell-rechtlich in allen Fragen des Binnenmarktes wie ein einziges
+[WTOMitglied](WTOMitglied "wikilink") mit der Folge der
+Nichtanwendbarkeit des TRIPS-Ü zu behandeln31. \[..\] Insgesamt stößt
+das Urteil des EuGH neue Tore auf, läßt die Wege, die die
+Rechtsentwicklung gehen kann, im Vagen.

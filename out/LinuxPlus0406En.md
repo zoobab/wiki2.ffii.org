@@ -1,0 +1,23 @@
+# An Article in Linux-Plus? {#an_article_in_linux_plus}
+
+\--\> \[ [ Media](MediaEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+We have the opportunity to get an article into Linux Plus magazine:
+
+On [LinuxTag](LinuxTag "wikilink") 2004 we talked to Mrs. Strzelczyk,
+the Foreign Market Manager of Wydawnictwo Software. This company
+publishes diverse Linux magazines and also a Linux distribution (Aurox).
+What distinguishes these publications is that they are translated into
+several languages. The magazine Linux-Plus, for example, is published in
+five different languages (Polish, German, French, Spanish, and Czech).
+Accoring to Mrs. Strzelcyk, the software patent issue hasn\'t yet been
+the topic of an article in that magazine. She encouraged us to hand in a
+draft in german and english. Of course, before someone starts writing,
+she/he should check again with Wydawnictwo Software. Also, the contact
+to Wydawnictwo has AFAIK been submitted to a Polish FFII member, so it
+is wise to check that there is no overlap. If you are interested in
+submitting an article, please contact
+[feklee](http://plone.ffii.org/Members/feklee "wikilink") for more
+information.

@@ -1,0 +1,63 @@
+# Copyright vs. Software Patents Comparison {#copyright_vs._software_patents_comparison}
+
+Purpose: Collect statements from an informal discussion that took place
+in 11/2004
+
+# PHM to Stellnack {#phm_to_stellnack}
+
+#### Broadness
+
+`But what i am pointing at is why SWP is automaticly broad.`
+
+They are not. Some are very narrow.
+
+`In many discussions, one of our arguments is that no one wants`\
+`broad patents (exept the owner of such), but to be able to back`\
+`up that you have to be able to explain why they get broad.`
+
+We don\'t have to explain any such automatism, and it doesn\'t exist.
+
+`If we are to use the "auto-broadness" argument we must some`\
+`how be able to explain for a computer illiterate why SWP gets`\
+`automaticly broad.`
+
+An impossible task. They don\'t automatically get broad. Their breadth
+is limited by novelty/non-obviousness.
+
+#### Copyright-based attack? {#copyright_based_attack}
+
+`I think that it is better to attac this from the copyright side,`\
+`where authors get their exclusive right broken, from that side`\
+`we have the law and international treaties on our side.`
+
+We can\'t assume the ffii/beauprez interpretation of these laws/treaties
+to be accepted everywhere.
+
+`I would really appreciate if someone have that magic reasoning,`\
+`that can explain this to, say a person that never ever has surfed`\
+`the internet.`
+
+First of all, it is wrong to demand from us that we prove why software
+is different from patentable objects.
+
+#### Physical vs. Immaterial? {#physical_vs._immaterial}
+
+I forgot to answer to Joaquim before: it is also wrong of us to say that
+if somebody did something in the physical realm he should be entitled to
+a patent. A patent is not a moral category to which someone can be
+titled. It is a specific set of rules whose performance in view of a
+function must be measured. And we as software experts know that it
+doesn\'t perform in our field and we don\'t want it there. The burden of
+proof is then on the other side. If it still isn\'t, we\'d better get
+insist a bit more, giving some examples of how the patent system is
+producing only junk in our field and charging the others to come up with
+the good patents and the reliable rules for producing them. As soon as
+we leave that level and start charging ourselves with unnecessary
+burdens of proof, we have probably lost.
+
+#### Phm\'s Support for Erik {#phms_support_for_erik}
+
+Eric\'s way of putting the things has been fairly well tested in many
+dialogs in Sweden and BXL and he often finds nice metaphors for making
+things understood. (\-\--\> But: Eric uses the broadness argument as a
+key argument, AR)

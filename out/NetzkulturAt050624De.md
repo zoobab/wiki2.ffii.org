@@ -1,0 +1,68 @@
+# Offener Brief von Netzkultur Austria {#offener_brief_von_netzkultur_austria}
+
+\[ [ Nachrichten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*An das europäische Parlament wendet sich netzkultur.at, die
+Interessensvertretung österreichischer Netzkultur-Initiativen, mit einem
+Appell. Das Konsortium weist insbesondere auf die wirtschaftliche
+Bedeutung Freier Software hin.*
+
+## Offener Brief {#offener_brief}
+
+An die österreichischen Abgeordneten zum Europäischen Parlament
+
+Linz, 23.06.2005
+
+Sehr geehrte Damen und Herren,
+
+Rat und Kommission versuchen seit geraumer Zeit die Patentierbarkeit von
+Software auf europäischer Ebene durchzusetzen um damit die Vergabepraxis
+des Europäischen Patentamts nachträglich zu legitimieren.
+
+Der breite Widerstand gegen dieses Vorhaben wird von nationalen
+Parlamenten, dem Europäischen Parlament sowie von Unternehmen,
+Programmierern und der Free Software Community getragen.
+
+Das konsortium.Netz.kultur als Interessensvertretung österreichischer
+Netzkultur-Initiativen spricht sich vehement gegen die Patentierbarkeit
+von Software aus: Die Interessen kommerzieller Software-Unternehmungen
+sind bereits durch das Urheberrecht mehr als ausreichend geschützt -
+eine mögliche Patentierbarkeit von Software würde daran nichts ändern,
+aber zugleich große Rechtsunsicherheiten für Freie Software mit sich
+bringen.
+
+Die Arbeit von Netzkultur-Initiativen ist maßgeblich von der Existenz
+Freier Software abhängig; Die kritische Auseinandersetzung mit
+Medientechnologien und ihren gesellschaftlichen Folgen basiert
+wesentlich auf der Möglichkeit, Medientechnologien mit eigenen,
+selbstorganisierten und von Wirtschaftsunternehmen unabhängigen Mitteln
+zu nutzen. Die Möglichkeit, selbst triviale Mechanismen unter
+Patentschutz zu stellen verunmöglicht diese kritische und
+gesellschaftlich relevante Auseinandersetzung mit Medientechnologien, da
+insbesondere kleinere Initiativen, Forschungsinstitute, Künstlerinnen
+und Künstler einem unabschätzbaren rechtlichen Risiko ausgesetzt werden.
+
+Software-Patente bedrohen nicht nur die Produzentinnen und Produzenten
+von Freier Software, sondern auch all jene, die sich kritisch und
+experimentell mit Technologie beschäftigen.
+
+Wir bitten Sie daher eindringlich, den Argumenten der Gegner von
+Software-Patenten Gehör zu schenken, die Konsequenzen dieser Regelungen
+insbesondere für experimentelle, innovative und kritische
+Netzkultur-Projekte zu beachten und alles in Ihrer Kraft stehende zu
+unternehmen, um Software-Patente in Europa zu verhindern.
+
+### Für das konsortium.Netz.kultur {#für_das_konsortium.netz.kultur}
+
+-   Dion Hämmerle, med-user
+-   Gabriele Kepplinger, servus.at
+-   Wolfgang Reinisch, mur.at
+-   Peter Riegersperger, subnet
+-   Martin Wassermair, Netbase
+
+### Kontakt:
+
+konsortium.Netz.kultur Kirchengasse 4 A-4040 Linz contact\@konsortium.at
+<http://www.konsortium.at>

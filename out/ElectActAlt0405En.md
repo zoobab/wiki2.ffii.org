@@ -1,0 +1,15 @@
+# Drafts to be used {#drafts_to_be_used}
+
+\--\> [ primary page](ElectAct0405En "wikilink")
+
+------------------------------------------------------------------------
+
+need the consent of the European Parliament, and the parliament has
+shown that it can turn bad a bad proposal into a good one, so we have to
+ensure that it does so again in the next reading.
+
+According to Polls, 50% of voters are still undecided.
+
+Please help us to do a good presentation of the current state of
+political parties we can give voters a good impression of what they vote
+for:

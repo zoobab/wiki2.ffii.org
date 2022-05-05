@@ -1,0 +1,79 @@
+1.  1.  -\*- dok: [VeronaUni050526](VeronaUni050526 "wikilink"); lang:
+        en; coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum 2005-05-26
+
+# Professors and Companies Speak against Software Patents in Verona {#professors_and_companies_speak_against_software_patents_in_verona}
+
+-\> \[ [ italiano](VeronaUni050526It "wikilink") \| [
+deutsch](VeronaUni050526De "wikilink") \] \[ [
+Conferences](SwpatpenmiEn "wikilink") \| [
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*On May 26th 2005, a conference on software patents took place at the
+University of Verona. The meeting was co-organised by the University of
+Verona and FFII. Ante Wessels, speaking for FFII, explained that the
+Council needs a strong counter-point from the Parliament in order to be
+able to find a Common Position that really represents its members\'
+will. There were about 50 people, mostly students, some smes, a petition
+was signed. Gregorio Piccoli, a representative of Zucchetti, a company
+with 1500 employees, spoke out against software patents.*
+
+Organization was done by Davide Quaglia !PhD and Prof Vittorio Murino of
+Verona University.
+
+FFII thanks Lorenzo Grespan, who took the initiative for this all.
+
+## Piccoli speech {#piccoli_speech}
+
+Piccoli made a nice joke: he said Einstein used to work for the Patent
+Office, but since then quality has dropped.
+
+## Dalle Vedove {#dalle_vedove}
+
+Professor Giampaolo Dalle Vedove, University of Verona, expressed his
+doubts about software patents.
+
+## Ante Wessels: Council is talking about software patents directive again {#ante_wessels_council_is_talking_about_software_patents_directive_again}
+
+Ante Wessels of FFII/Vrijschrift mentioned the fact that the Council is
+talking about the software patents directive too again, at the end:
+
+` "What most people don't know, the directive is at the moment also being`\
+` discussed in the Council. The Council is talking with the European`\
+` Parliament. What position should the Council take? And, what position`\
+` should members of the Council, like the Italian government, take? The`\
+` Council reached an outspoken common position, in which it does not believe`\
+` any more. There were parliamentary motions in the Netherlands, Germany and`\
+` Poland, there are seven unilateral declarations. The Council should not`\
+` support its common position. Without strong European Parliament amendments`\
+` an extreme directive will become law, an extreme directive in which the`\
+` Council itself does not believe any more. The council has to stimulate the`\
+` European Parliament to make clear amendments to prevent this, to keep the`\
+` lawmaking process going. Without this, within a few months we will have an`\
+` extreme directive."`
+
+-   [Text of the speech by Ante
+    Wessels](http://www.vrijschrift.nl/Members/awessels/verona.pdf "wikilink")
+-   [Presentation of Ante Wessels
+    (pdf)](http://www.vrijschrift.nl/Members/awessels/verona-presentation.pdf "wikilink")
+    ([OpenOffice
+    source](http://www.vrijschrift.nl/Members/awessels/verona-presentation.sxi "wikilink"))
+
+## Organisational Details {#organisational_details}
+
+In case of questions about how to reach Verona or the University, or
+about places to stay overnight near the University, please contact
+Lorenzo Grespan (lorenzo.grespan\@gmail.com)
+
+-   Place and Time: Aula Verde 10-12
+-   To reach the Department of Mathematics, Physics and Natural Sciences
+    via web: <http://www.scienze.univr.it/fol/main>
+-   By car: The address is Strada Le Grazie, 37100 Verona - Italy.
+    Highway exit: \"Verona SUD\", A4 Milano - Venezia.
+-   By train: From the Verona Porta Nuova Train Station: bus no. 21
+    direction \"Palazzina - Borgo Roma\".
+-   By plane: Nearest airport is Verona Villafranca (VRN); cheap
+    airlines land in Milan Bergamo (approx. 1hour from Verona), Venezia
+    Marco Polo and Venezia Treviso (1,5 hour from Verona).

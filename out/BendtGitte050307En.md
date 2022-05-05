@@ -1,0 +1,52 @@
+-\> \[ [ Danish Council performance](Dkparl050308En "wikilink") \| [
+Patent news](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+# A Good Day For Software Developers {#a_good_day_for_software_developers}
+
+*Press release from the* Konservative *party, March 7, 2005, by Gitte
+Seeberg*
+
+Today has been a good day for software developers. The European software
+patent has come one step closer, is Gitte Seeberg\'s opinion.
+
+\"We should all be happy about the decision in EU\'s Council of
+Ministers, even if the opposition in the Danish Parliament tried up
+until the last minute to obstruct the process for all of Europe, says
+Gitte Seeberg.
+
+The Conservative member of the European Parliament makes her statement
+in connection to today\'s majority decision by EU\'s Council of
+Ministers about a common position on software patents.
+
+\"Software patents are absolutely necessary to protect in particular
+small and medium sized enterprises, who would otherwise risk having
+their good ideas and products copied by the large corporations with far
+greater resources for development and marketing. That kind of maverick
+state of affairs is of no help to the European software industry\", says
+Gitte Seeberg.
+
+She is critical of the Danish Social Democrats and the left wing, who
+have tried to derail the entire process.
+
+\"If the left wing had been successful in derailing the process, we
+wouldn\'t have been able to introduce software patents for many years.
+That would have been a setback for the European software industry, and
+for the many jobs in this sector\", says Gitte Seeberg.
+
+She hopes that the Council of Ministers\' proposal will get a positive
+reception by the European Parliament, which is co-legislator on the
+issue.
+
+------------------------------------------------------------------------
+
+Links:
+
+-   [Original press release in
+    Danish](http://www.konservative.dk/modules.php?op=modload&name=news&file=article&sid=2205 "wikilink")
+-   [Screenshot of Minister Bendtsens home page March 7,
+    2005](http://swpat.ffii.org/log/05/cons0307/bendt050307.pdf "wikilink")
+    with link to this press release
+-   [Screenshot of this press release March 7, 2005
+    ](http://swpat.ffii.org/log/05/cons0307/BendtGitte050307.pdf "wikilink")

@@ -1,0 +1,2 @@
+Tato stranka je na adrese
+<http://kwiki.ffii.org/index.cgi?LtrConsRecvCz0406Cs> .

@@ -1,0 +1,140 @@
+# Brief an Politiker {#brief_an_politiker}
+
+## Kritik und Änderungsvorschläge, die berücksichtigt werden sollten, bevor Teile des Schreibens als Vorlage herangezogen werden können: {#kritik_und_änderungsvorschläge_die_berücksichtigt_werden_sollten_bevor_teile_des_schreibens_als_vorlage_herangezogen_werden_können}
+
+### Christan Cornelssen: {#christan_cornelssen}
+
+Nicht, dass es einen großen Unterschied machen würde, aber momentan geht
+es um den Entwurf des Rates, nicht um den der Kommission, und das
+Argument, dass alles technisch und patentierbar sei, wenn es auf einem
+Computer laufe, spiegelt zwar die EPA-Ideologie wieder, wurde aber
+selbst im Rechtsausschuss (JURI) des EP nicht unterstützt, und dessen
+dennoch nicht wirklich begrenzende Änderungsvorschläge hat der Rat
+großteils übernommen. Der große Rest aller Änderungen im EP diente
+wirklich einer Begrenzung und wurde vom Rat ignoriert.
+
+### Hartmut Pilch: {#hartmut_pilch}
+
+\[\...\] statt auf begleitende Schreiben der Europaeischen Kommission
+lieber auf das
+[Ratspapier](http://swpat.ffii.org/papiere/europarl0309/cons0401/ "wikilink")
+eingehen, das am Dienstag zur Entscheidung ansteht?
+
+Wenn Sie es nicht verstehen, koennen Sie sich auch ueber dessen
+Unverstaendlichkeit beschweren. Es sollte fuer jemanden wie Sie, dessen
+Belange dort geregelt werden, glasklar verstaendlich sein.
+
+Besonders unverschaemt sind die Artikel 4A und 5(2), s. die [Analyse der
+verwendeten rhetorischen
+Taschenspielertricks](http://swpat.ffii.org/papiere/europarl0309/cons0401/#tabl "wikilink").
+Die sind eine Zumutung fuer die betrogenen Minister, aber noch mehr fuer
+Unternehmer wie Sie, fuer die die Riichtlinie angeblich Rechtsklarheit
+schaffen soll.
+
+## Sehr geehrte(r) Herr/Frau \*\*\*\*\*\*\*\*\*, {#sehr_geehrter_herrfrau}
+
+ich möchte mit diesem Schreiben meine Besorgnis über die am 17. und 18.
+Mai anstehende Entscheidung des EU-Ministerrats bezüglich der
+Patentierbarkeit von sogenannten \"computerimplementierten Erfindungen\"
+zum Ausdruck bringen.
+
+In einer zugehörigen Presseerklärung (1) der EU-Kommission heißt es:
+\"Hingegen könnten Computerprogramme als solche nicht patentiert
+werden.\" Dies würde nämlich Artikel 52 des Europäischen
+Patentübereinkommens und der gültigen nationalen Gesetzgebung
+entsprechen. Der Wortlaut des Richtlinienentwurfs (2) sieht hingegen
+völlig anders aus und erläutert: \"\[\...\], dass alle Programme, die
+auf einem Computer ablaufen, per Definition als technisch anzusehen sind
+(da es sich bei dem Computer um eine Maschine handelt)\". Fehlender
+technischer Charakter ist aber genau das Unterscheidungskriterium, das
+Programme bisher von der Patentierbarkeit hätte ausnehmen sollen. Nach
+dem Richtlinienentwurf wären praktisch alle Arten von Programmen
+schutzwürdig.
+
+Leider werden bereits seit etlichen Jahren Patente vom Europäischen
+Patentamt nach eben dieser Argumentation erteilt, dass allein der
+Einsatz auf einem Computer ihren technischen Charakter beweise. Dieses
+meines Erachtens rechtswidrige Vorgehen der Patentämter hat mittlerweile
+dazu geführt, dass ca. 30000 fragwürdige Patente erteilt wurden, die
+größtenteils Programme \"als solche\" schützen.
+
+Mit dem Richtlinienentwurf soll scheinbar nun die gängige
+Patentierungspraxis nachträglich gerechtfertigt und die uneingeschränkte
+Patentierbarkeit von Software eingeführt werden.
+
+Diese gesamte Entwicklung hat für mich als Unternehmer im Bereich
+Softwareentwicklung schwerwiegende Folgen:
+
+\- es ist nur unter unverhältnismäßigen Aufwendungen möglich zu
+überprüfen, gegen welche Patente man bei der Entwicklung von neuer
+Software aktuell verstößt.
+
+\- das Kontaktieren möglicher Patentinhaber und Verhandeln über Lizenzen
+übersteigt die zeitlichen Kapazitäten eines Kleinunternehmers.
+
+\- ich wäre der ständigen Gefahr ausgesetzt von größeren Unternehmen mit
+rein hypothetischen Patentverletzungsklagen ruiniert zu werden, da
+allein die Vorfinanzierung von Verfahren mit Streitwerten von in
+Patentstreitigkeiten üblichen Höhen nicht geleistet werden könnte.
+
+\- durch die Restunsicherheit, ein Patent übersehen zu haben und
+trotzdem Software zu entwickeln und zu vermarkten, begehe ich unter
+Umständen eine Straftat, die mit bis zu 5 Jahren Haft bestraft werden
+kann (siehe Anhang).
+
+Dies entspricht für mich de facto einem Berufsverbot für
+Softwareentwicklung und wird zu einem Aus für meine Unternehmung und
+damit zu einem Verlust von 2 Arbeitplätzen führen. Außerdem betrifft es
+ebenso die ca. 70% anderen kleinen und mittelständischen Unternehmen der
+IT-Branche und führt zu einer marktwirtschaftlichen Verzerrung zu
+Gunsten weniger großer, meist außerhalb der EU angesiedelter,
+finanzstarker Konzerne.
+
+Deshalb möchte ich mich vehement gegen die momentane Patentierungspraxis
+und die Schaffung von undemokratischen Gesetzesrichtlinien hinter den
+verschlossenen Türen der EU-Kommision aussprechen.
+
+Um hiergegen Vorzugehen, bitte ich Sie, Ihren Einfluss dahingehend
+geltend zu machen. dass das Votum der demokratisch gewählten
+Volksvertreter im Europäischen Parlament vom 24.9.03 unterstützt wird,
+das deutlich die Nicht-Patentierbarkeit von Programm- und Geschäftslogik
+unterstreicht.
+
+Schaffen Sie Sensibilität für die Tragweite dieser Problematik und
+setzen Sie sich gegen ein Durchwinken der Richtlinie am 17. Mai ein.
+
+Unterstützen Sie die Gegner dieser besorgniserregenden Entwicklung und
+unterzeichnen Sie den \"Aufruf zum Handeln\" (3) des Fördervereins für
+eine Freie Informationelle Infrastruktur e.V.
+
+Mit freundlichen Grüßen, Steffen Schurg
+
+Anhang:
+
+\(1\) Presseerklärung der EU-Kommision:
+<http://europa.eu.int/comm/internal_market/de/indprop/comp/02-277.htm>
+
+\(2\) Richtlinienentwurf der EU-Kommision:
+<http://europa.eu.int/comm/internal_market/en/indprop/comp/com02-92de.pdf>
+
+\(3\) Aufruf zum Handeln:
+<http://swpat.ffii.org/papiere/europarl0309/appell/index.de.html>
+
+Ist eine Patentverletzung strafbar?
+
+Eine Patentverletzung kann strafbar sein, jedoch nur im Fall der
+sogenannten vorsätzlichen Patentverletzung. Ein Vorsatz liegt vor, wenn
+der Verletzer bewusst und gewollt das Patent verletzt hat, wobei jedoch
+ein sogenannter bedingter Vorsatz ausreicht. Von einem bedingten Vorsatz
+spricht man, wenn die Patentverletzung nicht direktes Ziel des Handels
+war, aber die Patentverletzung vom Verletzer für möglich gehalten wurde
+und der Verletzer sich mit der Patentverletzung so zu sagen als
+notwendiges Übel abgefunden hat. In derartigen Fällen kann die
+Patentverletzung mit Geldstrafen oder Freiheitsstrafe bis zu 3 Jahren
+bestraft werden. Soweit hier der Patentverletzer gewerbsmäßig handelt,
+droht ihm eine Strafe von bis zu 5 Jahren Freiheitsstrafe. Das
+gewerbsmäßige Handeln hat bei der Patentverletzung einen weiteren
+Nachteil. In diesem Fall ermittelt die Staatsanwaltschaft nämlich von
+Amts wegen und nicht bloß auf Antrag des Patentinhabers. Quelle und ©:
+Rechtsanwälte Knoop & Knoop, Lippstadt
+<http://www.knoop.de/Patent.htm#15>

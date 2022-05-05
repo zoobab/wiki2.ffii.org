@@ -1,0 +1,159 @@
+1.  1.  -\*- dok: swpatcnino; lang: es; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# GRAN MOVILIZACIÓN UNIVERSITARIA EN ESPAÑA (versión interna) {#gran_movilización_universitaria_en_españa_versión_interna}
+
+------------------------------------------------------------------------
+
+1.  1.  proper naming according to the naming convention would be
+        [HuelgaEs](HuelgaEs "wikilink")
+    2.  yes, but it is a quite temporal an working document that makes
+        no sense to translate to other languaje\...
+
+Documento de trabajo (ya no tan confidencial).
+
+------------------------------------------------------------------------
+
+# IMPORTANTE
+
+Por favor, mira en <http://wiki.ffii.org/lucha> para ver la información
+más pública junto con los documentos de trabajo más actualizados.
+
+------------------------------------------------------------------------
+
+-   DOCUMENTOS PARA MOVILIZACION:
+
+Los documentos están sólo en <http://wiki.ffii.org/lucha>
+
+------------------------------------------------------------------------
+
+-   Seguimiento de sondeos pre convocatoria oficial de huelga:
+
+------------------------------------------------------------------------
+
+`FI-UPM:       cont. Dpto. LyS.  Alumnado  +  Profesorado  ~    (Coordinantes: ACM            ++, D.A.     ¿?)`\
+`ESI-UCA:      cont. OSLUCA      Alumnado  +  Profesorado  +    (Coordinantes: AGALI          ++, D.A.     ¿?)`\
+`UIB:          cont. Gallir      Alumnado  +  Profesorado  +    (Coordinantes: Frikimaster    ++)`\
+`UJI:          cont. Mperez      Alumnado ++  Profesorado  +    (Coordinantes: Solido         ++, Aditel   ++)`\
+`AEP-UPC:      cont. Edgar       Alumnado  ~  Profesorado ¿?    (Coordinantes: Francesc       ++)`\
+`ETSETB-UPC:   cont. Francesc    Alumnado  +  Profesorado ¿?    (Coordinantes: Francesc        +, D.A      ++)`\
+`FI-UPC:       cont. Chani,Isart Alumnado  +  Profesorado ¿?    (Coordinantes: Lab.Calc.       +, D.A.      +)`\
+`UB-Matem.     cont. Cerquide    Alumnado  +  Profesorado  +    (Coordinantes: Cerquide       ++)`\
+`ESI-Deusto:   cont. Garaizar    Alumnado ++  Profesorado  ~    (Coordinantes: Garaizar,txipi ++, e-ghost  ++)`\
+`FI-UPV/EHU:   cont. Mastorgano  Alumnado  ~  Profesorado  ~    (Coordinantes: Kalysnet       ++, D.A.      +)`\
+`FI-UCM:       cont. Dagoonline  Alumnado  ~  Profesorado  -    (Coordinantes: Dagoonline      +, D.A.     ¿?)`\
+`ESCET-URJC:   cont. Israel      Alumnado  ~  Profesorado  +    (Coordinantes: Apoloval       ++, ACM      ++) `\
+`ESI-US:       cont. Edulix      Alumnado  +  Profesorado ¿?    (Coordinantes: Sugus           +)`\
+`UCO:          cont. Trinux      Alumnado ¿?  Profesorado ¿?    (Coordinantes: `[`LiCor`](LiCor "wikilink")`           +, D.A.      +)`\
+`UZ:           cont. Benzer      Alumnado ++  Profesorado  ~    (Coordinantes: Pulsar         ++)`\
+`USC:          cont. Jdeveloper  Alumnado  +  Profesorado ¿?    (Coordinantes: AGNIX           +)`\
+`UV:           cont. Feana       Alumnado ¿?  Profesorado ¿?    (Coordinantes: LinUV          ++)`\
+`UA:           cont. `[`PauCliment`](PauCliment "wikilink")`  Alumnado  +  Profesorado  +    (Coordinantes: GULA, GREU      +, D.A.      +)`\
+`ETSIA-UPVal.: cont. Vfernandez  Alumnado  ~  Profesorado  ~    (Coordinantes: Polinux        ++)`\
+`UGr-ETSII     cont. Jsanchez    Alumnado ¿?  Profesorado ¿?    (Coordinantes: `[`UPInf`](UPInf "wikilink")`          ++, D.A.      +)`\
+`UdL:          cont. Sergi       Alumnado  +  Profesorado  +    (Coordinantes: Sergi           +, otros    ¿?)`\
+`FI-UlPGC:     cont. Osoh        Alumnado  +  Profesorado  +    (Coordinantes: Osoh           ++, D.A.     ¿?)`\
+[`UniOvi`](UniOvi "wikilink")`-EUITIO cont. Wikier      Alumnado  +  Profesorado  +    (Coordinantes: D.A.           +?, decanato  +)`\
+`UNEX:         cont. lucaes      Alumnado  ~  Profesorado  ~    (Coordinantes: lucaes          +, D.A.     ¿?)`\
+`FIC-UDC       cont. Iago        Alumnado  ~  Profesorado  ~`\
+`FI/ETSIT-UMal cont. partymola   Alumnado  ~  Profesorado  ~    (Coordinantes: `[`LiMa`](LiMa "wikilink")`           ¿?, D.A.     ¿?)`\
+`UAB-ETSE     cont. Javier Ferreiro Alumnado +?  Profesorado ?     (Coordinantes: GNUAB ++ )          `\
+`UPCT:         a la espera de respuesta por organizadores `[`TelecoForum`](TelecoForum "wikilink")\
+`UCA-Alg.:     a la espera de respuesta por Delegación`\
+`RMS:          informado, hay que conseguir que el 27 esté en España en vez de en Francia...  ;o)`
+
+------------------------------------------------------------------------
+
+-   Coordinación general de movilización española:
+
+`Dispuestos a coordinar: `\
+` Abarrio, Román,...`
+
+-   Diseños pendientes de realización (se necesitan voluntarios ¡ya!):
+
+`Redacción de nota de Convocatoria de Huelga: texto aprobado por bastantes organizaciones ya`\
+`Redacción de nota de prensa de convocatoria: mismo texto de la convocatoria.`\
+`Diseño de Tríptico explicativo `[`PatsSw`](PatsSw "wikilink")`: 2 hechos por roman y xdrudis. ¿Más?`\
+`Diseño de Cartelería b/n: ¿voluntarios?`\
+`Diseño de Cartelería color: ¿pmachon?`\
+`Diseño de Modelo Pancarta: abarrio y ¿?`\
+`Diseño servicio web convocatoria: ¿?`\
+`Instalación de servicio web/ftp/sftp de recogida de fotos y resultados: ¿?`\
+`Diseño de página web para resultados: ¿?`\
+`Diseño de plantilla de croquis para fotos: ¿?`
+
+-   [Plan de proyecto
+    actualizado.](http://www.archivodocumental.com/contenidos/patentes/Plan-Movilizaciones.xml "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   Fecha definitiva de movilización:
+
+`Miércoles 27 de abril a las 12:00`
+
+-   Propuesta de formato de huelga:
+
+1.  Huelga 1/4 ó 1/2 hora en paralelo en todas las escuelas.
+
+`2) Manifestación delante de cada escuela con pancarta contra borrador de directiva.`
+
+-   Objetivo principal: **Repercusión Mediática**
+
+`3) Foto de cada manifestación tras la pancarta.`\
+`4) Publicación de las fotos y los seguimientos de cada escuela en web (FFII/Proinnova).`\
+`5) Publicación de un croquis de fotos y seguimientos globales en prensa generalista e informática`\
+`6) Envío de datos de seguimiento y eslóganes a europarlamentarios.`
+
+------------------------------------------------------------------------
+
+LEYENDA DE SIGLAS:
+
+`D.A.: Delegación de Alumnos`\
+`FI: Facultad de Informática`\
+`ETSETB: Escola Tecnica Superior d'Enginyers de Telecomunicació de Barcelona`\
+`ETSIA: Escuela Técnica Superior de Informática Aplicada`\
+`ETSII: Escuela Tecnica Superior de Ingenieros Informáticos / Industriales (depende de la Universidad)`\
+[`ETSIIn`](ETSIIn "wikilink")`: Escuela Técnica Superiod de Ingenieros Informáticos`\
+`EUITIO: Escuela Universitaria de Ingenieros Técnicos de Informática (Oviedo)`\
+`ESI: Escuela Superior de Informática`\
+`EPS: Escuela Politécnica Superior`\
+`UPM: Universidad Politécnica de Madrid`\
+`UCM: Universidad Complutense de Madrid`\
+`US: Universidad de Sevilla`\
+`UCA: Universidad de Cádiz`\
+`UDC: Universidade da Coruña`\
+`UIB: Universidad de las Islas Baleares`\
+`URJC: Universidad Rey Juan Carlos`\
+`UPCT: Universidad Politécnica de Cartagena (Murcia)`\
+`UPC: Universidad Politécnica de Cataluña`\
+`UB: Universidad de Barcelona`\
+`UJI: Universidad Jaime I (Castellón)`\
+`UdL: Universidad de Lérida/Lleida`\
+`UDe: Universidad de Deusto`\
+`UPV/EHU: Universidad del País Vasco / Euskal Herriko Unibertsitatea`\
+`UCO: Universidad de Córdoba`\
+`UZ: Universidad de Zaragoza`\
+`USC: Universidad de Santiago de Compostela`\
+`UA: Universidad de Alicante`\
+`UV: Universidad de Valencia`\
+[`UPVal`](UPVal "wikilink")`: Universidad Politécnica de Valencia`\
+`UGr: Universidad de Granada`\
+[`UniOvi`](UniOvi "wikilink")`: Universidad de Oviedo`\
+`UlPGC: Universidad de Las Palmas de Gran Canaria`\
+`OSLUCA: Oficina del Software Libre de la Universidad de Cádiz`\
+`ACM: Assotiation for Computing Machinery`\
+`AEP: Associació d'Estudiants Progressistes (UPC)`\
+`GUL: Grupo de Usuarios Linux`\
+`RMS, Gallir, Abarrio, Román, Francesc, Garaizar, Frikimaster, Apoloval, Trinux, etc.: referentes a personas físicas.`\
+`Simbología: ++ muy a favor, + a favor, ~ mixto, - en contra, -- muy en contra, ¿? desconocido o a la espera de su pronunciamiento.`
+
+------------------------------------------------------------------------
+
+MÁS INFORMACIÓN:
+
+`email://abarrio(arroba)ffii.org    email://tatel(arroba)infonegocio.com`\
+`(c) 2005, FFII, Proinnova`\
+`Este documento es de caracter interno, confidencial y usted no tiene permiso para distribuirlo `\
+`ni reproducirlo salvedad hecha de que sea usted una de las personas, o pertenezca a las asociaciones, `\
+`mencionadas en él.`

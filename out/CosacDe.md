@@ -1,0 +1,16 @@
+# COSAC
+
+*Gemeinsamer Europaausschuss des Bundestages und anderer nationaler
+Parlamente in Europa*
+
+COSAC - \"Conférence des Organes spécialisés en Affaires
+communautaires\") kam 1999 als erste internationale Konferenz im
+umgebauten Reichstagsgebäude in Berlin zusammen. Seitdem hat es viele
+Sitzungen gegeben. Das Zusatzprotokoll des Amsterdamer Vertrages hat die
+Macht von COSAC und der nationalen Parlamente teilweise verbessert.
+COSAC könnte langfristig den Rat als zweite Kammer der
+Europagesetzgebung ersetzen und eine echte Gewaltenteilung in der EU
+herstellen.
+
+-   [Informationsmittel des
+    Bundestages](http://www.bundestag.de/ausschuesse/archiv15/a20/cosac/cosac_11.html "wikilink")

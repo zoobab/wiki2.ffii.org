@@ -1,0 +1,8 @@
+1.  1.  -\*- dok: plparl041104; lang: en; coding: utf-8; mode:
+        fundamental; -\*-
+
+# 2004-11-04 Software Patent Discussion in Polish Parliament {#software_patent_discussion_in_polish_parliament}
+
+\--\> \[ \[\] \]
+
+------------------------------------------------------------------------

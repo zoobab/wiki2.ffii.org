@@ -1,0 +1,62 @@
+# Portal Sapo urges [MEPs](MEPs "wikilink") against software patents {#portal_sapo_urges_meps_against_software_patents}
+
+Lisboa, July 6, 2005 \-- Today, the European Parliament votes for a set
+of amendments to the Council\'s proposal on the software patent
+direcitve, and the portal Sapo.pt joins the protests, based upon its
+history, urging the [MEPs](MEPs "wikilink") to vote for a good
+directive.
+
+`   In our scale, it is important that small, medium and large enterprises`\
+`   understand this, patents suffocate, they don't stimulate development.`\
+`   We don't aim to have an "intellectual property portfolio" over which`\
+`   we gain economical benefits. We aim to innovate and give the portuguese`\
+`   innovation made in Portugal.`
+
+`   I honestly hope that tomorrow the `[`MEPs`](MEPs "wikilink")` don't loose this opportunity`\
+`   of making a positve milestone in history. Be present in the plenary and`\
+`   vote fo the 21 cross-partisan amendments proposed by Rocard - Ribeiro e`\
+`   Castro - Buzek - Figueiredo - Queiró - Duff - Roithova.`
+
+So concludes Celso Martinho, Product Technology Director of SAPO, in his
+editorial at the new site <http://softwarelivre.sapo.pt/>
+
+The portal begins by presenting some articles about the software patents
+subject, and also directly links to the Eurolinux petition against
+software patentes <http://petition.eurolinux.org/index_html?LANG=pt>
+
+`   Imagine of you're Victor Hugo, who in 1962 published `*`Lés`` ``Misérables`*`,`\
+`   and suddenly came a lawyser accusing you of patent infringement over`\
+`   a communication process that represents, in the mind of a reader, the`\
+`   concept of a character who has been in jail for a long time and`\
+`   subsequently changes his name? Or if Haydn had patented a symphony,`\
+`   characterised by that sound is produced (in extended sonata form )?`\
+`   Mozart would have been in trouble!`
+
+`   Seems unreal? What if we're talking about delivering a gift to a third party?`\
+`   Or opening an `[`on-line`` ``shop`](http://webshop.ffii.org/ "wikilink")` and loose your`\
+`   business in 20 simple steps?`
+
+Points out ANSOL in its page, alluding to patent EP927945, a business
+method patent granted by the European Patent Office (EPO), and the
+clarifying <http://webshop.ffii.org/> site that shows this and 19 other
+business methods and software patents granted by the EPO in these last
+years, that would easily draw an on-line business to serious
+difficulties.
+
+## Contacts
+
+João Miguel Neves, President, Associação Nacional para o Software Livre
+joao.neves arroba ansol ponto org +351 933 252 302
+
+Rui Seabra, Vice-President, Associação Nacional para o Software Livre
+rms arroba ansol ponto org +351 933 255 619
+
+## About ANSOL {#about_ansol}
+
+ANSOL aims to divulge, promote, develop, research and study Free
+Informatics and its social, politic, philosophic, cultural, technic and
+scientific repercurssions. ANSOL is the first Free Software association
+in Portugal.
+
+ANSOL is associated to Free Software Foundation Europe, the Eurolinux
+Alliance and the Campaign for an Open Digital Environment - CODE.

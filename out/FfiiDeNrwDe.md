@@ -1,0 +1,103 @@
+```{=mediawiki}
+{{http://genba.ffii.org/~arebenti/regio/FfiiNrw.png}}
+```
+\[ [ Nachrichten](SwpatcninoDe "wikilink") \| [ Dringender
+Aufruf](LtrCons0406De "wikilink") \| [
+Briefaktion](SwpatxatraDe "wikilink") \| [
+Politikerchats](SwpatchatDe "wikilink") \| [
+Projekte](FfiiprojDe "wikilink") \| [
+Prioritäten](FfiiprojDePriorDe "wikilink")\]
+
+------------------------------------------------------------------------
+
+In NRW ist besonders der Essener ELUG Kreis um Peter Gerwinski, dem
+Autor der Seite <http://patinfo.ffii.org> sehr aktiv. Ferner hat sich
+eine vom FFII unabhängige Unternehmerinitiative im Jahr 2005
+konstituiert: <http://www.softwarepatente-nein-danke.de/>
+
+Die Nordrhein-westfälische Mailingliste nrw-parl
+<http://lists.ffii.org/mailman/listinfo/nrw-parl> ist noch sehr jung.
+Erst vor kurzem hat Benedikt Wildenhain das Management dieser Liste
+übernommen. Wer von Aktivitäten im Bereich Nordrheinwestfalen erfahren
+will, der sollte sich einschreiben lassen. Der Austauch mit Leute aus
+der eignen Region ist sehr wichtig für den Erfolg auf europäischer
+Ebene, denn traditionelle Politik ist geographisch aufgestellt.
+Landespolitik hat oft mehr Einfluss auf die europäische Ebene als man
+sich träumen lässt.
+
+# Aktivitäten
+
+-   [ 2004-05-11 Unternehmerinitiativen gegen Softwarepatente in
+    Nordrheinwestfalen und Baden-Württemberg gegründet /
+    Wirtschaftsverbände unterstützen
+    Initiativen](Sektor050411De "wikilink")
+-   2004-10-12 Treffen Essen 20:00 Maze Lounge Essen, Viehofer Str. 60,
+    Essen-Zentrum, mail at benedikt-wildenhain.de
+-   2004-10-19 Treffen Aachen 20:00 Labyrinth (hinten rechts), Pontstr.,
+    diego at biurrun.de
+-   Für ein Treffen in Krefeld (Ort und Zeit offen) kontaktieren Sie
+    bitte webmaster at jfkempen punkt de.
+
+# Politische Repräsentaten aus NRW {#politische_repräsentaten_aus_nrw}
+
+## Europaabgeordnete
+
+-   [Alle NRW-MEPs auf einen
+    Blick](http://www.landtag.nrw.de/WWW/GB_I/I.5/A02/MdEP.htm "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   [MdEP Dr. Friedrich-Wilhelm Graefe zu Baringdorf
+    (GRÜNE/EFA)](http://www.europarl.de/index.php?rei=3&dok=682&id=19&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Elmar Brok
+    (EVP)](http://wwwdb.europarl.eu.int/ep6/owa/whos_mep.data?ipid=0&ilg=DE&iucd=1263&ipolgrp=.&ictry=DE&itempl=&ireturn=&imode= "wikilink")
+    -   -   aus Bielefeld
+-   [MdEP Karl-Heinz Florenz
+    (EVP)](http://www.europarl.de/index.php?rei=3&dok=682&id=11&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Dr. Klaus Hänsch
+    (SPE)](http://www.europarl.de/index.php?rei=3&dok=682&id=21&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Jutta Haug
+    (SPE)](http://www.europarl.de/index.php?rei=3&dok=682&id=22&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Ruth Adelheid Hieronymi
+    (EVP)](http://wwwdb.europarl.eu.int/ep6/owa/whos_mep.data?ipid=0&ilg=DE&iucd=4279&ipolgrp=.&ictry=DE&itempl=&ireturn=&imode= "wikilink")
+-   [MdEP Dr. Christoph Konrad
+    (EVP)](http://www.europarl.de/index.php?rei=3&dok=682&id=37&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Helmut Kuhne
+    (SPE)](http://www.europarl.de/index.php?rei=3&dok=682&id=41&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Alexander Graf Lambsdorff
+    (ALDE)](http://www.europarl.de/index.php?rei=3&dok=682&id=120&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Armin Laschet
+    (EVP)](http://www.europarl.de/index.php?rei=3&dok=682&id=45&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Klaus-Heiner Lehne
+    (EVP)](http://www.europarl.de/index.php?rei=3&dok=682&id=47&sort=laender&land=Nordrhein-Westfalen "wikilink"),
+    [WP](http://de.wikipedia.org/wiki/Klaus-Heiner_Lehne "wikilink"),
+    [Schlusswort beim
+    EVP-Hearing](http://media.ffii.org/bxl050602/EPP-SME-hearing/VO/Lehne.html "wikilink")
+-   [MdEP Dr. Hans-Peter Liese
+    (EVP)](http://www.europarl.de/index.php?rei=3&dok=682&id=49&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Alexander Pickart Alvaro
+    (ALDE)](http://www.europarl.de/index.php?rei=3&dok=682&id=125&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Dr. Markus Pieper
+    (EVP)](http://www.europarl.de/index.php?rei=3&dok=682&id=126&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Bernhard Rapkay
+    (SPE)](http://www.europarl.de/index.php?rei=3&dok=682&id=70&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Herbert Otto Reul
+    (EVP)](http://www.europarl.de/index.php?rei=3&dok=682&id=127&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Mechtild Rothe
+    (SPE)](http://www.europarl.de/index.php?rei=3&dok=682&id=72&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Dr. Frithjof Schmidt
+    (GRÜNE/EFA)](http://www.europarl.de/index.php?rei=3&dok=682&id=128&sort=laender&land=Nordrhein-Westfalen "wikilink")
+-   [MdEP Martin Schulz
+    (SPE)](http://www.europarl.de/index.php?rei=3&dok=682&id=83&sort=laender&land=Nordrhein-Westfalen "wikilink")
+    -   -   Vorsitzender der Sozialdemokratischen Fraktion im
+            Europäischen Parlament
+-   [MdEP Dr. Renate Sommer
+    (EVP)](http://www.europarl.de/index.php?rei=3&dok=682&id=85&sort=laender&land=Nordrhein-Westfalen "wikilink")
+
+## Bundestagsabgeordnete
+
+-   [Alle NRW-MdBs auf einen
+    Blick](http://www.bundestag.de/mdb15/listeBundesland/abgBundLandTab.html#nordrhein "wikilink")
+
+## Landespolitiker

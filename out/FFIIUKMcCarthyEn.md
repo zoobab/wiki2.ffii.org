@@ -1,0 +1,1 @@
+[SwpatamccarthyEn](SwpatamccarthyEn "wikilink")

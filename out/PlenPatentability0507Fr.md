@@ -1,0 +1,202 @@
+1.  1.  -\*- dok:
+        [PlenPatentability0507](PlenPatentability0507 "wikilink"); lang:
+        fr; coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-07-03
+    3.  title: Amendements pour la séance plénière : brevetabilité
+
+# Amendements pour la séance plénière : brevetabilité {#amendements_pour_la_séance_plénière_brevetabilité}
+
+-\> \[ [ Recommandations de vote](PlenVotingList0507Fr "wikilink") \| [
+Analyses](PlenAmend0507Fr "wikilink") \| [Seconde
+lecture](http://www.ffii.fr/seconde-lecture "wikilink") \|
+[Economic-Majority](http://www.economic-majority.com/index.fr.php "wikilink")
+\| [ Actualités des brevets logiciels](SwpatcninoFr "wikilink") \]
+
+------------------------------------------------------------------------
+
+-   Articles 2 b), 3 et 4
+-   Texte de base: texte du Conseil
+    [pdf](http://register.consilium.eu.int/pdf/fr/04/st11/st11979-re01.fr04.pdf "wikilink")
+
+## Article 2(b) {#article_2b}
+
+### Définition de « contribution technique » {#définition_de_contribution_technique}
+
+\|\| numéro \|\| déposé par \|\| recommandation \|\| texte \|\| \|\|
+\*\*\* \|\| Conseil \|\| () \|\| « contribution technique » désigne une
+contribution à l\'état de la technique dans un domaine technique, qui
+est nouvelle et non évidente pour une personne du métier. La
+contribution technique est évaluée en prenant en considération la
+différence entre l\'état de la technique et l\'objet de la revendication
+de brevet considéré dans son ensemble, qui doit comprendre des
+caractéristiques techniques, qu\'elles soient ou non accompagnées de
+caractéristiques non techniques. \|\| \|\| 42 = 74 = 95 = 116 = 137 =
+160 \|\| Rocard / Buzek 3 \|\| ++ \|\| b) « contribution technique »
+désigne une contribution à l\'état de la technique dans un domaine
+technique. La contribution représente l\'ensemble des caractéristiques
+qui permettent de faire valoir que l\'objet de la revendication de
+brevet est différent de l\'état antérieur de la technique. La
+contribution doit être d\'ordre technique, c\'est-à-dire qu\'elle doit
+présenter des caractéristiques techniques et relever du domaine
+technique. À défaut de contribution technique, il n\'y a ni objet
+brevetable ni invention. La contribution technique doit satisfaire aux
+conditions de brevetabilité. En particulier, elle doit être nouvelle et
+non évidente pour une personne du métier. \|\| \|\| 16 \|\| JURI 16
+\|\| + \|\| « contribution technique » désigne une contribution à
+l\'état de la technique dans un domaine technique. Cette contribution
+technique représente l\'ensemble des caractéristiques qui permettent de
+faire valoir que l\'objet de la revendication de brevet est différent de
+l\'état antérieur de la technique. La contribution doit être d\'ordre
+technique, c\'est-à-dire qu\'elle doit présenter des caractéristiques
+techniques et relever du domaine technique. À défaut de contribution
+technique, il n\'y a pas d\'objet brevetable. La contribution technique
+doit satisfaire aux conditions de brevetabilité. En particulier, elle
+doit être nouvelle et non évidente pour une personne du métier. \|\|
+
+L\'amendement de JURI contient une petite erreur lourde de conséquences
+: le mot « technique » doit être supprimé de la deuxième phrase, sinon
+toutes les nouvelles fonctionnalités présentées dans la revendication de
+brevet sont par définition considérés comme étant techniques.
+
+L\'amendement de compromis corrige cette erreur.
+
+## Article 3 {#article_3}
+
+### Critères de brevetabilité {#critères_de_brevetabilité}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| \*\*\* \|
+Conseil \| () \| Pour être brevetable, une invention mise en oeuvre par
+ordinateur doit être susceptible d\'application industrielle, être
+nouvelle et doit impliquer une activité inventive. Pour impliquer une
+activité inventive, une invention mise en oeuvre par ordinateur doit
+apporter une contribution technique. \| \| 45 = 77 = 98 = 119 = 140 =
+163 \| Rocard / Buzek 6 \| ++ \| Pour être brevetable, une invention
+assistée par ordinateur doit apporter une contribution technique. La
+contribution technique doit être nouvelle et non évidente pour une
+personne du métier. \| \| 20 \| JURI 20 \| +/\-- \| Pour être
+brevetable, une invention mise en uvre par ordinateur doit être
+susceptible d\'application industrielle et apporter une contribution
+technique. L\'activité inventive est évaluée en prenant en considération
+la différence entre l\'ensemble des caractéristiques techniques ou non
+de la revendication de brevet et l\'état de l\'art. \|
+
+L\'amendement de JURI 20 contient une **erreur grave**. Pour le moment,
+l\'OEB ne considère que les fonctionnalités techniques pour attester
+d\'une activité inventive et ne regarde pas les fonctionnalités non
+techniques, comme cela a été établit dans les décisions suivante :
+Pension Benefits T931/95, Comvik T641/00, Ricoh T0172/03, Hitachi
+T258/03. (Voir par exemple, la note en entête de l\'affaire
+[Comvik](http://legal.european-patent-office.org/dg3/biblio/t000641ep1.htm "wikilink")
+ou cette
+[discussion](http://www.withersrogers.co.uk/content/view/54/45/ "wikilink")
+d\'un cabinet juridique de Londres). Si l\'amendement JURI 20 est
+accepté, il détruira le critère de contribution *technique*, ouvrant à
+la place la brevetabilité à toute nouvelle méthode d\'affaires non
+technique, même lorsque la mise en oeuvre technique est assurément
+évidente. L\'amendement JURI 20 ne doit pas être autorisé à passer sous
+cette forme.
+
+Un vote par division (split vote) peut corriger cela.
+
+## Article 3.2 (nouveau) {#article_3.2_nouveau}
+
+### Divulgation
+
+\| numéro \| déposé par \| recommandation \| texte \| \| 21 \| JURI 21
+\| + \| La demande de brevet doit décrire l\'invention de manière
+suffisamment claire et complète pour qu\'elle puisse être réalisée par
+un homme de métier. \|
+
+Un principe général du droit des brevets. Cela n\'apporte pas grand
+chose, mais l\'amendement est incontestable.
+
+## Article 3 bis (nouveau) {#article_3_bis_nouveau}
+
+### Traitement de données comme domaine technique {#traitement_de_données_comme_domaine_technique}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| 156 \| Panella,
+Bonino et al \| + \| Le traitement des données n\'est pas considéré
+comme un domaine technique au sens du droit des brevets, et les
+innovations en matière de traitement des données ne constituent pas des
+inventions au sens du droit des brevets. Le traitement, la manipulation
+et la présentation d\'informations n\'appartiennent pas à un domaine
+technique, même si des appareils techniques sont utilisés pour les
+réaliser. \|
+
+## Article 4.1 {#article_4.1}
+
+### Interprétation de l\'article 52 CBE {#interprétation_de_larticle_52_cbe}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| \*\*\* \|
+Conseil \| () \| Un programme d\'ordinateur en tant que tel ne peut
+constituer une invention brevetable. \| \| 46 = 78 = 99 = 120 = 141 =
+164 \| Rocard / Buzek 7 \| ++ \| Alors que tous les produits et procédés
+dans tous les domaines technologiques sont des inventions brevetables,
+indépendamment du fait qu\'ils impliquent ou non des programmes
+d\'ordinateur, l\'objet et les activités dans les programmes
+d\'ordinateur ne sont pas brevetables en propre. \| \| 157 \| Panella,
+Bonino et al \| + \| Les programmes d\'ordinateur ne sont pas des
+inventions au sens du droit des brevets. \|
+
+Le texte original du Conseil résumes les articles 52(2) et 52(3) de la
+Convention sur le brevet européen (CBE) d\'une manière qui ne clarifie
+rien.
+
+L\'amendement 157 est une exclusion claire des programmes d\'ordinateur
+de la brevetabilité, dans l\'esprit de la CBE.
+
+Les amendements de compromis s\'assurent que seul le logiciel pur est
+exclus mais pas les inventions assistées par ordinateur.
+
+## Article 4.2 {#article_4.2}
+
+### Exclusions de brevetabilité {#exclusions_de_brevetabilité}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| \*\*\* \|
+Conseil \| () \| Une invention mise en oeuvre par ordinateur n\'est pas
+considérée comme apportant une contribution technique simplement parce
+qu\'elle implique l\'utilisation d\'un ordinateur, d\'un réseau ou d\'un
+autre appareil programmable. En conséquence, ne sont pas brevetables les
+inventions consistant en des programmes d\'ordinateur, qu\'ils soient
+exprimés en code source, en code objet ou sous toute autre forme, qui
+mettent en oeuvre des méthodes pour l\'exercice d\'activités
+économiques, des méthodes mathématiques ou d\'autres méthodes et ne
+produisent pas d\'effets techniques au-delà des interactions physiques
+normales entre un programme et l\'ordinateur, le réseau ou un autre
+appareil programmable sur lequel celui-ci est exécuté. \| \| 47 = 79 =
+100 = 121 = 142 = 165 \| Rocard / Buzek 8 \| ++ \| Une invention
+assistée par ordinateur n\'est pas considérée comme apportant une
+contribution technique simplement parce qu\'elle utilise de meilleurs
+algorithmes pour réduire les besoins en temps de calcul, en
+espace-mémoire ou en autres ressources du système de traitement des
+données. En conséquence, ne sont pas brevetables les innovations
+consistant en des programmes d\'ordinateur qui ne résolvent pas de
+problèmes des sciences naturelles appliquées au-delà de l\'amélioration
+de l\'efficacité du traitement de données \|
+
+Le texte original du Conseil n\'exclue que le code source ou objet d\'un
+programme d\'ordinateur particulier, ce que personne ne voudrait
+breveter. En outre, il codifie la doctrine de « l\'effet technique
+supplémentaire » que l\'OEB lui-même a admis avoir introduit comme un
+pis-aller en attendant que l\'exclusion de la brevetabilité pour les
+programmes d\'ordinateur soit retirée de la CBE.
+
+L\'amendement de compromis stipule que les améliorations des algorithmes
+ne suffisent pas à apporter une contribution technique et qu\'un
+problème relevant des sciences naturelles appliquées doit être résolu.
+
+## Article 4.3 (nouveau) {#article_4.3_nouveau}
+
+### Exclusions de la brevetabilité {#exclusions_de_la_brevetabilité}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| 59 = 91 = 112 =
+132 = 154 = 177 \| Rocard / Buzek 20 \| + \| Les inventions assistées
+par ordinateur ne sont pas considérées comme apportant une contribution
+technique au seul motif qu\'elles améliorent l\'utilisation des
+ressources de traitement des données, telles que le temps de traitement
+ou l\'espace de stockage. \|
+
+Cet amendement codifie les récentes jurisprudence allemande et
+britannique (l\'amélioration dans l\'utilisation de ressources
+informatiques est une contribution pour les programmes d\'ordinateur en
+tant que tels, mais pas une contribution technique).

@@ -1,0 +1,150 @@
+1.  1.  -\*- dok: kwiki; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  keyws: kwiki, FFII, wiki, web, computing, installation,
+        maintenance, extension
+
+\--\> \[ [ Becoming an Editor](KwikiEditEn "wikilink") \| [ Private
+Pages](KwikiPrivatHelpEn "wikilink") \| [ Page
+Naming](PagNomEn "wikilink") \| [Subscribe to
+Forum](http://lists.ffii.org/mailman/listinfo/kwiki-parl/ "wikilink") \|
+[Subscribe to
+News](http://lists.ffii.org/mailman/listinfo/kwiki-news/ "wikilink") \|
+[ FFII Computing](PolisEn "wikilink") \| [ Aktiv](AktivEn "wikilink") \|
+[ Project News](FfiiprojNewsEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+kwiki.ffii.org was started in 2003 as a light-weight wiki system for
+extending the static pages. !KWiki was chosen because of its flexibility
+and extensibility. It soon evolved into a central source of information.
+Yet the extension capability, although badly needed, has not been taken
+advantage of, and the site still runs on a fairly primitive and old
+version of kwiki that leaves many wishes unfulfilled.
+
+## News & Chronology {#news_chronology}
+
+-   2004-12-12 [ new script supplies full-value html header for kwiki
+    pages](ParsKwikipagEn "wikilink")
+-   2004-12-04 phm creates a [kwiki page
+    index](http://www.ffii.org/assoc/kwiki/kwikipags.txt "wikilink")
+    that is auto-updated every hour
+-   2004-10-16 phm [ makes kwiki pages require login by
+    default](KwikiProtEn "wikilink")
+-   2004-09-00 phm adds metadata info into nodebase/\*.n files
+
+## Maintainer
+
+Kwiki has been maintained by Michael Wasmeier (mwas).
+
+Recent extensions such as the [ incorporation of document
+metadata](ParsKwikipagEn "wikilink") were added by [
+phm](HartmutPilchEn "wikilink") (by incremental programming, without
+profound knowledge of how kwiki works).
+
+Some other systems such as the database and [ mlht](MlhtEn "wikilink")
+interact with Kwiki.
+
+## Why Kwiki? {#why_kwiki}
+
+mwas finds it small, well-structured and convenient to extend with perl
+plugins. People who do the maintenance work decide what is used. We try
+to stay independent from particular wikis by building as much as
+possible on a relational database, see \'metadata\' discussion in \'To
+Do\' section below. Use of alternative wikis is conceivable, see
+\'Alternatives\' below, but note that extensibility and cooperation with
+ffii relational database are among the most important features.
+
+## Configuration Options on Genba {#configuration_options_on_genba}
+
+-   genba:/var/www/kwiki/pages.lst contains list of pages for which a
+    static version (less ressource-consuming) is mirrored by cron (using
+    wget) to a static space
+    -   -   This could be turned into a full cache by substititing the ?
+            in the kwiki links during saving the mirrored html (using a
+            pipe from wget - note this requires to mirror all kwiki
+            pages)
+-   kwiki pages withount the ? can then be selected for rewriting to the
+    static space in genba:/var/www/apache-ssl/vhost.conf
+-   [internal documentation on aktiv-kwiki
+    interface](http://kwiki.ffii.org/admin/AktivLoginsForKwiki "wikilink")
+    (password-protected)
+
+## To Do {#to_do}
+
+-   We hope that mwas can update kwiki soon to support UTF-8 and other
+    elements wich are typically standard features of wikis.
+    -   -   eternal waiting for UTF-8 migration prevents Polish,
+            Hungarian, Slovak, Slovenian, Latvian, Lithuanian, Estronian
+            and Greek from being used
+-   We should also switch to kwiki to mod_perl then for performance and
+    load on [GenbaEn](GenbaEn "wikilink")..
+-   [ metadata markup system](ParsKwikipagEn "wikilink") now present but
+    very primitive, needs elaboration
+-   wiki pages which allow to manage comments for patents from the [
+    patent database](PatdbEn "wikilink")
+-   wiki pages which allow to manage comments about
+    [MEPs](MEPs "wikilink") and other representatives from the [
+    database of representatives](MepdbEn "wikilink")
+-   allow people to watch wiki pages and receive mail notifications when
+    they were changed
+
+## More Complaints and Suggestions for Improvement {#more_complaints_and_suggestions_for_improvement}
+
+### Stefan Uhlmann {#stefan_uhlmann}
+
+In my opinion it is essential for a usable Wiki to make visbile what was
+changed when by whom. So I suggest:
+
+-   Page-History: In edit-mode I see this combobox to revert changes, so
+    there must be already a versioning system. However, this should be
+    displayed in a list similar to the \"Changes\" link at the bootom
+    now. A possibility to do a diff between versions is crucial.
+-   Login: Give people the possibility to log in, to make it visibile to
+    others who did the changes. The current situation is bad as I can\'t
+    see who actually is collaborating with me. The idea to use accounts
+    from the aktiv system is good, but excludes people who do not have
+    such an account. And even though I have an aktiv account, I don\'t
+    see a way to login (this maybe is just an issue of placing a button
+    at each page).
+
+### arebenti
+
+There is a lot of improvement on the CSS style to be done to make the
+appearance more convenient. The current colour scheme is ugly and we
+lose a lot because of this.
+
+I suggest:
+
+-   no lightblue, darker colour for visited links
+-   drop purple for unknown wikiwords
+-   h1 as the static pages in orange (I had it in my simple.css style,
+    however it was not merged)
+-   also merge bottom box of static pages from my submitted simple.css,
+    the current box (as on this page) taken from the old style looks
+    ugly. I mean ffii_title_area
+-   darker blue tone for hr, also this was already submitted
+
+My personal motivation to edit Simple.CSS again is not increased if
+changes are merged on a random basis.
+
+(phm: I wonder who is doing this merging. arenbenti should be put in
+charge of kwiki CSS at least as long as kwiki is de facto orphaned.)
+
+Inserting html code, pictures and tables is bad with kwiki.
+[PhpWiki](PhpWiki "wikilink") was superiour in this. proposal \"generate
+wiki pages for individual EP patents from the patent database\" makes
+only sense when it appears on the same page as the patent. I would
+strongly recommend to support the FFII.se system that handles comments
+quite well.
+
+## Alternatives
+
+-   System of Wikipedia
+    -   -   <http://wikipedia.sourceforge.net/>
+        -   <http://moin.sf.net> - will be soon in xhtml, foaf wiki is
+            arleady in xhrml
+-   <http://swpatwiki.ffii.org> uses Moinmoin wiki, same as wikikpedia ?
+    \-\--\> no! wikipedia is [MediaWiki](MediaWiki "wikilink")
+    (http://en.wikipedia.org/wiki/MediaWiki).
+-   <http://www.emacswiki.org/cgi-bin/alex> combines Blog and Wiki
+-   Twiki <http://www.twiki.org/>

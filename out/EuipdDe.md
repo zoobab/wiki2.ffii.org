@@ -1,0 +1,24 @@
+Die Richtlinie wird kurz Durchsetzungsrichtlinie genannt.
+
+10.11. heise - [Heftiger Streit um weitere Novellierung des
+Urheberrechts](http://www.heise.de/newsticker/data/jk-10.11.03-007/ "wikilink")
+
+Das ifrOSS bezieht in einem Positionspapier Stellung gegen die
+Musikindustrie und andere Rechteinhaber. In dem Schreiben ans
+Bundesjustizministerium kritisieren die ifrOSS-Juristen vor allem, dass
+die Verwerter den kompletten Ausverkauf der Kreativen vorantreiben
+wollen. Die jüngst vorgelegten, sehr weitgehenden Forderungspapiere sind
+für Till Kreutzer vom ifrOSS vor allem *\*\"ein fragwürdiger Schritt vom
+Urheber- zum Industrieschutzrecht, dem Einhalt geboten werden
+sollte.\"\**
+
+Konkret beklagt das Rechtsinstitut, dass die IFPI und die Verwerter den
+*\*Paragraphen 31\* aus dem Urheberrechtsgesetz streichen* wollen.
+
+Dieser Paragraph soll den eigentlichen *\*Schöpfer\* vor der
+vertraglichen **Übermacht** der Verwerter schützen*.
+
+Links:
+
+-   English wiki: <http://kwiki.ffii.org/EuipdEn>
+-   AEL: <http://wiki.ael.be/index.php/IPEnforcementDirective>

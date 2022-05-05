@@ -1,0 +1,92 @@
+\[ [ be](FfiiMail0408Be "wikilink") \| [ ca](FfiiMail0408Ca "wikilink")
+\| [ de](FfiiMail0408De "wikilink") \| [ fr](FfiiMail0408Fr "wikilink")
+\| [ es](FfiiMail0408Es "wikilink") \| [ it](FfiiMail0408It "wikilink")
+\| [ pt](FfiiMail0408Pt "wikilink") \| [ nl](FfiiMail0408Nl "wikilink")
+\| [ sv](FfiiMail0408Sv "wikilink") \| [ da](FfiiMail0408Da "wikilink")
+\| [ fi](FfiiMail0408Fi "wikilink") \] (for non-ISO-8859-1 languages use
+the wiki at <http://www.ffii.se/kwiki/>)
+
+Status:
+
+-   2004-09-06: uk, pt versions sent out
+-   2004-09-07/08: de version is being sent out
+-   2004-09-09: ca, at versions sent out (at still running)
+
+# 2004-09 Mail to all FFII supporters {#mail_to_all_ffii_supporters}
+
+**FFII: EU Software patents in the Council: Status**
+
+`Ce qui se passe:`\
+`----------------`\
+\
+`Nous devons agir maintenant pour dire à nos représentants de ne`\
+`pas soutenir les tentatives du Conseil de l'Europe de changer `\
+`la législation européenne selon laquelle les logiciels ne sont`\
+`pas brevetables: `[`http://kwiki.ffii.org/ShortIntroFr`](http://kwiki.ffii.org/ShortIntroFr)\
+` `
+
+`Ce que vous pouvez faire:`\
+`-------------------------`
+
+`Demandez à vos représentants de refuser leur soutien à la `\
+`Directive sur les Brevets Logiciels, sinon nous aurons à subir `\
+`pendant longtemps les conséquences de cette décision.`
+
+`  - Veuillez envoyer l'Appel Urgent à vos représentants:`\
+`    `[`http://kwiki.ffii.org/LtrConsSend0406En`](http://kwiki.ffii.org/LtrConsSend0406En)` (version FR ???)`
+
+`  - Veuillez envoyer des cartes postales à vos représentants:`\
+`    `[`http://kwiki.ffii.org/Postkard0407Fr`](http://kwiki.ffii.org/Postkard0407Fr)\
+\
+`Les contacts directs font toute la différence. Il faut que les`\
+`parlementaires nationaux et européens qui traitent des sujets`\
+`liés à la technologie et l'innovation recoivent de nombreuses`\
+`cartes postales et de nombreux exemplaires de l'Appel Urgent de`\
+`leurs électeurs. Des traductions de l'Appel Urgent, des exemples`\
+`de cartes postales et des adresses à contacter sont disponibles`\
+`pour de nombreux pays dans les liens précédents. Si vous ne voyez`\
+`pas d'informations concernant votre pays, veuillez les rajouter.`
+
+`Feedback et Pointeurs:`\
+`----------------------`
+
+`Chaque lundi soir a lieu sur IRC à irc.debian.org `\
+`sur #bxl-ffii un "volunteer outreach". Vous êtes `\
+`également bienvenus à n'importe quel autre moment.`\
+`Interface web à : `[`http://bxl-ffii.miernik.ctnet.pl`](http://bxl-ffii.miernik.ctnet.pl)\
+\
+`Répondez à cet e-mail en complétant ce formulaire pour`\
+`vous inscrire aux actions suivantes :`
+
+`[ ] Je suis intéressé par un camp d'automne (17-20 Sept 2004) à Markelo, NL`\
+`    `[`http://kwiki.ffii.org/Ffiinl0409En`](http://kwiki.ffii.org/Ffiinl0409En)\
+`[ ] Je ne pourrais participer au camp d'automne 2004 mais je`\
+`    serais intéressé par un événement similaire près de [______]`\
+`    (indiquez une ville de plus de 100.000 habitants)`\
+`[ ] Je suis intéressé par la conférence de Bruxelles en Novembre`\
+`    `[`http://plone.ffii.org/events/2004/test`](http://plone.ffii.org/events/2004/test)\
+`[ ] j'aimerais passer à Bruxelles à une autre moment`\
+`    (nous pourrions peut-être aider à arranger quelque chose)`\
+\
+`---`\
+*`*Please`` ``localise`` ``this`` ``part!*`*\
+`For UK activities, see also `[`http://www.ffii.org.uk/`](http://www.ffii.org.uk/)` or subscribe`\
+`to ffii-uk-request at ffii org uk.`\
+`---`
+
+`Pour d'autres activités régionales (par exemple rencontrer d'autres `\
+`volontaires de votre région), contactez regio-help (à) ffii org. Les`\
+`hommes politiques régionaux ont souvent une influence cruciale.`
+
+`Pour faire des donations, voyez `[`http://www.ffii.org/assoc/financ/`](http://www.ffii.org/assoc/financ/)
+
+`Merci,`\
+*`*`` ``ici`` ``votre`` ``nom`` ``*`*\
+`<consilium-help(at)ffii.org>`
+
+`PS: Si votre mail ne passe pas (faux positif sur un `\
+`logiciel antispam), contactez postmaster (à) ffii org `\
+`Vous pouvez aussi écrire à admins (à) ffii org`\
+`si vous voulez rejoindre l'équipe informatique.`\
+`PPS: Un problème distinct, mais bientôt d'actualité :`\
+[`http://wiki.vrijschrift.nl/DRMcomments`](http://wiki.vrijschrift.nl/DRMcomments)

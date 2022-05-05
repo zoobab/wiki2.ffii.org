@@ -1,0 +1,304 @@
+# [TRIPs](TRIPs "wikilink"): 10 years later A Conference to commemorate the 10th anniversary of the conclusion of the WTO [TRIPs](TRIPs "wikilink") Agreement {#trips_10_years_later_a_conference_to_commemorate_the_10th_anniversary_of_the_conclusion_of_the_wto_trips_agreement}
+
+## EUROPEAN COMMISSION, Directorate-General for Trade, Brussels, 23/24 June 2004 {#european_commission_directorate_general_for_trade_brussels_2324_june_2004}
+
+Registration (no charge):
+<http://scic.cec.eu.int/scic/owa/WEB_MTKF.reg_form?confID=04TRADETRIPS>
+Tuula Seppä, puh./työ -32-2-2995476, e-mail: tuula.seppa\@scic.cec.be
+
+Official page:
+<http://europa.eu.int/comm/trade/issues/sectoral/intell_property/pr110604_en.htm>
+
+------------------------------------------------------------------------
+
+Letter from Pascal Lamy, EU Trade Commissioner
+
+This year marks the tenth anniversary of the conclusion of the Marrakesh
+Agreement establishing the World Trade Organisation. One of the most
+innovative aspects of this global trade agreement was the Agreement on
+Trade-Related Aspects of Intellectual Property Rights. Its conclusion
+laid the basis for a truly globalised intellectual property regime. At
+the same time, its implementation led to the emergence of important
+political debates in the WTO, notably on the impact of intellectual
+property on the developing world, access to medicines, and the
+protection of geographical indications. These debates are a reflection
+of the challenges of the global trading system regulated by the WTO. In
+order to look back at these ten years and, more importantly, to examine
+the prospects for the future, I am organising a conference to be held in
+Brussels on 23-24 June 2004. This conference will bring together
+influential actors - from industrialists to government representatives,
+international organisations, [NGOs](NGOs "wikilink") and academics -
+with an interest in intellectual property world wide. The aim is to
+assess from the widest possible number of perspectives the implications
+of the [TRIPs](TRIPs "wikilink") Agreement and future trends and
+challenges in global intellectual property protection. The Conference is
+meant to offer a high profile platform to address the key issues, such
+as the implications of the [TRIPs](TRIPs "wikilink") Agreement for
+developing countries, enforcement challenges, the interplay between
+intellectual property and human rights, the relationship between
+intellectual property and the public domain and the question on whether
+the [TRIPs](TRIPs "wikilink") Agreement is adequate to the challenges of
+globalisation and the knowledge society. The conference will also enable
+us to examine issues which are not only of direct relevance to the
+global trading system, including the negotiations in the WTO under the
+Doha Development Agenda, but also to sustainable development, transfer
+of technology and research and development. The event consists of four
+panels with high profile speakers, who will engage in an open debate in
+which the participants will be invited to participate actively. I would
+very much like to invite you to attend this conference. Your
+participation is free of charge, but upon prior registration. A draft
+programme of the conference is enclosed for your convenience. I would
+kindly invite you to register by 4 June 2004 at the latest, using the
+electronic inscription form at
+<http://scic.cec.eu.int/scic/owa/WEB_MTKF.reg_form?confID=04TRADETRIPS>.
+I draw your attention to the fact that the number of participants is
+limited to 450, and that registrations will be treated on a
+first-come-first-serve basis. Please follow carefully the instructions
+set out on the following pages. I look forward to your reply and to
+seeing you on this occasion.
+
+`   Yours sincerely,`
+
+`   Pascal LAMY`
+
+------------------------------------------------------------------------
+
+# PROGRAMME
+
+IMPORTANT NOTICE: This programme is subject to changes. (\*) indicates
+speakers to be confirmed
+
+## 23 June 2004 {#june_2004}
+
+### 14:30-15:00 Opening Address by Pascal Lamy, EU Trade Commissioner {#opening_address_by_pascal_lamy_eu_trade_commissioner}
+
+### 15:00-18:00 Panel 1: Ten years of the [TRIPs](TRIPs "wikilink") Agreement: Taking Stock {#panel_1_ten_years_of_the_trips_agreement_taking_stock}
+
+Moderator: Mr Lars Anell, former ambassador of Sweden to the WTO,
+Chairman of the Uruguay Round Negotiating Group on
+[TRIPs](TRIPs "wikilink"). Questions to be addressed:
+
+-   What has been the effect of globalising intellectual property
+    rights?
+-   Has the [TRIPs](TRIPs "wikilink") Agreement lived up to the
+    expectations?
+-   Have developing countries experienced TRIPS as an obstacle or a
+    booster for development?
+-   Which problems have been experienced in the implementation of
+    [TRIPs](TRIPs "wikilink")? Have solutions been adequate?
+
+Panellists:
+
+-   Dr. Supachai Panichpakdi, Director-General, World Trade Organization
+-   Mr. Celso Amorim\*, Minister of Foreign Affairs, Brazil
+-   Mr. Jean-Pierre Garnier\*, CEO Glaxosmithkline
+-   Mr. Ricardo Melendez Ortiz, Executive Director of ICTSD, Geneva
+-   Mr. Mogens Peter Carl, Director General for Trade, European
+    Commission, Former Negotiator of the [TRIPs](TRIPs "wikilink")
+    Agreement
+-   Prof. John Barton, Professor of Law, Stanford University, Former
+    Chairman of the UK Commission on Intellectual Property Rights;
+
+Questions of the floor and debate
+
+### 18h00: Reception {#h00_reception}
+
+------------------------------------------------------------------------
+
+## 24 June 2004 {#june_2004_1}
+
+### 09:00 - 10h40: Panel 2: Enforcement challenges {#h40_panel_2_enforcement_challenges}
+
+Moderator: Dr. Istvan Major, Deputy State Secretary, Former Ambassador
+of Hungary to the WTO and former Chairman of the
+[TRIPs](TRIPs "wikilink") Council. Questions to be addressed:
+
+-   What are the strengths and weaknesses of the Enforcement mechanisms
+    in the [TRIPs](TRIPs "wikilink") Agreement?
+-   How to tackle piracy and counterfeiting?
+-   Costs of non-implementation of [TRIPs](TRIPs "wikilink") vs. cost of
+    implementation of [TRIPs](TRIPs "wikilink")
+-   Is IP Enforcement really a Priority for Developing Countries?
+-   Is it time for a new strategy for Enforcement of Intellectual
+    Property Rights?
+
+Panellists:
+
+-   Mrs. Elisabeth Ponsolle des Portes, General Delegate of Comité
+    Colbert, France
+-   Mrs. Betty Mould-Iddrisu, Director of the Legal and Constitutional
+    Affairs Division, Commonwealth Secretariat, London
+-   Mr. Thierry Stoll, Deputy Director General, European Commission,
+    Internal Market DG
+-   Prof. Joseph Straus, Max Planck Institute for Intellectual Property,
+    Competition and Tax Law, Munich
+-   Mr. Michael Bailey, Senior Policy Advisor, Oxfam
+
+### 11.00-13:00: Panel 3 : [IPRs](IPRs "wikilink"), Human Rights and the Public Domain {#panel_3_iprs_human_rights_and_the_public_domain}
+
+Moderator: Dr. Istvan Major, Deputy State Secretary, Former Ambassador
+of Hungary to the WTO and former Chairman of the
+[TRIPs](TRIPs "wikilink") Council. Questions to be addressed:
+
+-   Are there conflicts between [IPRs](IPRs "wikilink") and Human
+    Rights?
+-   Are intellectual property rights marginalising the public domain?
+-   Do [IPRs](IPRs "wikilink") on biotechnology lead to Privatisation of
+    Life and Natural Resources?
+-   [IPRs](IPRs "wikilink") and the knowledge society: friends or foes?
+-   Intellectual Property Rights and research: Is the Tool serving its
+    Purpose?
+
+Panellists:
+
+-   Mr. Philippe Busquin, EU Research Commissioner
+-   Dr. Vandana Shiva, Founder of the Research Foundation for Science,
+    Technology and Ecology
+-   Mr Feike Sybesma\*, Chairman [EuropaBio](EuropaBio "wikilink")
+-   Prof. Lawrence Lessig\*, Stanford University, Open Software activist
+-   Mr. Tim Hubbard, Geneticist, Sanger Institute, Cambridge (UK)
+
+Lunch Break
+
+### 14:30 - 16:30: Panel 4: Outlook to the future of [TRIPs](TRIPs "wikilink"): How to ensure an appropriate IPR System in a globalised economy? {#panel_4_outlook_to_the_future_of_trips_how_to_ensure_an_appropriate_ipr_system_in_a_globalised_economy}
+
+Moderator: Mr Lars Anell, former ambassador of Sweden to the WTO,
+Chairman of the Uruguay Round Negotiating Group on
+[TRIPs](TRIPs "wikilink"). Questions to be addressed:
+
+-   Is the [TRIPs](TRIPs "wikilink") Agreement adequate to respond to
+    the challenges of the knowledge society?
+-   Is there a need for restoring the freedom of developing countries to
+    adopt systems they consider best to advance their economic and
+    social development needs?
+-   How do we take account of diverse collective preferences?
+-   Is the [TRIPs](TRIPs "wikilink") agreement sufficiently flexible?
+-   Is further harmonisation of IP rules a viable option?
+-   Future trends?
+
+Panellists:
+
+-   Mr R.B. Zoellick\*, US Trade Representative
+-   Mr. Bo Xilai\* Minister of Commerce, China
+-   Mr Ernesto Bertarelli\*, CEO, Serono International SA
+-   Mr. Rubens Ricupero, Secretary General, UNCTAD
+-   Mr Geoffrey Yu, Deputy Director General, WIPO
+-   Prof. Keith Maskus, Chair of the Economics Department, University of
+    Colorado
+
+### 16:30 - 17:00: Final Wrap-up and Concluding Remarks by Pascal Lamy {#final_wrap_up_and_concluding_remarks_by_pascal_lamy}
+
+### End of Conference {#end_of_conference}
+
+------------------------------------------------------------------------
+
+# PRACTICAL INFORMATION {#practical_information}
+
+PLEASE READ ALL INSTRUCTIONS CAREFULLY
+
+### Date and Conference venue {#date_and_conference_venue}
+
+23-24 June 2004, starting at 8.30 a.m. Charlemagne Conference Centre,
+Room S3, Rue de la Loi 170, B-1040 Brussels - Belgium (Closest metro
+station / bus stop: Schuman)
+
+### Welcome Desk {#welcome_desk}
+
+A Welcome Desk will be available to participants on Wednesday 23 June
+2004 from 08.30 hrs until the end of the conference.
+
+### Registration
+
+Participants are requested to register as soon as possible using the
+?registration on line? form available at the following URL address:
+<http://scic.cec.eu.int/scic/owa/WEB_MTKF.reg_form?confID=04TRADETRIPS>.
+Deadline for registrations: 4 June 2004. A confirmation letter will be
+sent to all participants registered by this deadline. The conference
+language is English.
+
+### Web streaming {#web_streaming}
+
+The conference will be broadcast worldwide via the Internet (see
+Conference Web-page).
+
+### Fees
+
+There are no registration fees for this conference.
+
+### Lunch
+
+The European Commission invites participants to lunch at the conference
+venue on 24 June.
+
+### Cocktail
+
+Participants are invited to a cocktail on 23 June 2004 immediately after
+the afternoon session.
+
+### Travel and accommodation {#travel_and_accommodation}
+
+Participants have to organise their own travel and accommodation; the
+European Commission will not reimburse these expenses.
+
+### Organisation
+
+European Commission, Directorate General for Interpretation, B-1049
+Brussels, Contact: Mrs T. Seppä or Mrs. C. Cordie, Office: DM-24 1/74 or
+1/107, Fax: +32.2.299.19.71 or +32.2.296.49.86, E-mail:
+tuula.seppa\@cec.eu.int or christine.cordie\@cec.eu.int
+
+### Protection of personal data {#protection_of_personal_data}
+
+A request to attend the above conference means that certain personal
+data concerning each participant will have to be handled by the
+Directorate-General TRADE, in conformity with Regulation (EC) 45/2001.
+By registering, a participant gives his or her agreement to have these
+personal data handled in the context of the conference. In accordance
+with the dispositions of the above regulation, the following precisions
+must be borne in mind: Data controller: Mr. Philippe Ruys DG TRADE A.4
+Office: CHAR 8/62 Reason for handling the personal data: to permit
+certain actions to be carried out (serving as the basis for the list of
+participants to be distributed to all attendees at the conference).
+Right of access to personal data: participants have the right to access
+their own data which will be kept until the next conference. 13.
+
+### Hotels with special price arrangements {#hotels_with_special_price_arrangements}
+
+Participants may consider booking a room ? subject to availability - in
+one of the following hotels near the Conference centre Charlemagne (the
+following reference should be mentioned): Ref. EC Conference «
+[TRIPs](TRIPs "wikilink") Agreement », Brussels, 23-24 June 2004
+
+CHELTON HOTEL Rue Véronèse 48 B-1000 Brussels Tel. +32 2 735.20.32 Fax
++32 2 735.07.66 e-mail: cheltonhotel\@swing.be
+
+Single room with breakfast, taxes et service: ? 120,00 Double room with
+breakfast, taxes et service: ? 138,00
+
+FIRST EUROFLAT HOTEL Boulevard Charlemagne 50 B-1000 Brussels Tel. +32 2
+230.00.10 Fax +32 2 230.36.83 e-mail: reservation\@hoteleuroflat.be
+
+Single room with breakfast, taxes et service: ? 123,00
+
+HOTEL EUROVILLAGE Boulevard Charlemagne 80 B ? 1000 Brussels Tel. +32 2
+230.85.55 Fax +32 2 230.56.35 e-mail: reservation\@eurovillage.be
+
+Single room with breakfast, taxes and service: ? 131,00 Double room with
+breakfast, taxes and service: ? 162,00
+
+------------------------------------------------------------------------
+
+Vous avez recu ce message car vous etes abonne a la liste de diffusion
+Escape_l, consacree a la propriete intellectuelle, au Libre et au
+numerique.
+
+Pour ecrire a la liste: escape_l\@freescape.eu.org
+
+Abonnement/Desabonnement: <http://listes.samizdat.net/wws/info/escape_l>
+
+Pour inciter une connaissance a s\'inscrire:
+<http://listes.samizdat.net/wws/info/escape_l>
+
+Archives de la liste: <http://listes.samizdat.net/wws/arc/escape_l>
+
+------------------------------------------------------------------------

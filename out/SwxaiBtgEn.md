@@ -1,0 +1,99 @@
+# 2004 BTG extracting royalties for Virus Updates, Internet Downloading {#btg_extracting_royalties_for_virus_updates_internet_downloading}
+
+\--\> \[ [ deutsch](SwxaiBtgDe "wikilink") \] \[ [
+News](SwpatcninoEn "wikilink") \| [ BTG
+2004-06-14](Btg040614En "wikilink") \| [ Patents in
+Action](SwpikxraniEn "wikilink") \| [
+Allvoice](SwxaiAllvoiceEn "wikilink") \| [
+E-Data](SwxaiEdataEn "wikilink") \| [
+Microsoft](SwpatmicrosoftEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+## Summary
+
+British Technology Group, an \"intellectual property licensing
+company\", is going after Microsoft and others with a set of broad
+patents which seem to have been applied for and granted in the USA only.
+It thus seems that BTG is targetting the US business of the companies.
+The patents, all attributed to inventor Richard Reisman, describe
+combinations of steps that appeared only recently in Windows XP
+installation routines and for which prior art may be difficult to find.
+
+## Media reports {#media_reports}
+
+-   2004-09-15 US [Reuters: BTG files lawsuit against
+    Amazon](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=businessNews&storyID=583601&section=finance "wikilink")
+-   2004-09-15 US [Out-Law.com: BTG uses web tracking patents to sue
+    Amazon,
+    Barnes&Noble](http://www.out-law.com/php/page.php?page_id=webtrackingpatents1095249223&area=news "wikilink")
+-   [2004-07-20 US BTG and Teleshuttle sue Microsoft and Apple over
+    software updates via the
+    web](http://biz.yahoo.com/rc/040720/tech_btg_lawsuit_1.html "wikilink")
+    ([Teleshuttle
+    PR](http://www.btgplc.com/news/20072004MicrosoftApple.html "wikilink"))
+    -   -   new lawsuits based on [US
+            6557054](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,557,054.WKU.&OS=PN/6,557,054&RS=PN/6,557,054 "wikilink")
+            and [US
+            6125388](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,125,388.WKU.&OS=PN/6,125,388&RS=PN/6,125,388 "wikilink")
+-   2007-07-21 [Heise: Microsoft und Apple wegen Patentverletzung
+    verklagt](http://www.heise.de/newsticker/meldung/49263 "wikilink")
+-   [ZDNet: UK Firm claims patents on Internet
+    downloading](http://news.zdnet.co.uk/business/0,39020645,39157640,00.htm "wikilink")
+-   [Computerwelt: Britische Firma pocht auf Patent für
+    Softwaredownloads](http://www.computerwelt.at/detailArticle.asp?a=83425&n=6 "wikilink")
+-   2004-06-16 AT
+    [Computerwoche.AT](http://www.computerwelt.at/detailArticle.asp?a=83425&n=6 "wikilink")
+-   2004-06-17 US? [Out-Law.com more information wit US-Patent numbers
+    listed](http://www.out-law.com/php/page.php?page_id=1087319985&area=news "wikilink")
+
+## BTG Patents {#btg_patents}
+
+According to
+[Out-Law.com](http://www.out-law.com/php/page.php?page_id=1087319985&area=news "wikilink")
+the following patents are involved (all are US patents):
+
+-   [5,694,546](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=5,694,546.WKU.&OS=PN/5,694,546&RS=PN/5,694,546 "wikilink")
+    System for automatic unattended electronic information transport
+    between a server and a client by a vendor provided transport
+    software with a manifest list (priority date 1994/05/13, US and WO)
+-   [6,594,692](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,594,692.WKU.&OS=PN/6,594,692&RS=PN/6,594,692 "wikilink")
+    Methods for transacting electronic commerce
+-   [6,125,388](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,125,388.WKU.&OS=PN/6,125,388&RS=PN/6,125,388 "wikilink")
+    System for transporting information objects between a user station
+    and multiple remote sources based upon user modifiable object
+    manifest stored in the user station. Claim 1 reads:
+
+`An automated electronic information transporter located at a user station for controlling transport of information `\
+`objects on a communications network providing access to multiple remote sources, the information transporter comprising: `\
+`(a) a communications module which effects the fetching or sending of information objects across the network between at`\
+`least one of the remote sources and persistent storage at the user station; and `\
+\
+`(b) a transport control module which controls transport of the information objects in accordance with: `
+
+` i) a source address for the at least one remote source; and `
+
+` ii) an object manifest specifying at least one information object to be transported; `
+
+` wherein a higher level software entity can be invoked to modify the object manifest, and `
+
+` wherein the higher level software entity comprises a viewer for at least one content type `\
+` available on the communications network, the content type being selected from the group `\
+` consisting of multimedia formats, video formats, sound formats and `\
+` hypertext markup language ("HTML"). `\
+
+-   [6,658,464](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,658,464.WKU.&OS=PN/6,658,464&RS=PN/6,658,464 "wikilink")
+    User station software that controls transport, storage, and
+    presentation of content from a remote source
+-   [6,611,862](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,611,862.WKU.&OS=PN/6,611,862&RS=PN/6,611,862 "wikilink")
+    User station software that controls transport and presentation of
+    content from a remote source
+-   [6,557,054](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,557,054.WKU.&OS=PN/6,557,054&RS=PN/6,557,054 "wikilink")
+    Method and system for distributing updates by presenting directory
+    of software available for user installation that is not already
+    installed on user station
+
+## European Cousins of the Reisman patents {#european_cousins_of_the_reisman_patents}
+
+-   <http://www.espacenet.com/>
+-   <http://www.depatisnet.com/>

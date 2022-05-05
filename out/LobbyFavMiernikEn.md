@@ -1,0 +1,21 @@
+Links to my favourite MEP lobbying papers which I print out and give to
+assistants/MEPs when I visit them:
+
+Much good material here: <http://www.elis.ugent.be/~jmaebe/swpat/>
+
+Especially:
+<http://www.elis.ugent.be/~jmaebe/swpat/webshop/webshop_en_new2.pdf>
+<http://www.elis.ugent.be/~jmaebe/swpat/webshop/webshop_pl_new2.pdf>
+
+<http://www.elis.ugent.be/~jmaebe/swpat/cii2.pdf>
+
+Maybe this:
+<http://www.elis.ugent.be/~jmaebe/swpat/coalition%20amendments.pdf>
+
+<http://www.isoc.org.pl/wiki/index.php/Patenty/PoprawkiDoRady>
+
+And of course this is always needed when lobbying in EP:
+<http://wwwdb.europarl.eu.int/ep6/owa/p_meps2.repartition?ilg=EN&iorig=home>
+
+And of course the Urgent Appeal: <http://www.ffii.org.pl/pat/apel/>
+<http://www.ffii.org.pl/pat/apel/Apel_ZalD_v1.1.pdf>

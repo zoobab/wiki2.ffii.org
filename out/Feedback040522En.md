@@ -1,0 +1,32 @@
+Dear FFII Supporter,
+
+`The EU Council of ministers has discussed and voted controversely the software patent directive in`\
+`a public meeting in Brussels on tuesday[1]. `
+
+`It is likely that the directive has to be fixed by parliament, as announced before`\
+`we need your help for continued campaigning up to the European Parliament's`\
+`elections of June 10-13 and beyond.`
+
+`Please `**`reply`**` to this mail (do not forward!)`\
+`and tick, using + and - for yes and no and integer numbers where called for.`
+
+` I am willing to spend [__] hours per week during the EP election campaign`\
+` I am located in country [$LAND] (ISO 3166 code).`\
+` My nearest city (for possible local events) is [$URB].`\
+` [ ] I am willing to regularly participate in minidemos[5] in this city.`\
+` [$PARL] I want to participate in my national activist ($LAND-parl) mailing list. `\
+` [$HELP] I am willing to answer inquiries to my national helpdesk ($LAND-help). `\
+` I will donate [__] EUR[7].`\
+` [ ] Please leave me alone, I don't want to support FFII anymore.`
+
+`Thank you for your understanding and continued support.`
+
+`Yours sincerely`
+
+`[1] press release at: `[`http://swpat.ffii.org/news/04/cons0518/`](http://swpat.ffii.org/news/04/cons0518/)\
+`    media echo at: `[`http://kwiki.ffii.org/index.cgi?ConsMedia040518En`](http://kwiki.ffii.org/index.cgi?ConsMedia040518En)\
+`[2] `[`http://swpat.ffii.org/group/todo/`](http://swpat.ffii.org/group/todo/)\
+`[3] `[`http://kwiki.ffii.org/FfiiprojEn`](http://kwiki.ffii.org/FfiiprojEn)\
+`[5] `[`http://kwiki.ffii.org/Minidemo0405En`](http://kwiki.ffii.org/Minidemo0405En)\
+`[6] `[`http://kwiki.ffii.org/Bruxelles040517En`](http://kwiki.ffii.org/Bruxelles040517En)\
+`[7] `[`http://www.ffii.org/assoc/financ/`](http://www.ffii.org/assoc/financ/)

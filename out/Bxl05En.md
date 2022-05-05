@@ -1,0 +1,4 @@
+1.  1.  -\*- dok: bxl05; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+-\> [Europarl05En](Europarl05En "wikilink")

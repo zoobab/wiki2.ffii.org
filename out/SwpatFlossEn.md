@@ -1,0 +1,73 @@
+# Free *Libre* [OpenSource](OpenSource "wikilink") Software and Patents {#free_libre_opensource_software_and_patents}
+
+\--\> \[ [ Patent News](SwpatcninoEn "wikilink") \| [ Patents in
+Action](SwpikxraniEn "wikilink") \| [
+Standardisation](StandardEn "wikilink") \| [
+Shields](SwpatgacriEn "wikilink") \| [
+Microsoft](SwpatmicrosoftEn "wikilink") \| [ Patent
+Insurance](PatinsEn "wikilink") \| [ OSRM](OsrmEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+## News & Chronology {#news_chronology}
+
+-   2004-08-25 US [Microsoft Asserts Patent on Sender-ID
+    Standard](http://www.aful.org/wws/arc/patents/2004-08/msg00071.html "wikilink")
+    (\--\> [ Microsoft](SwpatmicrosoftEn "wikilink"), [ Patents in
+    Action](SwpikxraniEn "wikilink"))
+
+## Special Vulnerability of Free/OpenSource Software {#special_vulnerability_of_freeopensource_software}
+
+Free/Libre/!OpenSource Software (FLOSS) is affected by patents in
+special ways. The effects on shareware are in part similar. They include
+
+1.  exclusion from licensing of most patents
+
+00 exclusion from licensing of any patent that imposes a per-copy-fee 00
+exclusion from licensing of any patent that imposes a lumpsum entry fee
+00 in summary: usually nobody will pay the typical patent license fees
+for free software. This is particularly true of [ uniform-fee-only (UFO
+= RAND)](RandEn "wikilink") licenses such as those [preferred by
+Microsoft and the European
+Commission](http://swpat.ffii.org/news/04/cecms0326/ "wikilink").
+Whenever an unavoidable feature (e.g. one needed for interoperation) is
+patented with a UFO license, free software becomes completely
+incompetitive for 20 years.
+
+1.  visibility
+
+00 patent infringments by open source software are easy to prove 00 the
+only advantage is that in some cases this helps find prior art
+
+1.  vulnerability of the players
+
+00 anyone who produces or uses can be attacked, and nobody comes to
+rescue: 000 floss authors do not have the monetary ressources to protect
+themselves and their users against such attacks 000 big FLOSS companies
+such as IBM & HP will not use their private ressources to come out to
+rescue a public good (see below) 00 mitigation of these risks costs
+extra money, thereby making free software expensive 000 Microsoft
+correctly uses this fact for calculating a higher \"total cost of
+ownership\" (TCO) of its main competitor and thereby staying in business
+000 In fact the extra cost can be paid to [
+insurers](PatinsEn "wikilink") such as [ OSRM](OsrmEn "wikilink") who
+however only offer partial protection against the risk
+
+## Won\'t Big Companies like IBM help ? {#wont_big_companies_like_ibm_help}
+
+IBM is not even willing to make its own software patents generally
+available for use in free software and even less so to spend its private
+ressources to defend a public good. Whenever a GNU/Linux system is
+encumbered by patents, IBM\'s reaction usually is to ask its suppliers
+to withdraw the feature. IBM will not even use its standing to secure a
+license from friendly companies who would be willing to give one, see
+the [ TTF](SwxaiTtfEn "wikilink") case.
+
+Moreover IBM\'s patent lawyers are pushing for unlimited patentability
+and unfettered patent enforcement (including enforcement of patents
+against standards and interfaces) in the EU.
+
+Although not everybody is as aggressively lobbying for unlimited
+patentability as IBM, no company is willing to use its private
+ressources for public goods, and there are few reasons to assume that
+this could change.

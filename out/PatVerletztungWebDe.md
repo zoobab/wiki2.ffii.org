@@ -1,0 +1,3 @@
+Diese URL enthielt einen Schreibfehler, die neue Seite ist hier:
+
+<http://wiki.ffii.org/index.cgi?PatVerletzungWebDe>

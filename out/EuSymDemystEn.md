@@ -1,0 +1,70 @@
+1.  1.  -\*- dok: [EuSymDemyst](EuSymDemyst "wikilink"); lang: en;
+        coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-04-15
+
+# Questions about meanings of symbols in Council Documents {#questions_about_meanings_of_symbols_in_council_documents}
+
+-\> \[ [ Legal Documents](SwpatLegDocsEn "wikilink") \| [
+Council](SwpatconsiliumEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Someone called \"I\" started a wiki page asking questions about symbols
+in EU documents and giving some hints as to what he has found they might
+mean.*
+
+## Explanations on symbols in EU Council documents {#explanations_on_symbols_in_eu_council_documents}
+
+-   [some
+    explanations](http://www.europa.eu.int/prelex/aide.cfm?CL=en&manualcat_id=api "wikilink")
+
+## Questions posed by anonymous \"I\" {#questions_posed_by_anonymous_i}
+
+For example let\'s take
+<http://register.consilium.eu.int/pdf/fr/04/st11/st11979.fr04.pdf>
+
+There are several symbols on the first page that I am curious what they
+mean:
+
+1\) in the top right corner, under Bruxelles there is (OR, en)
+
+2\) does the document number 11979/04 have any logic behind it?
+
+`  I know 04 is year 2004, and I noticed that usually the first two`\
+`  digits change when there is a change of the month of "Document Date",`\
+`  but it might be just coincidence, I did not check too many yet.`
+
+3\) what is \"PI 61\" and \"CODEC 962\"?
+
+`  Its descibed as "Subject Matter" but any more details?`\
+`  CODEC might be CODECISION`
+
+4\) in the footer there is something like \"JG/cb\" or \"GA/jw\" (that
+was in
+
+`  an english version of that document. That might have something to do`\
+`  with the translator...`
+
+5\) and finally what is DG C1 also in the footer?
+
+`  DG C1 is the organisational body in the Commission. Ask Ph. Aigrain for explaition.`\
+`  Arebenti: DG = Directorate General I assume`
+
+Is there an explanation somewhere of all this?
+
+Also the funny EU notation like
+
+PV/CONS 28 COMPET 76 RECH 100
+
+or
+
+6580/02 PI 10 CODEC 242 11503/03 CODEC 995 PI 70 9277/04 PI 41 CODEC 693
+
+`    + ADD 1`
+
+This explains some of the abbreviations:
+<http://www.europa.eu.int/prelex/aide.cfm?CL=en&manualcat_id=api>
+
+out of
+<http://register.consilium.eu.int/pdf/en/04/st09/st09586.en04.pdf> is
+not yet perfectly clear to me.

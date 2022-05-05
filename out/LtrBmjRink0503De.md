@@ -1,0 +1,143 @@
+1.  1.  -\*- dok: [LtrBmjRink0503](LtrBmjRink0503 "wikilink"); lang: de;
+        coding: iso-8859-1; mode: fundamental; -\*-
+
+# BMJ verharmlost Ratsposition, lässt Bundestag ins Leere laufen {#bmj_verharmlost_ratsposition_lässt_bundestag_ins_leere_laufen}
+
+-\> \[ [ BMWA-Belehrung](Bmwa0503De "wikilink") \| [
+BMJ](SwpatbmjDe "wikilink") \| [ Nachrichten](SwpatcninoDe "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+*17. März 2005 \-- Das BMJ hat auf ein Schreiben eines besorgten
+Softwareentwicklers zur Softwarepatentrichtlinie geantwortet. Anders als
+der Bundestag sieht das BMJ nach wie vor keine Probleme in der
+Ratsposition. Es behauptet weiterhin, dass es in dieser nicht um
+Software gehe, und spielt dabei in irreführender und definitionswidriger
+Weise mit Worten. Auf die Forderungen des Bundestages wird immerhin in
+abstrakter Weise Spielraum eingeräumt, aber es ist zu befürchten, dass
+in der vom BMJ bevorzugten (und hier nicht näher ausgeführten)
+Konretisierung dieser Spielraum auf Null zusammenschrumpft.*
+
+## Der Text {#der_text}
+
+mit eingestreuten Kommentaren von [ Hartmut
+Pilch](HartmutPilchDe "wikilink").
+
+`Bundesministerium der Justiz`\
+`Geschäftszeichen: `\
+`III B 4-9522/1-11(25)II-31 1568/2004 (bei Antwort bitte angeben)`
+
+`Berlin, den 17. März 2005`\
+`Postanschrift: Bundesministerium der Justiz, 11015 Berlin Hausanschrift:`\
+`Mohrenstraße 37, 10117 Berlin Lieferanschrift: Kronenstraße 41, 10117`\
+`Berlin Telefon: 0 18 88 5 80 - 0 (0 30) 20 25 - 70 bei Durchwahl: 0 18`\
+`88 5 80 - 9677 (0 30) 20 25 - 9677 Telefax: 0 18 88 5 80 - 95 25 (0 30)`\
+`20 25 - 95 25`
+
+`Herrn ...`
+
+`Sehr geehrter Herr ...,`
+
+`vielen Dank für Ihr Schreiben vom 9. Februar 2005 zur Richtlinie über`\
+`die Patentierbarkeit computerimplementierter Erfindungen.`
+
+`Die derzeit diskutierte Richtlinie dient dem Zweck, die in den`\
+`Mitgliedstaaten der Europäischen Union bestehenden und sehr allgemeinen`\
+`Vorschriften zur Patentierung von Erfindungen für den Teilbereich der`\
+`computerimplementierten Erfindungen konkreter auszugestalten.`\
+`Computerimplementierte Erfindungen sind ­ vereinfacht gesagt ­ solche`\
+`Erfindungen, bei denen ein Computer oder ein Computerprogramm im`\
+`Zusammenhang mit einer Hardware verwendet wird, wie z.B. beim`\
+`Antiblockiersystem ABS.`
+
+Diese Aussage ist falsch. Unter \"[ Computer-Implementierte
+Erfindungen](EubsaKinvDe "wikilink")\" versteht die Europäische
+Kommission ebenso wie das Europäische Patentamt gerade nicht
+Anti-Blockiersysteme (die wären vielleicht \"bremskraft-implementiert\")
+sondern reine Softwarelösungen. Eine Umdefinition des Begriffes in
+obigem Sinne, wie sie das Europäische Parlament vorgeschlagen hatte, hat
+das BMJ im EU-Rat abgelehnt. S. auch Artikel 2a in der
+[Vergleichstabelle](http://swpat.ffii.org/papierëuroparl0309/cons0401/tab/ "wikilink").
+
+`Mit der angestrebten Konkretisierung, die im Wesentlichen auf die von`\
+`der Rechtsprechung entwickelten Grundsätze zurückgreift, soll`\
+`gleichzeitig eine europaweite Harmonisierung erreicht werden. Darüber`\
+`hinaus geht es aber auch um die eindeutige Festschreibung der Grenzen`\
+`des Patentschutzes, wofür sich Deutschland von Beginn der Verhandlungen`\
+`über die Richtlinie an mit Erfolg eingesetzt hat. Die Bundesregierung`\
+`lehnt es ab, computerimplementierten Erfindungen generell den`\
+`Patentschutz zu versagen. Gleichzeitig wendet sie sich aber gegen eine`\
+`Ausweitung des Patentschutzes für computerimplementierte Erfindungen.`\
+`Patente für Software dürfen weiterhin nicht erlaubt werden.`
+
+`Inhaltlich sehen weder die Fassung des Europäischen Parlaments noch die`\
+`des Rates eine Ausweitung der Patentierungsmöglichkeiten vor.`\
+`Computerprogramme als solche können nach dem aktuellen`\
+`Richtlinienvorschlag nicht durch Patente geschützt werden, ebenso wenig`\
+`schützbar sind kaufmännische Geschäftsmethoden. Voraussetzung für den`\
+`Patentschutz in Europa ist und bleibt, dass nur technische Erfindungen`\
+`geschützt werden können. Dies ist ein ganz wesentlicher Unterschied zum`\
+`US-amerikanischen Patentrecht, nach dem alles "Nützliche", also auch`\
+`kaufmännische Geschäftsmethoden und reine Software, dem Patentschutz`\
+`zugänglich sind.`
+
+Diese Aussage ist ebenfalls bekanntermaßen grob falsch. Der angebliche
+Ausschluss von Programmen durch den Ratsbeschluss ist nicht mehr als ein
+irreführendes Wortspiel. Gerade das BMJ hat im Rat durchgesetzt, dass
+Programme Anspruchsgegenstände werden können, und die vom Rat
+wiedergegebene [Praxis des Europäischen
+Patentamtes](http://webshop.ffii.org/ "wikilink") unterscheidet sich aus
+Sicht des (hier vom BMJ addressierten) Softwarebranche nicht nennenswert
+von der des US-Patentamtes.
+
+-   <http://swpat.ffii.org/briefe/cons0406/text/index.de.html>
+-   [CIIisSwEn](CIIisSwEn "wikilink")
+-   <http://swpat.ffii.org/jmaebe/cons.html>
+
+`Das Rechtsetzungsverfahren für die Richtlinie begann Anfang 2002 mit der`\
+`Vorlage eines Vorschlags der Kommission, in den einige zuvor eingeholte`\
+`Gutachten eingeflossen waren. Das Europäische Parlament hat den`\
+`Kommissionsentwurf dann beraten, dessen erste Lesung im September 2003`\
+`beendet und das Ergebnis an den Rat weitergeleitet. Nach zahlreichen`\
+`Expertensitzungen mit intensiven Beratungen wurde im Rat am 18. Mai 2004`\
+`mit qualifizierter Mehrheit eine politische Einigung über den`\
+`"Gemeinsamen Standpunkt" des Rates erzielt, der am 07. März 2005`\
+`formell beschlossen wurde.`
+
+Es handelt sich laut Verfahrensregeln des Rates um eine eigenständige
+Entscheidung. Die Herabstufung zum \"formellen Beschluss\" ist eine von
+den Ministerialbeamten präferierte höchst bedenkliche Schattenregel. Ob
+am 7. März in korrekter Weise ein \"Gemeinsamer Standpunkt\" zustande
+kam, erscheint höchst [ zweifelhaft](LtrFfiiCons050308De "wikilink").
+
+`Jetzt wird sich das Europäische Parlament erneut mit dem`\
+`Richtlinienvorhaben befassen und auch die inzwischen formulierte`\
+`Position des Deutschen Bundestages aufgreifen können. Die`\
+`Bundesregierung würde insbesondere die Aufnahme einer tragfähigen`\
+`Technikdefinition und einer mit dem TRIPS-Abkommen konformen`\
+`Interoperabilitätsklausel begrüßen.`
+
+`Insgesamt gesehen wird die Richtlinie in der Ratsfassung die heute`\
+`gültige Rechtslage allerdings nicht wesentlich ändern `
+
+Das BMJ geht hier von einer Verabschiedung der Ratsfassung aus und
+befürwortet diese. Es versucht nach wie vor, diese gesetzgeberische
+Maßnahme mit dem ebenso
+[zweifelhaften](http://swpat.ffii.org/analyse/epue52/ "wikilink") wie
+irrelevanten Argument des \"Status Quo\" (Besitzstandswahrung) zu
+rechtfertigen.
+
+`und daher kaum Auswirkungen auf den Einsatz von Open-Source-Projekten haben, `\
+`die im Übrigen auch von der Bundesregierung gefördert werden.`
+
+Opensource-Projekte werden bereits von der derzeit vom BMJ geförderten
+gesetzeswidrigen Praxis weiter Teile der Patentrechtsprechung [
+geschädigt](SwpikxraniDe "wikilink"). Dass eine Hand der Regierung
+fördert, was die andere schädigt, wäre nichts neues. Auch dem BMJ will
+niemand unterstellen, dass es an einer Schädigung von OSS interessiert
+ist. Es nimmt sie lediglich im Interesse vermeintlich vorrangiger
+Besitzstände in Kauf.
+
+`Mit freundlichen Grüßen `\
+`Im Auftrag Tillmanns`

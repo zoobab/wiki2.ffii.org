@@ -1,0 +1,13 @@
+# TBRPF and patents {#tbrpf_and_patents}
+
+TBRPF, or Topology Broadcast based on Reverse-Path Forwarding, is a
+proactive, link-state routing protocol designed for mobile ad-hoc
+networks, which provides hop-by-hop routing along minimum hop paths to
+each destination. It seems it is patent-protected unless it becomes a
+IETF standard.
+
+<http://www.ietf.org/proceedings/00jul/SLIDES/manet-tbrpf/>
+
+<http://www.ietf.org/proceedings/00jul/SLIDES/manet-tbrpf/sld003.htm>
+
+<http://www1.ietf.org/mail-archive/web/manet/current/msg00366.html>

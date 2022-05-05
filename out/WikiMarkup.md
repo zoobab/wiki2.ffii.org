@@ -1,0 +1,6 @@
+Two single quotes gives italics, three gives bold, summed they give
+both, &tc &tc &tc \... \--BenTrem 09JULY06
+
+------------------------------------------------------------------------
+
+see [KwikiFormattingRules](KwikiFormattingRules "wikilink")

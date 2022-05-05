@@ -1,0 +1,36 @@
+# Europa-Union Deutschland {#europa_union_deutschland}
+
+------------------------------------------------------------------------
+
+Bereits 1946 wurde die Europa-Union Deutschland als überparteiliche
+Initiative mit dem Ziel der Bildung eines europäischen Föderalstaates
+gebildet. Noch heute gehört sie zu den stärksten europapolitisch
+orientierten NRO. Ihre Arbeit ist teilweise durch EU-Gelder finanziert.
+
+Sie bekennt sich zu
+
+-   dem demokratisch-parlamentarischem Aufbau
+-   der Verhinderung von unnötiger Machtkonzentration
+-   der kulturellen Vielfalt
+
+Die Jugendorganisation der Europa-Union ist als Junge Europäische
+Föderalisten (JEF) bekannt.
+
+Politisch handelt es sich bei der Europa-Union um eine saturierte
+politische Bewegung, die breit regional aufgestellt ist, ihre eigentlich
+politische Schlagkraft aber längst verloren hat. Trotz der politischen
+Agenda hat sich die Europa-Union stark entpolitisiert. Auch höchst
+problematische Positionen wie die Forderung nach Englisch als
+europäische Universalsprache werden innerhalb der Jungen Föderalisten
+vertreten.
+
+Rund 60 der 99 deutschen Abgeordneten sind Mitglied der Europa-Union.
+
+## Arbeitsschwerpunkte sind u.a. {#arbeitsschwerpunkte_sind_u.a.}
+
+-   Verfassungskonvent (pro-Verfassung)
+-   EU Erweiterung
+
+## Webaddresse
+
+<http://www.europa-union.de>

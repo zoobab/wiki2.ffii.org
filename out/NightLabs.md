@@ -1,0 +1,2 @@
+-   [NightLabs GmbH (en)](http://wiki.nightlabs.de/en/SwPat "wikilink")
+-   [NightLabs GmbH (de)](http://wiki.nightlabs.de/de/SwPat "wikilink")

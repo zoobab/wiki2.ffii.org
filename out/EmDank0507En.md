@@ -1,0 +1,88 @@
+1.  1.  -\*- dok: [EmDank0507](EmDank0507 "wikilink"); lang: en; coding:
+        iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-07-09
+
+# Thank you, European Parliament! {#thank_you_european_parliament}
+
+-\> \[ [ français](EmDank0507Fr "wikilink") \] \[ [ 21 cross-party
+amendments](AmPlenPr050701En "wikilink") \| [ EP says
+No](Ep050706En "wikilink") \| [ Patent Lobby wasted
+Millions](SpinPr050708En "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \| [ EM
+News](EconomicMajorityNewsEn "wikilink") \| [ Project
+News](FfiiprojNewsEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*9th July 2009 (drafted by phm) \-- The European Parliament has done
+what it could to reject attempts of the European Patent Office and its
+allies to impose software patentability on Europe. It has proven that,
+unlike the Commission and Council, it is willing to listen to citizens
+and industry and able to discern genuine from fake interests. Attempts
+of 20 companies with big patent departments and big lobbying budgets to
+create an appearance of grassroots support for software patents have
+failed before the discerning eyes of a majority of members of the
+European Parliament.*
+
+By providing expertise based on solid factual evidence and on the
+interests of the economic majority as well as the public at large, the
+FFII has been able to win the trust of more than half of the members of
+Parliament, including well-resepected leading figures in all groups,
+including Michel Rocard, Zuzana Roithová, Jerzy Buzek, Eva
+Lichtenberger, Gilles Savary, Piia-Noora Kauppi, Othmar Karas, John
+Purvis, Andrew Duff, Thomas Ulmer, Karl von Wogau, Janusz Onyszkiewicz,
+Adam Gierek, Anders Wijkman, just to name a few. We will continue to
+look for ways to express our gratitude, possibly through a party in
+Brussels in September and a website
+<http://www.power-to-the-parliament.org/> which will invite more people
+to celebrate.
+
+Together with members of the European Parliament in all party groups, we
+were able to win support for [ 21 cross-party compromise
+amendments](AmPlenPr050701En "wikilink"), on which future solutions to
+the persisting problems can be based. The problems persist, because the
+Council and Commission still seem to be firmly in the hands of the
+patent establishment.
+
+We have won a defensive battle, but the European Patent Office continues
+to insist on the unlawful patenting practise to which the European
+Parliament has said a clear No. There will without doubt be further
+attempts by the European patent establishment to impose this practise on
+national courts via EU law, or even simply by institution of a EU patent
+court or a Community Patent. It must be clear that such institutions
+must not be created before the problems of the EPO are solved. During
+the next years and months we will continue to need support from all
+political players in building up pressure to solve these problems. We
+now have nearly 2000 companies signed up as Economic Majority
+supporters, but we must reach a hundred times this amount, and we must
+knit these supporters into a close network with much greater
+organisational capability than before.
+
+Small and medium enterprises are the powerhouse of innovation and
+employment in Europe\'s information economy. The continued patent threat
+will hopefully have one positive effect: It will make the Economic
+Majority aware of its political responsibilities. It is this majority of
+players that must find answers to a large range of problems connected to
+the EU\'s goals of \"becoming the most competitive knowledge economy\".
+
+Therefore we are maintaining our presence in Brussels and trying to
+learn more about a wider range of policy issues. Among other [
+plans](FfiiprojPriorEn "wikilink"), we are preparing our [ next
+conference](Konf0511En_in_Brussels "wikilink") in November 2005.
+
+We also are indebted to national Parliaments, particularly those of the
+Netherlands, Germany, Denmark and Spain for their often futile attempts
+at controlling the behaviour of their countries\' representatives in the
+Council, and for their [ intervention in favour of the European
+Parliament](MdbAnMdep050701De "wikilink") during its second reading. The
+experience has clearly shown that parliaments are able to represent
+citizens and that the usurption of legislative power by ministerial
+bureaucrats at the expense of parliaments is a grave danger to democracy
+in Europe which we will have to work hard to overcome in the coming
+years.
+
+While the EU is no longer working on the problems of patentability, it
+may become necessary to send some signals to national courts through
+national parliaments, which encourage these courts to adhere to the
+written law and to reject the doctrines of the European Patent Office,
+just as the Europe\'s democratically legitimated legislators have done.

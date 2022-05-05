@@ -1,0 +1,12 @@
+It\'s common in psychanalisis, that people who were too much in demand
+by intrusive parents have the feeling in their life that someone can
+know and steal their thinking. \"Though thieve\" is a warning of a
+fantasmatic crisis.
+
+I can make a video with that.
+
+And say that I don\'t need their\" voucher\", even I need some film and
+video equipment because I\'m not as ill as Bill Gates and its
+colleagues.
+
+Miluz

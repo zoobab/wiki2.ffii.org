@@ -1,0 +1,19 @@
+# Patentverletzung im Strafrecht {#patentverletzung_im_strafrecht}
+
+Eine Patentverletzung kann strafbar sein, jedoch nur im Fall der
+sogenannten vorsätzlichen Patentverletzung. Ein Vorsatz liegt vor, wenn
+der Verletzer bewusst und gewollt das Patent verletzt hat, wobei jedoch
+ein sogenannter bedingter Vorsatz ausreicht. Von einem bedingten Vorsatz
+spricht man, wenn die Patentverletzung nicht direktes Ziel des Handels
+war, aber die Patentverletzung vom Verletzer für möglich gehalten wurde
+und der Verletzer sich mit der Patentverletzung so zu sagen als
+notwendiges Übel abgefunden hat. In derartigen Fällen kann die
+Patentverletzung mit Geldstrafen oder Freiheitsstrafe bis zu 3 Jahren
+bestraft werden. Soweit hier der Patentverletzer gewerbsmäßig handelt,
+droht ihm eine Strafe von bis zu 5 Jahren Freiheitsstrafe. Das
+gewerbsmäßige Handeln hat bei der Patentverletzung einen weiteren
+Nachteil. In diesem Fall ermittelt die Staatsanwaltschaft nämlich von
+Amts wegen und nicht bloß auf Antrag des Patentinhabers.
+
+Quelle und ©: Rechtsanwälte Knoop & Knoop, Lippstadt
+<http://www.knoop.de/Patent.htm#15>

@@ -1,0 +1,45 @@
+1.  1.  -\*- dok: [FfiiLok](FfiiLok "wikilink"); lang: en; site: kwiki;
+        coding: iso-8859-1; mode: fundamental; -\*-
+
+# Delocalisation of FFII {#delocalisation_of_ffii}
+
+-\> \[ [ Priorities](FfiiprojPriorEn "wikilink") \| [
+Projects](FfiiprojEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Currently the FFII is registered in Munich. There are some good reasons
+for moving FFII to other places, such as Brussels or Stockholm. We
+collect reasons and spell out steps that would have to be taken to
+perform such a transfer or to make FFII less dependent on any location.*
+
+## Legal environment {#legal_environment}
+
+-   Need to know how friendly Belgium is to Internet publishers. Germany
+    is extremely internet-unfriendly ground, with \"flying court
+    location\" etc.
+    -   -   In places like SE, NO a german court order for libel on a
+            case that mainly concerns Germany is immediately executed by
+            the local court.
+
+## Candidates apart from Munich {#candidates_apart_from_munich}
+
+-   Brussels \-- close to EU
+-   Luxemburg \-- only one court location; close to EU, DE, FR
+-   Geneva/Lausanne \-- close to WIPO, possibly better legal environment
+
+## Things to Do {#things_to_do}
+
+### Bank accounts {#bank_accounts}
+
+-   open a separate bank account that has a Brussels counter and some
+    money for use in Brussels on it
+
+### Answering mail and phone {#answering_mail_and_phone}
+
+-   E-Mail addresses such as brussels at ffii org, europarl at ffii org
+    as well as the office phone number +32 (0) 27 39 62 62 still seem to
+    be attended irregularly.
+    -   -   There is no answering machine, no redirection to Strasburg.
+            One attractive solution could be a decentral VoIP-based
+            solution, e.g. using Skype, Google Talk.

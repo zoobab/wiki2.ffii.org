@@ -1,0 +1,62 @@
+# Agenda do PS {#agenda_do_ps}
+
+## O quê? {#o_quê}
+
+Agenda do Partido Socialista
+
+## Sobre quê? {#sobre_quê}
+
+-   Eventos relacionados com as Europeias 2004 (logo poderão ser
+    referidas as \*Patentes de Software\*)
+
+## Quando e Aonde? {#quando_e_aonde}
+
+-   23/05 (Domingo)
+    -   -   Bragança
+
+`    * `**`Quem?`**` Os candidatos às Eleições Europeias/2004: Sousa Franco e António Costa`\
+`    * Programa:`
+
+-   -   16h30  Visita à Feira REGIONORD, em Mirandela;
+    -   19h00  Jantar-convívio em Bragança (Restaurante Panorama,
+        Circuito Turístico);
+    -   21h30  Sessão Pública no Auditório Paulo Quintela.
+
+-   -   Sintra - Feira de S. Pedro
+
+`    * `**`Quem?`**` O Secretário-Geral do PS, Eduardo Ferro Rodrigues, e os candidatos às Europeias/2004, Capoulas Santos, Sérgio Sousa Pinto e Edite Estrela`\
+`    * Promenores: 10h00, Feira de S. Pedro, em Sintra, para contacto com a população. `
+
+-   24/05 (2ª feira)
+    -   -   Viseu
+
+`    * Tema: A Europa das Regiões de Viseu`\
+`    * Hora: 21h00 `\
+`    * Quem?`
+
+-   -   Fancisco Assis  Candidato do PS às Europeias 2004;
+    -   António Araújo  Professor Universitário;
+    -   Isabel Silva  Administradora Hospitalar;
+    -   António Borges  Presidente da Câmara Municipal de Resende;
+    -   Diogo Madeira  Director da Revista Prémio (Moderador).
+
+`    * Local: Solar dos Peixotos`
+
+-   25/05 (3ª feira)
+    -   -   Porto
+
+`    * Tema: A competitividade da Economia Portuguesa no Porto`\
+`    * Hora: 21h30`\
+`    * Quem? `
+
+-   -   António Costa - Candidato do PS às Europeias 2004;
+    -   Rui Moreira  Presidente da Associação Comercial do Porto;
+    -   Cristina Azevedo  Gestora do Eixo Prioritário II do PO Norte;
+    -   Luís Braga da Cruz  Professora Catedrático Convidado da
+        Faculdade de Engª do Porto;
+    -   António Peres Metelo  Jornalista (Moderador). A iniciativa
+        decorre na Reitoria da Universidade do Porto.
+
+## Detalhes
+
+[Mais detalhes aqui](http://www.ps.pt/main.php?area=agenda "wikilink")

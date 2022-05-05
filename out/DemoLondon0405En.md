@@ -1,0 +1,11 @@
+# Date and Place {#date_and_place}
+
+probably a week day, such as wednesday 2004-05-05, would be good,
+because this allows involving politicians in the event.
+
+(12 May was mentioned in email announcement and is better for me -
+MJR/slef)
+
+# Form
+
+Probably press conference + demo + colloquium

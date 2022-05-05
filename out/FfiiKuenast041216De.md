@@ -1,0 +1,179 @@
+1.  1.  -\*- dok: ffiikuenast041216; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  keyws: Coreper, Mertens, Rat, Ministerrat, Software,
+        Softwarepatente, Patentierbarkeit, computer-implementierte
+        Erfindungen, Richtlinie, gemeinsamer Standpunkt
+
+# 2004-12-16 Schreiben FFII an Bundesministerin Künast {#schreiben_ffii_an_bundesministerin_künast}
+
+\[ [ Neues](SwpatcninoDe "wikilink") \| [
+Vorlage](LtrFfiiKuenast0412De "wikilink") \| [ Gerwinski an
+Künast](KuenastGerwinski041216De "wikilink") \| [
+Rats-Eile](Cons041215De "wikilink") \| [
+Rats-Chaos](Cons041217De "wikilink") \| [
+Umkehr](ConsRevers04De "wikilink") \| [
+Auswege](ConsStep0406De "wikilink") \|
+[FFII-Position](http://swpat.ffii.org/analysis/needs/ "wikilink") \|
+[Rat gegen
+Parlament](http://swpat.ffii.org/papers/europarl0309/cons0401/tab/ "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+E-Mail-Version gesendet, Printversion (datiert auf 16. Dez.) gefaxt und
+in Briefform am Morgen des 17. Dezember eingericht.
+
+` From: Christian Cornelssen <ccorn@ffii.org>`\
+` To: poststelle@bmvel.bund.de`\
+` Date: Fri, 17 Dec 2004 04:38:40 +0100`\
+` Subject: Postvorschau: EU-Rat 21.-22. Dez.: Abstimmung `[`SWPat`](SWPat "wikilink")
+
+` (Eine Printversion dieser Nachricht befindet sich im Anhang.)`
+
+` Sehr geehrte Frau Ministerin Künast,`
+
+` ich schreibe Ihnen, wegen Zeitdrucks kurz und knackig,`\
+` in meiner Funktion als Vertreter des Fördervereins`\
+` für eine Freie Informationelle Infrastruktur (FFII),`\
+` zuständig für Kontakte mit der Bundesregierung.  Mehr als`\
+` 70.000 Software-Entwickler und 2.000 kleine und mittlere`\
+` Unternehmen der Software-Branche sowohl mit proprietären als`\
+` auch mit Open-Source-Entwicklungsmodellen haben den FFII`\
+` mit der Vertretung ihrer Interessen betraut.  Weitere`\
+` Informationen über den FFII finden Sie am Ende des Textes.`
+
+` Es geht um die Ministerratssitzung kommenden Dienstag`\
+` und Mittwoch.  Auf der Liste der A-Punkte steht die`\
+` Softwarepatent-Richtlinie KOM 2002/0047 (KOD) über die`\
+` "Patentierbarkeit computerimplementierter Erfindungen".`
+
+-   -   Diese Liste darf nicht angenommen werden.
+
+```{=html}
+<!-- -->
+```
+-   -   Greifen Sie bitte ein, wenn vom Ratsvorsitzenden nach Annahme
+
+`   der A-Punkt-Liste gefragt wird (gleich anfangs), und verlangen`\
+`   Sie, die Annahme der Ratsttexte zur Richtlinie KOM 2002/0047`\
+`   wegen Diskussionsbedarf von der Liste der A-Punkte zu nehmen.`
+
+-   -   Unterstützung ist von ES, IT, PL, AT, BE, LV zu erwarten.
+
+```{=html}
+<!-- -->
+```
+-   -   Denkbar ist eine Umwandlung in einen B-Punkt mit Neuabstimmung
+
+`   oder eine Verschiebung, wobei letztere angemessener ist.`
+
+` Der COREPER-Beschluss, die Softwarepatent-Richtlinie zur Annahme`\
+` ohne Diskussion und Abstimmung freizugeben, widerspricht der`\
+` Geschäftsordnung des Rates der EU sowie dem Amsterdamer Vertrag`\
+` hinsichtlich der Unterrichtung der einzelstaatlichen Parlamente.`
+
+` Begründung für die Streichung von der A-Punkt-Liste:`
+
+1.  1.  Polens Regierung hat im Mai und erneut Anfang November
+
+`    bekräftigt, dass sie den Ratsvorschlag nicht unterstützen`\
+`    kann.  Damit fehlt dem Ratsvorschlag aufgrund der seit`\
+`    1. November geltenden Stimmengewichtung eine qualifizierte`\
+`    Mehrheit.`
+
+` 2. Auch die Niederlande sind durch ihr Parlament zur Enthaltung`\
+`    aufgefordert worden, was ebenfalls (auch ohne Polen)`\
+`    bedeutet, dass der derzeitige Ratsentwurf bei einer`\
+`    Neuabstimmung keine qualifizierte Mehrheit mehr finden`\
+`    dürfte.`
+
+` 3. Weder Polen noch die Niederlande haben seit dem ersten`\
+`    November ihre Unterstützung für den Ratstext erklärt.`
+
+` 4. Die Neuabstimmung ist nötig, da die Geschäftsordnung`\
+`    des Rates eine qualifizierte Mehrheit zum Zeitpunkt der`\
+`    offiziellen Verabschiedung verlangt.`
+
+` 5. Der Gesetzestext des Rates ist von den Fraktionen des`\
+`    Deutschen Bundestags als unzureichend kritisiert worden.`\
+`    Er genügt insbesondere nicht den Anforderungen an Klarheit`\
+`    und Ausgewogenheit, die an einen Gesetzesentwurf mit dermaßen`\
+`    weit reichender Bedeutung gestellt werden müssen.`
+
+` 6. Hinzu kommt, dass die zum Ratsentwurf gehörigen`\
+`    Erklärungsdokumente erst vor kurzem verfügbar wurden,`\
+`    so dass die nötige sechs-Wochen-Frist zur Konsultation`\
+`    nationaler Gremien zum Zeitpunkt der Ratssitzung erst zur`\
+`    Hälfte verstrichen sein wird.`
+
+`    Wie wichtig dies ist, zeigt bereits die nach der`\
+`    COREPER-Sitzung (15. Dezember) eilig einberufene`\
+`    Sondersitzung des niederländischen Parlaments.`
+
+` 7. Inhaltlich ist abzusehen, dass die erst kürzlich vorgelegte`\
+`    Begründung des Ratsentwurfs als inakzeptabel bewertet`\
+`    werden muss.`
+
+`    Das Ratspapier lehnt wesentliche Änderungen vom Beschluss`\
+`    des Europaparlaments ab mit der Begründung, sie seien`\
+`    "nicht mit `[`TRIPs`](TRIPs "wikilink")` vereinbar" oder spiegelten nicht die`\
+`    "gängige Praxis" wieder.`
+
+`    * Die schriftlich dokumentierte Auffassung der`\
+`      Bundestagsfraktionen hält dem ersten Argument entgegen,`\
+`      dass `[`TRIPs`](TRIPs "wikilink")` ausdrücklich Urheberrechtsschutz für Software`\
+`      verlangt, nicht aber eine Ausdehnung des Patentwesens auf`\
+`      Software.`
+
+`    * Zweitens ist den sowohl vom Justizministerium als auch`\
+`      von den Bundestagsfraktionen geäußerten Sorgen über`\
+`      die Erteilungspraxis des Europäischen Patentamtes zu`\
+`      entnehmen, dass die "gängige Praxis" eben das ist, was`\
+`      durch die Richtlinie kontrolliert werden soll, nicht das,`\
+`      woran die Richtlinie angepasst werden muss.`
+
+` 8. Das Protokoll über die Rolle der nationalen Parlamente`\
+`    im Amsterdamer Vertrag ermutigt ausdrücklich zu`\
+`    einer Beteiligung der nationalen Parlamente am`\
+`    EU-Gesetzgebungsprozess und sieht keineswegs vor, den`\
+`    Ministerrat davon auszunehmen.`
+
+`    Vor diesem Hintergrund ist es unzulässig, die Einbringung`\
+`    der Standpunkte mehrerer nationaler Parlamente (NL und DE)`\
+`    in die Entscheidungsfindung des Rates behindern zu wollen.`
+
+` Fazit: Ohne Neuabstimmung und Einbringung der Standpunkte der`\
+` Parlamente von NL und DE in die Entscheidungsfindung sind die`\
+` derzeitigen Ratstexte nicht legitimiert.`
+
+` Jeder Versuch einer Verabschiedung ohne Legitimation ist mit`\
+` der Geschäftsordnung des Rates der EU nicht vereinbar.`
+
+` Der FFII und mit ihm mehr als 350.000 Unterzeichner der`\
+` Eurolinux-Petition für ein softwarepatentfreies Europa erwarten`\
+` deswegen von Ihnen, Frau Ministerin, dass Sie am Dienstag die`\
+` Verabschiedung eines Standpunktes verhindern, dem nicht nur die`\
+` qualifizierende Mehrheit fehlt, sondern der auch den Beschlüssen`\
+` aller bislang damit befassten Parlamente zuwiderläuft.`
+
+` Mehr über den FFII und die Softwarepatent-Richtlinie:`
+
+-   -   WWW: <http://www.ffii.org>
+    -   E-Mail: buero\@ffii.org
+    -   Dringender Aufruf (Mai 2004) mit Unterstützerliste:
+
+`   `[`http://swpat.ffii.org/briefe/cons0406/index.de.html`](http://swpat.ffii.org/briefe/cons0406/index.de.html)
+
+-   -   Brief von Vrijschrift.NL / FFII an COSAC (September 2004):
+
+`   `[`http://www.vrijschrift.nl/Members/awessels/vrijschrift.nl_cosac040905.pdf`](http://www.vrijschrift.nl/Members/awessels/vrijschrift.nl_cosac040905.pdf)
+
+-   -   Brief von Vrijschrift.NL / FFII an COSAC (Dezember 2004):
+
+`   `[`http://www.vrijschrift.nl/Members/awessels/Vrijschrift.nl_COSAC20041216`](http://www.vrijschrift.nl/Members/awessels/Vrijschrift.nl_COSAC20041216)
+
+` Mit freundlichen Grüßen`\
+` -- `\
+` Christian Cornelssen            No Software Patents -`\
+` FFII - Politik Deutschland      Power to the Parliament!`\
+` Mobil: 0160 `*`38`` ``31`` ``686`` ``Berlin:`` ``030`*` 705 63 58`

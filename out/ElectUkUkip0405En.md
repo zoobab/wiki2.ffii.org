@@ -1,0 +1,71 @@
+# UK Independence Party MEP Candidates and Software Patents {#uk_independence_party_mep_candidates_and_software_patents}
+
+\--\> [ UK Parties](ElectUkPart0405En "wikilink")
+
+------------------------------------------------------------------------
+
+Statement by Damian Hockney, UKIP #2 candidate for London Region, 21 May
+2004
+
+` MORE THAN USUALLY PATENTLY MAD - SOFTWARE PATENTS FUDGE IS A MINEFIELD`\
+` `\
+` `\
+` The UK Independence Party opposes the latest changes to the Directive. `\
+` "We believe that software patents are a barrier to competition, freedom`\
+` of expression and economic development," says MEP candidate for London`\
+` Damian Hockney.`\
+` `\
+` "The party also believes that such changes should not be forced on `\
+` member states."`\
+` `\
+` Lobbying by big organisations and effective monopolies to protect their`\
+` positions always seem to get the greatest hearing within the European `\
+` Union, and the politicians involved from member states have in many `\
+` cases been stumbling around bewildered speaking for positions they neither`\
+` understand nor know how to express.`\
+` `\
+` For the UK Independence Party, the process over software patenting is an`\
+` example of everything that is worst about the process of decision making`\
+` and lobbying within the institutions of the European Union. The wrong `\
+` decisions are made by the wrong people, acting on partial information by`\
+` those who do not understand what they are talking about. In many cases,`\
+` they fix agreements specifically against the desires of the parliaments`\
+` they allegedly represent. Misleading language has found its way into the`\
+` rules.`\
+` `\
+` U-turns are made in secret amid a background of backroom dealing.`\
+` Accountability is simply overridden, and then the ultimate outcome is `\
+` forced onto the statute books of nations who may be specifically `\
+` opposed to the measures.`\
+` `\
+` You simply have to look at some of the actions of the European Patents`\
+` Office against the spirit of previous rules to see where these developments`\
+` will lead to.`\
+` `\
+` As with the European Arrest Warrant, the issue of software patents strikes`\
+` at the heart of liberty, competition and free markets: inevitably this `\
+` process will lead to the entrenchment of monopoly, higher prices, stagnant `\
+` development in the EU, the displacement of the best and brightest to nations`\
+` outside the EU and an end to small firms being able to compete in the market.`\
+` `\
+` Cynics might suggest that some aspects of this were not side issues but the `\
+` actual intent.`\
+` `\
+` Attempting now to influence national governments is surely an example of`\
+` doing things back to front, but it appears to be the main hope. It is doubly`\
+` ironic that many of the monopolies and big lobbyists attempted to claim that`\
+` any one who would not support the changes had somehow ruled themselves out`\
+` of the democratic process by opposing the European Commission's desires.`\
+` `\
+` More than usually patently mad, even for the EU.`\
+` `\
+` `\
+` `\
+` Damian Hockney, UK Independence Party, 109-110 Bolsover St, London W1W 5NU - tel 020 7631 3757.`
+
+Nigel Farage MEP\'s office (South-East region) said UKIP would do all
+they can to oppose further IPR extension measures which \"is being
+proposed for the benefit of large, often multinational, companies and
+not for the benefit of smaller businesses or individuals\". (/Source:/
+MJ Ray\'s [Project
+Eurovote](http://mjr.towers.org.uk/proj/eurovote/#se "wikilink"))

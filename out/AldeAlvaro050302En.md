@@ -1,0 +1,53 @@
+-\> [Alvaro050302En](Alvaro050302En "wikilink")
+
+1.  1.  -\*- dok: alvaro050302; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# MEP Alvaro (ALDE): Barroso\'s decision an affront to European Parliament {#mep_alvaro_alde_barrosos_decision_an_affront_to_european_parliament}
+
+-\> \[ [Original
+Text](http://www.liberale.de/portal/index.phtml?page_id=8112&id=4157 "wikilink")
+\| [ DE Liberals and software patents](SwpatfdpDe "wikilink") \| [DE
+Liberal
+Motion](http://swpat.ffii.org/papers/europarl0309/fdp0405/index.en.html "wikilink")
+\| [ SE Liberals ask for B-item](Selib0502En "wikilink") \]
+
+------------------------------------------------------------------------
+
+*The European Commission\'s decision to reject the European
+Parliament\'s request for a renewed referral of a disputed Software
+Directive has created anger at the Brusssels Members of the European
+Parliament. Alexander ALVARO, FDP (ALDE) MEP, harshly critizied the EU
+commission president Barroso. \"Barroso\'s decision is an affront to the
+European Parliament\", the liberal warned.*
+
+After the first attempt to pass the Directive on the Patentability of
+\"computer-implemented inventions\" had failed shortly before Christmas,
+the European Parliament\'s Legal Affairs Committee had recommended a a
+restart. The Parliament took into account many critical voices bemoaning
+the legal laxness of the proposed text. For example, the directive
+proposed that the \"technical contribution\" of a software ought to be
+\"new\". The text did not define clearly what this was meant to be in
+practice. However the commission chose the Parliament\'s recommendation.
+Instead, Barroso wants to reuse the initial directive proposal and
+formalise it as soon as possible.
+
+The FDP (ALDE) Member of Parliament Alexander Alvaro, ALDE
+representative in the Legal Affairs Committee, harshly criticized
+Barroso\'s step. \"The European Parliament has sound reasons to request
+a renewed referral.\" Salient points of the directive had not been
+clarified, the liberal said. The proposed directive would induce legal
+uncertainty.
+
+\"The framework of a new first reading would have enabled us to make
+substantial changes. The directive did not yet answer, how to avoid
+so-called \"trivial patents\" or \"outliers\". Moreover, no metric for
+the \"technicality\" of a patentable program invention was given.
+\"Barroso knows the directive\'s shortcomings, the mood in Council and
+Parliament - hardly imaginable he does not hear the signal.\"
+
+Comment (Holger Blasum): Alvaro\'s voice is important. Not only has he
+shaped ALDE\'s JURI position but he also as rapporteur on the
+telecommunication data retention proposal he [is
+figthing](http://www.edri.org/edrigram/number3.3/retention "wikilink")
+for appropriate Parliament access to the legislative procedure.

@@ -1,0 +1,120 @@
+# Fortunes
+
+------------------------------------------------------------------------
+
+-   \"A computer program as such cannot constitute a patentable
+    invention\". I should take that as clear, and should lay any kind of
+    apprehensions that, by some magical means, a computer program as
+    such could after all become patentable, once again let me read it
+    out for all clarity\'s sake: \"A computer program as such cannot
+    constitute a patentable invention\". \-- Frits Bolkestein, DG Markt,
+    Council 18th May 04
+
+------------------------------------------------------------------------
+
+-   IE: And Denmark? Can I hear from Denmark please?
+-   DK: I would really like to ask the commission why they couldn\'t
+    accept the last sentence put forward by the Italians. Which was in
+    the original German proposal.
+-   IE: I think the Commissioner already answered that question, I\'m
+    sorry Denmark. So are you yes, no, abstain?
+-   DK: I think we wouldn\'t, we\'re not hap\...
+-   IE: Can I assume you\'re a \"yes\"?
+-   DK: We\'re not happy
+-   IE: But are you 80% happy?
+-   DK: But\... I think we\...
+-   IE: We don\'t need you you to be totally happy. None of us are
+    totally happy.
+-   DK: I know that, I know that.
+-   IE: If we were, we wouldn\'t be here
+-   Crowd: Laugther
+-   DK: I think we\'re not very happy, but I think we would, we
+    would\...
+-   IE: Thank you very much
+-   DK: \... we would like to see a solution today.
+-   IE: Thank you very much, Denmark.
+
+------------------------------------------------------------------------
+
+-   \"All the methods we have looked at for streaming audio and video
+    over the Internet are covered by our patents\" \--Rob Berman, senior
+    vice president and general counsel, Acacia
+
+------------------------------------------------------------------------
+
+-   \"Software patents are like landmines for programmers. At each
+    design decision, there is a chance you will step on a patent and it
+    will destroy your project. Considering the large number of ideas
+    that must be combined in a modern program, the danger becomes very
+    large.\" \-- Richard Stallman
+
+------------------------------------------------------------------------
+
+-   \"If the European Parliament follows JURI in ignoring public opinion
+    and all scientific studies, we will see large license payments from
+    the European to the American software industry, lots of litigation
+    based on software patents, Internet patents and business method
+    patents, and some very unfavorable effects for open source software.
+    And introducing a large number of new monopoly rights in the
+    information society sector certainly won\'t help with the EU
+    strategic goal \"to become the most competitive and knowledge-based
+    economy in the world.\"\" \-- Dr. Karl Friedrich Lenz, professor of
+    European Law in Tokyo
+
+------------------------------------------------------------------------
+
+-   \"If people had understood how patents would be granted when most of
+    today\'s ideas were invented and had taken out patents, the industry
+    would be at a complete standstill today. \... The solution is
+    patenting as much as we can. A future startup with no patents of its
+    own will be forced to pay whatever price the giants choose to
+    impose. That price might be high. Established companies have an
+    interest in excluding future competitors.\" \--Bill Gates, 1991
+
+------------------------------------------------------------------------
+
+-   \"Today I received a polite phone call from a fellow at Microsoft
+    who works in the Windows Media group. He informed me that Microsoft
+    has intellectual property rights on the ASF format and told me that,
+    although the implementation was still illegal since it infringed on
+    Microsoft patents. I have asked for the specific patent numbers,
+    since I find patenting a file format a bit strange. At his request,
+    and much to my own sadness, I have removed support for ASF in
+    [VirtualDub](VirtualDub "wikilink") 1.3d, since I cannot risk a
+    legal confrontation.)\" \--Avery Lee, 2000
+
+------------------------------------------------------------------------
+
+-   \"I had to stop this project, because I cannot afford to pay an army
+    of lawyers every time someone wants to impose conditions on my work.
+    Software developpers react very sensitively to this kind of
+    terrorism. If European politicians legalise software patents in
+    Europe, that will work as a disinscentive to software production in
+    Europe.\" \--Marcel Martin, 2001
+
+------------------------------------------------------------------------
+
+-   \"The definition of the concept of invention, which is
+    constitutionalized in the Nordic countries, contains the requirement
+    that the invention must have a technical character. An exact
+    definition of what this means can hardly be given, but within the
+    concept lies definitely a requirement that an invention must be a
+    solution of a problem by means of natural forces, i.e. by means of a
+    causally determined use of natural matter and energy.\" Preamble of
+    Nordic Patent Law of 1963
+
+------------------------------------------------------------------------
+
+-   \"This release doesn\'t include DTS audio decoding support. DTS Inc.
+    claims that distributing this software with DTS decoding
+    capabilities is a violation of their patent EP 864 146. At DTS Inc.
+    request, we decided, as a precautionary measure, to provisionally
+    suspend the distribution of VLC with DTS decoding capabilities while
+    reviewing DTS Inc. claim. This is not an acknowledgement of the
+    validity of the claim.\" \--Videolan project, 03 oct 2004
+
+------------------------------------------------------------------------
+
+-   Automated IP lobbyist says: \"we must stop the drift, only technical
+    video tapes should be patentable, video tapes as such must not be
+    patentable\". \--codeliberty.org

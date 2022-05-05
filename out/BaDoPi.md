@@ -1,0 +1,10 @@
+BaDoPi is the Barcelona\'s Free Software Users Groups. It means
+*Barcelona\'s Penguin Tamers* in catalan *\*Ba\*//rcelonins*
+/\*Do\*//madors de/ *\*Pi\*//ngüins*, or in spanish *\*Ba\*//rceloneses*
+/\*Do\*//madores de/ *\*Pi\*//ngüinos*. RMS dislikes our name :( but
+it\'s only a joke, our members use a wide range of free OS :)
+
+You can learn more about us, or read or articles (usually in spanish or
+catalan) on <http://www.badopi.org>, you also can subscribe to our
+mailing list by web <http://lists.badopi.org/mailman/listinfo/comandob>
+or by mail comandob-request\@badopi.org with subject \"subscribe\".

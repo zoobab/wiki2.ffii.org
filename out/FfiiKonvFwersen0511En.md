@@ -1,0 +1,19 @@
+# FFII Board candidate: Felipe Wersen {#ffii_board_candidate_felipe_wersen}
+
+*Felipe Wersen is a candidate for a position in the FFII board.*
+
+Felipe Wersen is a calm, logically acting type of person. He has a deep
+insight on a lot of FFII\'s activities, and has already helped to
+improve the organizational structures of FFII more than one time during
+the Software Patent campaign.
+
+Felipe is capable of assessing when a regulation is appropriate for a
+certain aim and when it isn\'t.
+
+## Future plans {#future_plans}
+
+-   Wait for Felipe to publish them
+
+## More stuff {#more_stuff}
+
+-   Waiting for Felipe to add stuff here

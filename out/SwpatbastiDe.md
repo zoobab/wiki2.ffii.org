@@ -1,0 +1,5 @@
+André: Interessant ist doch, dass für das schwächere
+Gebrauchsmusterschutzrecht der Ausschluss von Software steinhart ist\...
+Da muss man sicherlich die Anreizwirkungen aus dem Patentrecht
+berücksichtigen um zu erklären warum ausgerechnet im Patentrecht die
+Bastion geschliffen wurde.

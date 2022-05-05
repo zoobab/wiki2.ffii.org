@@ -1,0 +1,11 @@
+Photo Cebit [ FFII\@CeBIT](CeBIT05En "wikilink")
+
+------------------------------------------------------------------------
+
+```{=mediawiki}
+{{http://www.ffii.org/~blasum/swpat/var/200503cebit/get.pike%3fobject=9525&type=image.small.jpg}}
+```
+Some photos (credits to Martin Bähr) are here:
+
+-   <http://www.ffii.org/~blasum/swpat/var/200503cebit/>
+-   <http://steam.iaeste.at/~mbaehr/ffii/>

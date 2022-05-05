@@ -1,0 +1,404 @@
+# Entrega de documentación contra las patentes de software en la Delegación del Gobierno de Valencia {#entrega_de_documentación_contra_las_patentes_de_software_en_la_delegación_del_gobierno_de_valencia}
+
+```{=mediawiki}
+{{http://gibuskro.lautre.net/informatology/ffii/strike/banners/may.jpg}}
+```
+## ¿Qué? ¿Cuándo? {#qué_cuándo}
+
+El viernes 14 de mayo se realizó la entrega de documentación referente a
+la lista de firmantes **contra las patentes de software** en la
+Delegación del Gobierno de Valencia, en la Plaza del Temple, 1. La
+entrega tuvo lugar a las 16:50, aunque desde las 16:00 estuvimos
+agrupándonos, hablando, repartiendo folletos y recogiendo firmas frente
+a la Delegación. Muchas gracias a todos los que asistieron para dar su
+apoyo a la entrega.
+
+## ¿Dónde?
+
+¿Dónde está la plaza del Temple? Puedes encontrarla en este
+[callejero](http://callejero.terra.es "wikilink"). Está cerca de la
+Plaza de Tetuán (cerca de Capitanía General y la Fundación Bancaja), muy
+cerca del Puente del Real en el antiguo cauce del río. Las paradas de
+metro más cercanas son Colón y Alameda.
+
+## Más detalles sobre el acto en Valencia {#más_detalles_sobre_el_acto_en_valencia}
+
+```{=mediawiki}
+{{http://evalu29.uv.es/~jordi/patentes_software/rimg0005.jpg}}
+```
+La documentación que se entregó hace referencia a la lista de las 25.000
+firmas que especificaron España como pais en la [Petición de
+[EuroLinux](EuroLinux "wikilink") por una Europa libre de patentes de
+software](http://petition.eurolinux.org/index_html?LANG=es "wikilink")
+(que lleva contabilizadas más de 320.000 firmas en toda Europa). Unas
+600 páginas de nombres por una Europa libre de patentes.
+
+La entrega pretende mostrar al gobierno español la preocupación de todos
+estos ciudadanos por las patentes de software, y pedirle que apoye la
+decisión adoptada al respecto por la institución que más directamente
+representa democráticamente a los europeos: el Parlamento Europeo. La
+fecha de la entrega se ha elegido teniendo en cuenta que el gobierno se
+tiene que pronunciar sobre el tema en la próxima reunión del Consejo de
+Ministros los días 17 y 18 de mayo.
+
+La documentación que se entregó es la siguiente:
+
+-   [Índice](http://evalu29.uv.es/~jordi/patentes_software/indice.kwd "wikilink")
+-   [Petición \"Por una Europa Libre de Patentes de
+    Software\"](http://evalu29.uv.es/~jordi/patentes_software/peticion.kwd "wikilink")
+-   [Carta al Delegado del
+    Gobierno](http://evalu29.uv.es/~jordi/patentes_software/carta_al_delegado.kwd "wikilink")
+-   [\"10 razones para oponerse a las patentes de
+    software\"](http://evalu29.uv.es/~jordi/patentes_software/doc_10_razones.kwd "wikilink")
+-   [\"The Danger of Software Patents to
+    Europe\"](http://evalu29.uv.es/~jordi/patentes_software/doc_ael.kwd "wikilink")
+
+Para más información pregunta en proinnova @ listas. hispalinux .es
+
+Organizado por [ProInnova](http://proinnova.hispalinux.es "wikilink") y
+otros, con la ayuda de [FFII](http://swpat.ffii.org "wikilink") y
+[EuroLinux](http://www.eurolinux.org "wikilink") en el marco de otras
+acciones a nivel europeo.
+
+## Más detalles sobre el problema de las patentes de software {#más_detalles_sobre_el_problema_de_las_patentes_de_software}
+
+-   [Notas de prensa de
+    [ProInnova](ProInnova "wikilink")](http://proinnova.hispalinux.es/notas-prensa "wikilink")
+-   [Ejemplos de patentes de software que serían
+    válidas](http://swpat.ffii.org/patents/samples/index.en.html "wikilink")
+    de aprobarse la propuesta de directiva de la Comisión Europea (o la
+    propuesta de la presidencia irlandesa)
+-   [Propuesta de la Presidencia
+    Irlandesa](http://swpat.ffii.org/papers/europarl0309/cons0401/ "wikilink")
+-   [Análisis de dicha propuesta por la
+    FFII](http://swpat.ffii.org/news/04/cons0129/ "wikilink")
+-   [Votación del Parlamento Europeo sobre la propuesta de
+    directiva](http://proinnova.hispalinux.es/notas-prensa/nota-028.html "wikilink").
+-   [Situación con respecto a la próxima reunión del Consejo de
+    Competitividad](http://proinnova.hispalinux.es/notas-prensa/nota-031.html "wikilink")
+
+------------------------------------------------------------------------
+
+# Otras movilizaciones convocadas en España {#otras_movilizaciones_convocadas_en_españa}
+
+-   [Compostela](http://kwiki.ffii.org/index.cgi?DemoCompostela0405Gl "wikilink")
+-   [Madrid](http://kwiki.ffii.org/?DemoMadrid040513Es "wikilink")
+-   [Vigo](http://kwiki.ffii.org/index.cgi?DemoVigo20040509PT "wikilink")
+-   [Barcelona](http://kwiki.ffii.org/index.cgi?DemoBarcelona "wikilink")
+
+------------------------------------------------------------------------
+
+# FAQ
+
+*¿Qué firmas son esas?*
+
+Es la lista de firmantes que rellenó el formulario [Petición de
+[EuroLinux](EuroLinux "wikilink")](http://petition.eurolinux.org/index_html?LANG=es "wikilink")
+por una Europa libre de patentes de software, especificando España como
+país.
+
+*¿Qué otras acciones se están realizando por Europa?*
+
+Puedes verlas en la página de las acciones contra las patentes de
+software en Europa, <http://kwiki.ffii.org/index.cgi?SwpDemo0405En>
+
+*¿A qué viene todo esto? ¿A mí qué más me dan las patentes de software?*
+
+Por cortesía de Caliu, aquí tienes la respuesta:
+<http://patents.caliu.info/iamique/>
+
+*¿Qué es la FFII?*
+
+La Fundación por una Infraestructura de Información Libre (FFII) es una
+asociación sin ánimo de lucro registrada en Munich cuyos objetivos son
+hacer los recursos básicos de información libremente utilizables,
+proteger al creador contra el plagiador y al público contra los
+monopolios, dar peso político a los programadores, emprendedores
+creadores de información y ciudadanos versados en técnicas de
+información.
+
+------------------------------------------------------------------------
+
+# Nota de prensa (adaptada para el acto de Valencia) {#nota_de_prensa_adaptada_para_el_acto_de_valencia}
+
+\_\_Valencia contra las patentes de software\_\_
+
+Este viernes se celebra un acto contra las patentes de software en
+Europa. En él se hará entrega en la Delegación del Gobierno de
+información sobre las más de 25.000 firmas recogidas en España en la
+Petición por una Europa Libre de Patentes de Software.
+
+Este acto tendrá lugar el viernes 14 de mayo a las 16:30 h. en la
+Delegación del Gobierno de Valencia (Plaza del Temple, 1), cuyo objetivo
+es informar al Gobierno sobre las más de 25.000 firmas recogidas en
+España contra las patentes de software; firmas que forman parte de las
+más de 320.000 que se han recogido en toda Europa. El rechazo a una
+práctica tan peligrosa es compartido por más de 2.000.000 de PYMES
+europeas, englobadas en la alianza CEA-PME.
+
+La fecha se ha elegido dada la proximidad de la reunión del Consejo de
+Ministros del Comité de Competitividad de la Unión Europea, que se
+celebra durante el próximo lunes y martes. En dicha reunión nuestro
+Gobierno, al igual que el del resto de los países miembros, habrá de
+pronunciarse sobre las patentes de software.
+
+El acto en Valencia se enmarca en una campaña a nivel europeo, en la que
+hay convocadas diversas actividades para hoy jueves y mañana viernes en
+numerosas ciudades, entre ellas Madrid, Vigo y Santiago. Con estas
+actividades se pretende pedir al Gobierno que apoye en el Comité la
+decisión adoptada el pasado septiembre por el Parlamento Europeo, con la
+que los programas de ordenador quedan razonablemente fuera del ámbito de
+lo patentable. Este apoyo es necesario ya que ahora, meses después de la
+decisión del Parlamento, la presión se ha trasladado al Consejo de
+Ministros de la Unión Europea.
+
+En el Consejo, la presidencia irlandesa está haciendo gestiones a todos
+los niveles para que se apruebe una propuesta favorable a la
+patentabilidad del software, bajo la presión de las oficinas de patentes
+y de varias multinacionales. En la actualidad está tratando de
+asegurarse una mayoría cualificada con la intención de que esa propuesta
+sea aprobada sin discusión previa durante el próximo Consejo de
+Ministros, los días 17 y 18 de mayo. Esta decisión estaría en
+contradicción con la anterior decisión del Parlamento Europeo y no
+tendría en cuenta la opinión de más del 90% de los expertos en el sector
+de las nuevas tecnologías, que también han expresado su rechazo a las
+patentes de software. Esta postura ha suscitado ya diversas críticas
+especialmente duras desde el Parlamento Europeo:
+
+-   \"Es evidente que en el Consejo no desean \'armonizar\' ni
+    \'clarificar\'. Simplemente quieren asegurarse sus intereses en la
+    imposición de patentes.\" (Daniel Cohn-Bendit, co-presidente del
+    grupo de los Verdes/ALE)
+
+```{=html}
+<!-- -->
+```
+-   \"Parece que la Presidencia Irlandesa ha claudicado ante los
+    intereses de las grandes empresas norteamericanas, puesto que esta
+    medida perjudica a las PYMES europeas. Debemos asegurarnos que tras
+    las elecciones podamos disponer de una mayoría dispuesta a defender
+    nuestros intereses.\" (Johanna Boogerd-Quaak, liberal holandesa)
+
+```{=html}
+<!-- -->
+```
+-   \"El Consejo va más allá de la Comisión: además de hacer patentable
+    el uso de algoritmos y modelos de negocio electrónico, proponen
+    prohibir su publicación, permitiendo las llamadas \'reivindicaciones
+    de software\'. Puesto que estas decisiones fueron tomadas a puerta
+    cerrada, no debería sorprendernos en absoluto\". (Anne Van Lancker,
+    socialista belga)
+
+```{=html}
+<!-- -->
+```
+-   \"Puesto que el Consejo está intentando conseguir un compromiso con
+    el Parlamento Europeo, debe basar su trabajo en el plenario. El
+    Consejo está haciendo omisión consciente del espíritu de la
+    legislación europea\". (Piia-Noora Kauppi, finlandesa del Partido de
+    los Pueblos de Europa)
+
+De ser aprobada la directiva de patentabilidad del software, la mayoría
+de PYMES del sector informático se verían seriamente perjudicadas, así
+como los creadores de software, ya sea propietario o libre, aunque en el
+caso del software libre sería especialmente devastadora. Patentes tan
+absurdas como el doble click de ratón, la entrada de datos por teclado o
+las interfaces de usuario pasarían a ser válidas, dejando las PYMES a
+merced de la voluntad de las grandes multinacionales estadounidenses.
+Éstas son poseedoras de la gran mayoría de las patentes, y podrían
+utilizarlas para demandarlas. Resulta extremadamente complicado y
+costoso comprobar que el sofware que se utiliza o desarrolla no viole
+ninguna patente, por lo que sólo estaría al alcance de las grandes
+empresas. Estos problemas frenarían enormemente la capacidad de
+innovación en el sector informático, y disminuirían la competitividad de
+nuestras empresas frente a las de Estados Unidos y las de otros países.
+Las patentes de software, que fueron introducidas a principios de los 80
+en EE.UU., han sido duramente criticadas por los propios estadounidenses
+y varias PYMES han tenido que cerrar como consecuencia de la amenaza de
+costosos juicios contra multinacionales por violación de patentes de
+software.
+
+ProInnova, FFII y otros grupos que están apoyando esta campaña confían
+aún en que los gobiernos europeos se den cuenta de lo que supone el
+borrador que se está debatiendo en el Consejo de la U.E., y lo rechacen,
+pidiendo a la Comisión que se acerque a la postura aprobada en el
+Parlamento Europeo. En particular, el gobierno de España tendrá la
+oportunidad de estrenarse en este tema en Europa defendiendo una postura
+que mantenga claramente Europa libre de patentes de software, con lo que
+eso supondría de positivo para nuestra competitividad, y para las
+iniciativas relacionadas con el software libre que está apoyando a
+varios niveles.
+
+ProInnova también apoya la propuesta de fondo de FFII de que más allá
+del debate estrictamente jurídico, cualquier propuesta legislativa sobre
+la patentabilidad del software sea tenida en cuenta según sus efectos
+sobre la validez o no de una serie de patentes (como las incluidas en el
+juego construido al efecto por FFII). De esta manera puede razonarse
+sobre los efectos reales de esa propuesta. Según este enfoque la
+propuesta de la Comisión, y más aún la de la presidencia irlandesa,
+validan las patentes de software prácticamente sin límites, frente a la
+propuesta aprobada por el Parlamento, que limita claramente lo
+patentable dejando fuera los programas de ordenador.
+
+Esta campaña de [ProInnova](ProInnova "wikilink") está siendo coordinada
+y apoyada por Comisiones Obreras y la Asociación de Internautas, además
+de la asociación de Técnicos de Informática (ATI) e Hispalinux, de los
+que [ProInnova](ProInnova "wikilink") es grupo de trabajo.
+
+Referencias:
+
+-   Actividades en Valencia
+    <http://kwiki.ffii.org/?DemoValencia040514Es>
+-   Entrega de firmas en Madrid
+    <http://kwiki.ffii.org/index.cgi?DemoMadrid040513Es>
+-   Actividades en Compostela
+    <http://kwiki.ffii.org/index.cgi?DemoCompostela20040514>
+-   10 razones por las que oponerse a las patentes de software (por
+    Javier Candeira)
+    <http://www.elmundo.es/navegante/diario/2000/10/19/razones2.html>
+-   Propuesta de la Presidencia Irlandesa
+    <http://swpat.ffii.org/papers/europarl0309/cons0401/>
+-   Análisis de la propuesta por la FFII
+    <http://swpat.ffii.org/news/04/cons0129/>
+-   Otro análisis sobre las consecuencias de las patentes de software
+    <http://patents.caliu.info/explicacio.html>
+-   Acciones durante esta semana en Europa
+    <http://kwiki.ffii.org/SwpDemo0405En>
+-   Votación del Parlamento Europeo sobre la propuesta de directiva
+    <http://proinnova.hispalinux.es/notas-prensa/nota-028.html>
+
+------------------------------------------------------------------------
+
+Contactos de la FFII para la prensa:
+
+-   Hartmut Pilch +49-89-18979927 (German/English/French)
+-   Jonas Maebe +32-485-36-96-45 (Dutch/English)
+-   Erik Josefsson +46-707-696567 (Swedish/English)
+-   Thierry Coutelier +352 406776 (French/German/English)
+-   Benjamin Henrion +32-498-292771 (French/English)
+-   Dieter Van Uytvanck +32-499-16-70-10 (Dutch/English)
+-   Tomasz Marciniak +48-61-8779-208 (Polish)
+-   Stepan Kasal +42-0-257323410 (Czech)
+-   James Heald +44 778910 7539 (English)
+-   Suso Baleato +34 988210660 (Spanish/Portugues/English)
+
+Contactos para el acto de entrega en Valencia:
+
+-   saracasan_at_yahoo.es
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# A partir de esta línea se encuentra información que fue útil para la convocatoria, es decir, previa al pasado viernes 14 de mayo {#a_partir_de_esta_línea_se_encuentra_información_que_fue_útil_para_la_convocatoria_es_decir_previa_al_pasado_viernes_14_de_mayo}
+
+------------------------------------------------------------------------
+
+# ¿En qué puedo ayudar? {#en_qué_puedo_ayudar}
+
+Además de **venir a apoyar la entrega**, también puedes:
+
+-   **Pasar la voz**. Con emails, SMS, etc. Avisar a tus amigos y a
+    quienes creas que pueden estar interesados, pero evitando convertir
+    el aviso en spam, por favor.
+
+```{=html}
+<!-- -->
+```
+-   Si redactas alguna nota, mensaje SMS o lo que sea para avisar,
+    **colgarlo en esta página**, y así otros lo podrán reutilizar
+    fácilmente.
+
+```{=html}
+<!-- -->
+```
+-   Tal vez unirte para juntarnos al terminar en algún local cercano a
+    la Delegación, y tener allí una pequeña charla sobre patentes de
+    software, o hacer una rueda de prensa.
+
+```{=html}
+<!-- -->
+```
+-   O incluso **llevar globos amarillos**. Cuanto más y más grandes,
+    mejor. Si tienes una bombona de helio o similar para hincharlos,
+    mejor todavía ;-)
+
+```{=html}
+<!-- -->
+```
+-   No tan importante, claro, pero si llevas una cámara luego se podrán
+    colgar las fotos. (Parte de las fotos del 14/5/04 en
+    <http://alufis35.uv.es/spip/article52.html>)
+
+```{=html}
+<!-- -->
+```
+-   **Organizar o ayudar a organizar una actividad en tu ciudad**. Por
+    ejemplo, se puede entregar una carta de adhesión a la entrega de
+    firmas en Madrid en nombre de un grupo local en la Delegación del
+    Gobierno de tu Comunidad, o en la Consejería de tu Gobierno
+    Autonómico que sea competente en estos temas. Si lo haces, puedes
+    coordinarte con [ProInnova](ProInnova "wikilink").
+
+Si para algo te hace falta contactar con nosotros, por favor, mensaje a
+proinnova @ listas.hispalinux .es
+
+------------------------------------------------------------------------
+
+# Mensajes para difundir esta acción {#mensajes_para_difundir_esta_acción}
+
+Algunos ejemplos de mensajes que puedes cortar, pegar y editar para
+avisar a quien pueda estar interesado (recuerda: por favor, evita
+convertir esto en spam):
+
+## Modelo 1 {#modelo_1}
+
+`Asunto: Acciones contra patentes de software en Madrid y otras ciudades `\
+\
+`Por favor, difunde esta nota entre quienes puedan estar interesados.`\
+\
+`El 13 de mayo (sí, ya) a las 16:00 se entregará en el Ministerio de Industria`\
+`en Madrid una lista de más de 25.000 firmantes contra las patentes de software,`\
+`y se están planeando otras acciones en otras ciudades. Si te apetece darte una`\
+`vuelta con causa, participa en estas acciones. `
+
+`Más información: `
+
+`Acciones en Madrid: `[`http://kwiki.ffii.org/index.cgi?DemoMadrid040513Es`](http://kwiki.ffii.org/index.cgi?DemoMadrid040513Es)` `
+
+`En otras ciudades (mira si está la tuya, o si aparece en breve):`\
+[`http://kwiki.ffii.org/index.cgi?SwpDemoValencia040514Es`](http://kwiki.ffii.org/index.cgi?SwpDemoValencia040514Es)` `
+
+## Modelo 2 {#modelo_2}
+
+`Asunto: Convocatoria: Acto contra patentes de software en Valencia`
+
+`Hola.`
+
+`Desde Proinnova (http://proinnova.hispalinux.es) estamos coordinando la `\
+`entrega de las firmas recogidas en Eurolinux`\
+`(http://petition.eurolinux.org/index_html ) contra las patentes de software en `\
+`Europa.  `
+
+`Ayer se entregaron las firmas en Madrid en el Ministerio de Ciencia y `\
+`Tecnología y también estamos organizando la presentación de documentación `\
+`referente a ellas ante las delegaciones de gobierno de distintas ciudades.`
+
+`En Valencia vamos a llevar la documentación a la Delegación del Gobierno esta `\
+`tarde (viernes) a las 16:30, y cuántos más seamos, más repercusión tendrá. Puedes `\
+`leer toda la información en `\
+[`http://kwiki.ffii.org/index.cgi?DemoValencia040514Es`](http://kwiki.ffii.org/index.cgi?DemoValencia040514Es)`. `
+
+`Tal como pone en esta página, hemos quedado sobre las 16:00 en la Plaza del `\
+`Temple. Si puedes correr la voz, tanto mejor :).       `
+
+`Si tienes dudas, puedes escribir a la lista de Proinnova (proinnova @ listas. `\
+`hispalinux .es ).`
+
+`Esta entrega pretende mostrar al gobierno la preocupación por el tema de las `\
+`patentes de software, y pedirle que apoye la decisión adoptada al respecto `\
+`por la institución que más directamente representa democráticamente a los `\
+`europeos: el Parlamento Europeo.  Estamos en una fecha especialmente `\
+`significativa, ya que el lunes y el martes que viene se reúne el Comité de `\
+`Competitividad para discutir sobre el tema, y todos los gobiernos de la Unión`\
+`se han de pronunciar sobre el tema.`

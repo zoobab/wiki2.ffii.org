@@ -1,0 +1,83 @@
+Hier die Antwort der OeVP (28.5.)
+
+`Sehr geehrter Herr Dr. Zeisel,`
+
+`im Namen der ÖVP-Delegation möchte ich als der für den zuständigen`\
+`Ausschuss für Recht- und Binnenmarkt verantwortliche Abgeordnete auf`\
+`Ihre Anfrage eingehen.`
+
+`Grundsätzlich ist eine Richtlinie, die die einheitliche`\
+`Rechtsanwendung durch Patentämter und Patentgerichte regelt, im`\
+`Interesse eines funktionierenden Binnenmarktes, zur Schaffung von`\
+`Rechtssicherheit und zur Vermeidung von Wettbewerbsverzerrungen zu`\
+`begrüßen. Dies ist schon alleine deshalb ein wichtiger Schritt, um der`\
+`gegenwärtigen Praxis des Europäischen Patentamts, welches bereits`\
+`entgegen des Wortlauts des Artikels 52 des Europäischen`\
+`Patentübereinkommens nahezu 30.000 Patente auf reine Software erteilt`\
+`hat, einen Riegel vorzuschieben.`
+
+`Nicht zuletzt wegen der zahlreichen engagierten Schreiben von`\
+`betroffenen aus der Branche, bin ich mir der Problematik im`\
+`Zusammenhang mit einer möglichen Erteilung von Patenten auf`\
+`computerimplementierte Erfindungen durchaus bewusst.`
+
+`Der im Europäischen Parlament sehr kontroversiell diskutierten`\
+`Richtlinienentwurf zur Patentierbarkeit computerimplementierter`\
+`Erfindungen kam im Herbst 2003 zur Abstimmung im EP. Mit 40 Änderungen`\
+`hat das Europäische Parlament dem Gesetzesentwurf zugestimmt, jedoch`\
+`forderte das Parlament erhebliche Einschränkungen des zu weit`\
+`reichenden Kommissionsvorschlages. Insbesondere Vertreter`\
+`österreichischer Klein- und Mittelbetriebe fürchteten fatale`\
+`Auswirkungen auf die heimische Softwareindustrie, würde`\
+`Standardsoftware künftig patentierbar gemacht.`
+
+`Ich habe mit Unterstützung der ÖVP-Delegation massiv an der`\
+`Überarbeitung der Richtlinie mitgewirkt und dieser in der jetzigen`\
+`Form zugestimmt, denn das Parlament hat klar gemacht: Das`\
+`US-amerikanische Modell der generellen Patentierbarkeit von Software`\
+`hat in Europa keine Chance. So dürfen laut Parlamentsbeschluss`\
+`Geschäftsmethoden, Algorithmen, reine Software sowie Datenverarbeitung`\
+`nicht patentiert werden. Für computergestützte Erfindungen ist die`\
+`Patentierbarkeit nur dann möglich, wenn sie einen technischen Beitrag`\
+`auf einem Gebiet der Technik leisten, welches als "gewerbliches`\
+`Anwendungsgebiet, das zur Erreichung vorhersehbarer Ereignisse der`\
+`Nutzung kontrollierbarer Kräfte der Natur bedarf" definiert ist. Auch`\
+`die Organisation von Daten auf einer Festplatte (z.B.`\
+`Komprimierungsprogramm) kann nicht geschützt werden.`
+
+`Der vom Europäischen Parlament so modifizierte Entwurf ist gut`\
+`geeignet, die erforderlichen Grenzen zu ziehen und legt einen`\
+`vernünftigen Rahmen für die Patentierbarkeit computerimplementierter`\
+`Erfindungen fest.`
+
+`Diese Richtlinie wird im so genannten Mitentscheidungsverfahren`\
+`beschlossen. Um auf die Problematik hinzuweisen, habe ich im April`\
+`einen Brief an den zuständigen BM Martin Bartenstein, Botschafter`\
+`Woschnagg an der Ständigen Vertretung Österreichs in Brüssel und an`\
+`den zuständigen Kommissar Mario Monti geschickt, aber bis dato leider`\
+`noch keine Rückmeldung erhalten.`
+
+`Wie sich bereits abzeichnete, hat der Ausschuss der ständigen`\
+`Vertreter der Mitgliedsländer beim Rat am Dienstag letzter Woche die`\
+`umstrittene Fassung der Softwarepatent-Richtlinie durchgewunken.`\
+`Deutschland, Belgien und Dänemark konnten sich im Rahmen der Sitzung`\
+`nicht mit ihren Einwänden durchsetzen. Österreich hat sich seiner`\
+`Stimme enthalten, Wirtschaftsminister Bartenstein hielt sich damit`\
+`zumindest nicht an die vom Verkehrsministerium erarbeitete Position,`\
+`in der Softwarepatente begrüßt werden.`
+
+`Der Rat will anscheinend den Willen der gewählten europäischen`\
+`Gesetzgeber, des Parlaments, missachten. Die Richtlinie kann jedoch`\
+`nur mit der Zustimmung des Europäischen Parlaments verabschiedet`\
+`werden und wird im September in zweiter Lesung behandelt. Ich werde`\
+`mich mit Unterstützung der ÖVP-Delegation weiterhin massiv für eine`\
+`tragbare Lösung im Sinne der ersten Lesung des Parlaments stark`\
+`machen!`
+
+`Weitere Information finden Sie unter`\
+[`http://futurezone.orf.at/futurezone.orf?read=detail&id=230583&tmp=97006`](http://futurezone.orf.at/futurezone.orf?read=detail&id=230583&tmp=97006)`,`\
+`unter sowie unter www.othmar-karas.at <`[`http://www.othmar-karas.at`](http://www.othmar-karas.at)` >`
+
+`Mit besten Grüssen`
+
+`Othmar Karas`

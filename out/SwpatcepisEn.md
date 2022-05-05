@@ -1,0 +1,59 @@
+# CEPIS and Software Patents {#cepis_and_software_patents}
+
+\--\> \[ [ GI](SwpatgievDe "wikilink") \| [
+Orgs](SwpatkamniEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+```{=mediawiki}
+{{http://www.upgrade-cepis.org/images/cepislogo.gif}}
+```
+[CEPIS (Council of European Professional Informatics
+Societies)](http://www.cepis.org/ "wikilink"), is the European Meta
+organisation of Information Societies where for exacple the German GI
+(Gesellschaft fuer Informatik) is a memeber and the Spanish ATI
+(Asociación de Técnicos de Informática.):
+
+A proposal for a position of CEPIS by its member ATI (Spain):
+
+<http://www.ati.es/DOCS/documentos/cepis-patentes-042003-eng.html>
+
+It seems that for now, they have not yet decided on their final
+position.
+
+------------------------------------------------------------------------
+
+```{=mediawiki}
+{{http://www.upgrade-cepis.org/images/logouptxt.gif}}
+```
+The 2003 issue of their magazine cepis-upgrade has a number of articles
+in the area of software patents and the open commons:
+
+<http://www.upgrade-cepis.org/issues/2003/3/upgrade-vIV-3.html>
+
+A Note on Software Patents \[PDF: 1 pages, 551 KB\] Pierre Haren
+Abstract: A set of brief notes with his opinions on software patents is
+offered by the author.
+<http://www.upgrade-cepis.org/issues/2003/3/up4-3Haren.pdf>
+
+------------------------------------------------------------------------
+
+Legal Tools to Protect Software: Choosing the Right One \[PDF: 3 pages,
+673 KB\] Roberto Di Cosmo Abstract: This article investigates the
+relative merits of the different legal tools available to protect
+software, in the very moment when the European Community considers
+changing its public policy on these issues. We offer a few clear
+arguments on the impact that the different legal tools have on software
+development and innovation, and urge the readers to form their own
+opinion.
+
+<http://www.upgrade-cepis.org/issues/2003/3/up4-3DiCosmo.pdf>
+
+------------------------------------------------------------------------
+
+Software Patentability and CEPIS \[PDF: 3 pages, 556 KB\] Upgrade
+Editor?s Contribution Abstract: The Editor of Upgrade introduces and
+publishes the positions on software patents put forward by two CEPIS
+member societies ? GI, Germany, and ATI, Spain:
+
+<http://www.upgrade-cepis.org/issues/2003/3/up4-3SwPatents.pdf>

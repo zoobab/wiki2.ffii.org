@@ -1,0 +1,92 @@
+PERSBERICHT FFII \-- \[ binnenland *Europa* economie / ICT \]
+
+==========================================================================
+
+# 01/07/04: Kamer dwingt Brinkhorst stem voor softwarepatenten in te trekken {#kamer_dwingt_brinkhorst_stem_voor_softwarepatenten_in_te_trekken}
+
+==========================================================================
+
+De Tweede Kamer heeft vandaag, 1 juli, een motie gestemd in verband met
+de Europese softwarepatent-richtlijn. Daarin worden minister Brinkhorst
+en staatssecretaris Van Gennip (Economische Zaken) opgeroepen om de
+Nederlandse steun voor softwarepatenten in de Raad van Ministers terug
+in te trekken. Het is voor het eerst dat een dergelijke procedure
+plaatsvindt in de EU.
+
+Softwarepatenten worden al langer sterk bekritiseerd door onder meer het
+MKB, de wetenschappelijke wereld en consumentenorganisaties. Ze zorgen
+voor een verminderde investering in Onderzoek & Ontwikkeling en
+prijsverhogingen. Daarnaast vrezen tegenstanders voor een
+\"advocatenparadijs\" naar Amerikaans model, waar IT-bedrijven
+voortdurend vervolgd worden.
+
+Het feit dat de Europese Ministerraad zich onlangs voor een zeer brede
+patenteerbaarheid van software uitsprak werd dan ook alom bekritiseerd.
+Ook Nederland, vertegenwoordigd door minister Brinkhorst, gaf zijn steun
+aan het voorstel dat veel overeenkomsten vertoonde met het ook al fel
+gecontesteerde beginvoorstel van de Europese Commissie.
+
+Het Europees Parlement had eerder via een hele reeks amendementen de
+scherpe kanten van het voorstel weggehaald. Patenten zouden alleen nog
+toegelaten worden op industriële uitvindingen (bv. wasmachines), en niet
+langer op zuivere software. Al deze aanpassingen werden in de
+controversiële tekst van de Raad geschrapt.
+
+Brinkhorst liet de Kamerleden onlangs nog in een brief weten dat de
+Raadstekst op een compromis met het EP gebaseerd was. Achteraf liet Van
+Gennip weten dat dit onjuiste informatie was die \"te wijten was aan de
+tekstverwerker\".
+
+De Tweede Kamer hechtte duidelijk geen geloof aan deze uitleg en riep
+vandaag dan ook Brinkhorst en Van Gennip tot de orde met een historische
+motie: Nederland moet zijn stem in de Europese Ministerraad terug
+intrekken en zich onthouden. Dit is mogelijk omdat er voorlopig alleen
+een \"politiek akkoord\" bereikt is en de \"formele stemming\" pas kan
+plaatsvinden na de vertaling van de gewraakte tekst in de 20 EU-talen.
+Deze noodremprocedure werd nog nooit eerder toegepast.
+
+Met de motie geeft de Tweede Kamer aan dat ze bij het debat rond
+softwarepatenten betrokken wil worden én dat ze aanpassingen van het
+Europees Parlement zeer op prijs stelt.
+
+Dieter Van Uytvanck, woordvoerder van FFII Nederland, benadrukt het
+belang hiervan:
+
+`  Dit politiek signaal reikt veel verder dan Nederland alleen. We`\
+`  hopen dat ook andere EU-landen die hun twijfels hebben bij de`\
+`  Raadstekst hun stem terug intrekken, zodat het voorstel geen`\
+`  meerderheid meer haalt. Het eerste historische precedent is er nu. `\
+`  `\
+`  Laat het een les zijn voor de beleidsvoerders in Brussel: de`\
+`  Europese burger houdt jullie in het oog. Het is beter om er meteen`\
+`  rekening mee te houden, dan achteraf op de blaren te moeten gaan`\
+`  zitten.`
+
+Verslagen van de eerdere kamerdebatten zijn beschikbaar via:
+
+-   <http://www.ffii.be/kamerdebat1_verslag>
+-   <http://www.ffii.be/kamerdebat2>
+
+==========================================================================
+Contact
+==========================================================================
+
+Wiebe van der Worp wiebe\@vrijschrift.org tel. 06 28 195 808
+
+Ir. Arend Lammertink: alam\@home.nl tel. 06 5425 6426
+
+Dieter Van Uytvanck: dieter\@vrijschrift.nl tel. +32 499 16 70 10
+
+==========================================================================
+Over FFII \-- <http://www.ffii.be>, <http://www.ffii.nl>,
+<http://swpat.ffii.org>
+==========================================================================
+
+De Stichting voor een Vrije Informatie-infrastructuur (Foundation for a
+Free Information Infrastructure, FFII) is een non-profit organisatie die
+bezig houdt met bewustmaking rond gegevensverwerking. FFII ondersteunt
+de ontwikkeling van openbare informatiegoederen gebaseerd op
+auteursrecht, vrije concurrentie en open standaarden. Meer dan 400
+leden, 1000 bedrijven en 60.000 sympathisanten hebben FFII de
+toestemming gegeven hen te vertegenwoordigen in het publieke debat over
+exclusieve rechten (intellectuele eigendom) op het gebied van software.

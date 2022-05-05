@@ -1,0 +1,44 @@
+Next internet cafe from Gogh: rue du Meridien (30 seconds),
+
+To make changes, call blasum (at) ffii.org, +49-174-7313590. Room 125 is
+on the second floor, rooms 111,112,115 and 116 are on the first floor.
+
+-   6-bed room 125 on Sat night: kzacek, mnovot, ppytel
+
+```{=html}
+<!-- -->
+```
+-   6-bed room 125 on Sun night: kzacek, mnovot, ppytel, hblasu
+
+```{=html}
+<!-- -->
+```
+-   4-bed room 111 on Mon night: aadewa, amahin, awesse, azugal -
+-   4-bed room 112 on Mon night: couedr, darbin, jganca, steme -
+-   4-bed room 116 on Mon night: tdovna, yivany
+-   6-bed room 125 on Mon night: kzacek, mnovot, ppytel, ccooke, dohnes,
+    hblasu -
+
+```{=html}
+<!-- -->
+```
+-   4-bed room 111 on Tue night: aadewa, amahin, awesse, azugal -
+-   4-bed room 112 on Tue night: couedr, darbin, jganca, steme -
+-   6-bed room 115 on Tue night: hblasu, pmota, yivany, jbehee, alenic,
+    bhugue -
+-   4-bed room 116 on Tue night: bkrane, ddoubo, esabba, tdovna -
+-   6-bed room 125 on Tue night: kzacek, mnovot, ppytel, ccooke, dohnes,
+    hhanke -
+
+```{=html}
+<!-- -->
+```
+-   4-bed room 111 on Wed night: aadewa, amahin, yivany
+-   4-bed room 112 on Wed night: couedr, darbin, jganca, steme -
+-   4-bed room 116 on Wed night: bkrane, ddoubo, esabba, tdovna -
+-   6-bed room 125 on Wed night: dohnes, hblasu
+
+```{=html}
+<!-- -->
+```
+-   4-bed room 112 on Thu night: jganca

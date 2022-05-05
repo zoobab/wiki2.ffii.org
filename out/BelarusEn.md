@@ -1,0 +1,4 @@
+# Belarus
+
+-   [annual reportof the patent office 2004
+    (ru/en)](http://www.belgospatent.org/russian/about/report_2004.pdf "wikilink")

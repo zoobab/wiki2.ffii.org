@@ -1,0 +1,89 @@
+1.  1.  -\*- dok: [LtrBmwaHierle0503](LtrBmwaHierle0503 "wikilink");
+        lang: de; coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-03-29
+
+# BMWA legt nach: Programmpatente & Ratsverfahren unproblematisch {#bmwa_legt_nach_programmpatente_ratsverfahren_unproblematisch}
+
+-\> \[ [ BMWA](SwpatbmwaDe "wikilink") \| [ BMWA
+05-03](Bmwa0503De "wikilink") \| [
+Bundestagsresolution](Bundestag050217De "wikilink") \| [
+BMJ-Schmierentheater 04-05-18](ConsDe040518De "wikilink") \| [ Betrug im
+Ratstext](ConsText0406De "wikilink") \| [ Annahme-Farce
+05-03-07](Cons050317De "wikilink") \| [ 23 Fragen zur
+Farce](LtrFfiiCons050308De "wikilink") \| [ Patente in
+Aktion](SwpikxraniDe "wikilink") \| [ Briefe](SwpatxatraDe "wikilink")
+\| [ Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*29. März 2005, Berlin \-- Das Bundesministerium für Wirtschaft und
+Arbeit verteidigt weiterhin die rechtlich fragwürdigen Besitzstände der
+Inhaber europäischer \"Computerprogrammpatente\" und lehnt es ab, diese
+in Frage zu stellen. In einem neuen Standard-Antwortschreiben an
+besorgte Softwareentwickler meint BMWA-Sprecher Thomas Zuleger vielmehr,
+dieses Besitzstände hätten bislang der Wirtschaft nicht geschadet. Da im
+Vergleich zur derzeitigen Praxis des Europäischen Patentamtes nichts
+ausgeweitet werde, müsse man ihre Festschreibung Festschreibung
+akzeptieren und solle doch bitte \"die Kirche im Dorf lassen\".*
+
+Ferner meint das BMWA, im EU-Rat sei am 7. März bloß ein bereits
+gefasster Beschluss \"formalisiert\" worden, die EPA-Praxis sei
+mittelstandsfreundlich und man sei sich mit dem Briefschreiber
+\"durchaus einig\". Der Brief wiederholt somit die gleichen
+bekanntermaßen falschen Aussagen wie ein früherer Brief des gleichen
+Hauses, allerdings diesmal knapper und ohne jeden Versuch einer
+Untermauerung.
+
+Der FFII-Vorsitzende [ Hartmut Pilch](HartmutPilchDe "wikilink") meint
+hierzu: \'Mit der neuen Knappheit reagiert das BMWA möglicherweise auf
+Kritik von Bundestagsabgeordneten, die das negative Presseecho über den
+[ vorigen BMWA-Brief](Bmwa0503De "wikilink") sehr wohl bemerkt haben.
+Indem das BMWA nunmehr jegliche klare Aussage verweigert und nur noch
+mit nichtssagenden bis falschen Belerhungen den Schreiber verhöhnt,
+macht es die Sache jedoch nicht besser. Es bleibt dabei, dass das
+Ministerium nicht im geringsten bereit ist, seine usurpierte
+Gesetzgebungsmacht mit vom Volk gewählten Gesetzgebern zu teilen.
+Stattdessen versteckt es sich weiterhin hinter der Judikative und hinter
+\"ungeschriebenen\" (d.h. frei erfundenen, nur der eigenen
+Machtzementierung dienenden) Verfahrensregeln des Rates.\'
+
+## Das BMWA-Schreiben {#das_bmwa_schreiben}
+
+`Subject: Europäisches Richtlinienvorhaben zur Patentierbarkeit computerimplementierter Erfindungen`\
+`Date: 2005-03-29`\
+`From: BUERO-VIIID5 at bmwa bund de`
+
+Sehr geehrter Herr Hierle,
+
+vielen Dank für Ihr Telefax vom 06.03.2005, in dem Sie die
+Verabschiedung der Richtlinie zu computerimplementierten Erfindungen in
+erster Lesung ansprechen.
+
+Ihre Kritik an dem Verfahren teile ich ausdrücklich nicht.
+
+Die rein formale Verabschiedung eines bereits beschlossenen Textes ist
+wegen der Sprachenvielfalt in der EU absolut üblich, geradezu zwingend.
+Das sehen auch die Mitgliedstaaten so, die inhaltliche Bedenken hatten
+oder haben. Das hat mit Missachtung demokratischer Spielregeln überhaupt
+nichts zu tun. Die Richtlinie ist damit übrigens noch längst nicht
+verabschiedet.
+
+In der Zielsetzung sind wir uns durchaus einig. Ich kann Ihnen
+versichern, dass mir eine positive wirtschaftliche Entwicklung der
+Softwarebranche am Herzen liegt. Die vielfach geäußerten Behauptungen,
+Patentschutz für Software würde neu eingeführt oder ausgeweitet, sind
+jedoch sachlich nicht zutreffend. Bei aller Kritik im Detail sollte man
+\"die Kirche im Dorf lassen\".
+
+Die deutsche Softwarebranche hat sich im bisherigen Rechtsrahmen mit
+Computerprogrammpatenten wirtschaftlich gut entwickelt. Daran wird sich
+durch eine internationale Harmonisierung grundsätzlich nichts ändern.
+Wir gehen in Europa ausdrücklich nicht den in der Tat eher fortschritts-
+und vor allem mittelstandsfeindlichen Weg wie in den USA. Hier
+unterscheiden sich die beiden Rechtssysteme deutlich.
+
+Mit freundlichen Grüßen
+
+im Auftrag
+
+Thomas Zuleger

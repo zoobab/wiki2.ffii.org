@@ -1,0 +1,4 @@
+Der Link auf Save-our Software ist kaputt. Die Domain gibt es nicht
+mehr:
+
+a\) Waybackmaschine nehmen b) Link rauskegeln.

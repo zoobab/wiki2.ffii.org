@@ -1,0 +1,601 @@
+# Kontaktadressen der Bundesabgeordneten Bündnis 90 / Die Grünen: {#kontaktadressen_der_bundesabgeordneten_bündnis_90_die_grünen}
+
+\--\> [ Gruene](SwpatgrueneDe "wikilink"), [ DE](SwpatdeDe "wikilink"),
+[ Schlauch](RezzoSchlauchDe "wikilink"), [
+Memorandum](MemoGruene0405De "wikilink")
+
+------------------------------------------------------------------------
+
+#### Name: Kerstin Andreae {#name_kerstin_andreae}
+
+` Landesliste: Baden-Württemberg`\
+` TEL: 030-227-71480`\
+` FAX: 030-227-76481`\
+` WK_STR: Haslacher Str. 61`\
+` WK_ORT: 79115 Freiburg`\
+` WK_TEL: 0761-8886713`\
+` WK_FAX: 0761-8886714`\
+` Gremien/Ausschüsse: Finanzausschuss`
+
+Unterstützerin des Dringenden Aufrufs:
+<http://swpat.ffii.org/letters/cons0406/>
+
+#### Marieluise Beck {#marieluise_beck}
+
+` Landesliste: Bremen`\
+` TEL: 030-227-71605`\
+` FAX: 030-227-76262`\
+` WK_STR: Schlachte 19/20`\
+` WK_ORT: 28195 Bremen`\
+` WK_TEL: 0421-3011200`\
+` WK_FAX: 0421-1655353`\
+` Gremien/Ausschüsse: Parl. Staatssekr. im BM für Familie, Frauen, Jugend und Senioren / Beauftragte für Migration, Flüchtlinge und Integration`
+
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71511`\
+` FAX: 030-227-76880`\
+` WK_STR: Ebertplatz 23`\
+` WK_ORT: 50668 Köln`\
+` WK_TEL: 0221-7201455`\
+` WK_FAX: 0221-722278`\
+` Gremien/Ausschüsse: Innenausschuss, Geschäftsordnungsausschuss, Rechtsausschuss, Vermittlungsausschuss`
+
+#### Cornelia Behm {#cornelia_behm}
+
+` Landesliste: Brandenburg`\
+` TEL: 030-227-71565`\
+` FAX: 030-227-76165`\
+` WK_STR: Lindenstr. 53`\
+` WK_ORT: 14467 Potsdam`\
+` WK_TEL: 0331-8871056`\
+` WK_FAX: 0331-8871055`\
+` Gremien/Ausschüsse: Verbraucherschutz, Ernährung und Landwirtschaft`
+
+#### Birgitt Bender {#birgitt_bender}
+
+` Landesliste: Baden-Württemberg`\
+` TEL: 030-227-71667`\
+` FAX: 030-227-76667`\
+` WK_STR: Hermannstraße 5a`\
+` WK_ORT: 70178 Stuttgart`\
+` WK_TEL: 0711-26346177`\
+` WK_FAX: 0711-6151725`\
+` Gremien/Ausschüsse: Gesundheit und Soziales`
+
+#### Matthias Berninger {#matthias_berninger}
+
+` Landesliste: Hessen`\
+` TEL: 030-227-71514`\
+` FAX: 030-227-76884`\
+` WK_STR: Uhlandstr. 1`\
+` WK_ORT: 34119 Kassel`\
+` WK_TEL: 0561-18899`\
+` WK_FAX: 0561-7391169`\
+` Gremien/Ausschüsse: Parl. Staatssekr. im BM für Verbraucherschutz, Ernährung und Landwirtschaft`
+
+-   TT kennt ihn von früher
+
+#### Grietje Bettin {#grietje_bettin}
+
+kwiki: [ Grietje Bettin](GrietjeBettinDe "wikilink")
+
+` Landesliste: Schleswig-Holstein`\
+` TEL: 030-227-75053`\
+` FAX: 030-227-76051`\
+` WK_STR: Düppelstr. 7`\
+` WK_ORT: 24105 Kiel`\
+` WK_TEL: 0431-5578262`\
+` WK_FAX: 0431-5578224`\
+` Gremien/Ausschüsse: Bildung, Forschung und Technikfolgenabschätzung, Innenausschuss, Kultur und Medien, Neue Medien`
+
+-   Unterstützerin des Aufrufs zum Handeln II
+-   Wiederholte einige der Passagen von der FFII-Homepage in der
+    Bundestagsdebatte zu swpat.
+
+#### Alex Bonde {#alex_bonde}
+
+` Landesliste: `\
+` TEL: 030-227-71691`\
+` FAX: 030-227-76991`\
+` WK_STR: Karl-Friedrich-Straße 40`\
+` WK_ORT: 79312 Emmendingen`\
+` WK_TEL: 07641-954545`\
+` WK_FAX: 07641-954546`\
+` Gremien/Ausschüsse: Haushaltsausschuss, Verteidigungsausschuss`
+
+#### Ekin Deligöz {#ekin_deligöz}
+
+` Landesliste: Bayern`\
+` TEL: 030-227-71506`\
+` FAX: 030-227-76834`\
+` WK_STR: Im Starkfeld 45b`\
+` WK_ORT: 89231 Neu-Ulm`\
+` WK_TEL: 0731-9806976`\
+` WK_FAX: 0731-9806912`\
+` Gremien/Ausschüsse: Gesundheit und Soziales, Kinderkommission, Familie, Frauen, Jugend und Senioren, Menschenrechte und humanitäre Hilfe `
+
+#### Dr. Thea Dückert {#dr._thea_dückert}
+
+` Landesliste: Niedersachsen`\
+` TEL: 030-227-71547`\
+` FAX: 030-227-76515`\
+` WK_STR: Friedensplatz 4`\
+` WK_ORT: 26122 Oldenburg`\
+` WK_TEL: 0441-9572230`\
+` WK_FAX: 0441-9572945`\
+` Gremien/Ausschüsse: Wirtschaft und Arbeit`
+
+#### Jutta Dümpe-Krüger {#jutta_dümpe_krüger}
+
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71715`\
+` FAX: 030-227-76717`\
+` WK_STR: Ostertor 7`\
+` WK_ORT: 32657 Lemgo`\
+` WK_TEL: 05261-988870`\
+` WK_FAX: 05261-988871`\
+` Gremien/Ausschüsse: Familie, Frauen, Jugend und Senioren, Petitionsausschuss`
+
+` Name: Franziska Eichstädt-Bohlig`\
+` Landesliste: Berlin`\
+` TEL: 030-227-71019`\
+` FAX: 030-227-76352`\
+` WK_STR: Lindenstr. 20-25`\
+` WK_ORT: 10969 Berlin`\
+` WK_TEL: 030-61609955`\
+` WK_FAX: 030-6160161`\
+` Gremien/Ausschüsse: Haushaltsausschuss, Verkehr, Bau- und Wohnungswesen, 1. Untersuchungsausschuss`
+
+` Name: Dr. Uschi Eid`\
+` Landesliste: Baden-Württemberg`\
+` TEL: 030-227-71575`\
+` FAX: 030-227-76233`\
+` WK_STR: Plochinger Str. 8`\
+` WK_ORT: 72622 Nürtingen`\
+` WK_TEL: 07022-37234`\
+` WK_FAX: 07022-37321`\
+` Gremien/Ausschüsse: ""Internationalismus"", Wirtschaftliche Zusammenarbeit und Entwicklung`
+
+` Name: Hans-Josef Fell`\
+` Landesliste: Bayern`\
+` TEL: 030-227-72158`\
+` FAX: 030-227-76369`\
+` WK_STR: Kissinger Str. 22`\
+` WK_ORT: 97762 Hammelburg`\
+` WK_TEL: 09732-783977`\
+` WK_FAX: 09732-7830789`\
+` Gremien/Ausschüsse: Bildung, Forschung und Technikfolgenabschätzung`
+
+` Name: Joschka Fischer`\
+` Landesliste: Hessen`\
+` TEL: 030-227-79069`\
+` FAX: 030-227-76662`\
+` WK_STR: An den Weiden 3`\
+` WK_ORT: 60433 Frankfurt`\
+` WK_TEL: 069-97981252`\
+` WK_FAX: 069-97981251`
+
+` Name: Katrin Göring-Eckardt`\
+` Landesliste: Thüringen`\
+` TEL: 030-227-71928`\
+` FAX: 030-227-76275`\
+` WK_STR: Anger 14`\
+` WK_ORT: 99084 Erfurt`\
+` WK_TEL: 0361-6795674`\
+` WK_FAX: 0361-6795675`
+
+Zusammen mit Krista Sager Unterzeichnerin des Regierungsfraktionsantrags
+
+` Name: Anja Hajduk`\
+` Landesliste: Hamburg`\
+` TEL: 030-227-71735`\
+` FAX: 030-227-76737`\
+` WK_STR: Curienstr. 1`\
+` WK_ORT: 20095 Hamburg`\
+` WK_TEL: 040-39925213`\
+` WK_FAX: 040-39925299`\
+` Gremien/Ausschüsse: Haushaltsausschuss`
+
+` Name: Winfried Hermann`\
+` Landesliste: Baden-Württemberg`\
+` TEL: 030-227-71949`\
+` FAX: 030-227-76399`\
+` WK_STR: Rümelinstr. 8`\
+` WK_ORT: 72070 Tübingen`\
+` WK_TEL: 07071-252757`\
+` WK_FAX: 07071-252559`\
+` Gremien/Ausschüsse: Umwelt, Naturschutz und Reaktorsicherheit, Sportausschuss`
+
+` Name: Antje Hermenau`\
+` Landesliste: Sachsen`\
+` TEL: 030-227-71246`\
+` FAX: 030-227-76583`\
+` WK_STR: Hoyerswerdaer Str. 27`\
+` WK_ORT: 01099 Dresden`\
+` WK_TEL: 0351-4591797`\
+` WK_FAX: 0351-3113370`\
+` Gremien/Ausschüsse: Haushaltsausschuss`
+
+` Name: Peter Hettlich`\
+` Landesliste: Sachsen`\
+` TEL: 030-227-71864`\
+` FAX: 030-227-76864`\
+` Gremien/Ausschüsse: Verkehr, Bau- und Wohnungswesen, Petitionsausschuss, Verbraucherschutz, Ernährung und Landwirtschaft, Bildung, Forschung und Technikfolgenabschätzung`
+
+` Name: Ulrike Höfken`\
+` Landesliste: Rheinland-Pfalz`\
+` TEL: 030-227-71016`\
+` FAX: 030-227-76332`\
+` Gremien/Ausschüsse: Verbraucherschutz, Ernährung und Landwirtschaft, Europa-Ausschuss, Globalisierung und Außenwirtschaft, Enquete-Kommission ""Recht und Ethik der modernen Medizin""`
+
+` Name: Thilo Hoppe`\
+` Landesliste: Niedersachsen`\
+` TEL: 030-227-71870`\
+` FAX: 030-227-76869`\
+` WK_STR: Osterstr. 31`\
+` WK_ORT: 26603 Aurich`\
+` WK_TEL: 04941-6982515`\
+` WK_FAX: 04941-6982516`\
+` Gremien/Ausschüsse: Menschenrechte und Humanitäre Hilfe, wirtschaftliche Zusammenarbeit und Entwicklung, Ausschuss nach Art.53a GG`
+
+` Name: Michaele Hustedt`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71639`\
+` FAX: 030-227-76302`\
+` WK_STR: Viktoriastr. 41`\
+` WK_ORT: 33602 Bielefeld`\
+` WK_TEL: 0521-9862531`\
+` WK_FAX: 0521-9676384`\
+` Gremien/Ausschüsse: Wirtschaft und Arbeit, Umwelt, Naturschutz und Reaktorsicherheit`
+
+` Name: Renate Künast`\
+` Landesliste: Berlin`\
+` TEL: 030-227-71913`\
+` FAX: 030-227-76913`\
+` WK_STR: Lindenstr. 20-25`\
+` WK_ORT: 10969 Berlin`\
+` WK_TEL: 030-25292353`\
+` WK_FAX: 030-25292354`
+
+` Name: Fritz Kuhn`\
+` Landesliste: Baden-Württemberg`\
+` TEL: 030-227-71896`\
+` FAX: 030-227-76896`\
+` WK_STR: Rohrbacherstr. 39`\
+` WK_ORT: 69115 Heidelberg`\
+` WK_TEL: 06221-167611`\
+` WK_FAX: 06221-24908`\
+` Gremien/Ausschüsse: Arbeit und Wirtschaft, Finanzausschuss`
+
+` Name: Markus Kurth`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71969`\
+` FAX: 030-227-76966`\
+` WK_STR: Ruhrallee 44`\
+` WK_ORT: 44139 Dortmund`\
+` WK_TEL: 0231-5574660`\
+` WK_FAX: 0231-5574661`\
+` Gremien/Ausschüsse: Gesundheit und Soziales, Wirtschaft und Arbeit, Bildung, Forschung und Technikfolgenabschätzung`
+
+` Name: Undine Kurth`\
+` Landesliste: Sachsen-Anhalt`\
+` TEL: 030-227-75223`\
+` FAX: 030-227-76506`\
+` WK_STR: Otto-von-Guericke-Straße 42a`\
+` WK_ORT: 39104 Magdeburg`\
+` WK_TEL: 0391-4016191`\
+` WK_FAX: 0391-4020670`\
+` Gremien/Ausschüsse: Tourismus, Umwelt, Naturschutz und Reaktorsicherheit, Innenausschuss`
+
+` Name: Dr. Reinhard Loske`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71645`\
+` FAX: 030-227-76307`\
+` WK_STR: Mühlheimer Str. 7a`\
+` WK_ORT: 51357 Leverkusen`\
+` WK_TEL: 0214-5008184`\
+` WK_FAX: 0214-5005719`\
+` Gremien/Ausschüsse: Umwelt, Naturschutz und Reaktorsicherheit`
+
+------------------------------------------------------------------------
+
+```{=mediawiki}
+{{http://www.tagesspiegel.de/bilder/aktuell/luehrmann.jpg}}
+```
+` Name: Anna Lührmann`\
+` Landesliste: Hessen`\
+` TEL: 030-227-71995`\
+` FAX: 030-227-76995`\
+` WK_STR: Oskar-Meyrer-Str. 32a`\
+` WK_ORT: 65719 Hofheim`\
+` WK_TEL: 06192-956510`\
+` WK_FAX: 06192-956520`\
+` Gremien/Ausschüsse: Ausschuss nach Art. 53a GG`
+
+<http://www.tagesspiegel.de/tacheles.02/artikel.asp?TextID=31041>
+
+-   **mmmmh?:** Wer wird bei der EU-Debatte um die Software-Patente
+    geschädigt? Und wer profitiert von diesen neuen Regelungen?
+-   **Anna Lührmann:** Die neue Rahmenrichtlinie zu Softwarepatenten ist
+    zum Glück noch nicht beschlossen. Wir Grüne setzen uns stark dafür
+    ein, dass die Methode \"Open Source\" zu den Gewinnern der Debatte
+    gehört.
+
+------------------------------------------------------------------------
+
+` Name: Jerzy Montag`\
+` Landesliste: Bayern`\
+` TEL: 030-227-72005`\
+` FAX: 030-227-76003`\
+` WK_STR: Sendlinger Str. 47`\
+` WK_ORT: 80331 München`\
+` WK_TEL: 089-23684450`\
+` WK_FAX: 089-23684452`\
+` Gremien/Ausschüsse: Rechtsausschuss, Unterausschuss Europarecht, 1. Untersuchungsausschuss, Innenausschuss, Bundesrichterwahlausschuss`
+
+` Name: Kerstin Müller`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71022`\
+` FAX: 030-227-76480`\
+` WK_STR: Ebertplatz 23`\
+` WK_ORT: 50668 Köln`\
+` WK_TEL: 0221-7220369`\
+` WK_FAX: 0221-9725710`\
+` Gremien/Ausschüsse: Vermittlungsausschuss von Bundestag und Bundesrat, Parteirates von Bündnis 90/Die Grünen`
+
+` Name: Winfried Nachtwei`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-72567`\
+` FAX: 030-227-76016`\
+` WK_STR: Bremer Str. 54`\
+` WK_ORT: 48155 Münster`\
+` WK_TEL: 0251-662280`\
+` WK_FAX: 0251-662296`\
+` Gremien/Ausschüsse: Verteidigungsausschuss, Unterausschusses Abrüstung, Rüstungskontrolle, Nichtverbreitung`
+
+` Name: Christa Nickels`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71588`\
+` FAX: 030-227-76240`\
+` WK_STR: Hochstr. 11`\
+` WK_ORT: 52525 Heinsberg`\
+` WK_TEL: 02452-904048`\
+` WK_FAX: 02452-904628`\
+` Gremien/Ausschüsse: Menschenrechte und Humanitäre Hilfe, Enquete-Kommission ""Ethik und Recht der modernen Medizin""`
+
+` Name: Friedrich Ostendorff`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-72020`\
+` FAX: 030-227-76021`\
+` WK_STR: Wasserstr. 13`\
+` WK_ORT: 59423 Unna`\
+` WK_TEL: 02303-332266`\
+` WK_FAX: 02303-332267`\
+` Gremien/Ausschüsse: Verbraucherschutz, Ernährung und Landwirtschaft`
+
+` Name: Simone Probst`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-77482`\
+` FAX: 030-227-76871`\
+` WK_STR: Im Schildern 21`\
+` WK_ORT: 33098 Paderborn`\
+` WK_TEL: 05251-281824`\
+` WK_FAX: 05251-282280`\
+` Gremien/Ausschüsse: Parl. Staatssekr. im BM für Umwelt, Naturschutz und Reaktorsicherheit`
+
+` Name: Claudia Roth`\
+` Landesliste: Bayern`\
+` TEL: 030-227-72027`\
+` FAX: 030-227-76028`\
+` WK_STR: Maximilianstr. 17`\
+` WK_ORT: 86150 Augsburg`\
+` WK_TEL: 0821-4534403`\
+` WK_FAX: 0821-4534404`\
+` Gremien/Ausschüsse: Auswärtigen Ausschuss, Ausschuss für Kultur und Medien`
+
+` Name: Krista Sager`\
+` Landesliste: Hamburg`\
+` TEL: 030-227-72032`\
+` FAX: 030-227-76032`\
+` WK_STR: Curienstr. 1`\
+` WK_ORT: 20095 Hamburg`\
+` WK_TEL: 040-39925213`\
+` WK_FAX: 040-39925299`\
+` Gremien/Ausschüsse: `
+
+` Name: Christine Scheel`\
+` Landesliste: Bayern`\
+` TEL: 030-227-71014`\
+` FAX: 030-227-76914`\
+` WK_STR: Lange Sträucher 58`\
+` WK_ORT: 63743 Aschaffenburg`\
+` WK_TEL: 06021-446667`\
+` WK_FAX: 06021-446596`\
+` Gremien/Ausschüsse: Finanzausschusses`
+
+` Name: Irmingard Schewe-Gerigk`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71015`\
+` FAX: 030-227-76300`\
+` WK_STR: Bahnhofstr. 45`\
+` WK_ORT: 58313 Herdecke`\
+` WK_TEL: 02330-129583`\
+` WK_FAX: 02330-2730`\
+` Gremien/Ausschüsse: Rechtsausschuss, Familie, Frauen, Jugend und Senioren`
+
+` Name: `[` ``Rezzo`` ``Schlauch`](RezzoSchlauchDe "wikilink")\
+` Landesliste: Baden-Württemberg`\
+` TEL: 030-227-71570`\
+` FAX: 030-227-76232`\
+` WK_STR: Hermannstr. 5a`\
+` WK_ORT: 70178 Stuttgart`\
+` WK_TEL: 0711-6153069`\
+` WK_FAX: 0711-6151725`\
+` Gremien/Ausschüsse: `
+
+-   War auf dem Wsis als Vbertreter der Bundesregierung.
+
+` Name: Albert Schmidt`\
+` Landesliste: Bayern`\
+` TEL: 030-227-73429`\
+` FAX: 030-227-76429`\
+` WK_STR: Griesbadgasse 6`\
+` WK_ORT: 85049 Ingolstadt`\
+` WK_TEL: 0841-34567`\
+` WK_FAX: 0841-17304`\
+` Gremien/Ausschüsse: Verkehr, Bau- und Wohnungswesen, Haushaltsausschuss`
+
+` Name: Werner Schulz`\
+` Landesliste: Berlin`\
+` TEL: 030-227-71927`\
+` FAX: 030-227-76942`\
+` WK_STR: Knaackstr. 6`\
+` WK_ORT: 10405 Berlin`\
+` WK_TEL: 030-44012467`\
+` WK_FAX: 030-44012468`\
+` Gremien/Ausschüsse: Wirtschaft und Arbeit `
+
+` Name: Petra Selg`\
+` Landesliste: Baden-Württemberg`\
+` TEL: 030-227-72038`\
+` FAX: 030-227-76041`\
+` WK_STR: Eugenstr. 57`\
+` WK_ORT: 88045 Friedrichshafen`\
+` WK_TEL: 07541-401770`\
+` WK_FAX: 07541-401772`\
+` Gremien/Ausschüsse: Gesundheit und Soziales, Haushaltsausschuss`
+
+` Name: Ursula Sowa`\
+` Landesliste: Bayern`\
+` TEL: 030-227-72051`\
+` FAX: 030-227-76053`\
+` WK_STR: Wildensorger Str. 7`\
+` WK_ORT: 96049 Bamberg`\
+` WK_TEL: 0951-51935732`\
+` WK_FAX: 0951-51935742`\
+` Gremien/Ausschüsse: Bildung, Forschung und Technikfolgenabschätzung, Petitionsausschuss, Enquete-Kommission ""Kultur"", Verkehr, Bau- und Wohnungswesen, Kultur und Medien`
+
+` Name: Rainder Steenblock`\
+` Landesliste: Schleswig-Holstein`\
+` TEL: 030-227-72056`\
+` FAX: 030-227-76056`\
+` WK_STR: Damm 48`\
+` WK_ORT: 25421 Pinneberg`\
+` WK_TEL: 04101-553987`\
+` WK_FAX: 04101-553986`\
+` Gremien/Ausschüsse: Verkehr, Bau- und Wohnungswesen, Europa-Ausschuss, Delegation zur Parlamentarischen Versammlung des Europarates`
+
+` Name: Silke Stokar`\
+` Landesliste: Niedersachsen`\
+` TEL: 030-227-72122`\
+` FAX: 030-227-76822`\
+` WK_STR: Senior-Blumenberg-Gang 1`\
+` WK_ORT: 30159 Hannover`\
+` WK_TEL: 0511-306652`\
+` WK_FAX: 0511-306663`\
+` Gremien/Ausschüsse: Innenausschuss, Rechtsausschuss, Wahlprüfung, Immunität und Geschäftsordnung`
+
+` Name: Hans-Christian Ströbele`\
+` TEL: 030-227-71503`\
+` FAX: 030-227-76804`\
+` WK_STR: Dresdener Str. 10`\
+` WK_ORT: 10999 Berlin`\
+` WK_TEL: 030-61656961`\
+` WK_FAX: 030-6143146`\
+` Gremien/Ausschüsse: Rechtsausschuss, Parlamentarisches Kontrollgremium, Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung`
+
+-   CCorn hat ihn mal angesprochen.
+
+` Name: Jürgen Trittin`\
+` Landesliste: Niedersachsen`\
+` TEL: 030-227-72247`\
+` FAX: 030-227-76203`\
+` WK_STR: Prinzenstr. 20a`\
+` WK_ORT: 37093 Göttingen`\
+` WK_TEL: 0551-5316090`\
+` WK_FAX: 0551-5315460`\
+` Gremien/Ausschüsse: Ausschuss der Regionen der EU, Landtag Niedersachsen, Ausschuss für Rechts- und Verfassungsfragen`
+
+-   hatte formal die Bundesregierung an dem Ratstag in Brüssel
+    repräsentiert.
+
+` Name: Marianne Tritz`\
+` Landesliste: Niedersachsen`\
+` TEL: 030-227-72147`\
+` FAX: 030-227-76347`\
+` WK_STR: Dahlenburger Landstr. 179 a`\
+` WK_ORT: 21337 Lüneburg`\
+` WK_TEL: 04131-248124`\
+` WK_FAX: 04131-248126`\
+` Gremien/Ausschüsse: Auswärtigen Ausschuss, Verteidigungsausschuss, Unterausschuss Innere Führung, Ausschuss nach Art. 53a GG`
+
+` Name: Hubert Ulrich`\
+` Landesliste: Saarland`\
+` TEL: 030-227-72210`\
+` FAX: 030-227-76228`\
+` WK_STR: Eisenbahnstr. 39`\
+` WK_ORT: 66117 Saarbrücken`\
+` WK_TEL: 0681-389700`\
+` WK_FAX: 0681-3897070`\
+` Gremien/Ausschüsse: Finanzausschuss, Haushaltsausschuss, Wirtschaft und Arbeit`
+
+` Name: Dr. Antje Vogel-Sperl`\
+` Landesliste: Baden-Württemberg`\
+` TEL: 030-227-72215`\
+` FAX: 030-227-76234`\
+` WK_STR: Hindenburgstr. 40`\
+` WK_ORT: 73728 Esslingen`\
+` WK_TEL: 0711-3007194`\
+` WK_FAX: 0711-3513664`\
+` Gremien/Ausschüsse: Umwelt, Naturschutz und Reaktorsicherheit, Verbraucherschutz, Ernährung und Landwirtschaft, Gesundheit und Soziale Sicherung, Verkehr, Bau- und Wohnungswesen, Familie, Senioren, Frauen und Jugend`
+
+` Name: Dr. Antje Vollmer`\
+` Landesliste: Hessen`\
+` TEL: 030-227-71224`\
+` FAX: 030-227-76336`\
+` WK_STR: Uhlandstr. 1`\
+` WK_ORT: 34119 Kassel`\
+` WK_TEL: 0561-18866`\
+` WK_FAX: 0561-13673`\
+` Gremien/Ausschüsse: Kultur und Medien, Auswärtigen Ausschuss, Enquete-Kommission "Kultur"`
+
+` Name: Dr. Ludger Volmer`\
+` Landesliste: Nordrhein-Westfalen`\
+` TEL: 030-227-71675`\
+` FAX: 030-227-76015`\
+` WK_STR: Wildenbruchstr. 15-17`\
+` WK_ORT: 45888 Gelsenkirchen`\
+` WK_TEL: 0209-15021`\
+` WK_FAX: 0209-272929`\
+` Gremien/Ausschüsse: Verteidigungsa`
+
+` Name: Josef Winkler`\
+` Landesliste: Rheinland-Pfalz`\
+` TEL: 030-227-72225`\
+` FAX: 030-227-76237`\
+` WK_STR: Hohenzollernstr. 137`\
+` WK_ORT: 56068 Koblenz`\
+` WK_TEL: 0261-9144980`\
+` WK_FAX: 0261-9144981`\
+` Gremien/Ausschüsse: Innenausschuss, Petitionsausschuss, Menschenrechtsausschuss, Unterausschuss Neue Medien, Wahlprüfungsausschuss`
+
+` Name: Margareta Wolf`\
+` Landesliste: Hessen`\
+` TEL: 030-227-73569`\
+` FAX: 030-227-76885`\
+` WK_STR: Baumstraße 3`\
+` WK_ORT: 65428 Rüsselsheim`\
+` WK_TEL: 06142-835670`\
+` WK_FAX: 06142-835671`\
+` Gremien/Ausschüsse: Parl. Staatssekr. im BM für Umwelt, Naturschutz und Reaktorsicherheit`
+
+Margareta Wolf trat am 14. Juni 2000 als Wirtschaftspolitische
+Sprecherin der Grünen Fraktion auf einer IT-Unternehmensgründer-Tagung
+gegen swpat auf:
+<http://swpat.ffii.org/archiv/zitate/index.de.html#wolf>
+
+## todo
+
+Auf die regionalen Seiten verteilen: Zum Einstieg siehe
+[FfiiDeDe](FfiiDeDe "wikilink") oder [deutsche
+Karte](http://genba.ffii.org/~arebenti/dkarte/ "wikilink")

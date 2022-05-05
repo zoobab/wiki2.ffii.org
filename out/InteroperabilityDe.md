@@ -1,0 +1,20 @@
+Der Begriff Interoperabilität wird im Kontext dieser Richtlinie für
+mindestens fünf verschiedene Ansätze verwendet. Das WKO-Statement
+enthält keine Referenz auf welchen Ansatz sich das Statement beziehen
+soll:
+
+-   Referenz auf das Wettbewerbsrecht
+-   Referenz auf das Software-Urheberrecht
+-   \"Reasonable\" and non-discriminatory access (RAND, funktioniert
+    nicht für Freie Software)
+-   Keine Patentverletzung, wenn es keinen Konflikt mit den \"legtimen\"
+    Ansprüchen des Patentinhabers oder dritten gibt
+-   Keine Patentverletzung für Interoberabilität (Im Europäischen
+    Parlament angenommen - Im Urheberrecht für Software ist eine Klausel
+    enthalten, die Interoperabilität auch ohne Zustimmung des
+    Rechteinhabers erlaubt, es ist die Entsprechung dessen in im
+    Patentrecht)
+
+Wird Patentschutz auf Software erweitert aber keine ausreichende
+Interoperabilitsklausel eingeführt wird die Interoperabilität für
+Software auf das Abstellgleis geschoben.

@@ -1,0 +1,66 @@
+**\_Le Luxembourg, l\'Irlande en symbiose avec Microsoft.\_**
+
+Le défenseur incontestable des brevets informatique l\'Irlande, ou
+Microsoft est le plus grand contribuable, a un nouveau supporter, le
+Luxembourg.
+
+Le gouvernement luxembourgeois essaie de s\'implanter le commerce
+électronique de la communauté à l\'aide de sa TVA de 15%. Microsoft a
+suivi cet appel du Premier ministre Jean Claude Junker fin 2003. Amazon
+et Apple(iTunes) sont les autres firmes les plus connues à profiter de
+cet avantage.
+
+Pour le Luxembourg cette resource est très rentable mais malheureusement
+elle est très volatile. Le ministre de l\'économie précédant (jusqu\'au
+juillet 2004) M. Henri Grethen prévoyait qu\'elle représentera quelques
+milliards de flux (40flux=1Euro) par ans et que cette source de revenu
+s\'épuisera dans 2 à 3 ans car d\'autres payes de la communauté ont ou
+peuvent appliquer le même taux de TVA pour motiver ces firmes à déplacer
+leur siège. Or ce déplacement est très facile, car ils ne doivent
+déplacer que quelques serveurs.
+
+Le gouvernement Luxembourg en particulier le Ministre de l\'économie
+Jeannot Krecké est très soucieux de ne pas perdre ces revenus, qui
+représentent déjà maintenant une grande part de son budget annuel. Pour
+ne pas perdre ces ressources on évite de contraigner les firmes comme
+Microsoft en soutenant leur cause c.à.d. les brevets logiciels. On
+revanche Microsoft garde son siège au Luxembourg et promet de faciliter
+le contact avec d\'autres firmes américaines pendant la viste du
+Ministre de l\'économie Jeannot Krecké au Etats-Unies d\'Amérique afin
+que ceux-ci favorisent le Luxembourg pour s\'implanter dans la
+communauté européenne.
+
+------------------------------------------------------------------------
+
+Annexes:
+
+[\"2003-12-03 LU Diegrenzgänger.lu: Microsoft ist (neu?!)
+angekommen\"](http://www.diegrenzgaenger.lu/index.php?p=edito&edito_id=420 "wikilink")
+
+`          o Le premier Ministre, Jean Claude Junker lui même, informe la`\
+`            presse de l'implantation de Microsoft au Luxembourg. (en`\
+`            allemand)`\
+
+[\"2005-01-14 LU Des grappes, des niches et de
+l\'image\"](http://www.land.lu/html/dossiers/dossier_internet/ecommerce_140105.html "wikilink")
+
+`          o Un article du journal E-commerce qui analyse la politique`\
+`            luxembourgeoise, le problème de la TVA  et discute de `\
+`            l'implantation au Luxembourg des firmes comme Microsoft, Amazon et `\
+`            Apple (iTunes).`\
+
+[\"2004-11-15 LU Government Rapport
+Fontagne\"](http://www.eco.public.lu/documentation/rapports/Rapport_Fontagne.pdf "wikilink")
+
+`          o Ce rapport analyse la compétitivité et la fagilité de l'éconnomie  `\
+`            luxembourgeoise. A la page 184 on a dans la figure 35 les `\
+`            taux de TVA qui s'applique pour le commerce électronique.`\
+
+[\"2004-04-27 LU Luxemburger
+Wort\"](http://swpat.ffii.org/log/05/krecke04/LW_S29_27042005.jpg "wikilink")
+
+`         o Dans ce article du Luxembourger Wort le Ministre de l'économie `\
+`           Jeannot Krecké prétend qu'il a "quasi" trouvé un accord sur `\
+`           les brevets logiciels avec son confrère français. (en allemand)`
+
+------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+# Web Demonstrations are back for second reading {#web_demonstrations_are_back_for_second_reading}
+
+------------------------------------------------------------------------
+
+*The European Parliament is the latest piece of democracy in the
+European system, and this Parliament is currently under heavy lobbying
+of software multinationals. Those ones are currently lobbying hard to
+weaken the amendments of the first reading of september 2003, which has
+drawn clear limits to what and what was not patentable. From the speech
+of Rocard last 21 april in the JURI comitee, \"I have received more then
+27 (!) members of the big industry for the last 20 days\"! (modify
+this).*
+
+------------------------------------------------------------------------
+
+## Contest for webdemo {#contest_for_webdemo}
+
+FFII is launching a contest to design webdemo pages
+
+## Rules
+
+## 

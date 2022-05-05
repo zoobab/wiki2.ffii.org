@@ -1,0 +1,69 @@
+1.  1.  -\*- dok: team05; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# FFII Team 2005 \-- what the committed members can do {#ffii_team_2005____what_the_committed_members_can_do}
+
+-\> \[ [ Priorities](FfiiprojPriorEn "wikilink") \| [ Project
+News](FfiiprojNewsEn "wikilink") \| [ Patent
+News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+## phm: planning, mobilisation, reporting, documentation, amendments studies {#phm_planning_mobilisation_reporting_documentation_amendments_studies}
+
+has the overall responsibility for planning, making things happen and
+reporting results, and harakiri unless 367 !MEPs vote right in the end.
+
+phm should also have some spare time for assuring good communication
+with the scientific community and provision of expertise to !MEPs.
+
+## erjos: europarl lobbying {#erjos_europarl_lobbying}
+
+takes responsibility for bringing about communication between members of
+the European Parliament (!MEPs) and experts/stakeholders of our side. He
+could thereby take much of the organisational burden off Hartmut\'s
+shoulders.
+
+## fwersen
+
+-   fwersen has recently written the [Your
+    Help](http://www.economic-majority.com/help.php "wikilink")
+
+## blasum: finances, letters to supporters, logistics {#blasum_finances_letters_to_supporters_logistics}
+
+## peterg: printed materials {#peterg_printed_materials}
+
+is providing [ printed materials](PrmatEn "wikilink") and making sure
+they arrive at the Brussels office and in one or the other journal where
+we can afford to insert them.
+
+## aigarius:
+
+willing to work full-time. has full information about situation in LV.
+can do scripting/programming work in bash, perl. has access to genba.
+contacts [SMEs](SMEs "wikilink") in LV to get them to Brussels or at
+least leave a testimony
+
+## miluz
+
+graphic designer, available to help supply elements needed for paper and
+web materials
+
+## uhlmann: economic-majority.com maintenance {#uhlmann_economic_majority.com_maintenance}
+
+takes care of the
+
+-   <http://www.economic-majority.com/>
+-   <http://demo.ffii.org/>
+
+websites, checks & acknowledges new entries. Stephan works in his spare
+time and can not collect testimonies from corporate supporters.
+
+## bhenrion
+
+-   has to concentrate 100% on studies now
+
+## bkaindl
+
+-   can provide information upon request and do all kinds of supportive
+    and administrative work, but on vacation

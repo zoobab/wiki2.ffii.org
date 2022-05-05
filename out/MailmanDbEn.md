@@ -1,0 +1,98 @@
+# Making Mailman follow the FFII Project Participation Database and its Applications {#making_mailman_follow_the_ffii_project_participation_database_and_its_applications}
+
+\--\> \[ [ Mailman](MailmanEn "wikilink") \| [
+aktiv](AktivEn "wikilink") \| [ creating
+projects](FfiiprojKreEn "wikilink") \| [ document
+metadata](DokDataEn "wikilink") \| [ project
+news](FfiiprojNewsEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+## News & Chronology {#news_chronology}
+
+-   2004-09-14 cronjob daily.mailman goes back into regular operation
+    under user \'list\'
+-   2004-09-13 phm moves scripts to user \'list\', tests
+    /home/list/ffii/bin/projlists.mailman extensively. During testing,
+    many people receive useless notifications (e.g. a list sarji-de
+    which shouldn\'t exist is recreated and add_members used with flag
+    -w yes) and some list configuration files break. The bugs are fixed
+    (e.g. by removal of lists sarji-?? from table \'lists\' of database
+    \'ffii\' and by corrections in the script projlists.mailman, which
+    had been modified a lot due to the upgrade.)
+-   2004-08-26 unknown administrator stops the scripts, removes user
+    mailman and some symlinks
+-   2004-08-25 phm restores, improves and documents the interface after
+    2 weeks of interruption due to system ugrade. Many waiting
+    subscribers are added from DB. bkaindl and dekkers are notified.
+-   2004-08 [ genba](GenbaEn "wikilink") OS, mailer and mailman upgraded
+
+## Project
+
+-   mailman, [ subscribe via database](FfiiprojKreEn "wikilink") or
+    -   -   <http://lists.ffii.org/mailman/listinfo/mailman-parl/>
+        -   <http://lists.ffii.org/mailman/listinfo/mailman-news/>
+
+## Purpose, tasks {#purpose_tasks}
+
+-   general purpose
+    -   -   translate from project participation of ffii users
+            (identified by [ user id](FfiiUidEn "wikilink")) in projects
+            to subscription/unsubscription of mailing lists
+        -   have decision-relevant data in the database, so that they
+            can be used for all kinds of workflow managment
+            applications, including monthly reminders of participation
+            status, project signup from within kwiki/aktiv, quick
+            addition/removal of people from/to projects by persons with
+            access to the database, etc
+-   update projects once a day
+    -   -   /home/list/ffii/bin/{projlists.mailman,daily.mailman}
+        -   Create and configure new lists based on new projects
+
+`    * leave configuration of old projects alone (control via mailman interface)`
+
+-   -   add new users from database/aktiv
+
+`    * these users must unsubscribe in database/aktiv before unsubscribing in mailman`\
+`    * only for '''-resp (project responsibles) lists, the database is the master, users subscribed from elsewhere are deleted.  In all other cases, subscription through mailman interface is accepted and therefore no deletion is performed.`\
+`  ''' we should send out monthly reminders to all supporters which inform them about project subscription status et al`
+
+-   mailing list subscription (table \'subs\') once per minute
+    -   -   /home/list/ffii/bin/minutely.mailman
+
+## Problems, Tasks {#problems_tasks}
+
+-   some users fail to subscribe, duplicity of interfaces (aktiv +
+    mailman) confuses them. This causes frustration and workload.
+    Solution: inform users better, e.g.:
+    -   -   better explanation on mailman listinfo pages (must be there
+            by default!)
+        -   monthly ffii reminder mailing (short: participation status,
+            current projects)
+        -   info in mailman monthly reminder mailing
+-   fully implement project system in [ aktiv](AktivEn "wikilink")
+-   allow users to sign on/off any project on a project-related kwiki
+    page after login as \"ffii editor\" (using same user/passwd data as
+    knecht/aktiv)
+
+## FAQ
+
+### Why not use mailman interface only? {#why_not_use_mailman_interface_only}
+
+Mailman is unaware of [ ffii user ids](FfiiUidEn "wikilink"). We would
+not have participation data at our disposal. These data are useful for
+an unforeseeable large range of applications.
+
+### Why not just send a subscribe email from Aktiv ? {#why_not_just_send_a_subscribe_email_from_aktiv}
+
+1.  People would then unsubscribe via mailman without notifying the
+    database, and we would accumulate a large pile of invalid
+    participation data over time and no longer know who is in what
+    project
+2.  Aktiv is not the only application of the database. We neither want
+    to lose the info in the mailman interface nor in the aktiv
+    interface. Whenever someone edits the database, no matter whether
+    directly or through an interface, he should be sure that this
+    editing counts
+3.  sending via e-mail is not any more elegant than using the mailman
+    utilities \'add_members\' etc

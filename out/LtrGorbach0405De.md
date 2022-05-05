@@ -1,0 +1,76 @@
+# Brief an Vizekanzler und BMVIT-Minister Hubert Gorbach {#brief_an_vizekanzler_und_bmvit_minister_hubert_gorbach}
+
+Sehr geehrter Herr Vizekanzler,
+
+Herzlichen Dank, dass Sie so schnell (und offenbar aus dem Ausland) die
+Zeit gefunden haben, unsere gestrige Anfrage ueber ein Presseinterview
+zu beantworten. Möglicherweise ist es diese Schnelligkeit und Ihre
+ausgiebigen Reise- und anderwertigen Verpflichtungen, die Ihnen bisher
+nicht die Möglichkeit gab, sich dem \"Kompromissvorschlag\" über
+Softwarepatente in jener Weise zu widmen, die nötig ist, um Ihn zu
+verstehen.
+
+Aus ihren allgemeinen Aussagen glauben wir nämlich zu erkennen, dass
+Ihnen an den an denselben Zielen gelegen ist, wie den schärfsten Gegnern
+des \"Kompromissvorschlags\": Innovationssicherung, Rechtssicherheit und
+Einschränkung der ausufernden Patentierpraxis des EPA sowie eine
+Berücksichtung der Interessen aller Mitgliedsstaaten.
+
+Völlig unverständlich ist daher, warum Sie den \"Kompromissvorschlag\"
+begrüßen und im Ministerrat unterstützen wollen, verfehlt er doch nicht
+nur all diese Ziele - die der Parlamentsbeschluss verwirklicht hätte -
+sondern untergräbt sie sogar nachhaltig.
+
+-   Die Innovationssicherung machen Sie am Begriff des \"technischen\"
+    Beitrags fest. Leider hat der derzeitige \"Kompromiss\" die klaren
+    Definitionen des Parlaments durch weihevolle Leerformeln aus dem
+    Europaeischen Patentamt ersetzt, auf deren Grundlage bereits 30000
+    breite Patente auf triviale Organisations- und Rechenregeln erteilt
+    worden sind. Wie genau soll dadurch Innovation gesichert werden?
+
+```{=html}
+<!-- -->
+```
+-   Interessant ist auch, dass Sie gerade die Interoperabilität an
+    prominenter Stelle erwähnen, wurde doch gerade der einschlägige Art
+    6a im Ratspapier gestrichen.
+
+```{=html}
+<!-- -->
+```
+-   Dass all dies bereits Rechtssicherheit abbaut, liegt auf der Hand.
+    Da aber im \"Kompromiss\" zudem alle Definitionen wesentlicher
+    Begriffe wie Technik, Industrie und sogar Erfindung gestrichen und
+    stattdessen schwammige Schachtelsatzkonstruktionen verwendet wurden,
+    ist der Rechtsicherheitsgewinn mit diesem Papier deutlich im
+    negativen Bereich.
+
+```{=html}
+<!-- -->
+```
+-   Die Interessen der Mitgliedstaaten wurden bereits im
+    Parlamentsentscheid des verangenen September überdeutlich: All die
+    Punkte, die Sie ja selbst als Ihre Ziele formulieren, sollen nicht
+    nur befuerwortet, sindern auch erreicht werden, um so bestehende
+    europäische Standortvorteile zu sichern. Eine Demontage dieser
+    demokratischen Entscheidung - nur weil in der Rats-Arbeitsgruppe die
+    Patentamtsverwalter das Sagen haben oder weil sich die Republik
+    Irland der Begehrlichkeiten ihrer Sponsoren nicht zu erwehren weiß -
+    ist völlig unangebracht.
+
+Damit stehen die gestern von uns vorgebrachten Punkte nach wie vor im
+Raum. Der \"Kompromiss\" des Rates in der Frage der Softwarepatente
+bedeutet:
+
+1.  Eine Enteignung der heimischen !KMU zugunsten ausländischer
+    Großkonzerne.
+2.  Den Verlust tausender Arbeitsplätze.
+3.  Massive Steuereinbußen für die Republik Österreich.
+
+Weitergehende Informatioen zum Thema finden Sie unter:
+<http://swpat.ffii.org/papiere/europarl0309/cons0401/index.de.html>
+sowie: <http://www.ffs.or.at/artikel/position_swp.pdf>
+
+Sollten Sie an einer persönlichen Unterredung - auch kurzfristig -
+interessiert sein, so besteht unser dies bezügliche Angebot
+selbstverständlich nach wie vor.

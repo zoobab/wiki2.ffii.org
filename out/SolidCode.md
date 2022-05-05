@@ -1,0 +1,1 @@
+goto <http://www.solidcode.net> for more info about us :)

@@ -1,0 +1,88 @@
+# FFII Press release policy proposal {#ffii_press_release_policy_proposal}
+
+By: arebenti
+
+------------------------------------------------------------------------
+
+In [PrPipeEn](PrPipeEn "wikilink") all requests for planned PR with a
+drafting deadline are mentioned, e.g invitation mail for conference etc.
+
+0\. An automatic orthography check has to be made before even submitting
+the draft for discussion. A responsible person for sending has to be
+found in advance by the draft person and a release date be specified.
+
+1\. Sent the draft to releg-de, releg-en at minimum. Other lists such as
+media-help, de -help etc. can also get involved.
+
+2.Specify a release date in advance in that mail and specify the
+intended audience, resp. persons in a draft header
+
+`  TO be submitted 28-05-2005, 10 h`\
+`  TO: News@ffii.org, PR people`\
+`  Responsible for sending: Blasum`\
+`  Chair responsible: arebenti until 27-05-05 night, 28-05-02 morning: Blasum`\
+`  translations:`\
+`  German, resp. Ccorn@ffii.org, 2b submitted 28.05.2005, 14h via Holger`\
+`  French, resp. gibus, 2 b submitted 28.052005, 15h via Gibus`\
+`  Dutch, independend PR, resp. Awessels`\
+`  Discussion: #bxl-ffii 27-05-05 22h+, releg-en, us-help`\
+`  Background: `[`Siemens240505En`](Siemens240505En "wikilink")`, counter Siemens FUD`
+
+Good release dates are at least 4 days in advance. For emails usually
+Monday is better than Friday.
+
+A versioning scheme will get applied when discussed by mail. Drafting in
+the wiki will adhere to the FFII wiki standards. Chair will merge
+changes submitted to him. If he is not available, he passes the chair to
+another person with agreement to him. Chair in the morning of the
+submission will be overtaken by the responsible sender. The last chair
+always sents his final version to the submitter.
+
+e.g arebenti and others draft until 4 o Clock, then Arebenti sents his
+chair version to Holger who takes over chair in the morning and makes
+the last changes. This mail to Holger would get named \"Chair V.17\" or
+like that.
+
+4\. Veto to a prepared PR only by Board, phm, arebenti (German media
+project), jonas (En) OR rough consensus and an agreement of the chair.
+Alternative proposals can be started, but it must be indicated that the
+former version is obsolete.
+
+5\. Corrections until the release date.
+
+6\. The responsible person **will** sent the PR to the specified persons
+after the release date
+
+## Other opinions {#other_opinions}
+
+### Gibus
+
+This time the mail was written by Hartmut just before flighing away, and
+there was a feeling of urgency, confirmed by phone calls from Hartmut
+thursday evening (I\'ve tried to write down his recommandations after a
+long call from more than 30 minutes near 1am) and a message at 7.30am
+friday morning.
+
+How can we expect to have a proper message, when this message is
+rewritten by two tired guys in the night, with one sleeping on his
+keyboard and the pther giving up at 2am; and then rewritten in the
+morning (while one of this short-sleepy guys was in office and not
+supposed to be paid to work for FFII) ? Last question from Holger was
+\"is it OK to send out last version (y/n) ?\" and my answer was \"go, we
+haved already passed too much time discussing on the wording\".
+
+So please don\'t blame Holger or I or Jonas (who made some good coments
+on releg-en list and who has also received some hartmut\'s call on
+phone) for the fact that this mail was not perfect. To be honnest I was
+upset waking up this this morning finding sentence like \"I\'m a bit
+shocked that even the few people at FFII who write usable texts don\'t
+know\...\". My first reaction was to answer harshly \"I\'m bit shoked
+that one can consider critics to a communication with corporations when
+there is already so much lack of good communication with collaborative
+volunteers\".
+
+After a proper sleepy night, I\'m still wondering why we have sent this
+mail on Friday morning instead of waiting Monday\...
+
+Next time, I\'d say \"no\" to Holger until I have sufficient distance to
+have a critical look of what has been drafed.

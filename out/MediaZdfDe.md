@@ -1,0 +1,257 @@
+# Zweites Deutsches Fernsehen {#zweites_deutsches_fernsehen}
+
+Ausländischen Beobachtern ist der Unterschied zwischen Staatsfernsehen
+und Öffentlich-rechtlichem Rundfunk kaum zu vermitteln. Im Fernsehrat
+des ZDF sitzen im wesentlichen Spitzenpolitiker der Parteien, keine
+Medienfachleute. Daneben nehmen die Kirchen eine bedeutende Rolle ein.
+Auch die Zivilgesellschaft der 60er Jahre ist gut vertreten,
+einschliesslich obskurer Verbände. Was ein \"Verband der
+Zeitungsverleger\" im Aufsichtsgremium eines Fernsehsenders zu suchen
+hat, erschliesst sich aber dennoch nicht. Unbekannte Verbände wie die
+Vereinigung der Opfer des Stalinismus und die Europa-Union e.v. sind
+Besitzstandswahrung. Andere Organisationen wie Städtetag u.a. nur andere
+staatliche Gremien.
+
+Bezeichnenderweise sind keine Vereinigungen aus dem Bereich der Neuen
+Medien aufgeführt, obwohl das ZDF ein breites Angebot im Netz bereit
+stellt.
+
+Eine mögliche liberalere Alternative zu diesem System eines
+proporzwahrenden Gremiums stellt das niederländische System dar, bei dem
+weltanschauliche Zuschauerverbände Programmfenster gestalten.
+
+## Fernsehrat des ZDF {#fernsehrat_des_zdf}
+
+[Link](http://www.zdf.de/ZDFde/inhalt/13/0,1872,2001965_HOME,00.html "wikilink")
+
+-   verantwortlich für Programmgestaltung
+
+## Mitglieder
+
+### Vertreter der Länder {#vertreter_der_länder}
+
+Baden-Württemberg: Hans Georg Koch, Ministerialdirigent
+
+Bayern: Emilia Müller, Staatsminister a.D.
+
+Berlin: Michael Donnermeyer, Sprecher des Senats
+
+Brandenburg: Erhard Thomas, Staatssekretä
+
+Bremen: Prof. Dr. Reinhard Hoffmann, Staatsrat
+
+Hamburg: Dr. Volkmar Schön, Staatsrat
+
+Hessen: Dr. Franz Josef Jung, MdL, CDU-Fraktionsvorsitzender
+
+Mecklenburg-Vorpommern: Dr. Frank Tidick, Staatssekretär
+
+Niedersachsen: Dr. Gabriele Wurzel, Staatssekretärin
+
+Nordrhein-Westfalen: Hannelore Kraft, MdL, Ministerin
+
+Rheinland-Pfalz: Rainer Brüderle, MdB, Staatsminister a. D.
+
+Saarland: Reinhold Schreiner, Ministerialdirigent a. D.
+
+Sachsen: Stanislaw Tillich, Staatsminister
+
+Sachsen-Anhalt: Rainer Robra, Staatsminister
+
+Schleswig-Holstein: Ulrike Wolff-Gebhardt, Staatssekretärin
+
+Thüringen: Prof. Dr. Michael Krapp, MdL, Minister
+
+## Vertreter des Bundes {#vertreter_des_bundes}
+
+Sabine Baun, Pressesprecherin des Bundesministeriums für Bildung und
+Forschung
+
+Dr. Knut Nevermann, Ministerialdirektor bei der Beauftragten der
+Bundesregierung für Kultur und Medien
+
+Brigitte Zypries, Bundesministerin der Justiz
+
+## Vertreter der Parteien {#vertreter_der_parteien}
+
+CDU: Prof. Dr. Maria Böhmer, MdB, stellvertretende Vorsitzende der
+CDU/CSU-Bundestagsfraktion
+
+CDU: Dr. Willi Hausmann, Staatssekretär a. D.
+
+CDU: Laurenz Meyer, MdB, Generalsekretär
+
+CDU: Ruprecht Polenz, MdB
+
+SPD: Klaus Uwe Benneter, MdB, Generalsekretär
+
+SPD: Dr. Christine Bergmann, Bundesministerin a.D.
+
+SPD: Andrea Nahles
+
+SPD: Olaf Scholz, MdB
+
+SPD: Martin Stadelmaier, Staatssekretär
+
+CSU: Dr. Markus Söder, CSU-Generalsekretär
+
+Bündnis 90/ Die Grünen: Reinhard Bütikofer, Bundesvorsitzender
+
+FDP: Dr. Guido Westerwelle, MdB, Vorsitzender
+
+## Vertreter der Evangelischen Kirche in Deutschland {#vertreter_der_evangelischen_kirche_in_deutschland}
+
+Dr. Hermann Barth, Vizepräsident
+
+Marlehn Thieme, Mitglied des Rates der EKD
+
+## Vertreter der Katholischen Kirche {#vertreter_der_katholischen_kirche}
+
+Dr. Anneliese Mayer, Leiterin des Seelsorgereferates II im
+Erzbischöflichen Ordinariat München und Freising.
+
+P. Dr. Hans Langendörfer, SJ, Sekretär der Deutschen Bischofskonferenz
+
+## Vertreter des Zentralrats der Juden in Deutschland {#vertreter_des_zentralrats_der_juden_in_deutschland}
+
+Dr. Salomon Korn, Vizepräsident
+
+Vertreter des Deutschen Gewerkschaftsbundes
+
+Michael Sommer, Bundesvorsitzender
+
+Vertreter der Deutschen Angestellten-Gewerkschaft
+
+Roland Issen
+
+Vertreter des Deutschen Beamtenbundes
+
+Peter Heesen, Bundesvorsitzender
+
+Vertreter der Bundesvereinigung Deutscher Arbeitgeberverbände
+
+Dr. Reinhard Göhner, MdB, Hauptgeschäftsführer
+
+Dr. Uwe Mazura, Leiter der Abt. Presse- und Öffentlichkeitsarbeit
+
+Vertreter des Deutschen Industrie- und Handelstages (seit 01.07.2001
+Deutscher Industrie- und Handelskammertag)
+
+Dr. Walter Kaiser, Stellvertretender Hauptgeschäftsführer
+
+Vertreter des Zentralausschusses der Deutschen Landwirtschaft
+
+Dr. Michael Lohse, Pressesprecher des Deutschen Bauernverbandes
+
+Vertreter des Zentralverbandes des Deutschen Handwerks
+
+Hanns-Eberhard Schleyer, Generalsekretär
+
+Vertreter des Bundesverbandes Deutscher Zeitungsverleger
+
+Wilhelm Sandmann, Vorsitzender des Aufsichtsrates der
+Verlagsgesellschaft Madsack GmbH & Co. KG
+
+Dr. Hermann Balle, 1. Vorsitzender des Verbandes Bayerischer
+Zeitungsverleger e.V.
+
+Vertreter des Deutschen Journalisten-Verbandes e. V.
+
+Hubert Engeroff, Hauptgeschäftsführer
+
+Vertreter der Industriegewerkschaft Medien, Druck und Papier,
+Publizistik und Kunst
+
+Frank Werneke, Stellvertretender Bundesvorsitzender ver.di
+
+Vertreter der Freien Wohlfahrtsverbände
+
+Dr. h.c. Jürgen Gohde, Diakonisches Werk der EKD, Präsident
+
+Dr. Martin Salm, Deutscher Caritasverband e. V., Mitglied des
+geschäftsführenden Vorstandes, Leiter von Caritas International
+
+Dr. rer. pol. h.c. Rudolf Seiters, Deutsches Rotes Kreuz, Präsident,
+Bundesminister a.D:
+
+Dr. Manfred Ragati, Deutsche Arbeiterwohlfahrt e. V., Bundesvorsitzender
+
+Vertreter des Deutschen Städtetages
+
+Petra Roth, Präsidentin
+
+Vertreter des Deutschen Städte- und Gemeindebundes
+
+Christian Schramm, Präsident
+
+Vertreter des Deutschen Landkreistages
+
+Prof. Dr. Hans-Günter Henneke, Geschäftsführendes Präsidialmitglied
+
+Vertreter des Deutschen Sportbundes
+
+Manfred Freiherr von Richthofen, Präsident
+
+Vertreter der Europa-Union Deutschland e. V.
+
+Peter Altmaier, MdB, Mitglied im Präsidium der Europa-Union Saar
+
+Vertreter des Bundes für Umwelt und Naturschutz Deutschland e. V.
+
+Dr. Angelika Zahrnt, Vorsitzende
+
+Vertreter des Naturschutzbundes Deutschland e. V.
+
+Olaf Tschimpke, Präsident
+
+Vertreter des Bundes der Vertriebenen
+
+Erika Steinbach, MdB, Präsidentin
+
+Vertreter der Vereinigung der Opfer des Stalinismus e. V. (VOS)
+
+Dietmar Mokros, Stellvertretender Bundesvorsitzender
+
+Vertreter aus den Bereichen des Erziehungs- und Bildungswesens, der
+Wissenschaft, der Kunst, der Kultur, der Filmwirtschaft, der Freien
+Berufe, der Familienarbeit, des Kinderschutzes, der Jugendarbeit, des
+Verbraucherschutzes und des Tierschutzes
+
+Jo Krummacher, Pfarrer, Direktor der Evangelischen Akademie Bad Boll
+
+Dr. Angelika Niebler MdEP, Rechtsanwältin
+
+Petra Maria Müller, Geschäftsführerin
+
+Saskia Funck, Diplomkauffrau
+
+Jörg Kastendiek, MdBB, Vorsitzender der CDU-Fraktion der Bremischen
+Bürgschaft
+
+Dr. Karin Petra Jung, Veterinärdirektorin
+
+Ulf Skodda, Rechtsanwalt
+
+Prof. Dr. Beate Schneider
+
+Michael Schmid-Ospach, Geschäftsführer der Filmstiftung
+Nordrhein-Westfalen
+
+Karin Stock, Geschäftsführerin der Verbraucherzentrale Rheinland-Pfalz
+e. V.
+
+Doris Pack MdEP, Rektorin a. D.
+
+Friedbert Groß, Staatsminister a. D.
+
+Rainhard Lukowitz, MdL
+
+Dr. Karin Johannsen-Bojsen, Autorin
+
+Reinhard Müller, Studiendirektor
+
+N.N.
+
+## Programmrichtlinien
+
+<http://www.zdf.de/ZDFde/download/0,1896,2000060,00.pdf>

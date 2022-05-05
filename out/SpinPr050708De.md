@@ -1,0 +1,83 @@
+1.  1.  -\*- dok: [SpinPr050708](SpinPr050708 "wikilink"); lang: de;
+        coding: iso-8859-1; mode: fundamental; -\*-
+
+# Patentlobby hat im Streit um EU-Richtlinie \"Millionen zum Fenster hinaus geworfen\" und \"leugnet politische Niederlage\" {#patentlobby_hat_im_streit_um_eu_richtlinie_millionen_zum_fenster_hinaus_geworfen_und_leugnet_politische_niederlage}
+
+-\> \[ [ english](SpinPr050708En "wikilink") \] \[ [ Spin
+Doctoring](Spin050708En "wikilink") \| [ Lobbying
+Investments](SwpatAstroturf05En "wikilink") \| [
+Nachrichten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*München (08. Juli 2005) \-- Das EU-Parlament hat am Mittwoch eine
+umstrittene Richtlinie abgelehnt, doch Gegner und Befürworter von
+Softwarepatenten liefern sich weiter Wortgefechte. Heute mussten sich
+die Lobbyisten der Patentanhänger dafür Kritik anhören, \"die
+Schönrednerei zu übertreiben\".*
+
+Hartmut Pilch, der Vorsitzende des Fördervereins für eine Freie
+Informationelle Infrastruktur (FFII e.V.), sieht keinen Grund für die
+Befürworter von Softwarepatenten, das Ergebnis vom Mittwoch wirklich zu
+begrüßen: \"Die können sagen, was sie wollen, aber Artikel 52 des
+Europäischen Patentübereinkommens bleibt in Kraft, und der schließt
+Patente auf Computersoftware ausdrücklich aus. Unsere Gegner wollten
+diesen Artikel mittels einer EU-Richtlinie verwässern. Dabei sind sie
+keinen Schritt vorangekommen.\"
+
+Nach Pilchs Einschätzung haben \"berechtigte Bedenken, dass
+Softwarepatente der Wirtschaft und der Innovation schaden\" europaweit
+einen Aufmerksamkeitsgrad in Medien und Politik erlangt, \"der ohne
+dieses Richtlinienverfahren nicht vorstellbar gewesen wäre\". Er führte
+hierzu aus, dass beispielsweise mehrere nationale Parlamente
+Resolutionen im Sinne der Forderungen seiner Organisation verabschiedet
+haben. Nach dem ergebnislosen Ende des Verfahrens auf EU-Ebene glaubt
+Pilch, dass es gesetzgeberische Initiativen in den Mitgliedsstaaten der
+EU geben könnte.
+
+\"Erst haben sie viele Millionen Euro für Lobbying und PR zum Fenster
+hinausgeworfen, und jetzt wollen sie ihre Arbeit- und Auftraggeber
+beschwichtigen, indem sie eine glasklare Niederlage schönreden\", sagte
+Florian Müller, der Gründer der
+[NoSoftwarePatents.com-Kampagne](http://www.nosoftwarepatents.com "wikilink").
+\"Wenn man soviel Geld ausgibt, will man am Ende etwas mehr in den
+Händen halten als einen gescheiterten Anlauf, Softwarepatente im
+europäischen Recht festzuschreiben. Das hätten sie auch kostenlos haben
+können.\"
+
+Die Bemühungen der Patentlobby hatten in der Tat gewaltige Ausmaße. Das
+[ Verteilen von Eiskrem an über 500
+Personen](CampIcecream050601En "wikilink") zählte lediglich zu den
+Nebenkosten. Lobbyorganisationen führten während der zweiten Lesung auf
+nahezu täglicher Basis Veranstaltungen im Europaparlament und
+europäischen Hauptstädten durch. Sie produzierten diverse Videos und
+schalteten unzählige Zeitungsanzeigen im ganzseitigen Format. Sie
+engagierten mehrere renommierte PR-Agenturen sowie mit Pat Cox einen
+ehemaligen Präsidenten des Europaparlaments. An einem Gebäude in
+Parlamentsnähe hing ein großes Plakat. Dutzende Vollzeitlobbyisten \--
+darunter einige hochbezahlte Anwälte \-- waren Monate lang in Brüssel
+stationiert. Eine Kampagne für Softwarepatente wurde von einem
+Lobbyisten geleitet, der sich mit einer 30 Mio. Euro schweren Initiative
+für Genpatente einen Namen gemacht hatte.
+
+Für Müller ist es auffällig, dass dieselben Patentlobbyisten, die jetzt
+das abrupte Ende des Richtlinienverfahrens begrüßen, sich im Februar
+dagegen aussprachen, das Verfahren neu aufzurollen. Dazu forderte das
+Europäische Parlament seinerzeit die EU-Kommission auf. \"Unser Lager
+hat damals die Europaparlamentarier von den Vorzügen eines
+Verfahrensneustarts überzeugt, und die anderen argumentierten, sie
+bräuchten schnellstmöglich diese Richtlinie. Vor nicht einmal drei
+Wochen haben sie dann die Tatsache begrüßt, dass der Rechtsausschuss des
+EP sich nicht auf größere Änderungen am Richtlinientext einigen konnte.
+Da wähnten sie sich schon kurz vor dem Ziel. Wer soll ihnen da glauben,
+dass sie jetzt glücklich sind?\"
+
+## Über den FFII {#über_den_ffii}
+
+Der FFII ist ein in München eingetragener gemeinnütziger Verein für
+Volksbildung im Bereich der Datenverarbeitung. Der FFII unterstützt die
+Entwicklung öffentlicher Informationsgüter auf Grundlage des
+Urheberrechts, freien Wettbewerbs und offener Standards. Über 3 000
+Firmen und 90 000 Personen haben den FFII mit der Vertretung ihrer
+Interessen im Bereich der Gesetzgebung zu Urheber- und Patentrecht
+beauftragt.

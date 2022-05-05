@@ -1,0 +1,205 @@
+# La Commission ne fait pas de commentaires sur les dangers de l\'EPLA {#la_commission_ne_fait_pas_de_commentaires_sur_les_dangers_de_lepla}
+
+------------------------------------------------------------------------
+
+*Dans ses réponses aux questions de Michel Rocard concernant l\'EPLA, la
+Commission européenne ne veut commenter aucune solution pour résoudre
+les problèmes cruciaux soulevés par cet accord, tant sur le coût des
+brevets qu\'il induirait, que sur l\'absence dangereuse de séparation
+des pouvoirs qu\'il mettrait en place. Enfin, la Commission reconnaît
+également qu\'elle n\'a aucun commentaire à faire sur la jurisprudence
+de l\'OEB acceptant des brevets logiciels contrairement à la Convention
+sur le brevet européen et sur la manière dont l\'EPLA pourrait invalider
+ou confirmer cette jurisprudence. Dans ce contexte, le Parlement
+européen serait bien mal avisé d\'apporter son soutien à un accord
+soulevant tant de problèmes cruciaux restant sans réponse\...*
+
+------------------------------------------------------------------------
+
+## Question sur le coût des brevets avec l\'EPLA {#question_sur_le_coût_des_brevets_avec_lepla}
+
+### Question
+
+` 31 juillet 2006`\
+` E-3582/06`\
+` QUESTION ÉCRITE posée par Michel Rocard (PSE) à la Commission`\
+` `\
+` Objet: Coût des brevets au sein de l'Organisation européenne du contentieux des`\
+` brevets issue de l'OECB/EPLA`\
+` `\
+` Dans son étude d'impact de l'EPLA datée de février 2006, l'OEB mentionne (cf.`\
+` page 13) que le coût minimal d'un litige moyen jugé en première   instance`\
+` devant la future Cour européenne des brevets est à peine inférieur aux coûts du`\
+` même cas traité parallèlement en Allemagne, en France   et aux Pays-Bas, ou que`\
+` le coût minimal d'un litige en deuxième instance est à peine inférieur aux`\
+` coûts du même cas traité parallèlement en   Allemagne, aux Pays-Bas et au`\
+` Royaume-Uni.`\
+` `\
+` Alors que les PME ne disposent bien souvent que des ressources leur permettant`\
+` de mener un seul litige à la fois, comptant sur la résolution de celui-ci pour`\
+` dégager les ressources leur permettant éventuellement d'en mener un autre,`\
+` comment la Commission peut-elle justifier une telle augmentation des coûts de`\
+` litiges, d'une part en tant que telle, mais surtout vis-à-vis de l'intérêt des`\
+` PME?`
+
+#### Source
+
+-   <http://www.europarl.europa.eu/omk/sipade3?PUBREF=-//EP//TEXT%20WQ%20E-2006-3582%200%20DOC%20XML%20V0//FR&LEVEL=3&SAME_LEVEL=1&NAV=S&LSTDOC=Y>
+
+### Réponse
+
+` E-3582/06FR`\
+` Réponse donnée par M. `[`McCreevy`](McCreevy "wikilink")\
+` au nom de la Commission`\
+` (15.9.2006)`
+
+` Le projet sur l'Accord sur le règlement des litiges en matière de brevets`\
+` européens (EPLA) est basé sur une initiative des Etats contractants à`\
+` l'Organisation Européenne des Brevets, à laquelle la Communauté n'est pas`\
+` partie contractante, et est élaboré par un groupe de travail sur les`\
+` litiges, sans la participation de la Communauté. Comme l'honorable`\
+` parlementaire l'a mentionné, l'Office européen des brevets agissant comme`\
+` secrétariat du groupe de travail sur les litiges a réalisé une évaluation`\
+` de l'impact d'EPLA sur les litiges de brevets européens. Il n'est donc pas`\
+` du ressort de la Commission d'analyser la structure des coûts sous EPLA, ni`\
+` de justifier les coûts calculés par l'Office européen des brevets.`\
+` `\
+` Néanmoins,  dans le cadre de la consultation sur la future politique en`\
+` matière de brevet en Europe, la Commission est actuellement en cours`\
+` d'analyse de l'EPLA et les possibilités pour la Communauté de faire avancer`\
+` ce projet. Or, la question dune résolution prévisible, rapide et peu`\
+` coûteuse des litiges entre les titulaires et les autres parties constitue`\
+` une des préoccupations principales de la Commission. Des frais de litige`\
+` réduits auraient un impact très positif sur lutilisation des brevets par`\
+` les petites et moyennes entreprises  (PME). La consultation a été lancée le`
+
+1.  1.  janvier 2006 et s\'avère être un énorme succès, produisant plus
+        de 2.500
+
+` réponses des milieux intéressés. Une audition publique s'est tenue le 12`\
+` juillet 2006. La Commission analyse maintenant toutes les réponses afin`\
+` d'en tirer ses conclusions. Naturellement, le Parlement sera informé des`\
+` résultats et des conclusions de la Commission dès que ceux-ci auront été`\
+` finalisés.`
+
+#### Source {#source_1}
+
+-   <http://www.europarl.europa.eu/omk/sipade3?L=FR&OBJID=127328&LEVEL=3&SAME_LEVEL=1&NAV=S&LSTDOC=Y>
+    (format MS-Word)
+
+## Question sur la séparation des pouvoirs avec l\'EPLA {#question_sur_la_séparation_des_pouvoirs_avec_lepla}
+
+### Question {#question_1}
+
+` 31 juillet 2006`\
+` E-3581/06`\
+` QUESTION ÉCRITE posée par Michel Rocard (PSE) à la Commission`
+
+` Objet: Séparation des pouvoirs au sein de l'Organisation européenne du`\
+` contentieux des brevets issue de l'OECB/EPLA`
+
+` Un système communautaire de règlement des litiges en matière de brevets ne peut`\
+` exister que s'il est parfaitement intégré dans l'ordre communautaire, et s'il`\
+` est en totale indépendance des pouvoirs législatif et exécutif, conformément au`\
+` principe de séparation des pouvoirs.`
+
+` Il en découle que les juges appelés à statuer dans le cadre de l'OECB ne`\
+` peuvent, concurremment, exercer ou avoir exercé de fonctions au sein des`\
+` différentes chambres de l'OEB ou des offices nationaux, en charge de la`\
+` délivrance des brevets.`
+
+` Quelles dispositions la Commission a-t-elle prises ou compte-t-elle prendre à`\
+` cette fin?`
+
+#### Source {#source_2}
+
+-   <http://www.europarl.europa.eu/omk/sipade3?PUBREF=-//EP//TEXT+WQ+E-2006-3581+0+DOC+XML+V0//FR&L=FR&LEVEL=1&NAV=S&LSTDOC=Y>
+
+### Réponse {#réponse_1}
+
+` E-3581/06FR`\
+` Réponse donnée par M. `[`McCreevy`](McCreevy "wikilink")\
+` au nom de la Commission`\
+` (12.9.2006)`
+
+` La façon de structurer les règles pour les juges de lOrganisation européenne`\
+` du contentieux des brevets est une question qui exigerait une analyse`\
+` approfondie. La Commission n'est pas actuellement en position de commenter ce`\
+` sujet.`
+
+` Dans le cadre de la consultation sur la future politique en matière de brevet`\
+` en Europe, la Commission est actuellement en cours d'analyse de l'EPLA et les`\
+` possibilités pour la Communauté européenne de faire avancer ce projet. Le`\
+` Parlement sera informé des résultats et des conclusions de cette analyse dès`\
+` que ceux-ci auront été finalisés.`\
+` `
+
+#### Source {#source_3}
+
+-   <http://www.europarl.europa.eu/omk/sipade3?L=FR&OBJID=127079&LEVEL=2&SAME_LEVEL=1&NAV=S&LSTDOC=Y>
+    (format MS-Word)
+
+## Question sur la jurisprudence accordant des brevets logiciels avec l\'EPLA {#question_sur_la_jurisprudence_accordant_des_brevets_logiciels_avec_lepla}
+
+### Question {#question_2}
+
+` 31 juillet 2006   `\
+` E-3580/06`\
+` QUESTION ÉCRITE posée par Michel Rocard (PSE) à la Commission`
+
+` Objet: Jurisprudence et politique de l'innovation au sein de l'Organisation`\
+` européenne du contentieux des brevets issue de l'OECB/EPLA    `
+
+` Les Chambres techniques d'appel de l'Office européen des brevets ont, par une`\
+` succession de décisions jurisprudentielles, conduit à la délivrance de brevets`\
+` logiciels et de brevets sur les méthodes d'affaires (pendants de la classe 705`\
+` de l'USPTO).`
+
+` La Commission adhère-t-elle au fait que l'introduction du logiciel dans le`\
+` périmètre de brevetabilité n'était pas une décision «technique» mais une`\
+` modification substantielle du droit des brevets qui ne peut relever de la`\
+` compétence d'aucune cour, et que des décisions de cet ordre nécessiteraient`\
+` d'être traitées de façon appropriée au niveau politique, c'est-à-dire sous`\
+` forme législative ?`
+
+` Quels mécanismes la Commission a-t-elle prévu de mettre en uvre au niveau de`\
+` l'OECB afin que des dérives similaires ne puissent avoir lieu?`
+
+#### Source {#source_4}
+
+-   <http://www.europarl.europa.eu/omk/sipade3?PUBREF=-//EP//TEXT+WQ+E-2006-3580+0+DOC+XML+V0//FR&L=FR&LEVEL=1&NAV=S&LSTDOC=Y>
+
+### Réponse {#réponse_2}
+
+` E-3580/06FR`\
+` Réponse donnée par M. `[`McCreevy`](McCreevy "wikilink")\
+` au nom de la Commission`\
+` (14.9.2006)`
+
+` La Commission convient avec l'honorable parlementaire qu'il est important`\
+` d'assurer la répartition des compétences entre le législatif et le judicaire.`
+
+` Un instrument législatif codifie la situation juridique dans un domaine`\
+` particulier.`
+
+` Un système juridique, tel que celui proposé par le projet EPLA, interprète les`\
+` règles substantielles du droit des brevets existant, mais ne change pas ou ne`\
+` codifie pas ces règles. Dans le cadre de la répartition des compétences, il`\
+` relève des pouvoirs d'une cour d'interpréter les dispositions de la loi.`
+
+` La Communauté européenne n'est pas une partie contractante de l'Organisation`\
+` Européenne des Brevets (OEB). Il ne revient donc pas à la Commission`\
+` d'interpréter des décisions des chambres de recours techniques de l'OEB.`
+
+` En ce qui concerne la structure prévue de lOrganisation européenne du`\
+` contentieux des brevets, la Commission n'est pas actuellement en position de la`\
+` commenter. Dans le cadre de la consultation sur la future politique en matière`\
+` de brevet en Europe, la Commission est actuellement en cours d'analyse de`\
+` l'EPLA et des possibilités pour la Communauté européenne de faire avancer ce`\
+` projet. Naturellement, le Parlement sera informé des résultats et des`\
+` conclusions de la Commission dès que ceux-ci auront été finalisés.`
+
+#### Source {#source_5}
+
+-   <http://www.europarl.europa.eu/omk/sipade3?L=FR&OBJID=127079&LEVEL=2&SAME_LEVEL=1&NAV=S&LSTDOC=Y>
+    (format MS-Word)

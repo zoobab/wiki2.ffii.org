@@ -1,0 +1,104 @@
+[ DEUTSCH](ShortIntroDe "wikilink") \|
+[GREEK](http://epatents.hellug.gr/pages/short_introduction "wikilink")
+\| [ FRANÇAIS](ShortIntroFr "wikilink") \| [
+ITALIANO](ShortIntroIT "wikilink") [ (Click for Primary
+Version)](ShortIntroEn "wikilink")
+
+Before editing or translating this document, please check
+[ShortIntroDiscussionEn](ShortIntroDiscussionEn "wikilink").
+
+------------------------------------------------------------------------
+
+# Brevetti del software in Europa: breve descrizione {#brevetti_del_software_in_europa_breve_descrizione}
+
+Un **brevetto** è un diritto su di una invenzione da monopolizzare.
+
+Il candidato di un brevetto specifica uno scopo delle attività per cui
+desidera escludere altri (i reclami) e la presenta all\'ufficio brevetti
+(che fa domanda per un brevetto), che valuta se questi reclami
+descrivono un\'invenzione all\'interno del senso della legge e se
+l\'invenzione è rilevata correttamente e applicabile su scala
+industriale (esame convenzionale).
+
+In più, gli uffici brevetti devono esaminare se l\'invenzione è nuova e
+non-ovvia (esame sostanziale). Se l\'applicazione passa l\'esame,
+l\'ufficio brevetti assegna il brevetto che significa che il candidato
+ottiene di proibire ad altri di fare ciò che è descritto nei reclami del
+brevetto assegnato.
+
+La legge sui brevetti comune in Europa è la [convenzione europea di
+brevetto (EPC) del
+1973](http://www.european-patent-office.org/legal/epc/ "wikilink").
+
+L\' articolo 52 indica le
+[seguenti](http://swpat.ffii.org/analysis/epc52/ "wikilink") condizioni:
+
+`(1) I brevetti europei saranno assegnati per tutte le invenzioni che sono suscettibili dell'applicazione industriale, che sono nuove e che coinvolgono un punto inventivo. `
+
+`(2) Ciò che segue in particolare non riguarderà le invenzioni ai sensi del paragrafo 1:`\
+` (a) scoperte, teorie scientifiche e metodi matematici;`\
+` (b) creazioni estetiche;`\
+` (c) schemi, regole e metodi per migliorare le azioni mentali, il giocare o fare commercio ed i programmi per i calcolatori;`\
+` (d) presentazione delle informazioni.`\
+
+Così i programmi per i calcolatori sono esclusi dalla brevettabilità,
+insieme a molti altri campi dove non è previsto avere brevetti.
+
+Ciò nonostante nel 1986, l\'Ufficio europeo dei brevetti (EPO) [ha
+cominciato ad assegnare i brevetti sui programmi destinati
+all\'elaboratore](http://swpat.ffii.org/papers/epo-t840208/index.en.html "wikilink").
+
+Oggi, il numero di brevetti del software assegnati dal EPO è valutato
+intorno ai 30.000 [e sta aumentando ad un tasso di 3.000
+all\'anno](http://swpat.ffii.org/patents/stats/index.en.html "wikilink").
+
+Nel 1997, l\'istituzione di brevetti che circonda il EPO ha cominciato a
+tentare di riscrivere il EPO per rendere la loro pratica di assegnazione
+dei brevetti su software legale.
+
+Nel mese di agosto del 2000, l\' Organizzazione Europea dei brevetti,
+organizzazione intergovernativa che fa funzionare il EPO, tenta di
+cancellare l\'esclusione dei programmi destinati all\'elaboratore dal
+EPC, ma fallisce a causa della resistenza pubblica.
+
+Nel 2002, la Commissione Europea ha presentato una [proposta
+2002/0047per](http://swpat.ffii.org/papers/eubsa-swpat0202/ "wikilink")
+una direttiva \"sulla brevettabilità delle invenzioni effettuate sui
+computer\" ; la direttiva è stata fatta per gli scopi di armonizzare le
+leggi dello stato membro e di chiarire alcuni particolari per impedire
+gli eccessi del EPO. Tuttavia, una lettura più accurata della
+terminologia fuorviante mostra nella direttiva che la proposta
+codificherebbe la brevettabilità illimitata, come esercitato dal EPO.
+
+I rappresentanti di piccole e medie imprese e gli attivisti di tutta
+Europa, coordinati dal FFII hanno intrapreso
+[FFII](http://www.ffii.org/ "wikilink") un\' azione di incitamento
+intensa.
+
+Nel mese di settembre del 2003, il [Parlamento
+Europeo](http://swpat.ffii.org/news/03/plen0924/index.en.html "wikilink")
+ha apportato [un insieme di correzioni nella
+direttiva](http://swpat.ffii.org/papers/europarl0309/index.en.html "wikilink")
+che hanno chiarito la non-brevettabilità di logica di affari e di
+programmi.
+
+All\'interno del Consiglio, il \"Working Party on Intellectual Property
+(brevetti)\" che consiste esattamente negli stessi membri del Consiglio
+amministrativo del OEB: coordinatori dell\'ufficio brevetti dai governi
+nazionali. Dopo alcuni mesi di trattative segrete, il gruppo di lavoro
+ha prodotto un [\"documento di
+compromesso\"](http://swpat.ffii.org/papers/europarl0309/cons0401/index.en.html "wikilink");
+che elimina tutte le correzioni effettuate dai Parlamenti, reintegrando
+la proposta delle Commissioni che renderebbe i programmi destinati
+all\'elaboratore brevettabili.
+
+Il 18 Maggio 2004, in una riunione del Consiglio alcune correzioni sono
+state aggiunte ed il [è come un accordo preliminare testo
+risultante](http://kwiki.ffii.org/?Cons040518En "wikilink").
+
+Il testo di questo accordo preliminare è stato tradotto a tutte le
+lingue ufficiali degli stati membri dell\'EU ed il Consiglio può ora
+approvare formalmente questa proposta.
+
+Se questo accade, la proposta cambiata è trasmessa al Parlamento Europeo
+per seconda lettura.

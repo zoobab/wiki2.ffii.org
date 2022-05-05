@@ -1,0 +1,119 @@
+# MEP Buitenen asks parliamentary questions on EPLA and European Parliament\'s involvement {#mep_buitenen_asks_parliamentary_questions_on_epla_and_european_parliaments_involvement}
+
+------------------------------------------------------------------------
+
+*MEP Paul van Buitenen asks the European Commission wise questions about
+the European Patent Litigation Agreement and the community patent and
+what future role the European Union will play under these proposed
+regimes.*
+
+------------------------------------------------------------------------
+
+## Question
+
+` WRITTEN QUESTION E-1949/06`\
+` by Paul van Buitenen (Verts/ALE)`\
+` to the Commission`\
+` `\
+` Subject:    Publication of list of questions on the Community patent`\
+` `\
+` The internal market DG has published a list of questions relating to the`\
+` Community patent and a future system for settling disputes relating to`\
+` European patents granted by the European Patent Office (EPLA).`\
+` `
+
+1.  1.  In what way will the European Union institutions, and in
+        particular
+
+` the European Parliament, be involved in the operation of the European`\
+` patent system`\
+` a)    in the event of the introduction of the Community patent;`\
+` b)    in the event of the introduction of a system for settling disputes`\
+` relating to European patents (EPLA).`\
+` `\
+` 2.    At present the European Patent Organisation is an independent`\
+` organisation outside the legal framework of the European Community and, as`\
+` such, is not bound by European directives relating to patent law, for`\
+` example Directive 44/1998[1] of the European Parliament and of the Council`\
+` on biotechnological inventions.`
+
+` How will the implementation of European legislation in the area of patent`\
+` law be ensured within the European Patent Organisation`\
+` a)    in the event of the introduction of the Community patent;`\
+` b)    in the event of the introduction of a system for settling disputes`\
+` relating to European patents?`
+
+` -----------------------`\
+` [1]   OJ L 213, 30.7.1998, p. 13`
+
+## Answer by the Commission {#answer_by_the_commission}
+
+` E1949/06NL`\
+` Answer of Mr `[`McCreevy`](McCreevy "wikilink")\
+` on behalf of the Commissie`\
+` (29.6.2006)`\
+` `\
+` `[`translation`](unofficial "wikilink")\
+` In Januari 2006 DG Internal Market and Services started with the talks`\
+` about the future policy on the field of patents in Europe and the first`\
+` resultats of that will be made public and be spoken about during a`\
+` public debate to be held in Brussels on 12 July 2006. The followup given`\
+` to the diverse law giving initiatives has therefore still to be`\
+` determined. As far as approval of the regulation relating to the`\
+` Community patent is concerned, the Council, in agreement with article`\
+` 308 of the `[`ECTreaty`](ECTreaty "wikilink")` has decided to consult again the European Parliament`\
+` in case the regulation relating to the Community patent should be put to`\
+` discussion again.`\
+` `
+
+1.  1.  As soon as the working of the system for conflict settlement at
+
+` European patents (EPLA = European Patent Litigation Agreement) is`\
+` approved and the Community has accessed the European Patent Treaty (EOV)`\
+` the Community will be committed to the same rights and obligations as`\
+` each of the other parties to the treaty (representation in the Governing`\
+` Board of the European Patent Office [1], et cetera). The Parliament can`\
+` also ask the Commission to provide information regarding specific cases`\
+` which are of special interest to the Community.`\
+` `\
+` The way in which the Parliament will be involved with the ratification`\
+` procedure of the EPLA will depend on the current base of law.`\
+` `\
+` 2. In 1999 the European Patent Office (EPO) adopted the provisions of`\
+` Directive 98/44/EG [2] by means of the implementation regulations in the`\
+` European Patent Treaty (EPT). The provisions of the directive are`\
+` therefore part and parcel of the EPT and the EPO is now bound by these`\
+` provisions. In the future this will also go for the directives in the`\
+` fields the EPT applies to, or the provisions of these directives will`\
+` themselves be adopted in the EPT by way of changes made in accordance`\
+` with the current decision making procedure of the EPT.`\
+` `\
+` The planned Community patent is not set to change the structure of the`\
+` European patent system. It will rather create a link between the`\
+` Community and the EPO, which is an independent body. Whereas the`\
+` provisions of the EPT can in principle be applied to matters which are`\
+` dealt with before the issuing of the Community patent (including`\
+` procedural matters and matters of content) the regulation on the`\
+` Community patent could be applicable for matters dealt with after the`\
+` issuing of a Community patent (including matters concerning the`\
+` validity, counterfeiting, transfer and obligatory licencing). The`\
+` European Patent Office would then apply the new unitary law on Community`\
+` patents, and it would be tied to it. Moreover, by the access of the`\
+` Community to the EPT the EPT forms a part of the acquis communautaire`\
+` that is explained by the Court of Justice of the European Communities.`\
+` `\
+` In this stadium the question in which way the application of the`\
+` communitary patent right would be safeguarded at the implementation of a`\
+` framework for conflict settlement (EPLA) cannot be answered. The`\
+` Commission inquires at this moment the draft-EPLA as well as its`\
+` possible institutional consequences.`\
+` `\
+` [1] Executive body of the European  Patent Office (EPO).`\
+` `\
+` [2]Directive 98/44/EC of the European Parliament and the Council of 6`\
+` July 1998 on the legal protection of biotechnological inventions PB L`\
+` 213 van 30.7.1998.`
+
+## Sources
+
+-   find the sources on the messy EP website (google is not your friend)

@@ -1,0 +1,86 @@
+2004-09 Carta a tots els partidaris de la FFII
+
+FFII: Patents europees de programari al Consell: Estatus
+
+Què passa ara mateix:
+
+------------------------------------------------------------------------
+
+Hem d\'actuar ara per a demanar als nostres representants que no donin
+suport als intents del Consell Europeu de canviar la llei europea sota
+la qual el programari no és patentable:
+<http://kwiki.ffii.org/ShortIntroEn>
+
+Què podeu fer-hi?:
+
+------------------------------------------------------------------------
+
+Sisplau, demana el teu representant de no donar suport a Directiva de
+Patents del Consell Europeu, o podríem haver de viure amb els resultats
+d\'aquesta decisió durant molt de temps.
+
+` - Sisplau, envieu la Crida Urgent als vostres representants:`\
+`   `[`http://kwiki.ffii.org/LtrConsSend0406En`](http://kwiki.ffii.org/LtrConsSend0406En)
+
+` - Sisplau, envieu postals als vostres representants:`\
+`   `[`http://kwiki.ffii.org/Postkard0407En`](http://kwiki.ffii.org/Postkard0407En)
+
+Els contactes personals marquen la diferència. Necessitem que els
+parlamentaris, membres del Parlament Europeu i ministres que tractin amb
+tecnologia i innovació rebin moltes postals i cartes de Crida Urgent
+dels seus representats. Hi ha traduccions de la Crida Urgent, postals de
+mostra i adreces de contacte per a molts països en els enllaços de més
+amunt. Si no trobeu la informació per al vostre país, sisplau,
+afegiu-la.
+
+Feedback i Trobades:
+
+------------------------------------------------------------------------
+
+Conduim les discusions sobre els objectius dels voluntaris via IRC cada
+dilluns a la nit a #bxl-ffii at irc.debian.org. Sou benvinguts en altres
+hores, també. Interfície web a: <http://bxl-ffii.miernik.ctnet.pl>
+
+Reply to this e-mail with this form filled out to register for the
+following actions:
+
+\[ \] I am interested in autumn camp (17-20 Sept 2004) in Markelo, NL
+
+`   `[`http://kwiki.ffii.org/Ffiinl0409En`](http://kwiki.ffii.org/Ffiinl0409En)
+
+\[ \] I cannot make it to the autumn camp 2004,
+
+`   but I am interested in a similar event near [______]`\
+`   (indicate a city >100000 inhabitants)`
+
+\[ \] I am interested in the Brussels conference, November
+
+`   `[`http://plone.ffii.org/events/2004/test`](http://plone.ffii.org/events/2004/test)
+
+\[ \] I would like to stay at Brussels at another time
+
+`   (we may try to help to arrange something)`
+
+\-\-- Per a activitats a territoris de parla catalana, veieu també
+<http://patents.caliu.info/> o subscriviu-vos a la llista de correu a
+<https://lists.sourceforge.net/lists/listinfo/docscaliu-no-epatents>
+\-\--
+
+Per a activitats i campanyes a Espanya, consulteu la llista de
+Proinnova: <https://listas.hispalinux.es/mailman/listinfo/proinnova>
+
+Per a d\'altres activitats locals (per exemple, trobar altres partidaris
+en la vostra àrea), contacteu regio-help at ffii org. Els polítics
+regionals (autonòmics) sovint marquen una diferència crucial.
+
+Per a donacions, veieu <http://www.ffii.org/assoc/financ/>
+
+Els millors desitjos, *\*Rafael Carreras\**
+\<consilium-help(at)ffii.org>
+
+PS: Si el correu no passa (fals positiu en spamfiltering, contacteu a
+postmaster at ffii org). També podeu escriure a admins at ffii org si
+voleu formar part del computing team.
+
+PPS: Una altra qüestió important, però que encara no ha arribat:
+<http://wiki.vrijschrift.nl/DRMcomments>

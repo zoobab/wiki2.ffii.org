@@ -1,0 +1,2 @@
+Gesellschaft nach bürgerlichem Recht, deshalb manchmal GesnbR, in
+Deutschland auch GbR = civil law association

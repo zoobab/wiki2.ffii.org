@@ -1,0 +1,29 @@
+Der \'Urvater\' der Freien Software, Richard Stallman spricht am
+Sonntag, den 26. September 2004, in Frankfurt über \"The Danger of
+Software Patents\".
+
+Anlässlich der im EU-Ministerrat anstehenden Entscheidungungen zur
+Patentierbarkeit von Software ist eine Auseinandersetzung mit dem Thema
+vor allem in Hinblick auf kleinere und mittlere Unternehmen und
+Endbenutzer dringend nötig.
+
+Eine Patentierbarkeit von Software wird kleine und mittlere Unternehmen
+in ihrer Innovationskraft behindern, denn wenn jede kleine Veränderung
+ihrer im Betrieb eingesetzten Software erst durch Patentanwälte
+genehmigt werden muss, ist keine Entwicklung möglich. In der Forschung
+und Lehre wird der Hochschullehrer seinen Studenten zwar Algorithmen
+vorführen können, muss sie dann aber darauf hinweisen, dass es sich um
+geschütztes Wissen handelt, und somit nicht verwendet werden kann. Durch
+eine derartige Überregulierung würden somit auch alle Softwareanwender
+geschädigt.
+
+Stallmans Vortrag (in englischer Sprache) wird einen Einstieg in die
+Interesselagen bei Softwarepatenten vermitteln. Im Anschluss an seinen
+Vortrag besteht die Möglichkeit, mit Stallman und den Anwesenden zu
+diskutieren.
+
+-   Zeitrahmen: Sonntag, 26. September 2004, 14:00-ca 16:30.
+-   Ort: Ka-Eins, Kasseler Str 1a, 60486 Frankfurt/Main, Tel 069-705058,
+    www.ka-eins.de
+-   Kontakt: Christoph Fritzsch 06039-485815, Jan Dölle 069-94413391(
+    ffii-ffm (at) jan-doelle.de ), Holger Blasum 0174-7313590

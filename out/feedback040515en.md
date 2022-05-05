@@ -1,0 +1,124 @@
+# Mailing to FFII Supporters {#mailing_to_ffii_supporters}
+
+-   to be sent at the latest 2004-05-16.
+-   localisation welcome
+
+## Related Pages {#related_pages}
+
+-   [FeedbackEn](FeedbackEn "wikilink")
+-   [FeedbackManualEn](FeedbackManualEn "wikilink")
+
+## Proposal 1 (phm) {#proposal_1_phm}
+
+`Dear FFII Supporter,`
+
+`The EU Council of ministers will discuss the software patent directive in`\
+`a public meeting in Brussels on tuesday. The situation has significantly `\
+`improved in the last week[1]. `
+
+`There is some hope of avoiding the worst by an urgent action, and in any case`\
+`we need your help for continued campaigning up to the European Parliament's`\
+`elections of June 10-13 and beyond.`
+
+`Please `**`reply`**` to this mail (do not forward!)`\
+`and tick, using + and - for yes and no and integer numbers where called for.`
+
+` [ ] Please leave me alone, I don't want to support FFII anymore.`\
+` [ ] I will participate in the urgent fax/mail campaign[4]`\
+` [ ] I want to be in Brussels[6] on monday/tuesday and may need a bed/room. `\
+` [ ] I am familiar with the "How to Help"[2] and "FFII Projects"[3] pages.`\
+` I am willing to spend [__] hours per week during the EP election campaign`\
+` I am located in country [$LAND] (ISO 3166 code).`\
+` My nearest city (for possible local events) is [$URB].`\
+` [ ] I am willing to regularly participate in minidemos[5] in this city.`\
+` [$PARL] I want to participate in my national activist ($LAND-parl) mailing list. `\
+` [$HELP] I am willing to answer inquiries to my national helpdesk ($LAND-help). `\
+` I will donate [__] EUR[7].`
+
+`Thank you for your understanding and continued support.`
+
+`Yours sincerely`
+
+`References`
+
+`[1] `[`http://kwiki.ffii.org/SwpatcninoEn`](http://kwiki.ffii.org/SwpatcninoEn)\
+`[2] `[`http://swpat.ffii.org/group/todo/`](http://swpat.ffii.org/group/todo/)\
+`[3] `[`http://kwiki.ffii.org/FfiiprojEn`](http://kwiki.ffii.org/FfiiprojEn)\
+`[4] `[`http://kwiki.ffii.org/LtrSmePolit0405En`](http://kwiki.ffii.org/LtrSmePolit0405En)` `\
+`[5] `[`http://kwiki.ffii.org/Minidemo0405En`](http://kwiki.ffii.org/Minidemo0405En)\
+`[6] `[`http://kwiki.ffii.org/Bruxelles040517En`](http://kwiki.ffii.org/Bruxelles040517En)\
+`[7] `[`http://www.ffii.org/assoc/financ/`](http://www.ffii.org/assoc/financ/)
+
+## Anonymous critique of proposal 1 {#anonymous_critique_of_proposal_1}
+
+-   the most important part (calling the governments) is has been
+    removed by sombody not interested in the council - BAD.
+-   it\'s too big now (too many questions and too little information
+    what to do) - it overwhelms people.
+-   it mixes two things into one mail:
+    -   -   1st, the urgent part(council)
+        -   2nd the long term part
+
+## Critique (J. Heald, 3.30pm CET) {#critique_j._heald_3.30pm_cet}
+
+1\. If a link is vitally important, include it in-line. Otherwise
+summarise it or cut it. I don\'t believe anybody reads footnotes in
+emails.
+
+2\. The important thing is to be telling supporters EXACTLY,
+step-by-step, point-by-point what you want them to do, and what you want
+them to say, and very clear.
+
+3\. Do **NOT** make the email look like a junk-mail market research
+questionnaire. What people (may) want to receive is a situation report;
+and clear instructions.
+
+But making the email look like a junk-mail questionnaire positively
+pisses people off. That\'s why the return rates have been derisory.
+
+Tell people what they can do as if you were speaking to them. The main
+body of the email should stand by itself, and properly explain all the
+options. Include a tear-off feedback box if you wish, but only **after**
+and **separate to** the main body of the email.
+
+4\. Move \"please leave me alone\" to the last item in the feedback box,
+not the first.
+
+5\. The letters you\'re offering for people to send need quite a lot of
+work. It\'s important the letters should be all different - **not** a
+form letter - and rooted in people\'s own personal situation, and
+concerns.
+
+## Proposal 2 (idea of bk, but being constantly changed\...) {#proposal_2_idea_of_bk_but_being_constantly_changed...}
+
+Proposal:
+
+-   Split it into two short, focused mails
+    -   -   one for the council - call the covernments
+        -   one for the election, with the results(we should give them
+            anyway) - on tues/wednesday, when the aktiv form is finished
+
+Mail 1:
+
+`Dear FFII Supporter,`
+
+`The EU Council of ministers will discuss the software patent directive in`\
+`a public meeting in Brussels on tuesday.  The situation has significantly `\
+`improved in the last week[1].  `
+
+`There is some hope of avoiding the worst, and your help is urgently needed.`
+
+`Once more we need your feedback.  Please `**`reply`**` to this mail (do not forward!)`\
+`and tick, using + and - for yes and no and integer numbers where called for:`
+
+`[ ] I will send faxes to people who can influence my country's position[1]`\
+`[ ] I want to be in Brussels on monday and tuesday[3] and may need a bed/room.`\
+`I live in country [$LAND].`\
+`[ ] I want to participate in my national activist ($LAND-parl) mailing list. `\
+`[ ] I am willing to answer inquiries at my national helpdesk ($LAND-help) address. `\
+\
+`Thank you for your continued support`
+
+`[1] `[`http://kwiki.ffii.org/SwpatcninoEn`](http://kwiki.ffii.org/SwpatcninoEn)` (News page)`\
+`[2] `[`http://kwiki.ffii.org/LtrSmePolit0405En`](http://kwiki.ffii.org/LtrSmePolit0405En)` (faxes/emails to national governments)`\
+`[3] `[`http://kwiki.ffii.org/Bruxelles040517En`](http://kwiki.ffii.org/Bruxelles040517En)` (Brussels events 2004/05/17-8)`

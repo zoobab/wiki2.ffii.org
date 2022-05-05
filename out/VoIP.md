@@ -1,0 +1,19 @@
+Voice over Internet Protocol, usually said as \"Voice over IP\" of
+\"VOIP\", is a telecommunications system that uses the Internet or other
+Internet Protocol network to transmit telephone calls. This technology
+allows you to make telephone calls using a broadband Internet connection
+instead of a regular (analog) phone line. VOIP Gateways or Media
+Gateways are network devices that convert voice, fax, and other incoming
+calls between the public telephone network (PSTN) and an IP network.
+With a minimum of one Ethernet and telephone port yet expandable to fit
+the needs of any network configuration, gateways translate the varying
+coding techniques allowing companies to seamlessly communicate with
+other parties across other networks (VOIP or a standard phone service).
+
+## References
+
+-   [Cisco VoIP
+    Gateways](http://www.townsendassets.com/cisco/other/voip_gateway.htm "wikilink")
+-   [VoIP Wiktionary
+    Entry](http://en.wiktionary.org/wiki/VoIP "wikilink")
+-   [FCC VoIP Page](http://www.fcc.gov/voip/ "wikilink")

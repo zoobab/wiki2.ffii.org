@@ -1,0 +1,134 @@
+1.  1.  -\*- dok: [PrReject050706](PrReject050706 "wikilink"); lang: de;
+        coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-07-06
+    3.  url: <http://swpat.ffii.org/log/05/ep0706/index.de.html>
+
+# Parlament sagt Nein zu Softwarepatenten {#parlament_sagt_nein_zu_softwarepatenten}
+
+-\> \[ [ english](PrReject050706En "wikilink") \| [
+français](Ep050706Fr "wikilink") \| [
+português](Prreject050706Pt "wikilink") \] \[ [
+Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Straßburg, 6. Juli 2005 \-- Das Europäische Parlament entschied heute
+mit großer Mehrheit, die Richtlinie \"über die Patentierbarkeit
+computerimplementierter Erfindungen\", auch als Softwarepatentrichtlinie
+bekannt, abzulehnen. Diese Ablehnung war die schlüssige Antwort auf die
+Weigerung der Kommission vom Februar, den Gesetzgebungsprozess neu zu
+starten, und auf den Unwillen des Ministerrates, die Beschlüsse des
+Europaparlaments und der nationalen Parlamente zu berücksichtigen. Der
+FFII beglückwünscht das Europäische Parlament für sein klares \"Nein\"
+zu schlechten Gesetzesvorlagen und Verfahrensweisen.*
+
+Dies ist ein großer Sieg für jene, die sich dafür eingesetzt haben,
+sicher zu stellen, dass Europäische Innovation und Wettbewerbsfähigkeit
+vor der Monopolisierung von Software-Funktionalitäten und
+Geschäftsmethoden geschützt bleibt. Damit wird dem Versuch der
+Europäischen Kommission und ministerieller Patentbürokraten, den
+Mitgliedstaaten schädliche und gesetzlich fragwürdige Praktiken des
+Europäischen Patentamtes (EPA) aufzuzwingen, ein Ende gesetzt.
+Allerdings bleiben die Probleme, die von jenen Praktiken her rühren,
+bestehen. Der FFII ist der Auffassung, dass die Arbeit des Parlaments,
+insbesondere das parteiübergreifende Kompromisspaket aus 21
+Änderungsvorschlägen, eine gute Grundlage bietet, auf welcher zukünftige
+Lösungen, sowohl auf nationaler als auch auf europäischer Ebene aufbauen
+können.
+
+Jonas Maebe, FFII-Vorstandsmitglied, kommentiert das Ergebnis der
+heutigen Abstimmung:
+
+` "Dieses Ergebnis zeigt deutlich, dass gründliche Analyse,`\
+` aufrichtig besorgte Bürger und faktische Informationen`\
+` größere Wirkung haben als freie Eiskrem, Schiffsladungen`\
+` gemieteter Lobbyisten und Auslagerungsdrohungen.`\
+` Ich hoffe, dass diese Wende des Geschehens einigen`\
+` Menschen wieder Vertrauen in die europäischen Prozesse`\
+` der Entscheidungsfindung geben kann.  Ich hoffe auch,`\
+` dass sie den Rat und die Kommission dazu ermutigen wird,`\
+` es dem Parlament nach zu tun, um die Transparenz und die`\
+` Möglichkeiten der Betroffenen, am Entscheidungsprozess`\
+` unabhängig von ihrer Größe teilzunehmen, zu verbessern."`
+
+Hartmut Pilch, Präsident des FFII, erklärt, warum der FFII die
+Ablehnungsanträge in seinen Abstimmungsempfehlungen unterstützt hat:
+
+` "In den letzten Tagen schlossen die Besitzer zahlreicher vom`\
+` EPA erteilter Softwarepatente und deren Europaabgeordnete,`\
+` die zuvor für die Ratsposition geworben hatten, sich den`\
+` Vorschlägen zur Ablehnung der Richtlinie an, weil klar wurde,`\
+` dass die 21 parteiübergreifenden Änderungsvorschläge`\
+` der Abgeordneten Rhoitová, Buzek, Rocard und Duff gute`\
+` Aussichten auf Annahme durch das Parlament hatten.`\
+` Es wurde immer deutlicher, dass Unterstützung für`\
+` dieses Kompromisspaket oder für große Teile davon zur`\
+` Mehrheitsmeinung in allen Fraktionen wurde.  Dennoch hätte`\
+` eine entsprechende Abstimmung nicht viel ausgerichtet.`\
+` Wir stimmen der Einschätzung der Lage zu, wie sie in der`\
+` gestrigen Vollversammlung von MdEP Karas und heute vom`\
+` Berichterstatter Michel Rocard gegeben wurde: Ein "Nein"`\
+` war die einzig schlüssige Antwort auf die unkonstruktive`\
+` Haltung und die gesetzlich fragwürdigen Manöver der`\
+` Kommission und des Rates, durch welche dessen sogenannter`\
+``  `Gemeinsamer Standpunkt' überhaupt zustande gekommen war." ``
+
+` Der FFII möchte sich auch bei all den Menschen bedanken, die`\
+` sich die Zeit genommen haben, ihren Vertreter mittels E-Mail,`\
+` Telefon oder persönlich anzusprechen.  Ebenso möchten wir uns`\
+` bei den zahlreichen Freiwilligen bedanken, die so großzügig`\
+` ihre Zeit und Arbeit investiert haben.  Dies ist genauso ihr`\
+` Sieg wie der des Parlaments."`
+
+## Hintergrundinformationen und weitere Nachrichten {#hintergrundinformationen_und_weitere_nachrichten}
+
+-   [21 parteiübergreifende
+    Kompromissvorschläge](http://swpat.ffii.org/papers/europarl0309/amends05/komprom0506.en.pdf "wikilink")
+-   [FFII-Abstimmungsempfehlungen für die heutige
+    Plenarabstimmung](http://swpat.ffii.org/papers/europarl0309/amends05/ffiivotlst050706.pdf "wikilink")
+-   [Praktiken des Europäischen
+    Patentamts](http://webshop.ffii.org/ "wikilink")
+-   [Karas-Rede im Plenum
+    gestern](http://wiki.ffii.org/Karas05075En "wikilink")
+-   [23 unbeantwortete Fragen zu dem Schaustück der Verabschiedung einer
+    \"Gemeinsamen Position\" des
+    Rates](http://wiki.ffii.org/LtrFfiiCons050308En "wikilink")
+-   [Prominenter Artikel in Wallstreet Journal über Lehnes
+    Interessenkonflikt](http://wiki.ffii.org/WsjLehne050705En "wikilink")
+-   [Bleiben Sie informiert mittels unseres
+    Newstickers](http://wiki.ffii.org/SwpatcninoEn "wikilink")
+
+## Kontakt
+
+`Hartmut Pilch et Holger Blasum`\
+`président, bureau de Munich`\
+`info ffii.org`\
+`++49-89-18979927`
+
+`Rufus Pollock`\
+`FFII UK`\
+`rufus.pollock ffii.org.uk`\
+`+44-7795-176976`
+
+`Jonas Maebe`\
+`FFII BE`\
+`jmaebe ffii.org`\
+`+32-485-369645`
+
+`Dieter Van Uytvanck`\
+`FFII BE`\
+`dietvu village.uunet.be`\
+`+32-499-167010`
+
+## Über den FFII {#über_den_ffii}
+
+Der FFII ist ein in München eingetragener gemeinnütziger Verein für
+Volksbildung im Bereich der Datenverarbeitung. Der FFII unterstützt die
+Entwicklung öffentlicher Informationsgüter auf Grundlage des
+Urheberrechts, freien Wettbewerbs und offener Standards. Über 3000
+Firmen und 90000 Personen haben den FFII mit der Vertretung ihrer
+Interessen im Bereich der Gesetzgebung zu Urheberrecht und Patenten im
+Bereich der Software beauftragt. Der FFII unterhält ein Büro in Brüssel
+und nationale Sektionen in den meisten Ländern Europas und manchen
+außereuropäischen Ländern. Der FFII ist Mitglied des Europäischen
+Dachverbandes der Verbände kleiner und mittlerer Unternehmen, CEA-PME.

@@ -1,0 +1,26 @@
+At this point it looks **very** unlikely this event will take place at
+all. The schedule below is only wishful thinking. -tt
+
+This will be a meeting about software patents in Helsinki, on saturday
+2004-05-15, organized by Tapani Tarvainen and Jan Macek.
+
+-   14:00 Kauppi speaks how the Council of Europe ignores her vote -
+    call for power to the parliment
+
+```{=html}
+<!-- -->
+```
+-   15:00 MySQL representative speak how swpat will kill the company
+
+```{=html}
+<!-- -->
+```
+-   16:00 FFII representative speak about webshop stuff, absurdality,
+    and make a call for help/donations to FFII
+
+```{=html}
+<!-- -->
+```
+-   17:00 Panel talk with MEP candidates - we flood them with questions
+    (hope we get two or three of them), and full \>100 people room of
+    course

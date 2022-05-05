@@ -1,0 +1,10 @@
+-\> \[ [ deutsch](PatquoteDe "wikilink") \] \[ [ software patent
+quotes](SwpatcuskuEn "wikilink") \| [ News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+-   **Frits Bolkestein**: \"Patents are about solutions to technical
+    problems and a patent has to cover the whole, not just a small part,
+    of the solution to a problem. It is only infringed if the whole
+    solution is used. It does not, therefore, monopolise every separate
+    component part which contributes to the solution.\", 23.9.2003

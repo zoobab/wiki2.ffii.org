@@ -1,0 +1,71 @@
+# MP3 and Software Patents {#mp3_and_software_patents}
+
+[ Frauenhofer]([SwpatfhgEn "wikilink")\] [FFII Patdb on
+\'audio\']([http://patdb.ffii.org/sql/list.php?db=EPGk&s=audio "wikilink")\]
+[FFII PatDB on
+\'stream\']([http://patdb.ffii.org/sql/list.php?db=EPGk&s=stream "wikilink")\]
+
+------------------------------------------------------------------------
+
+[ Jonas Maebe](JonasMaebeEn "wikilink") provides background:
+
+The patent on MP3 would be no problem at all (you could just use Ogg
+Vorbis) if it had not become a de-facto standard and part of some formal
+standards (MPEG-1).
+
+\"The patent on mp3\" does not exist. There are several patents that
+cover the mp3 format, and they do not just cover mp3 compression, they
+cover a whole lot more. This is the first claim of the base patent on
+mp3 compression (EP287578):
+
+### Quote: Digital coding process for transmitting and/or storing acoustic signals, specifically music signals, comprising the following steps. {#quote_digital_coding_process_for_transmitting_andor_storing_acoustic_signals_specifically_music_signals_comprising_the_following_steps.}
+
+-   N samples of the acoustic signal are converted into M spectral
+    coefficients;
+-   said M spectral coefficients are subjected to quantisation at a
+    first level;
+-   after coding by means of an entropic encoder the number of bits
+    required to represent all the quantized spectral
+
+`coefficients is checked;`
+
+-   when the required number of bits does not correspond to a specified
+    number of bits quantization and coding are repeated
+
+`in subsequent steps, each at a modified quantization level, until the number of bits required for representation reaches `\
+`the specified number of bits, and`
+
+-   additionally to the data bits the required quantization level is
+    transmitted and/or stored.
+
+This covers any and all compression methods which first do a spectral
+analysis, and which then in a loop
+
+-   quantize the sound data (i.e., represent the sound waves by discrete
+    numbers)
+-   \"encode\" the sound data (regardless of how this encoding is done)
+-   use an entropic encoder (such as Huffman or arithmetic encoding)
+-   check whether the resulting size is smaller than the target size and
+    if not, execute the loop again.
+
+Finally, to infringe on these claims, you must also store the
+quantization level (i.e., how many times you looped). I hope you can see
+is a lot broader than just mp3-compression. And in fact that\'s normal,
+since that\'s the way patents work: they\'re always as broad as
+possible.
+
+One way to get around this patent, is to do the entropic encoding
+outside the loop, and estimate its effects inside the loop. The result
+will be that you will only be able to approximate the final bitrate of
+your stream, however. Given that oggenc in my experience always
+generates files with a higher bitrate than what you specify on the
+command line (if you specify a bitrate instead of a quality), it
+wouldn\'t surprise me if the ogg people in fact use this workaround.
+
+Remember: you never ever patent something specific. You always patent
+what you claim is \"an underlying invention\". You never patent Linux,
+but you can patent some algorithm used in the virtual memory subsystem.
+You never patent Microsoft Word, but you can patent spell checking
+principle (claimed as \"method\" or \"technique\", of course). You never
+patent a music format, but you can patent an algorithm used while
+encoding music in a format.

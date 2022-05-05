@@ -1,0 +1,22 @@
+# 2004-07-05 DE Heise & Golem berichten über Offenen Brief an Bundeskanzler {#de_heise_golem_berichten_über_offenen_brief_an_bundeskanzler}
+
+\--\> \[ [ Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+Zum zweiten Mal binnen weniger Tage hat sich ein noch nicht mit allen
+abgestimmter Mitteilungstext von einer FFII-Mailingliste
+verselbstständigt und zu Pressemeldungen geführt. Erfreulich ist aber
+die Tatsache, dass das Interesse an vielen Aktivitäten gegen Swpat so
+hoch ist, dass so etwas überhaupt passieren kann.
+
+<http://www.heise.de/newsticker/meldung/48875> (diese heise.de-Meldung
+sprach zunächst davon, dem Bundeskanzler würde ein Offener Brief
+überreicht werden; mittlerweile wurde im Rahmen eines Update
+klargestellt, dass der Brief bereits ans Kanzleramt gefaxt wurde)
+
+Auch die Meldung auf golem.de wurde mittlerweile korrigiert:
+<http://golem.de/0407/32170.html>
+
+In jedem Fall schaffen diese Meldungen schon einmal gut Aufmerksamkeit
+für die Mahnwache vor dem Deutschen Museum.

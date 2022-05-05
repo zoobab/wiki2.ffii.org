@@ -1,0 +1,1 @@
+Nederlands wiki voor <http://swpat.ffii.org/index.nl.html>

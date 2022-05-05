@@ -1,0 +1,24 @@
+# Uniform Fee Only (UFO) {#uniform_fee_only_ufo}
+
+Reasonable and Non-Discriminatory (RAND) = \--\> \[ [
+Standardisation](StandardEn "wikilink") \| [
+FLOSS](SwpatFlossEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+## RAND: Free Software Not Allowed {#rand_free_software_not_allowed}
+
+When the work of standardisation bodies is encumbered by patents and
+dominated by corporate patent lawyers, the only way to get a usable
+standard published is to combine it with a licensing cartel. The deal
+is: you as a patent owner get an assured stream of revenue. If you
+agree, the standard may start to fly. If you don\'t agree, you may get
+nothing at all. In order to make the standards fly, the conditions need
+to be acceptable to all patent owners and to many players. Under these
+constraints the result is usually a uniform-fee-only regime. Application
+developpers pay a lumpsum + a fee for each copy which they sell. This
+implies that they must restrict circulation and track the copies that
+circulate and disclose them (including their customer database) to the
+patent owners. These conditions are harsh, but better than having no
+standard at all. The result of course that free/opensource software is
+out and even shareware may not be allowed.

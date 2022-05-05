@@ -1,0 +1,210 @@
+# La Oficina Europea de Patentes, la teoría base y los \"afectos técnicos\" {#la_oficina_europea_de_patentes_la_teoría_base_y_los_afectos_técnicos}
+
+-\> \[ [ English](CoreTheoryEn "wikilink") \]
+
+*Jozef Halbersztadt, un examinador de la Oficina Polaca de Patentes,
+describe el camino que ha seguido la evolución de la práctica en la
+Oficina Europea de Patentes a través del tiempo, describe cómo Polonia
+está tratando las patentes de software hasta ahora, y cómo, desde su
+perspectiva, la directiva debería ser enmendada para parar la
+desaplicación de la ley de patentes al software por parte de la OEP.*
+
+## Introducción
+
+Hasta 2004, Polonia no era un miembro de la OEP y ello ha estado más
+allá de su capacidad económica durante las últimas décadas. En todo
+caso, tenía una bien establecida oficina de patentes con 85 años de
+edad. Al igual que otros países europeos más pequeños tales como
+Austria, Checoslovaquia y Holanda, Polonia también siguió los estándares
+y tradiciones alemanas en lo referente a patentes.
+
+Hasta ahora, las solicitudes de patentes vienen, con pocas excepciones,
+del exterior. Su número no es muy alto y la Oficina Polaca de Patentes
+frecuentemente no está siguiendo la línea de la OEP. Sin embargo, ¿qué
+es exactamente la línea de la OEP?
+
+## Historia de la Convención de la Patente Europea (CPE) {#historia_de_la_convención_de_la_patente_europea_cpe}
+
+La aproximación europea a la patentabilidad, como todas las aventuras
+europeas, es una mezcla: una síntesis de anterior diversidad. Los dos
+principales constructores de la posición común fueron los alemanes y los
+británicos.
+
+Como probablemente sepa, en inglés, \"tecnicidad\" no es un término
+claro. En alemán y otros idiomas continentales ese término significa
+fisicalidad, materialidad; en inglés está cercano a utilidad.
+
+Quizá por eso, la palabra \"técnico\" no se encuentre en el primer
+párrafo del Artículo 52 del original de la Convención de la Patente
+Europea. Al contrario, los padres fundadores anexaron una lista abierta
+de actividades no-técnicas como ejemplos de materias no-inventivas. Yo
+sospecho que nadie en el nacimiento de las patentes europeas preveía el
+problema. La lista se vió, incluso con la frase \"como tal\" (\"as
+such\"), como una sólida barrera contra los no bienvenidos sujetos
+intangibles.
+
+La barrera, sin embargo, se rompió no porque los ingleses (o los
+americanos) no pudieran entender el verdadero significado de la palabra
+\"técnica\". Esto puede ser problemático para ellos, pero de todas
+formas, yo aún no conozco una decisión de la Junta de Apelaciones (de la
+OEP) en que \"técnico\" no signifique \"físico\", \"material\".
+
+## La prerrogativa rota {#la_prerrogativa_rota}
+
+La barrera se rompió en otro sitio y el problema con la tecnicidad es
+sólo un producto residual de ese evento principal. La principal
+\"innovación\" de la práctica de patentes europea no se puede encontrar
+en la Convención Europea. Una traza de la nueva aproximación se puede,
+sin embargo, encontrar en las [Regulaciones de Implementación (en
+inglés)
+](http://www.european-patent-office.org/legal/epc/e/rpiii.html#RIII "wikilink")
+(nota: estas normas pueden ser modificadas independientemente por el
+Consejo Administrativo (de la OEP) sin requerir aprobación en ninguna
+conferencia diplomática).
+
+Pero eso es solo un rastro y uno se puede preguntar por qué una regla
+regulando el contenido de la descripción y obligando a un solicitante a
+indicar efectos ventajosos puede introducir tan fundamental cambio:
+
+*La descripción deberá . . . . . desvelar la invención, tal y como
+reivindicada, en tales términos que el \_\_problema técnico\_\_ (incluso
+si no expresado como tal) \_\_y su solución puedan ser entendidos\_\_, y
+\_\_establezca cualquier efecto ventajoso\_\_ de la invención con
+referencia a la técnica de fondo (nota traductor: el original dice
+\"background art\");*
+
+([Regla 27
+EPC](http://www.european-patent-office.org/legal/epc/e/r27.html "wikilink"))
+
+El cambio fundamental que ha llegado con el CPE (en Polonia) es la
+aproximación \"problema-solución-(efecto). La invención ahora puede
+estar en cualquiera de ellos (nota traductor: se puede inventar/patentar
+un problema, una solución o un efecto).
+
+## La teoría \"base\" {#la_teoría_base}
+
+Antes de la llegada del CPE, la tarea de un examinador era encontrar
+funcionalidades esenciales de la invención (en las reivindicaciones) e
+investigar y examinar si las mismas eran patentables. Los alemanes
+formalizaron este proceso en la llamada teoría \"base\".
+
+El primer paso del método \"base\" se aplicaba a la materia objeto con
+funcionalidades técnicas y no técnicas ponderándolas para elegir el
+grupo de prevalecía. Sólo si las funcionalides técnicas eran más
+esenciales, la materia objeto era potencialmente patentable.
+
+En un primer vistazo no hay ningún cambio en la regla tal que la
+extensión de la protección sea determinada por las materias técnicas en
+la reivindicación:
+
+*Las reivindicaciones deberán \_\_definir la materia\_\_ para la que se
+busca la protección \_\_en términos de funcionalidades técnicas\_\_ de
+la invención.*
+
+([Regla 29
+CPE](http://www.european-patent-office.org/legal/epc/e/r29.html "wikilink"))
+
+## La aproximación problema-solución-efectos {#la_aproximación_problema_solución_efectos}
+
+Sin embargo, la OEP remplazó el buscar por las más importantes
+funcionalidades (la teoría \"base\") por buscar por la tarea objetiva
+(problema) del modificar o adaptar el arte previo más cercano para
+proveer *los efectos* que la solución provee sobre el arte previo.
+
+De acuerdo con la práctica legal de la OEP, la contribución técnica del
+arte previo debe basarse ya en el problema que subyace y es resuelto, o
+en los propósitos constituyentes de la solución del problema subyacente,
+o en los efectos obtenidos en la solución del problema subyaciente.
+
+## Consecuencias Prácticas {#consecuencias_prácticas}
+
+Una vez la OEP desestimó la teoría \"base\", sólo los objetos de
+invención con funcionalidades puramente no técnicas quedaron como no
+patentables por definición. Sólo una funcionalidad técnica es suficiente
+para considerar la materia inventiva como patentable. Incluso un objeto
+de invención sin ninguna funcionalidad técnica será patentable sólo con
+que tenga el potencial de producir un efecto técnico.
+
+Como uno puede observar en los ejemplos anexados, este potencial
+requerido de producir un efecto técnico puede ser realmente vago. En el
+[Karmarkar European
+Patent](http://swpat.ffii.org/gasnu/konno/ "wikilink") (un método de
+posicionamiento teórico - un gran logro matemático sofisticado) la
+reivindicación de que se disponen *\"recursos industriales y técnicos\"*
+es el suficiente y único factor que está proveyendo al algoritmo su
+fisicalidad.
+
+## Práctica actual de la OEP {#práctica_actual_de_la_oep}
+
+Esta decisión de la OEP data de 1990. Como se puede observar, el
+principio del \"efecto técnico adicional\" nació muy temprano. Sin
+embargo, se necesitó llegar a 2001 antes de que fuera escrito en las
+Guías de Examen de la OEP. La Directiva de la Comisión está ahora
+legitimándolo. Ninguno de los argumenos del Parlamento toca este
+problema, por lo que hay aún una necesidad de que exista una regla clara
+prohibiendo cualquier reivindicación post-solución, por ejemplo:
+
+`Si el problema-solución estuviera ya completado como una`\
+`solución abstracta a un problema abstracto previo a su`\
+`implementación en el campo técnico, dicha materia inventiva`\
+`no sería patentable.`
+
+Durante un tiempo, al final de los 80\'s, el otorgamiento de caracter
+técnico mediante la actividad post-solucion, estuvo explícitamente
+prohibido por las Guías de Examen de la Oficina de Patentes de EEUU
+(USPTO).
+
+Hoy en día, si la OEP encuentra que una aplicación es esencialmente no
+técnica pero que hay algunas sombras de tecnicidad como cualquiera
+sospechará, generalmente son artificiales, se deberá probar que esta
+tecnicidad es conocida y obvia.
+
+Esto no es fácil porque de acuerdo a la práctica legal de examen no está
+permitido casar ningún documento. El examinador deberá probar que existe
+un enlace entre ellos. Y entonces, en caso de que se eleve una objeción,
+ésta no será porque la materia inventiva carezca de tecnicidad. tales
+aplicaciones son rechazadas debido a la falta de actividad inventiva.
+
+Por lo tanto, la puramente no técnica [patente
+COMVIK](http://legal.european-patent-office.org/dg3/pdf/t000641ex1.pdf "wikilink")
+fue revocada por falta de actividad inventiva. No hay enmienda alguna a
+la Directiva encaminada a cambiar esa situación.
+
+## Soluciones Propuestas {#soluciones_propuestas}
+
+Es posible sin embargo hacer esto, según se ha probado, mediante:
+
+\(1\) La versión Polaca del art. 84 del CPE (una resolución podrá
+apuntar a este hecho)
+
+`"Las reivindicaciones deberán definir la materia para la que se`\
+`persigue la protección. Éstas deben ser claras . . ."`
+
+Este artículo se usa para rechazar reivindicaciones del tipo
+función-más-significados cuando éstas cubren la no-tecnicidad de la
+aplicación;
+
+\(2\) La versión Polaca del art. 52 CPE, que fue añadida a la ley sólo
+en el 2000, omite el \"como tal\" (\"as such\"). De hecho, la regulación
+del Primer Ministro fue claramente modelada en la famosas señales de
+decisiones [Paloma roja (\"Red Dove\") / Programa de
+Disposición](http://swpat.ffii.org/vreji/papri/bgh-dispo76 "wikilink")
+\"cláusula de tangenciabilidad\", de acuerdo a que una solicitud de
+patente no debería ser reconocida como una invención cuando
+
+`"la misma no concierna a ninguna creación tangible susceptible`\
+`de aplicación, determinada por medio de características técnicas`\
+`relacionadas a su estructura o composición, no a ningún camino`\
+`técnico particular con que se afecte al material."`
+
+\(3\) El anteriormente mencionado texto sobre prohibir reivindicaciones
+post-solución:
+
+`Si el problema-solución está ya completado como una solución`\
+`de un problema abstracto, antes de su implementación en un`\
+`campo de la técnica, tal materia inventiva no será patentable.`
+
+------------------------------------------------------------------------
+
+`Nota: traducción borrador realizada por Alberto Barrionuevo. Se ruegan sugerencias y correciones a abarrio(@)ffii.org`\
+`Última actualización: 27-02-2006`

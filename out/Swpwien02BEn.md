@@ -1,0 +1,35 @@
+English recordings:
+
+Brian Kahin(http://wiki.ael.be/index.php/BrianKahinOnIPandPatents)
+
+-   <ftp://gorgias.philo.at/mp3/Kahin_1.mp3>
+-   <ftp://gorgias.philo.at/mp3/Kahin_2.mp3>
+
+Transcript: <http://wiki.ael.be/index.php/BrianKahinGeKonf2TranscriptEn>
+
+Discussion:
+
+-   <ftp://gorgias.philo.at/mp3/Patente.mp3>
+
+## German
+
+Kurzer Bericht:
+<http://lists.ffii.org/archive/mails/swpat/2002/Nov/0024.html>
+
+Audio:
+
+-   Renier Bakels(http://wiki.ael.be/index.php/RenierBakels)
+    -   -   <ftp://gorgias.philo.at/mp3/Bakels.mp3>
+-   Hartmut Pilch:
+    -   -   <ftp://gorgias.philo.at/mp3/Pilch_1.mp3>
+        -   <ftp://gorgias.philo.at/mp3/Pilch_2.mp3>
+-   Workshop mit dem Partner von PA Sonn, 2 patent examiners from the
+    austrian patent office (Werner, Fastenbauer):
+    -   -   <ftp://gorgias.philo.at/mp3/Workshop_1.mp3>
+        -   <ftp://gorgias.philo.at/mp3/Workshop_2.mp3>
+
+`    * Sonn gibt hier an, daß er kürzlich am EPA ein Patent auf ein Zahlenwettsystem erreicht hat....`
+
+-   -   <ftp://gorgias.philo.at/mp3/Workshop_3.mp3>
+    -   <ftp://gorgias.philo.at/mp3/Workshop_4.mp3>
+    -   <ftp://gorgias.philo.at/mp3/Workshop_5.mp3>

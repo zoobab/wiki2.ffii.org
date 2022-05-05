@@ -1,0 +1,24 @@
+Ein wichtiges Argument, das vielleicht auch die Konservativen SEHR
+nachdenklich machen sollte:
+
+Softwarepatente schaden Europa und den Europäern.
+
+Wenn Sie überhaupt jemandem nutzen, dann nur einigen, vorwiegend
+US-amerikanischen Großkonzernen.
+
+Wenn die USA in dieser Lage wären, dächten sie nicht mal im Traum daran,
+Softwarepatente einzuführen.
+
+\"Bei wieviel % der bislang vom EPA gewährten ca 30000 Softwarepatente
+ist die beanspruchte geistige Leistung so beeindruckend, dass es sich
+für uns als Gesetzgeber lohnen könnte, darüber zu diskutieren, ob wir
+für diese Leistung ein zeitbefristetes Monopolrecht gewähren möchten?\"
+
+Kürzer und knackiger: \"Bei wieviel % der ca. 30000 europäischen
+Softwarepatente ist die beanspruchte geistige Leistung so beeindruckend,
+dass es sich für den Gesetzgeber lohnen könnte ein zeitbefristetes
+Monopolrecht zu gewähren?\"
+
+Nicht nur auf den Geist sondern auch auf die Biologie sollen Patente
+verteilt werden! Weiß jemand ein Patentrezept wie man solche
+regelwütigen Schmalspurdenker ausbremsen kann?

@@ -1,0 +1,196 @@
+# 2004-07-15 DE BMWA-Fragenkatalog zu Softwarepatenten {#de_bmwa_fragenkatalog_zu_softwarepatenten}
+
+\--\> \[ [ Neues](SwpatcninoDe "wikilink") \| [ BMWA
+2004-07-15](Bmwa040715De "wikilink") \| [ News Log zur
+BMWA-Umfrage](BmwaLog0407De "wikilink") \]
+
+------------------------------------------------------------------------
+
+## A: Allgemeine Fragen zu Softwarepatenten {#a_allgemeine_fragen_zu_softwarepatenten}
+
+-   In wie weit sind Sie mit dem Thema Softwarepatente vertraut?
+    (Antwort: sehr wenig bis sehr stark)
+-   Was steht Ihrer Auffassung nach bei der Softwareerstellung im
+    Vordergrund, die konkrete Umsetzung (Programmcode) oder allgemeine
+    Ideen bzw. Lösungsweg? (Technik, beides gleich, Problemlösungsidee)
+-   Wie wird die Gewährung von Softwarepatenten ihre
+    Innovationsfähigkeit beeinflussen? (Antwort: weniger
+    Innovationsfähigkeit gleiche Innovationsfähigkeit, mehr
+    Innovationsfähigkeit)
+-   Hat die Frage der Art des Softwareschutzes (Patent oder
+    Urheberrecht) Auswirkungen auf ihre Unternehmenstätigkeit bzw.
+    Schutzrechtemanagement? (Antwort: ja / nein)
+
+## B: Programmiertätigkeit und Softwarepatente {#b_programmiertätigkeit_und_softwarepatente}
+
+-   Haben Softwarepatente beeinträchtigende oder unterstützende
+    Auswirkungen auf Ihre Programmiertätigkeit oder erwarten Sie solche?
+    (Antwort: negative Auswirkung, neutral, positive Auswirkung)
+-   In welchem Umfang würde sich die Patentfähigkeit von Software auf
+    Ihre generelle Entwicklungstätigkeit auswirken? (Antwort:
+    weniger/gleiche/mehr generelle Entwicklungstätigkeit)
+-   Überprüfen Sie, ob in dem von Ihnen entwickelten Softwarebereich
+    Softwarepatente vorhanden sind? (Antwort: ja / nein)
+-   Wann überprüfen Sie? (Antwort: bevor Sie mit der Entwicklung
+    beginnen; nachdem die Entwicklung abgeschlossen ist)
+-   Wie schätzen Sie die Risiken ein, Softwarepatente nicht rechtzeitig
+    zu erkennen, z. B. weil Sie vor Beginn der Entwicklung kein bereits
+    bestehendes Patent ermitteln konnten, aber nach dem Abschluss Ihres
+    Projektes einem Dritten ein entsprechendes Softwarepatent in diesem
+    Bereich erteilt wurde (Problem: Im Laufe des Patentanmeldungs- und
+    erteilungsprozesses gibt es eine Phase, in der Patentanmeldungen
+    geheimgehalten werden, Verfahrensdauer,hohe Anzahl von
+    Anmeldeverfahren)? (Antwort: freie Texteingabe)
+-   Woran liegt es im Allgemeinen nach Ihrer Meinung, wenn ein
+    Softwarepatent verletzt wird? (Antwort: vorsetzlicher Ideenklau;
+    unverschuldete Konsequenz eigener Entwicklungstätigkeit)
+
+## C: Wirtschaftliche Aspekte und Softwarepatente {#c_wirtschaftliche_aspekte_und_softwarepatente}
+
+-   Welche Auswirkungen haben Ihrer Einschätzung nach Softwarepatente
+    auf die Kalkulation von Produktpreisen? (Antwort:
+    niedrigere/gleich/höhere Produktpreise)
+-   Wie hoch schätzen Sie die externen Kosten und den eigenen
+    Personalaufwand pro Jahr ein, die mit einer Erweiterung von
+    Softwarepatenten auf Sie zukommen werden? (dann kann man die
+    externen Kosten in Tausend Euro pro Jahr und den Personalaufwand in
+    Mannmonaten pro Jahr eingeben, und zwar für die Unterpunkte \"eigene
+    Patente\", \"Recherche von Patenten Dritter\", \"Anmeldung eigener
+    Patente\", \"Erkennen von Patentverletzungen eigener Patente durch
+    Dritte\", \"Verteidigung eigener Patente\", \"Verletzung von
+    Patenten Dritter\")
+-   Ist Ihr Unternehmen in der Lage, bestehende Softwarepatente selbst
+    zu recherchieren? (Antwort: ja/nein)
+-   Welche Auswirkungen hat eine mögliche Inanspruchnahme durch einen
+    Patentinhaber auf Ihre Entwicklungstätigkeit bzw. die Existenz Ihres
+    Unternehmens? Nennen Sie bitte ggf. Beispiele.
+-   In welcher Weise würde sich ein latent bestehendes Prozessrisiko,
+    d.h. Inanspruchnahme wegen Verletzung eines Ihnen nicht bekannten
+    fremden Softwarepatents, auf Ihre Unternehmenstätigkeit auswirken
+    (KontraG, Risikomanagement, Basel II Anforderungen usw.)?
+-   Erwarten Sie als Inhaber eines Patents eine einfachere
+    Rechtsdurchsetzung, wenn Software zusätzlich zum Urheberrechtsschutz
+    auch patentierbar würde?
+-   Nach derzeitiger Rechtslage besteht keine internationale
+    einheitliche Praxis hinsichtlich der Vergabe von Patenten auf
+    Software, einschließlich der Frage der Freistellung von
+    Interoperabilität vom Patentschutz.
+    -   -   Beeinträchtigt die international uneinheitliche Praxis Ihre
+            Entwicklungstätigkeit?
+        -   Erwarten Sie im Fall der Vereinheitlichung der
+            internationalen Praxis eine für Ihr Unternehmen verbesserte
+            Wettbewerbssituation?
+        -   Sind Sie mit der Ermittlung von Auslandsrecht und
+            ausländischen Patenten, Gebrauchsmustern oder Urheberrechten
+            vertraut?
+        -   Haben Sie eine Vorstellung oder Erfahrungen, in welcher Höhe
+            Kosten (insb. Anwaltskosten) entstehen, sofern Sie im
+            Ausland ein Patent verteidigen oder aus einer
+            Patentverletzung in Anspruch genommen werden?
+
+## D: Lizenzpolitik bei Softwarepatenten {#d_lizenzpolitik_bei_softwarepatenten}
+
+-   Sind Sie bereits Inhaberin von Softwarepatenten? (Antwort: ja/nein,
+    wenn ja: in welchen Bereichen)
+-   Eigene Umsätze aus Softwarepatenten
+    -   -   Erzielen Sie bereits Umsätze durch die Verwertung von
+            Softwarepatenten? (Antwort: unerhebliche Beträge; erhebliche
+            Beträge; ggf. welche Größenordnung)
+        -   Was sind Ihre Erwartungen für die Zukunft? (unerhebliche
+            Beträge; erhebliche Beträge; ggf. welche Größenordnung)
+-   Lizenznahme von Softwarepatenten
+    -   -   Zahlen Sie bereits Lizenzgebühren für Softwarepatente an
+            Dritte? (Antwort: ja/nein; wenn ja, in welchen Bereichen)
+        -   Wie hoch sind die Kosten? (unerhebliche Beträge; erhebliche
+            Beträge; ggf. welche Größenordnung)
+        -   Was sind Ihre Erwartungen für die Zukunft? (unerhebliche
+            Beträge; erhebliche Beträge; ggf. welche Größenordnung)
+-   Was wollen Sie mit eigenen Softwarepatenten erreichen? (Antwort:
+    Marktführer werden; Gewinne erzielen; Marktzugang für Konkurrenten
+    erschweren; Verteidigung gegen Patentansprüche, Verhandlungsmasse
+    für Cross-Lizenzen; Wissen an andere weitergeben)
+-   Welchen Nutzen habe für Sie Softwarepatente Dritter für den Aspekt
+    des Know-how-Gewinns durch öffentlich verfügbare Ideen? (Antwort:
+    kein praktischer Nutzen bis sehr hoher praktischer Nutzen)
+-   In welchen Softwarebereichen wollen Sie in Zukunft Softwarepatente
+    beantragen?
+-   Wie gehen Sie mit Softwarepatenten Dritter um? (Antwort: Ignorieren,
+    entwickeln und abwarten, ob etwas passiert; mit Patent-Pools
+    Verhandlungsmasse für Cross-Lizenzen schaffen; versuchen, das Patent
+    zu umgehen; nicht in diesem Bereich selber entwickeln; andere
+    Möglichkeiten)
+
+## E: Interoperabilität von Softwaremodulen {#e_interoperabilität_von_softwaremodulen}
+
+-   Wie schätzen Sie die generelle Notwendigkeit ein, Interoperabilität
+    zwischen SW-Modulen, die patentrechtlich geschützt sind, zu
+    gewährleisten? (Antwort: unwichtig bis sehr wichtig)
+-   Ist Ihr Unternehmen auf die Interoperabilität der SW-Module
+    angewiesen? (Antwort: unwichtig bis sehr wichtig)
+-   Wie abhängig sind Ihre eigenen SW-Module von SW-Modulen anderer
+    Firmen? (für jeden Bereich kann man Grad der Abhängigkeit eintragen)
+    -   -   Betriebssysteme
+        -   Kommunikationssysteme
+        -   Verteilte Systeme
+        -   Anwendungen
+        -   Testsysteme
+        -   Sicherheitssysteme (Krypto-Lib, Trustet Platform Module
+            (TCG), \...
+        -   weitere Bereiche (bitte selbst eintragen)
+-   Welche Voraussetzungen oder Methoden sind Ihrer Meinung nach für die
+    Gewährleistung einer Interoperabilität (Kommunikation bzw. der
+    Austausch von Daten) zu anderen SW-Modulen in den folgenden
+    Bereichen notwendig?
+    -   -   Technik: Schnittstellensoftware, Konvertierungsprogramme,
+            Hardwareainterfaces, Reengineering, weitere Methoden
+        -   Recht
+        -   Vertragswesen
+-   Nehmen wir an, dass die Verwendung einer patentierten Technik für
+    Konvertierung, Datenaustausch oder -kommunikation keine
+    Patentverletzung wäre!
+    -   -   Hat dies Auswirkungen auf Ihre Softwareentwicklung?
+            (Antwort: ja/nein)
+        -   Wenn ja, welcher Bereich ist dabei wichtig? (Antwort:
+            Konvertierung von unterschiedlichen Formaten; Datenaustausch
+            zwischen verschiedenen SW-Modulen auf einem Rechner;
+            Kommunikation zwischen verschiedenen SW-Modulen auf
+            unterschiedlichen Rechnern)
+        -   Stellt diese Möglichkeit (keine Patentverletzung) eine
+            Grundvoraussetzung für einen einfacheren Marktzugang dar?
+            (Antwort: ja/nein)
+        -   Glauben Sie, dass diese Möglichkeit für eine höhere
+            Wettbewerbsintensität sorgen wird? (Antwort: ja/nein)
+        -   Würden Sie sich schlechter stehen, wenn Dritte Ihr Patent
+            aus Interoperabilitätsgründen ohne Abschluss eines
+            Lizenzvertrags nutzen dürften?
+        -   Kennen Sie andere bzw. bessere Methoden, wie eine
+            Interoperabilität für die Innovationsfähigkeit
+            sichergestellt werden kann?
+-   Wie kann aus Ihrer Sicht ein Modell (Interoperabilitätsklausel)
+    aussehen, welches nach der Abwägung aller Vor- und Nachteile eine
+    angemessene Möglichkeit zur Erlangung der Interoperabilität
+    gewährleistet?
+
+## F: Wettbewerb und Softwarepatente {#f_wettbewerb_und_softwarepatente}
+
+-   Wie schätzen Sie die Auswirkungen von Softwarepatenten auf die
+    Wettbewerbsfähgkeit Ihres Unternehmsn ein? (Antwort: Wir werden uns
+    in bestimmten Märkten besser durchsetzen können; Wir werden uns
+    nicht mehr auf dem Markt angemessen durchsetzen können)
+
+## G: Gesamtbewertung {#g_gesamtbewertung}
+
+-   Glauben Sie, dass Sie auf die Einführung von Softwarepatenten gut
+    vorbereitet sind? (Antwort: sehr schlecht bis sehr gut vorbereitet)
+-   Was glauben Sie hat die mögliche Beschränkung der Interoperabilität
+    für gesamtwirtschaftliche Auswirkungen?
+-   Was glauben Sie hat die mögliche Beschränkung der Interoperabilität
+    aus IT-politischer Sicht für Auswirkungen?
+-   Wie ist Ihre Gesamteinschätzung bezüglich der Frage des
+    Softwareschutzes durch Patente? (Antwort: sehr negativ bis sehr
+    positiv)
+
+## H: Firmendaten {#h_firmendaten}
+
+Dort trägt man einiges zur Firma ein, es wird aber bei der Auswertung
+anonymisiert.

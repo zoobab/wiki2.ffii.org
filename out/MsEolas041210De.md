@@ -1,0 +1,100 @@
+# MS vs. Eolas ist wieder da {#ms_vs._eolas_ist_wieder_da}
+
+\--\>\[ [ Michael D. Doyle](MichaelDoyleEn "wikilink") \| [
+Microsoft](SwpatmicrosoftDe "wikilink") \| [ Eolas](EolasEn "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+-   [2004-12-10 Heise: Microsoft sammelt Punkte im Patentstreit um
+    Browser-Plug-ins](http://www.heise.de/newsticker/meldung/54127 "wikilink")
+-   [Hintergrundartikel von Stefan Krempl/TP aus dem letzten
+    Jahr](http://www.heise.de/tp/r4/artikel/15/15848/1.html "wikilink")
+
+## Kommentar Rebentisch: Ein Rechtsstreit, Zwei Verlierer {#kommentar_rebentisch_ein_rechtsstreit_zwei_verlierer}
+
+Der Rechtsstreit Eolas gegen Microsoft zeigt wie eine erfolgreiche Firma
+mit weit verbreiteter Software trotz eigenem Softwarepatentportfolio
+angegangen werden kann. Im Fall MS vs. Eolas ging es aber noch um viel
+mehr. Webstandards waren in Gefahr, das W3C rief zur Krisensitzung. Als
+das Urteil über eine halbe Milliarde US-Dollar gegen Microsoft fiel,
+kommentierte das Microsoft lakonisch mit dem Hinweis, Eolas habe eine
+sechsmal größere Summe in dem Prozess zur Entschädigung gesucht. Joachim
+Würmling (MdEP der EVP) stellte in seinem Musterbrief seinerzeit gar
+Eolas als Exempel eines Mittelständlers der Softwareindustrie vor, der
+gegen einen Weltkonzern sein Geistiges Eigentum verteidigt.
+
+`Das Patent schützt gerade mittelständische Entwickler. Denn ohne die Patentierung könnten `\
+`große Vermarkter ohne Sanktion Ideen von kleinen Häusern nutzen und den finanziellen Gewinn`\
+`daraus ziehen. Die jüngste Verurteilung von Microsoft zum Schadenersatz von 520 Mio. US$ `\
+`wegen Verletzung des Patents eines Softwarehauses zeugt davon.`
+
+Bei Marktkennern sträubten sich bei die Haare.
+
+### Welche Software stellt eigentlich Eolas Technologies Inc. her? {#welche_software_stellt_eigentlich_eolas_technologies_inc._her}
+
+Keine.(\*) Eolas ist eine Firma um den Zellbiologen Michael Doyle und
+die University of California, die breite Patente auf Grundlagen
+zukünftiger Entwicklungen erworben hat. Diese Patente erklären im
+wesentlichen genau das, was ein Fachmann unter dem Titel versteht. Eolas
+\"forscht\" stets in derzeit aktuellen Bereichen und nutzt seine
+Expertise der Patentverschriftlichung.
+
+Microsoft hat Glück gehabt. Das breite Grundlagenpatent von Eolas wurde
+auf das Betreiben des Konzerns gelöscht. Heise berichtet nunmehr nur
+noch von den Rückzugsgefechten. Die jüngste Heisemeldung verdeutlicht
+auch wie lange sich ein solcher Rechtsstreit hinziehen kann.
+Üblicherweise werden am Markt die meisten Konflikte dieser Art nicht
+öffentlich ausgetragen, sondern still beigelegt. Das ist die Marktlücke
+für Firmen wie Eolas. Noch ist nicht ausgeschlossen, dass Eolas
+womöglich erfolgreich den Rechtsstreit beilegt (d.h. z.B. sich mit
+\"nur\" 200 Mio \$ abfinden läßt).
+
+Fazit: Mit Patenten kann ein KMU potenziell viel Geld verdienen, wenn
+sich ein Mittelständler auf das Patentieren spezialisiert und keine
+eigenen Produkte, die gefährdet sein könnten, am Markt hat. Dabei geht
+es dann weniger um die Lizenzierung des eigenen know-how, sondern
+vielmehr um Freibeuterei auf dem Meer des technischen Fortschritts. Wer
+erwirtschaftet das Geld, das von diesen Patentfirmen einkassiert wird?
+Es sind Unternehmen, die am Markt erfolgreiche Produkte anbieten und
+nicht auf das \"know-how\" aus diesen \"Technologiefirmen\" angewiesen
+sind. Gleich einem Freibeuter haben diese \"Technologiefirmen\" aber das
+Patent als Freibrief erhalten um erfolgreiche Softwareunternehmen zu
+kapern.
+
+### Worum geht es nun? {#worum_geht_es_nun}
+
+Nachdem Microsoft gelungen ist das Browserplugin-Patent zu löschen, muss
+nunmehr auch der Urteilspruch revidiert werden.
+
+`"Skeptischer beurteilte das Berufungsgericht hingegen Microsofts Einwände, die vom Bezirksgericht in Chicago `\
+`festgesetzte  Strafzahlung hätte nur auf der Grundlage von in den Vereinigten Staaten erzielten Umsätzen mit `\
+`Windows-IE-Produkten berechnet werden dürfen, weil es sich -- wenn überhaupt -- um die Verletzung eines US-Patents`\
+`handele. Würde das Gericht dieser Auffassung folgen, dürfte sich die Schadenersatzzahlung an Eolas auf 100 bis 200 `\
+`Millionen US-Dollar reduzieren. Die Richter formulierten allerdings in Richtung Microsoft, dass man keinen zwingenden `\
+`Grund erkennen könne, warum durch Patentrecht geschützte immaterielle Güter anders zu bewerten seien als materielle `\
+`Güter. Eine Entscheidung des Berufungsgerichts wird für kommendes Jahr erwartet.`
+
+Der Heisebericht deutet hier auf mangelnde Fachkenntnisse der US-Richter
+hin, die durch den irreführenden Lobbyterm \"Geistiges Eigentum\"
+verbreitet werden. Patente gelten bekanntlich allein auf den Märkten, in
+denen sie angemeldet werden. Immaterialgüter werden selbstverständlich
+im internationalen Recht anders behandelt als materielle Güter. (\*\*)
+Es ist deshalb zu hoffen, dass Microsoft entsprechende gute Gründe
+nachliefern wird.
+
+Ich drücke Microsoft die Daumen und bin gespannt, ob wir aus dem
+Rechtsstreit noch interessante Dokumente sehen werden.
+
+# Internet
+
+<http://www.eolas.com>
+
+(\*) Es könnte sein, dass ich mich hier irre: Eolas Consulting L.L.C
+nutzt die revolutionäre [Scrum-Methode der
+Softwareentwicklung](http://www.iomas.com/ec/htdocs/servicesSD.htm "wikilink")
+:-)
+
+(\*\*) Im deutschen Recht gibt es gar einige merkwürdige
+höchstrichterliche Entscheidungen über die Anwendung von Art 14 GG auf
+das Patentrecht.

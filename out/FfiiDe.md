@@ -1,0 +1,50 @@
+-\> [ english](FfiiEn "wikilink")
+
+Dies ist die Wiki-Seite zur FFII Hauptseite. Sie wird zur Kommentierung
+der Inhalte der Hauptseite genutzt. Diese Seite kann nur von
+berechtigten Mitglieds-Konten aus verändert werden.
+
+# Errata/Fehlerkommentar
+
+Nötige fixes:
+
+-   Datum der Meldungen stimmt nicht \"2000\"
+-   auf \"Grundlage\" muss gross geschrieben sein.
+-   17.5.2004 link von <http://www.ffii.org/verein/index.de.html> zu
+    \"financ\" funktioniert nicht ! enlgischer Link:
+    <http://www.ffii.org/assoc/financ/>
+
+```{=html}
+<!-- -->
+```
+-   Es findet sich kein Impressum mit Hinweis auf Fax/Büroanschrift!!
+-   Es ist wahnsinnig schwierig, die Kontoinformationen für Spenden zu
+    finden!
+
+Vorschläge:
+
+-   What about a RSS Feed? Wie waers mit einem RSS Feed, den jeder auf
+    seiner Site einbinden koennte, z.B. mit News - ich waere dabei
+    (Airport1)
+
+```{=html}
+<!-- -->
+```
+-   Auf die
+    [Softwarepatent-Sammlung](http://swpat.ffii.org/patents/txt/ep/index.en.html#pubjar "wikilink")
+    sollte möglichst direkt von hier verlinkt werden - die ist viel zu
+    schade, um sie so zu verstecken!
+
+# Antwort
+
+FFII.org ist ein obsoletes Portal und sollte aus den angesprochenen
+Mängeln durch <http://eu.ffii.org> ersetzt werden
+
+\- RSS feeds existieren <http://www.ffii.org/news/rss/>
+
+\- Die Softwarepatentsammlung ist <http://gauss.ffii.org> oder besser
+<http://gauss.ffii.org/swpat/>
+
+\- Anschrift des FFII siehe [FfiiDeDe](FfiiDeDe "wikilink")
+
+\- Spenden <http://don.ffii.org>

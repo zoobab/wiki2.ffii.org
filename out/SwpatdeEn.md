@@ -1,0 +1,29 @@
+Weitere Argumente: 17. Dezember 2001, von FFII
+
+-   [Patentinflation konterkariert
+    EU-Deregulierungs-Initiativen](http://lists.ffii.org/archive/mails/swpat/2001/Dec/0103.html "wikilink")
+
+*Die Europäische Kommission erklärt in einem neuen
+Deregulierungs-Weißbuch ihre Absicht, innerhalb weniger Jahre den
+mittlerweile auf 80000 Seiten angewachsenen EU-Regulierungsdschungel um
+mindestens 25% zu lichten. Ein deutscher Jura-Professor schlägt vor, die
+EU-Kommission möge klarstellen, dass die vom EPA erteilten \>30000
+Softwarepatente illegal sind und bleiben. Dadurch könnte sie 100000
+seiten schädlichen Regulierungsdschungels entsorgen.*
+
+------------------------------------------------------------------------
+
+[Einzelplan
+Justiz](http://www.bundesregierung.de/nn_774/Content/DE/Artikel/2006/09/2006-09-06-einzelplan-justiz.html "wikilink")
+Mi, 06.09.2006
+
+Der Einzelplan des Justizministeriums ist mit 0,17 Prozent des
+Bundeshaushalts der kleinste Etat. Im Haushaltsentwurf von 2007 sind
+453,22 Millionen Euro ausgewiesen. Das sind 2,7 Prozent mehr als 2006.
+
+Bundesjustizministerin Brigitte Zypries betonte, dass ein Großteil der
+Ausgaben durch Einnahmen gedeckt sind: Wir haben mit 72,5 Prozent die
+mit Abstand höchste Kostendeckungsquote der Ressorts.
+
+Der Grund dafür sind die Einnahmen aus dem Deutschen Patent- und
+Markenamt.

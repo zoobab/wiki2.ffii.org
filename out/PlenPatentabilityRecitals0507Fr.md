@@ -1,0 +1,182 @@
+1.  1.  -\*- dok:
+        [PlenPatentabilityRecitals0507](PlenPatentabilityRecitals0507 "wikilink");
+        lang: fr; coding: iso-8859-1; mode: fundamental; -\*-
+    2.  datum: 2005-07-03
+    3.  title: Amendements pour la séance plénière : considérants sur la
+        brevetabilité
+
+# Amendements pour la séance plénière : considérants sur la brevetabilité {#amendements_pour_la_séance_plénière_considérants_sur_la_brevetabilité}
+
+-\> \[ [ Recommandations de vote](PlenVotingList0507Fr "wikilink") \| [
+Analyses](PlenAmend0507Fr "wikilink") \| [Seconde
+lecture](http://www.ffii.fr/seconde-lecture "wikilink") \|
+[Economic-Majority](http://www.economic-majority.com/index.fr.php "wikilink")
+\| [ Actualités des brevets logiciels](SwpatcninoFr "wikilink") \]
+
+------------------------------------------------------------------------
+
+-   Considérants 10 bis - 17 bis
+-   Texte de base: texte du Conseil
+    [pdf](http://register.consilium.eu.int/pdf/fr/04/st11/st11979-re01.fr04.pdf "wikilink")
+
+## Considérant 10 bis (nouveau) {#considérant_10_bis_nouveau}
+
+### Contribution technique {#contribution_technique}
+
+\|\| numéro \|\| déposé par \|\| recommandation \|\| texte \|\| \|\| 4
+\|\| JURI 4 \|\| - \|\| Il y a contribution technique si des
+considérations techniques contribuent à la solution d\'un problème
+technique. Il n\'y a pas contribution technique si l\'objet revendiqué
+dans le brevet consiste seulement dans les découvertes, théories
+scientifiques, méthodes mathématiques, créations esthétiques, plans,
+principes et méthodes dans l\'exercice d\'activités intellectuelles, en
+matière de jeu ou dans le domaine des activités économiques, dans les
+programmes d\'ordinateur ou les présentations d\'informations, sans être
+limité à un objet nouveau, non évident et technique qui peut être
+réalisé ou utilisé dans n\'importe quel secteur d\'activité. \|\|
+
+This amendment does not really clarify or limit anything. The
+\"technical considerations\" are easily fulfilled, because the European
+Patent Office considers e.g. that if automating a known process provides
+surprising economy of scale benefits, it is based on considerations of
+how a computer works.
+
+The second sentence can be circumvented by merely adding the word
+\"computer\" to the claims, as the claim then no longer solely consists
+of \"discoveries, \... , programs for computers, \...\". It is even
+dangerous to a certain extent in that it suggests that the exclusion of
+those subject matters as such in the EPC simply means they may not
+appear on their own in the claims. Such a limitation would merely
+require a rewording of the claims, and not constitute any practical
+limitation whatsoever.
+
+## Considérant 11 {#considérant_11}
+
+### Critères de brevetabilité {#critères_de_brevetabilité}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| \*\*\* \|
+Conseil \| () \| Pour être considérée comme brevetable, une invention
+doit présenter un caractère technique et donc appartenir à un domaine
+technologique. \| \| 5 \| JURI 5 \| + \| Pour être considérée comme
+brevetable, une invention doit présenter un caractère technique et donc
+appartenir à un domaine technologique. Elle doit, en outre, être
+susceptible d\'application industrielle, être nouvelle et impliquer une
+activité inventive. \| \| 60 = 92 = 113 = 134 = 155 = 178 \| Rocard /
+Buzek 21 \| + \| Pour être considérée comme une invention brevetable,
+une innovation doit présenter un caractère technique et donc appartenir
+à un domaine technologique. \|
+
+JURI\'s 5 is an improvement over the Council version, but it still talks
+about inventions as if there can be inventions without technical
+character.
+
+The compromise amendment clearly states that every invention has to have
+technical character.
+
+## Considérant 12 {#considérant_12}
+
+### Contribution technique {#contribution_technique_1}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| \*\*\* \|
+Conseil \| () \| D\'une manière générale, pour répondre au critère de
+l\'activité inventive, les inventions doivent apporter une contribution
+technique à l\'état de la technique. \| \| 55 = 87 = 108 = 129 = 150 =
+173 \| Rocard / Buzek 16 \| + \| D\'une manière générale, les inventions
+doivent apporter une contribution technique à l\'état de la technique.
+La contribution technique doit être nouvelle et non évidente pour une
+personne du métier. S\'il n\'y a pas contribution technique, il n\'y a
+pas d\'objet brevetable et pas d\'invention. \| \| 6 \| JURI 6 \| - \|
+D\'une manière générale, pour répondre au critère de l\'activité
+inventive, les inventions doivent apporter une nouvelle contribution
+technique à l\'état de la technique. \|
+
+The JURI and Council texts makes the same error as the Council in its
+article three (contradicting both the Council and JURI definitions for
+\"technical contribution\"), by stating that the \"technical
+contribution\" is something inside the inventive step.
+
+The compromise states that it is the technical contribution which must
+be inventive.
+
+## Considérant 13 {#considérant_13}
+
+### No Technical Contribution {#no_technical_contribution}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| \*\*\* \|
+Conseil \| () \| En conséquence, bien que les inventions mises en oeuvre
+par ordinateur appartiennent à un domaine technologique, lorsqu\'une
+invention n\'apporte pas de contribution technique à l\'état de la
+technique, parce que, par exemple, la contribution en question ne revêt
+pas un caractère technique, elle ne répond pas au critère de l\'activité
+inventive et n\'est donc pas brevetable. \| \| 56 = 88 = 109 = 130 = 151
+= 174 \| Rocard / Buzek 17 \| + \| En conséquence, une innovation qui
+n\'apporte pas de contribution technique à l\'état de la technique
+n\'est pas une invention au sens du droit des brevets. \|
+
+This Council article again confuses the technical contribution and the
+inventive step. The compromise amendment fixes this.
+
+## Considérant 14 bis (nouveau) {#considérant_14_bis_nouveau}
+
+### Traitement de données {#traitement_de_données}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| 7 \| JURI 7 \|
+? \| Le traitement des données au sens de la présente directive ne
+couvre pas l\'identification d\'effets physiques et leur conversion en
+données. \|
+
+It is not clear wat is meant by \"the identification of physical
+effects\". This would cause legal uncertainty.
+
+## Considérant 15 {#considérant_15}
+
+### Contribution technique (suite) {#contribution_technique_suite}
+
+\| numéro \| déposé par \| recommandation \| texte \| \| \*\*\* \|
+Conseil \| () \| Si la contribution à l\'état de la technique porte
+uniquement sur un objet non brevetable, il ne peut y avoir invention
+brevetable, indépendamment de la façon dont l\'objet est présenté dans
+les revendications. Ainsi, l\'exigence d\'une contribution technique ne
+peut être contournée simplement en spécifiant des moyens techniques dans
+les revendications du brevet. \| \| 8 \| JURI 8 \| + \| Si la
+contribution à l\'état de l\'art porte uniquement sur un objet non
+brevetable, il ne peut y avoir invention brevetable, indépendamment de
+la façon dont l\'objet est présenté dans les revendications. Ainsi,
+l\'exigence d\'une contribution technique ne peut être contournée
+uniquement en spécifiant des moyens techniques dans la revendication de
+brevet. \|
+
+Linguistic correction in the French language version.
+
+## Considérant 16 {#considérant_16}
+
+### Algorithmes
+
+\| numéro \| déposé par \| recommandation \| texte \| \| \*\*\* \|
+Conseil \| () \| En outre, un algorithme est intrinsèquement non
+technique et ne peut donc constituer une invention technique. Une
+méthode impliquant l\'utilisation d\'un algorithme peut néanmoins être
+brevetable, à condition qu\'elle soit utilisée pour résoudre un problème
+technique. Toutefois, tout brevet accordé pour cette méthode ne pourrait
+monopoliser l\'algorithme lui-même ou son utilisation dans des contextes
+non prévus par le brevet. \| \| 57 = 89 = 110 = 131 = 152 = 175 \|
+Rocard / Buzek 18 \| + \| En outre, un algorithme est intrinsèquement
+non technique et ne peut donc constituer une invention technique. \|
+
+\"A method involving the use of algorithm\" is the same as \"an
+algorithm\" (algorithms are nothing but methods in the context of patent
+law). Therefore, the original Council text is self-contradictory. The
+compromise removes this contradiction.
+
+## Considérant 17 bis (nouveau) {#considérant_17_bis_nouveau}
+
+### Divulgation
+
+\| numéro \| déposé par \| recommandation \| texte \| \| 9 \| JURI 9
+\| + \| Les États membres veillent à ce que la description expose
+l\'invention revendiquée dans des termes tels que le problème technique
+et sa solution, ainsi que l\'activité inventive, puissent être compris.
+\|
+
+Fair enough, though this simply repeats a fundamental principle of
+patent law.

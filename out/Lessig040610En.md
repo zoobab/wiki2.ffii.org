@@ -1,0 +1,33 @@
+# 2004-06-10 DE Lessig warns of \"IP [McCarthyism](McCarthyism "wikilink")\" {#de_lessig_warns_of_ip_mccarthyism}
+
+\--\> [ News](SwpatcninoEn "wikilink") \| [
+[McCarthy](McCarthy "wikilink")](SwpatamccarthyEn "wikilink")
+
+------------------------------------------------------------------------
+
+-   [Heise report
+    (de)](http://www.heise.de/newsticker/meldung/48120 "wikilink")
+
+In a speech at an opening ceremony for a university project in
+Karlsruhe, Germany, Lawrence Lessig (law professor at Stanford, author
+of various wide-read books on the information commons) warned under
+thundering applause that we are living in an era of \"IP !McCarthyism\".
+
+Lessig was also a guest speaker at the [ FFII conference of May
+2003](Swpparl035En "wikilink") in Brussels on the software patentability
+directive where Arlene !McCarthy was the rapporteur and behaved rather
+aggressively toward her critics.
+
+It can be safely assumed that the thundering applause to Lessig\'s newly
+coined phrase is in part due to negative experiences of the creative
+commons community with Arlene !McCarthy, who has also been the shadow
+rapporteur for her group on various other \"IP\"-related directives,
+such as the \"IP Enforcement Directive\".
+
+Previously, Lessig has spoken of \"software stalinism\" in similar
+contexts.
+
+Hal Varian, economist from University of San Francisco, explained a
+model of innovation incentives and said that the patent system has
+reached a point where it is clearly stifling innovation in particular in
+fields of complex systems such as software.

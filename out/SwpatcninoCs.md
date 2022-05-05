@@ -1,0 +1,8 @@
+\--\> \[ [ english](SwpatcninoEn "wikilink") \| [
+deutsch](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+-   <http://news.google.com/news?hl=cs&q=patenty&btnG=Search+News>
+    (nejaky cesky noviny v Google)
+-   2004-08-16 <http://swpat.ffii.org/index.cs.html>

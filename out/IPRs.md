@@ -1,0 +1,22 @@
+IPR = Intellectual Property Rights
+
+whatever that means, it is however very questionable!
+
+Who can obtain property on \"Intellectual\" achievements?
+
+Are such acchievements not only made possible by \"Intellectual\"
+efforts and \"Intellectual\" accomplishments from many others?
+
+Are universities not institutions which are condemned to infringe such
+\"Rights\" on a daily basis? And every scientist in research and
+development, if someone got such a \"Right\" by a sloppy way of working
+within a national office has to fight against it?
+
+A vast area for many discussions and as such only possible and thinkable
+under a fundamentally capitalistic regime in justice and economy.
+
+This does NOT signify, that patents are NOT allowed, but ONLY for
+clearly defined, technical inventions; emphasizing the term
+\"technical\" in this context once again.
+
+FREE for discussion:

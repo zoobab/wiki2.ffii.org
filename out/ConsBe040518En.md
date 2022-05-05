@@ -1,0 +1,4 @@
+The Belgian minister responsible for the directive was there. Her
+position was formed after discussion within the national government. She
+first voted against, and abstained after the break and the fake German
+\"compromise\".

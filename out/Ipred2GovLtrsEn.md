@@ -1,0 +1,115 @@
+# [IPRED2](IPRED2 "wikilink"): Call on the 25 Governments to remove criminal sanctions in case of patent infringement {#ipred2_call_on_the_25_governments_to_remove_criminal_sanctions_in_case_of_patent_infringement}
+
+\[ [ De](Ipred2GovLtrsDe "wikilink") \] \[ [
+Fr](Ipred2GovLtrsFr "wikilink") \]
+
+------------------------------------------------------------------------
+
+(Brussels, 16 feb 2005) According to the title of a [non-public document
+appearing on the Council
+website](http://register.consilium.eu.int/servlet/driver?page=Result&#9001;=EN&typ=Advanced&cmsid=639&ff_COTE_DOCUMENT=&ff_COTE_DOSSIER_INST=2005%2F0127&ff_TITRE=&ff_FT_TEXT=&ff_SOUS_COTE_MATIERE=&dd_DATE_DOCUMENT=&dd_DATE_REUNION=&dd_FT_DATE=&fc=REGAISEN&srm=25&md=100&ssf= "wikilink"),
+the European Commission is asking the written oppinion of the 25 Member
+States which rights they want to see removed from the list of the
+[IPRED2](IPRED2 "wikilink") directive proposal (2005-0127 COD).
+
+The FFII and other associations are calling on the Member States to
+remove patent infringements from the list of IP rights concerned. The
+broad and abstract nature of software patents makes infringement
+unavoidable, and most software systems unavoidably infringe on multiple
+patents. The resulting litigation is already a problem in many sectors.
+However, criminalisation of patent infringment would be catastrophic
+change that would severely damage the innovation process, and thus the
+European economies.
+
+------------------------------------------------------------------------
+
+## Log
+
+-   BE: [Fax sent to Minister
+    Verwilghen](http://www.ffii.org/~zoobab/bh.udev.org/filez/swpat/Ipred2GovLtrs060217/ipred2-be-patent.pdf "wikilink")
+-   LU: [Fax sent to Minister
+    Kreke](http://www.ffii.org/~zoobab/bh.udev.org/filez/swpat/Ipred2GovLtrs060217/ipred2-lu-patent.ps "wikilink")
+-   ES: [Fax sent to Minister
+    Montilla](http://www.mesagalega.info/imx/IPRED2.pdf "wikilink")
+-   NL: [Vrijschrift
+    emails](http://people.vrijschrift.org/~ante/consultatie0602.txt "wikilink")
+
+------------------------------------------------------------------------
+
+## Letter
+
+`   Dear Ministers,                                                                                                                                                      `\
+`                                                                                                                                                                        `\
+`   The Commission is asking your written opinion before Monday 20th February                                                                                            `\
+`   on the directive on criminal measures aimed at ensuring the enforcement of                                                                                           `\
+`   intellectual property rights in the European Union (or `[`IPRED2`](IPRED2 "wikilink")` (2005/0127 COD).                                                                                       `\
+`                                                                                                                                                                        `\
+`   Into the list of IP rights taken in account by the directive proposal, it is                                                                                           `\
+`   mentioned that patent infringements should be treated as criminal acts.                                                                                             `\
+`                                                                                                                                                                        `\
+`   As a pan-European association representing more than 3500 IT companies and                                                                                           `\
+`   nearly 100,000 individuals who have entrusted us to act                                                                                                  `\
+`   as their voice in public policy questions concerning exclusion rights                                                                                                `\
+`   (intellectual property) in data processing, we have serious concerns about                                                                                           `\
+`   the impact of the inclusion of patent infringements treated as criminal                                                                                              `\
+`   acts.                                                                                                                                                                `\
+`                                                                                                                                                                        `\
+`   It is in practice impossible to write and sell software products without                                                                                             `\
+`   certainty that your product does not violate one of the 65,000 software or                                                                                           `\
+`   business method patents granted by the European Patent Office. Those patents                                                                                         `\
+`   has been granted against the spirit of the European Patent Convention, which                                                                                         `\
+`   clearly excludes software from the field of patentability.                                                                                                           `\
+`                                                                                                                                                                        `\
+`   Last year, the directive on patentability of "Computer Implemented Inventions",                                                                                      `\
+`   which aimed to legalise the practice of the European Patent Office, was                                                                                              `\
+`   rejected by a strong majority in the European Parliament. Nonetheless, the                                                                                          `\
+`   European Patent Office continues to grant soft patents against the spirit of                                                                                         `\
+`   the law, and continues to lower the standards for the inventive step and subject                                                                                     `\
+`   matter.                                                                                                                                                              `\
+`                                                                                                                                                                        `\
+`   Patent infringement has always been a matter for civil litigation. The current                                                                                       `\
+`   proposal will force Member States to make patent infringement a crime, and to                                                                                        `\
+`   criminalise incitement to infringement.                                                                      `\
+`                                                                                                                                                                        `\
+`   The initial consequences of criminalisation of patent infringement will be a                                                                                         `\
+`   reluctance of firms to invest in new software products, in Europe. A firm                                                                                            `\
+`   requiring new software systems will prefer to import the software from                                                                                               `\
+`   outside Europe.  This will damage the EU software industry and cause loss of                                                                                         `\
+`   jobs, even though this industry is well able to compete on the global market.                                                                                        `\
+`                                                                                                                                                                        `\
+`   Secondly, the directive will give patent litigants great powers to harrass                                                                                           `\
+`   software producers, seize documents and freeze assets.  We would see criminal                                                                                        `\
+`   law being used to enforce monopolies that are already highly controversial.                                                                                          `\
+`   The cost of these monopolies is higher prices, less innovation, and serious                                                                                          `\
+`   damage to EU economies as they lose the ability to compete on the world                                                                                              `\
+`   market.                                                        `\
+`  `\
+`   Thirdly, new business formation and economic growth will be damaged.  All                                                                                            `\
+`   technology entrepreneurs already take risks with respect to software patents                                                                                         `\
+`   and the vibrant EU software industry exists despite, not thanks to, software                                                                                         `\
+`   patents. Software patents tend to be have broad claims on trivial methods                                                                                           `\
+`   so that infringement is unavoidable. In the classic patent economy, a firm                                                                                           `\
+`   can bulk license patents by paying royalties. When patent infringement is a                                                                                          `\
+`   criminal offense, no civil settlement is possible.                                                                                                                   `\
+`                                                                                                                                                                        `\
+`   Lastly, the use of criminal law, instead of civil law, makes patent                                                                                                  `\
+`   speculation and extortion much cheaper.  Today, a patent speculator needs                                                                                            `\
+`   significant funds in order to sustain the cost of litigation until a market                                                                                          `\
+`   accepts to license a particular patent.  However, in a criminal matter, the                                                                                          `\
+`   state bears the full costs of litigation.  We will see the use of "criminal                                                                                          `\
+`   liability" as a tool for blackmail: while a CEO may be willing to fight                                                                                              `\
+`   unfair patent claims in court, it is a different matter when the police and                                                                                          `\
+`   state prosecutors are involved.                                                                                                                                      `\
+`                                                                                                                                                                        `\
+`   In conclusion, the criminalisation of patent infringement will punish                                                                                                `\
+`   innovators, damage confidence in the IT sector, worsen the software patent                                                                                           `\
+`   problem, and promote the use of patents as a tool for extortion, rather                                                                                              `\
+`   than investment.  The consequences would be severely damaging for the EU                                                                                             `\
+`   economy, in terms of jobs, investment, and ability to compete.                                                                                                       `\
+`                                                                                                                                                                        `\
+`   We thus ask you to exclude patent infringements from the list of IP rights                                                                                           `\
+`   taken into account in this directive proposal, in order to keep patent                                                                                               `\
+`   litigation in the field of civil law, not criminal law.`\
+`   `\
+`   In general, the directive should be limited to rights of which it is proven`\
+`   that civil protection is not enough.`

@@ -1,0 +1,3 @@
+# Microsoft Patented .Net {#microsoft_patented_.net}
+
+-   <http://techupdate.zdnet.com/techupdate/stories/main/0,14179,2887217,00_print.html>

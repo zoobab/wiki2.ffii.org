@@ -1,0 +1,1009 @@
+# Analyse et réponse au « Manifeste pour le brevet » du Medef {#analyse_et_réponse_au_manifeste_pour_le_brevet_du_medef}
+
+\--\> \[ [ Nouvelles](SwpatcninoFr "wikilink") \| [ Brouillon de
+lettre](LtrMedef0406Fr "wikilink") \| [ MEDEF](SwpatmedefFr "wikilink")
+\| [ Sueur](ThierrySueurFr "wikilink") \| [
+Nguyen](ChristianNguyenFr "wikilink") \| [ Ministres français au Conseil
+du 2004-05-18](Frmin040518Fr "wikilink") \| [ Communiqué de presse de la
+FFII](Medef040705Fr "wikilink") \| [
+Feedback](Medef040629FeedbackFr "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Le Mouvement des entreprises de France (Medef) vient de rendre public
+un « Manifeste pour le brevet », censé éclairer les entreprises
+françaises sur les bienfaits économiques et sociaux du système de
+brevets. Lorsque l\'on connaît le pouvoir d\'influence que ce syndicat
+patronal possède auprès du gouvernement français actuel, il nous a paru
+urgent d\'éclaircir ces positions à la lumière des diverses analyses
+produites sur le sujet des brevets dans le domaine du logiciel.*
+
+## URL
+
+<http://www.medef.fr/staging/site/page.php?pag_id=23548>
+
+## Commentaire du texte {#commentaire_du_texte}
+
+### Objectifs
+
+` Réussir la réforme du système européen des brevets pour stimuler l'innovation`
+
+` À travers ce manifeste, le MEDEF entend faire partager ses convictions`\
+` sur la vocation, les vertus et l'utilité économique et sociale du`\
+` brevet.`\
+` `\
+` Il s'agit d'éclairer les entreprises, leurs représentants et les`\
+` pouvoirs publics sur :`\
+` · L'importance des brevets pour la dynamique de l'innovation,`\
+` · Le nécessaire renforcement de la confiance des entrepreneurs dans le`\
+`   système européen des brevets,`\
+` · Les améliorations à apporter pour éviter les dérives.`
+
+En ce qui concerne les brevets logiciels, le Parlement européen partage
+ces objectifs de clarification, d\'harmonisation et de sécurité
+juridique. Le 24 septembre 2003, il a
+[amendé](http://swpat.ffii.org/papiers/europarl0309/index.fr.html "wikilink")
+la proposition de directive en ce sens. Si la [Commission
+européenne](http://swpat.ffii.org/papiers/eubsa-swpat0202/index.fr.html "wikilink"),
+la [commission parlementaire à la
+Justice](http://swpat.ffii.org/journal/03/juri0617/index.fr.html "wikilink")
+(JURI) et le [Conseil de
+l\'UE](http://swpat.ffii.org/papiers/europarl0309/cons0401/index.fr.html "wikilink")
+ont également déclaré poursuivre ces mêmes objectifs, l\'analyse de
+leurs propositions a montré qu\'elles conduiraient à des résultats
+exactement opposés. Il importe donc d\'analyser scrupuleusement comment
+le Medef propose d\'atteindre ces objectifs.
+
+Apparement la « conviction » des entrepreneurs dans le système de
+brevets a aujourd\'hui besoin d\'être « renforcée ». Qui sont donc ces
+membres du Medef, qui veulent partager leur « convictions » avec les
+entrepreneurs ?
+
+### Pourquoi ce manifeste ? {#pourquoi_ce_manifeste}
+
+` Il existe un lien étroit entre les brevets, la recherche et`\
+` l'innovation. Indicateur privilégié du niveau de performance des pays`\
+` en matière de recherche-développement, le brevet est surtout un outil`\
+` de conquête des marchés et un fondement solide pour des partenariats`\
+` technologiques avec d'autres entreprises ou des centres de recherche`\
+` publics. Comme le soulignait Claudie Haigneré, ancienne ministre`\
+` déléguée à la Recherche et aux Nouvelles Technologies, «le`\
+` développement des brevets assure une indépendance scientifique et`\
+` technologique à l'échelle de notre nation, indépendance qui est le`\
+` garant de notre développement économique. (...) Il permet de valoriser`\
+` les résultats de la recherche, de transférer les connaissances`\
+` produites par les chercheurs pour les transformer en applications et`\
+` les mettre à la disposition de chacun». [ 1 ]`
+
+Ces affirmations manquent de clarté. Il est certes inévitable que le
+brevet soit « lié à la recherche et l\'innovation », mais cela ne
+signifie pas que le système de brevets stimule celles-ci. La littérature
+en recherche économique donne très peu de preuves permettant de soutenir
+ce propos, sauf dans quelques domaines comme celui de la pharmacie.
+
+Un simple examen de la [répartition par pays des brevets logiciels
+acceptés par l\'Office européen des
+brevets](http://swpat.ffii.org/patente/zahlen/#invland "wikilink")
+montre d\'ailleurs aisément, qu\'\*une légalisation de la brevetabilité
+du logiciel menacerait sérieusement l\'indépendance et le développement
+économiques des entreprises informatiques européennes\*.
+
+` Devenues grandes causes européennes et nationales, la recherche et`\
+` l'innovation sont considérées comme les principaux ressorts de la`\
+` croissance des pays européens et de la France en particulier. Ce`\
+` n'est, en effet, qu'à partir de produits à forte valeur ajoutée que`\
+` les économies françaises et européennes pourront maintenir leur rang`\
+` dans la compétition mondiale.`
+
+Ce texte porte à confusion sur plusieurs aspects:
+
+1.  la recherche et l\'innovation ne sont pas uniquement importantes
+    pour des raisons de « valeur ajoutée » ;
+2.  la R&D, pas plus que des « produits à grande valeur ajoutée »,
+    n\'est pas forcément favorisée par le système de brevets.
+
+Le développement de logiciels a existé bien avant l\'instauration de
+brevets dans ce domaine et la valeur ajoutée des logiciels produits n\'a
+pas souffert de l\'absence d\'un système de brevets logiciels. A
+contrario, de nombreuses études (voir [le rapport de la Federal Trade
+Commission](http://www.ffii.org.uk/ftc/ftc.html "wikilink") ou les
+[travaux de Research on
+Innovation](http://www.researchoninnovation.org/online.htm "wikilink"))
+ont montré que la qualité de l\'innovation logicielle avait décru dans
+les pays (l\'exemple le plus flagrant étant les États-Unis) où les
+brevets logicels sont aujourd\'hui légaux.
+
+` Vouloir faire entrer l'Europe dans l'économie de la connaissance`\
+` suppose une politique globale d'innovation dont tous les rouages`\
+` doivent jouer un rôle d'entraînement déterminant pour en obtenir la`\
+` performance attendue. La propriété intellectuelle est l'un des`\
+` principaux rouages d'un système de recherche et d'innovation efficace`\
+` et, dans la panoplie d'outils qu'elle propose aux inventeurs et`\
+` innovateurs, le brevet joue un rôle clé. La dynamique de l'innovation`\
+` ne fonctionnera pas à plein régime sans une pleine utilisation du`\
+` brevet. Dans l'histoire industrielle, la grande majorité des succès`\
+` entrepreneuriaux ont reposé sur des innovations brevetées. Aujourd'hui`\
+` encore, de nombreux directeurs de recherche et développement`\
+` considèrent que 60 % des innovations de leur secteur n'auraient pas vu`\
+` le jour sans la possibilité de les breveter. [ 2 ]`
+
+Justement, [l\'économie de la
+connaissance](http://multitudes.samizdat.net/article.php3?id_article=1456 "wikilink")
+se base sur des règles fondamentalement différentes de celles appliquées
+dans l\'histoire industrielle. Les biens immatériels de la connaissance
+sont par nature **non excluables** (à partir du moment où une
+connaissance est mise à disposition de certains agents, il est difficile
+d\'en interdire l\'usage à d\'autres), **non rivaux** (la connaissance
+ne se détruit pas dans l\'usage, il n\'y a pas de rivalité entre les
+consommateurs) et **cummulatifs** (la connaissance est le facteur
+principal de la production de nouvelles connaissances, autrement dit :
+le stock de connaissances intervient directement dans la production de
+connaissances nouvelles). Ainsi la valorisation d\'une connaissance ne
+découle pas de sa rareté mais au contraire de sa diffusion et de la
+possibilité d\'y accéder.
+
+Si le brevet joue un rôle clef, c\'est parce qu\'il est associé à de
+vastes pouvoirs d\'exclusion auxquels les autres outils juridiques ne se
+prêtent pas. Si l\'on pouvait obtenir un monopole sur l\'eau chaude, un
+tel monopole jouerait aussi un « rôle clef » dans l\'économie. Cela ne
+prouve en rien que des monopoles de tel ou tel type stimulent
+l\'innovation dans une « société de connaissances ». Il y a des sociétés
+pharmaceutiques qui ne produisent que des médicaments brevetés. Il ne
+serait pas surprenant que les directeurs de recherches dans de telles
+sociétés déclarent que 100% de leurs innovations dependent du brevet.
+Dans d\'autres sociétés, notamment informatiques, un taux de 0% est plus
+normal. Tout cela ne prouve rien sur les effets macro-économiques du
+système.
+
+` Dans ce domaine, l'Europe ne cesse de décrocher non seulement par`\
+` rapport aux Etats-Unis qui affirment leur domination technologique en`\
+` s'appuyant sur un large recours au brevet, notamment dans les`\
+` nouvelles technologies, mais aussi par rapport à des puissances`\
+` émergentes de l'Asie du Sud-Est.`
+
+On peut opposer à ce constat, le [dynamisme dont font preuve les pays
+européens dans les innovations apportées par les logiciels
+libres](http://www.stanford.edu/group/floss-us/report/FLOSS-US-Report.pdf "wikilink").
+
+` Au sein même de l'Europe, la position`\
+` de la France s'effrite avec environ 6 % des brevets européens, une`\
+` part en diminution régulière depuis plusieurs années, et deux fois`\
+` plus faible que celle de l'Allemagne. Les PME y sont par ailleurs`\
+` sous-représentées.`
+
+\... alors que les PME sont les [principaux innovateurs en matière de
+logiciel](http://swpat.ffii.org/analysis/sektor/ "wikilink")\...
+
+` Le brevet, arme économique dans la compétition`\
+` mondiale, reste insuffisamment utilisé par les entreprises françaises`\
+` qui sont découragées par les coûts d'accès, la longueur des`\
+` procédures, les difficultés pour défendre efficacement leurs droits`\
+` devant les tribunaux. Chacun de ces obstacles fait l'objet de`\
+` propositions d'améliorations en débat depuis plusieurs années, comme,`\
+` par exemple, la baisse des coûts de traduction à travers l'Accord de`\
+` Londres ou l'unification du système judiciaire en matière de brevets`\
+` européens. La volonté politique de faire aboutir ces projets, pourtant`\
+` dans la droite ligne des engagements pris aux sommets européens de`\
+` Lisbonne en 2000 et Barcelone en 2001, est cependant affaiblie par un`\
+` climat général de méfiance, sinon de rejet, à l'égard de la propriété`\
+` intellectuelle en général et du brevet en particulier. Son utilité`\
+` économique et sociale est contestée, comme en témoignent quelques`\
+` titres chocs relevés récemment dans la presse : «La propriété`\
+` intellectuelle, c'est le vol» ou encore «Les brevets tuent». Le`\
+` système est ainsi accusé de freiner la recherche, de brider`\
+` l'innovation, de bloquer la diffusion de l'information et le partage`\
+` des connaissances.`
+
+Concernant les brevets logiciels, les études économiques, y compris
+[celles commandées par la Commission
+européenne](http://www.aerosme.com/download/softstudy.pdf "wikilink"),
+ont montré qu\'effectivement l\'imitation devient un coup de fouet pour
+l\'innovation, alors que des brevets forts deviennent un obstacle.
+
+` Le MEDEF est au contraire convaincu que la vocation même du brevet est`\
+` de favoriser la recherche et l'innovation et d'accélérer la diffusion`\
+` et le partage des connaissances. Les entrepreneurs conservent toute`\
+` leur confiance dans les fondamentaux du système des brevets qu'il faut`\
+` défendre par la mise en oeuvre des améliorations depuis longtemps à`\
+` l'examen et la prévention de dérives dans la gestion de l'octroi des`\
+` brevets. Au moment où les entreprises sont invitées à doubler leur`\
+` effort d'investissement en recherche et développement pour permettre à`\
+` notre pays d'atteindre l'objectif de 3 % du PIB consacré à`\
+` l'investissement dans ce domaine, le MEDEF souhaite peser davantage`\
+` dans les débats en cours et insister sur les vertus du brevet pour`\
+` relever le défi de la croissance par l'innovation.`
+
+Pourtant les investissements en R&D diminuent lorsque les entreprises
+informatiques sont obligées de détourner leur argent vers un système de
+brevets logiciels, comme le [remarque Pierre Haren, PDG et fondateur
+d\'Ilog](http://www.industrie.gouv.fr/observat/innov/carrefour/tabsyn.htm "wikilink")
+: « La généralisation du brevet logiciel a pour effet du point de vue
+des éditeurs de logiciels de distraire des ressources de l\'amélioration
+des produits vers la veille juridique et l\'activité contentieuse. »
+
+` [ 1 ] Allocution de clôture du colloque «Le brevet» au grand amphithéâtre`\
+` de la Sorbonne le 5 février 2004.`\
+` [ 2 ] Article «Propriété intellectuelle: stratégies d'entreprises et`\
+` politiques publiques» dans la revue Problèmes Economiques du`\
+` Commissariat Général du Plan, 5 mars 2003`\
+` `
+
+### Le brevet est un mécanisme indispensable pour rétribuer et diffuser l\'innovation {#le_brevet_est_un_mécanisme_indispensable_pour_rétribuer_et_diffuser_linnovation}
+
+#### Un échange entre l\'entrepreneur et la société\... {#un_échange_entre_lentrepreneur_et_la_société...}
+
+` La société accorde des brevets à ceux qui, par leurs innovations,`\
+` contribuent à l'accroissement des connaissances techniques et au`\
+` développement de nouveaux produits et services. En accordant ces`\
+` brevets, la société reconnaît et assure aux innovateurs une`\
+` exclusivité temporaire pour l'exploitation commerciale de leurs`\
+` innovations en contrepartie de la divulgation publique de ces`\
+` innovations. Celui qui enfreint cette exclusivité commet le délit de`\
+` contrefaçon. Voilà ce qui fait l'essence même du système des brevets.`\
+` La valeur du brevet pour celui à qui il a été accordé dépend`\
+` essentiellement de la valeur de l'innovation pour la société. Si`\
+` l'exploitation, directement par l'innovateur lui-même, ou`\
+` indirectement par des entrepreneurs auxquels des licences`\
+` d'exploitation auront été confiées, est un succès commercial,`\
+` l'innovateur en tirera profit. Sinon, il n'aura droit à rien. Le`\
+` fondement même du système des brevets réside dans cet échange entre la`\
+` société, qui a besoin d'avoir des entreprises innovantes consacrant du`\
+` temps et de l'argent à la recherche-développement, et l'entreprise,`\
+` qui a besoin d'une perspective de rentabilité pour ses investissements`\
+` en recherche et développement.`
+
+Nous sommes tout à fait d\'accord avec ce principe fondateur du système
+de brevets : en échange d\'un encouragement à l\'innovation, la société
+accepte d\'accorder un monopole privatif aux inventeurs. Ainsi que
+l\'octroi de brevets a été [défini par Thomas Jefferson dans la
+constitution des
+États-Unis](http://press-pubs.uchicago.edu/founders/documents/a1_8_8s12.html "wikilink"),
+encore faut-il que cette exception soit bénéfique pour la société dans
+son ensemble\...
+
+De plus, ce « principe fondateur » est plutot un « mythe fondateur »,
+que Machlup appelle la « théorie du contrat » (Vertragstheorie).
+L\'explication de ce mythe par le Medef est contestable : il joue avec
+l\'expression « valeur du brevet pour la société » qui peut prendre deux
+significations :
+
+1.  valeur de la contribution de l\'inventeur (en terme
+    d\'investissement ou du coût de la publication précoce)
+2.  valeur de la contribution des autres (« contrefacteurs », en terme
+    de libertés sacrifiées)
+
+Par exemple, le brevet [ Acacia](SwxaiAcaciaEn "wikilink") a une énorme
+valeur selon le deuxième sens mais peu selon le premier et il y a plus
+ou moins ce probleme dans la plupart des brevets aujourd\'hui. En
+mélangant les contributions des deux côtés, le raisonnement du Medef
+abolit en effet la « théorie du contrat » et, à la place, fait la
+propagande d\'une notion de brevet comme « arme stratégique », où la
+privation de liberté par le brevet n\'a plus besoin de justification par
+un contrat social. Ce qui serait d\'ailleurs acceptable, si cela
+stimulait l\'innovation. Mais les théoriticiens du Medef ne veulent pas
+trancher entre théorie du contrat et « théorie de stimulation »
+(Anspornungstheorie), parce qu\'ils veulent le brevet pour le brevet,
+même sans mythe de contrat et sans effet stimulant.
+
+#### Qui encourage la recherche et développe la concurrence\... {#qui_encourage_la_recherche_et_développe_la_concurrence...}
+
+` Parce que la contrepartie de l'exclusivité d'exploitation de`\
+` l'innovation brevetée est la divulgation publique de celle-ci,`\
+` l'information technique correspondante est mise à la disposition de`\
+` l'ensemble de la communauté des chercheurs, publics ou privés,`\
+` individuels ou en entreprise, dès la publication de la demande de`\
+` brevet, c'est-à-dire avant même que le brevet soit accordé. Les`\
+` publications de brevets constituent une bibliothèque technologique`\
+` d'une richesse sans pareille, qui est aujourd'hui accessible`\
+` gratuitement dans son intégralité par Internet et qui est dotée`\
+` d'outils permettant des recherches efficaces, y compris pour des`\
+` utilisateurs non spécialistes.`
+
+Pour le logiciel, le [jargon juridique employé dans la rédaction des
+brevets logiciels](http://www.abul.org/article190.html "wikilink") les
+rend inutilisables comme littérature technique, même pour un homme de
+l\'art (on entend par là, un programmeur informatique, pas un
+spécialiste en droit des brevets !). La connaissance du code source
+d\'un logiciel, les spécifications des protocoles d\'échange ou des
+formats des données sont ici bien plus utiles. Il est à noter
+d\'ailleurs, que [de nombreux brevets ont été déposés sur les techniques
+de recherche d\'informations sur
+Internet](http://news.com.com/2100-1024_3-5165272.html "wikilink").
+Ainsi, l\'accessibilité gratuite de cette « bibliothèque technologique
+d\'une richesse sans pareille » deviendrait impossible si les détenteurs
+de ces techniques brevetées décidaient d\'appliquer leurs droits en
+réclamant une redevance aux sites web de recherche mis à disposition par
+les Offices de brevets.
+
+` En Europe, les recherches qui`\
+` s'appuient sur cette information et ce savoir pour poursuivre plus`\
+` loin l'exploration d'une technologie ou pour développer des`\
+` technologies concurrentes sont parfaitement libres. Le brevet ne`\
+` réserve que l'exploitation commerciale de l'innovation, pas son`\
+` utilisation à des fins de recherche ou même d'expérimentation.`
+
+Pourtant, la directive sur les brevets logiciels, telle que proposée par
+la Commission européenne et le Conseil de l\'UE, [interdit la liberté de
+publication, ce qui entrave la
+recherche](http://www.effi.org/patentit/patents_torvalds_cox.txt "wikilink")
+sur des techniques logicielles brevetées.
+
+` L'hypothèse parfois avancée de brevets bloquant toute évolution`\
+` technologique est largement un mythe. Le domaine de la normalisation`\
+` en fournit des exemples éloquents. Une technologie qui n'est pas`\
+` rendue disponible à des conditions raisonnables et`\
+` non-discriminatoires ne sera pas retenue et la norme s'appuiera sur`\
+` des technologies concurrentes.`
+
+Le problème en informatique, tout comme en mathématiques (le professeur
+Donald Knuth a d\'ailleurs [démontré la similitude entre les deux
+disciplines](http://gibuskro.lautre.net/patents/fr/slide19-0.html "wikilink")),
+se pose lorsque des éléments fondamentaux sont brevetés. Il est parfois
+impossible de se passer d\'un algorithme fondamental et de trouver une
+solution concurrente. Cela reviendrait à devoir se passer des opérateurs
+d\'addition ou de multiplication si ceux-ci étaient brevetés : toutes
+les bases des mathématiques seraient alors à réinventer (si tant est que
+cela soit possible) !
+
+` Dans les cas extrêmes où le jeu des mécanismes économiques ne`\
+` suffirait pas, le système des brevets prévoit la mise en oeuvre de`\
+` licences obligatoires. Si le breveté n'exploite pas l'innovation, ou`\
+` pas suffisamment au regard des besoins de l'économie, sans justes`\
+` raisons, le brevet peut être mis par simple arrêté ministériel au`\
+` régime de la licence obligatoire dans lequel toute entreprise`\
+` qualifiée peut être autorisée à exploiter l'invention moyennant une`\
+` rémunération du breveté, négociée à l'amiable ou fixée par le juge. Si`\
+` les conditions de l'exploitation ou l'absence de celle-ci posent un`\
+` problème de santé publique, c'est un régime de licence d'office, là`\
+` aussi par simple arrêté ministériel, qui peut être appliqué selon des`\
+` mécanismes voisins. Mieux encore, celui qui a breveté un`\
+` perfectionnement substantiel à une invention brevetée antérieurement`\
+` par un autre peut obtenir une licence pour pouvoir exploiter la`\
+` technologie ainsi perfectionnée. Ces mécanismes légaux, pour rare que`\
+` soit leur mise en oeuvre, jouent un rôle important dans la vie des`\
+` affaires car leur existence même est une forte incitation pour les`\
+` entreprises à trouver des arrangements à l'amiable, plutôt que de s'en`\
+` remettre aux pouvoirs publics.`
+
+Alors que le développement de logiciels peut se faire à des coûts
+marginaux quasi nuls, l\'acquittement de licences priverait nombre
+d\'entrepreneurs de cette facilité dans l\'industrialisation de leurs
+innovations. Il est pour le moins étrange que le Medef ne s\'oppose pas
+vigoureusement à un [obstacle limitant la création
+d\'entreprise](http://swpat.ffii.org/archive/citations/index.fr.html#kaplan02 "wikilink"),
+comme s\'avère l\'être un système de brevets logiciels.
+
+#### Tout en facilitant la diffusion du progrès technique et le transfert des connaissances {#tout_en_facilitant_la_diffusion_du_progrès_technique_et_le_transfert_des_connaissances}
+
+` Pour les entreprises, le brevet est l'outil privilégié pour la`\
+` recherche de nouveaux marchés et constitue la base des transferts de`\
+` technologies.`
+
+En informatique, la [conquête de nouveaux
+marchés](http://gibuskro.lautre.net/patents/fr/slide3-0.html "wikilink")
+et les transferts de technologies sont bien plus efficients lorsqu\'on
+se base sur la coopération, la recherche d\'alliance ou la participation
+à des organismes de standardisation.
+
+` La grande majorité des brevets ayant un véritable`\
+` potentiel d'exploitation font l'objet d'accords de licences. La raison`\
+` en est que l'intérêt du breveté -le profit qu'il peut tirer de son`\
+` brevet-, est directement lié à l'exploitation qui en est faite.`\
+` Certes, il pourra se réserver cette exploitation dans certaines zones`\
+` géographiques mais, pour accroître sa rémunération, il aura recours à`\
+` une exploitation par des licenciés dans les pays où il ne peut`\
+` commodément ou efficacement exploiter lui-même. C'est ce mécanisme qui`\
+` est à la base du plus grand nombre de transferts de technologie entre`\
+` entreprises, entre pays, entre continents. De tels transferts de`\
+` technologie sont efficaces et productifs lorsque la technologie de`\
+` base est protégée par brevet, alors qu'ils sont plus aléatoires, donc`\
+` beaucoup moins courants, en l'absence d'une telle protection. Dans ce`\
+` cas, en effet, le besoin de recourir à des accords complexes de`\
+` confidentialité et à des mesures de sécurité contraignantes décourage`\
+` les entreprises d'examiner les offres de coopération et d'envisager`\
+` des investissements dans le développement et la mise sur le marché`\
+` d'innovations proposées.`
+
+Pour le logiciel, les accords de licences croisées bénéficient largement
+aux grandes entreprises qui détiennent de larges portefeuilles de
+brevets et emploient d\'imposantes équipes juridiques, [au détriment des
+PME](http://swpat.ffii.org/archive/citations/index.fr.html#bgates91 "wikilink").
+Par exemple, IBM grâce à son énorme portefeuille de brevets, [a
+admis](http://lpf.ai.mit.edu/Links/prep.ai.mit.edu/ibm.think.article "wikilink")
+gagner dix fois plus de royalties en ayant l\'autorisation d\'exploiter
+les brevets logiciels d\'autres entreprises qu\'avec les royalties
+perçues directement sur ses propres brevets. Cela signifie que
+l\'imposant portefeuille de brevets logiciels d\'IBM lui permet de
+facilement négocier des licences lui autorisant l\'utilisation des idées
+brevetées par d\'autres entreprises. Mais cette stratégie s\'avère
+impossible pour une petite entreprise. Notons au passage, que sans sa
+possibilité de négocier ces accords avantageux, le système de brevets
+logiciels aurait été dix fois plus préjudiciable à IBM qu\'il ne lui
+aurait rapporté.
+
+### Le brevet européen doit rester fidèle à ses objectifs initiaux {#le_brevet_européen_doit_rester_fidèle_à_ses_objectifs_initiaux}
+
+#### Le système européen des brevets doit retrouver ses grandes lignes directrices\... {#le_système_européen_des_brevets_doit_retrouver_ses_grandes_lignes_directrices...}
+
+` Tel qu'il est pratiqué aujourd'hui, le système européen des brevets ne`\
+` remplit qu'imparfaitement la tâche que lui avaient assignée ses pères`\
+` fondateurs au début des années 1970. À l'initiative de la France, une`\
+` conférence inter-gouvernementale tenue à Paris en juin 1999 a ouvert`\
+` la voie à un certain nombre de mesures correctives destinées à revenir`\
+` à l'esprit initial du texte de 1973 (Convention de Munich). Par`\
+` ailleurs, la Commission a relancé en août 2000 le projet`\
+` complémentaire de création d'un brevet communautaire, dérivé du brevet`\
+` européen dans son mode d'obtention mais complétant celui-ci par`\
+` l'institution d'un système judiciaire communautaire pour unifier ses`\
+` effets sur l'ensemble du territoire communautaire. La Commission a`\
+` également pris des initiatives pour clarifier les conditions dans`\
+` lesquelles le système prend en compte l'évolution technologique,`\
+` que ce soit dans le domaine de l'informatique ou dans celui`\
+` des biotechnologies. Ces projets, conformes aux grands objectifs qui`\
+` ont présidé à la mise en place du système européen des brevets, ont`\
+` été vigoureusement soutenus par le MEDEF et le reste de l'industrie`\
+` européenne. Il est navrant de constater que cinq ans plus tard aucune`\
+` des propositions faites n'a reçu de commencement d'application,`\
+` notamment en France, et qu'au contraire les administrations nationales`\
+` multiplient les obstacles de toute nature.`
+
+Il est également important de rappeler que dans les « grands objectifs
+qui ont présidé à la mise en place du système européen des brevets », la
+Convention sur le brevet européen de 1973
+[stipule](http://www.european-patent-office.org/legal/epc/f/ar52.html#A52 "wikilink")
+que les méthodes mathématiques, les méthodes dans l\'exercice
+d\'activités intellectuelles ou dans le domaine des activités
+économiques, les programmes d\'ordinateurs, les présentations
+d\'informations, etc. ne sont pas des inventions au sens du droit des
+brevets. Il y a une raison logique à cela : dans la tradition du droit,
+les brevets ont toujours porté sur des applications concrètes des
+sciences naturelles (« inventions techniques »), tandis que les brevets
+logiciels couvrent des idées abstraites. Ainsi, en tant qu\'oeuvre de
+l\'esprit, le logiciel est traditionnellement couvert par le droit
+d\'auteur, comme le sont les oeuvres musicales ou littéraires. Or
+l\'Office européen des brevets, en contradiction avec la lettre et
+l\'esprit de la loi, a d\'ores et déjà accordé des dizaines de milliers
+de brevets logiciels. Nous sommes donc tout à fait d\'accord avec la
+volonté du Medef de redonner au système européen des brevets ses grandes
+lignes directrices.
+
+#### En terme d\'accessibilité à tous les innovateurs\... {#en_terme_daccessibilité_à_tous_les_innovateurs...}
+
+` Le coût d'obtention d'un brevet européen est dissuasif pour nombre`\
+` d'entreprises innovantes, notamment les PME. La conséquence la plus`\
+` visible en est que même les entreprises les plus conscientes de`\
+` l'importance de la protection par le brevet sont souvent obligées de`\
+` s'en tenir à une protection en France et de ne s'aventurer que plus`\
+` rarement au niveau européen. Or, aujourd'hui, le marché naturel des`\
+` entreprises européennes, c'est l'Europe, et l'absence d'une protection`\
+` appropriée sur ce marché est une faiblesse qui handicape notre`\
+` industrie.`
+
+Heureusement, le marché du logiciel ne souffre pas de cette « absence
+d\'une protection appropriée » : le droit d\'auteur [est reconnu par la
+grande majorité des développeurs de logiciels comme étant parfaitement
+adapté](http://swpat.ffii.org/papers/eubsa-swpat0202/ceapme0309/index.fr.html "wikilink").
+Qui plus est, l\'accession à la protection par le droit d\'auteur se
+fait sans coûts ni délais prohibitifs, contrairement aux brevets.
+
+` Une composante majeure de ce coût d'obtention est l'obligation de`\
+` fournir des traductions du brevet européen délivré dans toutes les`\
+` langues des pays où la protection est recherchée. Cette obligation de`\
+` traduction est une absurdité économique car elles ne servent à rien,`\
+` comme en témoigne le nombre ridiculement faible des consultations de`\
+` ces traductions, même dans les pays où elles sont consultables (en`\
+` France, par exemple, moins de 2 % de ces traductions sont consultées).`\
+` Or le principe posé par la convention de Munich à l'origine était`\
+` l'absence de telles traductions. Ce n'est que par le biais de réserves`\
+` successives que différents pays les ont introduites. L'accord de`\
+` Londres signé en juin 2001 par la France et ses grands partenaires`\
+` européens prévoit une réduction massive de l'obligation de`\
+` traduction mais cet accord, qui vient d'être ratifié par l'Allemagne,`\
+` n'est toujours pas ratifié en France. La promotion de la francophonie,`\
+` parfois mise en avant pour s'opposer à la ratification, serait`\
+` pourtant mieux servie si la littérature technique des brevets était`\
+` diffusée à l'étranger en français au lieu d'obliger les entreprises`\
+` françaises à la traduire préalablement en anglais ou dans d'autres`\
+` langues. Comme le souligne justement l'économiste Jean Tirole : «Mais`\
+` comme toujours, ces coûts sont peu visibles du public, ce qui permet`\
+` aux lobbies de défense des langues nationales et de traducteurs de`\
+` faire maintenir le statu quo». [ 3 ]`
+
+` Une autre source majeure de coût est la longueur et la complexité des`\
+` procédures européennes. L'Office européen des brevets est engagé dans`\
+` une action forte à cet égard, mais les résultats ne sont pas à la`\
+` hauteur des besoins. Il faut en moyenne plus de quatre ans pour`\
+` obtenir la délivrance d'un brevet européen, alors qu'aux Etats-Unis,`\
+` il en faut moitié moins pour obtenir un brevet américain. Ces délais`\
+` excessifs ont un coût : selon les chiffres de la Commission`\
+` européenne, un brevet européen coûte en moyenne 50 000 EUR, dont`
+
+1.  1.  000 EUR pour les seules traductions, soit cinq fois plus cher
+
+` qu'un brevet américain (10 000 EUR) et trois fois plus cher qu'un`\
+` brevet japonais (17 000 EUR). Mais en outre, pour bien des entreprises,`\
+` devoir attendre si longtemps pour disposer d'un titre efficace est`\
+` un handicap majeur dans la compétition internationale. Là encore, la`\
+` situation aujourd'hui n'est pas conforme aux principes posés à`\
+` l'origine. L'accroissement sensible du nombre de demandes de brevet`\
+` déposées chaque année en Europe est sans doute en partie responsable`\
+` de cet état de fait mais il faut alors donner à l'Office européen des`\
+` brevets les moyens d'y faire face. Les Etats membres s'orientent`\
+` malheureusement dans la direction opposée dans les discussions en`\
+` cours sur la création d'un brevet européen pour la Communauté (le`\
+` brevet «communautaire»). Il y est envisagé de réduire encore les`\
+` ressources de l'Office européen des brevets au profit des offices`\
+` nationaux de brevets et, à travers eux, du budget général des Etats.`
+
+Comme nous venons de le montrer, le logiciel protégé par le droit
+d\'auteur ne souffre pas de ces désagréments. On peut rappeler à ce
+sujet la [position de
+l\'UAPME](http://www.ueapme.com/docs/pos_papers/2003/Patentability.doc "wikilink")
+(organisation d\'employeurs représentant les intérêts, au niveau
+européen, de 11 millions de PME employant 50 millions de personnes dans
+toute l\'Europe) qui réaffirmait la préférence des PME du secteur
+informatique pour le droit d\'auteur et la condamnation des brevets
+logiciels, notamment à cause de leurs effets économiques préjudiciables
+aux petites et moyennes entreprises.
+
+` [ 3 ] Rapport du Conseil d'Analyse Economique de juin 2003 sur la`\
+` propriété intellectuelle`\
+` `
+
+#### Et par la mise en place d\'un système judiciaire efficace\... {#et_par_la_mise_en_place_dun_système_judiciaire_efficace...}
+
+` Dans le cadre du système européen actuel, les litiges en matière de`\
+` brevet relèvent des tribunaux nationaux de chaque pays. La conférence`\
+` inter-gouvernementale de juin 1999 avait reconnu le caractère`\
+` inefficace d'une telle organisation sur un marché unique, notamment`\
+` par la nécessité de saisir plusieurs tribunaux pour faire cesser une`\
+` contrefaçon à l'échelle européenne et par le risque avéré de`\
+` contrariété de décisions entre différents tribunaux. Les travaux menés`\
+` à la suite de la conférence ont conduit à un projet d'accord sur la`\
+` création d'une juridiction commune pour les litiges en matière de`\
+` brevet européen. Ce projet d'accord est actuellement bloqué par une`\
+` différence de vues entre la Commission et les Etats membres. La`\
+` Commission préfère pousser son projet de brevet communautaire et la`\
+` constitution d'une juridiction unique pour ce seul type de brevet en`\
+` Europe, qui n'existera pas avant de longues années et qui, en tout`\
+` état de cause, ne remplacera pas les brevets européens. Les`\
+` entreprises soutiennent le principe du projet communautaire sur ce`\
+` point, mais regrettent qu'il ne fournisse aucune solution pour les`\
+` brevets européens. Par ailleurs, les conditions actuellement discutées`\
+` pour la mise en place du système judiciaire communautaire comportent`\
+` le risque majeur que son coût soit hors de portée pour la grande`\
+` majorité des entreprises.`
+
+Aucun problème là-dessus **tant que le brevet européen ou communautaire
+ne s\'applique pas aux logiciels dont la « protection » fait partie du
+régime de droit d\'auteur**. Sur ce point, il faut de plus noter qu\'une
+protection juridique du logiciel par le système de brevets amplifierait
+l\'incertitude juridique : la protection par des brevets entrant en
+conflit et [remettant donc en cause la protection existante par les
+droits d\'auteur](http://beauprez.net/softpat/summary.html "wikilink").
+
+#### Tout en accueillant les innovations dans les domaines des technologies nouvelles. {#tout_en_accueillant_les_innovations_dans_les_domaines_des_technologies_nouvelles.}
+
+` L'évolution technique et l'émergence de nouvelles technologies posent`\
+` de nouveaux défis au système des brevets. Il n'y a là, à vrai dire,`\
+` rien de très surprenant et chaque époque a connu des interrogations`\
+` semblables depuis que le système existe. Il suffit d'évoquer les`\
+` nombreux débats qui ont jalonné le siècle dernier pour les brevets de`\
+` produits chimiques, d'abord, puis pour les brevets de médicaments. Les`\
+` exigences du développement de la recherche et de l'innovation dans ces`\
+` domaines ont eu raison de ces doutes et de ces interrogations.`\
+` Aujourd'hui le même type de débats réapparaît à propos de deux`\
+` nouveaux domaines de la technique où l'innovation galope : les`\
+` nouvelles technologies de l'information et de la communication (NTIC),`\
+` avec le développement des innovations faisant appel aux logiciels, et`\
+` les biotechnologies.`
+
+Il importe d\'autant plus d\'étudier les caractéristiques intrinsèques
+des innovations dans ces « domaines des technologies nouvelles » afin
+d\'évaluer si la protection traditionnelle par des brevets s\'y applique
+ou si au contraire celle-ci ne remplirait plus dans ces domaines les
+objectifs qui la fondent : encourager l\'inovation et la recherche dans
+un environnement concurrentiel.
+
+D\'ailleurs, le traitement de données, les logiciels, etc. ne sont pas
+des nouvelles techniques mais des nouvelles frontières du système de
+brevets et étaient des frontières longtemps interdites, pour de bonnes
+raisons.
+
+#### En ce qui concerne les inventions mises en oeuvre par des logiciels, {#en_ce_qui_concerne_les_inventions_mises_en_oeuvre_par_des_logiciels}
+
+` cela fait plus de vingt ans que les offices de brevet ont développé`\
+` une pratique interprétative des dispositions législatives sur le`\
+` sujet. L'évolution des technologies nécessite aujourd'hui que la`\
+` situation soit clarifiée pour éviter une confusion préjudiciable à la`\
+` sécurité dont les entreprises ont besoin pour développer et protéger`\
+` leurs innovations.`
+
+Tout à fait.
+
+` Les programmes d'ordinateur en tant que tels`\
+` relèvent de la protection par le droit d'auteur et ne peuvent être`\
+` brevetés.`
+
+Très bien, mais il faut alors garantir que ce ne soit pas le cas\...
+
+` Certaines décisions d'offices de brevet ont pu jeter un`\
+` doute sur ce point. Ce qui relève du brevet, c'est l'invention d'un`\
+` nouveau procédé technique ou d'un produit industriel, même si leur`\
+` mise en oeuvre fait appel à des moyens logiciels ou inclut un`\
+` logiciel.`
+
+Dès lors, il importe de définir ce qu\'est un procédé « technique ». La
+proposition amendée du Parlement européen s\'y est employée en reprenant
+une définition communément admise dans la communauté scientifique (et
+réaffirmée par exemple dans une [fameuse
+décision](http://swpat.ffii.org/papiers/bgh-dispo76/index.fr.html "wikilink")
+de la Cour fédérale des brevets allemande) : « Article 2b :
+L\'utilisation des forces de la nature afin de contrôler des effets
+physiques au delà de la représentation numérique des informations
+appartient à un domaine technique. Le traitement, la manipulation et les
+présentations d\'informations n\'appartiennent pas à un domaine
+technique, même si des appareils techniques sont utilisés pour les
+effectuer ».
+
+Si le Medef était sincère dans ses affirmations comme quoi les «
+programmes d\'ordinateur en tant que tels relèvent de la protection par
+le droit d\'auteur et ne peuvent être brevetés » et dans sa volonté de
+lever les ambiguïtés juridiques découlant des pratiques des offices de
+brevets, il devrait alors être complètement satisfait par cette
+définition rappelée par le Parlement européen. Le Conseil de l\'UE ainsi
+que la Commission européenne ont prétendu défendre exactement les mêmes
+affirmations et objectifs et ont pourtant rejeté cet amendement du
+Parlement européen !
+
+` En revanche, la protection par brevet est et doit rester`\
+` indépendante des modèles économiques sur lesquels repose la`\
+` commercialisation des produits correspondants.`\
+` `\
+` Le modèle dit «propriétaire» et le modèle dit «libre» sont compatibles`\
+` avec la protection de l'innovation par le brevet.`
+
+Il est surprenant de voir le Medef prendre position sur les logiciels
+libres. Cela tend à montrer que ce manifeste a été produit dans un
+effort pour influer sur les décisions en cours concernant la directive
+européenne sur les brevets logiciels.
+
+Quoi qu\'il en soit, cette affirmation est on ne peut plus erronée : le
+modèle « libre » est strictement incompatible avec la protection par le
+brevet. La liberté fondamentale sans laquelle un logiciel ne peut se
+prétendre « libre » est celle d\'exécuter le programme, pour tous les
+usages. L\'utilisation d\'un logiciel encombré de brevets nécessite
+l\'accord des détenteurs de ces brevets, l\'utilisateur n\'étant plus
+libre d\'exécuter le logiciel comme il l\'entend sans cette
+autorisation, le logiciel ne peut être qualifié de « libre ».
+
+` Certains économistes`\
+` mettent par ailleurs en avant le risque que de trop nombreux brevets`\
+` rendent excessivement onéreux les coûts de transaction associés au`\
+` développement de nouveaux systèmes informatiques. Le risque évoqué ici`\
+` est la constitution de «maquis de brevets» comme on en connaît dans`\
+` d'autres domaines à forte composante brevet, comme l'électronique`\
+` grand public ou les systèmes de télécommunications, des domaines où`\
+` pourtant la concurrence est ouverte et vigoureuse. Les mécanismes`\
+` régulateurs mis au point dans ces domaines à forte propension au`\
+` brevet, accords de licence croisés, pools de brevets et processus de`\
+` normalisation où les participants s'engagent à accorder des licences à`\
+` des conditions raisonnables et non-discriminatoires, ont fait la`\
+` preuve de leur efficacité. Mais, là comme ailleurs, il faut éviter les`\
+` dérives vers une brevetabilité trop facilement admise et revenir à une`\
+` appréciation rigoureuse du caractère innovant des inventions`\
+` présentées.`
+
+Il s\'agit exactement de la [stratégie employée par Microsoft au sein du
+W3C](http://www.zdnet.fr/actualites/technologie/0,39020809,2126023,00.htm "wikilink"),
+l\'organisme de standardisation du Web, qui avec d\'autres grands
+acteurs (Apple et Hewlett-Packard, principalement) avait tenté en 2001
+de faire adopter une mesure permettant à des entreprises de breveter des
+technologies normalisées, puis de demander des royalties à quiconque
+voudra utiliser ces technologies via un programme de licences « sensées
+et non discriminatoires » (ou RAND pour « Reasonable and
+Nondiscriminatory »). Devant les vives protestations soulevées par cette
+mesure, le W3C a finalement décider d\'exempter ses normes de royalties
+à reverser, Apple et HP s\'étant de toute façon rétractés. La licence
+RAND aurait permis à son principal supporter, i.e. Microsoft, de se
+doter d\'une arme capable d\'enrayer la concurrence de plus en plus
+virulente des logiciels libres. On a pu voir avec l\'affaire Eolas, que
+l\'arme aurait pu se retourner contre le géant de l\'informatique.
+Heureusement pour ce dernier, [il dispose des moyens permettant de faire
+invalider le brevet que prétendait détenir
+Eolas](http://www.zdnet.fr/actualites/technologie/0,39020809,39144525,00.htm "wikilink").
+Une PME ou un programmeur indépendant n\'auraient sans aucun doute pas
+eu la même chance.
+
+On est en droit de se demander pourquoi le Medef aborde ces soit-disant
+« mécanismes régulateurs » alors qu\'il vient d\'affirmer que les
+programmes d\'ordinateur relèvent de la protection par le droit
+d\'auteur et ne peuvent être brevetés. Le même stratagème a été employé
+pour le « compromis » sur la proposition de directive de la présidence
+irlandaise, que la délégation française a approuvé : d\'un côté, on
+prétend (article 4) que les programmes d\'ordinateur ne sont pas
+brevetables et de l\'autre, on autorise les [revendications de
+programmes](http://gibuskro.lautre.net/informatology/ffii/prgclaims.html "wikilink")
+(article 5.2) qui autorisent la brevetabilité pure et dure de tous les
+programmes d\'ordinateurs. Il devient évident ici que le Medef tente
+d\'induire en erreur les décideurs qui feraient confiance à son analyse,
+tout comme la Commission européenne a tenté de tromper les législateurs.
+
+### En ce qui concerne les biotechnologies, {#en_ce_qui_concerne_les_biotechnologies}
+
+` une directive européenne de 1998 semblait avoir fixé des règles claires`\
+` et acceptées par tous. Elle exclut toute possibilité de breveter le corps`\
+` humain ainsi que la simple découverte d'un de ses éléments. En revanche,`\
+` lorsqu'un procédé technique a été mis en oeuvre pour isoler et purifier`\
+` la séquence totale ou partielle d'un gène et qu'une application`\
+` industrielle de cette séquence a été exposée, on a affaire à une invention`\
+` et non une simple découverte et l'accès au brevet est ouvert. En approuvant`\
+` cette directive européenne, l'ensemble des Etats membres de l'Union`\
+` européenne a fait une stricte application des principes du système de`\
+` brevet. L'innovateur qui met en oeuvre des moyens techniques pour`\
+` faire progresser les connaissances humaines dans le domaine des`\
+` thérapies a droit à obtenir un brevet sur son innovation. Sachant que`\
+` les méthodes thérapeutiques ne sont en soi pas brevetables, il n'y a`\
+` rien de contraire à l'éthique pour la société à récompenser celui qui`\
+` lui a apporté cet enseignement.`\
+` `\
+` Il y a, en revanche, un intérêt essentiel pour la société à encourager`\
+` la recherche dans ce domaine. Un autre débat concerne la portée qu'il`\
+` faut accorder au brevet obtenu sur une séquence d'un gène (ADN) en`\
+` tant que produit. Certains voudraient limiter cette portée à`\
+` l'application thérapeutique indiquée au brevet. L'application des`\
+` principes à la base du système des brevets conduit à une réponse plus`\
+` nuancée. Si la séquence avait déjà été révélée, alors oui, la`\
+` protection du brevet ne peut porter que sur la nouvelle application`\
+` enseignée par le brevet. En revanche, si l'apport de l'innovateur`\
+` consiste non seulement dans l'application mais d'abord et avant tout`\
+` dans la révélation de la séquence isolée et purifiée, il a fait oeuvre`\
+` de pionnier ouvrant la voie à toute une nouvelle voie de recherches :`\
+` il est juste socialement et important économiquement de reconnaître`\
+` une portée large à son brevet. Il n'y a pas à craindre de blocage de`\
+` la recherche et de son exploitation en aval car le brevet n'interdit`\
+` pas la recherche et les mécanismes de licences obligatoires`\
+` d'exploitation inhérents au système des brevets mettent la société à`\
+` l'abri de telles tentatives de blocage, au demeurant fort rares.`
+
+Bien qu\'il ne nous appartienne pas de porter un jugement éclairé sur
+des brevets autres que logiciels, il faut souligner que les affirmations
+peu claires du Medef en ce qui concerne les brevets sur les
+biotechnologies sont fortement contestés. Les risques qu\'ils posent
+tant pour la sécurité ou l\'autosuffisance alimentaire, que pour
+l\'appropriation du vivant ou l\'accès aux médicaments et le
+développement de médicaments génériques conduisent pour le moins à bien
+réfléchir sur leurs implications, ce qui justifie le retard dans la
+ratification de la directive européenne de 1998. Loin de ne poser aucun
+problème éthique, comme l\'affirme le Medef, ces risques sont
+parfaitement présentés dans l\'article évoqué plus haut : « [Les brevets
+tuent !](http://www.uzine.net/article873.html "wikilink") ».
+
+### Le brevet européen doit combattre les dérives susceptibles de remettre en cause les bénéfices du système pour l\'économie et la société. {#le_brevet_européen_doit_combattre_les_dérives_susceptibles_de_remettre_en_cause_les_bénéfices_du_système_pour_léconomie_et_la_société.}
+
+#### Pour éviter le risque d\'octroi de «mauvais» brevets\... {#pour_éviter_le_risque_doctroi_de_mauvais_brevets...}
+
+` De nombreuses études économiques publiées récemment mettent l'accent`\
+` sur des dérives du système qui conduisent à la délivrance de brevets`\
+` sans valeur ou de portée beaucoup trop large. La plupart des auteurs`\
+` reconnaissent toutefois que ces dérives sont essentiellement`\
+` perceptibles aux Etats-Unis et que l'Europe en est, au moins jusqu'à`\
+` présent, relativement préservée. Il n'en demeure pas moins que`\
+` l'Europe doit tirer les leçons de ce qui s'est passé aux Etats-Unis,`\
+` où des mesures correctives sont maintenant à l'étude.`
+
+Effectivement, tant que le droit en Europe, conformément à la Convention
+sur le brevet européen, interdit la brevetabilité du logiciel, les
+dérives seront plus perceptibles aux États-Unis. Pourtant, il est déjà
+possible de constater que parmis les dizaines de milliers de brevets
+logiciels accordés par l\'OEB, les brevets triviaux ou de portée
+excessivement large sont d\'ores et déjà nombreux (voir par exemple, les
+brevets menaçant toute ouverture d\'une [boutique
+web](http://webshop.ffii.fr/ "wikilink")) et n\'attendent plus qu\'une
+légalisation pour être appliqués en Europe.
+
+` Que l'apparition de technologies radicalement nouvelles donne lieu à`\
+` quelques hésitations de la part des offices de brevet n'a rien de`\
+` surprenant. L'absence d'un corpus de référence et le temps nécessaire`\
+` à l'acquisition des compétences techniques indispensables rendent`\
+` difficile pendant une période la mission des offices. Dans de tels`\
+` cas, très médiatisés mais en réalité fort rare dans l'ensemble de`\
+` l'activité de l'Office européen des brevets, les remèdes se situent`\
+` dans le recours à la procédure d'opposition et, in fine, dans`\
+` l'appréciation de la validité du brevet par les tribunaux.`
+
+Remèdes malheureusement trop onéreux pour de simples PME, si bien
+qu\'effectivement les cas où les tribunaux sont saisis sont rares, la
+plupart des [litiges se réglant par des accords de licences croisées au
+bénéfice du détenteur du plus gros protefeuille de
+brevets](http://www.forbes.com/asap/2002/0624/044.html "wikilink").
+
+` Les véritables risques de dérive sont ailleurs. Le plus grand facteur`\
+` de risque se trouve dans l'organisation financière du système européen`\
+` des brevets, dont les projets actuels de création d'un brevet`\
+` communautaire vont aggraver les défauts plutôt que les corriger. Le`\
+` premier aspect de cette organisation financière est que le budget de`\
+` fonctionnement de l'Office européen des brevets ne fait pas appel à`\
+` l'argent public. La quasi totalité de ses ressources est constituée`\
+` par les taxes payées par les déposants de brevets. Cette circonstance`\
+` a amené le développement d'un concept de relation client fournisseur`\
+` entre les déposants de brevets et l'Office européen des brevets, dans`\
+` lequel l'office serait dans la position d'un fournisseur de services`\
+` en faveur de ses clients, les déposants de brevets. Un tel concept,`\
+` qui reproduit une approche mise en place aux Etats-Unis, fait`\
+` totalement l'impasse sur la responsabilité de l'Office européen des`\
+` brevets envers la société. Il est profondément dangereux car il peut`\
+` amener à la formation d'un biais en faveur des déposants, la`\
+` satisfaction du «client» reposant sur l'octroi du brevet plutôt que`\
+` sur son rejet. Aujourd'hui, environ 65 % des demandes de brevet`\
+` conduisent à la délivrance d'un brevet tandis que 15 % font l'objet`\
+` d'un rejet, le reste étant constitué de demandes abandonnées en cours`\
+` de procédure. On aimerait être sûr que les méthodes d'appréciation de`\
+` la productivité des examinateurs tiennent autant compte des rejets`\
+` qu'ils prononcent que des délivrances qu'ils accordent.`
+
+Nous sommes ici complètement d\'accord pour affirmer que les dérives de
+l\'Office européen des brevets sont davantage d\'ordre structurel que
+conjoncturel. Ajoutons que les offices ont une obligation de rentabilité
+accentuant la recherche de recettes et donc l\'acceptation de demandes
+de brevets. Qui plus est, [le cursus standard d\'un examinateur est de
+quitter au bout de quelques années l\'office dont il était employé pour
+rejoindre un grand cabinet de conseil en propriété
+intellectuelle](http://www.ecole.org/2/RT241001_memo.pdf "wikilink"). Ce
+qui ne l\'encouragera certainement pas à refuser une demande de brevet
+émanant d\'un futur employeur potentiel\...
+
+` Un deuxième aspect de l'organisation financière du système européen,`\
+` qui risque de perdurer dans sa version communautaire, est que, si une`\
+` partie des ressources de l'Office européen des brevets est liée au`\
+` nombre de demandes de brevet déposées, une autre partie importante`\
+` provient des taxes de maintien en vigueur des brevets délivrés. Ces`\
+` taxes, qui sont payées aux offices nationaux de brevets, font l'objet`\
+` d'une réversion à 50 % à l'Office européen des brevets. Ce système est`\
+` une évidente incitation à ce que le maximum de brevets soient délivrés`\
+` puisque tant l'Office européen des brevets que les offices nationaux`\
+` (et, à travers eux, les budgets des Etats) y trouvent un avantage`\
+` financier. Là encore, la société risque de ne pas y trouver son compte`\
+` en termes de qualité des brevets délivrés.`\
+` `
+
+#### Il faut assurer les ressources nécessaires à l\'Office européen des brevets {#il_faut_assurer_les_ressources_nécessaires_à_loffice_européen_des_brevets}
+
+` La qualité du travail d'examen des demandes de brevet fait par les`\
+` examinateurs de l'Office européen des brevets, au-delà des difficultés`\
+` passagères liées à l'apparition de technologies nouvelles dont il a`\
+` été traité plus haut, est globalement très nettement supérieure à`\
+` celle de tout autre office de brevet aujourd'hui. Mais il est clair`\
+` que l'accroissement continu du nombre de demandes de brevet déposées`\
+` chaque année soulève un problème de ressources. L'Office européen des`\
+` brevets a déjà dû renoncer à sa politique de baisse des taxes de`\
+` procédure, pourtant bien nécessaire pour accroître l'accessibilité du`\
+` système et pour rapprocher le coût du brevet européen de celui du`\
+` brevet américain ou même du brevet japonais. Ceux qui s'en réjouissent`\
+` parce qu'un brevet cher dissuadera les déposants font une grave`\
+` erreur. Un brevet cher nuit en priorité aux PME européennes et le`\
+` déficit de l'Europe en termes de dépôts de brevets ira en s'aggravant.`\
+` Le moment est venu de réexaminer la répartition du produit des taxes`\
+` versées par les déposants de brevets afin que l'Office européen des`\
+` brevets dispose des ressources nécessaires pour maintenir à un haut`\
+` niveau les procédures d'examen et de délivrance dont il a la`\
+` responsabilité.`
+
+Nous encourageons effectivement une réflexion sur les moyens de financer
+les offices des brevets afin que ceux-ci remplissent leur mission qui
+doit être avant tout de favoriser la recherche et l\'innovation **pour
+le bénéfice de la société** et non comme le stipule l\'article L411-1 du
+Code de la propriété intellectuelle « de prendre toute initiative en vue
+d\'une adaptation permanente du droit national et international aux
+besoins des innovateurs et des entreprises ».
+
+Par ailleurs, en matière de brevets logiciels, il est inexact de dire
+que la qualité doûteuse des demandes acceptées est dûe à « l\'apparition
+de technologies nouvelles ». La nature intrinsèque du logiciel
+(innovation itérative et cumulative, bien informationnel non excluant et
+non rival, cycle de vie extrêmement court, un seul logiciel est
+constitué de milliers d\'innovations, etc.) fait que de toute façon **et
+quelque soit le mode de fonctionnement des offices de brevets**, [on ne
+pourrait garantir la qualité d\'un brevet
+logiciel](http://swpat.ffii.org/analyse/frili/index.en.html "wikilink").
+
+## Conclusion
+
+En ce qui concerne les brevets logiciels, ce « manifeste » du Medef
+prétend :
+
+1.  éclaircir le cadre législatif du droit des brevets et règler les
+    fortes incertitudes provenant du fait que les offices européens et
+    nationaux délivrent d\'ores et déjà des dizaines de milliers de
+    brevets logiciels ;
+2.  interdire les brevets sur les logiciels purs mais permettre ceux sur
+    « les nouveaux procédés techniques ou les produits industriels, même
+    si leur mise en oeuvre fait appel à des moyens logiciels ou inclut
+    un logiciel » ;
+3.  minimiser les impacts de cette brevetabilité, en niant les méfaits
+    sur les logiciels libres, ou par des licences « raisonnables et
+    non-discriminatoires », ou encore en augmentant les moyens d\'examen
+    des offices de brevets.
+
+[ Ces mesures ne sont pas sans rappeler les
+explications](Frmin040518Fr "wikilink") données par les Ministres
+français immédiatement après la décision du Conseil des ministres du 18
+mai 2004 qui avait annulé les limites que le Parlement Européen avait
+imposées à la brevetabilité des logiciels. Mme Haigneré, Ministre
+déléguée aux affaires européennes et Mr Devedjian, Ministre délégué à
+l\'Industrie avaient alors publié un [communiqué de
+presse](http://swpat.ffii.org/log/04/cons0518/fr/brevet.html "wikilink")
+confus essayant de justifier leur adhésion à cette décision.
+
+Or cette position n\'est pas étonnante de la part des « experts en
+brevets » du MEDEF qui ont rédigé ce manifeste. En effet, ceux-ci sont
+de longue date de fervents défenseurs des brevets logiciels :
+
+-   [ Christian Nguyen](ChristianNguyenFr "wikilink") est responsable de
+    la propriété intellectuelle chez
+    [Thalès](http://swpat.ffii.org/players/thales/index.en.html "wikilink").
+    Prétendant que les brevets logiciels étaient bénéfiques pour le PME,
+    il a déjà déjà
+    [déclaré](http://www.industrie.gouv.fr/observat/innov/carrefour/tabsyn.htm "wikilink")
+    qu\'« il n\'y a pas de spécificité du logiciel par rapport aux
+    autres industries. »
+
+```{=html}
+<!-- -->
+```
+-   [ Thierry Sueur](ThierrySueurFr "wikilink") est vice-président
+    chargé de la propriété intellectuelle à [Air
+    Liquide](http://swpat.ffii.org/players/airliquide/index.en.html "wikilink")
+    et ancien responsable de la propriété intellectuelle de Thomson
+    Multimédia. Présent dans presque tous les débats et consultations
+    sur les brevets logiciels, il prétend représenter l\'Industrie. Il a
+    déjà
+    [déclaré](http://www.industrie.gouv.fr/observat/innov/carrefour/tabsyn.htm "wikilink")
+    que « tous les logiciels sont brevetables. La brevetabilité est
+    intimement liée à l\'innovation. ». Depuis le 21 avril 2004, [il a
+    été
+    nommé](http://listes.samizdat.net/wws/arc/escape_l/2004-04/msg00106.html "wikilink")
+    « membre du conseil d\'administration de l\'Institut national de la
+    propriété industrielle, représentant les milieux industriels
+    intéressés à la protection de la propriété industrielle. »
+
+On retrouve ces deux auteurs derrière toute la propagande pro-brevets
+logiciels en France. Leurs précédentes prises de position prouvent
+qu\'ils savent parfaitement ce qu\'ils veulent : une brevetabilité
+illimitée du logiciel. Le fait qu\'ils prétendent ne pas vouloir
+breveter les logiciels en tant que tels mais seulement « les inventions
+mises en oeuvre par un programme d\'ordinateur » est le stratagème
+habituel de ceux pour qui cette novlangue désigne en fait tout logiciel
+exécuté sur un ordinateur, c\'est-à-dire **tous les logiciels**.
+
+Le fait qu\'ils fassent étrangement référence au logiciel libre dans un
+document du Medef, tout comme les ministres français, tend à montrer
+qu\'ils agissent volontairement pour orienter les décideurs
+**maintenant** quant à la directive « brevets logiciels ».
+
+On est en droit de se demander si cette belle supercherie, dont les
+auteurs sont coutumiers, n\'a pas directement influencé le vote de la
+délégation française au Conseil des ministres du 18 mai 2004, acceptant
+le « compromis » de la Présidence irlandaise et de la Commission
+européenne satisfaisant ainsi les intérêts des cabinets en propriété
+industrielle des grandes entreprises, mais également les membres de
+l\'INPI, dont on sait que les administrateurs siègent au [qui a préparé
+la proposition de « compromis » Groupe de travail sur la Propriété
+intellectuelle du
+Conseil](http://swpat.ffii.org/papiers/europarl0309/cons0401/index.fr.html "wikilink").
+
+Il importe que les responsables d\'entreprises informatiques ne se
+laissent pas abuser par cette position mais suivent plutôt les experts
+de leur domaines, tels la CEA-PME, Confédération européenne des
+associations de petites et moyennes entreprises, ou Object Web,
+Consortium pour une architecture d\'intergiciels libres, comptant parmis
+ses membres de grandes entreprises, qui ont tous deux signé récemment un
+[Appel urgent aux gouvernements et parlements
+nationaux](http://swpat.ffii.org/letters/cons0406/index.fr.html "wikilink").
+
+Récemment, [ le Parlement néerlandais a déjugé le vote de son
+Ministre](NlVote040701Fr "wikilink") au Conseil du 18 mai 2004. La FFII
+appelle les députés français à faire de même pour ne pas laisser la
+démocratie et l\'industrie informatique françaises aux mains des seuls
+qui ont un intérêt à ce que la brevetabilité soit étendue à tous les
+logiciels.

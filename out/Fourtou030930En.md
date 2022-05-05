@@ -1,0 +1,17 @@
+# Janelly Fourtou supports the Commission to reject the Eurolinux petition {#janelly_fourtou_supports_the_commission_to_reject_the_eurolinux_petition}
+
+------------------------------------------------------------------------
+
+*At the reception of the Eurolinux petition in the petition comitee of
+the European Parliament on the 30th september 2003, Janelly Fourtou
+asked the president to reject the Eurolinux petition arguing that the
+Parliament has already voted on the matter. She was supporting the
+argumentation of Anthony Howard (CEC) who argued for rejecting the
+petition. Hopefully, the president of the petition comitee accepted the
+petition because the right of petition is a stronger right.*
+
+------------------------------------------------------------------------
+
+## Recordings
+
+Trying to have audio recordings

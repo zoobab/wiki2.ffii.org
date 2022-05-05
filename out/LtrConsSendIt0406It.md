@@ -1,0 +1,40 @@
+# Urgent Alerts Sent {#urgent_alerts_sent}
+
+\--\> [ Urgent Alert Contact Info for
+Italy]([LtrConsRecvIt0406It "wikilink") \| [ Urgent
+Appeal](LtrConsSend0406En "wikilink") \| [ Postcard
+Action](Postkard0407En "wikilink")\]
+
+------------------------------------------------------------------------
+
+To fill in, click on {Edit this Page}, and fill in information between
+vertical bars.
+
+### Note: please say who the **Sender** and the **Receiver** were. {#note_please_say_who_the_sender_and_the_receiver_were.}
+
+\|\| Sender \|\| Recipient \|\| Mode (letter/tel/fax/email/web/etc) \|\|
+Date (yyyy-mm-dd) \|\| Comment (Response received/confirmation tel/etc.)
+\|\| \|\| Luca SAIU
+`<saiu AT cli DOT di DOT unipi DOT SPAM SOMEONE ELSE it>`{=html}, and
+many students at the University of Pisa who joined his campaign \|\|
+Italian minister Marzano, many Italian [MEPs](MEPs "wikilink") and MPs
+\|\| about 120 snail-mail letters; we are finding people to send some
+more \|\| as of 2004-10-11 \|\| By now we received one (extremely
+friendly) response from On. Raffaella Mariani, who sent a formal
+\"Interrogazione con risposta urgente\" to the competent ministers. Her
+interrogation was also signed by On. Piero Ruzzante, On. Beatrice
+Magnolfi and On. Walter Tocci. We also received a friendly answer to
+another letter from On. Paolo Cento. \|\| \|\| Maggi Davide \|\|
+davide.maggi\@ecnet.it \|\| email \|\| 15-09-2004 \|\| Response received
+\|\| \|\| Camatari Samuele \|\| samuele.camatari\@juichi.net \|\| email
+\|\| 17-09-2004 \|\| Response received \|\| \|\| Turello Vincenzo \|\|
+enzo.turello\@juichi.net \|\| email \|\| 17-09-2004 \|\| Response
+received \|\| \|\| Falaschi Alessandro \|\| Antonio Marzano \|\| letter
+\|\| 23-09-2004 \|\| \|\| \|\| Menardi Marco \|\| Antonio Marzano \|\|
+fax \|\| 10-10-2004 \|\| \|\|
+
+About the interrogation by On. Raffaella Mariani:
+<http://kwiki.ffii.org/Mariani20041004It>
+
+About the answer by On. Paolo Cento:
+<http://kwiki.ffii.org/Cento20041008It>

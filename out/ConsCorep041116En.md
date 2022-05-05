@@ -1,0 +1,53 @@
+# 2004-11-17 Software Patents to be discussed on 3 Dezember 2004 {#software_patents_to_be_discussed_on_3_dezember_2004}
+
+## Not on the Council Competitivness Council agenda of 2004-11-25/26 {#not_on_the_council_competitivness_council_agenda_of_2004_11_2526}
+
+In the coreper document the approval of the directive is not mentioned
+as a subject of discussions.
+
+`At its meeting on the 11th of November the Working Party on Competitiveness and Growth`\
+`(High Level) had an exchange of views on the Competitiveness Package 20041 2 and the Kok`\
+`report. Building upon this exchange of views, this note highlights key issues for the initial`\
+`discussion by ministers of these two agenda items at the Competitiveness Council of 25 and`\
+`26 November 2004.`
+
+Software Patents are not discussed at the Competive Council meeting.
+Esp. after the Polish position became public a further delay is
+possible.
+
+Document:
+<http://register.consilium.eu.int/pdf/en/04/st14/st14676.en04.pdf>
+
+This assumption is further supported by the following event:
+
+# 2004-12-03 Council WORKING PARTY ON INTELLECTUAL PROPERTY Meeting {#council_working_party_on_intellectual_property_meeting}
+
+## 2004-11-17 Communication for a meeting CM 4276/04 {#communication_for_a_meeting_cm_427604}
+
+NOTICE OF MEETING AND PROVISIONAL AGENDA
+
+Contact: Keith MELLOR: keith.mellor\@consilium.eu.int Tel./Fax:
++32.2-285.66.79 / +32.2-285.78.16
+
+Subject: WORKING PARTY ON INTELLECTUAL PROPERTY (DESIGNS)
+
+Date: 3 December 2004 - 10.00
+
+Venue: COUNCIL JUSTUS LIPSIUS BUILDING Rue de la Loi 175, 1048 BRUSSELS
+
+# Agenda:
+
+1.  Proposal for a Directive of the European Parliament and of the
+    Council amending Directive
+
+`98/71/EC on the legal protection of designs (12555/04 PI 64 CODEC 1021)`\
+`- Presentation by the Commission and first exchange of views.`
+
+`2. Any other business.`
+
+NB: To reduce costs, only documents produced in the week preceding the
+meeting will be available in the meeting room.
+
+## Source of invitation {#source_of_invitation}
+
+<http://register.consilium.eu.int/pdf/en/04/cm04/cm04276.en04.pdf>

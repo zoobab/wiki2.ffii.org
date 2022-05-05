@@ -1,0 +1,186 @@
+# Welch keiner hat abgekupfert? Microsoft oder auch nicht der FFII? (arebenti) {#welch_keiner_hat_abgekupfert_microsoft_oder_auch_nicht_der_ffii_arebenti}
+
+## Schutz für die Softwareentwicklung {#schutz_für_die_softwareentwicklung}
+
+Für die PR nach der endgültigen Council-Abstimmung, wenn die Richtlinie
+in zweite Lesung ins Parlament geht, hatte ich vor langer Zeit die Idee
+unsere Forderungen
+
+-   1\. Keine Programmansprüche!
+-   2\. Technizitätsdefinition (DV kein Gebiet der Technik,
+    \"technisch\" nach deutscher Naturkräftetheorie)
+-   3\. Industriedefinition
+-   4\. Interoperabilitätsprivileg
+
+in Form eines [Schutzschildes gegen
+Softwarepatente](http://genba.ffii.org/~arebenti/draft/pshieldnew.jpg "wikilink")
+umgesetzt.
+
+```{=mediawiki}
+{{http://genba.ffii.org/~arebenti/draft/psh2.en.jpg}}
+```
+Das wird noch mit einem Erklärungstext je nach Dokumentart näher
+ausgeführt und erklärt. In Arbeit ist seit langem ein 6-10 Seiten
+Dokument, ein [mittelgroßes
+Poster](http://genba.ffii.org/~arebenti/draft/pshieldnew.jpg "wikilink"),
+und ein Faltblatt.
+
+## Nachgemacht?
+
+```{=mediawiki}
+{{http://www.microsoft.com/windowsxp/images/sp2/sp2_wscoverv2.jpg}}
+```
+`{{http://genba.ffii.org/~arebenti/draft/mssecurity.jpg}}`{=mediawiki}
+
+Etwas verwundert war ich als ich die eine Installation des [Servicepack
+2](http://www.microsoft.com/downloads/details.aspx?FamilyID=049c9dbe-3b8e-4f30-8245-9e368d3cdb5a&displaylang=de "wikilink")
+für XP von Microsoft zu Gesicht bekam. Microsoft benutzt die gleichen
+Kernfarben in seinem XP-Logo (RGB+Gelb). Weil das Servicepack 2 sich der
+bekannten Sicherheitsprobleme der Plattform annimmt, hat man auch hier
+das Ganze mit einem Schutzschild visualisiert, das meiner eigenen
+unabhängigen Kreation verblüffend ähnlich sieht. Dieses Schutzschild
+wird auch gerne in der Fachpresse abgebildet. Das omnipräsente Ikon zum
+neuen \"Securitycenter\" auf jedem XP-Rechner mit SP2 aktiv.
+
+Mein [eignes
+Schild](http://genba.ffii.org/~arebenti/draft/pshieldnew.jpg "wikilink")
+entstand unabhängig. Ein Schild ist eine in unserem Kulturkreis
+naheliegende Metapher für Schutz, und deshalb habe ich sie ja auch
+gewählt. Rot, grün, blau, gelb sind ganz einfache elementare
+Palettenfarben. Ich schätze, dass Microsofts Designer bei mir genauso
+wenig abgeguckt haben wie ich bei ihnen. \"Schilde\" wurden von
+Sicherheitssoftware auch zu einem früheren Zeitpunkt verwendet \-\-- und
+in der \"Fortsetzung der Politik mit anderen Mitteln\" gibt es Schilde
+allemal seit Jahrtausenden. Ausserdem agieren MS und FFII in ganz
+anderen Feldern, Microsoft stellt Software her und der FFII sichert die
+Freiheit der Entwickler als politische Interessenvertretung.
+
+Rechtlich kein Grund zur Sorge. Ich glaube auch kaum, dass Microsoft das
+Interesse hat, uns die Nutzung des [\'Schutzschildes für das Problem der
+Softwarepatente\'](http://genba.ffii.org/~arebenti/draft/pshieldnew.jpg "wikilink")
+zu untersagen oder andersherum wir rechtlich gegen sie vorgehen sollten.
+Solches Querulatentum führt nämlich über kurz oder lang ein Rechtssystem
+an seine Grenzen.
+
+Tatsache ist freilich, dass nun der Eindruck entstehen wird, der FFII
+habe **abgekupfert**, denn der umgekehrte Weg wird von den meisten
+Betrachtern wohl als unwahrscheinlich eingeschätzt. Oder gar: \'XP
+schütze vor Softwarepatenten\'. Oder gar: \'Unser Schutzschild schützt
+vor Softwarepatenten genauso gut wie das Servicepack von Microsoft vor
+den Sicherheitsproblemen in XP\'.
+
+Das [neue
+Schild](http://www.microsoft.com/windowsxp/using/security/internet/sp2_wscintro.mspx "wikilink")
+`{{http://www.microsoft.com/windowsxp/images/sp2/51804_34x34_ico_multi_f.gif}}`{=mediawiki}
+im XP-Securitycenter \"Indicates important security information and
+settings.\". Nun denn. Unsere Originalität wird geschmälert durch die
+Medienpräsenz des MS-Schildes. Mir ist das **alles** egal. (Vielleicht
+doch andere Farben, aber zusammen mit den ganzen Dokumenten müsste das
+wieder viel lästige Arbeit für nichts werden\... vielleicht lieber
+lassen). Nein, [das
+Schild](http://genba.ffii.org/~arebenti/draft/pshieldnew.jpg "wikilink")
+ist gut, genauso so wie es ist. Nur das Englisch und die Formulierungen
+müssen noch überprüft werden.
+
+## Hintergrund zum Schutzschild {#hintergrund_zum_schutzschild}
+
+Der Vorteil meiner Schilddarstellung ist, dass sie den schädlichen
+**Negativismus** vermeidet, der jedem anhaftet, der die Verkehrssitte
+gegen die feindliche Übernahme der Patentjuristen verteidigt. Plötzlich
+ist man \"dagegen\", und wer \"anti\" ist, der wird schnell als
+sympathischer Rebell gegen angebliche wirtschaftliche Interessen
+wahrgenommen. Die \'Softwarefreaks\', die \'Softwarepatentgegner\', oder
+gar Streiter für \'frei zugängliche Software für alle\'?!(Heute
+Journal).
+
+Kommen dann noch Underdog-Advokaten auf die Idee das Richtlinienvorhaben
+als Verschwörung der \"Megacorporations\" zu titulieren, dann ist die
+Umkehr der Beweislast perfekt. Und die Patentjuristen stellen den Sekt
+kalt.
+
+Die jeweiligen dazugehörigen Texte sollen Negativität vermeiden. Statt
+eine abstrakte Gegnerschaft (No swpat) zu artikulieren, werden
+operationalisierbare, das heisst in die Richtlinie zu übernehmende,
+Stichwörter für **Änderungsvorschläge** hervorgehoben. Die schwer
+kommunizierbaren rechtlichen Feinheiten werden durch die visuelle
+Verdichtung in ihrer Bedeutung als Hauptsache herausgestellt. Die
+**vier** \*konkreten\* **Forderungen** des Schildes lösen unser Problem
+der verkehrsfremden Softwarepatentierung. Wenn wir diese vier
+Forderungen erfüllt bekommen\...
+
+Die Visualisierung mit dem Erklärungstext ist bislang nur im internen
+Gebrauch gewesen. An die Texte stelle ich einen perfektionistischen
+Anspruch. Wenn ich als Nicht-Engländer englisch schreibe, mache ich
+notgedrungen Fehler. Review und die Diskussion, all das braucht Zeit und
+man hat vieles andere zu tun. Halbgare Texte schreibt man leicht, Feilen
+an den Inhalten und Formulierungen braucht aber Zeit.
+
+Die farbliche Markierung mit den Grundfarben wird im Text wieder
+aufgenommen. Die Farben dienen als Anker. Das [Schild
+selbst](http://genba.ffii.org/~arebenti/draft/4Schilded2.jpg "wikilink")
+kann als Erinnerungszeichen in unterschiedlichen Zusammenhängen
+verwendet werden. Es reduziert Komplexität. Das ganze Protection
+Shield-Material reift nun schon längere Zeit. Die
+[Grafik](http://genba.ffii.org/~arebenti/draft/4Schilded2.jpg "wikilink")
+ging durch mehrere Stadien und ist noch nicht perfekt. Etwa in der
+Abgrenzung im \"roten Bereich\".
+
+## Auch ins Patentminenfeld tritt man nicht vorsätzlich {#auch_ins_patentminenfeld_tritt_man_nicht_vorsätzlich}
+
+Ganz ähnlich sieht es im Bereich der Softwarepatente aus, gegen die wir
+mein Schild nutzen wollen. **Unbeabsichtigte** Patentverletzungen sind
+leicht für Entwickler, die vollkommen unabhängig voneinander Programme
+schreiben. Softwarepatente schützen nicht vor Plagierern, sie behindern
+normale Entwicklung. Das Hauptproblem ist die Breite von Patenten.
+Häufig formulieren Softwarepatentschriften das Problem in die
+Lösungsbeschreibung um. Wenn die \'Erfindung\' als Lösungsbeschreibung
+nur das Negativ des zugrundeliegenden Problems ist, wird für die
+Problemlösung selbst Wettbewerb verhindert. Ganze Klassen von Aufgaben
+werden dann mit abstrakten Lösungsbeschreibungen in Patentschriften
+beansprucht. Die Patentschrift selbst muss nicht \'trivial\' sein, in
+den meisten Fällen erlangt der Leser aber keinen Erkenntnisgewinn, der
+sich nicht schon aus der zugrunde liegenden Aufgabenstellung ergibt. Wo
+Probleme sind, entwickeln die Softwareexperten Solutions. Diese
+konkreten Problemlösungen sind der Kern der Meisterschaft, nicht die
+Probleme an sich.
+
+### Beispiel:
+
+`Die Idee Computer zur Übersetzung von Englisch nach Russisch zu benutzen ist relativ einfach abstrakt in `\
+`allen Möglichkeiten zu beschreiben. Nur an der konkreten, funktionsfähigen Umsetzung beissen sich die `\
+`Forscher seit Jahrzehnten die Zähne aus. `
+
+### Anreizszenario
+
+`Manchmal arbeiten Entwickler in einer Firma mit einer großen Rechtsabteilung. Die Rechtsabteilung freut sich, `\
+`wenn sie mehr Output vorweisen kann und der Entwickler auf die Prämie für seine kleine Anregung, die in einer `\
+`kruden 27 Seiten Schrift münden wird, die er selbst nicht versteht. Seinen freiberuflichen Kollegen in der `\
+`Branche macht er damit das Leben schwer. Er ist nicht origineller als sie, aber seine Firma hat Patentjuristen, `\
+`die mit ihrem Patentoutput auch seine eigene Berufsfreiheit einschränken und mit dem Schrotgewehr auf die `\
+`Innovation schiessen.`
+
+In diesem Sinne beste Aussichten für die Softwarewirtschaft,
+
+**Euer**
+
+**André**
+
+**Medien** \*FFII\*
+
+## Der politische Witz zum Protection Shield {#der_politische_witz_zum_protection_shield}
+
+Auf der Sicherheitskonferenz Süstem 2004 hält die Bundesministerin der
+Justiz Brigitte Zypries eine vielbeachtete Ansprache. Sie erläutert die
+Planungen der Bundesregierung für ein Patchverbot im Rahmen der
+Urheberrechtsnovelle zweiter Korb. Die anwesenden IT-Experten begrüßen
+die Massnahmen. Die IT-Sicherheit ist durch
+[Flickenteppiche](http://www.bmj.bund.de/enid/7a6c2ac8fc86540cfce923af17de1fce,0/fz.html "wikilink")
+nicht erst seit gestern maßgeblich bedroht. In der anschließenden
+Diskussion fragt der IT-Consultant Fridolin Fiffig die Bundesministerin
+zu ihrer Meinung zum [\'Protection Shield for Software
+Development\'](http://genba.ffii.org/~arebenti/draft/pshieldnew.jpg "wikilink")
+des FFII. Brigitte Zypries betont, dass sie die Frage der
+Patentierbarkeit computer-implementierter Erfindungen seit langem in
+ihrem Amt intensiv beschäftige. Sie habe zum Thema einen Runden Tisch
+eingerichtet. \'Ohne **Protektion** läuft bei uns im BMJ in dieser Frage
+gar nichts!\', stellte sie klar.

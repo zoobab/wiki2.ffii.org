@@ -1,0 +1,17 @@
+The partner of Sonn spoke at the [ Knowledge Economy Conference Vienna
+2002-11-08](Swpwien02BEn "wikilink"):
+
+## German
+
+The partner of Sonn who handles swpats in the office of Sonn in a
+discussion at the gekonf:
+
+<http://lists.ffii.org/archive/mails/swpat/2002/Nov/0024.html>
+
+Audio:
+
+-   <ftp://gorgias.philo.at/mp3/Workshop_1.mp3>
+-   <ftp://gorgias.philo.at/mp3/Workshop_2.mp3>
+-   <ftp://gorgias.philo.at/mp3/Workshop_3.mp3>
+-   <ftp://gorgias.philo.at/mp3/Workshop_4.mp3>
+-   <ftp://gorgias.philo.at/mp3/Workshop_5.mp3>

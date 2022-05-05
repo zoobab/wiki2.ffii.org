@@ -1,0 +1,7 @@
+# FFII Saarland {#ffii_saarland}
+
+### Mailingliste
+
+Es exisitert derzeit keine Mailingliste für Unterstützer aus dem
+Saarland. Bitte wenden Sie sich an Holger att blasum.net wenn sie die
+Betreuung einer Liste für das Saarland übernehmen wollen.

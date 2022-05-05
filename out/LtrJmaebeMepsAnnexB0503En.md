@@ -1,0 +1,48 @@
+1.  acl [TrustedGroup](TrustedGroup "wikilink"):read All:
+
+## Appendix A: The Case for reinstating the EP\'s first reading {#appendix_a_the_case_for_reinstating_the_eps_first_reading}
+
+A directive which effectively forbids software patents is of course the
+most desirable outcome. Although a European directive cannot influence
+the European Patent Office (EPO) directly, it does apply to the national
+courts where patents have to be enforced.
+
+If software patents are unenforceable, people will be less inclined to
+ask for them and threats using such patents will be less interesting,
+given that the chance for them to be invalidated in a court case will be
+very high. The EPO has also already publicly stated it will comply with
+the directive, whatever the outcome. However, while stakes are high, so
+are the risks.
+
+The arguments in favour of this approach are:
+
+-   The Parliament has until now always sent strong and consistent
+    signals regarding software patents. First the amendments of first
+    reading, then the restart request (including a confirmation of this
+    request in plenary) after it became clear the Council\'s Uncommon
+    Position was leading nowhere.
+
+```{=html}
+<!-- -->
+```
+-   Although second reading makes it more difficult for the EP to assert
+    itself due to the \"majority of component members\" requirement, at
+    the same time this means that all adopted amendments carry more
+    weight. This is especially the case if similar amendments were also
+    adopted in first reading.
+
+```{=html}
+<!-- -->
+```
+-   The Council is internally divided, so is the Commission, and the
+    latter has further weakened its position by not giving any
+    substantial explanations for refusing the EP\'s restart request. If
+    the Parliament clearly votes against software patents twice, it will
+    be in a very strong negotiation position.
+
+In such a situation, it may very well be possible to have the
+Conciliation procedure result in a clear and coherent text which can be
+supported by a majority in the EP\'s third reading. As such, if the
+Parliament believes it can achieve the necessary majorities for
+reinstating a text in the spirit of the outcome of the first reading,
+then this is definitely the way to go.

@@ -1,0 +1,45 @@
+# 2005-04-17 German Young Social Democrats and Green Youth against software patents {#german_young_social_democrats_and_green_youth_against_software_patents}
+
+\[ [ Patent news](SwpatcninoEn "wikilink") \| [
+German](JusosGrueneJugend050417De "wikilink") \]
+
+------------------------------------------------------------------------
+
+*In a joint statement of Grüne Jugend and Jusos these German party Youth
+organisation critizise the Council Common position and recommend to
+adhere to the results of the first reading in EU-Parliament in the
+second reading.*
+
+## Joint Statement of Grüne Jugend and Jusos {#joint_statement_of_grüne_jugend_and_jusos}
+
+As the Common Position was adopted in violation of the rules of
+procedure of the Council, we demand that the results of the 1st reading
+should be passed, which would mean an effective limitation of software
+patents (and we thus agree with the demands of the Bundestag (German
+parliament)). The Council of Ministers presents its changes as
+\'cosmetic\', but these changes would in actual fact widely facilitate
+the patenting of software.
+
+For major parts of the European software industry this would represent a
+significant economic threat, or at least being dependent on
+patent-holding corporations, with most (more than 70%) of the software
+patents issued in the EU being in the hands of US or Japanese companies.
+As a consequence, the software market would become increasingly
+monopolised and thus less competitive, which would be detrimental to all
+consumers.
+
+Our development of society leads towards a knowledge-based society,
+computer program gain importance in every aspect of our economic life.
+However, by software patents their flexibility and utility decreases. In
+the future we can expect a continuos informatisation of the workplace
+and therefore this directive will habe impact on our future. Software
+patents lead to a monopolisation of knowledge and are further unnessary
+since Software is already being protected by copyright and adequate
+informal measures of protection (secrecy of the code etc.).
+
+## [MEPs](MEPs "wikilink")
+
+-   [Social Democrats -
+    PSE](http://wwwdb.europarl.eu.int/ep6/owa/p_meps.short_list?ilg=DE&ictry=&ipolgrp=PSE&iorig= "wikilink")
+-   [Green
+    Party](http://wwwdb.europarl.eu.int/ep6/owa/p_meps.short_list?ilg=DE&ictry=&ipolgrp=Verts/ALE&iorig= "wikilink")

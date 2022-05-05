@@ -1,0 +1,57 @@
+1.  1.  -\*- dok: [MepsDb](MepsDb "wikilink"); lang: en; coding:
+        iso-8859-1; mode: fundamental; -\*-
+
+# Database of Members of the European Parliament at FFII.org {#database_of_members_of_the_european_parliament_at_ffii.org}
+
+\--\> \[ [ mlht db](MlhtDbEn "wikilink") \| [ epat
+db](EpatDbEn "wikilink") \| [ amend db](AmendDbEn "wikilink") \| [
+aktiv](AktivEn "wikilink") \| [
+verbdefs.txt](MlhtDbVerbdefsEn "wikilink") \| [
+computing](PolisEn "wikilink") \| [ genba](GenbaEn "wikilink") \| [
+Project News](FfiiprojNewsEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+The FFII has is maintaining a database of members of the European
+Parliament. Here we document the structure of this database, so as to
+facilitate its maintenance.
+
+## News & Chronology {#news_chronology}
+
+-   2004-11-01 phm creates this page in an effort to document the
+    database structure a bit better so as to facilitate integration of
+    the new data
+-   2004-08-00 amacfie creates new set of data for newly elected
+    parliament
+-   2003-00-00 the database is intensively used in the My MEP
+    application of [ aktiv](AktivEn "wikilink")
+-   2002-00-00 created on basis of a script by Chema from CALIU which
+    harvested data from the EP website,
+
+## Getting started {#getting_started}
+
+As with other databases on FFII, you can most conveniently access them
+if you have a ssh account with needed access rights on the database. For
+rights on \'meps\', you may want to contact mepdb-help at ffii org.
+
+Assuming you have a user account named \'jonas\', a typical command for
+accessing through an ssh tunnel might be:
+
+`$ ssh -p 50022 -L 3333:ffii.org:5432 jonas@ffii.org`
+
+See ssh documentation for more details. You would then, in another
+session on your home machine which has the postgres client \'psql\'
+installed, enter something like
+
+`$ psql -d meps -h localhost -p 3333`
+
+For other postgres clients (e.g. from within Perl or Emacs) the
+invocation is similar: you mainly substitute 3333 (or some other
+arbitrary port that happens to be available for use on your machine) for
+the normal dbport number which usually is 5432.
+
+## Outline
+
+-   Some level of description of the syntax can be found in
+    -   -   genba:/var/www/ffii/verein/verbdefs.txt
+        -   <http://www.ffii.org/assoc/knecht/meps/>

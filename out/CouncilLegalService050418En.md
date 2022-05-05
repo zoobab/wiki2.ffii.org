@@ -1,0 +1,531 @@
+# Entrevue avec le Service Juridique du Conseil {#entrevue_avec_le_service_juridique_du_conseil}
+
+------------------------------------------------------------------------
+
+<http://media.ffii.org/Council050418/CouncilLegalServiceInterview.ogg>
+
+------------------------------------------------------------------------
+
+**BH**: J\'avais une première question qui n\'etait pas tres claire dans
+les \...
+
+**LS**: Allons y, clarifions!
+
+**BH**: Concernant l\'agenda
+
+**LS**: Oui
+
+**BH**: Donc en fait, la fois passee, enfin le premiere fois ou ca ete
+mis a l\'order du jour du Conseil, donc le 21 decembre, lorsque le
+membre polonais l\'a retire de l\'agenda pour pouvoir faire une
+declaration
+
+**LS**: Ah pour pouvoir etre inscris en point A. et la seule operation
+qui reste a faire, c\'est la traduction, c\'est la concordance
+linguistique, ca a pris du temps c\'est parce qu\'on avait travaille sur
+le texte dans les 11 langues et il a fallu le traduire vers les 20
+langues donc tout ca. Et ca ete en effet inscris a l\'ordre du jour, et
+la delegation polonaise a demande a ce que ce soit retire de l\'ordre du
+jour parce qu\'elle souhaitait faire un declaration.
+
+**LS**: Elle souhait preparer une declaration sa declaration n\'etait
+pas prete. En faire une, ca allait apres, oui.
+
+**BH**: Enfin ce qui s\'est passe, j\'ai suivi de maniere tres attentive
+\... Le vendredi l\'agenda n\'etait pas encore publie, le samedi non
+plus, le dimanche non plus, et puis le matin a 8h35 ca a ete mis en
+ligne, donc l\'agenda a ete publie a ce moment la.
+
+**LS**: Oui, enfin, dans l\'agenda il y a deux parties
+
+**BH**: Il y a l\'agenda provisionnel
+
+**LS**: Oui, il y a l\'agenda provisionnel, et souvent, dans cet agenda
+provisionnel il y a pas tous les points A, parce que les points B
+ceux-la sont inscris 14 jours a l\'avance etc, et les points A ils sont
+inscris quand ils viennent, cad quand il y a un texte pret on l\'inscris
+a ce moment-la, et si une delegation, comme ce n\'est pas inscris dans
+les 14 jours, demande expressement le retrait, alors on le retire.
+
+**BH**: OK
+
+**LS**: C\'est ce qui s\'est passe
+
+**BH**: J\'ai jete un oeil aux regles de procedure et c\'est pas clair,
+est-ce que vous pouvez m\'indiquer ou est-ce que comment ca se passe
+si\...
+
+**LS**: C\'est la presidence qui prepare l\'ordre du jour, elle mets ce
+qu\'elle veut a l\'ordre du jour, mais les points qui sont mis a
+l\'ordre du jour 14 jours avant, si c\'est bien 14 jours je pense le
+delai, prevu dans le reglement interieur, ceux-la ne peuvent plus etre
+retire de l\'ordre du jour qu\'avec l\'accord de toutes les delegations.
+Sinon ca serait tres simple qu\'un delegation demande 14 jours avant
+qu\'on l\'inscrive, et puis apres que la Presidence le supprime. Donc
+les points qui sont inscris 14 jours avant ont une garantie d\'etre
+necessairement au Conseil, a moins que l\'unanimite des delagations ne
+veuillent les retirer. Les autres points doivent etre adoptes par le
+Conseil au moment ou il se reunit et ou il adopte son ordre du jour, ils
+doivent etre adoptes par le Conseil a la majorite. Il adopte son ordre
+du jour. La liste des points A c\'est generalement le deuxieme point de
+l\'ordre du jour.
+
+**BH**: Dans les regles de procedure, ou est-ce que c\'est marque cette
+difference entre les points A et les points B?
+
+**LS**: Non, ce n\'est pas entre les points A et les points B, a ce
+stade, il y a une difference entre les points A et les points B, mais
+c\'est pas entre les points A et les points B, c\'est entre les points
+inscris 14 jours avant, voila au moins 14 jours avant c\'est le 3.1, et
+les points qui sont inscris apres. Et pour les points qui sont inscris
+apres, il faut l\'accord unanime pour les inscrire a l\'ordre du jour
+parce qu\'on a pas respecte c\'est le 7: l\'unanimite du Conseil est
+inscrite pour l\'inscription a l\'ordre du jour d\'un autre point que
+ceux qui figurent dans l\'ordre du jour provisoire. Les points inscris
+peuvent etre mis. Donc vous pouvez inscrire un point jusqu\'au dernier
+moment si tous les membres du Conseil sont d\'accord pour que ce point
+passe.
+
+**BH**: Il y a des rumeurs concernant le fait que les documents doivent
+etre transmis aux delegations concernant le point.
+
+**LS**: Ca c\'est pas exact egalement, parce que le 2 dit: l\'ordre du
+jour comprends les points pour lesquels la demande d\'inscription
+presentee par un membre du Conseil ou par la Commission et le cas
+echeant la documentation y afferant sont parvenus au secretariat
+general. Donc le delais de 16 jours. Le delai c\'est les points pour
+lesquels la demande d\'inscription presentee par un membre du Conseil ou
+par la Commission, mais pas les demandes d\'inscriptions presentes par
+la Presidence. Ca veut dire que si un etat membre vous demande
+d\'inscrire un point a l\'ordre du jour il doit vous envoyer la
+documentation au moins 16 jours avant, a moins que si encore personne ne
+proteste. Donc c\'est ca.
+
+Souvent dans l\'agenda prévisionnel il n\'y a pas tous les points A.
+
+Est-ce que vous pouvez m\'indiquer comment ca se passe.
+
+C\'est la presidence qui prepare l\'agenda donc elle met ce qu\'elle
+veut à l\'ordre du jour, mais ces points qui sont inscrits 14 jours
+avant ne peuvent plus être retirés à moins que l\'unanimité des
+délégations ne veuillent les retirer. Les autres points doivent etre
+
+Dans les regles de procedures ou est-ce ecrit ?
+
+Non c\'est pas entre les pts A et les pts B. C\'est entre les pts écrits
+14 j avant les points qui sont inscrits apres. Vous pouvez inscrire un
+pt jusqu\'au dernier moment si tous les membres du conseil sont
+d\'accord.
+
+L\'odj comprend les points \... Le délai ne s\'applique pas aux demandes
+d\'inscriptions présentées par la présidence. Si la presidence a
+présenté au Coreper son propre odj provisoire cette regle ne s\'applique
+pas.
+
+Un membre du conseil peut toujours demander qu\'un pt A soit passe en pt
+B ou reporté et dans ce cas il peut y avoir un vote et le conseil decide
+à la majorité.
+
+Dans le cas ou une prise de position est susceptible d\'entrainer un
+nouveau debat \.... La nous sommes au coeur de notre probleme.
+
+Donc la presidence peut changer l\'agenda au dernier moment ou le jour
+meme. On ne peut pas contraindre un etat membre de voter ou d\'examiner
+un point si il n\'a pas ete averti 14 jours avant.
+
+Dans le cas de la directive swpat est-ce que le point a ete inscrit 14 j
+?
+
+Non je ne crois pas. On attendait le feu vert de la Pologne sur sa
+declaration.
+
+1ere question : la presidence a le droit de ne pas mettre 14 j sous
+couvert de l\'unanimite.
+
+C\'est a dire que personne n\'a demandé. Le point a été inscrit, on a
+adopté l\'ordre du jour et personne n\'a dit \"je ne veux pas que ce
+point figure à l\'ordre du jour\".
+
+Question 2 : est-ce qu\'un membre a demande a ce qu\'il soit enleve de
+la liste des pts A.
+
+Je vous ai repondu, non.
+
+Il ne faut pas mentir sur ce point : il y a eu des discussions de
+couloir. La presidence a discuté : ce serait mis en point B il y aurait
+eu un vote et il y une majorite.
+
+La Pologne a voté pour en point A. Ils auraient vote pour quand meme.
+Politiquement il s\'etaient engages au moment ou il avaient vote le 18
+mai et ils ne pouvaient pas revenir sur la parole donnée.
+
+Lorsqu\'on a fait le 1er tour de table c\'etait sur le texte. La Pologne
+a dit \" je m\'abstiens\". Sur le 1er tour de table j\'ai regarde le
+debat. Ensuite la presidence a dit, voila, nouveau texte, certains pays
+ont dit \"je suis pas d\'accord\" et la Pologne n\'a rien dit, elle n\'a
+pas leve la main pour dire je suis contre au moment ou on n\'a dit
+qu\'on a une majorite qualifiée. C\'est une constatation qui n\'a pas
+ete contestee.
+
+Ce pb n\'a eclate qu\'apres en Pologne. Ils se sont rendu compte qu\'ils
+avaient vote pour. Lors du dernier vote elle aurait pu voter contre,
+simplement politiquement \...
+
+Dans le cas ou une delegation aurait ce probleme la, ce qui est vote est
+vote. une fois que le vote est acte. Il y a une possibilite de revenir
+sur une vote, car celui qui a une valeur juridique c\'est apres.
+
+Nous avons adopte cette directive pour des raisons de procedure. Je
+pense qu\'il voulait exprimer qu\'il voulait que la procedure continue,
+ou alors il voulait dire que c\'est un vote purement procedural et que
+le vrai vote avait eu lieu avant.
+
+C\'est quand meme un argument qui a convaincu le representant Danois. Et
+si on demande un pt B qu\'est ce qui se passe : ou vous avez une
+majorite au conseil qui refuse le point B, il reste en pt A.
+
+Il y a une unanimite pour qu\'il soit a l\'odj, et elle est
+incontestable car tt le monde savait depuis 8 mois qu\'il allait etre a
+l\'odj. Et si on voulait le retirer ou le mettre en pt B, il fallait une
+majorite (simple) 13 sur 25.
+
+Personne n\'a leve le doigt, le Danois, le Portugal et un 3eme peut
+etre.
+
+regle 3.8 : si un membre du conseil le demande, il y a pas de condition
+là. Le fait d\'avoir melange deux decision. A partir du moment ou
+personne n\'a dit enlevez moi ce point de l\'ordre du jour, il y a
+unanimite pour le garder. Il aurait pu etre classe en point B.
+
+Si on imagine que la delegation Danois ait demande un pt B. C\'aurait
+ete possible de le demander : c\'aurait ete un vote ou le Danemark
+aurait perdu. Et meme si le Danemark avait gagne il n\'etait plus
+possible de reouvrir le texte.
+
+Quand la regle de majorite n\'est pas clairement exprimee c\'est la
+majorite des Etats membres.
+
+La note des gouvernements Bulgares et Roumains comme quoi leurs delais
+etaient raccourcis. Les deux n\'ont rien dit. On aurait pu faire un
+reunion avant et on aurait dit on verra au moment de l\'elargissement ce
+qu\'on pourra faire pour vous.
+
+Le pb s\'est que les parlements sont un peu ecartes des processus de
+decision, donc\... Les parlements se sont majoritairement prononces
+apres le 18 mai.
+
+C\'est leur faute ou en tout cas la faute de leurs gouvernements. La
+plupart des etats membres ne consultent pas leur Parlement. Nous au
+conseil, si les representants representent leurs etats ils doivent
+representer leur parlement. Ce reproche il faut l\'adresser aux etats.
+
+On peut aller jusqu\'au 4 novembre. Ca depend si c\'est possible de
+trouver une accord avec le parlement, sinon il vaut mieux aller le plus
+vite possible en consultation. La commission doit se prononcer, c\'est a
+dire des
+
+Dans l\'unanimite les absentions n\'empechent pas l\'unanimite. Il
+suffit qu\'il y en ait un qui vote et que tous les autres
+s\'abstiennent.
+
+La commission dit \"je ne suis pas d\'accord avec cet amendement\"
+
+Le conseil va voter en bloc sur le texte : est-ce qu\'on reprend tous
+les amendements du parlement un bloc. S\'il dit non a un, ca doit aller
+en conciliation.
+
+Si la commission est contre un amendement on va en conciliation. C\'est
+6 semaines apres le vote du conseil.
+
+Il est pas certain que la commission ait le droit de retirer une
+proposition. Elle a le droit de modifier une proposition. Le droit de
+retirer une proposition n\'est pas certain du tout, ca n\'a jamais ete
+tranche juridiquement. A partir du moment ou il y a une proposition
+commune c\'est encore moins certain. Les retraits sont rarissimes et
+generalement interviennent avec l\'accord de tout le monde.
+
+La commission peut pense ce qu\'elle veut (qu\'elle peut retirer) mais
+c\'est largement controverse.
+
+Il y a un pb sur la date de la 2nde lecture au parlement. Des que le
+parlement a recu, le delai commence a courir. Le parlement pretend
+qu\'il faut que ce soit annonce, ce qui peut entrainer des decalages
+importants. Le commission envoie les propositions pendant la seance,
+pour que le parlement puisse l\'annoncer (ce qu\'il n\'a pas fait).
+
+Nous on fait toujours attention, on discute avec eux de la meilleure
+date pour envoyer. On pourrait envoyer plein de choses en juin et
+beaucoup de choses seraient adoptees par le silence du parlement.
+
+Le pb a ete regle.
+
+Sur l\'article \"sauf si le conseil en decide autrement\" D\'apres
+l\'interpretation qu\'on a \...
+
+Aussi dans le discours de la presidence on a l\'impression que c\'est la
+presidence qui \...
+
+La question de \"si on reouvre\" quelle est la question a laquelle il
+faut obtenir une majorite simple. Faut-il 13 membres pour le pt B ou
+contre le pt B. Moi je demanderais, \"est-ce qu\'il y a une majorite qui
+soutient la position Danoise ?\".
+
+Les 3 delegations n\'ont pas demande, elle ont regrette que ce point ne
+puisse pas faire l\'objet d\'un nouveau debat. Elles aurait du dire \"je
+demande que ce point \... \" elle ont dit \" il aurait ete bien que \...
+\" .
+
+C\'est un peu stupide. Ils pouvaient attendre un mois
+
+Ca pouvait plus bouger puisque ca avait deja ete vote. Legalement ca
+aurait pu bouger, mais pendant des mois les gens n\'ont pas discute
+entre eux.
+
+Si le bundestag n\'est pas d\'accord ils n\'ont qu\'a renverser le
+Ministre. C\'est le gouvernement qui est le porte parole de l\'etat.
+
+La presidence a la pologne (hors reunion) : C\'est une position commune,
+il va y avoir des amendements, c\'est pas le point final, ca permet
+d\'avancer et d\'avoir enfin une position commune, soumise au parlement
+avec des amendements clairs.
+
+OK
+
+The outcome of voting must be indicated by visual means. Effectivement
+c\'est pas fait. On devrait avoir un panneau qui affichera les
+resultats. Pour l\'instant ca n\'existe pas. Il faut faire reactiver le
+dossier.
+
+La presidence invite a voter sur les autres points de la liste . CA veut
+dire qu\'ils ont vote sur notre directive avant.
+
+Normalement la liste des points A est votee en bloc. Mais ca aurait du
+etre coupé avant. Pour les points legislatifs c\'est public, pour les
+autres points c\'est pas public. La presidence demande pour voter sur
+les autres pts A et personne ne bronche donc ca veut dire qu\'ils sont
+acceptes (les votes tels qu\'ils sont connus sont publies dans la note).
+
+Il ressortait de l\'intervention de la presidence que c\'etait accepte.
+La presidence n\'a pas appele a voter sur ce point. Les positions sont
+fixees a l\'avance par l\'accord politique. C\'etait deja acquis dans la
+note point A.
+
+Vous etes tuojours a la merce des presidences. La je dois dire que lui
+il a improvise un truc sans ses papier.
+
+Pendant la deliberation publique il y a eu un vide pendant 2 minutes. Ca
+continue apres.
+
+J\'avais 2 personnes qui enregistraient le son, une l\'original et
+l\'autre la traduction anglaise. Au niveau du temps il y a 1mn26 ou
+1mn27.
+
+La presidence dit \"j\'invite le conseil a\" Mr Brinkhorst le coupe et
+dir \"\... I agree with my colleages\". Apres 1mn30 ca revient et on
+voit Mr. Krieke qui dit \"oui nous sommes au courant de ces pays et nous
+allons en prendre note\".
+
+Le pb c\'est qu\'on n\'a pas l\'enregistrement original de Mr.
+Brinkhorst. Il parlait dans le cadre de la deliberation publique.
+
+Le pb c\'est qu\'il avait des comptes a rendre a son parlement. En 1mn30
+il n\'a pas pu tout lire de sa position ecrite.
+
+Le lobby des petits producteurs de software a ete actif trop tardif. Au
+lieu d\'etre actif au moment ou le texte a ete adopte politiquement il
+n\'ont pas ete actifs.
+
+Le fait que ce soit coupe par un technicien\... Generalement c\'est le
+secretariat ou le president qui dit c\'est termine on coupe maintenant.
+
+J\'ai vu l\'inverse aussi : des debats extremement restreints qui ont
+ete diffuses partout.
+
+Le pb qui se pose c\'est quand les delegations ne sont pas disciplinees.
+Quand vous croyez qu\'on a fini de parler sur un point et que quelqu\'un
+reprend la parole sur ce point.
+
+Quand toutes les deliberations seront publiques on n\'aura plus ce
+probleme.
+
+Ce qui serait beaucoup plus simple serait d\'organiser tout ce qui est
+public qui se suive. Comme ca on ferait 2 h de transmission publique
+ensuite on fait une pause et on coupe.
+
+Pour en revenir a la question du technicien fou : qu\'est ce qui se
+passe ?
+
+Comme c\'est pas une condition de validite ca n\'invalide pas le debat
+qui continue. D\'autant plus que je ne sais pas si on n\'enregistre pas
+normalement. On ne fait pas d\'enregistrement. Uniquement pour nous pour
+faire les comptes rendus. On les detruits parce qu\'on n\'a pas le droit
+d\'en garder. Il n\'y a pas d\'archive.
+
+Le conseil avait modifie ses regles de procedures pour supprimer la
+transcriptions des deliberations publiques. Les debats ont ete pendant
+des annees enregistres et faisaient l\'objet d\'un debobinage (tapes par
+secretaires).
+
+J\'ai eu des debats publics. Je ne sais pas ce qu\'il font avec les
+videos des debats publics.
+
+Pour faire des cours j\'ai pu extraire des premiers conseils publics un
+certain nombre d\'elements.
+
+Au parlement Wallon il y a des boutons.
+
+Ici on vote pas comme ca. Si une delegation demande on fait un tour de
+table.
+
+Une personne qui etait dans l\'audience est-ce qu\'elle peut se plaindre
+?
+
+Oui mais ca ne remet pas en cause la validite.
+
+Quelle est la demarche ?
+
+Vous ecrivez une lettre au secretaire general. Il vous repondra et il
+engueulera les responsables. Le technicien ne sera pas fou deux fois si
+on se plaint.
+
+Au cas ou il reapparait ?
+
+Si il s\'amusait a faire ca 2 fois il aurait de serieux problemes.
+
+Ce qui est quand meme curieux c\'est qu\'il y a une salle d\'ecoute avec
+un ecran ou on voit tout ce qui se passe dans la salle. Celui la n\'est
+pas enregistre.
+
+Qu\'est ce qui se passe dans le cas ou un etat membre ne veut pas signer
+le PV ?
+
+Rien. C\'est le secretaire general qui signe le PV. Le PV est etabli et
+soumis pour approbation au conseil ou au coreper (majorite simple). Tout
+etat membre peut dire \"mon ministre a dit cela, et je voudrais qu\'on
+l\'ecrive\" mais generalement ca ne se fait pas car dans le PV il y a
+simplement la decision prise.
+
+La PV peut il etre envoye au parlement ?
+
+L\'acte est adopte quand le president a constate sans etre contredit
+qu\'il y a une majorite qualifiee.
+
+Meme si on ne pouvait pas aprouver le PV, il suffirait du temoignage
+
+Dans le cas de la pologne et du changement de poids de la majorite
+qualifiee.
+
+Le fait qu\'il pouvaient bloquer et qu\'ils pouvaient pas bloquer ?
+
+Ils avaient la possibilte de dir meme en point A, \"je veux pas\". Ils
+pouvaient tres bien bloquer le systeme. Le fait de voter en point A ca
+veut pas dire qu\'on vote pas, ca veut dire qu\'on approuve une feuille
+ou les votes sont ecrits. La pologne si elle avait voulu refuser, elle
+pouvait refuser. C\'est son droit avec le cout politique que ca aurait
+comporte pour elle mais c\'est son droit.
+
+C\'etait les declarations de
+
+La France prend la parole : blabla bla je voudrais annexer \....
+
+On ne l\'a pas encore recu.
+
+La Belgique a declare autre chose.
+
+Combien de directives ont eu plus de declaration attachees. Directive
+sur la television sans frontieres, je crois qu\'elle en a une
+quarantaine. Des declarations attachees au texte final, c\'etait pas une
+position commune a l\'epoque.
+
+C\'est pas un cas particulier (il y en a 7 ou 8). C\'est pas le cas du
+siecle. Non, c\'est pas extraordinaire. Il suffirait de rechercher les
+positions communes pour voir. Il y a beaucoup de declarations ou les
+etats interpretent en leur faveur. On le note et on s\'en moque.
+
+Les etats vous pouvez pas les empecher de parler entre eux. Sur le pb
+qui vous preoccupe les Danois et les deux autres sont alles voir la
+presidences. Il y a des nego bilaterales (je te soutiens sur tel point,
+tu me soutiens sur tel autre).
+
+J\'ai appele ca un theatre. Sur ce point c\'etait rien, ca n\'avait
+aucune importance, c\'etait un point A comme ca. Au moment de
+l\'adoption de l\'accord politique.
+
+Si la presidence a parle de precedent institutionnel.
+
+Il serait impossible au conseil de fonctionner si quand on adopte un
+accord politique on n\'etait pas sur.
+
+C\'est au moment de l\'accord politique qu\'il faut intervenir.
+
+Je crois que c\'est a peu pres tout.
+
+Il y a tjs ce point noir sur la declaration publique.
+
+Si jamais le conseil ne suit pas ses regles. Ca depend du type de regle.
+Un etat peut demander l\'annulation. Un particulier ne peut demander
+l\'annulation que s\'il s\'agit d\'une regle destinee a proteger le
+particulier.
+
+Vous pouvez peut etre dire que la publicite des debats est une regle
+destinee a protegerle public.
+
+On ne sait toujours pas ce que le comite du parlement danois a donne
+comme mandat.
+
+Si on ne pas assurer \... on verra devant la cour, je plaiderai le
+contraire bien entendu. Je crois que la cour verifierait si la decision
+etait reellement prise. Ca n\'entache pas la validite de la decision
+elle meme. La position du ministre hollandais etait quand meme tres
+limite. La position du parlement etait
+
+On ne peut pas attaquer une position commune, on ne peut attaquer qu\'un
+acte definitif. Ca c\'est sur a 100%. Il pourrait l\'attaquer en disant
+\"dans le cadre de l\'elaboration au moment de la position commune\...\"
+
+Et dans le cadre de la conciliation, s\'il n\'y a pas de solution c\'est
+mort.
+
+25 membres du conseil et 25 parlementaires. Il faut 26 parlementaires
+d\'un cote et la majorite des membres du conseil de l\'autre. S\'il y a
+un accord a la commission de conciliation.
+
+Les rares cas ou il y a eu un echec apres conciliation sont des cas ou
+le parlement a desavoue ses representants.
+
+C\'est la majorite absolue des votes, et pas la majorite des membres.
+
+J\'ai un ami hongrois qui s\'est plaint de ne pas avoir la traduction de
+la propal originelle en hongrois alors j\'ai demande un peu au
+parlement. Il y a un groupe Nee? qui est responsable de regler des
+points
+
+On ne traduit pas toutes les propositions anterieures a
+l\'elargissement.
+
+Le conseil serait responsable pour traduire \...
+
+Les delegations le 18 mai ont travaille sur les versions dans les
+anciennes langues. Tout ce qui est dans le circuit va etre traduit
+progressivement.
+
+On s\'est pas arrete 2 mois apres l\'elargissement. Ils etaient la
+depuis 6 mois comme observateurs. Pour eux ces textes n\'etaient pas
+nouveaux.
+
+Concernant le traite d\'amsterdam: la commission doit donner une copie
+des projets legislatifs pour savoir si le parlement belge l\'avait bien
+recu. Le parlement polonais l\'a jamais recu.
+
+Non puisqu\'elle a ete envoyee avant. Mais encore, ca coutait rien au
+gouvernement polonais de la transmettre au parlement polonais. Apres le
+gouvernement pouvait combler le vide. Rien ne l\'empêchement. Ou alors
+les gouvernements Hongrois et Polonais ne sont pas tres serieux.
+
+Je connais des parlementaires hongrois assez ages qui ne parlent pas du
+tout anglais.
+
+Il y a eu des debats notamment en tchequie il y a 2 semaines, et les
+parlementaires tcheques n\'ont pas la proposition de la commission,
+n\'ont pas la proposition du parlement et ils ont juste la position
+commune.

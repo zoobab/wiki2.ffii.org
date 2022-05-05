@@ -1,0 +1,52 @@
+# Urgent Alerts Sent {#urgent_alerts_sent}
+
+\--\> [ Urgent Alert Contact Info for
+Sweden]([LtrConsRecvSe0406Sv "wikilink") \| [ Urgent
+Appeal](LtrConsSend0406En "wikilink") \| [ Postcard
+Action](Postkard0407En "wikilink")\]
+
+------------------------------------------------------------------------
+
+Christian Engström and Erik Josefsson also spent a day doing phone
+outreach to identify appropriate contacts.
+
+To complete, click on \"Edit this page\" at the bottom of this page\...
+
+\|\| \<\<TH \|\| \<\<TH \|\| \<\<TH \|\| \<\<TH \|\| \<\<TH \|\| Sender
+TH Destination TH Mode (letter/phone/fax/email/web/etc) TH Date TH
+Comment (Response received/confirmation by phone/etc.) TH \| Jonas
+Bosson/Bengt Kleberg \| Leif Pagrotsky \| Letter with attachments \|
+2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Thomas Bodström \|
+Letter with attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt
+Kleberg \| Thomas Östros \| Letter with attachments \| 2004-08-20 \| \|
+\| Jonas Bosson/Bengt Kleberg \| Marita Ulvskog \| Letter with
+attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Ulrica
+Messing \| Letter with attachments \| 2004-08-20 \| \| \| Jonas
+Bosson/Bengt Kleberg \| Gustav Fridolin \| Letter with attachments \|
+2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Tasso Stafilidis \|
+Letter with attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt
+Kleberg \| Viviann Gerdin \| Letter with attachments \| 2004-08-20 \| \|
+\| Jonas Bosson/Bengt Kleberg \| Mats Odell \| Letter with attachments
+\| 2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Leif Pagrotsky \|
+Letter with attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt
+Kleberg \| Yvonne Andersson \| Letter with attachments \| 2004-08-20 \|
+\| \| Jonas Bosson/Bengt Kleberg \| Johnny Gylling \| Letter with
+attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Maria
+Larsson \| Letter with attachments \| 2004-08-20 \| \| \| Jonas
+Bosson/Bengt Kleberg \| Holger Gustafsson \| Letter with attachments \|
+2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Daniel Liljeberg \|
+Letter with attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt
+Kleberg \| Anna Sundelius \| Letter with attachments \| 2004-08-20 \| \|
+\| Jonas Bosson/Bengt Kleberg \| Inger René \| Letter with attachments
+\| 2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Henrik von Sydow \|
+Letter with attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt
+Kleberg \| Bertil Kjellberg \| Letter with attachments \| 2004-08-20 \|
+\| \| Jonas Bosson/Bengt Kleberg \| Per Bill \| Letter with attachments
+\| 2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Martin Andreasson
+\| Letter with attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt
+Kleberg \| Eva Flyborg \| Letter with attachments \| 2004-08-20 \| \| \|
+Jonas Bosson/Bengt Kleberg \| Hillevi Larsson \| Letter with attachments
+\| 2004-08-20 \| \| \| Jonas Bosson/Bengt Kleberg \| Marianne Carlström
+\| Letter with attachments \| 2004-08-20 \| \| \| Jonas Bosson/Bengt
+Kleberg \| Johan Löfstrand \| Letter with attachments \| 2004-08-20 \|
+\|

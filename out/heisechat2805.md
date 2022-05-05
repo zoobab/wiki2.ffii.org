@@ -1,0 +1,4 @@
+<http://www.heise.de/chat/> \"Am 28. Mai lädt heise online von 15 bis 16
+Uhr zum Online-Chat zu diesem Thema ein. Die Teilnehmer sind
+voraussichtlich Brigitte Zypries, Bundesministerin der Justiz und
+Christian Persson, Chefredakteur c\'t und heise online.\"

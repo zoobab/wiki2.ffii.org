@@ -1,0 +1,39 @@
+`Kann man Software patentieren?`\
+`Patentanwälte erläutern an der TU, wie computerimplementierte Erfindungen`\
+`geschützt werden`
+
+`"Computerimplementierte Erfindungen und Patente" ist am 07. Juli 2005 das`\
+` Thema einer kostenfreien Informationsveranstaltung an der Technischen`\
+` Universität Chemnitz.  Sie beginnt um 16 Uhr im "Alten Heizhaus", Straße der`\
+` Nationen 62 (Innenhof). Interessenten erfahren, was eine`\
+` computerimplementierte Erfindung im Vergleich zur Software ist. Die`\
+` EU-Richtlinie zur Patentierbarkeit`\
+`computerimplementierter Erfindungen und ihre Resonanz in Deutschland und`\
+` Europa steht ebenfalls im Mittelpunkt der Veranstaltung. Zudem wird die`\
+`Patenterteilungspraxis am Europäischen Patentamt anhand von Beispielen`\
+` erläutert und die Rechtsprechung in Deutschland rund um derartige Patente`\
+` beleuchtet. Abschließend unternehmen die Gäste einen fachlichen Exkurs in`\
+` die USA.`
+
+`Es referieren Patentanwältin Dr. Carmen Steiniger, Chemnitz, und`\
+`Patentanwaltskandidat Michael Heise, München, von der Anwaltssozietät`\
+`GRÜNECKER, KINKELDEY, STOCKMAIR & SCHWANHÄUSSER, Chemnitz -`\
+`München - Berlin - Köln - Alicante. Die Veranstaltung wird organisiert in`\
+` Kooperation mit der Regionalgruppe der Gesellschaft für Informatik e. V.`\
+` (Sprecher: Prof. Dr. Wolfram Hardt).`
+
+`Weitere Informationen erteilt Dr. Rainer Kittig, Leiter des Bereiches`\
+`Wissenschaftliche Dienste der TU Chemnitz, Telefon (03 71) 5 31 - 17 06.`
+
+-   -   
+
+`     Technische Universität Chemnitz`\
+`     Pressestelle`\
+`     Dipl.-Ing. Mario Steinebach`\
+`     Straße der Nationen 62, Raum 185`\
+`     D-09107 Chemnitz`\
+`     Phone ++49/371/531-1658, -1421, -1536, -1424`\
+`     Fax     ++49/371/531-1651`\
+`     pressestelle BEI tu-chemnitz.de`\
+`     www.tu-chemnitz.de     Press-Room der TU Chemnitz:`\
+`     www.tu-chemnitz.de/tu/presse/`

@@ -1,0 +1,1209 @@
+# Transcript of the seminar organised by the EPO at the European Parliament {#transcript_of_the_seminar_organised_by_the_epo_at_the_european_parliament}
+
+------------------------------------------------------------------------
+
+## 9757-seminar.ogg
+
+04-Apr-2005 00:22 4.7M
+
+Very good, ladies and gentleman, so thank you for being hear. Sorry for
+being late but we have been retarded during the seminar. I am very happy
+to be with you today. I will give you some remarks. After that I will be
+happy to hear some questions from you and I will answer part of the
+questions.
+
+And we have also a specialist M. Yannis Skulikaris. And M. Gert Kolle
+who will be ready to answer your questions too.
+
+Nevertheless, I would like to address some specific aspects regarding
+the place of the EPO in the patent policy process.
+
+I thank very much M. Giles Chichester for sponsoring this Information
+Day at the European Parliament.
+
+And as a former member of the European Parliament, I would like to
+strengthen the relationship between the European Patent Office and the
+European institutions
+
+I thank you M too for giving us the opportunity to address the issue of
+the patent policy at a period which is very hectic. After, we are moving
+to the CII directive
+
+I have already introduced my colleagues
+
+M. Gert Kolle is responsible for International Legal Affairs and Patent
+Law at the EPO. He is one of the architects of the success of the
+European patent system, if I may say so.
+
+M. Yannis Skulikaris is the manager of a department in which patent
+applications for computer-implemented inventions are examined.
+
+M. Oswald Schröder is the General Communications Manager of the EPO
+
+I want to present to you who is the European Patent Office and how it
+contributes to the competitiveness and to the innovation process in
+Europe, and what challenges the EPO perceives for the future development
+of the patent system in Europe
+
+I would like to draw your attention to the press packs in which you find
+publications illustrating most of the points addressed here, including
+statistics. I will not bother you with too many figures, but stick to a
+number of key facts.
+
+I also would like to encourage you to visit our information stand in the
+exhibition area at the Spinelli building where you can find more
+information on the points discussed here.
+
+So regarding the relationship between the European Union and the EPO, I
+mean the two organisations, the European Union and the EPO, have a
+similar story.
+
+The EPO was funded in 1977 in the spirit of the European Communities,
+and more or less by the same group of states. 27 member states in the
+European Union, 30 in the EPO.
+
+Following the acquis communautaire, EU membership candidates have to
+apply for membership in the European Patent Organisation. But we have
+our own budget, we are independent from the European Commission. We are
+closely linked to the European policy, mainly in the area of innovation
+and economy and benefits for the citizens.
+
+Today our Organisation counts 30 member states. Practically all EU
+members are also represented in the EPO. The states are united in the
+EPO\'s Administrative Council which is the supervisory board of the
+Office. The European Patent Office is fully accountable to its member
+states in all its activities.
+
+Now we move to the role of the EPO in the innovation process in Europe.
+
+Actually, the patent is one of the major transmission belts for the
+transfer of technology. And the EPO is 6,000 permanent staff, which is
+mainly scientists and engineers, and the European Patent Convention as a
+legal basis.
+
+The EPO support all first its activities the innovation process
+initiated by the EU institutions. So we are two complementary bodies
+
+The EPO will bring legal certainty to the innovation process by granting
+very high quality patents. And the EPO will act a catalyst of the
+innovation process with the help of its information tasks and system.
+
+And you will have a demonstration of our electronic tools to have access
+to the published granted patents upstairs, third floor.
+
+So, all-in-all, the EPO will be involved in the reinforcement of the
+Lisbon agenda after the Kok-report. Because the EPO has a task to manage
+the workflow from idea to invention, from invention to innovation and
+from innovation to the market place
+
+So what do patent do for society?
+
+Patents are the most important transmission belt for the transfer of
+technology and for the innovation policy.
+
+Patents constituted the largest technology data base that make
+technology transparent and inform about technological progress and the
+information which is embedded into patent can give  to new ideas and
+new inventions
+
+I would say that innovation is breeding to innovation
+
+And also, patent by transitory monopoly protect the innovator innovators
+and inventors. And patent patents reward investment into innovative
+solution. And so they secure the return of investment.
+
+The invention costs one.
+
+The development one thousand
+
+The access of the product to the market cost one million euros, or one
+billion sometimes
+
+And patents support the economic growth and employment.
+
+How do patent support the knowledge economy in Europe.
+
+Now, we are in the knowledge economy.
+
+We are lacking and will be lacking of natural resources. So, what is the
+only resource that we have? The only resource that we have is which is
+embedded into knowledge and have a value related to intelligence (and is
+patented).
+
+The EPO supports the aims of the Lisbon strategy
+
+The EPO aims to strengthen its relationship with the EU institutions to
+achieve the Lisbon objectives
+
+The EPO is concerned by the findings of the Kok-Report.
+
+The protection of intellectual property is an essential feature of the
+knowledge economy: Intellectual capital is the resource of the future,
+because as I told you we will be lacking of natural resources.
+
+A well-sorted patent portfolio increases the competitiveness of European
+enterprises and contributes to prosperity and economic growth. Patents
+are really the driving force in the transition to the knowledge economy:
+Between 1996 and 2004, the volume of European patent applications has
+more than doubled! To respond to the needs of the knowledge economy the
+EPO has rendered all 55 million documents in its documentation freely
+accessible for anyone on the Internet -an enormous asset! And this is by
+this way that patents are in a capitalistic process.
+
+In what way do European patents bring legal certainty to the innovation
+process?
+
+The legal certainty resides in the quality of the European patent which
+is based on.
+
+The quality of the patent law: strict criteria of patentability;
+flexibility: EPC can be amended when new laws are introduced.
+
+The quality of the patenting process: European patents are granted on
+the basis of a rigorous examination procedure carried out by expert
+scientists and engineers. And I would say that less than two thirds of
+the applications lead to a European patent.
+
+Most patents are reduced in scope prior to grant.
+
+There are legal remedies against European patents at EPO level: we have
+the opposition and the appeals procedures. Both procedures the legal
+certainty of whether or not a European patent can be granted.
+
+Now I will move to the issue of CII, well here we are.
+
+The EPO has the task to grant patents in all areas of technology. It has
+to apply the provisions of the European Patent Convention in all cases.
+And dealing with computer-implemented inventions we have to implement
+the EPC, and the case law developed by the independent judiciary of the
+EPO which the appeal court. The EPO grants patents for inventions which
+are new, involve an inventive step and are susceptible of industrial
+application. And so to be considered an invention they must have a
+\"technical character\".
+
+Our policy is no patents on pure software, no patents on business
+methods as they do not involve a technical character, no patent on
+algorithms per se.
+
+Computer-implemented inventions are found in nearly all fields of
+technology, ranging from car technology to medical devices, household
+apparatuses to information technology and computers. They are of
+enormous benefit to society. Following the law the EPO has to implement
+invention where theres a new technical effect.
+
+If the law is changed or new law introduced by the legal system of the
+EU, the EPO will adjust its own law accordingly. For example: when the
+Directive for patenting biotechnological inventions was introduced, the
+EPO was the first organisation to implement the new law in its practice.
+
+As the patent grant authority for Europe, the EPO will always apply
+European law. We need it to be simple and clear in order to have it
+implemented by our 3 500 patent examiners.
+
+Let me thank you for your attention.
+
+------------------------------------------------------------------------
+
+8790-seminar.ogg 04-Apr-2005 00:14 4.6M
+
+\[\]
+
+There will be plenty of opportunities to receive papers and information.
+Hear there is also an exhibition stand downstairs where questions can be
+answered as well.
+
+This is meant to be an information seminar fix in with the EPO
+information Day which has been organized on a list of chairman of
+industry committee in the European Parliament
+
+I have been asked simply to chair this session. And I have been asked
+because I presume, because I think there is a great interesting debate
+on Community patent and obviously CII have been a key issue in this
+Parliament and therefore we will be discussion the issue of patents
+
+Of course, as a Parliament, we have no jurisdiction over the EPO. For
+those of you who dont know, the PO was created in 1977. It has granted
+over 600.000 applications for patents. It is the executive arm of the
+EPO which is an intergovernmental body cessed upon the EPC. And its a
+very large organization which has a 6400 staff mostly scientists and
+engineers, and its indeed one of the largest international organization
+in Europe For this reason alone its time we actually got some
+information and address some of the issues concerning the EPO making
+decisions on behalf of Europe
+
+It is as you know the main patent granting authority for 30 countries on
+the base of a single application and as I said it will be the occasion
+to know more about the activities and decisions of the EPO
+
+So the objective of this morning short seminar to try to inform MEP,
+Parliamentary systems, Committee experts that will be hear on the key
+features of the system and what benefits the system can bring to society
+and indeed more importantly for innovation and industry
+
+And I think its very important time for meeting the board of the EPO in
+supporting and boosting Europe competitiveness particularly in the light
+the spring Council that we just have of the 22th March
+
+To review the Lisbon strategy where our Ministers put very clear
+emphasis on knowledge and innovation as one of the key strands of the
+review of the Lisbon strategy
+
+And I am sure we want to see how we can ensure that knowledge and
+innovation to create additional jobs and again we want to ensure
+knowledge is spread not only in the private sector but in the public
+domain as well.
+
+I am also pleased to see on the list because I have no influence on what
+is going to happen today, I am pleased to see theres going to be a
+presentation on CII.
+
+I am going to ask the President of the EPO, Professor Alain Pompidou, to
+give us a first presentation on the European Patent system benefits for
+society.
+
+For those who dont know M. Pompidou, in fact he is very well know in
+this house, he was a MEP I think for ten years and of course served this
+Parliament well when he was hear. And for that reason alone, I think we
+are delighted to have you back.
+
+\--
+
+Ladies and gentlemen,
+
+Thank you for M. to join us. I remember a very memorable meeting in Nice
+a few years ago.
+
+I would say that its a real pleasure to be in my old house hear and to
+come back to the floor where I have my desk somewhere in this place
+
+I see you are a very numerous people we try to have a larger room but I
+must apologize because I see some of you are hear standing up just after
+the holidays.
+
+So thank you for being hear. Its a real pleasure to be hear. My special
+thanks to you Madam and also to and to M. Rubic for giving the
+opportunity to present the organization and also we will have a meeting
+in the ITR committee this afternoon.
+
+But nevertheless we have now to do our homework. I encourage you to
+visit the information centre which is just in the first floor hear
+
+Many points raised in this seminar can be explained by our specialists.
+We are ready to answer your question after the short presentation
+
+And I also draw your attention to our publication and the information
+folders which will be handled to you. So the point addresses are also
+reflected in your information materials and they maybe useful for
+different purposes
+
+So I would begin with the fact that the EPO and the EU have a similar
+story. And actually some key facts about the EPO. I will not bother you
+with statistical details and you will found those in the brochures
+
+So the EPO was funded in the early 1970s in the same spirit of the
+European Communities, and more or less by the same group of states.
+There are 25 member states in the European Union, we are 30 in the EPO.
+
+The political aim was to create a harmonized patent law and practice
+with a view to support the integration process in Europe
+
+Therefore the European patent clearly was assigned a role in the
+internal market.
+
+Following the acquis communautaire, EU membership candidates have to
+apply for membership in the European Patent Organisation. And today the
+EPO counts 30 members states. And practically all EU members are also
+represented in the EPO. The states are united in the EPO\'s
+Administrative Council which is the supervisory organ of the Office.
+
+The European Patent Office is fully accountable to its member states and
+the national courts have to decide of the validity of the European
+patent after granted
+
+So what is the role of the EPO now in the innovation process in Europe?
+
+With its 6,000 permanent staff, and the EPC as a legal basis support all
+first its activities the innovation process initiated by the EU
+institutions and mainly you know all its innovation policy and the
+implementation of the new Lisbon process. And EPO is ready to take its
+own part in the implementation of the Lisbon agenda. So EPO is
+supporting the innovation policy of the EU.
+
+Secondly, the other task of the EPO is to bring legal certainty to the
+innovation process by granting very high quality patents. And the EPO
+will act a catalyst of the innovation process with the help of its
+information tasks and system.
+
+And so the EPO has a role in managing the workflow from the idea to the
+invention, from the invention to innovation and from innovation to the
+market. And I think this is the workflow where the EPO has a key role as
+a transmission belt you know in the all process.
+
+So, what does the EPO is involved to provide the needs of the society?
+
+So I will address now European patent and society.
+
+So patents are the most important transmission belt for the transfer of
+technology and for the transfer of technological knowledge.
+
+Patents constitute the largest technology data base that make technology
+transparent and inform about technological progress and I think the
+information which is embedded in the patent which is accessible through
+Internet free of charge on espacenet is a major asset in order to bring
+new ideas to researchers coming from the published inventions which are
+available free of charge on espacenet.
+
+So patents reward the investment to innovative solution and so they
+secure the return on investment. And so patent is bringing economical
+value to the invention coming from the ideas of the innovators. And also
+patents support the economic growth and employment.
+
+Now how do patent support the knowledge economy in Europe?
+
+The EPO supports the aims of the Lisbon strategy as I told before
+
+The EPO aims to strengthen its relationship with the EU institutions to
+achieve the Lisbon objectives
+
+And I had already many meetings with Commissioners, with directors of
+the Commission and also with my ex-colleagues from the European
+Parliament
+
+The EPO is concerned by the findings of the Kok-Report and we want to
+support all measures that aim at strengthening the Lisbon process mainly
+in the innovation policy and bringing economical value to patent.
+
+So the protection of intellectual property is an essential feature of
+the knowledge economy: Intellectual capital is the resource of the
+future, because as I told you we will be lacking of natural resources.
+So we have to be reliable on the added value, the consequence of which:
+filing a patent, granting a patent for the economical value and for the
+interest of the society.
+
+To give you an example, a well-sorted patent-portfolio increases the
+competitiveness of European enterprises and contributes to prosperity
+and economical growth.
+
+So I think I have been clear enough to tell you that patents are a
+driving force in the transition for the knowledge economy between 1996
+and 200
+
+------------------------------------------------------------------------
+
+## 94240-seminar.ogg {#seminar.ogg_1}
+
+04-Apr-2005 00:18 4.8M
+
+The presentation to the ITRE Committee of the European Parliament given
+by the President of the European Patent Office (EPO), Professor Alain
+Pompidou.
+
+\[\]
+
+A well-sorted patent portfolio increases the competitiveness of European
+enterprises and contributes to prosperity and economic growth. Patents
+are really the driving force in the transition to the knowledge economy:
+Between 1996 and 2004, the volume of European patent applications has
+more than doubled! To respond to the needs of the knowledge economy the
+EPO has rendered all 55 million documents in its documentation freely
+accessible for anyone on the Internet  and this is an enormous asset!
+And this is by this way that patents are in a capitalistic process.
+
+In what way do European patents bring legal certainty to the innovation
+process?
+
+The legal certainty resides in the quality of the European patent which
+is based on
+
+The quality of the patent law: strict criteria of patentability
+(novelty, innovation, industrial application); flexibility: the EPC can
+be amended when new laws are introduced. To give you an example, the
+biotech directive has been completely implemented and enters into force
+by the EPO. That is the quality of the patent law.
+
+Regarding the quality of the patenting process, European patents are
+granted on the basis of a rigorous examination procedure involving three
+examiners and carried out by expert scientists and engineers. And I
+would say that less than two thirds of the applications lead to a
+European patent.
+
+Most patents are reduced in scope prior to grant.
+
+There are also legal remedies against European patents at EPO level: we
+have the opposition and the appeals procedures. Both procedures bring
+the legal certainty of whether or not a European patent can be granted.
+The quality of the innovation process is stimulated by the European
+patent system and the EPO provides the world largest free information
+system on patents. It contains all technical, legal and procedural data
+pertaining to European patents. The data are legally safe and produce
+complete transparency on the patentability of every individual case
+pending before the EPO. They can be inspected by anyone free of charge,
+I repeat.
+
+Concerning the general information system the EPO acts as a catalytic
+engine for the European innovation system. This system is also governed
+by legal certainty and my colleague. And my colleague M. Pilch is going
+to show you in his presentation what is patent information.
+
+In conclusion, I would say that I have been trying to explain to you in
+which way the EPO will continue to concentrate its efforts to promote
+competitiveness and the knowledge economy. We firmly believed that
+European patent can help to achieve some of the goals addressed by the
+Lisbon process and to reinforce a close cooperation between the EU
+institutions and the EPO. This is a key element of our policy in this
+respect.
+
+Let me thank you for your attention.
+
+Well, I think we will go on swiftly to M. Pilch who is going to talk
+about the knowledge system. M. Pilch is Austrian and before joining the
+EPO he worked for the Austrian patent Office.
+
+Thank you.
+
+\--
+
+A presentation on \"The value of Patent Information\" given by Wolfgang
+Pilch, Principal Director, Patent Information (EPO).
+
+Thank you very much. To introduce me, I am the principle director of
+patent information in the EPO. And so most of the time when I introduce
+myself people ask me: What is patent information?
+
+This is normally a two-day introductory record but I have only five
+minutes to show you, to make patent information experts, and I will do
+my best in order to do so.
+
+M. Pompidou has already given you an idea that theres a workflow,
+theres a workflow from the idea up to the market. When I attended my
+first market cause, the question always was: When does the innovation
+process end? When does it end? Most people said: When the product is
+on the market? Wrong answer. When the product is sold. Because you have
+to gain money to restart the circle which I show you hear. Theres a
+circle which goes from research-development over to patenting over to
+introducing the product to the market, selling it, earning money,
+starting the innovation process.
+
+From this circle comes patent-information.
+
+You see, technically knowledge triggers ideas, that is every good
+researcher before it starts to invest the man of his boss should look
+around and should say: Who has already invented the same industry
+
+University tool is the contrary. They say it was not invented hear
+therefore it is not good. They spend much money and they receipt the
+fruit.
+
+Therefore, first step is look into the technically information
+
+What is the best technical information available? In time like this,
+information which is there free of charge. Patent information is there
+free of charge. All the patent information which is used in the EPO to
+check for novelty is available free of charge for the public.
+
+Well come to this a bit later giving you some ideas and figures.
+
+If now a person has some idea that has reason technical status he asks
+himself what can an average expert do in the field as an idea. Then he
+starts his research & development and then he comes to the idea of
+patenting.
+
+He goes to the patent office and now this process is repeated in a
+professional way Its an exercise where there is a comparison between
+the application and the existing technical literature and the result is
+the grant of patent which set the legal basis of what a company is
+allowed to do exclusively. And this information is published once more.
+So the side effect of the patent system is that the technical knowledge
+is increased. And it increases in a enormous speed. Worldwide, more than
+one million documents are published a year which should be taken in
+account when a new research & development project is started
+
+This circle goes all-in-all around. Always every inventor has carried on
+their shoulders older generations.
+
+What is this in figures?
+
+There are 30.600.000 complete patent documents from 33 countries
+available free on Internet.
+
+Every patent document explains the idea up to the intrinsic details.
+Thats why an average expert should be able to do the same thing as the
+inventor. There is nothing like secret patent because if you are honest
+the first thing which pops to your mind when somebody tells you patent
+you think secret. Wrong answer.
+
+Patent means open, every thing which is patented is open, is published,
+is now worldwide and can be accessed by Internet free of charge.
+
+55.000.000 searchable bibliographic records from 73 countries in our
+database also available free of charge for public
+
+39.500.000 records concerning the legal status of 11.000.000 patents of
+44 countries
+
+Because it is very important to know whether a patent is still valid or
+maybe fees were not paid or it has come at the end of its lifetime.
+Because at this time the technical knowledge still is there, its
+available and there are no limits anymore to the validity of the patent
+
+The EPO has a central mission as one of the leading provider of
+technical information and heads to promote a knowledge-based society in
+Europe.
+
+Because our society will not be based on productivity, it will be based
+on knowledge and we will make our contribution to this.
+
+We offer industry tours to avoid lost investment. Do not reinvent
+things. This is one of the biggest dangers in research and development
+that money is spent on things which are already known,.
+
+And if you look on patent information databases, you will find
+practically for everything, even for your wildest dream, for things on
+the moon, for things circling the earth, whatever you will find patent
+for it.
+
+And we do it in a transparent way. You see hear from this exam, that
+every patent application can be seen by Internet by everybody, even
+anonymous.
+
+So, you have not to identify yourself but you can look into the files of
+one of the applications even before granting only the 18 months spirit
+have to be respected.
+
+And all these search material are available free of charge for all the
+citizens of Europe. They can search for this and try to void spending
+unnecessary money for lost investments in research & development.
+
+Thank you very much and I will be very be happy if you come down. We can
+show you example of what I have shown you and give you the real feeling
+that this is a transparent process for everybody in Europe.
+
+Thank you.
+
+\--
+
+There is a lot of information coming up very quickly
+
+Charles, you didnt introduce where you came in, but if you want to say
+a few words just before we go to the next presentation.
+
+\--
+
+Thank you very much. Its very kind to give the floor. I just wanted to
+thank you those who are attending and to this seminar the related events
+to join the EPO in the Parliament today I confess we have quite for
+being as popular
+
+I apologize for those who are standing around the edge but its really
+nice to see you in a full room and I would have preferred a larger room.
+
+And I wanted to thank [McCarthy](McCarthy "wikilink") very much for
+sharing this seminar.
+
+Thank you
+
+\--
+
+Now we have Stefan Steinbrener who is going to do a presentation on the
+patentability of CII which is I said is the peach of the Parliament
+especially since the second reading of M. Rocard report in this area
+
+1986: he joined the EPO 1997: he joined Director of the Technical Board
+of Appeal And now he is the chairman of the Technical Board of Appeal
+
+So we can say we really have an expert hear today
+
+\--
+
+A presentation on \"Patentability of computer-implemented inventions\"
+given by Stefan Steinbrener, Dr. rer. nat., Chairman of Board of Appeal
+3.5.1 and Member of the Enlarged Board of Appeal (EPO).
+
+Good morning ladies and gentlemen,
+
+The Board of Appeal of the EPO also located within the same office are
+in fact independent from the trademark office in his jurisdiction in
+patent granting matters.
+
+Now the contribution \[\]
+
+------------------------------------------------------------------------
+
+## 99904-seminar.ogg {#seminar.ogg_2}
+
+04-Apr-2005 00:25 4.7M
+
+\[\]
+
+The debate on patentability of CII is subject to two main constraints.
+Firstly, to apply the law as it stands and secondly, to underdecide
+issues relevant to the cases on the considerations to so-called (?).
+That means one hand that cases law cannot reach beyond an appropriate
+interpretation of the legal provisions as currently (?). And on the
+other hand for rapid conversion and harmonization enough cases to be
+decided during a given time period are needed.
+
+Despite the issues topic quality, only very recently have European
+Appeals on CII began to fulfil the letter condition. We had during the
+last five year, about twenty cases linked to these problems, just
+roughly the same number we have twenty years before.
+
+Nearly all decisions have been given by boards 3.5.1 although more
+contributions from other boards in other technical fields are to be
+expected due to the dissemination of software and microprocessor
+technology. Current practices in board 3.5.1. have been adopted by other
+boards addressing similar issues. So in that respect European case law
+appears to be harmonized.
+
+After these introductory words, I would like to start with law. Then,
+very briefly, some basic decisions and focus on some basic conclusions
+to be drawn from these decisions
+
+If we look at the EPC, the central article is article 52.
+
+52.1  European patents shall be granted for any inventions which are
+susceptible of industrial application, which are new and which involve
+an inventive step.
+
+Then we have 52.2
+
+52.2 The following in particular shall not be regarded as inventions
+within the meaning of paragraph.
+
+\(a\) discoveries, scientific theories and mathematical methods;
+
+\(b\) aesthetic creations;
+
+\(c\) schemes, rules and methods for performing mental acts, playing
+games or doing business, and programs for computers;
+
+\(d\) presentations of information.
+
+And we have the provisions of article 52.3, which are often forgotten
+
+\(3\) The provisions of paragraph 2 shall exclude patentability of the
+subject-matter or activities referred to in that provision only to the
+extent to which a European patent application or European patent relates
+to such subject-matter or activities as such.
+
+So what does that mean? According to the preparatory work, the traveaux
+prépartoires for the EPC, European and national case law were requested
+to devise suitable interpretation.
+
+What can be directly seen from the law it that there are apparently two
+barriers for patentability. The first barrier is that this must be an
+invention; inventions must be distinguished from non-inventions. And the
+second barrier is that if there is a invention, this one must have a
+certain quality. It must be inventive, novel, it must industrially
+applicable.
+
+The current case law is basically laid down drawn in the following
+decision in my view that computer program product decision (?) ambient
+(?) Philips controlling invention system PBS partnership to identities
+convict and option that are touchy (?)
+
+I dont want to go into details of this decision. The decisions have
+been published in the official journal of EPO and it also available on
+Internet.
+
+Let me come to the results, the conclusions to be drowned from this
+decision.
+
+First of all, before we start considering the barriers, we have to look
+at two crucial fundamental terms which are not defined in the EPC,
+undefined legal terms. First of all, the notion of invention. The
+decision say, the case law say, invention within the meaning of article
+52.1 EPC have technical character. This corresponds to the traditional
+European understanding and conforms with the [TRIPs](TRIPs "wikilink")
+agreement. Any of the subject matter listed in article 52.2 EPC may
+comprise on inventions if it has technical character, in particular
+because technical problems solves, or technical achieves, technical
+interactions occurs, or technical considerations must be applied
+
+So, what does that mean technical? The word technical plays a crucial
+role in this approach. Once again a long definably concept, notional
+definition has been given by European case law and the board does not
+think be reasonable approach
+
+The problem is basically one of infringes in the pole areas. The meaning
+of such term is undisputed and instead of giving or trying to give a
+general interpretation, the board, its approach is to stick out the
+great area requiring a great interpretation through a series of
+individual decisions.
+
+This is not a non-common legal situation. In fact, it is the general
+problem with law. The whole situation has been very adequately
+summarized by Lord Hoffman of the House of Lords. In the recent decision
+in the judgement in the case (?) versus (?) limited, Lord Hoffman said
+the vast majority of patent specifications are perfectly clear about the
+extent of monopoly of claims. Dispute over them never came to Court. In
+border line case, it does happen that need interpretation. (?)
+
+That degree of uncertainty is inherent in any rule that involve the
+construction of any document. It afflicts the whole law of contract to
+say nothing legislation.
+
+In principle it is without (?), although I shall consider a moment with
+uncertainty can be with alleviated by guidelines or a structured
+approach of construction. Thats the approach of the board attends. A
+structured approach to construction has laid down the basic decision
+paragraph referred to.
+
+Giving guidelines to understand what the great area is, what is
+considered to be technical and what is considered to be not technical.
+This taking out has been done in a few individual decisions. You may
+find some key findings of these decisions in the benefits to my talk.
+
+Now, let us go back to the barriers.
+
+Examining for the existence of an innovation is not to be confused or
+mixed up with examining of novelty, inventive step or industrial
+applicability. Examining for the existence of an innovation means
+assessing the invention of the whole underlying technical and
+non-technical features. Now the technical character of the practices and
+the methods is very easily determined. If a technical product has
+technical character, this features provides a basis for technical
+character, methods can have technical character by virtue of their
+technical nature or their use of technical means for a non-technical
+purpose. So it may appear that the first barrier is quite low if it has
+some as technical aspect.
+
+But we sought it at the second barrier, examining for quality of
+invention. Because the invention must be in a technical field if the
+invention is based on a non-technical innovation, its technical
+realisation, if novel and not obvious may be patentable. The technical
+realisation begins with the implementation of a non-technical concept
+as such by the technical expert once this has been bought to him by
+the non-technical expert, for instance, business men or economists.
+
+So what does that mean? Features are analysed to establish which of them
+contribute to the technical character. Features which make no
+contribution to the technical character are not part of the technical
+solution. Those features are to be ignored when assessing inventive
+step.
+
+To give you a simple example, if an invention consist of an innovative
+business method and the technical implementation consist in the mere
+idea of using a computer. Then it would probably pass the first barrier,
+but it wouldnt pass the second barrier because the innovative business
+concept does not contribute to the technical character of the invention
+and the mere idea of computer implementation.
+
+Let me give my last light on computer programs to the specific aspect of
+computer programs.
+
+The boards have found all computer programs have technical character in
+so far as they cause physical changes in the hardware, changes in the
+bit patent. But these trivial technical interactions are not sufficient
+to allow patentability. To be patentable they must cause when loaded in
+a computer a further technical effect going beyond that trivial
+interaction and giving rise to the necessary technical character.
+
+If they cause such a further technical effect, if they are patentable,
+then as either computer program (?)
+
+Thank you for listening.
+
+\--
+
+The final presentation (?) is made by (?)
+
+Thank you very much for giving me the opportunity of present the
+practice of examining CCII in the EPO.
+
+What I will do is that I will first do some explanation and
+clarification day-to-day examining practice. And then I will try to
+address some concerns that have been voiced during the discussions about
+the protection of CII and try to present the view of the EPO regarding
+this concern.
+
+Let me start with some basic information with regards to terms that we
+see very often in debates, and this is software patents, not very well
+defined.
+
+Our view is that this term is somehow confusing if not misleading. Why?
+The patent application that we get on our desk refers to functions, to
+functionalities; it is not clear as a rule whether this functionality
+will be eventually implemented in software or hardware or in any mix of
+the two. Otherwise of course there is not a clear classification that
+could give us exact details what are software patents.
+
+For this reason, we prefer to talk about CII we think that this a much
+more clear term involves computer technology in general (?)
+
+------------------------------------------------------------------------
+
+## 111232-seminar.ogg {#seminar.ogg_3}
+
+03-Apr-2005 23:47 4.8M
+
+\[\]
+
+A new technical effect
+
+So its in way a regulator body, a legal framework. In the other way,
+its a catalyser for the free circulation of ideas with a strong
+protection for them. And as far as I understood M. Rocards position is
+that there should be a free circulation of ideas.
+
+For the time being, the USPTO on software bring the patents accessible
+on the Internet at a worldwide level. This can be protected, but this
+will make the law. And if we have no a proper CII directive for Europe,
+I mean Europe will laid beyond that. So I think theres no restriction
+of ideas if theres a CII directive
+
+Perhaps I will ask M. Colley to answer the question of the source code
+
+Perhaps to M. Steinbrener to answer the European case law.
+
+And regarding your question, someone of the panel can answer
+
+So the source code
+
+\--
+
+Well, on the source code, you might have taken a look into our brochure
+where it is clearly stated that the source code is not a requirement for
+the applicant to disclose a CII. For the simple case that we dont
+patent computer programs per se.
+
+Thats why it is neither necessary nor appropriate to disclose the
+source code. The source code is one way of carrying CII out by using a
+specific computer program but not only this as disclosed. This is an
+example.
+
+But we dont examine a computer program which meets the criteria of the
+Convention. We look at the method behind it. It is either a method or
+process of treating data, of processing data for whatever purpose, and
+for that purpose we dont need the source code.
+
+You may criticize disclosure in some patent application, this is your
+right. But what is required depends on what a person skilled in the art
+needs to know in order to be able to carry out the invention. And thats
+it.
+
+And this not necessarily, and in most cases it not a programmer, it is a
+specialist in the concrete field of technology where the CII is there.
+And that is the difference.
+
+This is my point on the source code. We dont require it. It is not
+useful
+
+And last argument. If you disclose the source code in a patent
+application, you give a potential infringer anything so he can use
+immediately the invention without having to be implemented it with his
+own labour skills.
+
+Thats why we dont think the source code is an appropriate mean of
+disclosing a CII.
+
+\--
+
+Now we expect to the question of definition of technical and
+technicality I must say I must be careful in answering the question.
+And if you read Le Soir of today you know why, theres nice article
+treating what one should say in the public and what one shouldnt say
+
+What I can only do, is that, I dont know if the board will one day try
+to give a definition of technical and what the definition would look
+like
+
+What I can say, some general remarks on that. This is a very complex
+task. If the definition is too broad, then it includes everything and it
+is useless, if it is limited, if it cuts out certain subject matter,
+then it will almost and inevitably have unpredictable and presumably
+undesirable side effects. So you would have to modify late wrong when
+you will realised oh dear! we hadnt thought of that.
+
+Furthermore it would have to be construed anyway. You cannot get out of
+this problem of construction, this construction problem
+
+And finally, the notion, the term technical is not a static one, it is a
+dynamic term which changes in the course of time. Think of what fifty
+years ago was feasible and what is feasible today.
+
+The gap between abstract ideas and concrete technical applications
+becomes smaller and sometime it is blurred. It becomes fuzzy in some
+way. For instance, there are some intermediate steps, virtual chemistry
+for instance, computer designs, procedures which are precursors,
+procedures to the concrete hardware production of a product
+
+So, in my view, this is my personal opinion, I have doubts about a
+functioning and general definition of technical.
+
+Let me just add something. Theres one country and one Court in one
+given country, Germany, the Federal court of Justice which was trying to
+give a definition of what is an invention, and in particular what is a
+technical invention
+
+A technical invention is a teaching addressed to a skilled person as to
+how to use controllable natural forces to directly achieve a coarsely
+predictable result without the intervention of the human mind.
+
+Isnt that nice? Does it work in practice? It is there, but I dont know
+of any of the Court in the world to give such a definition like German
+one, even the Community that in a way likes definition
+
+But in practice the definition sounds well but on the other hand it not
+easily transpose today in practice. Thats why, they can have it
+
+But we have a very broad understanding on what technology means.
+
+And M. Steinbrener, technology has to be determined on case basis and
+therefore all definitions more or less are either not agreeable or they
+have limitations which dictates some prudence
+
+\--
+
+One remark, the Federal court of Justice which made the definition was
+obliged in the course of time and they have to deliver directly
+
+\--
+
+Ok, can I
+
+Because I understand we have to finish at twenty
+
+Any other question, perhaps from expert assistants or anyone else who
+would like to ask a question
+
+\--
+
+Thats not fair
+
+\--
+
+So many people here and so few questions
+
+Well, I carry on
+
+I wanted also see this issue about the genuine invention: How can we
+distinguish between the invention and software as such the whole area of
+data processing?
+
+And again one of the issues we have considerable debate on is the whole
+area of data processing. And there are some people that believe that
+data processing must be excluded in totality. They are others that
+argued only the implemented inventions. And again I suppose this is a
+question of examinations and Id like to have your views on that.
+
+And perhaps to come back to the question, the point that you made, you
+talked about perhaps in the future what we need is a regulator framework
+which has more synergy between different options for protecting
+inventions, or different options for protecting innovation, because
+innovation can effectively be covered by a copyright but not by patent.
+
+I wonder if you would like to expand on what you think the future hold
+for us in some of these more complex and more difficult domain.
+
+\--
+
+Let me first try to address the first question that you pose, whether
+data processing from being patentable by patents.
+
+I think that if a technical problem  in a sense what technical might be
+perceived to be , if a technical problem is being solved sparkly or
+totally with the help of modern computer technology, for instance data
+processing, then the fact that this it is technology that has been used
+to solve the problem, should not automatically exclude this subject
+matter from a protection by a patent
+
+In other words, modern technology has paved the way for solving problems
+that were not perceivable when the patent law was written down by means
+of a computer program
+
+This doesnt change automatically the fact that these solutions are
+worth to be protected. They are solutions to technical problems, they
+are in principle subject matter which are not excluded by the exclusions
+of the patent law, in this sense the patent protection should be
+accessible to them.
+
+And to answer your question, if we were to exclude totally whatever is
+being performed, then we wouldnt act in the sense of the people who
+wrote the law. It was at the time when the patent law was written, and
+remember that was the 1970s, and in the 1970s the computer programs had
+certain limited functionalities, and you could even read the code of the
+computer program for instance, you could even understand what it does.
+
+The functionality that is been able to offer today with the help of
+computer program has dramatically changed. It has change dramatically
+and it would not be in the sense of the legislator if we automatically
+exclude from the patent protection whatever functionality can be
+achieved nowadays by means of a modern computer technology.
+
+\--
+
+And what about the future synergy?
+
+\--
+
+I am not a lawyer and therefore I will not tell you anything which you
+might think that this is an official opinion of a lawyer, it is my
+personal view modern industrial propriety and the efficient regulation
+of modern industrial propriety takes a little more that just patent law,
+that is my personal view
+
+And I see that there is a huge potential in regulating the field in a
+synergy between the patent law and other legal possibilities available
+nowadays and one of them is competition law
+
+\--
+
+Just to tell that I am still uneasy about the disclosure, the full
+disclosure. I just think that the last answer was referring to the
+programs of the 1970s is just a confirmation of that. Actually, at that
+time we have full disclosure
+
+------------------------------------------------------------------------
+
+## 116896-seminar.ogg {#seminar.ogg_4}
+
+03-Apr-2005 23:50 3.0M
+
+\[\]
+
+We could go through a program and see the specific steps and somehow it
+might have been granted, issuing a patent.
+
+Right now, I think things have become more complex. But still, source
+code is a source code. And all the experts could through a source code
+and see what is in there.
+
+And of course, patent is a fore disclosure of the invention. And I dont
+think we should make an exception and of course this kind of say work
+of thought could be protected by copyright. So, the fore disclosure
+would actually shift to the copyright for this kind work of mind and
+leave of course more clearly the field to the device of CII. That would
+be less automatic.
+
+And on the other hand, we need for security reasons, we need, we do need
+to know the source code we are using. Because we are not sure that in
+some mind theres something that can be addressed from this outside and
+kill our computers.
+
+\--
+
+Ok, who wants to answer that one?
+
+\--
+
+There are a lot of arguments on disclosing the source code. As I said,
+what is necessary under the existing patent law, sufficient disclosure
+mean that the invention has to be disclosed to person skilled in the odd
+and the manner to enable him to carry the invention.
+
+This is a good example between patent law and copyright law. Copyright
+law is to protect the form, the expression which may find itself
+realised in form of the source code, of an object code, or other kind of
+description of software. So, you enjoy copyright protection under the
+condition of the old European directive. Now, with the CII directive,
+you have full protection of the source code and on the other hand you
+might get protection for the idea, the technical idea of making a
+certain process in practice carrying out an invention which makes use of
+a computer.
+
+So, the two systems coexist, necessarily they coexist. You have the
+patent, the invention patented may be carried out by using different
+forms of computer programs not only the source code disclosed in the
+application whether it would be necessary but you can use it in
+different ways. You can use higher languages to implement one invention
+in many many different ways. And then, you enjoy in addition to patent
+protection, you may enjoy copyright protection for this program. But the
+patent itself would be enforceable against a user which would use the
+invention as disclosed without even using a program which may be
+described in the application.
+
+Thats the synergy. This is I think the most important thing.
+
+The patent system is not there to disclose and to make available
+anything in terms of source code. So that you have a database of source
+codes used in the world, you will never be sure that this a system which
+completely discloses every source code used for whatever purpose.
+
+This was the idea of a generous protection for software disclosed in the
+frame of WIPO. To create a database of all source codes, object codes,
+etc. wherever produced, in order to get copyright protection by the way,
+not patent protection.
+
+So, I think we have a good case of synergy between two systems,
+copyright and patent law. And on the other hand, there are clear limits
+of disclosing the source code in patent application
+
+\--
+
+Just before, I think we conclude, I think the President wants to say a
+few words but I also really want to address a more global issue.
+Sometimes there are some of you that claim that patents are only hear
+for big business and that SME dont have advantages, or the same
+advantages as the multinational perhaps. I wonder if the EPO is trying
+to redress the balance and to make sure that [SMEs](SMEs "wikilink")
+have access to patent protection as well
+
+\--
+
+For the specific issue, there are two aspects
+
+One aspect is the access on patent information for
+[SMEs](SMEs "wikilink"). The second one is that we have patent academy
+to train all the [SMEs](SMEs "wikilink") interested in managing patent
+portfolio
+
+And the third one is that we are training also people in order that they
+use you know the electronic tools to know the patent information
+
+This is the main issue. We will have meeting, we have already a meeting
+with SMEs to better know what their needs are in term of patent
+information and patent portfolio assessment
+
+The last thing I would like to say in that first we could have a whole
+seminar for the whole day with more comfortable facilities. But
+nevertheless we are ready before the adoption of the directive to
+organize meetings which should be more targeted on the directive and we
+will have more facilities because it seems you know that many people are
+interested in the first point
+
+We are ready to interact I mean with all the movements involved in the
+drafting of the directive you know. This is the first point.
+
+The second point is that I would like you to remind that the policy of
+EPO in patenting CCII
+
+No patent applied on software.
+
+No patent on business methods.
+
+No patent on algorithms per se.
+
+There are the three main messages that you should keep in mind and if
+you want more information, go to the patent presentation, exhibition
+that you have in the first flour. You will have all the documents that
+you need and there is one specific document on the CII
+
+And I wanted to thank you again for organizing and giving the
+opportunity for this seminar hear in the real art you know where the
+second lecture of the directive will occur
+
+Thank you very much
+
+\--
+
+I think to conclude weve really only skimmed the surface of the issues
+
+I think there are a lot of questions
+
+Id be very grateful the papers your colleagues have given and including
+your speech and Im sure you will be accessible for people to follow up
+on specific questions
+
+\-- Some people needs the document now
+
+\--
+
+Ok, thank you very much and thank you for having been so patient. I want
+to apologize on behalf of M. for the room organized that was not
+obviously appropriate, but in some way that was a good point because a
+lot of you were interested
+
+\--
+
+Thank you very much

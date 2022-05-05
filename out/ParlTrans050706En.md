@@ -1,0 +1,4 @@
+See
+
+-   <http://wiki.vrijschrift.org/EP050706>
+-   <http://www.dd.chalmers.se/~klingber/parl/trans050706.pdf> p.33

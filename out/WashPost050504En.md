@@ -1,0 +1,26 @@
+# CEO of Adobe recognises that allowing software patents was a bad idea {#ceo_of_adobe_recognises_that_allowing_software_patents_was_a_bad_idea}
+
+------------------------------------------------------------------------
+
+*In an article of the Wahington Post, the CEO of Adobe and member of the
+BSA, Bruce R. Chizen, recognises that allowing software patents in the
+1980s was a bad idea.*
+
+------------------------------------------------------------------------
+
+## References
+
+Evaluating A Patent System Gone Awry By Jonathan Krim Thursday, May 5,
+2005; Page E01
+
+## Quotes
+
+` Even Bruce R. Chizen, chief executive of Adobe Systems Inc. and chairman`\
+` of the Business Software Alliance, which is leading the charge for the `\
+` technology industry, acknowledges that allowing software patents in the`\
+` 1980s was a bad idea. But Chizen argues that it's too late to turn back now.`
+
+## Copyright
+
+BenjaminHenrion is asking the editor to get a permission to put a copy
+of the article here. The copyright holders needs 15 days.

@@ -1,0 +1,1 @@
+\--\> [SwpatjfourtouFr](SwpatjfourtouFr "wikilink")

@@ -1,0 +1,62 @@
+1.  1.  -\*- dok: gargani050303; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+    2.  datum: 2005-03-03
+
+# Präsident des JURI schreibt Brief an Präsidenten des EP zur Zurückweisung durch die Kommission {#präsident_des_juri_schreibt_brief_an_präsidenten_des_ep_zur_zurückweisung_durch_die_kommission}
+
+-\> \[ [ englisch](Gargani050303En "wikilink") \| [
+französisch](Gargani050303Fr "wikilink") \] \[ [Barroso weigert
+sich](http://swpat.ffii.org/papers/barroso0502/ "wikilink") \| [
+Patent-Nachrichten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*3. März 2005 \-- Der Präsident des Ausschusses für
+Rechtsangelegenheiten des Europäischen Parlaments (JURI) hat am heutigen
+Tag einen Brief an den Präsidenten des Europäischen Parlaments, Josep
+Borell, gerichtet, der die Zurückweisung der Kommission für einen
+Neustart des Verfahren zur Softwarepatent-Richtlinie und das weitere
+Vorgehen betrifft.*
+
+## Text des Briefes {#text_des_briefes}
+
+Der [ originale Brief](Gargani050303Fr "wikilink") ist in Französisch.
+Nachstehend sehen Sie unsere deutsche Übersetzung (erstellt auf Basis
+unserer englischen Übersetzung):
+
+`Betreff: Vorschlag für einen Richtlinie des Parlaments`\
+`und des Rates betreffend der Patentierung von computer-`\
+`implementierten Erfindungen -`\
+`2002/0047 (COD)`
+
+`Herr Präsident,`
+
+`ich habe Kenntnis genommen von der Antwort des Präsidenten `\
+`Barroso auf ihren Brief vom 24. Februar betreffend der`\
+`Forderung des Ausschusses für Rechtsfragen wegen`\
+`einer erneuten Zuweisung des Entwurfs betreffend die`\
+`Patentierbarkeit von Computer implementierten Erfindungen`\
+`(COM (2002) 0092 - COD 2002/47).`
+
+`Der Ausschuß für Rechtsfragen, hat die Absicht in `\
+`Ausübung seiner Rechte, wie sie ihm der `\
+`Geschäftsordnung nach zustehen seine Arbeit in dieser `\
+`Angelegenheit fortzusetzen und dabei die Konsequenzen von `\
+`Herrn Barrosos Antwort zum laufenden Gesetzgebungsverfahren `\
+`näher in Augenschein zu nehmen.`
+
+`Tatsächlich haben wir die Absicht dies während des Treffens`\
+`des Ausschusses für Rechtsfragen, das am 7. März in Strassburg`\
+`stattfinden soll, zu diskutieren, sofern die bei Ihnen`\
+`beantragte Genehmigung, daß dies stattfinden soll`\
+`bestätigt wird.`
+
+`Weiterhin habe ich Sie darüber zu informieren, dass wir`\
+`nach der Meinung des juristischen Dienstes gefragt haben`\
+`damit wir wissen bis zu exakt welcher Stufe im Verfahren`\
+`des kooperativen Entscheidungswegs die europäische Kommission`\
+`ihren Vorschlag zurückziehen oder verändern kann.`
+
+`Mit freundlichem Gruss,`
+
+`Giuseppe GARGANI`

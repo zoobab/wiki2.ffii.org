@@ -1,0 +1,11 @@
+# Translations
+
+-   FR: ok
+-   EN: ok
+
+# Distributions
+
+-   Belgian Senate and Chambre: not ok
+-   Others
+
+# Signatories

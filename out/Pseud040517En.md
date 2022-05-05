@@ -1,0 +1,45 @@
+# 2004-05-17 COREPER Official Spreads Misinformation About the \"Compromise\" {#coreper_official_spreads_misinformation_about_the_compromise}
+
+This Monday, a participant from the Committee of Permanent
+Representatives was spreading misinformation and described the
+\"compromise\" as a *\"compromise between Microsoft and Linux\"*.
+
+This really shows the level of misunderstanding many of the governments
+still have.
+
+But many people are already quite well briefed and know that this is not
+the case. If you, as a news reporter, are confronted with this
+misinformation, you could better put this in the following manner:
+
+*\"It\'s a compromise between Microsoft and the European Patent
+Office\"*
+
+A few days later Frits Bolkestein found a similar wording at the Council
+Press Conference (\"compromise between US-style patenting of software
+without an inventive step and Linux-style giving everything for free\").
+
+If one were to enter the discussion at this level, one could assert that
+the Commission is now explicitly acknowledging that it is representing
+Microsoft (incidentally, the Irish proposal is based on a document which
+was leaked from the Business Software Alliance, which contained the
+Commission proposal plus other lobbying text before the Commission
+officially publicised them) and many of the Member States are
+representing the European Patent Office (and the national patent
+offices) rather than their own constituencies whom patent policy is
+supposed to serve. In England, for example, patent policy is being
+developed and decided on by the Patent Office rather than any kind of
+reasonably participatory and representative legislative process.
+
+This \"compromise\" is not any sort of coming to terms between
+\"Microsoft\" and \"Linux,\" nor between the patent establishment and
+the public interest. Rather, the European Patent Office is declaring
+that it has come to terms with Microsoft, articulating a position in
+their proposal that is evidently regarded as acceptable among those
+whose private interests are being catered to in these privileged
+discussions, a position that is apparently being couched in those
+discussions as if the only real conflict is between one narrow
+constituency (\"Linux\" developers) that supposedly needs to be
+placated, and those who wield influence within those privileged venues.
+
+Those who lose out in this double-layered perversion of the term
+\"compromise\" are European small and medium size companies.

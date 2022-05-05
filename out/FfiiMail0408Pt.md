@@ -1,0 +1,158 @@
+\[ [ de](FfiiMail0408De "wikilink") \| [ fr](FfiiMail0408Fr "wikilink")
+\| [ es](FfiiMail0408Es "wikilink") \| [ it](FfiiMail0408It "wikilink")
+\| [ pt](FfiiMail0408Pt "wikilink") \| [ nl](FfiiMail0408Nl "wikilink")
+\| [ sv](FfiiMail0408Sv "wikilink") \| [ da](FfiiMail0408Da "wikilink")
+\| [ fi](FfiiMail0408Fi "wikilink") \] (for non-ISO-8859-1 languages use
+the wiki at <http://www.ffii.se/kwiki/>)
+
+# 2004-09 EMail a todos os apoiantes da FFII {#email_a_todos_os_apoiantes_da_ffii}
+
+**FFII: UE Patentes de Software no Conselho: Situação Actual**
+
+`Caro Apoiante da FFII (http://aktiv.ffii.org/),`\
+\
+`no verão, a visibilidade da acção contra patentes de software progrediu`\
+`(mais  visivelmente na Holanda e na Hungria) em termos de chamar a`\
+`atenção para o assunto. É importante manter a pressão e a discussão.`\
+`O Conselho de Ministros poderá agendar este assunto novamente tão cedo`\
+`como a meados ou finais de Setembro, uma altura provavel é o Conselho`\
+`da Competitividade em 24 de Setembro. O que importa é manter o público`\
+`e os políticos informados. Veja as acções e documentos abaixo como`\
+`sugestões para o ajudar a fazê-lo.`\
+\
+`FFII Chamada para Acção:`\
+`------------------------`\
+\
+`Peça ao seu Representante que Retire o Apoio à Proposta de Directiva`\
+`Sobre Patentes de Software e que Apoie a Versão do Parlamento Europeu.`\
+\
+`Mobilise-se para Prevenir a Legalização de Patentes de Software`\
+`na Europa `\
+\
+`Por favor, distribua este alerta para qualquer constituinte responsável`\
+`que conheça.`\
+
+`   - Por favor, ajude a conduzir esta acção no seu país: `\
+`     `[`http://kwiki.ffii.org/LtrConsSend0406En`](http://kwiki.ffii.org/LtrConsSend0406En)
+
+`   - Por favor, voluntarie-se para espalhar a mensagem:`\
+`     `[`http://kwiki.ffii.org/FfiiMail0408En`](http://kwiki.ffii.org/FfiiMail0408En)\
+\
+`O que Está a Acontecer:`\
+`-----------------------`\
+\
+`Precisamos agir agora, dizer aos nossos representantes para não`\
+`apoiarem as tentativas do Conselho de UE de cancelar a lei`\
+`Europeia sob a qual o software não é patenteavel. Ver:`\
+[`http://kwiki.ffii.org/ShortIntroEn`](http://kwiki.ffii.org/ShortIntroEn)\
+\
+`Em 18 de Maio, numa votação altamente duvidosa, o Conselho de`\
+`Ministros atingium um acordo preliminar (ainda não uma decisão`\
+`oficial) sobre uma proposta de Directiva que rejeita a intenção`\
+`expressa pelo Parlamento Europeu. A proposta do Conselho introduz`\
+`na sua redacção reivindicações explícitas sobre programas. Removeu`\
+`declarações de exclusão tais como "programas não são invenções"`\
+`(Art. 52 da CEP), "o processamento de dados não é um campo`\
+`tecnológico" (Art. 3a), "A publicação e distribuição de software`\
+`nunca é uma infracção" (Art. 5a), etc, e substituiu-as com`\
+`declarações que exigem a patenteabilidade de tudo o que os`\
+`gabinetes de patentes definam como sendo "técnico", recusando-se`\
+`a definir este termo.`\
+\
+`O Conselho não pode tornar o software patenteavel na Europa sozinho.`\
+`Para uma directiva, é necessário o consenso de tanto o Parlamento`\
+`Europeu como do Conselho. Mas vai aumentar a pressão para que as`\
+`suas posições sejam mais convergentes. Forçar o Conselho a mudar em`\
+`direcção ao Parlamento antes da Segunda Leitura reduziria grandemente`\
+`o perigo de um mau compromisso.`\
+\
+\
+`O que você pode fazer:`\
+`----------------------`\
+\
+`Por favor, diga ao seu Representante para remover o apoio à`\
+`proposta de Directive sobre Patentes de Software do Conselho,`\
+`ou poderemos ter de viver com os resultados desta decisão`\
+`durante muito tempo.`\
+\
+`  - Por favor, Ajude-nos a Contactar os Constituintes Preocupados`\
+`    para se Juntarem à Campanha. Mande um email para consilium-help`\
+`    arroba ffii org, para ajudar`\
+\
+`  - Por favor, envie o Apelo Urgente para os seus Representantes:`\
+`    `[`http://kwiki.ffii.org/LtrConsSend0406En`](http://kwiki.ffii.org/LtrConsSend0406En)\
+\
+`  - Por favor, envie Postais aos seus Representantes:`\
+`    `[`http://kwiki.ffii.org/Postkard0407En`](http://kwiki.ffii.org/Postkard0407En)\
+\
+` O documento do Apelo Urgente está aqui:`\
+` `[`http://swpat.ffii.org/letters/cons0406/LtrConsMinim0406.en.pdf`](http://swpat.ffii.org/letters/cons0406/LtrConsMinim0406.en.pdf)\
+\
+`Os contactos pessoais fazem toda a diferença. Precisamos que`\
+`Deputados, Eurodeputados e Ministros que lidem com tecnologia recebam`\
+`vários postais e cartas do Apelo Urgente, enviadas pelos seus`\
+`constituintes. Estão disponíveis traduções do Apelo Urgente, exemplos`\
+`de postais e moradas de Contactos para vários países nos links acima.`\
+`Se não encontrar a informação para o seu país, por favor acrescente-a.`
+
+`Situação Actual: `\
+`----------------`\
+\
+`   - Voluntários na Holanda convenceram o Parlamento Holandês a`\
+`     Remover o seu Apoio à Directiva`\
+`     `[`http://kwiki.ffii.org/NlMot040701En`](http://kwiki.ffii.org/NlMot040701En)\
+`   - 30 Voluntários já mandaram 141 Cartas a 6 países desde 20 de`\
+`     Julho: `[`http://kwiki.ffii.org/LtrConsSend0406En`](http://kwiki.ffii.org/LtrConsSend0406En)\
+`   - 4 voluntário mandaram 11 postais a 6 países desde 21 de Agosto:`\
+`     `[`http://kwiki.ffii.org/PostkardSend0407En`](http://kwiki.ffii.org/PostkardSend0407En)\
+`   - 400 Manifestaram-se em Budapeste, Exigindo o "Não ao Acordo`\
+`     sobre Patentes de Software do Conselho":`\
+`     `[`http://kwiki.ffii.org/Budapest040824En`](http://kwiki.ffii.org/Budapest040824En)\
+`   - Estamos a organizar um Campo de Outono para Activistas (ou aqueles`\
+`     que o quiserem ser) de 17 a 20 de Setembro em Markelo, Holanda:`\
+`     `[`http://wiki.vrijschrift.nl/MarkeloEvent0409`](http://wiki.vrijschrift.nl/MarkeloEvent0409)\
+\
+`Mais notícias sobre as nossas actividades: `[`http://kwiki.ffii.org/FfiiprojNewsEn`](http://kwiki.ffii.org/FfiiprojNewsEn)\
+`Novidades sobre a inversão no Conselho: `[`http://kwiki.ffii.org/ConsRevers04En`](http://kwiki.ffii.org/ConsRevers04En)\
+`Notícias gerais sobre patentes de software: `[`http://kwiki.ffii.org/SwpatcninoEn`](http://kwiki.ffii.org/SwpatcninoEn)\
+`Lista de Correio para actividades Europeias: `[`http://lists.ffii.org/mailman/listinfo/bxl`](http://lists.ffii.org/mailman/listinfo/bxl)\
+\
+`Formulário de Resposta e Apontadores:`\
+`-------------------------------------`\
+\
+`Fazemos sessões para novos voluntários via IRC todas as Segundas à`\
+`noite no canal #bxl-ffii, servidor irc.debian.org às 20h00 WEST, mas`\
+`também será benvindo se aparecer noutras alturas. Interface www:`\
+[`http://bxl-ffii.miernik.ctnet.pl/`](http://bxl-ffii.miernik.ctnet.pl/)\
+\
+`Utilize as páginas wiki mencionadas acima para dar informação`\
+`sobre como decorreu a sua actividade no Apelo Urgente ou no envio`\
+`de postais.`\
+\
+`Responda a este e-mail com o formulário preenchido para se`\
+`registar nalguma das seguintes actividades:`\
+\
+`[ ] Estou interessado no Campo de Outono (17-20 Set 2004) Em`\
+`    Markelo, Holanda`\
+`[ ] Não posso ir ao Campo de Outono 2004 mas estou interessado`\
+`    num evento semelhante perto de [______]`\
+`    (indique uma cidade com mais de 100000 habitantes)`\
+`[ ] Estou interessado na conferência de Bruxelas em Novembro`\
+`[ ] Gostaria de ficar em Bruxelas noutra altura`\
+`    (poderemos tentar organizar alguma coisa)`\
+\
+`---`\
+`Para activistas no Reino Unido, ver também `[`http://www.ffii.org.uk/`](http://www.ffii.org.uk/)\
+`ou subscreva ffii-uk-request arroba ffii org uk.`\
+`---`\
+\
+`Para outras actividades regionais (por exemplo, encontrar-se com`\
+`outros apoiantes da sua zona, contacte pt-help arroba ffii org.`\
+`Os políticos locais frequentemente fazem uma diferença crucial.`\
+\
+`Para donativos, `[`http://www.ffii.org/assoc/financ/`](http://www.ffii.org/assoc/financ/)
+
+`Cumprimentos,`
+
+`Rui Seabra, João Neves, Alex Macfie, Holger Blasum`\
+`<consilium-help(arroba)ffii.org>`

@@ -1,0 +1,59 @@
+1.  1.  -\*- dok: [McCreevyEcofin04](McCreevyEcofin04 "wikilink"); lang:
+        en; coding: iso-8859-1; mode: fundamental; -\*-
+
+# 2004-01..06 [McCreevy](McCreevy "wikilink") chair of Ecofin {#mccreevy_chair_of_ecofin}
+
+-\> \[ [ [McCreevy](McCreevy "wikilink")](CharlieMcCreevyEn "wikilink")
+\| [ Patent News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*During the Irish EU presidency, Ireland\'s finance minister Charlie*
+[McCreevy](McCreevy "wikilink") *headed the Council of finance ministers
+ECOFIN.*
+
+## Chair of Ecofin 2004-01..06 {#chair_of_ecofin_2004_01..06}
+
+Nothing about software patents or exclusive rights policy per se here,
+but a bigwig meeting he presided over, with links to some of his
+speeches:
+
+<http://www.eu2004.ie/templates/news.asp?sNavlocator=66&list_id=493>
+
+Charlie [McCreevy](McCreevy "wikilink") has been the chair of ECOFIN
+since January 2004 up until June 2004:
+
+<http://www.businessworld.ie/livenews.htm?a=839558;s=rollingnews.htm>
+
+` `[`McCreevy`](McCreevy "wikilink")` to chair `[`EcoFin`](EcoFin "wikilink")` from tomorrow `\
+` Monday, January 19 14:56:19 `
+
+` Finance Minister Charlie `[`McCreevy`](McCreevy "wikilink")` will tomorrow chair the first`\
+` meeting of the `[`EcoFin`](EcoFin "wikilink")` council under the Irish presidency of the`\
+` EU in Brussels. `
+
+` The Minister takes over the chair of the `[`EcoFin`](EcoFin "wikilink")` Council for a`\
+` period during which the Union will enlarge to include the 10`\
+` accession countries, with their formal joining on 1 May 2004.`
+
+` He will chair a total of six meeting of the Council in the`\
+` presidency, one in each month, over the period to end-June. `\
+`  `\
+` The meetings will take place in Brussels and Luxembourg, with`\
+` the exception of the informal meeting in April which will be`\
+` held in Punchestown, Naas, Co Kildare.`
+
+\< SNIP \>
+
+------------------------------------------------------------------------
+
+<http://www.finfacts.com/Private/friday/fri_irfl.htm>
+
+\< SNIP \>
+
+` The Minister for Finance, Charlie `[`McCreevy`](McCreevy "wikilink")`, has been allocated`\
+` the Internal Markets and Services portfolio in the new`\
+` European Commission - one of the four powerful economic posts. `
+
+(Followed by a lot of unemployment stats, with definition of who\'s
+counted as unemployed)

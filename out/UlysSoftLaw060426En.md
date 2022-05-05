@@ -1,0 +1,146 @@
+# Conference: Software Law : Latest developments in Europe - Second edition {#conference_software_law_latest_developments_in_europe___second_edition}
+
+------------------------------------------------------------------------
+
+*Ulys, a lawyer firm based in Brussels, is organising a second
+conference on software patents. FFII had attended the first version of
+the conference organised during the second reading of the software
+patents directive.*
+
+------------------------------------------------------------------------
+
+## Title
+
+Software Law : Latest developments in Europe - Second edition
+
+## Date and place {#date_and_place}
+
+26 april 2006 at Fondation Universitaire Universitaire Stichting (Room
+A), Brussels
+
+## Authors
+
+Joost Verbeek, Paul Van den Bulck, Evelyn Heffermehl
+
+## Themes
+
+Protection des programmes d\'ordinateur, Contrats informatiques,
+Propriété littéraire et artistique
+
+## More infos {#more_infos}
+
+<http://www.ulys.net/site/conf_detail.asp?id=197>
+
+## Schedule
+
+-   8.30: Welcome coffee
+-   9.00: Introduction: software law in a converging environment (by
+    Erika Mann, Member of EU Parliament Chair Board of Governors
+    European Internet Foundation)
+-   9.30: Patentability of software (by Paul Van den Bulck, Senior
+    Partner ULYS Law Firm)
+-   10.15: EU Competition Law v. Copyright Ownership (by Evelyn
+    Heffermehl Associate Ulys Law Firm)
+-   11.00: Coffee break
+-   11.30: Directive 48/2004 on the Enforcement of IP Rights: A new
+    tools for combating counterfeiting of software? (by Joost Verbeek,
+    Senior Partner ULYS Law Firm)
+-   12.15: Question Time
+-   13.00: Lunch offered by ULYS Law Firm
+
+We have the honour to invite you to the conference our firm organise in
+Brussels on the 26th of April 2006. This conference will be an unique
+opportunity to address and discuss the latest developments in software
+law in Europe, with keynote speakers. The admission is free and a lunch
+will be offered to the participants.
+
+## Registration
+
+Send an email to: michelle.mollar-at-ulys.net with the following
+details:
+
+-   Company: \...\...\...\...\...\...\...\...\...\...\...
+-   Surname: \...\...\...\...\...\...\...\...\...\...\...\...
+-   First name:\...\...\...\...\...\...\...\...\...\...\...
+-   Job Title: \...\...\...\...\...\...\...\...\...\...\.....
+-   Correspondence address: \...\...\...\...\...\...\...\...\...\...\...
+-   Tel: \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+-   Fax: \...\...\...\...\...\...\...\...\...\...\...\...\...\.....
+-   E-mail: \...\...\...\...\...\...\...\...\...\...\...\.....
+-   YES / NO : I will take part to the offer lunch (13.15 pm)
+
+## Proceedings
+
+-   [For details on programme and
+    speakers](http://www.ulys.net/conferences/Programme%20Software%20law%202006.pdf "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   [Presentation of Paul van den
+    Bulk](http://www.ulys.net/conferences/Patentability%20of%20Software.pps "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   [Presentation of Me Joost
+    Verbeek](http://www.ulys.net/conferences/Slides_Enforcement.pps "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   [Presentation of Me Evelyn
+    Heffermehl](http://www.ulys.net/conferences/EC%20competition%20law%20vs.%20copyright%20ownership.pps "wikilink")
+
+## FFII\'s notes {#ffiis_notes}
+
+### Paul van den Bulk and Software patents {#paul_van_den_bulk_and_software_patents}
+
+What\'s a computer-implemented invention? Is software patentable? This
+was the non-simple object of the Paul Van den Bulk\'s presentation.
+
+Referring to international law texts, there\'s an ambiguity. Whereas
+computer programs seems to be protected as literary works referring to
+WIPO copyright treaty December 20, 1996 (art. 4), for instance, Paris
+Convention for the Protection of Industrial Property remains silent\...
+
+And what about the European Patent Convention? For we all know that EPO
+has been delivering European patent on software for more than 20
+years\... It says that European patents shall be granted for any
+inventions with industrial application. The exceptions concerned
+non-technical innovations such as aesthetic creations\...
+
+But the real problem and very point of the analysis is to determine
+exactly what is technical and what is not. EPO\'s tautological
+definition did not help. A technical innovation involve technical
+meanings to solve a technical problem using particular technical means !
+The exceptions are interpreted narrowly. For example, ABS is patented.
+Why? Because this invention have a technical character that is
+implemented by a computer program. As to EPO, every software may be
+patented because of generating a technical effect into interacting with
+material reality (the simple fact of producing a visual effect).
+
+In short, patenting or not patenting software appears to be finally only
+a question of interpretation and formulation.
+
+Fortunately, national jurisdictions are not bind by the decisions of the
+EPO. But what about tomorrow? European Commission and EPO tried in vain
+to patent software, since when\...?
+
+To conclude his analysis, Paul van den Bulk advances three possible
+improvements : changing the tangible approach of the EPO, defining
+precisely the word technical applied to invention and finally fixing
+the institutional limits of the EPO (the same institution grants and has
+jurisdictional power).
+
+### Agoria representative closing speech {#agoria_representative_closing_speech}
+
+The representative of Agoria closed the panel by reading a statement
+from the association, and he pointed out that the main reason for having
+software patents in the EU was the threat that some companies would not
+be able to have protection for their inventions, and thus, would prefer
+to go in a country outside the EU. Someone in the audience pointed out
+that it does not make sense, since the place where the R&D is made and
+where the product is sold can be different. Someone also asked how the
+position of Agoria to support the Council position last year was made,
+and the representative answered that members were consulted.

@@ -1,0 +1,23 @@
+Collections of Arguments used in the debate
+
+# TechnicaL
+
+# Novelty
+
+# Not-obviousness {#not_obviousness}
+
+## Over Hadas: Turing Test 05-02-01 {#over_hadas_turing_test_05_02_01}
+
+<http://news.com.com/5208-1071-0.html?forumID=1&threadID=4511&messageID=26499&start=-1>
+
+`When computers were invented about 60 years ago they were invented as a device `\
+`that can perform ANYTHING THAT CAN DESCRIBED IN A FINITE WAY. This includes  `\
+`anything that can be written in a software patent submitted to the patent office. `\
+`It is obvious that anything these software patents can do can be done using a `\
+`computer, because that's the reason that computers were invented in the first place.`
+
+`So, when anyone submits a software patent, that is something that was known to be `\
+`possible to do on a computer in 1936, before computers were invented! And therefore `\
+`it is obvious and the patent should not be granted.`
+
+# Industrial

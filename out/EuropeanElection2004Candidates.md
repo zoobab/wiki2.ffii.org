@@ -1,0 +1,50 @@
+Choose your country:
+
+00
+[EuropeanElection2004CandidatesAustria](EuropeanElection2004CandidatesAustria "wikilink")
+00
+[EuropeanElection2004CandidatesBelgium](EuropeanElection2004CandidatesBelgium "wikilink")
+00
+[EuropeanElection2004CandidatesGermany](EuropeanElection2004CandidatesGermany "wikilink")
+00
+[EuropeanElection2004CandidatesFrance](EuropeanElection2004CandidatesFrance "wikilink")
+00
+[EuropeanElection2004CandidatesNetherlands](EuropeanElection2004CandidatesNetherlands "wikilink")
+00
+[EuropeanElection2004CandidatesDanemark](EuropeanElection2004CandidatesDanemark "wikilink")
+00
+[EuropeanElection2004CandidatesSweden](EuropeanElection2004CandidatesSweden "wikilink")
+00
+[EuropeanElection2004CandidatesLatvia](EuropeanElection2004CandidatesLatvia "wikilink")
+00
+[EuropeanElection2004CandidatesHungary](EuropeanElection2004CandidatesHungary "wikilink")
+00
+[EuropeanElection2004CandidatesSpain](EuropeanElection2004CandidatesSpain "wikilink")
+00
+[EuropeanElection2004CandidatesPortugal](EuropeanElection2004CandidatesPortugal "wikilink")
+00
+[EuropeanElection2004CandidatesItaly](EuropeanElection2004CandidatesItaly "wikilink")
+00
+[EuropeanElection2004CandidatesSlovenia](EuropeanElection2004CandidatesSlovenia "wikilink")
+00
+[EuropeanElection2004CandidatesEngland](EuropeanElection2004CandidatesEngland "wikilink")
+00
+[EuropeanElection2004CandidatesIreland](EuropeanElection2004CandidatesIreland "wikilink")
+00
+[EuropeanElection2004CandidatesPortugal](EuropeanElection2004CandidatesPortugal "wikilink")
+00
+[EuropeanElection2004CandidatesPoland](EuropeanElection2004CandidatesPoland "wikilink")
+00
+[EuropeanElection2004CandidatesSlovakia](EuropeanElection2004CandidatesSlovakia "wikilink")
+00
+[EuropeanElection2004CandidatesGreece](EuropeanElection2004CandidatesGreece "wikilink")
+00
+[EuropeanElection2004CandidatesCyprus](EuropeanElection2004CandidatesCyprus "wikilink")
+00
+[EuropeanElection2004CandidatesLuxembourg](EuropeanElection2004CandidatesLuxembourg "wikilink")
+00
+[EuropeanElection2004CandidatesFinland](EuropeanElection2004CandidatesFinland "wikilink")
+00
+[EuropeanElection2004CandidatesLithuania](EuropeanElection2004CandidatesLithuania "wikilink")
+00
+[EuropeanElection2004CandidatesEstonia](EuropeanElection2004CandidatesEstonia "wikilink")

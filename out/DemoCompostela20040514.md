@@ -1,0 +1,4 @@
+```{=mediawiki}
+{{http://galiza.indymedia.org/cidades/c1/imgpublico/1084189771cd59eff4aa.jpg}}
+```
+<http://kwiki.ffii.org/index.cgi?DemoCompostela0405Gl>

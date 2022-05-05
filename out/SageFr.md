@@ -1,0 +1,22 @@
+# SAGE Software Action Group for Europe {#sage_software_action_group_for_europe}
+
+From:
+<http://www.teaser.fr/~spineau/acrodict/index.php?KW=SAGE-Software_Action_Group_fo>\...&NDFIC=001710&INDEX=a019&IDBT=
+
+` Groupe de pressions d'éditeurs et fabricants américains`\
+` créé au début des années 1990 pour s'opposer au maintien`\
+` de la non brevetabilité des logiciels, au droit à la`\
+` décompilation et au reverse-engineering en matière de`\
+` logiciels dans la zone Européenne ; sujets alors en cours`\
+` de discussion au sein de la communauté dans le cadre de`\
+` l'harmonisation des lois en matière de propriété intellectuelle.`\
+` Parmi les membres de ce lobby l'ont peut citer, Apple,`\
+` Ashton-Tate, DEC, IBM, Lotus, Microsoft.`\
+` `\
+` En contre-poids, soutenant la non-brevetabilité des logiciels,`\
+` les industriels Européens soutenus par le Japon ont quant à`\
+` eux créés deux groupes de pressions, l'ECIS (European`\
+` Committee for Interoperable Systems) formé par les firmes`\
+` Apricot, Bull, NCR, Fujitsu, Olivetti... et le CUE (Computer`\
+` Users of Europe) composé par 70 firmes et organisations`\
+` anglaises et Européennes.`

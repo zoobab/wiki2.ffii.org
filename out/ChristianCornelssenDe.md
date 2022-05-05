@@ -1,0 +1,23 @@
+1.  1.  -\*- dok: [ChristianCornelssen](ChristianCornelssen "wikilink");
+        lang: de; charset: iso-8859-15; -\*-
+
+# Christian Cornelssen {#christian_cornelssen}
+
+## FFII-Mitglied {#ffii_mitglied}
+
+-   ID: ccorn
+-   Status: aktives Mitglied
+-   Eintritt: 2003
+-   Schwerpunkte: DE, Kontakte zu Bundesregierung und Bundestag,
+    FFII-Stellungnahmen
+-   Region: Berlin / Brandenburg
+-   E-Mail: Nutzer ccorn Rechner ffii.org
+
+## Kontakt
+
+-   Name: Christian Cornelssen
+-   Wohnort: Berlin
+-   Startseite: <http://www.cs.tu-berlin.de/~ccorn>
+-   Tel.: (030) / 705 63 58
+-   Mobil: 0160 / 38 31 686
+-   E-Mail: Nutzer ccorn Rechner cs.tu-berlin.de

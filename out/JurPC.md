@@ -1,0 +1,31 @@
+As this page is empty and as it is called JurPC and as I am the editor
+of JurPC I take the opportunity to add some information.
+
+First of all:
+
+JurPC is an online journal dealing with all questions concerning
+internet-law.
+
+Secondly:
+
+You can reach JurPC via <http://www.jurpc.de>
+
+Thirdly:
+
+In the present context you might be especially interested in the
+JurPC-coverage of the ongoing discussion about software-Patents, which
+can be found under
+
+<http://www.jurpc.de/aufsatz/20040163.htm>
+
+If you are interested to learn about my further internet-activities I
+recommend the following links:
+
+<http://www.jura.uni-sb.de/>
+
+<http://rechtsinformatik.jura.uni-sb.de/>
+
+If you want to contact me directly you can do so under the following
+e-mail-adress:
+
+herberger\@rz.uni-sb.de

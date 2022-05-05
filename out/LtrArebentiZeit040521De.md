@@ -1,0 +1,125 @@
+<http://www.zeit.de/2004/22/patent> Kommentar zum Kommentar \"Der
+technische Beitrag\" von Steffen Richter(richter\@zeit.de) in Die Zeit:
+
+-   Bruesseler Desinformationen (Bolkestein- und Rats-PR) z.T.
+    unkritisch abgeschrieben
+-   hat den diskutierten
+    [Richtlinienvorschlag](http://swpat.ffii.org/papiere/europarl0309/cons0401/ "wikilink")
+    nicht gelesen.
+-   versteht die Problematik nicht wirklich, scheint neu in der Debatte
+    zu sein
+
+Die EU-Staaten haben eine Patentschutz-Richtlinie für Software
+beschlossen
+
+\--\> Der **Ministerrat** hat es beschlossen. In ihm sind diejenigen
+Ministerien vertreten, die fuer die Patentaemter zustaendig sind, im
+Falle Deutschlands das BMJ. Die Exekutive spielt nun Legislative. Auch
+im Bundestag hätte sie für ihr Handeln keine Mehrheit.
+
+Der EU-Wettbewerbsrat hat am Dienstag in Brüssel einen entsprechenden
+Beschluss gefasst, nach dem nach Ansicht des Rates bestimmte
+Innovationen durch ein Patent geschützt werden und die Erfinder ihren
+entsprechenden Anteil erhalten.
+
+\-\--\> \"Wettbewerbsrat\" ist nur der \"Ministerrat\" in einer
+bestimmten Formation \-\--\> die Richtlinie regelt keine
+Erfinderverguetungen \-\-- auf Kommissions-PR reingefallen
+
+Bis dieser Beschluss ins Gemeinschaftsrecht eingeht, muss er noch einmal
+ins Europäische Parlament, das im Juni neu gewählt wird.
+
+\-\--\> Das bereits den Vorschlag der EU-Kommission korrigiert hatte.
+Der Vorschlag des Ministerrates ist eine Verhöhung der
+Parlamentsentscheidung aus Erster Lesung.
+
+Große Unternehmen wie Siemens, Nokia oder Alcatel hatten sich gegenüber
+den zuständigen europäischen Ministern massiv für diesen Patentschutz
+eingesetzt.
+
+\-\--\> Eher Patentanwälte. (einschliesslich der Patentabteilungen von
+Siemens, Nokia (Patentaktivist Tim Frain) usw.)
+
+So wird im Patentschutz eine Verbesserung der Wettbewerbsposition
+europäischer Unternehmen gegenüber jenen aus den USA gesehen.
+
+\-\--\> Kausalität? Bereits heute sind 3/4 der dubiosen Europäischen
+Software-PAtente von US und JP angemeldet.
+
+Dort können auch in Software umgesetzte Anwendungen oder
+Geschäftsmodelle mit einem Patent geschützt werden. So hält
+beispielsweise Amazon Patente auf das Verfahren \"mit einem Klick
+kaufen\" sowie auf die Möglichkeit, eine Ware als Geschenk auszuliefern.
+
+-   Letzteres praktiziert auch das Europaeische Patentamt, und der
+    Ministerrat versuchte mit eigenen Worten genau diese Praxis
+    gesetzlich abzusichern.
+
+` Kritiker befürchten, dass Software-Patente große IT-Konzerne bevorteilen werden, die am Ende Patent-Oligopole bilden könnten.`
+
+` `[`SourceEntwickler`](Open "wikilink")` sind auf allgemeine Programmelemente angewiesen, deren Patentierung Lizenzgebühren nach sich ziehen und so Open-Source-Programme kostenpflichtig machen kann. `
+
+-   Lizenzgebühren sind das geringere Übel. Aussperrung und
+    Rechtsunsicherheit ist das Problem.
+-   Der Autor versteht nichts von Softwareentwicklung: Software wird
+    nicht aus patentgeschützten Programmelementen nach
+    Frankensteinmanier gezimmert.
+
+In einem Beitrag für \"c\'t aktuell\" betonte Bundesjustizministerin
+Brigitte Zypries dagegen, dass die Patentierung von Geschäftsmethoden
+auch für die Zukunft ausgeschlossen werden soll. Die Erteilung so
+genannter Trivialpatente wie die elektronische Geschenkbestellung solle
+mit der neuen EU-Richtlinie vermieden werden.
+
+\-\--\> Wo steht das im Richtlinientext?
+
+Die Patentierbarkeit von Software wurde in der EU bislang durch eine
+Übereinkunft geregelt, nach der so genannte \"Programme für
+Datenverarbeitungsanlagen\" nicht als patentfähige Erfindungen angesehen
+werden.
+
+\-\--\> Dieses EPÜ gilt dessen ungeachtet.
+
+Dessen ungeachtet sind beim Europäischen Patentamt in München bereits
+seit den 80er-Jahren zahlreiche Software-Patente erteilt worden.
+
+\-\--\> Also: Rechtsbruch \-\--\> Ex-Post Legitimierung
+
+Wird dort einem eingereichten Programm ein zusätzlicher technischer
+Effekt attestiert, ist es patentfähig.
+
+-   Programme werden nicht eingereicht, sondern beansprucht. Genauer: es
+    werden Ansprueche auf \"Programm, dadurch gekennzeichnet dass \...\"
+    (Programmansprueche) erlaubt, und dazu wird behauptet, es werde
+    eigentlich kein Programm sondern etwas irgendwie darueber
+    hinausgehendes beansprucht. Etwa, nicht ein Rezept als solches
+    sondern ein \"Rezept mit einem weiteren kulinarischen Effekt, der
+    ueber die normale physische Interaktion zwischen Rezept und Koch
+    hinausgeht.\"
+
+Nach den Kompromissverhandlungen von Dienstag muss nun unter anderem ein
+\"technischer Beitrag\" nicht nur \"erfinderisch\", sondern auch \"neu\"
+sein.
+
+\-\--\> Neuheit und der erfinderische Beitrag sind
+Selbstverständlichkeiten, die für alle Patente gelten. Das ist keinerlei
+Einschränkung.
+
+\-\--\> Kompromiss? Mit wem?
+
+Die eindeutige Abgrenzung von patentfähigen und nicht-patentfähigen
+Erfindungen steht noch aus.
+
+\-\--\> Was steht in dem Richtlinienvorschlag des Ministerrates?
+
+Um die freie Entwicklerszene und Softwarefirmen, die sich keine Patent-
+und Rechtsabteilung leisten, vor Verfolgung zu schützen, wird in Zukunft
+definiert werden müssen, was ein \"technischer Beitrag\" wirklich ist.
+Und Monopolansprüche auf simple Vorgänge wird es auch nicht geben
+dürfen. Für den \"technischen Beitrag\" kann einfach auf die
+EU-Parlamentsvorlage vom vergangenen Herbst zurückgegriffen werden - die
+enthielt bereits eine klare Definition dessen.
+
+\-\-\--\> Das Technizitätskriterium wurde absichtlich nicht aus der
+Parlamentsrichtlinienversion übernommen, weil es das einzige
+funktionierende Kriterium ist.

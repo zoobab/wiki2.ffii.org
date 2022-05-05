@@ -1,0 +1,72 @@
+Bonjour,
+
+La page exemple n\'étant pas tout à fait XHTML valide, je l\'ai
+corrigée. Vous pouvez la trouver sur
+<http://www.linux-nantes.fr.eu.org/ep0406.fr.html>.
+
+J\'ai ajouté un lien vers <http://www.candidats.net/> pour augmenter la
+pluralité des choix.
+
+A bientôt,
+
+Kateznik
+
+------------------------------------------------------------------------
+
+Bonjour,
+
+A améliorer sur la page de protestation:
+
+\"Parlement européen a la pouvoir de bloquer \" -\> \"Parlement européen
+a le pouvoir de bloquer \"
+
+------------------------------------------------------------------------
+
+Voila, j\'ai corrige ma fote depuis la version de Kateznik:
+<http://glinupro.homelinux.org:8080/GLinuPro/Documents/ep0406.fr.html>
+
+Merci d\'uploader le fichier sur le serveur kwiki.ffii.org si c\'est
+possible (moi, je n\'ai toujours pas trouve comment\...).
+
+Pour info, si vous voulez une redirection automatique, il faut ajouter
+le tag
+
+```{=html}
+<meta http-equiv="Refresh" content="20;URL=index2.php">
+```
+(pour 20 secondes) entre
+
+```{=html}
+<head>
+```
+et
+
+```{=html}
+</head>
+```
+.
+
+Pierre
+
+\-\--
+
+Euh, le PB, c\'est que l\'on ne peut pas accéder à la page :
+<http://www.linux-nantes.fr.eu.org/ep0406.fr.html>. qui \'répond\' :) !
+
+Not Found The requested URL /ep0406.fr.html was not found on this
+server.
+
+Apache/1.3.29 Server at www.linux-nantes.fr.eu.org Port 80
+
+Si je suis le seul, pas de PB, mais sinon :(!
+
+Si j\'ai pu aider
+
+Mi
+
+\--
+
+Même problème ici, mais <http://www.linux-nantes.fr.eu.org/> affiche ce
+qui doit être la bonne page.
+
+S

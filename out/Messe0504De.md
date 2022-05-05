@@ -1,0 +1,187 @@
+1.  1.  -\*- dok: messe0504; lang: de; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Hannover-Messe im Zeichen der Softwarepatente {#hannover_messe_im_zeichen_der_softwarepatente}
+
+-\> \[ [ Treffen](SwpatpenmiDe "wikilink") \| [
+ZVEI](SwpatzveiDe "wikilink") \| [ Siemens](SwpatsiemensDe "wikilink")
+\|
+[Forum](http://listinfo.ffii.org/mailman/listinfo/de-parl/ "wikilink")
+\| [ Patentneuigkeiten](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Die Auseinandersetzung um die geplante EU-Richtlinie \"über die
+Patentierbarkeit computer-implementierter Erfindungen\" hat die
+Hannover-Messe erreicht. Verbände der Großindustrie und des
+Mittelstandes und weitere Aussteller und Akteure machen aus sehr
+unterschiedlicher Sicht auf das Thema aufmerksam.*
+
+## Neues & Chronik {#neues_chronik}
+
+-   2005-04-12 ZVEI-Pressekonferenz, [Heise
+    berichtet](http://www.heise.de/newsticker/meldung/58492 "wikilink")
+-   2005-04-12 FFII [veröffentlicht
+    Presseerklärung](http://lists.ffii.org/pipermail/neues/2005-April/000526.html "wikilink")
+-   2005-04-09 FFII-Arbeitsgruppe für Messe gebildet
+
+## Presseerklärung
+
+Die HANNOVER MESSE gilt als das jährliche Schaustück der
+Innovationskraft des deutschen Industrie. Mehr als 70% der Arbeitsplätze
+stellt in den meisten Branchen der Mittelstand. Ein Schlüssel für die
+Stärke deutscher Unternehmer ist das im Ganzen sichere rechtliche
+Umfeld. Auf diesem Horizont ziehen jedoch Wolken auf.
+
+Dr. Heiner Flocke, Vorsitzender des \[10\]Patentverein e.V. stellt fest:
+
+`"Wir sind besorgt über Missverständnisse in der deutschen`\
+` Wirtschaftspolitik. Es wird ein regelrechter Kult um Innovation und`\
+` Patente betrieben, und auf Entscheiderebene glaubt man vielfach noch`\
+` immer, mehr Patente bedeuteten mehr Innovation.  So ist eine Flut `\
+` von Verbotsvorschriften entstanden, mit denen die alltägliche `\
+` Innovationsarbeit der Unternehmen behindert wird."`
+
+Sascha Frick von der Empros GmbH, einem Spezialisten für Software im
+Bereich der Industrie-Automation, berichtet von seiner Erfahrung mit
+Patenten bei einem Großprojekt zur Entwicklung einer neuen Generation
+von Maschinensteuerungssoftware:
+
+` "Patente sind ein Alptraum! Wir kämpfen derzeit mit einem halben`\
+`  Dutzend Software-Patenten, etwa ein Patent auf die Verwendung von TCP/IP in`\
+`  Spritzgussmaschinen, ein Patent auf die Verwendung von Softwarekomponenten in`\
+`  Zusammenhang mit Plastikherstellungsmaschinen, oder ein Patent, dessen`\
+`  einzige Erfindungsleistung in der Verwendung eines Zeigegerätes, z.B.  zur`\
+`  einer Maus, zur Bedienung von Maschinensteuerungssoftware, und so weiter.`\
+`  Keines dieser Patente repräsentiert irgend einen Wert, es geht nur um die`\
+`  Anwendung elementarer Logik-Operationen auf bekannte naturwissenschaftliche `\
+`  Zusammenhänge. In den letzten Monaten haben wir unzählige Stunden damit `\
+`  verbracht, kryptische Texte zu entziffern, die irgendwelche angeblichen `\
+`  Erfindungen beschreiben. In all diesen Texten konnten wir nur eine einzige `\
+`  Erfindung erkennen: die große Geldtransfermaschine, die der Industrie `\
+`  wertvolle Ressourcen stiehlt, um einen kontinuierlichen Geldstrom zugunsten `\
+`  von Patentämtern und Patentanwälten zu erzeugen."`
+
+Besonders heftig umkämpft ist die Frage ob Software-Lösungen, im Jargon
+des Europäischen Patentamtes seit 2000 auch \"computer-implementierte
+Erfindungen\" genannt, patentierbar sein sollen. Dr. Thomas Wünsche,
+Inhaber und Geschaeftsführer der EMS Dr. Thomas Wuensche, eines
+Unternehmens fuer Automatisierungstechnik und industrielle
+Kommunikation:
+
+`  In unseren Tätigkeitsfeldern Automatisierungstechnik und Automotive`\
+`  Elektronik fließt ein erheblicher Teil des Entwicklungsaufwands in die`\
+`  Software. Etwa 80% unserer Entwickler sind Software-Entwickler, die`\
+`  Innovationsfähigkeit unseres Unternehmens hängt wesentlich von`\
+`  Software ab. Das Urheberrecht schützt uns in diesem Bereich in`\
+`  angemessener Weise vor Nachahmung. Wer das Urheberrecht durch`\
+`  Reverse-Engineering und Nachimplementierung umgehen möchte, kommt in`\
+`  so dynamischen Märkten wie unserem viel zu spät.`
+
+`  Was wir fuer unsere Innovationsfähigkeit brauchen, sind Schutzrechte`\
+`  mit geringem Verwaltungsoverhead wie das Copyright. Patente auf`\
+`  Software treiben den Verwaltungsaufwand nach oben, schaffen`\
+`  zusätzliche Rechtsunsicherheit und laufen damit unserer`\
+`  Innovationsfähigkeit diametral entgegen. Die anstehenden Risiken durch`\
+`  Softwarepatente haben bereits jetzt dazu geführt, dass wir`\
+`  Ausbildungsplätze nicht wie in den Vorjahren besetzen, um Kapazität`\
+`  fuer Umgestaltungen zur Risikoreduktion freizuschaufeln. Wir wuerden`\
+`  allerdings lieber ausbilden als uns mit Softwarepatenten und daraus`\
+`  resultierenden Risiken zu beschäftigen.`
+
+`  Der Richtlinienentwurf des Europäischen Parlaments vom September 2003`\
+`  stellt nicht sicher, dass wir in unserer Innovationsfähigkeit`\
+`  zukünftig nicht von Patenten eingeschränkt werden, aber er verhindert`\
+`  die schlimmsten Auswüchse. Technische Erfindungen wie das vielzitierte`\
+`  Antiblockiersystem wären auch unter der Parlamentsrichtlinie`\
+`  grundsätzlich patentierbar, wobei sich der Schutzumfang allerdings auf`\
+`  den Umgang mit den Naturkräften an der Peripherie der`\
+`  Datenverarbeitungsanlage beschränkt. Wenn der Entwurf des Ministerrats`\
+`  durchgeht, wird hingegen nahezu jeder Verfahrensablauf patentierbar,`\
+`  und schon seine Beschreibung in Form eines Computerprogramms wird zur`\
+`  Patentverletzung. Das würde uns eine Situation wie in den USA bringen,`\
+`  wo Konzerne kleinere Wettbewerber mit der Masse eines Portfolios`\
+`  weitgehend trivialer Patente erdrücken und produktlose Abkassierer ihr`\
+`  Heil in Patentverletzungsklagen suchen.`
+
+Bisherige Studien und Umfragen des Berliner Wirtschaftsministeriums
+bestätigen, dass Wünsche mit seiner Einschätzung nicht alleine ist. Bei
+einer am 4. April veröffentlichten Umfrage\[2\] beurteilen die 1214
+teilnehmenden Unternehmen die Frage \"Haben Softwarepatente
+beinträchtigende oder unterstützende Auswirkungen auf Ihre
+Programmiertätigkeit oder erwarten Sie solche?\" sehr negativ: auf einer
+Skala von -3 bis +3 geben sie im Schnit -2.58 an. Eine Umfrage von
+2000\[2\] findet ebenfalls ein negatives Meinungsbild und belegt darüber
+hinaus, dass in der \"Sekundärbranche\" (d.h. programmierenden
+Unternehmen der klassischen Industrien) das Interesse an
+Softwarepatenten ähnlich gering ist wie in der \"Primärbranche\".
+
+Hartmut Pilch, Vorsitzender des FFII e.V., der 1400 Unternehmen in
+dieser Frage vertritt, erklärt:
+
+`  Firmen wie Siemens kämpfen gerade auf dieser Messe für eine`\
+`  gesetzliche Festschreibung der Patentierbarkeit von Software-Lösungen.`\
+`  Setzen sie sich damit durch, so würde die ganze Palette der`\
+`  Patentameldungen rechtsbeständig, die etwa Siemens beim Europäischen`\
+`  Patentamt eingereicht hat, so von reinen Geschäftsmethoden bis hin zu`\
+`  "medizintechnischen Verfahren" für die Buchführung in der Arztpraxis.`
+
+`  Das Europäische Parlament hat in seiner ersten Lesung einige wichtige`\
+`  Einschränkungen vorgeschlagen, die das schlimmste verhindern.`\
+`  Konzerne wie Siemens wollen aber nichts verhindern.  Sie wollen ihr`\
+`  Patent-Monopoly-Spiel auf den gesamten Bereich ausdehnen, der im Zuge`\
+`  der Digitalisierung in ihr Visier gerät.  Eigentlich ist der Computer`\
+`  eine Maschine zur Vereinfachung des Erfindens.  Auch Siemens löst`\
+`  gerne Probleme auf Software-Ebene, weil das so einfach und bequem ist.`\
+`  Aber zugleich möchten sie weiter patentieren, und zwar auch dort, wo`\
+`  es nichts mehr zu patentieren gibt.  Zu diesem Zweck verbreiten die`\
+`  Patentanwälte von Siemens, Volvo und anderen Konzernen`\
+`  Desinformationen über die Standpunkte des Ministerrats und des`\
+`  Parlaments.  Sie tun so, als vertrete der Ministerrat das, was in`\
+`  Wirklichkeit das Parlament vertritt. Denn sie wissen, dass bei den`\
+`  meisten Unternehmen nur die Position des Parlaments Zustimmung findet.`
+
+Auf dem Stand des Bundesverbandes der Mittelständischen Wirtschaft
+(BVMW) auf der Hannover Messe Industrie in Halle 2 Stand D 15/2 liegt
+Informationmaterial (Plakat und Flyer) aus, welches auf gravierende
+Nachteile von Softwarepatenten für die mittelständische Wirtschaft
+hinweist.
+
+Der Zentralverband für die Elektronische Industrie hingegen veranstaltet
+an seinem Stand am Dienstag nachmittag eine Pressekonferenz mit
+Botschaften im Sinne der Siemens-Position.
+
+## Ergänzende Dokumente {#ergänzende_dokumente}
+
+-   [Patentverein](http://www.patentverein.de/ "wikilink")
+-   [EMS Wuensche](http://www.ems-wuensche.de/ "wikilink")
+-   [BMWA-Umfrage 2004](http://wiki.ffii.org/Ifis050404De "wikilink")
+    -   -   <http://www.internet-sicherheit.de/index.php?id=44>
+        -   <http://www.heise.de/newsticker/meldung/58222>
+-   [BMWi-Umfragen
+    2000-2003](http://swpat.ffii.org/papiere/bmwi-fhgmpi01/ "wikilink")
+    -   -   <http://www.bmwa.bund.de/Navigation/Service/bestellservice,did=21760.html>
+        -   <http://www.bmwa.bund.de/Navigation/Service/Bestellservice/publikationen-technologiepolitik,did=24936.html>
+-   [BVMW](http://www.bvmw.de/ "wikilink")
+
+## Kontakt
+
+`Hartmut Pilch, München`\
+`tel. +49 (0)89 18979927`\
+`e-post phm bei ffii org`
+
+`Arbeitsgruppe Hannover Messe: messe0504 bei ffii org`
+
+## Über den FFII \-- <http://www.ffii.org> {#über_den_ffii____httpwww.ffii.org}
+
+Der FFII ist ein in München eingetragener gemeinnütziger Verein für
+Volksbildung im Bereich der Datenverarbeitung. Der FFII unterstützt die
+Entwicklung öffentlicher Informationsgüter auf Grundlage des
+Urheberrechts, freien Wettbewerbs und offener Standards. Über 500
+Mitglieder, 1200 Firmen und 80000 Unterstützer haben den FFII mit der
+Vertretung ihrer Interessen im Bereich der Gesetzgebung zu
+Software-Eigentumsrechten beauftragt. Der FFII unterhält je ein ständig
+besetztes Büro in München und Brüssel sowie nationale Verbände und
+Unterstützergruppen in den meisten Ländern Europas. Der FFII ist
+Mitglied des Europäischen Dachverbandes der Verbände kleiner und
+mittlerer Unternehmen, CEA-PME.

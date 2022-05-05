@@ -1,0 +1,86 @@
+# Software-Patente oder Offene Standards - das EU Parlament vor der Wahl {#software_patente_oder_offene_standards___das_eu_parlament_vor_der_wahl}
+
+Presseerklärung Medien-FFII (medien\@ffii.org)
+
+Software-Patente oder Offene Standards - das EU Parlament vor der Wahl
+
+Zu einer Pressekonferenz und Konferenz zum Thema Software-Patentierung
+laden Die Grünen/EFA im Europaparlament am 17. September. Der
+Web-Erfinder Tim Berners-Lee, dessen W3C nicht erst seit dem EOLAS -
+Fall vor der Bedrohung Offener Standards durch Software-Patente weiss,
+hat die Teilnahme über Videokonferenz angekündigt. Das WWW ist heute
+dank des patentfreien Offenen Standards HTML unverzichtbarer Bestandteil
+der weltweiten Informationsinfrastruktur. Auch viele europäische KMU
+sind versammelt, um auf die Auswirkung einer europaweiten Legalisierung
+der Software-Patentierung auf ihr Geschäft hinzuweisen. Darunter Roland
+Dyroff, Vorstand der SuSE Linux AG, Hakon Wium Lie, Technischer Direktor
+von OPERA (Hersteller des gleichnamigen Webbrowsers) und führende
+europäische Informatiker, Ökonomen und Konsumentenrechtler.
+
+Die parlamentarische Debatte und Abstimmung über den umstrittenen
+Bericht des EU-Parlamentes von Arlene [McCarthy](McCarthy "wikilink")
+wird für die nächste Strassburger Plenarsitzung (22. bis 25. September
+erwartet).
+
+Die Teilnahme ist offen, es ist aber notwendig sich bis Montag, dem 15.
+September per E-Mail bei lvandewalle\@europarl.eu.int zu registrieren,
+um Einlass in das Brüsseler Parlamentsgebäude zu bekommen.
+
+ORT: 15.00 Uhr Mittwoch, 17. September 2003 Pressezentrum Europäisches
+Parlament Raum PHS 01 A 50
+
+Teilnehmer:
+
+Daniel Cohn-Bendit Co-Präsident Greens/EFA Gruppe Mercedes Echerer, MdEP
+(Österreich) Danielle Auroi, MdEP (Frankreich) Neil
+[MacCormick](MacCormick "wikilink"), MdEP (Schottland) Jim Murray
+(Direktor BEUC) Dr Paul Klint (Präsident EAPLS) Roland Dyroff (Suse)
+
+Für die anschliessende Konferenz (Mittwoch, 17. September 2003, 16.00 -
+18.30, Europäisches Parlament, Brüssel, Raum PHS 5 B 001) wird noch das
+Programm erstellt.
+
+\-- Vorrübergehende Planung \--
+
+SOFTWARE PATENTS: THE CHOICE IS YOURS Eine Konferenz unter Leitung MdEP
+Daniel Cohn-Bendit. Mittwoch, 17. September, 16.00 -18.30 Europäisches
+Parlament Brüssel, Raum PHS 5 B 001
+
+<http://www.greens-efa.org>
+
+15.00 Pressekonferenz
+
+16.00 Einführende Worte von MdEP Daniel Cohn-Bendit,
+Fraktionsvorsitzender der Grünen/EFA im Europäischen Parlament.
+
+16.10 Präsentation der Petition der Wissenschaftler: Dr. Paul Klint,
+Präsident der European Association of Programming Languages and Systems
+(EAPLS), (http://www.upgrade-cepis.org/issues/2003/3/up4-3Petition.pdf)
+
+16.30 Präsentation des Briefes der Ökonomen: Dr. Luc Soete, Gründer von
+MERIT (Maastricht Economic Research Institute on Innovation and
+Technology)
+<http://www.zdnet.fr/actualites/technologie/0,39020809,39116150,00.htm>
+
+16.45 Die Sichtweise der Konsumenten: Jim Murray, Director of the BEUC
+
+17.00 Tim Berners-Lee, Direktor des World Wide Web Consortium, Erfinder
+des World Wide Web: Onlinestellungnahme, Debatte und Chat
+(Videokonferenz)
+
+17.30 Öffentliche Verwaltung und Open Source Software: Jens Mülhaus,
+Ratsherr der Stadt München.
+
+17.45 Europäische KMU und Software-Patente: Hakon Wium Lie, CEO of OPERA
+(Multi-Plattform Webbrowser, auch verwendet in Handys und
+[PDAs](PDAs "wikilink") einschliesslich Motorola - Geräten)
+<http://www.opera.com>
+
+18.00 Debatte
+
+18.30 Zusammenfassung
+
+Übersetzung wird in 11 offiziellen EU Sprachen verfügbar gemacht.
+
+Die Teilnahme ist kostenfrei, Registrierung bis 15. September bei
+lvandewalle\@europarl.eu.int notwendig.

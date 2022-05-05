@@ -1,0 +1,2 @@
+Die Daten für die ursprünglich im Messejournal des !LinuxTags 2004
+geplante Anzeige stehen nicht mehr zum Herunterladen zur Verfügung.

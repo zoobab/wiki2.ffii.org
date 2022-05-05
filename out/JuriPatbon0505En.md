@@ -1,0 +1,47 @@
+## Recital 9 {#recital_9}
+
+\|\| number \|\| submitter \|\| recommendation \|\| text \|\| \|\| 8
+\|\| Rocard \|\| + \|\| Patent protection may allow inventors to benefit
+from their creativity. Patent rights protect innovation in the interests
+of society as a whole and should not be used in a manner which is
+anti-competitive or excessively detrimental to the innovation derived
+therefrom. \|\| \|\| 196 = 197 = 198 \|\| Ortega; Kudrycka and Zwiefka;
+Bertinotti \|\| ++ \|\| Patents are temporary exclusion rights granted
+by the state to inventors in order to stimulate technical progress. In
+order to ensure that the system works as intended, the conditions for
+granting patents and the modalities for enforcing them must be carefully
+designed. In particular, inevitable corollaries of the patent system
+such as restriction of creative freedom, users\' rights or legal
+insecurity and anti-competitive effects must be kept within reasonable
+limits. \|\| \|\| 199 \|\| Kauppi \|\| ++ \|\| Patents are temporary
+exclusion rights granted by the state to inventors in order to benefit
+from their creativity and to stimulate technical progress. In order to
+ensure that the patent rights protect innovation in the interest of
+society as a whole and the system works as intended, the conditions for
+granting patents and the modalities for enforcing them must be carefully
+designed. In particular, inevitable corollaries of the patent system
+such as restriction of creative freedom, users\' rights or legal
+insecurity and anti-competitive effects must be kept within reasonable
+limits. \|\| \|\| 200 \|\| Lichtenberger, Frassoni \|\| + \|\| Patent
+protection allows inventors to benefit from their creativity. Patent
+rights protect innovation in the interests of society as a whole and
+should not be used in a manner which is anti-competitive or excessively
+detrimental to the innovation derived there from. \|\|
+
+196 = 197 = 198 clearly state that patents are merely a policy tool
+which governments can use where they deem them to be beneficial to
+innovation and the economy as a whole.
+
+199 adds that patents are also there for innovators to benefit from
+their creativity. This \"natural rights\" principle is however generally
+not accepted amongst law scholars as far as intangibles are concerned,
+because such rules introduce artificial scarcity (with tangible
+property, scarcity occurs automatically \-- multiple people can\'t
+simultaneously use the same physical object).
+
+200 is only a small improvement compared to the Council text.
+
+8 is a bit better than 200, but still unconditionally states that
+\"Patent rights protect innovation in the interests of society as a
+whole\", although this is not true by definition (only if applied well
+as one of the tools available to economic policy makers).

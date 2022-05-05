@@ -1,0 +1,41 @@
+# Politech Institute conference on IPR and eGovernment Interoperability in Europe {#politech_institute_conference_on_ipr_and_egovernment_interoperability_in_europe}
+
+------------------------------------------------------------------------
+
+## Location
+
+European Parliament, Brussels
+
+## Date and time {#date_and_time}
+
+Monday, 10 July 2006
+
+## Agenda
+
+-   Moderator: Daniel VAN LERBERGHE, President & Executive Director,
+    POLITECH INSTITUTE
+-   Chair: MEP Alexander ALVARO, Member of the ERPT Honorary &
+    Scientific Committee
+
+```{=html}
+<!-- -->
+```
+-   15:30-15:40 Opening remarks: MEP Alexander ALVARO
+-   15:40-15:45 Norbert BENAMOU, Founder & President, Business Flow
+    Consulting
+-   15:45-15:50 Hugo LUEDERS, Director, Public Policy EMEA, !CompTIA
+    Europe
+-   15:50-15:55 Stephen MCGIBBON, Senior Director, Microsoft EMEA
+    Technology Office
+-   15:55-16:00 Benoit MÜLLER, Director, Software Policy (Europe),
+    Business Software Alliance
+-   16:00-16:05 Graham TAYLOR, Graham TAYLOR, Director, !OpenForum
+    Europe
+-   16:05-16:10 Jonathan ZUCK, President, Association for Competitive
+    Technology
+-   16:10-17:00 Open floor
+-   17:00-18:00 Cocktail
+
+## Links
+
+-   <http://www.politech-institute.org/review.asp?rev=7&vol_id=3>

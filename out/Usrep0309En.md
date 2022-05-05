@@ -1,0 +1,18 @@
+# US Government Lobbying [MEPs](MEPs "wikilink") {#us_government_lobbying_meps}
+
+So lang wir keine US Seite haben:
+
+<http://www.uspto.gov/web/offices/com/doc/ipnii/> Wichtiges USPTO Paper
+von 94/95 Intellectual Property and the National Information
+Infrastructure The Report of the Working Group on Intellectual Property
+Rights
+
+<http://www.ieeeusa.org/committees/IPC/> The Intellectual Property
+Committee\'s primary objective is to focus on intellectual property
+matters as they relate to the IEEE-USA membership (employed engineers,
+faculty, scientists, inventors, entrepreneurs, etc.), fast moving
+technology, technology transfer, and U.S. competitiveness.
+
+IPC prepares testimony and position statements, drafts legislation, and
+delivers expert testimony before the U.S. Congress and the United States
+Patent and Trademark Office.

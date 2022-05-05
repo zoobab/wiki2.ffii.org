@@ -1,0 +1,787 @@
+1.  acl [TrustedGroup](TrustedGroup "wikilink"):read All:
+
+&&Water== Please add addresses to your ministers according to the
+template below.
+
+Find ministers e.g. in Council meeting documents
+([Justice](http://ue.eu.int/ueDocs/cms_Data/docs/pressdata/en/jha/82937.pdf "wikilink"),
+[Competitiveness](http://ue.eu.int/ueDocs/cms_Data/docs/pressdata/en/intm/82805.pdf "wikilink"),
+[TTE](http://ue.eu.int/ueDocs/cms_Data/docs/pressdata/en/trans/83037.pdf "wikilink")
+all on page.5)
+
+`Country`\
+`   Minister(s) attending the Justice and Home Affairs Council `\
+`   Minister(s) attending the Competitiveness (Internal Market, Industry and Research) Council`\
+`   Minister(s) attending the Transport, Telecommunications and Energy Council`\
+`   Minister(s) that should know about the directive`
+
+### Austria
+
+`   Mr. Hubert Gorbach`\
+`   Minister for Transport, Innovation and Technology`\
+`   Federal Ministry of Transport, Innovation and Technology`\
+`   Radetzkystrasse 2`\
+`   A-1030 Wien, AUSTRIA`
+
+`   Mag. Eduard Mainoni`\
+`   State Secretary, Federal Ministry of Transport, Innovation and Technology`\
+`   Federal Ministry of Transport, Innovation and Technology`\
+`   Radetzkystrasse 2`\
+`   A-1030 Wien, AUSTRIA`
+
+### Belgium
+
+#### Prime minister: {#prime_minister}
+
+-   Dutch (his native language):
+
+` De Heer Guy Verhofstadt`\
+` Federale Overheidsdienst (FOD) Kanselarij van de Eerste  Minister`\
+` Wetstraat 16`\
+` 1000 Brussel`\
+` Tel: 02/501.02.11`\
+` Fax: 02/512.69.53`
+
+-   French:
+
+` Monsieur Guy Verhofstadt`\
+` Service public fédéral (SPF) Chancellerie  du Premier Ministre`\
+` Rue de la Loi, 16`\
+` 1000 Bruxelles`\
+` Tél: 02/501.02.11`\
+` Fax: 02/512.69.53`
+
+#### Responsible Federal minister: {#responsible_federal_minister}
+
+-   Dutch (his native language):
+
+` De Heer Marc Verwilghen`\
+` Minister van Economie, Energie, Buitenlandse Handel en Wetenschapsbeleid`\
+` Brederodestraat 9`\
+` 1000 BRUSSEL`\
+` Tel: 02/213 09 11`\
+` Fax: 02/213 09 22`\
+` Email: marc.verwilghen AT vldwest.be`
+
+-   French:
+
+` Monsieur Marc Verwilghen`\
+` Ministre de lEconomie, de l'Energie, du Commerce extérieur et de la Politique scientifique`\
+` Rue Bréderode, 9`\
+` 1000 BRUXELLES`\
+` Tél: 02/213 09 11`\
+` Fax: 02/213 09 22`\
+` Email: marc.verwilghen AT vldwest.be`
+
+#### Responsible Walloon Minister: {#responsible_walloon_minister}
+
+` Monsieur Jean-Claude Marcourt`\
+` Ministre de l'Economie et de l'Emploi`\
+` Place des Célestines, 1`\
+` 5000 Namur`\
+` Tél: 081/23 41 11 `\
+` Fax: 081/23 41 22`
+
+#### Responsible Flemish Minister: {#responsible_flemish_minister}
+
+` Mevrouw Fientje Moerman`\
+` Vlaams Minister van Economie, Ondernemen, Wetenschap, Innovatie en Buitenlandse Handel`\
+` Martelaarsplein 7`\
+` 1000 Brussel`\
+` Tel: 02/553 23 11`\
+` Fax : 02-553 23 05`\
+` Email: kabinet.moerman AT vlaanderen.be`
+
+#### Responsible Brussels Minister: {#responsible_brussels_minister}
+
+` Monsieur Benoît Cerexhe`\
+` Ministre de l'Emploi, de l'Economie et de la Recherche Scientifique`\
+` rue Capitaine Crespel  35`\
+` 1050 Bruxelles`\
+` Tél: 02/508 79 11`\
+` Fax: 02/514 48 60`\
+` Email: bcerexhe AT cerexhe.irisnet.be`
+
+`Czech Republic`\
+`   Mr Miroslav SOMOL`\
+`   Deputy Minister for Industry and Trade`
+
+`Cyprus`\
+`   Mr Yiorgos LILLIKAS`\
+`   Minister for Commerce, Industry and Tourism`
+
+### Denmark
+
+`   The newly reformed government has had no changes at these positions.`
+
+`   Ms Lene ESPERSEN (Justice and home affairs)`\
+`   Minister of Justice`\
+`   Ministry of Justice`\
+`   Slotsholmsgade 10`\
+`   DK-1216 København K`\
+`   DENMARK`\
+`   Phone: (+45) 33 92 33 40`\
+`   Fax: (+45) 33 93 35 10`\
+`   E-mail jm AT jm.dk`
+
+#### Minister in charge of software patents: {#minister_in_charge_of_software_patents}
+
+`   Mr Bendt BENDTSEN (Competetiveness Council)`\
+`   Minister for Economic and Business Affairs`\
+`   Slotsholmsgade 10-12`\
+`   DK-1216 København K`\
+`   DENMARK`\
+`   Phone: (+45) 33 92 33 50`\
+`   Fax: (+45) 33 12 37 78`\
+`   E-mail min AT oem.dk`
+
+`   Mr Helge SANDER (Competetiveness Council)`\
+`   Minister for Science,Technology and Development`\
+`   Bredgade 43`\
+`   DK-1260 København K`\
+`   DENMARK`\
+`   Phone: (+45) 3392 9700`\
+`   Fax: (+45) 3332 3501`\
+`   E-mail vtu AT vtu.dk `
+
+`   Ms Connie HEDEGAARD (Competetiveness Council)`\
+`   Minister for the Environment`\
+`   Ministry of the Environment`\
+`   Højbro Plads 4`\
+`   1200 København K`\
+`   Phone: (+45) 33 92 76 00`\
+`   E-mail: mim AT mim.dk`
+
+`   The danes in the TTE Council notes were below government level. They are from the ministries of:`
+
+`   Mr Per Stig Moeller (Repr. by Jeppe Tranholm Mikkelsen)`\
+`   Minister of Foreign Affairs`\
+`   Ministry of Foreign Affairs`\
+`   Asiatisk Plads 2`\
+`   DK-1448 København K`\
+`   Phone: (+45) 33 92 00 00`\
+`   Fax: (+45) 32 54 05 33`\
+`   E-mail: um AT um.dk `\
+`   `\
+`   Mr Flemming Hansen (Repr. by Thomas Egebo)`\
+`   Minister of Transport`\
+`   Ministry of Transport`\
+`   Frederiksholms Kanal 27`\
+`   1220 København K`\
+`   Phone: (+45) 33 92 33 55`\
+`   Fax: 3312 38 93`\
+`   E-mail: trm AT trm.dk`
+
+`Estonia`\
+`   Mr Andrus ANSIP`\
+`   Minister for Economic Affairs and Communications`
+
+`   Mr Toivo MAIMETS`\
+`   Minister for Education and Science`
+
+### Finland
+
+`    Mr. Mauri PEKKARINEN`\
+`    Minister for Trade and Industry`\
+`    Ministry of Trade and Industry`\
+`    PO Box 32 `\
+`    FIN-00023 Government, Finland`
+
+`    Mrs. Tuula HAATAINEN`\
+`    Minister for Education`\
+`    Ministry of Education`\
+`    PO Box 29`\
+`    FIN-00023 Government, Finland`
+
+`    Mr. Erkki Tuomioja`\
+`    Minister for Foreign Affairs`\
+`    Ministry for Foreign Affairs`\
+`    PO Box 176 `\
+`    FIN-00161 Helsinki, Finland`
+
+`    Mrs. Paula Lehtomäki`\
+`    Minister for Foreign Trade and Development`\
+`    Ministry for Foreign Affairs`\
+`    PO Box 176 `\
+`    FIN-00161 Helsinki, Finland`
+
+`    Mr. Johannes Koskinen`\
+`    Minister of Justice`\
+`    Ministry of Justice`\
+`    PO Box 25`\
+`    FIN-00023 Government, Finland`
+
+`    Mr. Antti Kalliomäki`\
+`    Minister of Finance`\
+`    Ministry of Finance`\
+`    PO Box 28 `\
+`    FIN-00023 Government, Finland `
+
+`    Mrs. Leena Luhtanen`\
+`    Minister of Transport and Communications`\
+`    Ministry of Transport and Communications`\
+`    PO Box 31`\
+`    FIN-00023 Government, Finland`
+
+`   (source:  `[`http://www.valtioneuvosto.fi/vn/liston/base.lsp?r=732&k=en`](http://www.valtioneuvosto.fi/vn/liston/base.lsp?r=732&k=en)`)`\
+
+### France
+
+#### President
+
+`    Monsieur Jacques CHIRAC, Président de la République`\
+`    Palais de l'Élysée, 55 rue du Faubourg St Honoré,`\
+`    75008 PARIS`\
+`    Tel.: +33 1 42 92 81 00`\
+`    Fax : +33 1 42 92 85 00 or +33 1 47 42 24 65 or +33 1 42 92 82 99`
+
+#### Prime Minister {#prime_minister_1}
+
+`     Monsieur Jean-Pierre RAFFARIN, Premier Ministre `\
+`     Hôtel Matignon, 57 rue de Varenne, 75007 Paris`\
+`     Tel.: +33 1 42 75 80 00`\
+`     Fax : +33 1 42 75 71 42 (Press) or +33 1 45 44 15 72`\
+`     Email : Premier-Ministre at premier-ministre.gouv.fr`
+
+#### Ministers in charge of software patents {#ministers_in_charge_of_software_patents}
+
+`   Monsieur Nicolas SARKOZY`\
+`   Ministre de l'économie, des finances et de l'industrie`\
+`   139, rue de Bercy`\
+`   75572  Paris Cedex 12 `\
+`   Tel: +33 1 40 04 04 04 `\
+`   Fax : +33 1 53 18 96 48`\
+\
+`   Patrick DEVEDJIAN`\
+`   Ministre délégué à l'industrie`\
+`     auprès du Ministre de l'économie, des finances et de l'industrie`\
+`   139, rue de Bercy`\
+`   75572 Paris Cedex 12`\
+`   Tel: +33 1 40 04 04 04`\
+`   Fax: +33 1 53 18 96 48`\
+\
+`   François d'AUBERT`\
+`   Ministre délégué à la recherche`\
+`     auprès du Ministre de l'éducation, de l'enseignement supérieur et de la recherche`\
+`   21, rue Descartes`\
+`   75005 Paris`\
+`   Tel: +33 1 55 55 10 10`
+
+`   Claudie HAIGNERÉ`\
+`   Ministre délégué aux affaires européennes`\
+`     auprès du Ministre des affaires étrangères`\
+`   37, quai d'Orsay`\
+`   75351  Paris `\
+`   Tel: +33 1 43 17 53 53 `\
+`   Fax : +33 1 43 17 74 17`
+
+### Germany
+
+#### Chancellor
+
+`   Herr Gerhard Schröder`\
+`   Bundeskanzleramt`\
+`   Willy-Brandt Str. 1`\
+`   10557 Berlin`
+
+#### Minister of Justice (responsible) {#minister_of_justice_responsible}
+
+`   Frau Brigitte Zypries`\
+`   Bundesministerium der Justiz`\
+`   Büro der Ministerin`\
+`   Mohrenstraße 37`\
+`   10117 Berlin`
+
+#### Minister for Science and Employment {#minister_for_science_and_employment}
+
+`   Herr Wolfgang Clement`\
+`   Bundesministerium für Wirtschaft und Arbeit`\
+`   Scharnhorststraße 34-37`\
+`   10115 Berlin`
+
+#### President of the Bundestag {#president_of_the_bundestag}
+
+`   Herr Wolfgang Thierse`\
+`   Deutscher Bundestag`\
+`   Platz der Republik 1`\
+`   11011 Berlin`\
+\
+`Greece`\
+`   Mr Dimitrios SIOUFAS`\
+`   Minister for Development`
+
+`   Mr Giannis TSOUKALAS`\
+`   General Secretary for Research and Technology, Ministry of Development`
+
+`Hungary`\
+`   Mr Kálmán KOVÁCS`\
+`   Minister for Informatics and Communications`
+
+`   Mr Miklos BODA`\
+`   State Secretary for Research and Technology`
+
+### Ireland
+
+#### Prime Minister {#prime_minister_2}
+
+`   Bertie Ahern, T.D.`\
+`   Taoiseach`\
+`   Department of the Taoiseach`\
+`   Government Buildings`\
+`   Merrion Street Upper`\
+`   Dublin 2`\
+`   Tel: +353-1-6624888`
+
+#### Responsible ministers {#responsible_ministers}
+
+`   Mary Hanafin, T.D.`\
+`   Minister of State at the Department of the Taoiseach and at the Department of Defence`\
+`   Department of the Taoiseach`\
+`   Government Buildings`\
+`   Merrion Street Upper`\
+`   Dublin 2`\
+`   Ireland`
+
+`   Mary Harney, T.D`\
+`   Tánaiste and Minister for Enterprise, Trade and Employment`\
+`   Department of Enterprise, Trade and Employment`\
+`   Kildare Street`\
+`   Dublin 2`\
+`   Tel.: +353-1-6761071`
+
+`Italy`\
+`   Mr Antonio MARZANO`\
+`   Minister for Production Activities`
+
+`   Ms Letizia MORATTI`\
+`   Minister for Education, the Universities and Research`
+
+`   Mr Guido POSSA`\
+`   Deputy Minister for Education, the Universities and Research`
+
+`Latvia`
+
+### Lithuania
+
+#### Ministry of Economy {#ministry_of_economy}
+
+`   Gedimino Ave. 38/2,`\
+`   LT-01104 Vilnius,`\
+`   Lithuania`\
+`   tel. +370 5 2622416`\
+`   fax. +370 5 2623974`\
+`   e-mail: kanc@ukmin.lt`\
+`   www: `[`http://www.ukmin.lt/`](http://www.ukmin.lt/)\
+`   contacts: `[`http://www.ukmin.lt/index.php/en/about/contacts/`](http://www.ukmin.lt/index.php/en/about/contacts/)` `
+
+`   Mr. Nerijus EIDUKEVICIUS`\
+`   Vice-minister`\
+`   tel.: +370 5 2623901`\
+`   e-mail: n.eidukevicius@ukmin.lt`
+
+Mr. N. Eidukevicius was representing Lithuanian position on the 18th of
+May, 2004 wote.
+
+### Luxembourg
+
+#### Minister of Finance {#minister_of_finance}
+
+`   Jean-Claude Juncker`\
+`   Ministère des Finances`\
+`   3, rue de la Congrégation`\
+`   L-1352 Luxembourg`\
+`   Tel: +352 478 26 35`\
+`   Fax: +352 47 52 41`
+
+#### Minister of Culture, Education and Research {#minister_of_culture_education_and_research}
+
+`   François Biltgen`\
+`   Ministère de la Culture, de l'Enseignement supérieur et de la Recherche`\
+`   20, montée de la Pétrusse`\
+`   L-2327 Luxembourg`\
+`   Tel: +352 478 66 19`\
+`   Fax: +352 40 24 27`
+
+#### State Secretary (underminister) of Culture, Education and Research {#state_secretary_underminister_of_culture_education_and_research}
+
+`   Octavie Modert`\
+`   Ministère de la Culture, de l'Enseignement supérieur et de la Recherche`\
+`   20, montée de la Pétrusse`\
+`   L-2327 Luxembourg`\
+`   Tel: +352 478 66 19`\
+`   Fax: +352 40 24 27`
+
+#### Minister of Economy and Foreign Trade {#minister_of_economy_and_foreign_trade}
+
+`   Jeannot Krecké`\
+`   Ministère de l'Economie et du Commerce extérieur`\
+`   6, boulevard Royal`\
+`   L-2449 Luxembourg`\
+`   Tél: +352 478 41 37`\
+`   Fax: +352 46 04 48`
+
+#### Minister of Domestic Education and Profession Training {#minister_of_domestic_education_and_profession_training}
+
+`   Mady Delvaux-Stehres`\
+`   Ministère de l'Education nationale et de la Formation professionnelle`\
+`   29, rue Aldringen`\
+`   L-1118 Luxembourg`\
+`   Tél: +352 478 51 51`\
+`   Fax: +352 478 51 10`
+
+`Malta`\
+`   Mr Censu GALEA`\
+`   Minister for Competitiveness and Communications`
+
+### Netherlands
+
+#### Minister of Economy {#minister_of_economy}
+
+`   Minister van Economische Zaken Laurens Jan Brinkhorst`\
+`   Postbus 20101`\
+`   2500 EC Den Haag`\
+`   Fax: +31(0)70 379 6169`\
+`   Email: j.brinkhorst at minez.nl (CC to l.vanzijp at minez.nl and s.boitelle at minez.nl)`
+
+#### State Secretary (Underminister) of Economy {#state_secretary_underminister_of_economy}
+
+`   Staatssecretaris van Economische Zaken Karien van Gennip`\
+`   Postbus 20101`\
+`   2500 EC Den Haag`\
+`   Fax: +31(0)70 379 6169`\
+`   Email: c.e.g.vanGennip at minez.nl (CC to e.g.slinger at minez.nl)`
+
+### Poland
+
+#### President {#president_1}
+
+`   Aleksander Kwasniewski`\
+`   Kancelaria Prezydenta RP`\
+`   ul. Wiejska 10`\
+`   00-902 Warszawa`
+
+#### Prime minister {#prime_minister_3}
+
+`   Marek Belka`\
+`   Kancelaria Prezesa Rady Ministrów`\
+`   Al. Ujazdowskie 1/3`\
+`   00-583 Warszawa`
+
+#### Minister of Economy and Employment {#minister_of_economy_and_employment}
+
+`   Jerzy Hausner`\
+`   Ministerstwo Gospodarki i Pracy`\
+`   pl. Trzech Krzyzy 3/5`\
+`   00-507 Warszawa`
+
+#### Minister of Science and Informatization {#minister_of_science_and_informatization}
+
+`   Michal Kleiber`\
+`   Ministerstwo Nauki i Informatyzacji`\
+`   ul. Wspolna 1/3`\
+`   00-529 Warszawa`
+
+#### Minister for European Integration {#minister_for_european_integration}
+
+`   Jaroslaw Pietras`\
+`   Urzad Komitetu Integracji Europejskiej`\
+`   Al. Ujazdowskie 9`\
+`   00-918 Warszawa`
+
+`Portugal`\
+`   Mr Álvaro BARRETO`\
+`   Ministro de Estado, Minister for Economic Activities and Work`
+
+### Slovakia
+
+`   Mr Daniel LIPIC`\
+`   The Deputy Prime minister and Minister for Justice`\
+`   The Ministry of Justice of the Slovak Republic,`\
+`   upné námestie 13`\
+`   813 11  Bratislava`\
+`   SLOVAK REPUBLIC`
+
+`   Mr Martin FRONC`\
+`   The Minister for Education`\
+`   The Ministry of Education of the Slovak Republic,`\
+`   Stromová 1`\
+`   813 30 Bratislava`\
+`   SLOVAK REPUBLIC`
+
+`   Mr Pavol PROKOPOVIC `\
+`   The Minister for Transport, Post and Telecommunications`\
+`   The Ministry of Transport, Posts and Telecommunications of the Slovak Republic,`\
+`   Námestie slobody 6`\
+`   810 05 Bratislava`\
+`   SLOVAK REPUBLIC`
+
+`   Mr Pavol RUSKO`\
+`   The Deputy Prime Minister and Minister for Economy`\
+`   The Ministry of Economy of the Slovak Republic,`\
+`   Mierová 19`\
+`   827 15 Bratislava 212`\
+`   SLOVAK REPUBLIC`
+
+`Slovenia`\
+`Spain`\
+`   Mr José María MONTILLA AGUILERA Minister for Industry, Tourism and Trade`\
+`   Mr Alberto Navarro. Secretary of state for the EU.Phone: +34 91 3798300 ?`
+
+### Sweden
+
+`   Mr. Thomas Bodström`\
+`   Minister for Justice `\
+`   Ministry of Justice`\
+`   S-103 33 Stockholm, SWEDEN`
+
+`   Mr. Thomas Östros`\
+`   Minister for Industry`\
+`   Ministry of Industry, Employment and Communication`\
+`   S-103 33 Stockholm, SWEDEN`
+
+`   Mr. Leif Pagrotsky`\
+`   Minister for Education, Research and Culture`\
+`   Ministry of Education, Research and Culture`\
+`   S-103 33 Stockholm, SWEDEN`
+
+`   Mrs. Ulrica Messing`\
+`   Minister for Communications and Regional Policy`\
+`   Ministry of Industry, Employment and Communications`\
+`   S-103 33 Stockholm, SWEDEN`
+
+### United Kingdom {#united_kingdom}
+
+#### Responsible minister {#responsible_minister}
+
+`   Lord Sainsbury MP`\
+`   Parliamentary Under Secretary of State for Science  Innovation`\
+`   Department of Trade and Industry`\
+`   1 Victoria Street`\
+`   London`\
+`   SW1H 0ET`\
+`   Tel: (Enquiry Unit of the DTI) +44 20 7215 5000`
+
+#### Responsible Secretary of State {#responsible_secretary_of_state}
+
+`   Rght Hon Patricia Hewitt MP`\
+`   Secretary of State for Trade & Industry`\
+`   Minister for Women`\
+`   Department of Trade & Industry`\
+`   1 Victoria Street`\
+`   London`\
+`   SW1H 0ET`\
+`   Tel: 020 7215 5000`
+
+------------------------------------------------------------------------
+
+Transport Ministers
+
+ALLEMAGNE/GERMANY Dr Manfred STOLPE
+
+`   Federal Minister of Transport, Building & Housing`\
+`   Federal Ministry of Transport, Building & Housing`\
+`   Invalidenstr. 44`\
+`   D-10115 BERLIN`\
+`   postmaster at bmvbw.bund.de`\
+`   www.bmvbw.de`\
+`   `\
+`   `\
+`   AUTRICHE/AUSTRIA     Mr. Hubert GORBACH`\
+`   Federal Minister for transport, Innovation & Technique`\
+`   Federal Ministry for transport, Innovation & Technique`\
+`   Radetzkystrasse 2`\
+`   A-1031 WIEN`\
+`   minbuero at bmvit.gv.at`\
+`   www.bmv.gv.at`\
+`   `\
+`   `\
+`   BELGIQUE/BELGIUM     Monsieur Renaat LANDUYT`\
+`   Ministre de la Mobilité et de lEconomie sociale`\
+`   Service Public Fédéral Mobilité et Transports`\
+`   rue Bederode 9`\
+`   B-1000 BRUXELLES`\
+`   kabinet.anciaux at mobilit.fgov.be`\
+`   www.mobilit.fgov.be`\
+`   `\
+`   CHYPRE/CYPRUS `\
+`   `\
+`   DANEMARK/DENMARK     Mr. Flemming HANSEN`\
+`   Minister of Transport`\
+`   Ministry of Transport`\
+`   Frederiksholms Kanal 27`\
+`   DK-1220 COPENHAGEN K`\
+`   www.tm.dk`\
+`   `\
+`   `\
+`   ESPAGNE/SPAIN     Madame Magdalena ALVAREZ ARZA`\
+`   Ministre du Développement`\
+`   Ministère du Développement (FOMENTO)`\
+`   Paseo de la Castellana 67`\
+`   E-28071 MADRID`\
+`   www.mfom.es`\
+`   `\
+`   `\
+`   ESTONIE/ESTONIA     Mr. Andrus ANSIP`\
+`   Minister of Economic Affairs & Communications`\
+`   Ministry of Economic Affairs & Communications`\
+`   11 Harju Street`\
+`   EST-15072 TALLINN`\
+`   info at mkm.ee`\
+`   www.mkm.ee`\
+`   `\
+`   `\
+`   FINLANDE/FINLAND     Mrs. Leena LUHTANEN`\
+`   Minister of Transport and Communications`\
+`   Ministry of Transport and Communications`\
+`   P O Box 31`\
+`   FIN-00023 GOVERNMENT HELSINKI`\
+`   leena.luhtanen at mintc.fi`\
+`   www.mintc.fi`\
+`   `\
+`   `\
+`   FRANCE     Monsieur Gilles de ROBIEN`\
+`   Ministre des Transports`\
+`   Ministère de l'Equipement, des Transports, du Logement,`\
+`   du Tourisme et de la Mer`\
+`   Arche Sud`\
+`   F-92055 LA DEFENSE Cedex`\
+`   www.equipement.gouv.fr`\
+`   `\
+`   `\
+`   GRECE/GREECE     Mr. Michalis LIAPIS`\
+`   Minister of Transport and Communications`\
+`   Ministry of Transport and Communications`\
+`   Anastaseos Str. 2`\
+`   GR-10191 PAPAGOU / ATHENS`\
+`   www.yme.gr`\
+`   `\
+`   `\
+`   HONGRIE/HUNGARY     Dr. Janos KÓKA`\
+`   Minister of Economy and Transport`\
+`   Ministry of Economy and Transport`\
+`   POB. 111`\
+`   H-1880 BUDAPEST`\
+`   burjan at gkm at gov.hu`\
+`   www.gm.hu`\
+`   `\
+`   `\
+`   IRLANDE/IRELAND     Mr. Martin CULLEN`\
+`   Minister of Transport`\
+`   Department of Transport`\
+`   44 Kildare Street`\
+`   DUBLIN 2`\
+`   minister at transport.ie`\
+`   www.irlgov.ie/tec`\
+`   `\
+`   `\
+`   ITALIE/ITALY     Mr. Pietro LUNARDI`\
+`   Ministre de linfrastructure et des Transports`\
+`   Ministère de linfrastructure et des Transports`\
+`   Piazza della Croce Rossa 1`\
+`   I-00161 ROMA`\
+`   emilio.maraini at mail.llpp.it`\
+`   www.min.rupa.it`\
+`   `\
+`   `\
+`   LETTONIE/LATVIA     Mr. Ainars LESERS`\
+`   Deputy Prime Minister`\
+`   Ministry of Transport`\
+`   3 Gogola Street`\
+`   LV-1743 RIGA`\
+`   www.sam.gov.lv`\
+`   `\
+`   `\
+`   LITUANIE/LITHUANIA     Mr. Zigmantas BALCYTIS`\
+`   Minister of Transport and Communications`\
+`   Ministry of Transport and Communications`\
+`   Gedimino av 17`\
+`   LT-01505 VILNIUS`\
+`   z.balcytis at transp.lt`\
+`   www.randburg.com/li/ministran.htm`\
+`   `\
+`   `\
+`   LUXEMBOURG     Monsieur Lucien LUX`\
+`   Ministre des Transports`\
+`   Ministère des Transports`\
+`   11 rue Notre Dame`\
+`   L-2938 LUXEMBOURG`\
+`   `\
+`   `\
+`   MALTE/MALTA     Mr. Jesmond MUGLIETT`\
+`   Minister for Urban Development & Roads`\
+`   Ministry for Urban Development & Roads`\
+`   House of the Four Winds`\
+`   Hastings Gardens`\
+`   VALLETTA, CMR 02`\
+`   jesmond.mugliette at magnet.mt`\
+`   www.doi.gov.mt`\
+`   `\
+`   `\
+`   PAYS-BAS/NETHERLANDS     Mrs Drs. Karla M.H. PEIJS`\
+`   Minister of Transport, Public Works  Management`\
+`   Ministry of Transport, Public Works &Water Management`\
+`   P O Box 20901`\
+`   Plesmanweg 1-6`\
+`   NL-2500 EX THE HAGUE`\
+`   www.minvenw.nl`\
+`   `\
+`   `\
+`   POLOGNE/POLAND     Mr. Krzysztof OPAWSKI`\
+`   Minister of Infrastructure`\
+`   Ministry of Infrastructure`\
+`   ul. Chalubinskiego 4/6`\
+`   PL-00 928 WARSAW`\
+`   www.mi.gov.pl`\
+`   `\
+`   `\
+`   PORTUGAL     Monsieur António MEXIA`\
+`   Ministre des Travaux Publics, des Transports et du Logement`\
+`   Ministère des Travaux Publics, des Transports et du Logement`\
+`   Palacio Penafiel`\
+`   Rua de São Mamede ao Caldas 21`\
+`   P-1149-050 LISBOA`\
+`   www.min-plan.pt`\
+`   `\
+`   `\
+`   REP. TCHEQUE/CZECH REP.     Mr. Milan IMONOVSKY`\
+`   Minister of Transport`\
+`   Ministry of Transport`\
+`   P.O. Box 9`\
+`   Nabrezi Ludvika Svobody 12`\
+`   CZ-110 15 PRAHA`\
+`   www.mdcr.cz`\
+`   `\
+`   `\
+`   ROYAUME-UNI/UNITED KINGDOM     The Rt. Hon. Alistair DARLING, MP`\
+`   Secretary of State for Transport`\
+`   Department for Transport`\
+`   Great Minster House`\
+`   76 Marsham Street`\
+`   LONDON SW1P 4DR`\
+`   www.dft.gov.uk`\
+`   `\
+`   `\
+`   SLOVAQUIE/SLOVAKIA     Mr. Pavol PROKOPOVIC`\
+`   Minister of Transport, Posts & Telecommunications`\
+`   Ministry of Transport, Posts & Telecommunications`\
+`   Namestie Slobody 6`\
+`   SK-810 05 BRATISLAVA`\
+`   pavol.prokopovic at telecom.gov.sk`\
+`   www.telecom.gov.sk`\
+`   `\
+`   `\
+`   SLOVENIE/SLOVENIA     Mr. Janez BOIC`\
+`   Minister of Transport`\
+`   Ministry of Transport`\
+`   Langusova 4`\
+`   SL0-1535 LJUBLJANA`\
+`   janez.bozic at gov.si`\
+`   www.gov.si/mpz`\
+`   `\
+`   `\
+`   SUEDE/SWEDEN     Mrs Ulrika MESSING`\
+`   Minister of Industry, Employment and Communications`\
+`   Ministry of Industry, Employment and Communications`\
+`   Jakobsgatan 26`\
+`   S-103 33 STOCKHOLM`\
+`   www.industry.ministry.se/inenglish/index.htm`

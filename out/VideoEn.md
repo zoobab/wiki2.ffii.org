@@ -1,0 +1,43 @@
+# Video Streaming {#video_streaming}
+
+------------------------------------------------------------------------
+
+Document knowledge related to Video recording for swpat activism.
+
+# Record a stream {#record_a_stream}
+
+# Ogg Theora {#ogg_theora}
+
+free video codec; Theora is a video
+
+Video is the technology of processing electronic signals representing
+moving pictures. A major application of video technology is television,
+but it is also widely used in engineering, scientific, manufacturing,
+and security applications. Other uses of video have tended to use the
+video formats designed for television use.
+
+Theora is still in developmental stages with Xiph.org having made three
+alpha releases thus far (Alpha One was released on September 25, 2002;
+Alpha Two was released half on December 16 and half on December 27,
+2002; Alpha Three was released on March 20, 2004). The first beta
+release Beta-1 is expected later in 2004. Theora is released under the
+terms of a BSD-style license
+
+While VP3 is patented technology, On2 has irrevocably given royalty-free
+license of the VP3 patents to all of humanity, enabling the public to
+utilize Theora and other VP3-derived codecs for any imaginable purpose.
+
+In the Ogg multimedia framework, Theora provides a video layer, while
+Vorbis Vorbis is a completely open and free audio compression (codec)
+project from the Xiph.org Foundation. It is frequently used in
+conjunction with the Ogg container and is then called Ogg Vorbis.
+
+<http://www.theora.org/>
+
+## cortoda, a java plugin for playing theora streams {#cortoda_a_java_plugin_for_playing_theora_streams}
+
+<http://www.flumotion.net/cortado/>
+
+# Existing Recordings {#existing_recordings}
+
+<http://media.ael.be>

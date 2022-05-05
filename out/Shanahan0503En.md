@@ -1,0 +1,17 @@
+Campaign for Creativity\'s new lobbyist, Hugo Shanahan, is asking
+[MEPs](MEPs "wikilink") what they think about the software patent
+directive in a letter where the MEP can tick two boxes:
+
+1.  I support a Directive on the continued patentability of computer
+    implemented invetions.
+
+`       I AGREE         [ ]`\
+`       I DO NOT AGREE  [ ]`
+
+`2. Intellectual property is an important component in supporting the growth of Europe's economy.`
+
+`       I AGREE         [ ]`\
+`       I DO NOT AGREE  [ ]`
+
+The letter also invites the MEP to meet representatives of the Campaign
+for Creativity to discuss why they support the directive.

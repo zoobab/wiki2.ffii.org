@@ -1,0 +1,74 @@
+# Attac Pressemitteilung: Bundesregierung drückte Pro-Patent-Position im Rat durch {#attac_pressemitteilung_bundesregierung_drückte_pro_patent_position_im_rat_durch}
+
+-\> \[ [ Rats-Schmierentheater](Cons050307De "wikilink") \| [
+Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Der Arbeitskreis Wissensalmende des globalisierungskritischen Netzwerks
+ATTAC kommentiert in ihrer Presseerklärung die rechtstaatlich
+fragwürdigen Vorgänge im Ministerrat am 7.März 2004 und geht dabei auch
+mit der Bundesregierung ins Gericht, die trotz einhelliger Kritik des
+Bundestages an dem Ratstext sich an den Vorstößen mehrere Länder für
+eine Neuverhandlung nicht beteiligte und den \"bis an die Grenzen der
+Legalität\" gehenden Kurs der Ratspräsidentschaft mittrug.*
+
+## Text der Pressemitteilung {#text_der_pressemitteilung}
+
+Berlin, 7. März 2005
+
+-   EU-Rat verabschiedet Richtlinie für Software-Patente
+
+trotz Einwänden aus vielen Ländern
+
+-   Attac: \"Schwarzer Tag für Demokratie und freie Software\"
+
+Die AG Wissensallmende des globalisierungskritischen Netzwerks Attac hat
+die Verabschiedung der Richtlinie zu Softwarepatenten im
+EU-Wettbewerbsrat scharf kritisiert. \"Das ist ein schwarzer Tag in
+doppelter Hinsicht: Für die freie Software und für die Demokratie\",
+sagte Julian Finn, von der AG Wissensallmende. \"Hier wurden nicht nur
+demokratische Gepflogenheiten mit den Füßen getreten, sondern auch
+möglicherweise festgelegte Regeln mißachtet\", fügt er im Hinblick auf
+den Verlauf des Verfahrens hinzu. Die EU-Wirtschaftsminister hatten
+heute in einem höchst umstrittenen Verfahren die Richtlinie ohne
+Diskussion bestätigt; dabei soll sich die Luxemburger
+Ratspräsidentschaft über die Einwände des dänischen Wirtschaftsministers
+hinweggesetzt haben, der vom dänischen Parlament ein bindenden Weisung
+erhalten hatte, diesen Beschluss zu verhindern.
+
+Wirtschaftsminister Wolfgang Clement unternahm für Deutschland keine
+Schritte, um die Richtlinie zu verhindern, obwohl sich alle
+Bundestagsfraktionen noch im Februar dagegen ausgesprochen hatten.
+Ähnliche Einwände gibt es auch aus den Parlamenten in den Niederlanden
+und in Spanien, die Polnische Regierung hatte bis zuletzt Versucht, ein
+Durchwinken im Ministerrat zu Verhindern. \"Die Bundesregierung
+ignoriert Mehrheitsentscheidungen, und die EU-Kommission drückt ihre
+Position mit allen Mitteln bis an die Grenze der Legalität durch\",
+kritisierte Julian Finn. \"Offenbar unter dem Einfluss der starken
+Industrie-Lobby verstärken sie auf diese Weise die Politik- und
+EU-Verdrossenheit der Menschen.\"
+
+Softwarepatente werden von weiten Teilen der freien und
+mittelständischen Softwareszene abgelehnt, da diese in Zukunft nicht nur
+ein konkretes Programm, sondern auch die Ideen darin schützen würden.
+Damit wäre z.B. Linux weitgehend von der Gnade der Großkonzerne
+abhängig, denen die Patente gehören. Attac setzt nun auf das
+EU-Parlament, das den Entwurf jetzt noch modifizieren oder ablehnen
+kann. Finn: \"Hier brauchen wir jetzt eine breite Protestbewegung um die
+Mehrheit im Parlament gegen Softwarepatente zu gewinnen.\"
+
+## Weitere Informationen: {#weitere_informationen}
+
+-   <http://www.attac.de/wissensallmende>
+
+### Für Rückfragen: {#für_rückfragen}
+
+-   Oliver Moldenhauer, Tel. 0163-3071523
+-   Julian Finn, Tel. 0179-4822146
+-   Malte Kreutzfeldt, Tel. 069-900281-42
+
+Dipl. Phys. Oliver Moldenhauer \* 0163/3071523 Attac Koordinierungskreis
+\* Attac-AG Wissensallmende Kaiserin-Augusta-Str. 12b \* 12103 Berlin
+<http://www.attac.de> \*
+[mailto:Moldenhauer\@attac.de](mailto:Moldenhauer@attac.de)

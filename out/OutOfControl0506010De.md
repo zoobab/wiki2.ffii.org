@@ -1,0 +1,97 @@
+# Offener Brief für eine stärkere demokratische Überwachung des Rates der Bananenrepublik {#offener_brief_für_eine_stärkere_demokratische_überwachung_des_rates_der_bananenrepublik}
+
+------------------------------------------------------------------------
+
+Sehr geehrte Mitglieder des Bundestages, sehr geehrte Mitglieder des
+Europäischen Parlamentes,
+
+Die Bundesregierung hat die verantwortungsvolle Aufgabe die Tore für
+eine Flut von Software-Patenten in Europa (1) zu öffnen oder ebendies zu
+verhindern. Zur Zeit beschließen unbekannt gebliebene Patentbeamte der
+Arbeitsgruppe des Rates für Geistiges Eigentum (Patente) in dunklen
+Hinterzimmern die Position dieses Landes bezüglich der Frage von
+Software-Patenten, ohne das die Öffentlichkeit etwas von diesen
+Vorgängen oder Inhalten mitbekommen könnte. Nachdem sie zu einem
+Entschluß gekommen sind, wird es praktisch nicht mehr möglich sein
+diesen Standpunkt nochmal zu verändern. Diese Verantwortlichen
+repräsentieren das entsprechende jeweilige nationale Ministerium, da es
+sich aber um ein offensichtlich die Technik betreffendes Thema handelt,
+werden sie oft aus dem Personalbestand der nationalen Patentämtern
+rekrutiert. Da die Minister in der Regel den Empfehlungen ihrer Berater
+folgen, haben diese Patentbeamten einen ausschlaggebenden Einfluß auf
+die Entscheidung.
+
+In der ersten Lesung der Direktive sind die offiziellen Dokumente, die
+von dieser Arbeitsgruppe herausgegeben wurden, in dem sehr extremen
+Entwurf für eine uneingeschränkte Patentierbarkeit von Software- und
+Geschäftsmethoden gemündet (2), die am 7. Mai 2005 formal akzeptiert
+wurden. Dazu nutzte die Luxemburgische Ratspräsidentschaft ein noch
+unbekanntes Verfahren um die Stimmen von 3 Ländern, die die
+Verhandlungen über den Entwurf wieder aufnehmen wollten, zu ignorieren
+(3). Der Zugriff auf die offiziellen Dokumente wurde bis zur letzten
+Minute \"aufgrund der sensiblen Natur der Verhandlungen und des Fehlens
+eines größeren öffentlichen Interesses\" verweigert (4).
+
+Die Luxemburgische Präsidentschaft hat jetzt einen stark beschleunigten
+Zeitplan vorgeschlagen, in dem die Patentbeamten eines jeden Landes
+Stellung zu den vom Ausschuß für rechtliche Angelegenheiten des
+Europäischen Parlamentes vorgeschlagenen Änderungen beziehen sollten.
+Dieses Vorgehen des Rates wird sicherlich zu einer Schwächung in der
+Transparenz der Arbeit des Parlamentes führen und Mitglieder des
+Europäischen Parlamentes dazu bringen für Änderungsvorschläge zu
+stimmen, die den Wünschen der Patentbeamten des Rates entsprechen.
+
+Die an die Öffentlichkeit gelangten Protokolle des geheimen Treffens,
+das am 27. Mai und 3. Juni (5) stattfand, zeigen, das die meisten dieser
+bisher unbekannten Patentbeamten von ebendieser Anonymität profitieren
+und eine weitere Ausweitung der Patentierbarkeit im Interesse des
+Europäischen und der Nationalen Patentämter, in denen die meisten von
+ihnen beschäftigt sind, vorantreiben. Es ist keine Seltenheit die selben
+Personen, die an diesen Sitzungen teilnehmen, ebenfalls in der
+Verwaltung des Europäischen Patentamtes zu finden.
+
+Daher bitten wir Sie eindringlich, aufgrund des von der
+Ratspräsidentschaft sehr knapp gesteckten Zeitplanes (6):
+
+-   die Bundesregierung aufzufordern diese Angelegenheit nicht zu
+    beraten, ohne den Willen der gewählten nationalen Volksvertretung zu
+    berücksichtigen;
+-   einen Antrag einzubringen, um einen Aufschub um 3-4 Monate für die
+    zweite Lesung der Richtlinie zu erreichen;
+-   dringend eine Agenda mit Diskussionspunkten im Bundestag
+    einzubringen, in denen die kritischen Punkte für das Überleben einer
+    kompetenten und offenen Informationsgeschellschaft in Europa
+    besprochen werden.
+
+Wir wären froh festzustellen, daß Demokratie und Transparenz wieder die
+Oberhand über die Diktatur und Geheimniskrämerei des mächtigsten Organs
+der Europäischen Union gewinnt.
+
+Der Unterzeichner,
+
+Bitte den eigenen Namen hier eintragen
+
+------------------------------------------------------------------------
+
+## Referenz
+
+1 <http://swpat.ffii.org/log/intro/index.en.html>
+
+2 <http://swpat.ffii.org/log/04/cons0518/index.en.html>
+
+3 <http://wiki.ffii.org/Cons050307En>
+
+4 <http://www.ffii.org/~jmaebe/swpat/council20040423.html>
+
+5 Publik gewordene Protokolle des Treffens vom 27. Mai und 3. Juni der
+Arbeitsgruppe des Rates für Geistiges Eigentum (Patente):
+<http://swpat.ffii.org/log/05/cons0527/>
+
+6 <http://wiki.ffii.org/TrilogAgendaEn>
+
+------------------------------------------------------------------------
+
+Da ich kein besonders gut Englisch sprechender Mensch bin, bitte ich
+dringend um Korrektur lesen. Danke.
+
+Original: \[OutOfControl0506010En\]

@@ -1,0 +1,6 @@
+Cette page présenter les différents cas d\'utilisations du site FFII.fr
+qui concerne les outils **d\'aide à l\'expression publique**.
+
+Premier cas d\'utilisation: [CasDUnVisiteur](CasDUnVisiteur "wikilink").
+Deuxième cas d\'utilisation:
+[CasDUnContributeur](CasDUnContributeur "wikilink").

@@ -1,0 +1,164 @@
+1.  1.  -\*- dok: [BundestagWiDi050413](BundestagWiDi050413 "wikilink");
+        lang: de; coding: iso-8859-1; mode: fundamental; -\*-
+
+# Kurzinformation \"Softwarepatente oder Open Source?\" vom Wissenschaftlichen Dienst des Deutschen Bundestages {#kurzinformation_softwarepatente_oder_open_source_vom_wissenschaftlichen_dienst_des_deutschen_bundestages}
+
+-\> \[ [ Bundestag](BundestagDe "wikilink") \| [
+Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+*In der 2 seitigen Kurzinformation \"Der aktuelle Begriff\" vom
+13.04.2005 mit dem Titel \"Softwarepatente oder Open Source?\" versucht
+der Fachbereich Europa der wissenschaftlichen Dienste des Deutschen
+Bundestages, die Abgeordneten über die Entscheidungen zu den
+EU-Softwarepatenten aufzuklären. Ob dies gelungen ist kann im
+Originaltext nachgelesen werden. Ferner rezensiert Alexander Stohr das
+Papier.*
+
+## Weblinks
+
+-   [B. Broscheit wies auf den Text auf der Liste swpat
+    hin](http://lists.ffii.org/pipermail/swpat/2005-April/008819.html "wikilink")
+-   [Der Text auf den Servern des
+    Bundestags](http://www.bundestag.de/bic/analysen/2005/2005_04_13.pdf "wikilink")
+    (pdf)
+
+## Kritische Würdigung {#kritische_würdigung}
+
+von [ Alexander Stohr](AlexanderStohrDe "wikilink").
+
+Quelle/Verfasser ist laut Dokument die folgende Person:
+
+` ORR Jan Muck Schlichting, Fachbereich XII - Europa`\
+` Wissenschafliche Dienste des Deutschen Bundestages`\
+` "Der aktuelle Begriff", Nr. 19/05, 13.4.2005`
+
+Das Dokument hat 2 Seiten. Nun zum Inhalt, zunächst die Einleitung:
+
+`  "Im Februar 2002 hat die Europäische Kommission..."`
+
+Die Mär der Disharmonie in den Mitgliedsstaaten wird unkritisch
+übernommen. Kein Wort dass alle sowieso dem EPÜ folgen. Allerdings wird
+postuliert, dass die unterschiedlichen
+
+` "Schutzvorschriften für computerimplementierte Erfindungen"`
+
+die eigentlichche Motivation für die Richtlinie sind.
+
+Im Abschnitt \"Schwerpunkte des Softwareschutzes\" werden treffend
+grosse IT-Firmen als Befürworter identifiziert und !KMUs als Gegner,
+Stichwort: \"Wettbewerbsnachteile\". Irrig werden **offene Standards mit
+Open Source gleich gesetzt**. Das Urheberrecht als rechtlicher
+Gegenstandpunkt wird benannt. Die Konfliktfrage, ob Software technisch
+ist, wird aufgeworfen.
+
+Unter \"EU-Kommission: Gesamtbetrachtung\" wird die EPA-Praxis der
+Bewertung nach Merkmalen so klassifiziert, dass damit eigentlich auf
+jede Computersoftware Patente möglich sein könnten. In anderen Worten,
+die Kommission möchte die schleichende EPA-Praxis der unbegrenzten
+Patentierbarkeit schlicht festschreiben.
+
+Dagegen wird unter \"EP: Kerntheorie\" die Ablehnung des EU-K-Entwurfs
+dargelegt und den stattdessen favorisierte Technikbegriff zu effektiven
+Beschränkung von patentierbaren Erfindungen auf ein Kerngebiet. Software
+als solche ist nicht patentierbar (vgl. EPÜ), aber sie geniesst
+stattdessen als kreative Leistung eines Entwicklers Urheberrechtsschutz.
+
+Ein wenig irreführend wird es dann aber doch unter \"Kompromissvorschlag
+des Rates\". Während die Ablehnung von Art. 3 (was ist das überhaupt?)
+vom Rat bestätigt wird, wird andererseits die Kernaussage der
+EP-Entwurfs über Technikdefinition vom Rat abgelehnt. Hier fehlt dem
+Text eindeutig die nötige Tiefe, er fällt zu knapp aus und unterschlägt
+wesentliche Aspekte der Problematik. Für mich ist es schwerlich zu sehen
+wo hier der Kompromiss sein soll, wenn das EP sozusagen im übertragenen
+Sinne einen Kleinwagen haben möchte während die Kommission zuvor einen
+7,5t-LKW gefordert hat. Und nun bezeichnet es der Rat als Kompromiss
+wenn es faktisch im Text den 20t-LKW beschliesst und dem EU-Parlament
+zugesteht die Farbe mit zu bestimmen. Ein Kompromiss wäre z.B. ein
+3,5t-Transporter gewesen. Im Text findet sich weiterhin die berechtigte
+Kritik am Rats-Entuwrf, dass die Auslegungsfreiheit durch die
+Patentämter und Gerichte gestärkt würde und dass damit das zentrale Ziel
+der Harmonisierung nicht erreichbar ist. Autsch - das ist pure, harte
+Kritik am jetzt zu verhandlenden Rats-Entwurf!
+
+Die \"Rechtslage\" wird eher nach der Gerichts interpretiert und weniger
+nach der bestehenden deutschen Gesetzeslage. Es geht in zwei Phasen, die
+bekannte Kerntheorie mit Technizitätsforderung wie vom BGH mit Verweis
+auf Schutz durch Urheberrecht entschieden, und der Wandel mit
+Meilenstein-Entscheidung \"Tauchcomputer von 1992\" mit der eine
+\"Gesamtbetrachtung aller techn. und nicht-techn. Merkmale\" beginnt die
+eine vordergründig technische Software patentfähig machen kann.
+
+Die \"Position des deutschen Bundestages\" mit der interfraktionellen
+Entscheidung wird genannt und allgemein gewürdigt. Dennoch geht der Text
+krass über die klare und eindeutige Befürwortung des EP- Entwurfs durch
+den BT, einschl. Kerntheorie und Technikdefinition, hinweg - er lässt es
+also aus diese Allianz zu betonen. Dafür wird eine Begrüssung des
+Kommissonspapiers aus der schlichten Begrüssung des Regelungsvorhabens
+impliziert. Mit der These, dass der Bundestag Patente auf bestimmte
+Software erlauben möchte wird übergangen, dass der Bundestag in der Tat
+nur einen äusserst engen Rahmen für die Patentierbarkeit umgesetzt
+wissen möchte - ganz im Gegensatz zu EU-K und EU-Rat. Es wird von einer
+Opposition zum aktuellen \"Meinungsstand\" gesprochen - und dabei wird
+unterschlagen, dass damit der Rats-Entwurf gemeint ist. Tja, der
+Bundestag sagt hiermit, das mit dem Rats-Entwurf der unbegrenzten
+Patentierbarkeit Vorschub geleistet wird, und dass man diesen Entwurf
+dringendst kippen muss.
+
+Wo stehen eigentlich die Worte zur Rolle der Bundesregierung?
+Schliesslich hat diese ja die Position Deutschlands, und damit vor allem
+die Entschliessung des Bundestages in der EU vertreten sollen. Auch hier
+wiederum eine mehr als nur rein zufällige Auslassung.
+
+Auslassungen weiterhin auf die Depesche wie sich das EP an den Rat
+gewandt hat um von ihm eine Rechtfertigungserklärung über die gemachten
+Änderungen am Entwurf zu erhalten, mit einer Antwort des Rates, die so
+klein ist wie ein Feigenblatt und damit leider keinen wirklich
+hilfreichen Beitrag zu einer inhaltlichlichen Diskussion leistet.
+
+Auslassungen auch was die aussergewöhnlichen Beschlüsse im EP und JURI
+(juristischer Ausschuss) in Bezug auf einen kompletten Neustart des
+Richtlinienverfahrens und deren Ablehnung durch einen einzelnen Komissar
+in Form eines Willküraktes (der Staat bin ich) angeht.
+
+Im Teil \"Weiteres Verfahren\" wird dann der Spagat vollends gemacht
+indem man dem \"Gemeinsamen Standpunkt\" des Rates von Anfang 2004 mit
+dem Beschluss vom 7. März 2005 ohne jegliche Änderung (und unter
+Auslassung der zahlreichen Gegenstimmen sowie mehrerer eigenständiger
+Statements sowie der mehrfachen Verschiebung im Rat auf Grund von
+Verletzung der Geschäftsordnungsprinzipien sowie dem endgültigen
+\"Beschluss\" ganz entgegen aller geschriebenen Rats-Gesetze) angenommen
+wurde. Somit unterbleibt leider der Verweis auf die faktische Gleichheit
+zwischen der Würdigung des Rats-Konzepts und dem ebenso erwähnten
+Rats-Beschlusses. Dem Rats-Entwurf wird fälschlich unterstellt er würde
+explizit \"Computerprogramme als solche\" zu Gunsten der
+[KMUs](KMUs "wikilink") ausschliessen - aber ignoriert, dass die Grenzen
+der Patentierbarkeit so weit gefasst werden, dass dieses theoretische
+\'Last-Ressort\' (noch dazu eh kaum industriell anwendbar) in seiner
+Grösse gegen Null streben wird. Auch die Konkretisierung durch den Rat
+(Deutschland hat ein \"neu\" eingebracht, wenn das nicht schon im alten
+Patentgesetz bzw. der EPÜ schon drin stehen würde\... dann frag ich mich
+schon wie angeblich liederlich schlecht der Entwurf war, den die EU
+Gremien bis dahin vor sich auf dem Tisch liegen hatten\...) wird
+angeschnitten und bleibt doch eine leere Hülse der Lob-Hudelei für einen
+Vorschlag, der in seiner Tragweite schlichtweg eine EU-Katastrophe ist.
+Weiterhin wird der zügigen Implementierung implizit das Wort geredet und
+davon gesprochen, dass die Kommission die Umsetzung überwachen solle -
+sprich zusehen wie die [KMUs](KMUs "wikilink") absehbar davon betroffen
+sein werden und wenn man die Ergebnisse am Markt beobachten kann soll
+sie das dann schon längst umgesetzte Gesetz zur Novellierung anregen.
+
+Es ist dann schon fast gemütlich einfach zu lesen, wenn man wieder
+gegeben sieht, dass das EP eine 2. Lesung vor sich hat, in der es ganz
+nach den Worten von EU-Kommissar [McCreevy](McCreevy "wikilink") den
+Rats-Vorschlag annehmen, ablehnen oder ändern kann - natürlich mit
+\"absoluter Mehrheit der Mitglieder\". Der Verfasser sieht durchaus die
+Möglichkeit gegeben, dass für die Richtlinie unter den jetzigen
+Umständen ein Scheitern in den denkbaren Bereich gehört.
+
+Ich kenne den Computerwoche-Artikel noch nicht, aber es wäre durchaus
+denkbar, dass dieser Text aus dem Artikel zahlreiche Thesen entlehnt
+hat. Zumindest wird die Darlegung des Textes spätestens ab dem
+Rat-\"Kompromiss\" höchst bedenklich einseitig in der ausgewogenen
+Breite ihrer Darlegungen.

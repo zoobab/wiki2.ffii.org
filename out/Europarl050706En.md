@@ -1,0 +1,133 @@
+# European Parlament urges Free Software support {#european_parlament_urges_free_software_support}
+
+\[ [ News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+Brussels, 6 July 2006 - The European Parliament urges the Commission
+support a Free Software agenda in the Lisbon program. A motion from the
+industry committee (ITRE) under rapporteur Pilar del Castillo Vera was
+approved yesterday. The report addresses also the future of European
+patent policy. One year earlier the European Parliament finally rejected
+the European Software Patents directive which was strongly opposed by
+members of the free software community.
+
+------------------------------------------------------------------------
+
+## Key points from the resolution {#key_points_from_the_resolution}
+
+17\. Urges Member States to create an innovation-friendly market for
+citizens and businesses, ensuring better regulation, standards, public
+procurement and intellectual property rights; urges the Commission to
+provide information on the protection of the intellectual property
+rights;
+
+18\. Takes note of the Commissions\' view that the EU must acquire a
+cost-effective, legally watertight and user-friendly system of
+intellectual property protection so as to attract technologically
+advanced companies; considers that the protection of intellectual
+property must not interfere with open access to public goods and public
+knowledge; urges the Commission to promote a socially inclusive
+knowledge-based society by supporting, for example, free and open source
+software and licensing concepts like the General Public License (GPL)
+and the Public Documentation Licence (PDL);
+
+24\. Notes the need for a Community patent and trademark, and for
+improved reciprocity between the European, United States\' and Japanese
+patent systems; stresses that an integrated Community patent system
+based on democratic legal standards must be part of an innovation
+strategy, in which it is essential to ensure a balance between
+protection of industrial property, dissemination of technical knowledge
+and free and unrestricted competition; underlines that the purpose of
+the protection provided by a patent is the safeguarding of an invention
+and not the controlling of market sectors;
+
+25\. Asks the Council to end the stalemate over the proposed Community
+patent as far as the language regime is concerned;
+
+## Parliament resolution {#parliament_resolution}
+
+`More research and innovation - investing for growth and employment`\
+`(A6-0204/2006 - Rapporteur: Pilar del Castillo Vera)`\
+`Committee on Industry, Research and Energy`\
+`European Parliament resolution on implementing the Community Lisbon`\
+`Programme: more research and innovation - investing for growth and`\
+`employment: A common approach (2006/2005(INI))`
+
+Source:
+[P6_TA-PROV(2006)0301](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+20060705+ITEMS+DOC+XML+V0//EN&language=EN#sdocta5 "wikilink")
+
+## Analysis
+
+-   This is the first time that our European Parliament urges support
+    for Free and Open Software. In the opinion of Parliament FOSS is a
+    desiderate of \"a socially inclusive knowledge-based society\". The
+    dominant voice of free software advocates often means that FFII is
+    observed as a Free software lobby group or that the question is
+    raised \"Free software or software patents?\". For an interpreter of
+    Europarl diction a support for Free Software here also implies a
+    critical view of software patenting.
+
+```{=html}
+<!-- -->
+```
+-   A phrase like \"cost-effective, legally watertight and user-friendly
+    system of intellectual property protection\" raises current major
+    concerns of our current patent pratice. Patents in particular bear
+    high transaction and welfare costs for market players, and EPO
+    deliberate case law interpretation of the European Patent Convention
+    led to legal insecurity. This is esp. true in the field of software
+    patents. The FFII put forward [10 Core
+    Clarifications](http://swpat.ffii.org/papri/europarl0309/amends05/juri0504/mgp/ "wikilink")
+    targeted to stop abusive EPO interpretation and to solve the
+    software patents problem.
+
+```{=html}
+<!-- -->
+```
+-   EPO criticism can also be found in the call for \"an integrated
+    Community patent system based on democratic legal standards\". The
+    EU additionally provides a competition policy framework which
+    conflicts with patent law objectives (Patents = protection against
+    to much competition). The resolution addresses how the patent system
+    could get balanced with other policy objectives such as fair
+    competition: an \'integrated approach\' which the EPO/EPC cannot
+    offer. As the EU bodies represent a higher level of democratic
+    standards, the resolution claims control over patent policy and thus
+    rejects the current de facto self-governance of the European patent
+    system.
+
+```{=html}
+<!-- -->
+```
+-   The resolution backs the Community patent effort. This has to be
+    seen in the lights of the intense lobbying of patent institutions
+    and patent professionals for the European Patent Litigation
+    Agreement (EPLA) as an alternative. The EPLA would disminish
+    parliament control over European patent policy and create
+    EPO-controlled administrative courts and install a new language
+    regime. See our [ EPLA analyis](EplaEn "wikilink")
+
+```{=html}
+<!-- -->
+```
+-   The European Parliament also addresses \'member states\' i.e.
+    Council. Efforts from the European Parliament like its amendments to
+    the software patents directive faced strong institutional resistance
+    from the council last year. Improvements are requested in the field
+    of \"regulation, standards, public procurement and intellectual
+    property rights;\" for the sake of an innovation-friendly market for
+    both citizens and businesses.
+
+```{=html}
+<!-- -->
+```
+-   The European Parliament wants trilateral patent harmonisation which
+    takes into account competition law objectives. As SPLT discussions
+    are stalled at WIPO, trilateral talks go on behind the scenes.
+    Japanese and US patent law is very much different from European
+    patent law. So harmonisation is a longterm process which would
+    hopefully lead to changes in the USPTO software and business method
+    pratice which is under discussion in the US. In mid term the current
+    state of the US patent system will cause the US to move closer to
+    European regulation (first to file, no grace period etc.)

@@ -1,0 +1,84 @@
+1.  1.  -\*- dok: hot5; lang: en; coding: iso-8859-1; mode: fundamental;
+        -\*-
+    2.  datum: 2005-06-27
+
+# What\'s hot issue: The last 10 days {#whats_hot_issue_the_last_10_days}
+
+-\> \[ [Economic Majority](http://www.economic-majority.com "wikilink")
+\| [ News](SwpatcninoEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*Antonios Christofides (FFII Greece) wrote nice comprehensions of debate
+on our internal lobbying lists. Issue 5 is public and was posted to the
+main Brussels list bxl att ffii dott org. It gives small insights about
+what is ahead of us in the remaining days and what can and shall still
+be done to save the European software industry.*
+
+## What\'s cooling down {#whats_cooling_down}
+
+-   20 June [ JURI committee votes on software
+    patents](Juri050620En "wikilink")
+    -   -   We lost that vote, which put us in a bad position.
+
+```{=html}
+<!-- -->
+```
+-   22 June EICTA European Innovation Day.
+    -   -   A big pro-software-patent event by the self-proclaimed
+            \"industry\" at the European Parliament and the Rennaissance
+            Hotel (which is close to the European Parliament).
+
+## Important pending events {#important_pending_events}
+
+-   29 June [CEAPME conference at the European
+    Parliament](http://www.economic-majority.com/konf050629/ "wikilink")
+-   5 July afternoon (unconfirmed): European Parliament plenary debate
+-   6 July noon (unconfirmed): European Parliament plenary vote
+
+## What\'s hot {#whats_hot}
+
+During the last few weeks there has been so much work that I just
+didn\'t have enough time to write What\'s Hot. In fact, it wasn\'t so
+much time, but lack of processing capacity that kept me: to write
+What\'s Hot, especially to choose which information is publishable and
+which is not, I need a clear mind, whereas we have been running around
+too much. I don\'t give you much information in this issue either, but I
+give you, I hope, all you need to know.
+
+So now, ladies and gentlemen, here we are. Less than 10 days until the
+second reading. The final 100 meters. What we have been preparing for
+for more than 3 years. If we lose, that\'s it. Software patents will
+plague Europe for many years to come. If we win, we still have more way
+to go, but it is unlikely that we\'ll lose the rest of the procedure,
+unless we sit back and relax too much.
+
+We have won the silver medal already. We have shown to ourselves, to our
+friends, to the politicians, and to the world, that we can make a
+difference. We have made a difference, and we will continue to,
+irrespective of the result. But now we are going for the gold, and
+things are far from easy. After the negative JURI vote, we have entered
+the final 100 meters with a significant disadvantage. At the same time,
+the majority requirements are against us; our lobbyists are vastly
+outnumbered; our opponents have infinitely more money, and better access
+to the press. It makes no sense to make any predictions right now. We
+are trying for the best. We are prepared for the worst.
+
+## What you must still do {#what_you_must_still_do}
+
+1\) Participate in the web demo, <http://noepatents.eu.org/>. Talk to
+people and convince them to participate too. Check the demo pages
+frequently for updates. A large web demo can attract media attention.
+
+2\) Prepare your visit to Strasbourg, for a demonstration on the morning
+of 5 July. The demo has not yet been organised, but we hope it will. We
+have no person available to organise it. So either pretend that there is
+an organiser and arrange your trip, or be the organiser. In the latter
+case, our veteran demo organiser will help you find your way. Reply to
+me (anthony att itia.ntua.gr) if you can do it. **Update**: See
+<http://wiki.noepatents.eu.org/index.php/StbDemo050604>
+
+3\) Contact companies and get them to sign economic-majority.com. Help
+them prepare testimonies. For more detailed instructions and support,
+ask em-testimony at ffii.org. Also tell companies to come to Brussels to
+talk to their !MEPs.

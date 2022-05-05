@@ -1,0 +1,115 @@
+1.  1.  -\*- dok: sarji; lang: en; coding: iso-8859-1; mode:
+        fundamental; -\*-
+
+# Organising the corporate supporter base of FFII {#organising_the_corporate_supporter_base_of_ffii}
+
+-\> \[ [ sector](SektorEn "wikilink") \| [
+projects](FfiiprojEn "wikilink") \| [ ways of
+supporting](FFIISupportEn "wikilink") \| [ E-M
+news](EconomicMajorityNewsEn "wikilink") \| [ project
+news](FfiiprojNewsEn "wikilink") \]
+
+------------------------------------------------------------------------
+
+*The Economic Majority project has taken off but needs to be structured
+and organised.*
+
+## Current status {#current_status}
+
+draft by phm
+
+`Currently I don't see anyone taking planning responsibility for the`\
+`Economic-Majority project, so let me have a try.`
+
+`The following tasks seem urgent and responsibility is unclear for the most part.`
+
+`- The banner box pointing to the conference is outdated.`\
+`  It must be removed ASAP, even without replacement`
+
+`- Replacement by a "Thank You EP" banner and text`\
+`  would seem most appropriate.`\
+`  Miluz seems to be working on the banner.`\
+`  phm just drafted a quick "thank you" text`
+
+`    `[`http://wiki.ffii.org/EmDank0507En`](http://wiki.ffii.org/EmDank0507En)
+
+`  which is better than nothing.`
+
+`- New supporters need to be registered every day via`
+
+`    `[`http://www.economic-majority.com/admin/`](http://www.economic-majority.com/admin/)
+
+`  after they have confirmed their support by mail.`\
+`  The confirmations need to be again replied to in certain ways.`\
+`  This needs to be documented, and done every day.`\
+`  We need a team of people who take turns with this.`\
+`  Even if currently it is mostly uhlmann who does it, we need`\
+`  to get exercise in taking turns, so that uhlmann can go on vacation`\
+`  without creating a hole.    `
+
+`- Testimony collection must go on.`\
+`  The methodology for collecting, recruiting collectors and`\
+`  remunerating the work must also be updated in`
+
+`   `[`http://www.economic-majority.com/testimony/collect.php`](http://www.economic-majority.com/testimony/collect.php)
+
+`- Each FFII activist should care for a group of companies and be`\
+`  partially paid by this group.  Here again we must get started.`\
+`  phm might try to set up a group that supports the continued`\
+`  presence of erjos in Brussels, for a start.  erjos should then`\
+`  regularly communicate with this group of companies.  `
+
+`  Activists are also encouraged to acquire new companies on their`\
+`  own and to then become responsible for and sponsored by these`\
+`  companies.`
+
+`- mvernon should be asked to come back and work on this.`
+
+`- aigarius seems ready to assume some responsibilities as well.`
+
+`- portuguese and slovenian translations of economic-majority.com`\
+`  seem to be in the pipeline and not taken care of.  Bernard.Lang@inria.fr`\
+`  sent an update of the French version.  phm would like to see `\
+`  regular progress reports which say clearly whether these requests`\
+`  have been answered and what is still in the pipeline.`\
+`  Someone needs to be responsible for translation managment.`
+
+`- gregor.pirnaver@email.si / info@patenti.si asked for a link to his `
+
+`    `[`http://www.patenti.si/`](http://www.patenti.si/)\
+`    `[`http://programski.patenti.si/`](http://programski.patenti.si/)
+
+`  initiative in regio.php.`
+
+`- place an E-M ad in google.com, bid for the right keywords.`
+
+`  Background: currently very many news headlines lead to a banner ad`\
+`  of pro-patent testimony site iinovate.org (by MS proxy ACT).`\
+`  Our banner could thus `
+
+`    1 counter ACT misinformation `\
+`    2 persuade companies to support us`
+
+## To Do {#to_do}
+
+-   set up a project group for this
+-   using the [ feedback system](FeedbackEn "wikilink"), ask corporate
+    supporters about their companies, their concerns, their suggestions
+-   discuss ffii plans with these supporters
+-   discuss [ patent database](PatdbEn "wikilink") with supporters,
+    involve them in searching and documenting the EP situation in their
+    field
+-   try to motivate corporate supporters to donate more
+
+## Related Reading {#related_reading}
+
+-   [SektorEn](SektorEn "wikilink"): monitoring trends in the software
+    sector. For the time being only the Sektor project has mailing
+    lists, whereas the sarji project may be forked out later.
+-   [FfiiprojEn](FfiiprojEn "wikilink")
+-   [FFIISupportEn](FFIISupportEn "wikilink") (Ideas, **how** the FFII
+    could be supported)
+-   Funding of events from Bundeszentrale für politische Bildung (\--\>
+    [FfiiAkkredDe](Akkreditierung "wikilink")\] or other Political
+    Foundations. Usually data is needed for that such as bylaws, board
+    structure, financial plan etc.

@@ -1,0 +1,247 @@
+1.  1.  -\*- dok: trilat051117; lang: de -\*-
+
+# Trilaterales Gipfeltreffen in Muenchen 2005-11-17 {#trilaterales_gipfeltreffen_in_muenchen_2005_11_17}
+
+-\> \[ [ english](Trilat051117En "wikilink") \] \[ [ Trilateral
+Project](SwpatuseujpEn "wikilink") \| [ EPC 52](Epue52En "wikilink") \|
+[ EPO](SwpatepoEn "wikilink") \| [ Geistiges Eigentum der
+Zukunft](IndpropEn "wikilink") \| [ Reform des
+Prüfungswesens](PatexamReformEn "wikilink") \| [FFII Muenchen
+Diskussion](http://lists.ffii.org/mailman/listinfo/muenchen-parl/ "wikilink")
+\]
+
+------------------------------------------------------------------------
+
+*Das Trilaterale Projekt der drei großen Patentämter (US, EU, JP) tagt
+ab dem 14. November in München. Unter dem Vorwand der weltweiten
+Vereinheitlichung im Rahmen des Trilateralen Projektes hat das
+Europäische Patentamt um 2000 die Grundlagen für eine gescheiterte
+Änderung des EPÜ und eine gescheiterte Softwarepatent-Richtlinie gelegt.
+Trotz der mangelnden öffentlichen Unterstützung für seine Praxis hält
+das EPA jedoch an dieser aggressiver denn je fest. Die Konferenz vom 17.
+November dient zwar nicht explizit diesem Zweck, aber sie propagiert
+nach wie vor einseitig die Interessen der Patentwelt und deren
+fortschreitende Festschreibung auf einer internationalen, demokratischer
+Gesetzgebung unzugänglichen Ebene.*
+
+-   [EPO
+    Trilateral](http://www.trilateral.net/meet_users/index.php "wikilink")
+-   [Programm
+    (pdf)](http://www.trilateral.net/meet_users/programme.pdf "wikilink")
+-   [Anmeldung zur
+    Konferenz](http://www.trilateral.net/meet_users/registration/index.php "wikilink")
+
+## Zusammenfassende Kommentare {#zusammenfassende_kommentare}
+
+[ Hartmut Pilch](HartmutPilchDe "wikilink"):
+
+Die drei großen Patentämter feierten heute wieder einmal die
+anschwellende Flut von Verbotsvorschriften, die sie jährlich
+produzieren. Inzwischen sind es Hunderttausende jedes Jahr, die im
+Gegenzug für immer geringere Innovationsleistungen erteilt werden. Es
+wird immer fragwürdiger, in wie weit ein System, das Innovationen mit
+schriftlich fixierten Monopolansprüchen einzäunt, in einer
+Weltwirtschaft der heutigen Größe überhaupt noch handhabbar, geschweige
+denn sinnvoll ist. Wenn einige hochentwickelte Länder, wie wir heute
+gehört haben, ihre \"nationale Strategie\" auf \"geistiges Eigentum\"
+bauen wollen, dann müssten sie auch ernsthaft nach passenden Angeboten
+Ausschau halten. Die Patentämter und ihre Nutzergemeinde optimieren
+weiter fleißig ein Produkt, das eine Volkswirtschaft nicht mehr
+ernsthaft wollen kann. Sie interessieren sich sichtlich nur dafür, die
+Welt noch effizienter, systematischer und flächendeckender mit breiten,
+Monopolansprüchen zu überziehen, die zwangsläufig mit schwerfälligen und
+teuren Prozeduren einhergehen, egal wie oft man an den immer gleichen
+Reformschrauben dreht, mit denen sich die Patentgemeinde auf ihren
+Konferenzen regelmäßig beschäftigt. Während heute bei den amerikanischen
+Vertretern immerhin skeptische Töne insbesondere gegenüber
+Softwarepatenten zu vernehmen waren, zeigten sich besonders das EPA und
+die selbsternannten Vertretern der Europäischen Industrie ausschließlich
+an effizienter und einheitlicher Patenterteilung interessiert. Schon im
+Jahre 2000 lieferte das Trilaterale Projekt die Textbausteine, aus denen
+die Europäische Kommission ihre gescheiterte Softwarepatentrichtlinie
+zusammenzusetzen versuchte. Derzeit versucht man offenbar, ohne
+explizite Gesetzgebungsakte die Regeln durchzusetzen, auf die sich die
+drei großen Patentämter damals geeinigt haben.
+
+### Giedke: Die Trilateralen Ämter müssen das Öffentliche Interesse im Auge behalten! {#giedke_die_trilateralen_ämter_müssen_das_öffentliche_interesse_im_auge_behalten}
+
+Der Münchener Physiker und FFII-Aktivist [Geza
+Giedke](http://www.mpq.mpg.de/Theorygroup/CIRAC/people/giedke/ "wikilink")
+besuchte die Veranstaltung und schrieb in der [ englischen
+Version](Trilat051117En "wikilink") einen Kommentar.
+
+## Berichte von der Konferenz {#berichte_von_der_konferenz}
+
+### LW
+
+Die Konferenz hat das Thema Patentierbarkeit so gut wie nicht berührt.
+Einzig der Vertreter des JPO hat mit seiner \"Roadmap zur Harmonisierung
+der Patentpraxis\" angedeutet, dass ein Fernziel auch die
+Vereinheitlichung der Patentierbarkeitsanforderungen sein sollte. Ein
+\"Nutzer-Vertreter\" aus den USA (Garner oder Hawley) nannte sogar
+explizit Computer- und Softwareindustrie als Bereiche, in den Patente
+eher hinderlich sind. Ansonsten waren die großen Themen \"Qualität der
+Patente\", \"Vereinheitlichung der Dokumentenstruktur\",
+\"Neuheitsschonfrist auch in Europa\" \"Vereinheitlichung der Patente
+unter Berücksichtigung der jeweiligen nationalen Einschränkungen\".
+
+### GG
+
+Vor allem fiel mir auf, wie nutzer-zentriert die Beteiligten denken
+(oder zumindest reden): wobei \"Nutzer\" im wesentlichen \"Kunden\",
+also Patentanwälte, Unternehmen und andere Patentämter meint. Weder der
+EPA-Präsident noch der Vertreter des JPO nahm das Wort Öffentlichkeit
+oder Gesellschaft überhaupt in den Mund, der Chef des USPTO verwies
+immerhin auf seinen Verfassungsauftrag \"to promote progress\". Ob
+Patente (oder anderer IP-Schutz) angebracht sind oder nicht, wurde von
+keinem in Frage gestellt. Insbesondere wurde nicht erwogen, der Flut von
+Patenten (unter der alle drei Ämter ächzen) durch Beschränkung der
+patentfähigen Erfindungen zu begegnen (z.B. durch Ausschluß von Software
+und Geschäftsmethoden, die ja einen großteil der Neuanträge darstellen).
+
+Einzig der Vertreter der IPO (Intellectual Property Owners Association)
+machte immerhin mehrere klare Statements dahingehend, daß auch
+diejenigen, die nie ein Patent einreichen, Teilnehmer des Systems und
+ihre Interessen zu beruecksichtigen sind.
+
+Zunächst sprachen die drei Vertreter der Patentämter, und zwar (neben
+viel Eigenlob) v.a. über die Probleme des großen Backlog und der langen
+Wartezeit bis zur Erteilung v. Patenten sowie die hohen mit den
+notwendigen Übersetzungen verbundenen Kosten und äusserten alle die
+Absicht, die Weiterverwendung von Anträgen und der bei ihrer Bearbeitung
+anfallenden Arbeit durch andere Patentämter zu erleichtern
+
+-   A. Pompidou (EPA)
+
+```{=html}
+<!-- -->
+```
+-   -   s.o.
+
+```{=html}
+<!-- -->
+```
+-   J. Dudas (USPTO)
+
+```{=html}
+<!-- -->
+```
+-   -   viele neue Prüfer eingestellt (jew. 1000 in den Jahren
+        2004-2006)
+    -   neue Trainingsmethoden
+    -   Versuch, die Qualität der Anträge zu verbessern
+    -   \"record growth\" in Patentanträgen und Erteilungen wurde ohne
+        weiteres als Erfolg verbucht
+
+```{=html}
+<!-- -->
+```
+-   M. Nakajima (JPO)
+
+```{=html}
+<!-- -->
+```
+-   -   Japan hat sich 2002 zur \"IP nation\" erklärt (\"Chefsache\" des
+        Premierministers Koizumi) und in diesem Zusammenhang
+        verschiedene Projekte (schnellere Umsetzung, IP High Court,
+        outsourcing von prior-art Suchen) auf den Weg gebracht.
+    -   auf dem Weg zu einem Globalen Patentsystem (GPS) wurden die
+        üblichen Forderungen gestellt (schneller, einfacher,
+        effizienter, bei gleicher Qualität\...)
+    -   Ausserdem machte er einen Vorschlag (\"new route proposal\") zur
+        effizienteren Einreichung/Bearbeitung internationaler Patente,
+        der die Vorteile der beiden bisherigen Wege (\"PCT\" und
+        \"Paris\") verbinden soll.
+
+```{=html}
+<!-- -->
+```
+-   Danach sprachen noch vier Vertreter der \"Nutzer\":
+
+```{=html}
+<!-- -->
+```
+-   -   Der Präsident der IPO, J. Hawley, wies in der nachdenklichsten
+        Präsentation des Vormittags auf einige der wirklichen Probleme
+        hin: die negativen Folgen schlechter Patente, z.B. in den Händen
+        von Patenttrollen, die hohen Kosten der Patent-Prozesse, der
+        (mögliche) Bias der Patentprüfer (\"one may get the impression
+        that it\'s easier to allow than to reject\") und sprach sich
+        dafür aus, das Interesse der Öffentlichkeit (derjenigen, die nie
+        ein Patent beantragen) im Auge zu behalten, z.B. durch die
+        Erleichterung der \"post grant opposition\". (Auch der negative
+        PR-Effekt der schlechten, langsam erteilten Patente war ihm ein
+        Dorn im Auge).
+
+```{=html}
+<!-- -->
+```
+-   -   Der Präsident der Patentanwaltsvereinigung AIPLA, M. Garner,
+        ging auf die Reformbestrebungen in den USA ein (siehe dazu
+        Empfehlungen der FTC und der NAS, sowie die Antwort der AIPLA).
+        Es scheint, daß im Land der unbegrenzten Patent-Möglichkeiten
+        auch nicht eitel Sonnenschein herrscht und sich auch Widerstand
+        gegen exzessives Patentieren regt: neben Finanzdienstleistern
+        wurde erstaunlicherweise die Softwareindustrie (und insbesondere
+        große Firmen, die BSA) als Branche angeführt, in der
+        Softwarepatente auch oder eher als \"annoyance\" angesehen
+        werden!
+
+```{=html}
+<!-- -->
+```
+-   -   Die Industrievertreter aus EU und JP, T. Sueur und N. Kuji waren
+        vor allem an prozeduralen Vereinfachungen interessiert.
+        (\"harmonization is a \_must\_\", common court/legal procedure
+        (European patent litigation agreement, EPLA), community patent,
+        limit translation cost, einheitliche Regelung der \"grace
+        period\", unified and simplified filing procedure)
+
+In der anschliessenden Diskussion meldeten sich v.a. Patentanwälte mit
+ihren Wünschen zur Vereinheitlichung der Antragsstellung und
+Rechtsprechung.
+
+Ein deutscher Teilnehmer (Namen habe ich nicht verstanden, er schien zu
+beanspruchen, fuer KMU zu sprechen) äusserte Unzufriedenheit mit der
+gegenwärtigen Situation bei Patenten auf SW/Geschäftsmethoden, meinte
+die KMU wollten ein liberaleres System a la USA.
+
+## Probleme, Hintergruende {#probleme_hintergruende}
+
+-   EPA betreibt aggressiv Lobbyarbeit für Softwarepatente
+    -   -   s\. <http://cii.european-patent-office.org/> und Link darauf
+            von
+            [Titelseite](http://www.european-patent-office.org/ "wikilink")
+            aus seit der Niederlage im EP
+        -   institutionalisierte Lobbyarbeit in Brüssel u.a., große
+            Abteilung eigens für diese Tätigkeit
+        -   Auch Trilaterales Projekt ist ein Ausfluss dieser Arbeit
+-   Die Partner wie UNICE etc. sind keine Vertreter der Wirtschaft.
+    Internationale und nationale Organisationen mit Legitimations- und
+    Kompetenzproblemen in Fragen normativen Patentrechtes verhandeln
+    hier untereinander.
+-   [Trilaterales
+    Projekt](http://swpat.ffii.org/players/useujp/ "wikilink") lieferte
+    mit Papieren im Mai 2000 wesentliche Passagen der
+    Softwarepatentrichtlinie, auch davor und danach war das Thema
+    Software und Geschäftsmethoden Lieblingsgegenstand weltweiten
+    Bemühungen um \"Harmonisierung\", sprich Festschreibung extensiver
+    Praxis
+-   Bemühungen um weltweit einheitliches materielles Patentrecht
+    ([Substantive Patent Law
+    Treaty](http://swpat.ffii.org/papers/wipo-splt01/ "wikilink"))
+    laufen weiterhin bei WIPO. Unter dem Deckmantel der
+    Vereinheitlichung soll eine umstrittene und nicht demokratisch
+    legitimierte Praxis festgeschrieben werden. Hier liegt
+    möglicherweise einer der nächsten Brennpunkte bei der
+    Swpat-Auseinandersetzung.
+-   Das Patentwesenist kein internationalisierbares Erfolgsmodell.
+    Fachartikel weisen seit Jahrzehnten auf seine Fehler und die
+    Probleme bei der Internationalisierung hin.
+    -   -   [Paul Geller 2003: International Patent
+            Utopia?](http://www-rcf.usc.edu/~pgeller/patutopia.pdf "wikilink")
+            (originally published in the European Intellectual Property
+            Review, 2003, 515, and then in French translation in
+            Propriétés intellectuelles, 2004, 503, in German translation
+            in GRUR Int., 2004, 271, and in Chinese translation in
+            Intellectual Property Studies, 2004, no. 15, 78.)

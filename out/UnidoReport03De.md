@@ -1,0 +1,80 @@
+# 2003 UN-Bericht über Industrielle Entwicklung kritisiert Patent-Propaganda {#un_bericht_über_industrielle_entwicklung_kritisiert_patent_propaganda}
+
+\--\> \[ [ Neues](SwpatcninoDe "wikilink") \]
+
+------------------------------------------------------------------------
+
+Der Bericht der UNIDO beobachtet und bewertet die industrielle
+Entwicklung in verschiedensten Ländern der Welt und spricht Empfehlungen
+aus. Bemerkenswert ist, dass Fragen des Patentrechtes hier ökonomisch
+und nicht ideologisch wie im Europäischen Kontext betrachtet werden.
+
+Basierend auf dem Paper von Chang u.a. zitieren sie die ökonomische
+Sicht mit deutlicher Kritik an den Kommunikationsansätzen der
+Patentbewegung.
+
+\"Advocacy of strong intellectual property rights presumes that the
+benefits of appropriation for innovators and disclosure for competitors
+outweigh the drawbacks of market distortions, making intellectual
+property rights beneficial to society. This presumption, almost
+impossible to test empirically, remains the subject of debate.\"
+
+Aus dem Kontext ergibt sich, dass mit \"intellectual property rights\"
+hier speziell Patente gemeint sind.
+
+Desweiteren werden interessante Informationen darüber gegeben, welche
+Länder Lizenzgebphren zahlen
+
+\"Technology licence payments rose 17 percent a year in 1985?1998, even
+faster than FDI flows. The world leaders are the United States and
+Japan, which are also the largest industrial innovators and technology
+exporters. The growth of their technology exports suggests that
+innovators are specializing and that technology markets are becoming
+quite integrated. East Asia pays far more royalty fees than any other
+developing region (figure 2.10). East Asia (excluding China) also has by
+far the highest per capita spending on these fees (about \$27), in line
+with its high-tech specialization. That the region also spends the most
+on R&D and receives the most FDI suggests that these different modes of
+acquiring and developing technology complement each other. South Asia
+and Sub-Saharan Africa (excluding South Africa) spend the least per
+capita on royalties (less than \$0.25 each), suggesting a massive?and
+possibly harmful?gap in accessing world technologies. In 1998, 10
+countries accounted for 86 percent of the developing world?s spending on
+royalty fees (figure 2.11). The bottom 30 countries accounted for almost
+none.\"
+
+Offensichtlich scheint die Marktabschottung durch Patentrechte möglich
+zu sein.
+
+Der Bericht verwirft die Bedeutung der Softwareindustrie Indiens und
+bemerkt: economy. \"But even India has a relatively weak base of
+industrial capabilities relative to the size of its economy. Moreover,
+small islands of technological success, as in software, do not reflect
+the dynamism and competitiveness of the industrial sector as a whole.\"
+
+Beachtenswert ist auch, dass den Verfassern die Zuordnung von Software
+in den Bereich der Dienstleistung wohlbekannt ist. Es werden einige
+interessante Fakten geliefert.
+
+\"Enterprises have always been the main investors in new technologies,
+particularly in industrialized countries. In OECD countries enterprises
+conducted 69 percent of total R&D in 1997, up from 66 percent in 1981.
+The share of higher education institutes remained constant at 17
+percent, while that of government fell from 15 percent to 11 percent.
+Private non-profit institutions account for the rest.21 Among
+enterprises, manufacturing remains the main source of R&D. But the share
+of services, driven by software, is rising?accounting for 15 percent of
+the OECD total in 1997.22 Distinctions between manufacturing and
+services are somewhat arbitrary, however, as the lines between them blur
+and industrial enterprises contract functions to independent
+enterprises. To cope with global competition and the growing complexity
+of knowledge, enterprises are specializing in their core competencies.
+As a result large enterprises no longer develop all their innovation
+in-house, but increasingly procure it from other enterprises. Several
+channels, discussed later in the report, provide access to the required
+knowledge. Innovation surveys suggest that inter-enterprise
+collaboration is the most important.\"
+
+# Vollständiger Bericht (5.7 MB) {#vollständiger_bericht_5.7_mb}
+
+<http://www.unido.org/userfiles/hartmany/12IDR_full_report.pdf>

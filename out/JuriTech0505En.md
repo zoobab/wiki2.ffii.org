@@ -1,0 +1,61 @@
+## Article 2 b a/b/\... (new) {#article_2_b_ab..._new}
+
+\|\| number \|\| submitter \|\| recommendation \|\| text \|\| \|\| 26
+\|\| Rocard \|\| + \|\| \"Technical\" means \"belonging to a field of
+technology\". A new teaching about the use of controllable forces of
+nature, under the control of a computer program and beyond the technical
+devices required to implement the program, is technical. The processing,
+handling, representation and presentation of information by computer
+program are not technical, even where technical devices are employed for
+such purposes; \|\| \|\| 27 \|\| Rocard \|\| + \|\| (bb) \"Field of
+technology\" means an industrial field of application requiring the use
+of controllable forces of nature to obtain predictable results in the
+physical world; \|\| \|\| 67 \|\| Lehne \|\| - \|\| \"Technical\" means
+the identification of a physical effect which goes beyond the digital
+representation of information and the normal physical interaction
+between software and hardware of a computer, network or other
+programmable apparatus. \|\| \|\| 68 = 74 \|\| Kauppi; Ortega \|\| +
+\|\| \"field of technology\" means an industrial application domain
+requiring the use of controllable forces of nature to achieve
+predictable results. \"Technical\" means \"belonging to a field of
+technology\". \|\| \|\| 70 = 71 \|\| Kudrycka and Zwiefka; Bertinotti
+\|\| ++ \|\| A \"field of technology\" is a discipline of applied
+sciences in which new knowledge is gained by experimentation with
+controllable forces of nature. \"Technical\" means \"belonging to a
+field of technology\"; \|\| \|\| 72 \|\| Lichtenberger, Frassoni \|\| +
+\|\| \"Technical\" means \"belonging to a field of technology\" \|\|
+\|\| 73 \|\| Gauzès \|\| - \|\| \"field of technology\" means any
+activity directly or indirectly employing controllable forces of nature
+to achieve predictable results in the physical world such as electrical,
+radio, or light signals. Information processing for the purpose of
+carrying out or assisting such an activity must be considered to belong
+to a field of technology, whereas information processing for
+calculation, financial data handling, or word-processing purposes must
+not be considered to belong to a field of technology. \|\| \|\| 76 \|\|
+Lichtenberger, Frassoni \|\| + \|\| \"Field of technology\" means an
+industrial application domain requiring the use of controllable forces
+of nature to achieve predictable results. \|\|
+
+Amendment 67 is somewhat confusing, as it is not clear what
+\"identification\" means in this context. Additionally, it uses the
+\"normal physical interaction\" doctrine of the EPO, which was
+introduced only to make computer-implemented business methods
+patentable.
+
+Amendment 26 and 27 reprise art 2b of the first reading and gives a
+proper combined positive and negative definition for the !TRIPs term
+\"field of technology\". Amendments 68 = 74 are part of this same
+amendment from first reading, with only the positive definition.
+Amendments 72 and 76 together are the same as amendments 68 = 74.
+
+Amendments 70 = 71 are an improved version of the same amendment of
+first reading. A discipline is normally characterised not by its domain
+of application but by the way in which it gains knowledge.
+
+Amendment 73 is very harmful as it states that data processing with a
+certain purpose can be considered technical. The correct approach is
+that the technical activity supported with data processing does not
+become unpatentable (e.g. an ABS brake is patentable, but not the data
+processing used in the implementation of the system). Data processing in
+itself should never be patentable, as you are patenting abstractions
+this way (and \"computer programs as such\").

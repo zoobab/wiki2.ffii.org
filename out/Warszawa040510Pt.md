@@ -1,0 +1,216 @@
+Alguns conteúdos ainda não se apresentam traduzidos, pelo que estão em
+Inglês!
+
+# Companhias Polacas and Parties in Sejm 2004-05-10 call on government to oppose Software Patents, Support European Parliament {#companhias_polacas_and_parties_in_sejm_2004_05_10_call_on_government_to_oppose_software_patents_support_european_parliament}
+
+see also
+
+-   [ Polish Version](Warszawa040510Pl "wikilink")
+-   [ English Version](Warszawa040510En "wikilink")
+-   [Plone page](http://plone.ffii.org/events/2004/wars05/ "wikilink")
+-   [account of Polish
+    Greens](http://www.zieloni.org.pl/print.php?what=news&id=576&PHPSESSID=7713d02550d3b7c086e1e75abd7e9d2c "wikilink")
+-   [Polish conference page](http://rms.7thGuard.net/ "wikilink")
+-   [protest page (Józef Pinior - Polish Social
+    Democrats)](http://www.pinior.info/index.php?option=content&task=view&id=27 "wikilink")
+-   [Official press release (in
+    Polish)](http://rms.7thguard.net/prasa.php "wikilink")
+
+## Organisers
+
+ISOC.org.pl, FFII.org.pl
+
+## Participants, Resolution {#participants_resolution}
+
+300 participants from Poland adopted a resolution calling government to
+support European Parliament\'s stance and oppose Irish Presidency
+proposal, with only 3 votes against and 4 abstentions.
+
+All software companies, associations and political parties are against
+software patents.
+
+## Morning Speeches {#morning_speeches}
+
+### Marek Balicki {#marek_balicki}
+
+social democrat senator, former government minister
+
+Software patents harmful to polish economy, government should support
+European Parliament position on software patents and throw in Poland\'s
+full weight against Council working group.
+
+dismayed to see that government representative didn\'t come.
+
+### Lukasz Jachowicz {#lukasz_jachowicz}
+
+ISOC.org.pl
+
+### Magda Mosiewicz {#magda_mosiewicz}
+
+chairwoman of [Polish Greens](http://www.zieloni.org.pl "wikilink")
+
+broader context of software patents: ensuring that megacorporations
+don\'t dominate the world.
+
+### Reinier Bakels {#reinier_bakels}
+
+IVIR.nl, author of Parliament-commissioned study on software patents
+
+says:
+
+-   some general misconceptions about \"intellectual property\" and
+    patents.
+-   public choice theory explains why political feedback mechanisms tend
+    to break, ffii etc needed as corrective
+-   Council black box operations violate basic constitutional principles
+
+### Hartmut Pilch {#hartmut_pilch}
+
+FFII
+
+-   program claims as the neuralgic point (history of the debate)
+-   Poland still innocent
+-   Council Union of Europe = svazek radiecki = sovjetsky sojus, need
+    solidarnosc
+
+### Richard Stallman {#richard_stallman}
+
+-   GNU.org
+
+## Press Conference {#press_conference}
+
+## Afternoon Speeches (Stakeholders) {#afternoon_speeches_stakeholders}
+
+### Software companies {#software_companies}
+
+#### Andrzej Odyniec (Macrosoft) {#andrzej_odyniec_macrosoft}
+
+-   CEO of [Macrosoft](http://www.macrosoft.com.pl/ "wikilink")
+
+introduces a mathematical model which explains why the patent system
+does not work for software, stresses that for him as an informatics
+pioneer and CEO of the older generation beliefs are unimportant, the
+important question is whether the system works. It doesn\'t, and the
+model explains why.
+
+#### Jaroslaw Kowalski (Novell) {#jaroslaw_kowalski_novell}
+
+-   [Novell Poland](http://www.novell.com.pl "wikilink")
+
+Novell opposes software patents, is forced to obtain patents for
+defensive purposes.
+
+### Piotr B ? (SME) {#piotr_b_sme}
+
+Copyright yes, patents no.
+
+### Adam Dawidziuk (7 Bulls) {#adam_dawidziuk_7_bulls}
+
+-   [7 Bulls](http://www.7bulls.com/ "wikilink")
+
+Copyright yes, patents no.
+
+### Waclaw Iszkowski (PIIT) {#waclaw_iszkowski_piit}
+
+-   [Polish Chamber of Information Technology and
+    Telecommunications](http://www.piit.org.pl/ "wikilink")
+-   Dr. eng
+-   president of PIIT
+
+```{=html}
+<!-- -->
+```
+-   experience shows that software patents are stupid and harmful, agree
+    with previous speakers
+-   BUT it is not enough to ban them in EU, solutions for US, JP, CN, IN
+    etc must also be found to ensure that European companies are really
+    safe when they publish things on the Internet and won\'t fined by US
+    courts upon entry to the US. Political efforts are needed to protect
+    EU interests in an international environment where in the mid-term
+    software patents are still predominant.
+
+### Polish Authors\' Society {#polish_authors_society}
+
+-   Copyright yes, patents no
+
+### Jozef Pinior (Polish Social Democrats) {#jozef_pinior_polish_social_democrats}
+
+-   represented by his assistant Radoslaw Tadajewski (
+    www.tadajewski.com )
+-   has started [campaign page against software
+    patents](http://www.protest.pinior.info/ "wikilink")
+
+Party website has started an action to mobilise people to write to the
+Polish government.
+
+### Robert Jezelski {#robert_jezelski}
+
+-   represents [Polish Greens](http://www.zieloni.org.pl "wikilink")
+-   will campaign against software patents in coming weeks, Hartmut\'s
+    pun about \"soviet union\" is unfortunately a dire reality, our
+    basic freedoms are being lost thanks to intellectual crookery
+    legislation at EU level
+
+### Adrian Zamberg {#adrian_zamberg}
+
+-   [Union for Labour (Unia
+    Pracy)](http://www.uniapracy.org.pl/ "wikilink")
+-   junior coalition partner, political party of the deputy prime
+    minister
+-   has called on government to oppose software patents in Council
+
+### PIS
+
+-   [Party of Law and Justice](http://www.pis.org.pl/ "wikilink")
+-   sent letter to the prime minister asking him to oppose software
+    patents, support European Parliament
+
+### Letter by Chairman of Parliamentary Club to Prime Minister {#letter_by_chairman_of_parliamentary_club_to_prime_minister}
+
+### Sylvain Perchaud {#sylvain_perchaud}
+
+-   <http://www.europe-shareware.org/>
+
+Case Example: Forgent going after shareware companies who use JPEG
+
+### Laurence Vandewalle {#laurence_vandewalle}
+
+-   research policy advisor of Greens/EFA in European Parliament
+
+```{=html}
+<!-- -->
+```
+-   in second reading, only JURI will report
+-   as before, JURI will be dominated by servants of big business and
+    lawyer world
+-   they will present a further disguised, even more hypocritical
+    version of the Council proposal, pretending that negotiations and
+    compromises are going on
+-   a massive effort is needed to make it clear to other !MEPs,
+    especially newly elected ones, that JURI leaders cannot be trusted
+-   in a third reading, things may become still more difficult, but we
+    may at least be able to work without a JURI rapporteur
+-   We can lose in a few months and will need years to win.
+
+### Jan Macek {#jan_macek}
+
+-   [FFII.org.pl](http://www.ffii.org.pl "wikilink")
+
+### Konrad Wawruch {#konrad_wawruch}
+
+-   [Polish Linux Users Group](http://www.linux.org.pl/ "wikilink")
+-   Linux users are potential small entrepreneurs. My business is being
+    threatened by the EU Council, I\'ll look for a place to emigrate if
+    this goes through.
+
+### Hartmut Pilch (closing words) {#hartmut_pilch_closing_words}
+
+### Lukasz Jachowicz {#lukasz_jachowicz_1}
+
+[ISOC Polska](http://www.isoc.org.pl/ "wikilink")
+
+-   We have copyright law, so we don\'t need patents.
+-   closing words
+
+OGGs with recording will be soon at the [conference
+site](http://rms.7thGuard.net/ "wikilink")

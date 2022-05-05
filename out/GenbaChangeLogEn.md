@@ -1,0 +1,13 @@
+1.  acl [TrustedGroup](TrustedGroup "wikilink"):read All:
+
+\-\--\> \[ [GenbaEn](GenbaEn "wikilink") \|
+[GenbaInternalEn](GenbaInternalEn "wikilink") \]
+
+-   2004-09-30 schinski added apache vhost news.ffii.org
+-   2004-09-19 schinski renamed the cvs user groups cjk, groff, libtool,
+    mlht, utpbook to cvs-`<name>`{=html}.
+-   2004-09-08 bkaindl created user mepdb on genba (as discussed with
+    phm in IRC as \'in charge\' user for the mepdb (e.g. for storing the
+    latest scripts, creating databases/tables and indices) and all of
+    general interest to the administration of the mepdb including statug
+    updates.
