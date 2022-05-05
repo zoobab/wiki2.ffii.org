@@ -1,0 +1,140 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MailmanDbEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="making_mailman_follow_the_ffii_project_participation_database_and_its_applications">Making Mailman follow the FFII Project Participation Database and its Applications</h1>
+            <p>--&gt; [ <a href="MailmanEn" title="wikilink">Mailman</a> | <a href="AktivEn" title="wikilink">aktiv</a> | <a href="FfiiprojKreEn" title="wikilink">creating projects</a> | <a href="DokDataEn" title="wikilink">document metadata</a> | <a href="FfiiprojNewsEn" title="wikilink">project news</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-09-14 cronjob daily.mailman goes back into regular operation under user 'list'</li>
+            <li>2004-09-13 phm moves scripts to user 'list', tests /home/list/ffii/bin/projlists.mailman extensively. During testing, many people receive useless notifications (e.g. a list sarji-de which shouldn't exist is recreated and add_members used with flag -w yes) and some list configuration files break. The bugs are fixed (e.g. by removal of lists sarji-?? from table 'lists' of database 'ffii' and by corrections in the script projlists.mailman, which had been modified a lot due to the upgrade.)</li>
+            <li>2004-08-26 unknown administrator stops the scripts, removes user mailman and some symlinks</li>
+            <li>2004-08-25 phm restores, improves and documents the interface after 2 weeks of interruption due to system ugrade. Many waiting subscribers are added from DB. bkaindl and dekkers are notified.</li>
+            <li>2004-08 <a href="GenbaEn" title="wikilink">genba</a> OS, mailer and mailman upgraded</li>
+            </ul>
+            <h2 id="project">Project</h2>
+            <ul>
+            <li>mailman, <a href="FfiiprojKreEn" title="wikilink">subscribe via database</a> or
+            <ul>
+            <li><ul>
+            <li><a href="http://lists.ffii.org/mailman/listinfo/mailman-parl/" class="uri">http://lists.ffii.org/mailman/listinfo/mailman-parl/</a></li>
+            <li><a href="http://lists.ffii.org/mailman/listinfo/mailman-news/" class="uri">http://lists.ffii.org/mailman/listinfo/mailman-news/</a></li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <h2 id="purpose_tasks">Purpose, tasks</h2>
+            <ul>
+            <li>general purpose
+            <ul>
+            <li><ul>
+            <li>translate from project participation of ffii users (identified by <a href="FfiiUidEn" title="wikilink">user id</a>) in projects to subscription/unsubscription of mailing lists</li>
+            <li>have decision-relevant data in the database, so that they can be used for all kinds of workflow managment applications, including monthly reminders of participation status, project signup from within kwiki/aktiv, quick addition/removal of people from/to projects by persons with access to the database, etc</li>
+            </ul></li>
+            </ul></li>
+            <li>update projects once a day
+            <ul>
+            <li><ul>
+            <li>/home/list/ffii/bin/{projlists.mailman,daily.mailman}</li>
+            <li>Create and configure new lists based on new projects</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <p><code>    * leave configuration of old projects alone (control via mailman interface)</code></p>
+            <ul>
+            <li><ul>
+            <li>add new users from database/aktiv</li>
+            </ul></li>
+            </ul>
+            <p><code>    * these users must unsubscribe in database/aktiv before unsubscribing in mailman</code><br />
+            <code>    * only for '''-resp (project responsibles) lists, the database is the master, users subscribed from elsewhere are deleted.  In all other cases, subscription through mailman interface is accepted and therefore no deletion is performed.</code><br />
+            <code>  ''' we should send out monthly reminders to all supporters which inform them about project subscription status et al</code></p>
+            <ul>
+            <li>mailing list subscription (table 'subs') once per minute
+            <ul>
+            <li><ul>
+            <li>/home/list/ffii/bin/minutely.mailman</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <h2 id="problems_tasks">Problems, Tasks</h2>
+            <ul>
+            <li>some users fail to subscribe, duplicity of interfaces (aktiv + mailman) confuses them. This causes frustration and workload. Solution: inform users better, e.g.:
+            <ul>
+            <li><ul>
+            <li>better explanation on mailman listinfo pages (must be there by default!)</li>
+            <li>monthly ffii reminder mailing (short: participation status, current projects)</li>
+            <li>info in mailman monthly reminder mailing</li>
+            </ul></li>
+            </ul></li>
+            <li>fully implement project system in <a href="AktivEn" title="wikilink">aktiv</a></li>
+            <li>allow users to sign on/off any project on a project-related kwiki page after login as "ffii editor" (using same user/passwd data as knecht/aktiv)</li>
+            </ul>
+            <h2 id="faq">FAQ</h2>
+            <h3 id="why_not_use_mailman_interface_only">Why not use mailman interface only?</h3>
+            <p>Mailman is unaware of <a href="FfiiUidEn" title="wikilink">ffii user ids</a>. We would not have participation data at our disposal. These data are useful for an unforeseeable large range of applications.</p>
+            <h3 id="why_not_just_send_a_subscribe_email_from_aktiv">Why not just send a subscribe email from Aktiv ?</h3>
+            <ol type="1">
+            <li>People would then unsubscribe via mailman without notifying the database, and we would accumulate a large pile of invalid participation data over time and no longer know who is in what project</li>
+            <li>Aktiv is not the only application of the database. We neither want to lose the info in the mailman interface nor in the aktiv interface. Whenever someone edits the database, no matter whether directly or through an interface, he should be sure that this editing counts</li>
+            <li>sending via e-mail is not any more elegant than using the mailman utilities 'add_members' etc</li>
+            </ol>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

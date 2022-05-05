@@ -1,0 +1,177 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>AmendDbEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="AmendDb" title="wikilink">AmendDb</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="amend_database_the_eu_software_patent_directive_in_various_versions">AMEND Database: the EU Software Patent Directive in various versions</h1>
+            <p>--&gt; [ <a href="MlhtDbEn" title="wikilink">MLHT Database</a> | <a href="AmendEn" title="wikilink">amendment writing</a> | <a href="FfiiprojNewsEn" title="wikilink">project news</a> ]</p>
+            <hr />
+            <p>A database of amendments to the EU software patent directive in the versions of the Commission, the Committees of the European Parliament (CULT, ITRE, JURI), the European Parliament's Plenary, the Council, the FFII Counter-Proposal of 2003 and various other texts that have been circulating, attempting to collect these texts in all languages in which they have been published. This database was created by gibuskro with some input from phm.</p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2005-08-01 gibus adds JURI amendments of second reading</li>
+            <li>2005-07-26 gibus creates eqam table to identify indentical amendments and fills it with 2nd reading plenary amendments</li>
+            <li>2005-07-26 gibus adds plenary amendments of second reading</li>
+            <li>2005-04-08 gibus adds council uncommon position</li>
+            <li>2004-11-25 gibus describes identifiers</li>
+            <li>2004-11-25 phm initiates this page</li>
+            </ul>
+            <h2 id="using_the_database">Using the Database</h2>
+            <ul>
+            <li>establish an ssh tunnel to <a href="GenbaEn" title="wikilink">genba</a>
+            <ul>
+            <li><ul>
+            <li>$ ssh -p 50022 3333:ffii.org:5432 user@ffii.org</li>
+            <li>$ psql -d amend -h localhost -p 3333</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <h2 id="descriptions_of_main_database_tables">Descriptions of main Database Tables</h2>
+            <p>The database contains a lot of tables that were used during its creation and are no longer of use now. It needs cleanup. We describe only the useful tables here.</p>
+            <p><em>Note: every table or column name is in lower case. In this page, we are just writing them in upper case for enlightning purposes.</em></p>
+            <h3 id="eusd_txt">EUSD_TXT</h3>
+            <p>Main table containing textual content</p>
+            <ul>
+            <li>BLOK: amendment</li>
+            <li>LANG: language</li>
+            <li>BLOK_TXT: amendment/article/recital/justfication text</li>
+            </ul>
+            <h4 id="blok_structure_of_amendment_identifiers">BLOK: structure of amendment identifiers</h4>
+            <p>In short, the "blok" column is used to identify chunks of text. It is built like this :</p>
+            <p><text_id><chunk_nature><article_recital_amendment_number><subparagraph><comment_origin><comment_paragraph></p>
+            <p>with :</p>
+            <ul>
+            <li><txt_id>: one or two letter(s) ('b' for commission initial proposal 2002-02, 'd' council 2002-11, 'h' CULT 2003-01, 'i' ITRE 2003-02, 'j' JURI 2003-06, 'k' plenary amendments of 1st reading 2003-09, 'p' plenary provisional text, 'q' plenary final text, 'ea', 'eb', 'ec', 'ed' for different versions of council text changing along succesive working party/coreper/ministers meetings with 'ed' the final political agreement of 2004-05-18, 'e' for Council uncommon position 2005-03-07, 'r' for JURI amendments of 2nd reading 2005-06-20, 'rc' of JURI compromise amendments for 2nd reading 2005-06-20 or 's' plenary amendments of 2nd reading 2005-07-06)</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li><chunk_nature>: '0' for title, '1' for recital and '2' for article (nothing for amendment)</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li><article_recital_amendment_number>: as its name suggest, with 2 digit for recital, 1 digit for article (except for plenary and council final texts ('q' and 'e') where 2 digits were necessary), 2 digits for CULT/ITRE/JURI amendments and 3 digits for plenary amendments (both for 1st and 2nd readings) and JURI 2nd reading amendment (both regular and compromise amendments)</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li><subparagraph>: paragraph in the same aritcle/recital/amendment are numbered 1, 2, 3 etc.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li><comment_origin>: 'f' for ffii, 'j' for justfication, etc.</li>
+            </ul>
+            <p>Also for article/recital numbering and paragraph, when for example it is an inserted article, a '@A', '@B', '@C', etc. is inserted. Eg : article 8, point cb (in french point 'c ter') of 2004-05-18 council "compromise" has identifier 'ed2813@B', 'ed' for this council version, '2' for article, '8' for article 8, '1' cuz it's the first paragraph of this article, '3' cuz it's the third subparagraph (point c) of this article and @B cuz it's the second inserted subsubparagraph (point cb).</p>
+            <h4 id="notes_for_2nd_reading_plenary_amendments_blok_s">Notes for 2nd reading plenary amendments (blok ~ /^s/)</h4>
+            <p>All the following comments are concerning official documents on European Parliament's website. These documents can still be found now (2005-07-26) at <a href="http://www2.europarl.eu.int/sce/server/internet/amend_motions_texts/sce_amend_motions_texts_main_02.jsp?ref=A6-0207/2005" class="uri">http://www2.europarl.eu.int/sce/server/internet/amend_motions_texts/sce_amend_motions_texts_main_02.jsp?ref=A6-0207/2005</a> in MS-Word format.</p>
+            <ol type="1">
+            <li>178 amendements are inserted in languages : cs, da, de, el, en, es, et, fi, fr, hu, it, lt, lv, nl, pl, pt, sk, sl, sv.</li>
+            <li>There is no translation of amendments (nor justifications) for mt.</li>
+            <li>For cs, et, lt, pl and sk, all justifications are in English or French, so justifications are <strong>not</strong> inserted in the database for these languages.</li>
+            <li>For hu, only JURI justifications are translated, so <strong>only</strong> justifications of amendements 1 to 39 are inserted in the database for Hungarian.</li>
+            <li>For nl, justifications of cross-party compromise amendments are <strong>not</strong> translated, so justifications of amendments 40-60, 72-92, 93-113, 114-134, 135-155 and 158-178 are <strong>not</strong> inserted in the database for Dutch.</li>
+            <li>For sl, some justifications are not translated, so <strong>only</strong> justifications of amendments 1-16, 20, 21, 61 and 62 are inserted in the database for Slovenian.</li>
+            <li>For fi, amendments 47=79=100=121=142=165 curiously have two versions, we have only inserted the first one in the database, which seems to be the good one (corresponding to English original) according to a Finnish supporter.</li>
+            <li>For the record, it is quite funny to see that in Swedish, text of amendments 14 and 40=72=93=114=135=158 is "Berör inte den svenska versionen", which means that the amendment does not concern the Swedish version. These amendments concern the substitution of "computer-implemented inventions" by "computer assisted-inventions". The latest term was already used in Swedish from the beginning.</li>
+            </ol>
+            <h4 id="notes_for_2nd_reading_juri_amendments_blok_rc">Notes for 2nd reading JURI amendments (blok ~ /^rc?/)</h4>
+            <ol type="1">
+            <li>Although for some languages (cs, de, et, lt, lv, pl, sk, sl, sv), justifications of some amendments are not translated and remains in English or French, unlike plenary amendments for second reading, the English or French version of these justifications have been inserted, since there is no common scheme to know which justification of amendment has not been translated...</li>
+            </ol>
+            <!-- -->
+            <ol type="1">
+            <li>JURI amendments of 2nd reading are less important since the result of 2nd reading, they are here for completude purpose and also can be useful for translation, but the extraction has not been reviewed in details and there could be some errors, for eg. in spaces supposed to separate words...</li>
+            </ol>
+            <h3 id="eusd_txtam">EUSD_TXTAM</h3>
+            <p>Table for mapping between amendments and articles/recitals</p>
+            <ul>
+            <li>TXT: BLOK identifier of a text (that is a document with recitals and articles)</li>
+            <li>AM: BLOK identifier of an amendment</li>
+            </ul>
+            <p>This table contains :</p>
+            <ul>
+            <li>maping between Commission initial proposal (txt ~ /^b/) and plenary amendments for 1st reading (am ~ /^k/).</li>
+            <li>maping between Council uncommon position (txt ~ /^e[^abcd]/) and plenary amendments for 2nd reading (am ~ /^s/).</li>
+            </ul>
+            <h3 id="eusd_eqam">EUSD_EQAM</h3>
+            <p>Table for identifying identical amendments</p>
+            <ul>
+            <li>BLOK: BLOK identifier of an amendment</li>
+            <li>EQAM: BLOK identifier of equivalent amendments</li>
+            </ul>
+            <p>When two amendments are considered to be identical, the first one, with lower number, is considering as the reference in EQAM column, the second one, with higher number is in BLOK column. When several amendments areconsidered to be identical, the reference is always the amendment with the lower number, thus EQAM column is set to the same value.</p>
+            <p>Ex. 42=74=95=116=137=160 for second reading plenary give:</p>
+            <p><code>amend=&gt; select * from eusd_eqam where eqam='s042';</code><br />
+            <code> blok | eqam</code><br />
+            <code>------+------</code><br />
+            <code> s074 | s042</code><br />
+            <code> s095 | s042</code><br />
+            <code> s116 | s042</code><br />
+            <code> s137 | s042</code><br />
+            <code> s160 | s042</code></p>
+            <p>Only plenary and JURI amendments for second reading (blok ~ /^s/) have been inserted in this table.</p>
+            <h2 id="to_do">To do</h2>
+            <ul>
+            <li>design tables for authors of amendments and FFII recommendations</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

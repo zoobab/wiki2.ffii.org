@@ -1,0 +1,131 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>NewsserverEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="maintaining_the_ffii_news_group_gateway_setup">Maintaining the FFII News Group Gateway Setup</h1>
+            <p>--&gt; [ <a href="PolisEn" title="wikilink">ffii computing</a> | <a href="GenbaEn" title="wikilink">genba</a> | <a href="AdministriviaEn" title="wikilink">Administrivia</a> ]</p>
+            <hr />
+            <h2 id="information_for_users">Information for Users</h2>
+            <p>See <a href="http://news.ffii.org/" title="wikilink">The FFII News Server user portal</a>. Requests and questions concerning the newsserver should be directed to newsserver-help_at_ffii.org.</p>
+            <h2 id="modifying_the_gateway_configuration">Modifying the gateway configuration</h2>
+            <h3 id="adding_a_gateway">Adding a gateway</h3>
+            <ul>
+            <li>If the gateway is for groups associated with a project, see <a href="FfiiprojKreEn" title="wikilink">FfiiprojKreEn</a>.</li>
+            <li>If the gateway is for a non-project mailing list, proceed as follows.</li>
+            </ul>
+            <p>00 Set the values of the database fields [=ffii.lists.gnggrpr] and [=ffii.lists.gnggrpw] accordingly (see their description in the table [=ffii.flddes]). 00 Wait for user news' nightly cron job to update news group gateways, or - if you're impatient and if you have the necessary permissions - run [=/usr/local/lib/news/bin/run_update_gated_ngs] as user [=news]. However, note that this process may take <strong>dozens</strong> of minutes. If you interrupt it, please remove the lock file(s) (extension [=.lock]) stored in the directory [=/tmp] so that the nightly cron job can run.</p>
+            <h3 id="removing_a_gateway">Removing a gateway</h3>
+            <p>For more information see the documentation for adding a gateway. Note that when a gateway is removed, the news group is not removed: It is merely diabled so that messages stay available for reading.</p>
+            <ol type="1">
+            <li>Modify the database values influencing the set up of a gateway.</li>
+            <li>Rerun [=run_update_gated_ngs], or wait for the nightly cron job.</li>
+            </ol>
+            <h3 id="moving_a_gateway">Moving a gateway</h3>
+            <p>For more information see the documentation for adding a gateway. Note that when a gateway is moved, the "old" news group is not removed: It is merely diabled so that messages stay available for reading.</p>
+            <ol type="1">
+            <li>Modify the position of the mailing list or project in the corresponding hierarchy. For mailing lists, this means setting the desired list group; for projects, this means setting the desired parent project.</li>
+            <li>Rerun [=run_update_gated_ngs], or wait for the nightly cron job.</li>
+            </ol>
+            <h3 id="changing_the_description_of_a_gated_news_group">Changing the description of a gated news group</h3>
+            <p>For more information see the documentation for adding a gateway.</p>
+            <ol type="1">
+            <li>Modify the description of the project or mailing list in the appropriate database fields. For projects, the tables [=flddes] or [=projdes] (lower priority than [=flddes]) are relevant; for mailing lists the table [=flddes] is relevant. To find which fields are actually used and in which order, see the usage instructions of the program [=/usr/local/lib/news/bin/description] which may need to be run from a login shell of the user news.</li>
+            <li>Rerun [=run_update_gated_ngs], or wait for the nightly cron job.</li>
+            </ol>
+            <h3 id="tuning_inn_and_procmail_configuration_rarely_needed">Tuning INN and procmail configuration (rarely needed)</h3>
+            <p>As of this writing, among other things, the following INN and Procmail configuration files are recreated when the gateway configuration is updated by [=run_update_gated_ngs]:</p>
+            <ul>
+            <li>[=/etc/news/news2mail.cf]</li>
+            <li>[=/etc/news/newsfeeds]</li>
+            <li>[=/etc/news/procmailrc]</li>
+            <li>[=/var/lib/news/newsgroups]</li>
+            </ul>
+            <p>The files are created from configuration stored in the table [=ffii.gatedngs] and from files [=head] and [=foot] stored in the source directory corresponding to each file (e.g. [=/etc/news/procmailrc.src]). After changes to the head and foot files either</p>
+            <ul>
+            <li>run <a href="=/usr/local/lib/news/bin/config_gate" title="wikilink">cr</a>, or</li>
+            <li>if gateway configuration has changed, wait for the nightly cron job or run [=run_update_gated_ngs].</li>
+            </ul>
+            <p>In general, however, updating the head and foot files should rarely be necessary.</p>
+            <h3 id="adding_inn_wildmat_patterns_rarely_needed">Adding INN wildmat patterns (rarely needed)</h3>
+            <p>Adding INN wildmat patterns should be added to [=projmltwildmats] in case one of the scenarios explained below happens. In general, it isn't wise to remove wildmat patterns from [=projmltwildmats] since that may block access to news groups.</p>
+            <ul>
+            <li>A new project mailing list type has been added.</li>
+            <li>Relevant changes have been made to the news group hierarchy.</li>
+            </ul>
+            <h2 id="administration_miscellanea">Administration Miscellanea</h2>
+            <h3 id="maintainers">Maintainers</h3>
+            <p>Paul Marques Mota (pmota_at_ffii.org) and Felix E. Klee (feklee_at_ffii.org)</p>
+            <h3 id="communication">Communication</h3>
+            <p>Discussion concerning the newsserver should take place in newsserver-parl_at_ffii.org, in the corresponding NG, or in #ffii-newsserver on irc.freenode.net. Announcements are posted to the list newsserver-news_at_ffii.org.</p>
+            <h3 id="when_the_news_server_was_down">When the news server was down</h3>
+            <p>When the server is not available, then messages posted with [=rnews] are spooled into a special file (see [=rnews]' man page). To repost these messages, <a href="=rnews" title="wikilink">-U</a> should be run after the server is restarted. However, this doesn't have to be done manually since INN's cron job takes care of it (see [=/etc/cron.d/inn2]).</p>
+            <h3 id="when_messages_have_been_lost">When messages have been lost</h3>
+            <p>Every night a cron job is run that checks for messages that were not synchronized between mailing lists and news groups. It does so by comparing archives. To do this check manually, run the program [=/usr/local/lib/news/bin/find_lost_messages] with appropriate options. There are numerous reasons for messages being lost, also there are numerous possibilities to recover lost messages. Read [=/usr/local/lib/news/doc/lost_messages] for more information.</p>
+            <h3 id="statistics">Statistics</h3>
+            <p>See <a href="http://news.ffii.org/innreport/" class="uri">http://news.ffii.org/innreport/</a></p>
+            <h3 id="further_documentation">Further documentation</h3>
+            <ul>
+            <li>Introduction to documentation concerning maintenance: See !news@genba.ffii.org:~/README</li>
+            <li>How the system works (as of this writing, this info is outdated): <a href="http://groups.google.com/groups?hl=en&amp;lr=&amp;ie=UTF-8&amp;safe=off&amp;threadm=ciqnj1%241ihb%241%40FreeBSD.csie.NCTU.edu.tw&amp;prev=/groups%3Fhl%3Den%26lr%3D%26ie%3DUTF-8%26safe%3Doff%26group%3Dmailing.unix.inn-workers" title="wikilink">article available in Google Groups An</a></li>
+            <li>ML and NG database structures: <a href="FfiiPgSqlDatabaseMlNgEn" title="wikilink">FfiiPgSqlDatabaseMlNgEn</a></li>
+            <li><a href="http://www.ietf.org/html.charters/nntpext-charter.html" title="wikilink">IETF working group</a></li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

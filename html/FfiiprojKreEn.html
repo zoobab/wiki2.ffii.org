@@ -1,0 +1,194 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>FfiiprojKreEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="FfiiprojKre" title="wikilink">FfiiprojKre</a>; lang: en; coding: iso-8859-1; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="how_to_create_and_edit_an_ffii_project_group_in_the_database">How to Create and edit an FFII project group in the Database</h1>
+            <p>--&gt; [ <a href="FfiiprojEn" title="wikilink">FFII Projects</a> | <a href="FfiiRegioEn" title="wikilink">regional groups</a> | <a href="AktivEn" title="wikilink">aktiv</a> | <a href="MailmanDbEn" title="wikilink">Mailman DB</a> | <a href="FfiidistsEn" title="wikilink">ffiidists</a> | <a href="Ffiidb2mmEn" title="wikilink">ffiidb2mm</a> | <a href="MailmanProjlistsEn" title="wikilink">projlists</a> | <a href="FfiiprojNewsEn" title="wikilink">Project News</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2005-01-25 added section 'What's in a project'</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>2004-12-01 feklee assumes that the news server infrastructure is stable (it has been heavily tested). Please start using it. If there are any problems, report them to newsserver-help(@)ffii.org.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>2004-11-11 feklee adds information about setting up news group gateways. Note that <strong>news group gateway functionality</strong> is still in the developement phase, i.e. it <strong>should not be used for non-testing projects</strong>. To be more precise: Modification of gated news group setups should work; However, user authentication to the news server doesn't work correctly, as of this writing.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>2004-10-17 phm simplifies project creation by incorporating functionality from <a href="FfiidistsEn" title="wikilink">ffiidists</a> into <a href="Ffiidb2mmEn" title="wikilink">ffiidb2mm</a></li>
+            </ul>
+            <h2 id="no_nos">No-Nos</h2>
+            <p>Do <strong>not rename or delete projects</strong>. Instead terminate a project (set the database field [=ffii.proj.finito] to the value [=True]) and, if desired, create a new project as a substitute.</p>
+            <h2 id="whats_in_a_project">What's in a project?</h2>
+            <p>A project consists of a contact person and up to three newsgated mailing lists. It may have a webpage.</p>
+            <h3 id="contact_person">Contact person</h3>
+            <p>In a grassroots organisation, it can be helpful to have a minimum of accountability or at least a contact person, so each has a supporter registered in aktiv, who acts as contact person and gets the initial password for the mailing lists (the mailing lists have a mailman interface, so he/she can assign to others). This date is in the table <strong>proj</strong>.</p>
+            <h3 id="mailing_lists">Mailing lists</h3>
+            <p>Each project has up to three mailing lists, tables in <strong>projhlp</strong>, these are called -help, -parl, -news. Eg:</p>
+            <ul>
+            <li>muenchen-help: this is an internal helpdesk list for answering helpdesk requests and confidential things</li>
+            <li>muenchen-parl: from 'parl' = 'parlare/parler': speak, this is the main public mailing list, where subscribers can post and read what others post</li>
+            <li>muenchen-news: low-volume list for news to eg journalists or other observers, you can subscribe, but subscribers cannot post</li>
+            </ul>
+            <p>Typically most traffic is on the -parl list, some projects don't use the -news list at all, and also the -help list is only optional.</p>
+            <p>The activity on mailing lists differs widely from project to project, and of course the project also might do physical events. Doing this autonomously is very much welcome. Most projects are either regional or national, or activity-focused (patdb, sarji) or event-focused.</p>
+            <h1 id="creating_a_project">Creating a project</h1>
+            <h2 id="preparatory_steps">Preparatory Steps</h2>
+            <p>Contact proj-help before you go ahead. If you are creating a regional group, contact regio-help instead.</p>
+            <p>You need an account on <a href="GenbaEn" title="wikilink">genba</a> and write access to the 'ffii' database tables 'proj', 'projhlp' and 'projprm'. Alternatively, you can use the 'proj' verb in the <a href="KnechtEn" title="wikilink">knecht</a> system.</p>
+            <p>To get the work done quickly (without waiting for cronjobs to execute it), you also need access to the account of user 'list'.</p>
+            <p>Quite a few people have all these access rights, ask proj-help or regio-help if needed.</p>
+            <h2 id="edit_the_database">Edit the Database</h2>
+            <p>New groups are created as projects in the ffii database, tables 'proj', 'projhlp' and 'projprm'. E.g. for the regional group 'franken' the project 'franken' is created in 'proj' and helpers are assigned to it at different help levels in 'projhlp' and given permission for this helplevel in 'projprm'.</p>
+            <p><code>$ psql ffii</code><br />
+            <code>&gt; insert into proj ( uid, proj, upproj, projurl, lang ) values ( 'cschulte', 'franken', 'regio', '</code><a href="http://kwiki.ffii.org/FfiiFrankenDe"><code>http://kwiki.ffii.org/FfiiFrankenDe</code></a><code>', 'de' ) ;</code></p>
+            <p>This means that ffii user 'cschulte' is leader of the 'franken' project which is a sub-project of the 'regio' project and has its home page at <a href="http://kwiki.ffii.org/FfiiFrankenDe" class="uri">http://kwiki.ffii.org/FfiiFrankenDe</a>.</p>
+            <p>The same can be achieved by sending the following command to the <a href="KnechtEn" title="wikilink">knecht mail processor</a>:</p>
+            <p><code> proj franken  upproj = regio  lang = de   projurl = </code><a href="http://kwiki.ffii.org/FfiiFrankenDe"><code>http://kwiki.ffii.org/FfiiFrankenDe</code></a></p>
+            <p>Next, you may want to insert records for helpers:</p>
+            <p><code>&gt; insert into projhlp values ( 'bkaindl', 'franken', 4 ) ;</code></p>
+            <p>This means that ffii user 'bkaindl' wants to participate in the 'franken' project at responsibility level 4, i.e. co-responsible, ready to be the sole responsible when needed.</p>
+            <p>You can not send this command via the <a href="KnechtEn" title="wikilink">knecht mail processor</a>. Rather you must ask bkaindl to send the following:</p>
+            <p><code>  projhlp  franken     hlplvl = 4  </code></p>
+            <p><code>&gt; insert into projprm values ( 'cschulte', 'franken', 'bkaindl', 4 ) ;</code></p>
+            <p>This means that project leader 'cschulte' permits user 'bkaindl' to participate in project 'franken' at responsibility level 4.</p>
+            <p>The same, as <a href="KnechtEn" title="wikilink">Knecht mail processor</a> commands:</p>
+            <p><code>  projprm franken  prmuid = bkaindl prmlvl = 4 </code></p>
+            <p>Once a group franken exists in the database, the 'ffiidb2mm' script need to be run by user 'list' so that the mailing lists franken-{news,parl,help} are created. This script is invoked via the 'list' cronjob every night.</p>
+            <p>If 'franken-parl' was already created manually before the project existed in the database, supplying the project afterwards won't do any harm.</p>
+            <p>After the mailig lists have been created, the [=update_gated_ngs] program needs to be run by the user news in order to update the creation/activation of news groups and corresponding gateways (note that this process may take dozens of minutes - be very patient if you initiate it manually). The program is run automatically each night by the user news' cron job.</p>
+            <h3 id="optionally_disable_mailing_list_creation">Optionally disable mailing list creation</h3>
+            <p>If you do not want your project to have mailing lists (for the time being), you can set the field 'projmlp' of table 'proj' to 'false', or, via knecht:</p>
+            <p><code> proj  irctalk projmlp = 0</code></p>
+            <p>By default, the value of projmlp is 'true' (1).</p>
+            <p>The project mailing lists will also not be updated if the 'finito' field is true or if the 'projfin' field is set to a date in the past.</p>
+            <h3 id="controlling_the_setup_of_news_groups">Controlling the setup of news groups</h3>
+            <p>As explained below, managing gated news groups is quite simple. For more information, visit <a href="NewsServerEn" title="wikilink">NewsServerEn</a>.</p>
+            <ul>
+            <li>Projects without mailing lists don't have gated news groups.</li>
+            <li>To disable a project's news group or to disable creation of it, set the value of the field [=nggate] in the table [=proj] to [=FALSE].</li>
+            <li>To make the actual news group setup match the settings in the database, run the program [=run_update_gated_ngs] as user [=news] (note that this process may take dozens of minutes - be very patient) or wait for the nightly cron job (see above). This program automatically creates/activates, moves, or removes news group gateways. Note that, actually, no groups are removed by this program: During removal or movement, groups are merely deactived and gateways are removed. That way, messages in "removed" or old "moved" news groups stay available for reading (until someone decides to remove them manually).</li>
+            </ul>
+            <h2 id="giving_the_project_a_title_and_description">Giving the project a title and description</h2>
+            <p>Once you have created a project in this system, it will be advertised in the menu of the <a href="AktivEn" title="wikilink">FFII participation system (aktiv)</a> on the next day, provided that you provide a title and a description.</p>
+            <p>These can be inserted through either one of the following three ways.</p>
+            <h3 id="database_meta_documentation_table_flddes">database meta documentation: table 'flddes'</h3>
+            <p>A title can be inserted as follows:</p>
+            <p><code> &gt; insert into flddes values ( 'proj', 'de', 'franken', 'Aktivitaeten in Franken' ) ;</code><br />
+            <code> &gt; insert into flddes values ( 'proj', 'en', 'franken', 'Activities in Franconia' ) ;</code></p>
+            <p>It might also help to edit the 'proj' table in order to point to a project URL, e.g.</p>
+            <p><code> &gt; update proj set projurl = '</code><a href="http://franken.ffii.org/"><code>http://franken.ffii.org/</code></a><code>' where proj = 'franken' ;</code></p>
+            <p>If you do not do this, it will be assumed that your project homepage is</p>
+            <p><code> </code><a href="http://kwiki.ffii.org/FrankenEn"><code>http://kwiki.ffii.org/FrankenEn</code></a><br />
+            <code> </code><a href="http://kwiki.ffii.org/FrankenFr"><code>http://kwiki.ffii.org/FrankenFr</code></a></p>
+            <p>etc, depending on the language of the 'aktiv' user interface.</p>
+            <h2 id="project_specific_documentation_strings_table_projtxt_optionally_via_knecht">project-specific documentation strings: table projtxt (optionally via knecht)</h2>
+            <p>There are other ways of creating a title:</p>
+            <p><code>&gt; insert into projtxt values ( 'cschulte', 'franken', 'title', 'en', 'Activities in Franconia' ) ;</code><br />
+            <code>&gt; insert into projtxt values ( 'cschulte', 'franken', 'descr', 'en', 'Organization of activities in Franconia' ) ;</code></p>
+            <p>or, for the <a href="KnechtEn" title="wikilink">knecht mail processor</a>:</p>
+            <p><code>projtxt franken    title   en  'Activities in Franconia'</code><br />
+            <code>projtxt proj = franken  mlid = descr   lang = de   mltxt = 'Organisation von Aktivitaeten in Franken'      </code></p>
+            <h3 id="document_specific_strings_table_langtxts_via_mlht_import_or_knecht">document-specific strings: table 'langtxts' (via mlht import or knecht)</h3>
+            <p>Moreover, if there is an mlht document of the same name as the project, you can send the text tags to the 'langtxts' table through the <a href="SwpatLangtxtEn" title="wikilink">mlht translation mechanism</a> as entries in a txl file:</p>
+            <p><code>   title: Activities in Franconia</code><br />
+            <code>   descr: Organising activities around Nuremberg</code><br />
+            <code>   </code><br />
+            <code>   # Local Variables: ;</code><br />
+            <code>   # dok: franken ;</code><br />
+            <code>   # txtlang: en ;</code><br />
+            <code>   # ...</code><br />
+            <code>   # Local Variables: ;</code></p>
+            <p>The same can be achieved via the <a href="KnechtEn" title="wikilink">knecht mail processor</a>:</p>
+            <p><code>   langtxts    franken title   fr  Activtés en Franconie</code><br />
+            <code>   langtxts    dok = franken   mlid = descr    lang = it\</code><br />
+            <code>       mltxt = Organizzare le attività della FFII nella regione di Franconia</code></p>
+            <p>again provided that a document called 'franken' is already known in the system.</p>
+            <h3 id="daily_automatic_update_of_aktiv_interface">daily automatic update of aktiv interface</h3>
+            <p>The aktiv interface is updated from the database once per day by the script</p>
+            <p><code>   /var/www/adm/bin/daily-aktiv.knecht</code></p>
+            <p>which reads out values from the projtxt, langtxts and flddes tables.</p>
+            <p>Each of these methods has its advantages and is convenient for different people. Therefore the system is likely to continue collecting text chunks from all of these three sources for some time to come.</p>
+            <p>If you can not wait for the daily cronjob to update the aktiv system, invoke 'daily-aktiv.knecht' from the command line as user knecht, or ask the people at proj-help to do it for you.</p>
+            <h2 id="optionally_invoke_the_cronjob_scripts_yourself">Optionally invoke the cronjob scripts yourself</h2>
+            <p>If you want to speed things up, invoke the scripts as follows. First <a href="FfiidistsEn" title="wikilink">ffiidists</a>:</p>
+            <p><code> $ su - list;</code><br />
+            <code> list$ source .bashrc</code><br />
+            <code> list$ ffiidb2mm franken</code></p>
+            <p>For this script to work, there need to be entries for the project in the tables =projhlp and =projprm.</p>
+            <p>Contact proj-help if you don't have and urgently need access to user list. Otherwise just wait for the nightly cronjob.</p>
+            <p>This creates the distribution files and statistics such as</p>
+            <p><code> /var/www/ffii/assoc/home/franken-{news,parl,help}.stat</code><br />
+            <code> /var/www/ffii/assoc/home/nenri/franken-{news,parl,help}/dist</code></p>
+            <p>and creates+populates the corresponding mailman list.</p>
+            <h2 id="things_to_do">Things to do</h2>
+            <p>Remind <a href="KnechtEn" title="wikilink">kwiki-help at ffii org</a> that you would like to enable project sign-on/off directly on your project-related wiki page, i.e. let people sign on/off after they have logged in as "ffii editor".</p>
+            <p>Remind <a href="AktivEn" title="wikilink">aktiv-help at ffii org</a> that we need to further simplify project creation by providing a web interface for it.</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

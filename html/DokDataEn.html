@@ -1,0 +1,149 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>DokDataEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="DokData" title="wikilink">DokData</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            <li>keyws: document, properties, metadata, tags, markup, header, database, extract, bibliography, search engine, HTML, <a href="BibTe" title="wikilink">BibTeX</a>, FFII</li>
+            </ol></li>
+            </ol>
+            <h1 id="ffii_document_metadata_structure">FFII Document Metadata Structure</h1>
+            <p>-&gt; [ <a href="KwikiEn" title="wikilink">KWiki</a> | <a href="FfiiRssEn" title="wikilink">RSS</a> | <a href="FfiiPortalEn" title="wikilink">Portal</a> | <a href="AktivEn" title="wikilink">Aktiv</a> | <a href="KnechtEn" title="wikilink">Knecht</a> | <a href="MlhtEn" title="wikilink">MLHT</a> | <a href="FfiiDbEn" title="wikilink">DB</a> | <a href="MlhtBibtexEn" title="wikilink">[BibTeX](BibTe “wikilink”)</a> | <a href="FfiiprojNewsEn" title="wikilink">Project News</a> ]</p>
+            <hr />
+            <p><em>By "document metadata" we refer to data such as document ID, title, description, keywords, author, date, language etc which are specific to one document and which need to be made available to internal databases as well as to bibliography generators, search indexes and other programs, so as to make the vast amount of information that we collect more easily accessible. Document metadata also provide a layer of abstraction that allows us to weave different content managment systems together. Below we try to keep track of such efforts, as made at FFII.</em></p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-12-12 <a href="ParsKwikipagEn" title="wikilink">parskwikipag script generates html metadata for kwiki</a></li>
+            <li>2004-10-29 <a href="http://www.ffii.org/news/rss/" title="wikilink">RSS newsfeeds generated from Kwiki pages</a>, <a href="FffiiRssEn" title="wikilink">document metadata markup and parsing becomes a high priority issue</a></li>
+            <li>2004-08-17 database tables <a href="MlhtDbDokpropEn" title="wikilink">dokprop</a> and <a href="MlhtDbTrapropEn" title="wikilink">traprop</a> become primary sources for document metadata, including URL/filename generation rules</li>
+            <li>2004-07-25 this page started in view of <a href="FfiiPortalEn" title="wikilink">portal</a> project <a href="IrcEn" title="wikilink">IRC</a> meeting at 22.00</li>
+            <li>2004-07-20 some specifications of document metadata laid down on <a href="KwikiEn" title="wikilink">KWiki</a> page</li>
+            <li>2003-06 plans for <a href="FfiiPortalEn" title="wikilink">new FFII Portal</a>: ideas for interoperation with other ffii sites include metadata</li>
+            <li>2003 mlht metadata stored in ffii database</li>
+            <li>2001 mlht metadata stored in text files such as <a href="http://swpat.ffii.org/nodes.txt" class="uri">http://swpat.ffii.org/nodes.txt</a></li>
+            </ul>
+            <h2 id="outline">Outline</h2>
+            <p>Soon the top section of each Kwiki page should no longer be edited by !KWiki but generated from the database and editable via all kinds of frontends, including knecht, aktiv, mlht and a kwiki metadata editing form (possibly based on aktiv).</p>
+            <h3 id="items_included_in_metadata">Items included in Metadata</h3>
+            <ul>
+            <li>title, description and other stuff that is stored as metadata in html header (and thereby improves google ranking)</li>
+            <li>position of the static page in the directory hierarchy (from which the URL can be calculated)</li>
+            <li>version</li>
+            <li>document class, e.g. newsitem, project, event-related project, information collection project, action project etc</li>
+            <li>languages in which the document is available</li>
+            <li><a href="FfiiUidEn" title="wikilink">ffii user id</a> of authors, translators, maintainers, watchers and other persons somehow in charge of or related to the page and dates related thereto (e.g. day of translation)</li>
+            <li>documents on which this document belongs into the top links section</li>
+            <li>in case of news items
+            <ul>
+            <li><ul>
+            <li>information from which RSS Newsfeed can be generated</li>
+            <li>documents on which this item belongs into the "news &amp; chronology" section</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <h3 id="metadata_syntax_in_ffii_database">Metadata Syntax in FFII Database</h3>
+            <ul>
+            <li>tables
+            <ul>
+            <li><ul>
+            <li>langtxts: translatable strings in (multilinugal) documents</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <p><code>    * dok: document</code><br />
+            <code>    * lang: language</code><br />
+            <code>    * mlid: identifying tag, 'title' and 'descr' corresponding to title and description of HTML header</code><br />
+            <code>    * mltxt: text string</code></p>
+            <ul>
+            <li><ul>
+            <li>dokprop: document properties that allow derivation of URL, file location etc</li>
+            </ul></li>
+            </ul>
+            <p><code>    * dok: document</code><br />
+            <code>    * doktmp: time-stamp</code><br />
+            <code>    * dokvers: version, e.g. 3001017 for 3.1.17</code><br />
+            <code>    * dokdirp: whether the document is a folder/directory</code><br />
+            <code>    * doknom: default document stem (language-specific stems specified in table doknoms)</code><br />
+            <code>    * supdok: upper level document (redundant, to be phased out, only pretyp+predok needed)</code><br />
+            <code>    * pretyp: type of precedence: 0: none, 1: seq: prior in sequence, 2: grp: upper in grouping, 3: sub: upper in directory structure</code><br />
+            <code>    * predok: preceding document (note: pretyp+predok are intended to replace supdok, not used in mlht yet)</code></p>
+            <ul>
+            <li><ul>
+            <li>doknoms: language-specific document names</li>
+            </ul></li>
+            </ul>
+            <p><code>    * dok: document</code><br />
+            <code>    * lang: language</code><br />
+            <code>    * doknom: language-specific document name (only for directories, realisable as a link to default name directory)</code></p>
+            <p>Note that the database itself is self-explanatory. Explanations of tables and fields can be obtained as follows</p>
+            <p><code>ffii&gt; select fldval from flddes where fld = 'fld' and fldkey = 'dok' and lang = 'en' ;</code><br />
+            <code>document </code><br />
+            <code>ffii&gt; select fldval from flddes where fld = 'tab' and fldkey = 'doknoms' and lang = 'en' ;</code><br />
+            <code>language specific document names</code><br />
+            </p>
+            <h2 id="metadata_syntax_in_nodes.txt_files">Metadata Syntax in nodes.txt files</h2>
+            <ul>
+            <li>Example <a href="http://swpat.ffii.org/nodes.txt" class="uri">http://swpat.ffii.org/nodes.txt</a></li>
+            <li>In addition to the database information above, these contain extra information, some of which is specific to mlht and not to be considered basic document metadata that needs to be shared between web applications</li>
+            <li>documentation to be cont'd</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

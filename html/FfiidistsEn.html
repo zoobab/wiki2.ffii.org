@@ -1,0 +1,101 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>FfiidistsEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: ffiidists; lang: en; coding: iso-8859-1; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="ffiidists_generating_mailing_lists_from_the_database">ffiidists: generating mailing lists from the database</h1>
+            <p>--&gt; [ <a href="MailmanProjlistsEn" title="wikilink">Mailman Project Lists</a> | <a href="MlhtDbEn" title="wikilink">MLHT DB</a> | <a href="FfiiprojKreEn" title="wikilink">Creating Projects</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-10-15 ffiidists has been inoperant since 08, causing the <a href="MailmanProjlistsEn" title="wikilink">projlists script</a> to resubscribe people who have already unsubscribed. phm fixes the bug and makes projlists.mailman more robust, so this can't happen again.</li>
+            </ul>
+            <h2 id="synposis">Synposis</h2>
+            <p>The script</p>
+            <p><code> genba:/var/www/adm/bin/ffiidists</code></p>
+            <p>tells you about its commandline options when you invoke it with the -h option:</p>
+            <p><code> $ ffiidists -h</code></p>
+            <p>By "mailing list" here we mean a list of e-mail addresses, one on each line, written into a text file.</p>
+            <p>There are other scripts, owned by the user 'list' and placed in</p>
+            <p><code>   /home/list/ffii/bin</code></p>
+            <p>in particular</p>
+            <p><code>   /home/list/ffii/bin/projlists.mailman</code></p>
+            <p>which use this information for updating mailman.</p>
+            <p>The "ffiidists" script gives out mailing lists not only for projects but also based on all kinds of criteria, such as ffii members of a certain region, without duplicates.</p>
+            <p>The mailing lists are usually written into subdirectories of</p>
+            <p><code>   /var/www/www/verein/home/</code></p>
+            <p>and in particular of the subdirectory</p>
+            <p><code>   /var/www/www/verein/home/nenri</code></p>
+            <p>which can be read from the web after htaccess authentication.</p>
+            <p>Separating the generation of such lists from their use is not always appropriate.</p>
+            <p>E.g. for the projlists.mailman application, it would be desirable to integrate the ffiidists functionality in the future, so that the time-span between generating each mailing list and updating mailman with it is minimised.</p>
+            <p>The ffiidists script is invoked by daily.knecht at near 02:00 CET each night. The projlists.mailman uses the data at 04:00 each night. It is crucial that projlists.mailman should use only new data. There is now an age limit of 4 hours. In the past it has happened that ffiidists was not invoked or failed to write the mailing lists for some reason, so that mailman was fed with old data, causing people who had already unsubscribed be resubscribed.</p>
+            <h4 id="create_one_project_mailing_list">Create one project mailing list</h4>
+            <p><code> $ ffiidists -v 3 proj uk-parl</code></p>
+            <p>'-v 3' stands for 'verbosity level 3'.</p>
+            <h4 id="create_all_mailing_lists_for_one_project">Create all mailing lists for one project</h4>
+            <p><code> $ ffiidists -v 3 proj uk</code></p>
+            <h2 id="limitations">Limitations</h2>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

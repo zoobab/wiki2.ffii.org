@@ -1,0 +1,116 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>RaljuEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <p>---&gt; <a href="PolisEn" title="wikilink"></a></p>
+            <h2 id="ralju_is_a_backup_of_petition.eurolinux.org_in_fact_the_backup_is_on_fepni">Ralju is a Backup of petition.eurolinux.org (in fact the Backup is on fepni)</h2>
+            <p>Dirk Hillbrecht makes a daily backup of petition.eurolinux.org:</p>
+            <ul>
+            <li>He backs up the the petition signature database as well as the Zope database.</li>
+            </ul>
+            <h2 id="more">More</h2>
+            <ul>
+            <li>petition.eurolinux.org is currently hosted at fepni.ffii.org.</li>
+            <li>fepni and ralju (pronounced like german ralssu) are both under patronance of jcwunder (Christoph Wunder).</li>
+            <li>bakfu is the virtual name for fepni and ralju.</li>
+            <li>It is intended that these to systems (ralju/fepni) are redundant.</li>
+            <li>Filesystem high availability is assured by mirroring two partitions, one on each system, over a network block device.</li>
+            <li>heartbeat is also used</li>
+            </ul>
+            <h2 id="what_did_we_mostly_chris_do_to_migrate_jp_stuff_to_fepni.ffii.org">What did we (mostly Chris) do to migrate jp stuff to fepni.ffii.org ?</h2>
+            <p><code>- Install python-1.5-2 (historic), current mysql </code><br />
+            <code>- stop mysqld on genba.ffii.org, stop zope on genba.ffii.org</code><br />
+            <code>       copy </code><em><code>var/lib/mysql`` ``+`` ``/home/smets</code></em><code> to </code><em><code>mir/zope-jp</code></em><code> on</code><br />
+            <code>       fepni.ffii.org</code><br />
+            <code>- install /etc/init.d/petition on fepni</code><br />
+            <code>- add user 'smets', group 'zopeadm', change everything zope-jp to </code><br />
+            <code>       smets:zopeadm</code><br />
+            <code>- recompile everything (*.pyc) (maybe not needed)</code><br />
+            <code>- check that pcgi scripts such as zope.cgi are running with</code><br />
+            <code>  python-1.5 (and not python), grep for "/usr/bin/python" </code><br />
+            <code>- recompile pcgi (gcc) (maybe not needed)</code><br />
+            <code>- ensure mysql is running (on fepni)</code><br />
+            <code>- ensure zope-jp on fepni is running </code><br />
+            <code>- migrate vhosts from genba-apache1 to fepni/ralju </code><br />
+            <code>- do not forget to check that mod-cgi runs ;)</code><br />
+            <code>- efforts took ca 8 hours</code><br />
+            <code>- have fun !</code></p>
+            <h2 id="problems_of_the_machine_ralju.ffii.orgfepni.ffii.orgbakfu.ffii.org">Problems of the machine ralju.ffii.org/fepni.ffii.org/bakfu.ffii.org</h2>
+            <p>ralju seems to be a <a href="LojbanEn" title="wikilink">LojbanEn</a> word, it's not prounced as anoy other known language, for the pronounciation of the letters, see:</p>
+            <p><a href="http://www.tlg.uci.edu/~opoudjis/lojbanbrochure/lessons/less1.html" class="uri">http://www.tlg.uci.edu/~opoudjis/lojbanbrochure/lessons/less1.html</a></p>
+            <ul>
+            <li>r seems to be pronounced like in *R*ing (I assume, please correct if wrong)</li>
+            <li>a as in father (not as in h*a*t)</li>
+            <li>l like in *L*ord, or *L*ove or so, I assume...</li>
+            <li>j as in mea*s*ure or French bon*j*our ("ss")</li>
+            <li>u as in c*oo*l (not as in b*u*t)</li>
+            </ul>
+            <p>I don't know what it means, maybe someone look it up and add it... ;-)</p>
+            <p>That's no problem :-) Take a look here: <a href="http://members.fortunecity.com/jeroenkuiper/Linguistics/Lojban/Dictionary/a.html" class="uri">http://members.fortunecity.com/jeroenkuiper/Linguistics/Lojban/Dictionary/a.html</a></p>
+            <p>admiral ralju (ral): x1 is principal/chief/leader/main/[staple], most significant among x2 (set) in property x3 (ka) <a href="staple" title="wikilink">(= ralselpra); general/|/president/principal leader (= ralja'a, ralterbe'e; use additional terms to distinguish among these); also primary, prime, (adverb:) chiefly, principally, mainly; (x2 is complete specification of set)</a></p>
+            <p>kopeck fepni (fep fei): x1 is measured in |/cent money-subunits as x2 [quantity], in monetary system x3 <a href="also" title="wikilink">pfennig, paisa, sen, fen, dinar, etc.; x1 is generally a price/cost/value</a>; (additional secondary, tertiary, etc. subunit places may be added as x4, x5, x6, ...)</p>
+            <p>pack bakfu (baf): x1 is a bundle/package/cluster/clump/| [shape/form] containing x2, held together by x3</p>
+            <p>Hopefully no problems here :-)</p>
+            <h2 id="related_pages">Related Pages</h2>
+            <ul>
+            <li><a href="PolisEn" title="wikilink">PolisEn</a></li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

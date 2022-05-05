@@ -1,0 +1,87 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>aktiven</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="aktiv___ffii_member_participation_system">Aktiv - FFII Member Participation System</h1>
+            <p>-&gt; [ <a href="AktivImprovementEn" title="wikilink">Improve</a> | <a href="AktivChangeLogEn" title="wikilink">Changelog</a> | <a href="AktivInternEn" title="wikilink">Internals</a> | <a href="AktivAdminEn" title="wikilink">Admins</a> | <a href="FfiiprojKreEn" title="wikilink">Creating Projects</a> | <a href="AdministriviaEn" title="wikilink">Administrivia</a> | <a href="http://lists.ffii.org/mailman/listinfo/aktiv-parl" title="wikilink">mailing list</a> ]</p>
+            <hr />
+            <p><em>Usage and development of the web interface to the FFII member database. Sometimes we also talk about the database structure itself and about other interfaces to it, i.e. about member participation and administration in general.</em></p>
+            <h2 id="coordination">Coordination</h2>
+            <p>send queries to aktiv-help at ffii org.</p>
+            <p>discuss at <a href="http://lists.ffii.org/mailman/listinfo/aktiv-parl/" class="uri">http://lists.ffii.org/mailman/listinfo/aktiv-parl/</a></p>
+            <h2 id="aktiv_logins">Aktiv Logins</h2>
+            <p>Problem reports, feature requests:</p>
+            <p><code>- anonymous: the language which is currently viewed should have a disabled link below, instead of pointing to itself</code><br />
+            <code>- erichsen: there should be a link to this page here on the login screen (http://www.ffii.org/ffii-cgi/aktiv) </code><br />
+            <code>  - just in case the login is seriously broken again.</code></p>
+            <ul>
+            <li><a href="AktivLoginsForKwiki" title="wikilink">AktivLoginsForKwiki</a> (phm: please correct the <a href="PagNomEn" title="wikilink">naming</a>, especially add 'En' to the end)</li>
+            </ul>
+            <p><code>(mwas: huh? I won't attach an En to every IT-Doc-Page - those will be English-only anyways!)</code></p>
+            <h2 id="usability_of_the_aktiv_menu">Usability of the Aktiv Menu</h2>
+            <ul>
+            <li>the "change member/user status" entry appears only after a user entry is finalised. Some people who have gone halfway and want to disable a user (e.g. because they do not like the chosen <a href="FfiiUidEn" title="wikilink">uid</a>) then don't know how to procede.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>erichsen: IMHO, the "View/modify contribution amount and mode of payment" page should get a link (probably best with target=_blank) to the finance pages, notably <a href="http://www.ffii.org/assoc/money/donor/receipt/" class="uri">http://www.ffii.org/assoc/money/donor/receipt/</a> . Just for motivation ;-).</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

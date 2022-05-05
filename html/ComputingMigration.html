@@ -1,0 +1,186 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>ComputingMigration</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li>acl <a href="TrustedGroup" title="wikilink">TrustedGroup</a>:read All:</li>
+            </ol>
+            <h1 id="redefinition_of_ffiis_computing_structure_and_definition_of_admin_processes">Redefinition of <a href="FFIIs" title="wikilink">FFIIs</a> computing structure and definition of admin processes</h1>
+            <p>(DRAFT) (this doc is out of sync with the more current <a href="ComputingRestructuring" title="wikilink">ComputingRestructuring</a>)</p>
+            <h2 id="intro">Intro</h2>
+            <p>In the past 3-4 years FFII computing services have experienced an enormous increase in load/usage and the number of services has grown substantially. Uninterrupted availability of these services has become critical to our mission. After thorough consideration, the FFII board has come to the conclusion, that further fixing of the current computing structure (mainly relying on the "genba" server) is not efficient anymore. It is therefore planned to set up new server(s) from scratch and incrementally migrate all existing services to these. The migration should happen in a way that minimizes service downtime during the transition. An important consideration will be to keep fixed costs as small as possible whithout sacrifying quality.</p>
+            <h2 id="goal">Goal</h2>
+            <p>Maximize availability of FFII core computing services to active members and supporters</p>
+            <h2 id="team">Team</h2>
+            <p>Responsible: N.N.</p>
+            <p>Team members:</p>
+            <ul>
+            <li>Michael Wasmeier</li>
+            <li>Bernhard Kaindl(load expert)</li>
+            <li>Lars Noschinski(schinski/cebewee) (bkaindl: müsste einmal mit ihm darüber sprechen, grundsätzlich qualifiziert, SQL, beherrscht python relativ gut)</li>
+            <li>Christian Schulte (dg1nsw) (bkaindl: qualifiziert für webserver, statistik, programmierung, auch SQL, aber nicht perl)</li>
+            <li>Ask "verein" / the supporters which indicated that they have time to ask deputies if they can provide technical administration help in the areas we need.</li>
+            </ul>
+            <h2 id="tasks">Tasks</h2>
+            <h3 id="identify_hosting_company_and_specifiy_minimum_required_hardware">Identify hosting company and specifiy minimum required hardware</h3>
+            <ul>
+            <li>Establish key parameters (bandwidth, xfer volume, HDD capacity etc.) <a href="MigrHostingKeyParams" title="wikilink">MigrHostingKeyParams</a></li>
+            <li>Obtain offers, fathom possible rebates (assumption: approx. 5 offers)</li>
+            <li>Evaluate available offers</li>
+            <li>Decide if hardware will be rented or purchased
+            <ul>
+            <li><ul>
+            <li>Kurt Jaeger, <a href="http://LF.net" class="uri">http://LF.net</a></li>
+            <li>dg1nsw will ask franken.de</li>
+            <li>mwas will ask hostsharing.net</li>
+            <li>jmaebe recommended <a href="http://server4you.de" class="uri">http://server4you.de</a></li>
+            <li>In case of buying Hardware, possible configuration:</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <p><code>    * Which type of CPU? (Athon, Athlon XP, Pentium 4)?</code><br />
+            <code>    * HDD: Should be at least 80 GB (what we have now) </code></p>
+            <h3 id="define_and_document_system_components_and_admin_procedures">Define and document system components and admin procedures</h3>
+            <ul>
+            <li>Create documentation of existing services + interaction
+            <ul>
+            <li><ul>
+            <li>Apache (just conceptual overview - things not easily gleaned from httpd.conf vhost.conf)</li>
+            <li>Postgres (incl. Aktiv+MEP databases, adding table+column <a href="COMMENTs" title="wikilink">COMMENTs</a>)</li>
+            <li>SMTP server (qmail,postfix,exim)</li>
+            <li>Mailman (or other mailing list manager)</li>
+            <li>System backup (DB, documents, ... ,home dirs)</li>
+            <li>Knecht</li>
+            <li>Aktiv</li>
+            <li>Email-based feedback system</li>
+            <li>urlwatch</li>
+            <li>Addenda system (Kwiki)</li>
+            <li>Lots of cronjobs</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Define admin-procedures to ensure...
+            <ul>
+            <li><ul>
+            <li>that all changes to the system are documented</li>
+            <li>that changes affecting others are communicated in advance</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Determine if use of a tracking system would increase efficiency and find acceptance</li>
+            <li>Analyze past system failures to avoid future ones</li>
+            <li>Define emergency-procedures (e.g. hardware failure)</li>
+            <li>(all this without creating a bloated bueraucracy)</li>
+            </ul>
+            <h3 id="match_admin_responsibilities_to_available_prospects_i.e._offers_for_help">Match admin responsibilities to available prospects (i.e. offers for help)</h3>
+            <ul>
+            <li>Identify recovery admin (has physical access to server hardware)</li>
+            <li>Identify security expert</li>
+            <li>Identify system-load expert</li>
+            <li>Identify service-specific admins</li>
+            <li>Define backups for admins (people are meant here 8^)</li>
+            <li>Consider job-rotation for service-specific admin jobs</li>
+            <li>Identify recurring or frequently requested actions that could be handled by scripts</li>
+            </ul>
+            <h3 id="define_preventive_measures">Define preventive measures</h3>
+            <ul>
+            <li>Decide if various kinds of quota need to be implemented (e.g. disk, CPU)</li>
+            <li>Implement watchdog scripts for http, SMTP, CGI/mod_perl/DB running on external server</li>
+            <li>"Throttling" for outgoing email campaigns (or separate mail server for such)</li>
+            <li>Spam rejection and filtering</li>
+            <li>Ready-to-run backup server at a different provider</li>
+            <li>Implement log rotation</li>
+            </ul>
+            <h3 id="transfer_the_following_services_to_the_new_platform">Transfer the following services to the new platform</h3>
+            <ul>
+            <li>Apache</li>
+            <li>Postgres (incl. Aktiv+MEP databases)</li>
+            <li>SMTP server (qmail,postfix,exim)</li>
+            <li>Mailman (or other mailing list manager)</li>
+            <li>System backup (DB, documents, ... ,home dirs)</li>
+            <li>Knecht</li>
+            <li>Aktiv</li>
+            <li>Email-based feedback system</li>
+            <li>urlwatch</li>
+            <li>Addenda system (Kwiki)</li>
+            <li>Lots of cronjobs</li>
+            </ul>
+            <p>Not included in this round:</p>
+            <ul>
+            <li>Patent database</li>
+            <li>Patent download engine (OCR)</li>
+            <li>What about mlht-related stuff??</li>
+            <li>..what else?..</li>
+            </ul>
+            <p>Other Servers:</p>
+            <ul>
+            <li>Plone and swpatwiki are currently provided at different sites, not on genba, this should stay this way, the separation of load is a good idea.</li>
+            <li>demo.ffii.org seems to be not anymore maintained by bram, so it should be migrated to an ffii-controlled server(on genba for now)</li>
+            </ul>
+            <h3 id="miscellaneous_tasks">Miscellaneous tasks</h3>
+            <ul>
+            <li>run bind chrooted (for security reasons)</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

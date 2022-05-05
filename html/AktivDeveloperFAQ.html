@@ -1,0 +1,112 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>AktivDeveloperFAQ</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="faq">FAQ</h1>
+            <h2 id="understanding_the_html_templates">Understanding the HTML templates</h2>
+            <h2 id="q">Q</h2>
+            <p>The HTML file netstrike.en.html contains a cryptic line:</p>
+            <FORM action="<!-- tmpl_var name='actionurl' -->" method="POST">
+            <p><code>  On the Wiki-page </code><a href="AktivEn" title="wikilink"><code>AktivEn</code></a><code> [1] I couldn't find any corresponding</code><br />
+            <code>  documentation.  I guess, however, that the line somehow describes the</code><br />
+            <code>  following program:</code></p>
+            <p><code>  /var/www/cgi-bin/eintrag</code></p>
+            <p><code>  Am I right?  How is the code " "</code><br />
+            <code>  substituted?</code></p>
+            <h2 id="a">A</h2>
+            <p>This is just basic templating stuff. The HTML::Template module takes care of this. Read its documentation to understand, how variables are inserted into the HTML. In "eintrag", the line that corresponds to the FORM action above is:</p>
+            <p><code>   $form_tmpl-&gt;param( actionurl =&gt; $actionurl );</code></p>
+            <p>Nothing special here - just a way of avoiding to hard-code the form action (so that eintrag can run under any name you like). Just leave it untouched in all the forms.</p>
+            <h2 id="testing_new_forms">Testing new forms</h2>
+            <h2 id="q_1">Q</h2>
+            <p>I'd like to play with the Aktiv page "netstrike". Therefore, I created a copy with the name "netstrikeqqq". However, so far I wasn't able to access this copy using Aktiv. What's the best strategy for testing new pages? Should I test them on my local system (I try to avoid that)? If so, what files do I need?</p>
+            <h2 id="a_1">A</h2>
+            <p>I think for now, making your own copy of "eintrag" (e.g. eintrag_peter) is the best way to test.</p>
+            <p>Since a form w/o a corresponding form handler doesn't work, your new form will fail initially. Each new form <strong>must</strong> have its handler (corresponding by name) in the eintrag code or it will throw an error like the one you got. You'll find the form handlers in the code section beginning with:</p>
+            <p><code>   # ------------- CGI MAIN SWITCH ----------------------</code></p>
+            <p>The handler for a newly added form called "netstrike" looks like this in the code:</p>
+            <p>This is the part that brings up an un-filled form:</p>
+            <p><code>   </code><em><code>^netstrike$</code></em><code>   and do          # sign up </code><a href="URLs" title="wikilink"><code>URLs</code></a><code> for the net strike</code></p>
+            <p>This is the part that <strong>verifies</strong> filled-in form data (until the data passes its associated checks - implemented via <a href="Data::FormValidator" class="uri">Data::FormValidator</a>) and subsequently saves it via Knecht:</p>
+            <p><code>   </code><em><code>^v_netstrike$</code></em><code>   and do</code></p>
+            <p>For form validation to work, you still need appropriate validation data - in the eintrag code look for this data structure:</p>
+            <p><code>       netstrike  =&gt;</code><br />
+            <code>       {</code><br />
+            <code>       .......</code><br />
+            <code>       },</code></p>
+            <p><strong>How you can avoid to unnecessarily create new form handler code:</strong></p>
+            <p>If you plan to modify and test <strong>existing</strong> forms (rather than creating new forms), do the following:</p>
+            <p>Take the live template tree at</p>
+            <p><code>   </code><em><code>var/www/ffii/verein/spende/newdb/mc</code></em></p>
+            <p>and create a copy of it in a directory of your own in e.g.:</p>
+            <p><code>   </code><em><code>var/www/ffii/verein/spende/newdb/mcpeter</code></em></p>
+            <p>Rename eintrag_peter to eintrag_peter.b (b for beta mode) and modifiy the line of code containing "/var/www/ffii/verein/spende/newdb/mcbeta" to read "/var/www/ffii/verein/spende/newdb/mcpeter"</p>
+            <p>Now it will be using the templates in YOUR tree instead of those in the live tree. It will also identify as a beta version on all forms in order to avoid confusion. This way you modifiy and test <strong>your own</strong> copy of the templates and you won't have to create any new form handler code unless you create new forms.</p>
+            <h2 id="form_validation">Form Validation</h2>
+            <h2 id="q_2">Q</h2>
+            <p>In AKTIV it doesn't seem to be possible to remove Text entries. For example, for testing purposes, I entered the text "NA" into the field "Company or Organization" in the form "Your Coordinates". This worked fine. However, I cannot remove the entry anymore. The same problem applies to people that want to remove web sites from the Web-Campaign (Netstrike) interface.</p>
+            <h2 id="a_2">A</h2>
+            <p>this is just a matter of the validation setup found in this data structure</p>
+            <p><code>       netstrike  =&gt;</code><br />
+            <code>       { ...</code><br />
+            <code>       }</code></p>
+            <p>Any fields that you allow with length zero will accept "empty" input.</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

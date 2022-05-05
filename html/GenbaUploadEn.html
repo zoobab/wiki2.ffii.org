@@ -1,0 +1,103 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>GenbaUploadEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="GenbaUpload" title="wikilink">GenbaUpload</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="uploading_documents_to_ffii.org">Uploading Documents to FFII.org</h1>
+            <p>-&gt; [ <a href="GenbaEn" title="wikilink">genba</a> | <a href="MediaEn" title="wikilink">Media Work</a> | <a href="SwpatcninoEn" title="wikilink">Patent News</a> ]</p>
+            <hr />
+            <p><em>The right way to upload files that belong to a news item, e.g.</em> <a href="Ueapme050427En" title="wikilink">Ueapme050427En</a>, <em>is to work on our machine, or ask media-help at ffii org to do it for you.</em></p>
+            <h2 id="placing_a_news_related_document_where_it_belongs">Placing a news-related document where it belongs</h2>
+            <p>We assume that you have a user account on the <a href="GenbaEn" title="wikilink">ffii's working machine</a> and that you are a member of the groups swpat, www-data and knecht. If this is not the case, you may want to contact polis-help at ffii org.</p>
+            <p>The procedure is:</p>
+            <p><code>genba$ cd </code><em><code>var/www/swpat/log/05</code></em><br />
+            <code>genba$ mkdir ueapme0427/</code><br />
+            <code>genba$ cp eictasme04/*.html ueapme0427/</code><br />
+            <code>genba$ edit ueapme0427/*.html</code><br />
+            <code>   </code></p>
+            <p>Then, on your local machine, you use ssh/scp to copy your file to the directory, giving it an appropriate name, e.g.</p>
+            <p><code>local$ scp 270405_CII.pdf ffii.org:/var/www/swpat/log/05/ueapme0427/ueapme050427.pdf</code></p>
+            <p>Note the naming conventions: since we use the directory '05' for this year, we don't repeat the year in the subdirectory names.</p>
+            <p>Note also that you copy '''.html files from some recent subdirectory to the new one and then change them incrementally. The links.en.html should probably point to the PDF file which you are uploading with its PDF icon. The deskr.en.html file should contain a short summary, perhaps the same one as wiki.ffii.org/Ueapme050427En. The addenda icon should point to the wiki page.</p>
+            <p>To make it perfect, the wiki page <a href="Ueapme050427En" title="wikilink">Ueapme050427En</a> should at the top contain a meta data line</p>
+            <p><code># url: </code><a href="http://swpat.ffii.org/log/05/ueapme0427/"><code>http://swpat.ffii.org/log/05/ueapme0427/</code></a></p>
+            <p>As a result, the wiki page heading then soon points to the static page.</p>
+            <h2 id="presenting_essential_parts_in_more_legible_forms">Presenting essential parts in more legible forms</h2>
+            <p>The index.en.html file should contain the essential parts of the uploaded non-text documents (usually PDF, Msword-Doc or scanned graphics such as TIFF or JPEG) in a convenient text form.</p>
+            <p>Utilities available on genba for preparing this text are</p>
+            <p><code>$ pdftotext file.pdf</code><br />
+            <code>$ antiword -x db file.doc &gt; file.xml</code><br />
+            <code>$ tifftopnm file.tif | pnmtopng &gt; file.png</code></p>
+            <p>It is usually not enough to just provide a document and link to it from index.en.html. We also need the salient passages quoted directly in index.en.html. This requires some manual work. In the case of graphical sources it may be a substantial amount of work. But without clean quotes as a basis, no serious media work can be done.</p>
+            <p>For the basic documentation work, i.e. providing of clean quotes and facts, usually a static page is better than a wiki. The wiki comes in only as a further layer on top of this foundation.</p>
+            <p>In case the background documents are in another language, e.g. Spanish, we also need an index.es.html file alongside with langs.es.html, deskr.es.html, links.es.html.</p>
+            <p>The conventions for these files can be easily learned from examples such as /var/www/ffii/'''.html</p>
+            <h2 id="restricting_access_to_your_documents">Restricting access to your documents</h2>
+            <p>As long as the URL is unknown, it is unlikely to be found by anyone.</p>
+            <p>To restrict access to active FFII members, you can add an .htaccess file, e.g. just copy</p>
+            <p><code>genba:/var/www/ffii/intern/.htaccess</code></p>
+            <p>to your news item's directory.</p>
+            <p>Or you can set the file permissions and groups of your documents to make them unviewable. Many people do that by accident. Unless they are world-readable or readable by the www-data group, they are inaccessible via the web.</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

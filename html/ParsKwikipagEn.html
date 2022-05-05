@@ -1,0 +1,140 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>ParsKwikipagEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="ParsKwikipag" title="wikilink">ParsKwikipag</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            <li>keyws: FFII, computing, kwiki, hypertext, metadata, administration, script</li>
+            </ol></li>
+            </ol>
+            <h1 id="parskwikipag_provide_metadata_for_an_ffii_kwiki_page">parskwikipag: Provide Metadata for an FFII Kwiki Page</h1>
+            <p>--&gt; [ <a href="DokDataEn" title="wikilink">metadata</a> | <a href="KwikiEn" title="wikilink">kwiki</a> | <a href="http://lists.ffii.org/mailman/listinfo/kwiki-parl/" title="wikilink">kwiki mailing list</a> | <a href="GenbaEn" title="wikilink">genba</a> | <a href="PolisEn" title="wikilink">ffii computing</a> | <a href="FfiiprojNewsEn" title="wikilink">project news</a> ]</p>
+            <hr />
+            <p>This Perl script scans a page from kwiki.ffii.org, as stored in $kwikidir/database/$node, extracts metadata and writes these to the corresponding metadata file under $kwikidir/nodebase/$node.n according to a syntax which makes these metadata appear in the HTML header of the kwiki page, with help of adapted display routines in $kwikidir/locallib/Mwlib/{Display.pm,!FfiiNodes.pm}. As a result, we get better structured pages of which all kinds of search robots can make more sense. Below we explain how it works and how you must write kwiki pages in order to take full advantage of this mechanism.</p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-12-12 <a href="HartmutPilchEn" title="wikilink">phm</a> can't wait any longer, creates the script inmidst of other urgent tasks</li>
+            <li>2004-00-00 phm creates various kwiki pages and tools for improvement of document structures and metadata, repeatedly calls on mwas and others to build this functionality into kwiki.ffii.org.</li>
+            </ul>
+            <h2 id="concerned_scripts">Concerned scripts</h2>
+            <p>Conformant kwiki pages are equipped with full-fledge HTML headers once an hour through the cronjob of user knecht which invokes hourly.knecht. By reading through these scripts, you get the full documentation. Read the sections below, ask kwiki-help and subscribe to the <a href="http://lists.ffii.org/mailman/listinfo/kwiki-parl/" title="wikilink">ffii kwiki mailing list</a> to get maximal information.</p>
+            <ul>
+            <li>$admbindir/parswikipag</li>
+            <li>$admbindir/parswikipags</li>
+            <li>$admbindir/hourly.knecht</li>
+            <li>$kwikidir/local/template/_header.html</li>
+            <li>$kwikidir/locallib/Mwlib/Display.pm</li>
+            <li>$kwikidir/locallib/Mwlib/FfiiNodes.pm</li>
+            <li>$kwikidir = /var/www/cgi-bin/kwikimj04</li>
+            <li>$admbindir = /var/www/adm/bin</li>
+            </ul>
+            <h2 id="supported_syntax">Supported Syntax</h2>
+            <p>A Kwiki page should typically have the following syntax:</p>
+            <p><code> # -*- dok: </code><a href="ParsKwikipag" title="wikilink"><code>ParsKwikipag</code></a><code>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</code><br />
+            <code> # keyws: FFII, computing, kwiki, hypertext, metadata, administration, script</code><br />
+            <code> = parskwikipag: Provide Metadata for an FFII Kwiki Page</code><br />
+            <code> --&gt;</code><br />
+            <code> [ </code><a href="DokDataEn" title="wikilink"><code>``metadata</code></a><br />
+            <code> | </code><a href="KwikiEn" title="wikilink"><code>``kwiki</code></a><br />
+            <code> | [...]</code><br />
+            <code> ]</code><br />
+            <code> ------------</code></p>
+            <p><code> This Perl script scans a page from kwiki.ffii.org, as stored in $kwikidir/database/$node, extracts metadata and writes these to the corresponding metadata file under $kwikidir/nodebase/$node.n according to ...</code></p>
+            <p><code> [...]</code></p>
+            <p>We explain one by one.</p>
+            <h3 id="metadata_in_the_1st_line">Metadata in the 1st line</h3>
+            <p>The first line should contain something like</p>
+            <p><code> # -*- dok: </code><a href="ParsKwikipag" title="wikilink"><code>ParsKwikipag</code></a><code>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</code></p>
+            <p>The notation is used also by Emacs for setting document metadata.</p>
+            <p>Here the first three items (dok, lang, coding) are required, the rest (mode, ...) is optional and currently ignored.</p>
+            <p>'dok' is the document identifier without the language suffix. This identifier is often but not always identical to the wiki page name without language suffix. Some examples where it is not identical:</p>
+            <p><code>   EubsaProgEn  --&gt; dok: eubsa-prog; lang: en</code><br />
+            <code>   SwpatcninoEn --&gt; dok: swpatcnino; lang: en</code></p>
+            <p>Such divergences occur mainly in old document names that existed in the mlht system of <a href="http://swpat.ffii.org" class="uri">http://swpat.ffii.org</a> before kwiki was used.</p>
+            <p>'lang' is the language of the document. 'coding' is the ISO name of the coding system. As of 2004-12-12, kwiki only supports 'iso-8859-1'. Newer versions support 'utf-8' and we must install one soon.</p>
+            <h3 id="metadata_after_the_1st_line">Metadata after the 1st line</h3>
+            <p>Using the notation</p>
+            <p><code> # keyws: FFII, computing, kwiki, hypertext, metadata, administration, script</code></p>
+            <p>keywords and other useful items (including 'title' and 'descr' ) can be supplied. These items are not seen by the reader but appear in the HTML header.</p>
+            <p>Explicit Metatags specified here override the implicit metatags that are gathered from the text.</p>
+            <h3 id="document_title">Document Title</h3>
+            <p>The title</p>
+            <p><code> = parskwikipag: Provide Metadata for an FFII Kwiki Page</code></p>
+            <p>is seen by the user and also, as an implicit metatag, used in the HTML header, provided there is no explicit metatag of the same meaning.</p>
+            <h3 id="top_links_section">Top Links Section</h3>
+            <p>The links in the top section have the form</p>
+            <p><code> --&gt; </code><br />
+            <code> [ [.......]</code><br />
+            <code> | [.......]</code><br />
+            <code> ]</code><br />
+            <code> --------------</code></p>
+            <p>This form must be adhered to.</p>
+            <p>In particular the links sectio must be closed by '-------' (5 or more hyphens).</p>
+            <p>The links themselves are currently not used for metatags but may be in the future.</p>
+            <h3 id="description">Description</h3>
+            <p>After the links section, there is a one-line paragraph that is used for the description metatag, unless an explicit '# descr: ...' metatag was found at the top.</p>
+            <p>This description paragraph must not contain any links or other special markup characters. It may contain the kwiki-specific '!' escape characters.</p>
+            <p>The description paragraph can be preceded by blank lines or lines that contain nothing but an URL (used for an image).</p>
+            <p>After the description paragraph, there are no more implicit metadata and the parsing stops. But it is advisable to let the description be immediately be followed by a second-level heading, such as</p>
+            <p><code> == News &amp; Chronology</code></p>
+            <p>and to use some standardised forms for such headings and sections. In the future, further scripts may be looking for implicit markup in these sections as well.</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

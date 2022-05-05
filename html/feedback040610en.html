@@ -1,0 +1,152 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>feedback040610en</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="election_webdemo_mass_mailing_2004_06_10">Election Webdemo Mass Mailing 2004-06-10</h1>
+            <p>--&gt; <a href="FeedbackDe040610De" title="wikilink">DE</a>, <a href="FeedbackAt040610De" title="wikilink">AT</a>, <a href="FeedbackPt040610Pt" title="wikilink">PT</a></p>
+            <ul>
+            <li>FR is done by Comte0 (APRIL) on <a href="http://www.april.org/~mota/ffii/" class="uri">http://www.april.org/~mota/ffii/</a></li>
+            </ul>
+            <hr />
+            <p><code>#! /bin/bash</code><br />
+            <code>me=${0##*/}</code><br />
+            <code>if [ $# -ne 0 ]; then</code><br />
+            <code>  cat &gt;&amp;2 &lt;&lt;END</code><br />
+            <code>Usage: $me &lt;&lt;EOF</code><br />
+            <code>UID E_MAIL</code><br />
+            <code>...</code><br />
+            <code>EOF</code><br />
+            <code>END</code><br />
+            <code>  exit 2</code><br />
+            <code>fi</code></p>
+            <p><code># Some systems may need sendmail options like -t -oi -oem or -o8</code><br />
+            <code>: ${SENDMAIL:=/usr/sbin/sendmail -t -oi -oem}</code></p>
+            <p><code>CHARSET=iso-8859-15</code><br />
+            <code>SUBJECT="Election Webdemo &amp; Urgent Appeal"</code><br />
+            <code>SUBJECTCODE="eleg0406_en"</code></p>
+            <p><code>while read U_ID E_MAIL; do</code><br />
+            <code>  echo "Sending to: $U_ID &lt;$E_MAIL&gt;" &gt;&amp;2</code><br />
+            <code>  case $U_ID in</code></p>
+            <ul>
+            <li><ul>
+            <li>[!a-z0-9_]*)</li>
+            </ul></li>
+            </ul>
+            <p><code>    echo "$me: \`$U_ID': invalid user id" &gt;&amp;2</code><br />
+            <code>    continue</code><br />
+            <code>    ;;</code><br />
+            <code>  esac</code><br />
+            <code>  case $E_MAIL in</code><br />
+            <code>  ?*@?*.?*)</code><br />
+            <code>    ;;</code></p>
+            <ul>
+            <li><ul>
+            <li>)</li>
+            </ul></li>
+            </ul>
+            <p><code>    echo "$me: \`$E_MAIL': invalid e-mail address" &gt;&amp;2</code><br />
+            <code>    continue</code><br />
+            <code>    ;;</code><br />
+            <code>  esac</code></p>
+            <p><code>  RECIPIENTCODE=$U_ID</code><br />
+            <code>  OPENING="Dear FFII supporter"</code></p>
+            <p><code>  # This is used to recognize replies by the In-Reply-To header</code><br />
+            <code>  MESSAGE_ID="&lt;$RANDOM.$SUBJECTCODE.$RECIPIENTCODE.$USER@$HOSTNAME&gt;"</code></p>
+            <p><code>  $SENDMAIL &lt;&lt;EOF</code><br />
+            <code>MIME-Version: 1.0</code><br />
+            <code>From: feedback@ffii.org</code><br />
+            <code>To: $E_MAIL</code><br />
+            <code>Subject: $SUBJECT</code><br />
+            <code>Message-ID: $MESSAGE_ID</code><br />
+            <code>Content-type: text/plain; charset=$CHARSET</code><br />
+            <code>Content-Transfer-Encoding: 8bit</code></p>
+            <p><code>$OPENING,</code></p>
+            <p><code>The Elections to the European Parliament have begun.</code></p>
+            <p><code>As you know, the European Parliament can save us from the software</code><br />
+            <code>patent directive and other harmful legislation proposals.  You may</code><br />
+            <code>want to take the information on</code></p>
+            <p><code>    </code><a href="http://kwiki.ffii.org/ElectAct0405En"><code>http://kwiki.ffii.org/ElectAct0405En</code></a></p>
+            <p><code>into account when voting.  The page lists some more things you can do,</code><br />
+            <code>including participation in the</code></p>
+            <p><code>    European Parliament Election Web Demo</code><br />
+            <code>    </code><a href="http://kwiki.ffii.org/ElectWebdemo0406En"><code>http://kwiki.ffii.org/ElectWebdemo0406En</code></a></p>
+            <p><code>There is also another </code></p>
+            <p><code>    Urgent Appeal</code><br />
+            <code>    </code><a href="http://swpat.ffii.org/letters/cons0406/"><code>http://swpat.ffii.org/letters/cons0406/</code></a></p>
+            <p><code>to sign and distribute.  This appeal can help us to prevent the recent</code><br />
+            <code>Council Decision from being enacted.</code></p>
+            <p><code>To help us coordinate the actions, please </code><strong><code>reply</code></strong><code> to this mail</code><br />
+            <code>(forwarding won't work) and fill in ('+' for 'yes', '-' for 'no' or</code><br />
+            <code>text as requested):</code></p>
+            <p><code> [] I am a supporter of the FFII and therefore</code><br />
+            <code>    welcome occasional mailings such as this one.</code><br />
+            <code> [] I will participate in the Webdemo this weekend</code><br />
+            <code>    and temporarily cover my web page </code><a href="http://" title="wikilink"><code>http://__</code></a><br />
+            <code> [] I sign the Urgent Appeal.</code><br />
+            <code> [] I agree to be listed publicly as a signatory.</code><br />
+            <br />
+            <code>Thank you for your understanding and support.</code></p>
+            <p><code>Yours Sincerely,</code></p>
+            <p><code>the FFII Board</code></p>
+            <p><code>EOF</code><br />
+            <code>sleep 1</code><br />
+            <code>done</code></p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

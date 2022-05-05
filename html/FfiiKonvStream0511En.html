@@ -1,0 +1,112 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>FfiiKonvStream0511En</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="streaming_the_ffii_general_assembly_imatix">Streaming the FFII General Assembly @ Imatix</h1>
+            <hr />
+            <p><em>Here is a quick howto on how to setup an audio streaming solution.</em></p>
+            <hr />
+            <h2 id="urls_of_available_streams"><a href="URLs" title="wikilink">URLs</a> of available streams</h2>
+            <p><a href="http://assembly.ffii.org:8000/ffiiga-48k.mp3" class="uri">http://assembly.ffii.org:8000/ffiiga-48k.mp3</a></p>
+            <p><a href="http://assembly.ffii.org:8000/ffiiga-24k.mp3" class="uri">http://assembly.ffii.org:8000/ffiiga-24k.mp3</a></p>
+            <h2 id="darkice_streamer">Darkice streamer</h2>
+            <p>You can get the sound from your OSS or ALSA sound card, encode it, and send it to the icecast2 streaming server with darkice. You need to install liblame if you want to compile it with MP3 support.</p>
+            <p>Here is the config file used:</p>
+            <p><code># sample </code><a href="DarkIce" title="wikilink"><code>DarkIce</code></a><code> configuration file, edit for your needs before using</code><br />
+            <code># see the darkice.cfg man page for details</code></p>
+            <p><code># this section describes general aspects of the live streaming session</code><br />
+            <code>[general]</code><br />
+            <code>duration        = 0        # duration of encoding, in seconds. 0 means forever</code><br />
+            <code>bufferSecs      = 2         # size of internal slip buffer, in seconds</code></p>
+            <p><code># this section describes the audio input that will be streamed</code><br />
+            <code>[input]</code><br />
+            <code>device          = /dev/dsp  # OSS DSP soundcard device for the audio input</code><br />
+            <code>sampleRate      = 22050     # sample rate in Hz. try 11025, 22050 or 44100</code><br />
+            <code>bitsPerSample   = 16        # bits per sample. try 16</code><br />
+            <code>channel         = 2         # channels. 1 = mono, 2 = stereo</code></p>
+            <p><code># this section describes a streaming connection to an </code><a href="IceCast" title="wikilink"><code>IceCast</code></a><code> server</code><br />
+            <code># there may be up to 8 of these sections, named [icecast-0] ... [icecast-7]</code><br />
+            <code># these can be mixed with [icecast2-x] and [shoutcast-x] sections</code></p>
+            <p><code># this section describes a streaming connection to an </code><a href="IceCast2" title="wikilink"><code>IceCast2</code></a><code> server</code><br />
+            <code># there may be up to 8 of these sections, named [icecast2-0] ... [icecast2-7]</code><br />
+            <code># these can be mixed with [icecast-x] and [shoutcast-x] sections</code><br />
+            <code>[icecast2-0]</code><br />
+            <code>bitrateMode     = abr                           # average bit rate</code><br />
+            <code>format          = mp3                           # format of the stream: patented MP3</code><br />
+            <code>bitrate         = 64                            # bitrate of the stream sent to the server</code><br />
+            <code>server          = apunkt.ffii.org               # host name of the server</code><br />
+            <code>port            = 8000                          # port of the </code><a href="IceCast2" title="wikilink"><code>IceCast2</code></a><code> server, usually 8000</code><br />
+            <code>password        = xxxxxxxxx                     # source password to the </code><a href="IceCast2" title="wikilink"><code>IceCast2</code></a><code> server</code><br />
+            <code>mountPoint      = ffiiga-64k.mp3                # mount point of this stream on the </code><a href="IceCast2" title="wikilink"><code>IceCast2</code></a><code> server</code><br />
+            <code>name            = ffiiga-64k.mp3                # name of the stream</code><br />
+            <code>description     = FFII General Assembly         # description of the stream</code><br />
+            <code>url             = </code><a href="http://wiki.ffii.org/?FfiiKonv0511En"><code>http://wiki.ffii.org/?FfiiKonv0511En</code></a><code>       # URL related to the stream</code><br />
+            <code>genre           = Conferen                      # genre of the stream</code><br />
+            <code>public          = yes                           # advertise this stream?</code></p>
+            <h2 id="streamtranscode">Streamtranscode</h2>
+            <p>Streamtranscode is used on the server apunkt.ffii.org to reencode the stream in several bitrates (ex: slow PPP phone lines) or codecs.</p>
+            <h2 id="todo">Todo</h2>
+            <ul>
+            <li>Lower stream for slow PPP connexions</li>
+            <li>Save the stream in a file with darkice</li>
+            <li>Get a sound system with a portable microphone</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

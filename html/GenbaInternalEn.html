@@ -1,0 +1,97 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>GenbaInternalEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li>acl <a href="TrustedGroup" title="wikilink">TrustedGroup</a>:read All:</li>
+            </ol>
+            <p>---&gt; [ <a href="GenbaEn" title="wikilink">GenbaEn</a> ]</p>
+            <h2 id="daemons_on_genba">Daemons on Genba</h2>
+            <p>PostgreSQL database:</p>
+            <ul>
+            <li>The daemons are named postmaster, one is the master daemon which accepts connections, forks and the childs do the work. They also change their process argv array and show who is logged in to this backend instance and what kind of SQL command it is running currently</li>
+            <li>the main postmaster listens on 127.0.0.1 and on the external Ethernet IP of genba, but it only accepts users from the same IP. For authentication, it uses the local ident port then, so this needs identd.</li>
+            <li>having this setup is needed to allow remote SQL from phm tunneled over ssh for now.</li>
+            </ul>
+            <p>identd:</p>
+            <ul>
+            <li>Needs to provide ident (or port name auth) service to postgres for authentication</li>
+            <li>is run by inetd, so that identd does not need to be started by root but can run as user</li>
+            <li>identd can also useful for other things (Jeroen).</li>
+            </ul>
+            <p>inetd:</p>
+            <ul>
+            <li>is started to run identd if neccesary for postgresql authentication, it should not be a security risk at all because the inetdand identd source code is old and well-known and should not have any possiblity of exploitation. However, we could choose to filter the inetd, identd and postgresql ports by netfilter for remote IP addresses.</li>
+            </ul>
+            <p>inetd and identd are so old and so small that one would be very surprised if there were any security bug in it.</p>
+            <p>exim:</p>
+            <p>blacklists for mail servers (anti-spam measure, the most efficient form, in terms of CPU cost) are used in the exim config (like it was before with qmail, but not good maintained). these are as of Sep 07 2004:</p>
+            <p><code> dnslists  = dnsbl.sorbs.net!=127.0.0.10 : list.dsbl.org : \</code><br />
+            <code>             dnsbl.njabl.org: sbl-xbl.spamhaus.org : \</code><br />
+            <code>             psbl.surriel.com</code></p>
+            <p><code> dnslists  = rhsbl.sorbs.net/$sender_address_domain : \</code><br />
+            <code>             dsn.rfc-ignorant.org/$sender_address_domain</code></p>
+            <p>(From a mail of Jeroen to admins@ffii.org)</p>
+            <p>innd:</p>
+            <ul>
+            <li>The news server is run by Mota from ARPIL, it has an entry in /etc/inetd.conf</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

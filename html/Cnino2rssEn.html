@@ -1,0 +1,107 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>Cnino2rssEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: cnino2rss; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="cnino2rss_a_perl_script_that_generates_rss_newsfeeds_from_ffii_kwiki_pages">cnino2rss: a Perl script that generates RSS newsfeeds from ffii kwiki pages</h1>
+            <p>--&gt; [ <a href="FfiiRssEn" title="wikilink">FFII RSS</a> | <a href="http://www.ffii.org/news/rss/" title="wikilink">Newsfeeds</a> ]</p>
+            <hr />
+            <p>How to invoke and extend cnino2rss, a script that produces RSS newsfeeds from certain pages on the kwiki.ffii.org website.</p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-10-29 dietvu provides version 0.01 of <a href="Cnino2rssEn" title="wikilink">cnino2rss</a>, the script that immediately starts producing <a href="http://www.ffii.org/news/rss/" title="wikilink">FFII RSS newsfeeds</a>. mond and phm add some refinements, phm produced initial documentation.</li>
+            </ul>
+            <h2 id="how_to_invoke_the_script">How to invoke the script</h2>
+            <p>It is found on <a href="GenbaEn" title="wikilink">genba</a> in the directory <em>var/www/adm/bin</em>.</p>
+            <p>It is normally invoked with the name of the kwiki page (e.g. 'SwpatcninoEn') as its only paramter. However it can take several others for purposes of flexibility. To be documented.</p>
+            <p>The script usualy does not need to be invoked manually. Instead it is invoked through the cronjob of the user 'knecht' every hour. The cronjob is found at /var/www/adm/bin/hourly.knecht.</p>
+            <h2 id="how_to_extend_the_script">How to extend the script</h2>
+            <ul>
+            <li>cvs.ffii.org:/var/cvs/mlht/prg/cnino2rss</li>
+            </ul>
+            <p>You need access to the <a href="CvsadmEn" title="wikilink">FFII CVS</a> system.</p>
+            <h2 id="where_to_ask_further_questions">Where to ask further questions</h2>
+            <p>Contact org ffii users dietvu or phm or webstyl-parl</p>
+            <h2 id="to_do">To Do</h2>
+            <ul>
+            <li>install XML::RSS, Date::Parse, LWP::!UserAgent on <a href="GenbaEn" title="wikilink">genba</a> -- last time phm tried with 'cpan', XML::RSS didn't build correctly</li>
+            <li>write a kwiki extension that uses the <a href="KwikiDokDataEn" title="wikilink">kwiki document metabase files</a> for generating informative html headers (for use by Googel et al). Pester mwas to do this ASAP.</li>
+            <li>Use Perl modules such as XML::RSS, Date::Parse, LWP::!UserAgent etc to make cnino2rss more elegant and extensible</li>
+            <li>create newsfeeds for different versions of RSS</li>
+            <li>write a script that parses kwiki files, identifies document metadata, writes them into the <a href="MlhtDbEn" title="wikilink">ffii database</a> and, when needed, rewrites the <a href="KwikiDokDataEn" title="wikilink">kwiki document metadata files</a></li>
+            <li>create some parser/rss-generator scripts for websites on which FFII swpat news production depends, e.g. EPO
+            <ul>
+            <li><ul>
+            <li>Try to coordinate this with gilles's <a href="UrlWatchEn" title="wikilink">[UrlWatch](UrlWatch “wikilink”) project</a> if possible.</li>
+            </ul></li>
+            </ul></li>
+            <li>Give different feeds different titles</li>
+            </ul>
+            <h2 id="perl_rss_ressources">Perl RSS Ressources</h2>
+            <ul>
+            <li><a href="http://varchars.com/sw/rss-uspto.pl" title="wikilink">RSS-USPTO: an RSS script for the USPTO website</a></li>
+            <li><a href="http://search.cpan.org/~kellan/XML-RSS-1.02/lib/RSS.pm" title="wikilink">XML::RSS documentation</a></li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

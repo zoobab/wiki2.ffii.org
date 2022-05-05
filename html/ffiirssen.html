@@ -1,0 +1,117 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>ffiirssen</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="FfiiRss" title="wikilink">FfiiRss</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="rss_newsfeeds_from_ffii">RSS Newsfeeds from FFII</h1>
+            <p>--&gt; [ <a href="Cnino2rssEn" title="wikilink">cnino2rss</a> | <a href="http://www.ffii.org/news/rss/" title="wikilink">newsfeeds</a> | <a href="DokDataEn" title="wikilink">document attributes</a> ]</p>
+            <hr />
+            <p>RSS has become a popular format for sharing news between sites. What RSS newsfeeds are available from FFII? How are they generated? How can FFII editors optimise their writings with regard to RSS ?</p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2005-02-07 feklee creates Shimbun module for reading FFII RSS feeds with several EMACS based mail/news readers (see below).</li>
+            <li>2004-12-?? Miernik integrates Newsfeed in his FFII.Pl site</li>
+            <li>2004-10-29 dietvu provides version 0.01 of <a href="Cnino2rssEn" title="wikilink">cnino2rss</a>, the script that immediately starts producing <a href="http://www.ffii.org/news/rss/" title="wikilink">FFII RSS newsfeeds</a></li>
+            <li>2004-04-00 FFII starts generating news mainly on <a href="http://kwiki.ffii.org/SwpatcninoEn" title="wikilink">kwiki</a></li>
+            <li>2004-02-00 newsfeeds produced from static web pages thanks to an externally supplied script</li>
+            </ul>
+            <h2 id="rules_for_producing_rss_optimised_webpages">Rules for Producing RSS-optimised Webpages</h2>
+            <ul>
+            <li>RSS-optimised webpages are also optimised for various other purposes. They will be better interwoven and receive more attention</li>
+            <li>Knowledge about RSS optimisation is not a prerequisite for editing kwiki pages.</li>
+            <li>The structure in kwiki pages is invisible. Pages that match the structure can be processed by cronjobs</li>
+            </ul>
+            <h3 id="example">Example</h3>
+            <p>The following is an example of an optimally marked-up page.</p>
+            <p><code> # -*- coding: iso-8859-1; dok: </code><a href="EictaGoebbels041231" title="wikilink"><code>EictaGoebbels041231</code></a><code>; lang: en --&gt;</code><br />
+            <code> # kewyords: ....</code><br />
+            <code> = 2004-12-31 EICTA wins Goebbels Award 2004</code><br />
+            <code> --&gt;</code><br />
+            <code> [ ...</code><br />
+            <code> ]</code></p>
+            <p><code> -------------</code></p>
+            <p></p>
+            <p><code> This year's award for the most innovative way of presenting a lost cause in the media went to the European Information and Communication Technology Association (EICTA). ...</code></p>
+            <p><code> == Full Text of the Speech</code></p>
+            <p><code> ...</code></p>
+            <p>Some of the markup here is separated from the text by comment syntax (#), some is woven into the text.</p>
+            <p>The "date", "title" "description" items can be identified by a parser. The "title" is part of the first heading. It must be a 1st-level heading (one '='). It can start with a date, which is then removed from the title. The description is the first continuous paragraph, without any markup or links, that comes between the header section (which ends with a horizontal line) and the first subheading (which must be 2nd-level heading beginnint with '==' ). Alternatively, any element, be it title, description, date or whatever, can be included by after a comment sign (#), followed by a space, the element name, a colon, a space and the contents, e.g.</p>
+            <p><code> # date: 2004-12-31</code><br />
+            <code> # keywords: EICTA, media, campaign, creativity</code><br />
+            <code> # description:  This year's award for the boldest ...</code></p>
+            <p>Any such explicit tag takes precedence over tags that are woven into the text.</p>
+            <p>Tags can also be specified using the emacs syntax for file attributes (local variables), either in the first line or at the bottom of the page. This is interesting for certain kinds of tags. <a href="HartmutPilchEn" title="wikilink">phm</a> has a set of emacs lisp routines that use this data for triggering certain conditions in Emacs and maintaining local copies of kwiki pages.</p>
+            <h2 id="rss_readers">RSS Readers</h2>
+            <ul>
+            <li>Many EMACS based mail/news readers together with the Shimbun module sb-ffii.el included in the package emacs-w3m version 1.4.4 (and probably upcoming/newer versions).</li>
+            <li>Mozilla Thunderbird</li>
+            </ul>
+            <h2 id="to_do">To Do</h2>
+            <ul>
+            <li>Generate newsitems for use on various ffii front pages (e.g. in HTML for inclusion with Apache sever-side includes)</li>
+            <li>Much of the information in the above section "Rules for Procuding ..." should probably be moved to <a href="DokDataEn" title="wikilink">DokDataEn</a> or similar, since it is not RSS-specific.</li>
+            <li><a href="Cnino2rssEn" title="wikilink">improve cnino2rss</a> (see to-do-list)</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>AktivMakeProjselEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="AktivMakeProjsel" title="wikilink">AktivMakeProjsel</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="aktiv_make_projsel_generating_the_project_selection_menu_for_aktiv.ffii.org">aktiv_make_projsel: generating the project selection menu for aktiv.ffii.org</h1>
+            <p>--&gt; [ <a href="AktivEn" title="wikilink">aktiv</a> | <a href="AktivMakeEn" title="wikilink">make aktiv menus</a> | <a href="FfiiprojKreEn" title="wikilink">creating projects</a> | <a href="FfiiprojNewsEn" title="wikilink">project news</a> | <a href="MlhtDbEn" title="wikilink">mlht database</a> ]</p>
+            <hr />
+            <h2 id="news_chronolgy">News &amp; Chronolgy</h2>
+            <ul>
+            <li>2004-10-18 phm improves and documents the script (in particular the choice of the right title and description in the right language for each project is refined and thereby the nuymber of appearing projects is increased)</li>
+            <li>2004-09-00 phm adds the <a href="FfiiProjRankEn" title="wikilink">ffiiprojrank</a> script that puts project into an automatic order based on their hierarchical structure (upproj field) and peer evaluation.</li>
+            <li>2004-08-00 phm creates the script and puts it to use</li>
+            </ul>
+            <h2 id="synopsis">Synopsis</h2>
+            <p>The Perl script</p>
+            <p><code> genba:/var/www/adm/bin/aktiv_make_projsel</code></p>
+            <p>is invoked from 'daily-aktiv.knecht', either by hand or by cronjob every night. It writes html text to standard output that is used by the <a href="AktivEn" title="wikilink">ffii participation system (aktiv)</a> to let people subscribe to a project at various participation levels. The html text belongs into one of the files</p>
+            <p><code>   /var/www/ffii/verein/spende/newdb/mc/en/projsel.en.html</code><br />
+            <code>   /var/www/ffii/verein/spende/newdb/mc/fr/projsel.fr.html</code><br />
+            <code>   /var/www/ffii/verein/spende/newdb/mc/de/projsel.de.html</code></p>
+            <p>which are read by the aktiv.ffii.org program and found in its main menu (via an item labelled 'participate in projects' or similar). Once the text is stored there, it is immediately used by aktiv, as soon as the menu page is loaded/reloaded.</p>
+            <p>Without any commandline argments, the scripts writes the english version. An two-letter iso language code can be supplied to change the language. Currently translations are available mainly for 'de' and 'fr', to a lesser degree also 'pt', 'se', 'nl' and others.</p>
+            <p>Project participation and signoff decision can also be taken implicitely in the related mailman mailing lists. Both decisions are translated to one another with help of the <a href="Ffiidb2mmEn" title="wikilink">ffiidb2mm</a> and <a href="Ffiimm2dbEn" title="wikilink">ffiimm2db</a> scripts.</p>
+            <p>The script reads both the project titles and descriptions and all other texts from the <a href="MlhtDbEn" title="wikilink">mlht database</a>. Texts that do not belong to projects but to the page itself are stored in the table 'langtxts' under the virtual document ID 'projsel'. They are retrieved by the sql command</p>
+            <p><code>   $ select * from langtxts where dok = 'projsel' ;</code></p>
+            <p>Currently translations that are sent to the localisation system used by mwas are not automatically stored in this database.</p>
+            <p>The script has a few commandline options which are mostly interesting for debugging purposes and not yet further documented here.</p>
+            <h2 id="to_do">To Do</h2>
+            <ul>
+            <li>write some more similar scripts, e.g. for 'selevent' (event participation). In fact this model may be efficient for the majority of applications on the aktiv menu.</li>
+            <li>Integrate mwas localisation system with mlht database</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

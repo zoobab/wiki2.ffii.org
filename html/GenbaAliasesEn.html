@@ -1,0 +1,99 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>GenbaAliasesEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="the_mail_aliases_etcaliases_on_genba">The Mail Aliases /etc/aliases on Genba</h1>
+            <p>--&gt; [ <a href="GenbaEn" title="wikilink">genba</a> ]</p>
+            <hr />
+            <h2 id="news">News</h2>
+            <ul>
+            <li>2004-08-24 phm restores dynamic generation of /etc/aliases</li>
+            <li>2004-08 during reinstallation of genba with new mailer exim the original mechanism is lost</li>
+            <li>2003 phm installs a system of scripts that generate /etc/aliases</li>
+            </ul>
+            <h2 id="outline">Outline</h2>
+            <ul>
+            <li>to manually edit mail aliases, the source is /var/www/adm/etc/aliases.src</li>
+            <li>further aliases are generated from the database by /var/www/ffii/assoc/home/makeall.pl</li>
+            <li>the various sources are put together into /var/www/adm/etc/aliases by cronjob /var/www/adm/bin/hourly.knecht. Sources include
+            <ul>
+            <li><ul>
+            <li>manually edited aliases /var/www/adm/etc/aliases.src</li>
+            <li>project mailing list aliases /var/www/ffii/assoc/home/projaliases.txt</li>
+            <li>ffii member aliases /var/www/ffii/assoc/home/nenri/verein/uidmail</li>
+            </ul></li>
+            </ul></li>
+            <li>/var/www/adm/etc/aliases is copied to /etc/aliases by hourly.root
+            <ul>
+            <li><ul>
+            <li>editable source of hourly.root is in /var/www/adm/bin/hourly.root, but is not used</li>
+            <li>the used version is editable only by root and stored in /usr/local/sbin/hourly.root</li>
+            </ul></li>
+            </ul></li>
+            <li>hourly.knecht is started from knecht crontab /var/www/adm/cron/crontab.knecht</li>
+            <li>hourly.root is started from root crontab /var/www/adm/cron/crontab.root
+            <ul>
+            <li><ul>
+            <li>crontab mustn't be loaded automatically from /var/www/adm/cron/* by any scripts. If automatic loading is necessary, only a copy from a directory which can be written only by the concerned user is acceptable</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

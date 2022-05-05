@@ -1,0 +1,94 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MailmanEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="documentation_of_mailman_installation_on_genba.ffii.org">Documentation of Mailman installation on Genba.ffii.org</h1>
+            <p>--&gt; [ <a href="ListinfoEn" title="wikilink">FFII Mailing List FAQ</a> | <a href="MailmanArchiveEn" title="wikilink">Mailman Archives</a> | <a href="MailmanUnsubDe" title="wikilink">Abmeldung</a> | <a href="PolisEn" title="wikilink">ffii computing</a> | <a href="GenbaEn" title="wikilink">genba</a> | <a href="AdministriviaEn" title="wikilink">Administrivia</a> | <a href="FfiiPgSqlDatabaseMlNgEn" title="wikilink">ML and NG Database Structures</a> ]</p>
+            <hr />
+            <h2 id="maintainer">Maintainer</h2>
+            <ul>
+            <li>From 1999 to Spring 2004: Bernhard Reiter (breiter at ffii org)
+            <ul>
+            <li><ul>
+            <li>Bernhard may still be available to support his successor</li>
+            </ul></li>
+            </ul></li>
+            <li>From Summer 2004 to ? (today for now): Jeroen Dekkers</li>
+            <li>phm is maintaining <a href="MailmanDbEn" title="wikilink">scripts for interfacing between database and mailman</a> (allowing project subscription through aktiv et al)</li>
+            </ul>
+            <h2 id="mailinglist_archives">Mailinglist archives</h2>
+            <ul>
+            <li><a href="MailmanArchiveEn" title="wikilink">MailmanArchiveEn</a></li>
+            </ul>
+            <h2 id="mailman_paths">Mailman paths</h2>
+            <p><em><code>var/lib/mailman</code></em><code>: All list information and archives, owned by group 'list' and user 'list' or 'root'.</code><br />
+            <em><code>usr/lib/mailman</code></em><code> and </code><em><code>usr/share/mailman</code></em><code>: The debian Mailman installation.</code><br />
+            <em><code>etc/mailman</code></em><code>: site-wide mailman configuration files</code><br />
+            <code> </code></p>
+            <h2 id="deleting_lists">Deleting Lists</h2>
+            <p>Being root or in group 'list':</p>
+            <p>Delete a list with archives:</p>
+            <p>/usr/sbin/rmlist ``<listname></p>
+            <p>use</p>
+            <p>/usr/sbin/rmlist -a ``<listname></p>
+            <p>to also delete the archive</p>
+            <p>Further commands apply as documented at <a href="http://www.list.org/site.html" class="uri">http://www.list.org/site.html</a></p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

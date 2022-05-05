@@ -1,0 +1,109 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>AktivImprovementEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="improvement_of_the_ffii_member_participation_system_aktiv">Improvement of the FFII member participation system ("Aktiv")</h1>
+            <p><a href="%5BFfiiQaEn" title="wikilink">FFII Q&amp;A</a>]</p>
+            <hr />
+            <p>Topic: What can we do to further improve the participation system?</p>
+            <p>Feedback via eMail to  please.</p>
+            <p>Also see <a href="AktivInternals" title="wikilink">AktivInternals</a>, for an explanation of the innards of Aktiv.</p>
+            <h2 id="user_interface">User Interface</h2>
+            <p>(For all planned changes, please try to keep in mind that since Sept.2002 about 40.000 supporters have signed up using this system and are thus to some degree accustomed to the current UI-structure)</p>
+            <h3 id="site_structural_improvements">Site-Structural Improvements</h3>
+            <p>(How do the pages relate - where do we put the various functions)</p>
+            <ul>
+            <li>(tbd)</li>
+            </ul>
+            <h3 id="process_specific_improvements">Process-specific improvements</h3>
+            <p>(Example: The member-signup process/procedure including payment-selection)</p>
+            <ul>
+            <li>(tbd)</li>
+            </ul>
+            <h3 id="page_specific_improvements">Page-specific improvements</h3>
+            <p>(local improvements on specific pages)</p>
+            <ul>
+            <li>(tbd)</li>
+            </ul>
+            <h3 id="html_layout_improvements">HTML-Layout Improvements</h3>
+            <p>(The site-wide visual layout that our Aktiv pages follow)</p>
+            <p>My original goal was, to keep each Aktiv-template an entity that can be viewed in a browser or processed using a Web-Editor. To some degree, this has been useful, since it facilitates changes by others without them having to know much about the systems internals. However a site-wide layout cannot be easily maintained that way. Therefore I'm about to switch to a more (HTML-)fragment-based approach.</p>
+            <ul>
+            <li>A header and footer template needs to be defined that is included by all pages.</li>
+            <li>Use of <code>{=html}     &lt;TABLE&gt;</code> s for formatting needs to be unified over all Aktiv pages (historically grown &amp; somewhat chaotic).</li>
+            <li>I've been playing with using more CSS (also as a replacement for <code>{=html}     &lt;TABLE&gt;</code> -based layout) but we need to support the broadest set of browsers possible. CSS for layouting plus real browser independence is a "science" by itself...</li>
+            <li>Forms must still be usable on Lynx e.g.</li>
+            <li>mwas: I do not enjoy tweaking HTML and CSS to produce the desired visual result (not to mention the brwoser-specific issues!). Hopefully we can find someone who does!</li>
+            </ul>
+            <h2 id="performance">Performance</h2>
+            <ul>
+            <li>Problem: genba (the server that Aktiv runs on) is charged with too many tasks. Even the plain web pages (www.ffii.org and swpat.ffii.org) are served extremely slowly at times. Reaction time in a ssh shell logged in on genba exceeds 15 secs at times.</li>
+            </ul>
+            <p><code>This had been improved a few weeks ago by our admins (better network card, config tweaks) </code><br />
+            <code>but things became worse again the week of Oct 20. Some measures for off-loading genba have </code><br />
+            <code>not yet been implemented (moving images to another server, moving the Eurolinux petition to another server).</code></p>
+            <p><code>Update 04/2004: Since Zope is off off the genba server performance has improved a lot.</code></p>
+            <h2 id="resource_consumption">Resource Consumption</h2>
+            <ul>
+            <li>Make it a mod_perl handler</li>
+            <li>Reduce extensive logging performed by Aktiv (Done in 04/2004)</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

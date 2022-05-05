@@ -1,0 +1,96 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MepsDbEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="MepsDb" title="wikilink">MepsDb</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="database_of_members_of_the_european_parliament_at_ffii.org">Database of Members of the European Parliament at FFII.org</h1>
+            <p>--&gt; [ <a href="MlhtDbEn" title="wikilink">mlht db</a> | <a href="EpatDbEn" title="wikilink">epat db</a> | <a href="AmendDbEn" title="wikilink">amend db</a> | <a href="AktivEn" title="wikilink">aktiv</a> | <a href="MlhtDbVerbdefsEn" title="wikilink">verbdefs.txt</a> | <a href="PolisEn" title="wikilink">computing</a> | <a href="GenbaEn" title="wikilink">genba</a> | <a href="FfiiprojNewsEn" title="wikilink">Project News</a> ]</p>
+            <hr />
+            <p>The FFII has is maintaining a database of members of the European Parliament. Here we document the structure of this database, so as to facilitate its maintenance.</p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-11-01 phm creates this page in an effort to document the database structure a bit better so as to facilitate integration of the new data</li>
+            <li>2004-08-00 amacfie creates new set of data for newly elected parliament</li>
+            <li>2003-00-00 the database is intensively used in the My MEP application of <a href="AktivEn" title="wikilink">aktiv</a></li>
+            <li>2002-00-00 created on basis of a script by Chema from CALIU which harvested data from the EP website,</li>
+            </ul>
+            <h2 id="getting_started">Getting started</h2>
+            <p>As with other databases on FFII, you can most conveniently access them if you have a ssh account with needed access rights on the database. For rights on 'meps', you may want to contact mepdb-help at ffii org.</p>
+            <p>Assuming you have a user account named 'jonas', a typical command for accessing through an ssh tunnel might be:</p>
+            <p><code>$ ssh -p 50022 -L 3333:ffii.org:5432 jonas@ffii.org</code></p>
+            <p>See ssh documentation for more details. You would then, in another session on your home machine which has the postgres client 'psql' installed, enter something like</p>
+            <p><code>$ psql -d meps -h localhost -p 3333</code></p>
+            <p>For other postgres clients (e.g. from within Perl or Emacs) the invocation is similar: you mainly substitute 3333 (or some other arbitrary port that happens to be available for use on your machine) for the normal dbport number which usually is 5432.</p>
+            <h2 id="outline">Outline</h2>
+            <ul>
+            <li>Some level of description of the syntax can be found in
+            <ul>
+            <li><ul>
+            <li>genba:/var/www/ffii/verein/verbdefs.txt</li>
+            <li><a href="http://www.ffii.org/assoc/knecht/meps/" class="uri">http://www.ffii.org/assoc/knecht/meps/</a></li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

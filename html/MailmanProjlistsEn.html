@@ -1,0 +1,95 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MailmanProjlistsEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="MailmanProjlists" title="wikilink">MailmanProjlists</a>; lang: en; coding: iso-8859-1; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="projlists.mailman_update_mailman_based_on_project_member_mail_address_lists">projlists.mailman: update mailman based on project member mail address lists</h1>
+            <p>--&gt; [ <a href="Ffiidb2mmEn" title="wikilink">ffiidb2mm</a> | <a href="Ffiimm2dbEn" title="wikilink">ffiimm2db</a> | <a href="FfiidistsEn" title="wikilink">ffiidists</a> | <a href="FfiiprojKreEn" title="wikilink">creating projects</a> | <a href="MailmanEn" title="wikilink">mailman</a> | <a href="MlhtDbEn" title="wikilink">mlht db</a> | <a href="AktivEn" title="wikilink">aktiv</a> | <a href="GenbaEn" title="wikilink">genba</a> | <a href="PolisEn" title="wikilink">computing</a> | <a href="FfiiprojNewsEn" title="wikilink">project news</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-10-17 phm makes the script generate the mailadr lists on its own, renames it to <a href="Ffiidb2mmEn" title="wikilink">ffiidb2mm</a></li>
+            <li>2004-10-16 phm adds mailaddress list (dist) age check after a disaster that could have been prevented by such a check</li>
+            <li>2003-00-00 phm creates the script</li>
+            </ul>
+            <h2 id="synopsis">Synopsis</h2>
+            <p>This script is outdated, see the newer version <a href="Ffiidb2mmEn" title="wikilink">ffiidb2mm</a>.</p>
+            <p>The text here may soon disappear.</p>
+            <p>The script</p>
+            <p><code>   /home/list/ffii/bin/projlists.mailman</code></p>
+            <p>gives out some info on its usage when invoked with commandline option '-h'</p>
+            <p><code>   $ projlists.mailman -h</code></p>
+            <p>Typical invocations are</p>
+            <p><code>   $ projlists.mailman -v 3 /var/www/ffii/verein/home/nenri/uk-help/dist</code><br />
+            <code>   $ projlists.mailman -v 3 /var/www/ffii/verein/home/nenri/uk-*/dist</code><br />
+            <code>   $ projlists.mailman -v 3  </code></p>
+            <p>Line 1 will update the uk-help project list based on mailing addresses found in the file.</p>
+            <p>Line 2 does the same for all uk-* project lists, line 3 for all projects.</p>
+            <p>'-v 3' means verbosity level 3.</p>
+            <p>When mailing lists belong to projects and do not yet exist, the script creates them with default configurations. There are also commandline options for reconfiguring existing lists.</p>
+            <p>When a mailaddress list file is too old (more than 4h by default, this can be changed with the -a option), the script skips it and sends a warning to the administrator (to be changed with -M).</p>
+            <h2 id="todo">Todo</h2>
+            <p>The script should (optionally) generate the mailaddress lists by itself rather than taking possibly outdated ones from the file system. This should be easy to do, given that the script already reads the ffii database anyway.</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

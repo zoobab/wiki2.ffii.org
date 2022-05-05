@@ -1,0 +1,82 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>Webdav0510En</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="webdav0510en_facilitate_collective_editing_of_some_ffii_sites"><a href="Webdav0510En" title="wikilink">Webdav0510En</a>: Facilitate collective editing of some FFII sites</h1>
+            <p>-&gt; [ <a href="PolisEn" title="wikilink">FFII DP</a> | <a href="FfiiprojPriorEn" title="wikilink">Priorities</a> | <a href="FfiiprojNewsEn" title="wikilink">Project News</a> ]</p>
+            <hr />
+            <p><em>19 Oct 2005 -- Sites like nosoftwarepatents.com, www.ffii.org and economic-majority.com need to be jointly edited online. The protocol of choice for this is http-based webdav. We need to get started. Here are some informations on how to install and use webdav on FFII sites.</em></p>
+            <h2 id="links">Links</h2>
+            <ul>
+            <li><a href="http://plone.ffii.org/admin/help/" class="uri">http://plone.ffii.org/admin/help/</a></li>
+            <li><a href="http://www.linux.com/howtos/Apache-WebDAV-LDAP-HOWTO/index.shtml" class="uri">http://www.linux.com/howtos/Apache-WebDAV-LDAP-HOWTO/index.shtml</a></li>
+            <li><a href="http://www.serverwatch.com/tutorials/article.php/2176771" class="uri">http://www.serverwatch.com/tutorials/article.php/2176771</a></li>
+            <li><a href="http://www.webdav.org/mod_dav/" class="uri">http://www.webdav.org/mod_dav/</a></li>
+            </ul>
+            <h2 id="experience_on_ffii.se">Experience on FFII.se</h2>
+            <p>Authors at ffii.se use apache mod_dav and mozilla composer among other dav clients. Mozilla composer works surprisingly well with advanced style-sheets. MS Word and front page works too and windows can mount web-dav as a drive. To use 'add-network-place' in windows - you need use '@' in the user names in apache since windows otherwise adds a windows style domain server affix to user names.</p>
+            <p>The trick is to separate server-side-includes or cgi-functions, so that they are not overwritten with their results from execution. For this reason we have created a dav.ffii.se site that enables DAV and disables SSI or other kinds of server-executions.</p>
+            <h2 id="subversion_module_svn.swpat.ffii.org_site">Subversion module, svn.swpat.ffii.org site</h2>
+            <p>A very nice function would be to use i e the subversion module for web-dav and check out changes to the www. site from the svn. site...</p>
+            <h2 id="meta_data">Meta data</h2>
+            <p>Web-dav also supports meta data properties.</p>
+            <p>DokDataEn</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,153 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>feedbackat040610de</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="europawahl_2004_06_10_schreiben_an_unterstützer_in_österreich">Europawahl 2004-06-10: Schreiben an Unterstützer in Österreich</h1>
+            <p>--&gt; <a href="FeedbackDe040610De" title="wikilink">DE</a>, <a href="Feedback040610En" title="wikilink">EN</a></p>
+            <hr />
+            <p><code>#! /bin/bash</code><br />
+            <code>me=${0##*/}</code><br />
+            <code>if [ $# -ne 0 ]; then</code><br />
+            <code>  cat &gt;&amp;2 &lt;&lt;END</code><br />
+            <code>Usage: $me &lt;&lt;EOF</code><br />
+            <code>UID E_MAIL</code><br />
+            <code>...</code><br />
+            <code>EOF</code><br />
+            <code>END</code><br />
+            <code>  exit 2</code><br />
+            <code>fi</code></p>
+            <p><code># Some systems may need sendmail options like -t -oi -oem or -o8</code><br />
+            <code>: ${SENDMAIL:=/usr/sbin/sendmail -t -oi -oem}</code></p>
+            <p><code>CHARSET=iso-8859-15</code><br />
+            <code>SUBJECT="Logikpatente, EU-Wahl, Webdemo, Dringender Aufruf"</code><br />
+            <code>SUBJECTCODE="eleg0406_at"</code></p>
+            <p><code>while read U_ID E_MAIL; do</code><br />
+            <code>  echo "Sending to: $U_ID &lt;$E_MAIL&gt;" &gt;&amp;2</code><br />
+            <code>  case $U_ID in</code></p>
+            <ul>
+            <li><ul>
+            <li>[!a-z0-9_]*)</li>
+            </ul></li>
+            </ul>
+            <p><code>    echo "$me: \`$U_ID': invalid user id" &gt;&amp;2</code><br />
+            <code>    continue</code><br />
+            <code>    ;;</code><br />
+            <code>  esac</code><br />
+            <code>  case $E_MAIL in</code><br />
+            <code>  ?*@?*.?*)</code><br />
+            <code>    ;;</code></p>
+            <ul>
+            <li><ul>
+            <li>)</li>
+            </ul></li>
+            </ul>
+            <p><code>    echo "$me: \`$E_MAIL': invalid e-mail address" &gt;&amp;2</code><br />
+            <code>    continue</code><br />
+            <code>    ;;</code><br />
+            <code>  esac</code></p>
+            <p><code>  RECIPIENTCODE=$U_ID</code><br />
+            <code>  OPENING="Liebe(r) Unterstützer(in) des FFII"</code></p>
+            <p><code>  # This is used to recognize replies by the In-Reply-To header</code><br />
+            <code>  MESSAGE_ID="&lt;$RANDOM.$SUBJECTCODE.$RECIPIENTCODE.$USER@$HOSTNAME&gt;"</code></p>
+            <p><code>  $SENDMAIL &lt;&lt;EOF</code><br />
+            <code>MIME-Version: 1.0</code><br />
+            <code>From: feedback@ffii.org</code><br />
+            <code>To: $E_MAIL</code><br />
+            <code>Subject: $SUBJECT</code><br />
+            <code>Message-ID: $MESSAGE_ID</code><br />
+            <code>Content-type: text/plain; charset=$CHARSET</code><br />
+            <code>Content-Transfer-Encoding: 8bit</code></p>
+            <p><code>$OPENING,</code></p>
+            <p><code>Die Wahlen zum Europäischen Parlament haben begonnen.  In Österreich</code><br />
+            <code>sind wir am Sonntag dran.</code><br />
+            <br />
+            <code>Bekanntlich kann das EU-Parlament gefährliche Gesetze der Kommission und</code><br />
+            <code>des Rates abwehren oder zu guten Gesetzen machen.  Dabei kann es unsere</code><br />
+            <code>Rückenstärkung gebrauchen.  Über</code></p>
+            <p><code>    </code><a href="http://kwiki.ffii.org/ElectAct0405De"><code>http://kwiki.ffii.org/ElectAct0405De</code></a></p>
+            <p><code>finden Sie Anregungen, die Sie bei der Abstimmung vielleicht berücksichtigen</code><br />
+            <code>möchten.  Die Seite listet auch noch weitere Handlungsmöglichkeiten auf, einschließlich </code><br />
+            <code>Teilnahme an der</code></p>
+            <p><code>    Webdemo zur Europäischen Parlamentswahl</code><br />
+            <code>    </code><a href="http://kwiki.ffii.org/ElectWebdemo0406En"><code>http://kwiki.ffii.org/ElectWebdemo0406En</code></a></p>
+            <p><code>Es gibt auch noch einen</code></p>
+            <p><code>    Dringenden Aufruf</code><br />
+            <code>    </code><a href="http://swpat.ffii.org/letters/cons0406/"><code>http://swpat.ffii.org/letters/cons0406/</code></a></p>
+            <p><code>zum Unterzeichnen und Verteilen.  Dieser Aufruf kann uns helfen, die</code><br />
+            <code>Unterzeichnung der neuerlichen Ratsentscheidung abzuwehren.</code></p>
+            <p><code>Sie können uns die Koordination der Aktionen erleichtern, wenn Sie</code><br />
+            <code>auf dieses Schreiben </code><strong><code>antworten</code></strong><code> (reply, nicht forward o.ä.) und</code><br />
+            <code>beim Ausfüllen "+" für "ja" und "-" für "nein" verwenden.</code><br />
+            <br />
+            <code> [] Ich unterstütze den FFII weiterhin und bin daher mit </code><br />
+            <code>    gelegentlichen Anschreiben wie diesem einverstanden.</code><br />
+            <code> [] Ich werde an diesem Wochenende an der Webdemo teilnehmen.</code><br />
+            <code>    Dabei werde ich zeitweilig die Seite </code><a href="http://" title="wikilink"><code>http://__</code></a><code> verdecken.</code><br />
+            <code> [] Ich unterzeichne den "Dringenden Aufruf".</code><br />
+            <code> [] Ich möchte gerne öffentlich als Unterzeichner genannt werden.</code></p>
+            <p><code>Vielen Dank für Ihr Verständnis und Ihre Unterstützung</code></p>
+            <p><code>Viele Grüße</code></p>
+            <p><code>Ihr FFII-Team</code><br />
+            <code>(Georg Jakob, Franz Schäfer)</code></p>
+            <p><code>EOF</code><br />
+            <code>sleep 1</code><br />
+            <code>done</code></p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

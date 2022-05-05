@@ -1,0 +1,332 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MlhtDbVerbdefsEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="MlhtDbVerbdefs" title="wikilink">MlhtDbVerbdefs</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="verbdefs.txt_syntax_definition_file_for_database_and_knecht.pm">verbdefs.txt: syntax definition file for database and Knecht.pm</h1>
+            <p>--&gt; [ <a href="KnechtEn" title="wikilink">knecht</a> | <a href="AktivEn" title="wikilink">aktiv</a> | <a href="MlhtDbEn" title="wikilink">mlht db</a> | <a href="MepsDbEn" title="wikilink">meps db</a> ]</p>
+            <hr />
+            <p>The file genba:/var/www/ffii/verein/verbdefs.txt describes the structures of "command verbs" a.k.a. database tables as used by the Knecht.pm Perl module which is invoked by the knecht@ffii.org mail processor and by the aktiv web interface. It includes a syntax for bridging different versions of the database so as to allow backward compatibility and gradual forward evolution of profiles written by Knecht.pm.</p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-11-01 phm creates the kwiki-based verbdefs documentation</li>
+            <li>2004-01-00 phm changes Knecht.pm so that the database becomes the source and backward compatibility of profiles is no longer of central importance.</li>
+            <li>2002-00-00 phm introduces verbdefs.txt as a configuration file for Knecht.pm</li>
+            </ul>
+            <h2 id="profile_documentation">Profile Documentation</h2>
+            <p>Much of the structure of the verbs used by Knecht.pm is also found in the <a href="http://www.ffii.org/assoc/knecht/profil/" title="wikilink">profile template</a>.</p>
+            <h2 id="syntax_abstract_description">Syntax (abstract description)</h2>
+            <ul>
+            <li>tab &lt;table=verb&gt; <left_fields>: <right_fields>: the left fields are the indexed keys by which the right keys are searched.</li>
+            <li>fld <field_name> <type> [<type_arguments>]: field definition</li>
+            <li>mov <old_verb> <new_verb> [ key <old_field> <new_field> | val <new_value> <field> | rev <old_value> <new_value> <field> ]+: various ways of transforming a table, so as to allow backward compatibility</li>
+            </ul>
+            <h2 id="current_file_contents">Current File contents</h2>
+            <p>As of 2004-11-01, the file read as follows:</p>
+            <p><code> tab pnom uid: pntyp pnom</code><br />
+            <code> mov pnom pnom key nom pnom key typ pntyp</code><br />
+            <code> fld typ v 2</code><br />
+            <code> fld uid v 8</code><br />
+            <code> fld nom t</code><br />
+            <code> fld pnom t</code><br />
+            <code> tab mf uid: mf</code><br />
+            <code> fld mf v 1</code><br />
+            <code> tab mail uid mailref: mailuser mailhost</code><br />
+            <code> tab mt uid: user host</code><br />
+            <code> mov mt mail val norm mailref </code><br />
+            <code> mov mail mail key ref mailref key nom mailuser key host mailhost rev priv norm mailref </code><br />
+            <code> fld mailref v 8</code><br />
+            <code> fld host t</code><br />
+            <code> fld mailhost t</code><br />
+            <code> fld mailuser t</code><br />
+            <code> tab adr uid: land plz urb str</code><br />
+            <code> fld land v 2</code><br />
+            <code> fld plz t</code><br />
+            <code> fld urb t</code><br />
+            <code> fld str t</code><br />
+            <code> tab padr uid adrref: land plz urb str</code><br />
+            <code> mov padr padr key ref adrref </code><br />
+            <code> mov adr padr val norm adrref key ort urb</code><br />
+            <code> fld adrref v 8</code><br />
+            <code> tab firma uid firmref: firmnom firmurl firmmem</code><br />
+            <code> mov firma firma key fid firmref key ref firmref key nom firmnom key mem firmmem</code><br />
+            <code> fld firmref v 8</code><br />
+            <code> fld firmnom t</code><br />
+            <code> fld url v 20</code><br />
+            <code> fld firmurl v 20</code><br />
+            <code> fld mem b</code><br />
+            <code> fld firmmem b</code><br />
+            <code> tab beitrag uid: typ bet mon beg fin</code><br />
+            <code> tab pag uid: pagtyp pagsum pagmon pagbeg pagfin pagpap pagpub</code><br />
+            <code> mov beitrag pag key typ pagtyp key bet pagsum key mon pagmon key beg pagbeg key fin pagfin</code><br />
+            <code> fld pagtyp v 2</code><br />
+            <code> fld pagsum n 4 2</code><br />
+            <code> fld pagmon n 2</code><br />
+            <code> fld pagbeg d</code><br />
+            <code> fld pagfin d</code><br />
+            <code> fld pagpap b</code><br />
+            <code> fld pagpub b</code><br />
+            <code> fld beg d</code><br />
+            <code> fld fin d</code><br />
+            <code> tab konto uid: land blz bank knr inh iban</code><br />
+            <code> mov konto konto key nr knr</code><br />
+            <code> fld iban t</code><br />
+            <code> fld blz v 9</code><br />
+            <code> fld bank v 24</code><br />
+            <code> fld knr v 12</code><br />
+            <code> fld inh t</code><br />
+            <code> tab persist uid pstvar: pstval</code><br />
+            <code> mov persist persist key var pstvar key val pstval</code><br />
+            <code> tab sid uid: sidval</code><br />
+            <code> mov sid sid key val sidval</code><br />
+            <code> tab sessionid uid: val</code><br />
+            <code> mov sessionid sid key val sidval</code><br />
+            <code> fld var t</code><br />
+            <code> fld val t</code><br />
+            <code> fld pstvar t</code><br />
+            <code> fld pstval t</code><br />
+            <code> fld sidval t</code><br />
+            <code> tab tel uid: tel</code><br />
+            <code> tab teln uid telref: tel telrem</code><br />
+            <code> mov tel teln val norm ref key ref telref key rem telrem</code><br />
+            <code> mov teln teln key ref telref key rem telrem</code><br />
+            <code> fld tel t</code><br />
+            <code> fld ref v 8</code><br />
+            <code> fld telref v 8 </code><br />
+            <code> fld rem t</code><br />
+            <code> fld telrem t</code><br />
+            <code> tab http uid: http rem</code><br />
+            <code> fld http t</code><br />
+            <code> fld demo t</code><br />
+            <code> tab href uid urlref: http demo urlrem</code><br />
+            <code> mov http href val norm urlref key rem urlrm</code><br />
+            <code> mov href href key ref urlref key rem urlrem</code><br />
+            <code> fld urlref v 8</code><br />
+            <code> fld urlrem t</code><br />
+            <code> fld lvl n 2</code><br />
+            <code> fld ack b</code><br />
+            <code> tab sign uid sign: siglvl sigrem</code><br />
+            <code> mov sign sign key lvl siglvl key rem sigrem</code><br />
+            <code> fld sigrem t</code><br />
+            <code> tab signeubsa uid: lvl</code><br />
+            <code> tab signbund028 uid: lvl</code><br />
+            <code> mov signeubsa sign val eubsa sign key lvl siglvl</code><br />
+            <code> mov signbund028 sign val bund028 sign key lvl siglvl</code><br />
+            <code> fld sign v 8</code><br />
+            <code> tab subs uid subs: sublvl faru</code><br />
+            <code> mov subs subs key lvl sublvl</code><br />
+            <code> fld faru b</code><br />
+            <code> tab subsneues uid: lvl</code><br />
+            <code> mov subsneues subs val neues subs key lvl sublvl</code><br />
+            <code> tab subsverein uid: lvl</code><br />
+            <code> mov subsverein subs val verein subs key lvl sublvl</code><br />
+            <code> tab subsnews uid: lvl</code><br />
+            <code> mov subsnews subs val news subs key lvl sublvl</code><br />
+            <code> tab subsswpat uid: lvl</code><br />
+            <code> mov subsswpat subs val swpat subs key lvl sublvl</code><br />
+            <code> tab subsoffen uid: lvl</code><br />
+            <code> mov subsoffen subs val offen subs key lvl sublvl</code><br />
+            <code> tab subspatinfo uid: lvl</code><br />
+            <code> mov subspatinfo subs val patinfo subs key lvl sublvl</code><br />
+            <code> fld subs v 16</code><br />
+            <code> fld org v 8</code><br />
+            <code> tab ffii uid: lvl rem</code><br />
+            <code> mov ffii asoc val org ffii key lvl asolvl key rem asorem</code><br />
+            <code> tab asoc uid org: asolvl asorem</code><br />
+            <code> mov asoc asoc key lvl asolvl key rem asorem</code><br />
+            <code> fld asolvl n</code><br />
+            <code> fld sublvl n</code><br />
+            <code> fld siglvl n</code><br />
+            <code> fld memlvl n</code><br />
+            <code> fld replvl n</code><br />
+            <code> tab memq uid org: memlvl</code><br />
+            <code> mov memq memq key fid org key ref org key lvl memlvl</code><br />
+            <code> tab memqbitkom uid: lvl</code><br />
+            <code> mov memqbitkom memq val bitkom org key lvl memlvl</code><br />
+            <code> tab memqgiev uid: lvl</code><br />
+            <code> mov memqgiev memq val giev org key lvl memlvl</code><br />
+            <code> tab memqvsi uid: lvl</code><br />
+            <code> mov memqvsi memq val vsi org key lvl memlvl</code><br />
+            <code> tab memqvdma uid: lvl</code><br />
+            <code> mov memqvdma memq val vdma org key lvl memlvl</code><br />
+            <code> tab memqzvei uid: lvl</code><br />
+            <code> mov memqzvei memq val zvei org key lvl memlvl</code><br />
+            <code> tab memqccc uid: lvl</code><br />
+            <code> mov memqccc memq val ccc org key lvl memlvl</code><br />
+            <code> tab memqguug uid: lvl</code><br />
+            <code> mov memqguug memq val guug org key lvl memlvl</code><br />
+            <code> tab memqfitug uid: lvl</code><br />
+            <code> mov memqfitug memq val fitug org key lvl memlvl</code><br />
+            <code> tab memqfiff uid: lvl</code><br />
+            <code> mov memqfiff memq val fiff org key lvl memlvl</code><br />
+            <code> tab memqisoc uid: lvl</code><br />
+            <code> mov memqisoc memq val isoc org key lvl memlvl</code><br />
+            <code> tab memqfsfe uid: lvl</code><br />
+            <code> mov memqfsfe memq val fsfe org key lvl memlvl</code><br />
+            <code> tab memqdmmv uid: lvl</code><br />
+            <code> mov memqdmmv memq val dmmv org key lvl memlvl</code><br />
+            <code> tab part uid: ref lvl sub</code><br />
+            <code> tab repr uid grp vip: replvl reprem</code><br />
+            <code> mov repr repr key lvl replvl key rem reprem</code><br />
+            <code> fld reprem t</code><br />
+            <code> fld grp v 3</code><br />
+            <code> fld vip t</code><br />
+            <code> tab epat uid pat: tech deal clms iclm dclm clm1 prog epatrem</code><br />
+            <code> mov epat epat key rem epatrem</code><br />
+            <code> fld epatrem t</code><br />
+            <code> fld pat v 12</code><br />
+            <code> fld tech i 1</code><br />
+            <code> fld deal i 1</code><br />
+            <code> fld clms i 4</code><br />
+            <code> fld iclm i 2</code><br />
+            <code> fld dclm b</code><br />
+            <code> fld prog t</code><br />
+            <code> fld clm1 t</code><br />
+            <code> tab ven uid ven: venlvl</code><br />
+            <code> mov ven ven key lvl venlvl</code><br />
+            <code> tab venqber021205 uid: lvl</code><br />
+            <code> tab venqbru021107 uid: lvl</code><br />
+            <code> mov venqber021205 ven val ber021205 ven key lvl venlvl</code><br />
+            <code> mov venqbru021107 ven val bxl021107 ven key lvl venlvl</code><br />
+            <code> fld venlvl i</code><br />
+            <code> fld ven v 12</code><br />
+            <code> fld text t</code><br />
+            <code> fld sessionid v 12</code><br />
+            <code> fld cdnr i</code><br />
+            <code> tab glos uid ref: lok rem</code><br />
+            <code> nodb glos</code><br />
+            <code> nodb rol</code><br />
+            <code> tab perm uid permuid permvar: permval permrem</code><br />
+            <code> mov perm perm key mid permuid key tem permvar key val permval key rem permrem</code><br />
+            <code> fld permuid v 8</code><br />
+            <code> fld permvar t</code><br />
+            <code> fld permrem t</code><br />
+            <code> fld permval t</code><br />
+            <code> tab lang uid lang: lvl rem</code><br />
+            <code> tab uidlang uid lang: langlvl langrem</code><br />
+            <code> mov lang uidlang key lvl langlvl key rem langrem</code><br />
+            <code> tab proj uid proj: upproj projurl projfin</code><br />
+            <code> fld proj v 8</code><br />
+            <code> fld langlvl i 1</code><br />
+            <code> fld langrem t</code><br />
+            <code> fld upproj v 8</code><br />
+            <code> fld projurl t</code><br />
+            <code> tab projtxt uid proj lang: projtit projdes</code><br />
+            <code> fld projtit t</code><br />
+            <code> fld projdes t</code><br />
+            <code> fld lang v 2</code><br />
+            <code> tab projhlp uid proj: hlplvl hlprem faru</code><br />
+            <code> tab projdon uid proj: donsum dontyp donvalut donrem</code><br />
+            <code> tab projval uid proj: vallvl valrem</code><br />
+            <code> tab projprm uid proj prmuid: prmlvl</code><br />
+            <code> mov projperm projprm key hom prmuid key perm prmlvl</code><br />
+            <code> fld hlplvl n 1</code><br />
+            <code> fld hlprem t</code><br />
+            <code> fld dontyp n 1</code><br />
+            <code> fld donsum n 6</code><br />
+            <code> fld donvalut v 3 # 'eur'</code><br />
+            <code> fld donrem t</code><br />
+            <code> fld vallvl n 2</code><br />
+            <code> fld valrem t</code><br />
+            <code> fld prmuid v 8</code><br />
+            <code> fld prmlvl i</code><br />
+            <code> fld prmrem t</code><br />
+            <code> tab pass uid: pass</code><br />
+            <code> fld pass v 16</code><br />
+            <code> tab news uid nbas ndat lang: proj ntit ndes nurl</code><br />
+            <code> fld nbas v 8</code><br />
+            <code> fld ndat d</code><br />
+            <code> fld ntit t</code><br />
+            <code> fld ndes t</code><br />
+            <code> fld nurl t</code><br />
+            <code> tab langtxt uid dok mlid lang: mltxt mlcki</code><br />
+            <code> tab mlexp uid dok mlid lang: ciksi ckisku</code><br />
+            <code> fld mlid v 16</code><br />
+            <code> fld mltxt t</code><br />
+            <code> fld mlcki t</code><br />
+            <code> fld ciksi v 8</code><br />
+            <code> fld ckisku t</code><br />
+            <code> tab dokurl dok lang: url</code><br />
+            <code> tab zgana uid dok lang: zgalvl</code><br />
+            <code> fld zgalvl i</code><br />
+            <code> tab wikipags uid wikipag: wikisrc wikitit</code><br />
+            <code> fld wikisrc t</code><br />
+            <code> fld wikitit t</code><br />
+            <code> tab grev uid grevref: grevpag kovrpag grevrem g040407 g040414 g040509 g040512 g040609</code><br />
+            <code> fld grevref v 4</code><br />
+            <code> fld grevpag t</code><br />
+            <code> fld kovrpag t</code><br />
+            <code> fld grevrem t</code><br />
+            <code> fld g040407 b</code><br />
+            <code> fld g040414 b</code><br />
+            <code> fld g040509 b</code><br />
+            <code> fld g040512 b</code><br />
+            <code> fld g040609 b</code><br />
+            <code> # </code><a href="http://kwiki.ffii.org/MlhtDbHotelsEn"><code>http://kwiki.ffii.org/MlhtDbHotelsEn</code></a><br />
+            <code> tab hotnokts uid hotel hotrm: hotnokt</code><br />
+            <code> fld hotel v 8</code><br />
+            <code> fld hotrm v 8</code><br />
+            <code> fld hotnokt d</code></p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

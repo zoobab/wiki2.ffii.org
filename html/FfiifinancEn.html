@@ -1,0 +1,150 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>FfiifinancEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: ffiifinanc; lang: en -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="crediting_and_debiting_for_ffii">Crediting and Debiting for FFII</h1>
+            <p>-&gt; [ <a href="FfiiprojPriorEn" title="wikilink">Priorities</a> | <a href="SarjiEn" title="wikilink">fundraising</a> | <a href="http://lists.ffii.org/mailman/listinfo/financ-parl/" title="wikilink">discussion mailing list</a> | <a href="http://lists.ffii.org/mailman/listinfo/financ-news/" title="wikilink">news mailing list</a> ]</p>
+            <hr />
+            <p><em>monitoring the financial situation of FFII, generating regular reports.</em></p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li><a href="Konto0510En" title="wikilink">Konto0510En</a>: accounting work for GA 2005</li>
+            </ul>
+            <h2 id="people_in_charge">People in charge</h2>
+            <ul>
+            <li>current data &amp; reporting: lacreigh, jahleff</li>
+            <li>legacy data until 2005-07: blasum</li>
+            <li>financial controllers Roland Orre and Christoph Pinkel</li>
+            <li>external accounting experts</li>
+            <li>(volunteers welcome)</li>
+            </ul>
+            <h2 id="further_documentation">Further documentation</h2>
+            <ul>
+            <li><a href="http://www.ffii.org/money/" class="uri">http://www.ffii.org/money/</a></li>
+            </ul>
+            <h2 id="database_structure">Database Structure</h2>
+            <p>Data are in the <a href="MlhtDbEn" title="wikilink">ffii database</a> in tables 'ledger' et al.</p>
+            <h3 id="tables">Tables</h3>
+            <ul>
+            <li>ledger
+            <ul>
+            <li><ul>
+            <li>id | amount | local | uid | cc | event | bookdate | settdate | voucher | ispublic | corrects | utid | rmk | budget | fix</li>
+            <li>id: transaction identifier as automatically assigned by database (used nowhere else)</li>
+            <li>amount: amount in currency (usually eur since 2002-01-01, except for paypalgb, paypalus)</li>
+            <li>local: mode of payment, using which kind of payment media (savings: savings account; giro: giro account; paypaleu: EUR bookings on paypal account; paypalgb: GBP bookings on paypal account; paypalus: USD bookings on paypal account; moneybookers: moneybookers account; dtaus: direct debit; cash: Munich cash box; eccard: Brussels cash card; ccard: credit card)</li>
+            <li>uid: ffii user id, should be referencing pnom, partially uses finaddr</li>
+            <li>cc: category/account</li>
+            <li>event: event to which transaction is related</li>
+            <li>bookdate: date at which transaction was booked</li>
+            <li>settdate: date at which transaction was settled</li>
+            <li>voucher: identifier of a piece of paper that testifies a transaction</li>
+            <li>ispublic: in case of donations, whether they can be publicised</li>
+            <li>corrects: unused?</li>
+            <li>utid: reference symbol used internally by bank</li>
+            <li>rmk: remark, either from the bank transaction's remark field or, in case of cash, from ffii accountants</li>
+            <li>budget: unused? (attempt of a second categorisation that might be needed for reporting to sponsors)</li>
+            <li>fix: &lt;0 if the receipt should be improved, else &gt;0</li>
+            <li>contactperson: where to get better documentation</li>
+            <li>contactstatus: contact status</li>
+            <li>ledger_lexware_number: number (Belegnummer) in lexware system (C Schuster import 26 Nov 2005)</li>
+            <li>ledger_lexware_numberrange: number range (Belegnummernkreis) in lexware system</li>
+            <li>printed: helper field (printed and signed by Jochen Ahleff before 18 Jan 2006)</li>
+            <li>olduid: helper field (uid before uid cleanup 23 Jan 2006)</li>
+            </ul></li>
+            </ul></li>
+            <li>ledger_addr (reduplication of pnom etc for purposes of ledger)
+            <ul>
+            <li><ul>
+            <li>uid</li>
+            <li>finpnom, finland, finplz, finurb, ...</li>
+            </ul></li>
+            </ul></li>
+            <li>ledger_balance: (redundant) balance information to check integrity of ledger data
+            <ul>
+            <li><ul>
+            <li>local: see explanation of 'local' in ledger</li>
+            <li>amount: amount in currency</li>
+            <li>date: date of balance</li>
+            </ul></li>
+            </ul></li>
+            <li>ledger_cc: 'old' (non-numeric) cost types of ledger, superseded by ledger_lexware_accountsystem
+            <ul>
+            <li><ul>
+            <li>cc category/account primary key</li>
+            <li>ccrem remark explaining this category</li>
+            <li>sign -1 if this is an expense-only category, +1 if this is an income-only category (mixing income and expenses is not ok)</li>
+            </ul></li>
+            </ul></li>
+            <li>ledger_event: 'old' (non-numeric) cost centers of ledger, superseded by ledger_lexware_costcenter</li>
+            <li>ledger_giro: numbering of giro account bookings as done by C Schuster ca 15 Nov 2005</li>
+            <li>ledger_lexware_accountsystem: four-digit account system of lexware (cost types), defined as extension/adaptation of <a href="SKR03" title="wikilink">SKR03</a> on 25 Nov 2005</li>
+            <li>ledger_lexware_book: raw lexware data reimported into database 27 Nov 2005</li>
+            <li>ledger_lexware_costcenter: four-digit cost centers, defined 25 Nov 2005</li>
+            <li>ledger_vocabulary: de/en vocabulary of some accounting terms</li>
+            </ul>
+            <h3 id="scripts">Scripts</h3>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

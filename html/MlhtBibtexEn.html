@@ -1,0 +1,92 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MlhtBibtexEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="document_metadata_mlht_and_bibtex">Document Metadata, MLHT and <a href="BibTe" title="wikilink">BibTeX</a></h1>
+            <p>--&gt; [ <a href="MlhtEn" title="wikilink">MLHT</a> | <a href="DokDataEn" title="wikilink">documents</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-08-19 phm integrates bibtex into ffii-db and mlht as part of an effort to bring the <a href="http://swpat.ffii.org/letters/cons0406/parl/ConsParl0406.en.pdf" title="wikilink">bibliographic appendix of the Urgent Appeal</a> in line with a better-crafted version written by jmaebe using !BibTeX</li>
+            </ul>
+            <h2 id="database_tables">Database Tables</h2>
+            <p>The following tables in the <a href="MlhtDbEn" title="wikilink">ffii database</a> are used for the integration:</p>
+            <ul>
+            <li>bibtyp</li>
+            <li>bibtex</li>
+            <li>biblang</li>
+            </ul>
+            <p>'bibtex' maps the short document ids used in bibtex for paper documents (field 'bib') to the longer more general document ids defined in table 'mlhtdok' (field 'dok').</p>
+            <p>The interesting metadata are found in the mlhtdok related tables. Multilingual metadata are found in 'langtxts'. For bibtex database fields, 'mlid' tags of the form 'bibauthor', 'bibtitle', 'bibpublisher' etc are used.</p>
+            <p>The field 'bibtyp' specifies a data type used in 'bibtex', such as '@techreport'. The possible types are defined in table 'bibtyp'.</p>
+            <p>Table 'biblang' is the most useful table. It specifies whether a language specific version of a 'bib' identifier is available. If it is available, applications such as mlht can specify 'vkd00en' instead of 'vkd00' (language-neutral version).</p>
+            <h2 id="bibtex_database_textfile_swpat.bib"><a href="BibTe" title="wikilink">BibTeX</a> database textfile swpat.bib</h2>
+            <p>This implies that our <a href="http://swpat.ffii.org/etc/swpat.bib" title="wikilink">swpat.bib</a> database must contain a language-neutral version for each document. We don't fear redundancy, e.g. list 'vkd00', 'vkd00en', 'vkd00nl' even though much of the content is the same.</p>
+            <p>If you want to edit swpat.bib, check out the latest version from the <a href="CvsadmEn" title="wikilink">FFII CVS archive</a> at cvs.ffii.org/var/cvs/mlht/tex/bib/swpat.bib</p>
+            <p><strong>Before committing your changes, run bibtext to prevent syntax errors!</strong></p>
+            <p>Eventually <a href="http://swpat.ffii.org/etc/swpat.bib" title="wikilink">swpat.bib</a> should be generated from the database. In this case it is more likely that we generarte a separate bib file for each language.</p>
+            <h2 id="specifying_use_of_bibtex_in_mlht">Specifying use of <a href="BibTe" title="wikilink">BibTeX</a> in MLHT</h2>
+            <p>The following entry in the <a href="http://swpat.ffii.org/letters/nodes.txt" title="wikilink">nodes</a> (mlht document metadata) file</p>
+            <p><code> style </code><a href="ConsParl0406" title="wikilink"><code>ConsParl0406</code></a><code> latex bibtex alpha swpat</code></p>
+            <p>activates bibtex with bibliography style alpha and bibliography data files swpat.bib (several could be listed here).</p>
+            <p>The generated tex files must of course contain some calls to the 'cite' macro in order for this to be of any use. There is not yet a standardised way to do this. In the future it might be conceivable to use a variant of the 'ah' function, e.g. 'ahbib', to do this. For full independence from the latex output format, it would be desirable to make the mlht/ffii database the primary source for bibliiography data. As long as this is not the case, bibliographic references can only be represented as simple links in the html version.</p>
+            <p>The nodes (mlht document metadata) file entries will, needles to say, also be moved to the mlht/ffii database.</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

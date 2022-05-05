@@ -1,0 +1,358 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>KwikiFormattingRules</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <p>This page describes the wiki markup language used by this kwiki.</p>
+            <p>Topics are:</p>
+            <ul>
+            <li>Headlines (Levels H1 trough H6)</li>
+            <li>Horizontal Lines</li>
+            <li>Paragraphs</li>
+            <li>Character Styles:
+            <ul>
+            <li><ul>
+            <li>Bold</li>
+            <li>Italic</li>
+            <li>Underscored</li>
+            <li>Style Combinations</li>
+            <li>Inline Code Style</li>
+            <li>Preformatted Text</li>
+            <li>Invisible Comments</li>
+            </ul></li>
+            </ul></li>
+            <li>Links
+            <ul>
+            <li><ul>
+            <li>Wiki Links</li>
+            <li>Forced Wiki Links</li>
+            <li>Internal Named (!http:?) Links</li>
+            <li>External Unnamed (!http://) Links</li>
+            <li>External Named (!http://) Links</li>
+            <li>External Named Nested i.e. Multiple (!http://) Links</li>
+            <li>Inline Images</li>
+            <li>Embedded Mail Addresses</li>
+            </ul></li>
+            </ul></li>
+            <li>Topic Lists
+            <ul>
+            <li><ul>
+            <li>Dotted (Unordered)</li>
+            <li>Numbered (Ordered)</li>
+            <li>Mixed Dotted and Numbered</li>
+            </ul></li>
+            </ul></li>
+            <li>Tables
+            <ul>
+            <li><ul>
+            <li>Simple Style</li>
+            <li>Multiline Style</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <hr />
+            <h1 id="level_1_heading_h1">Level 1 Heading (H1)</h1>
+            <p><code> = Level 1 Heading (H1)</code></p>
+            <h2 id="level_2_heading_h2">Level 2 Heading (H2)</h2>
+            <p><code> == Level 2 Heading (H2)</code></p>
+            <h3 id="level_3_heading_h3">Level 3 Heading (H3)</h3>
+            <p><code> === Level 3 Heading (H3)</code></p>
+            <h4 id="level_4_heading_h4">Level 4 Heading (H4)</h4>
+            <p><code> ==== Level 4 Heading (H4)</code></p>
+            <h5 id="level_5_heading_h5">Level 5 Heading (H5)</h5>
+            <p><code> ===== Level 5 Heading (H5)</code></p>
+            <h6 id="level_6_heading_h6">Level 6 Heading (H6)</h6>
+            <p><code> ====== Level 6 Heading (H6)</code></p>
+            <p>Trailing "=" characters will get ignored on headlines</p>
+            <hr />
+            <p>The horizontal lines in this page are made with 4 or more dashes:</p>
+            <p><code> ----</code></p>
+            <hr />
+            <p>Paragraphs are separated by a blank line.</p>
+            <p>Like this. Another paragraph.</p>
+            <p><code> Paragraphs are separated by a blank line.</code></p>
+            <p><code> Like this. Another paragraph.</code></p>
+            <hr />
+            <p><strong>Bold text</strong>, <em>italic text</em>, and __underscore text__.</p>
+            <p><code> </code><strong><code>Bold`` ``text</code></strong><code>, </code><em><code>italic`` ``text</code></em><code>, and __underscore text__.</code></p>
+            <p><em>*Combination of bold and italics*</em></p>
+            <p><code> </code><em><code>*Combination`` ``of`` ``bold`` ``and`` ``italics*</code></em></p>
+            <p><em>_Combination of italics and underscore_</em></p>
+            <p><code> </code><em><code>_Combination`` ``of`` ``italics`` ``and`` ``underscore_</code></em></p>
+            <p><strong>_Combination of bold and underscore_</strong></p>
+            <p><code> </code><strong><code>_Combination`` ``of`` ``bold`` ``and`` ``underscore_</code></strong></p>
+            <p><em>*_Combination of bold, italics, and underscore_*</em></p>
+            <p><code> </code><em><code>*_Combination`` ``of`` ``bold,`` ``italics,`` ``and`` ``underscore_*</code></em></p>
+            <p>These "bold, italics and underscore" text attributes are rendered invalid by separating them through line breaks, i.e. insertion of CR (carriage return); in other words, they are valid only within a single line.</p>
+            <p>Inline code like [=/etc/passwd] or [=CGI::Kwiki]</p>
+            <p><code> Inline code like [=/etc/passwd] or [=CGI::Kwiki]</code></p>
+            <hr />
+            <p>Any text that does not begin in the first column is rendered as preformatted (or plain i.e. NOT using format rules) text.</p>
+            <p><code>     foo   bar</code><br />
+            <code>      x     y</code><br />
+            <code>      1     2</code></p>
+            <p>Please make sure that you do use enough line breaks, else you will get a really long line that might lead to inlined horizontal scrollbars.</p>
+            <p><code> Please make sure that you do use enough line breaks, else you will get a really long line that might lead to inlined horizontal scrollbars.</code></p>
+            <hr />
+            <p>You can comment out wiki-text with '#' at the beginning of a line. This will make the text an html comment:</p>
+            <ol type="1">
+            <li><ol type="1">
+            <li>These lines have been</li>
+            <li>commented out</li>
+            </ol></li>
+            </ol>
+            <p><code> # These lines have been</code><br />
+            <code> # commented out</code></p>
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- This line is a comment! -*-</li>
+            </ol></li>
+            </ol>
+            <p><code> # -*- This line is a comment!  -*-</code></p>
+            <hr />
+            <p>WikiLinks are formed by two or more words in <em>camel-case</em>, whereby <em>camel case</em> designates words created by smashing together capitalized words: !PeopleConsiderThisAnExample.</p>
+            <p><code> </code><a href="WikiLinks" title="wikilink"><code>WikiLinks</code></a><code> are formed by two or more words in </code><em><code>camel-case</code></em><code>, whereby </code><em><code>camel-case</code></em><code> designates</code><br />
+            <code> words created by smashing together capitalized words: !PeopleConsiderThisAnExample.</code></p>
+            <p>If sometimes camel-case words !ShouldNotMakeAWikiLink then put '!' before it (see above!).</p>
+            <p><code> If sometimes camel-case words !ShouldNotMakeAWikiLink then put '!' before it.</code></p>
+            <hr />
+            <p>Forced wiki [links] are an alphanumeric string surrounded by square brackets.</p>
+            <p><code> Forced wiki [links] are an alphanumeric string surrounded by square brackets.</code></p>
+            <p>Remark: "pink" color and question mark appear because of the NON-existence (i.e. having NO content) of the linked page!</p>
+            <hr />
+            <p>Internal named <a href="WikiLinks" title="wikilink">WikiLinks</a> are enclosed in square brackets, beginning with or surrounded by linkname, followed by !http:? and its !WikiLink name, such as <a href="ThisIsAnInternalLink_Link" title="wikilink">Named Internal</a>. BTW http:? is always referring to the root directory of the Wiki site. Try a click!</p>
+            <p><code> Internal named </code><a href="WikiLinks" title="wikilink"><code>WikiLinks</code></a><code> are enclosed in square brackets, beginning with linkname, followed by !http:? </code><br />
+            <code> and its !WikiLink name, such as </code><a href="ThisIsAnInternalLink_Link" title="wikilink"><code>``Named`` ``Internal</code></a><code>. BTW http:? is always</code><br />
+            <code> referring to the root directory of the Wiki site. Try a click!</code></p>
+            <hr />
+            <p>External unnamed (http) links begin with <a href="http://" class="uri">http://</a>, like <a href="http://www.freepan.org" class="uri">http://www.freepan.org</a>.</p>
+            <p><code> External unnamed (http) links begin with </code><a href="http://"><code>http://</code></a><code>, like </code><a href="http://www.freepan.org"><code>http://www.freepan.org</code></a><code>.</code></p>
+            <p>External named (http) links have text enclosed in square brackets with an <a href="http://" class="uri">http://</a> link inside, like <a href="http://www.freepan.org" title="wikilink">Site FreePAN</a>.</p>
+            <p><code> External named (http) links have text enclosed in square brackets with an </code><a href="http://"><code>http://</code></a><code> link inside,</code><br />
+            <code> like </code><a href="http://www.freepan.org" title="wikilink"><code>Site`` ``FreePAN</code></a><code>.</code></p>
+            <hr />
+            <p>External nested links with multiple internal <a href="http://" class="uri">http://</a> references inside their URL shall NOT use ASCII-characters but ASCII-codes instead for all but the first "://" expression, i.e !URLs like <a href="http://www.example.info/.../gf_call.jsp?SiteID=1&amp;url=http://mail.example.info" title="wikilink">EXAMPLE</a>, here incorrectly written as</p>
+            <p><code> </code><a href="http://www.example.info/.../gf_call.jsp?SiteID=1&amp;url=http://mail.example.info" title="wikilink"><code>EXAMPLE</code></a></p>
+            <p>(the last part of said URL =&gt; "<a href="http://mail.example.info" class="uri">http://mail.example.info</a>" is missing here, i.e. is NOT shown! - BUT, to make it clear: besides the word EXAMPLE the whole URL-stuff shouldn't show up, it is only viewable as an arte fact because of a misinterpretation of the formatting rules for multiple "<a href="http://" class="uri">http://</a>" terms) - therefore these "://" expressions have thus to be written as "%3A%2F%2F" within all following (but the first, which is needed) <a href="http://" class="uri">http://</a> designations - e.g. (a correctly formed example link only, which is NOT functional however!)</p>
+            <p><code> </code><a href="http://www.example.info/.../gf_call.jsp?SiteID=1&amp;url=http%3A%2F%2Fmail.example.info" title="wikilink"><code>EXAMPLE</code></a><code>.</code></p>
+            <p>resulting in this correctly formatted "named http link": <a href="http://www.example.info/.../gf_call.jsp?SiteID=1&amp;url=http%3A%2F%2Fmail.example.info" title="wikilink">EXAMPLE</a>.</p>
+            <p>If sometimes internal or external links should not link, like !http:?!FooBarCom or !http://foobar.com, then put '!' before it.</p>
+            <p><code> If sometimes internal or external links should not link, like !http:?!FooBarCom or !http://foobar.com,</code><br />
+            <code> then put '!' before it.</code></p>
+            <hr />
+            <p>Links to images display the image:</p>
+            <p></p>
+            <p>User question: <em>Can I put a link behind the image (make the image a link)? phpwiki can do this easily.</em> <em>I have tried a few combinations (named links, HTML) and failed to get the desired result.</em></p>
+            <p>Answer: HTML cannot work because &lt; and &gt; are internally converted to "&amp; lt ;" and "&amp; gt ;" metas.</p>
+            <p><code> HTML cannot work because &lt; and &gt; are internally converted </code><br />
+            <code> to "&amp; lt ;" and "&amp; gt ;"  metas.</code></p>
+            <hr />
+            <p>Mailto links are just email addresses like foo@bar.com. The mailto: is automagically added.</p>
+            <p><code> Mailto links are just email addresses like foo@bar.com.</code><br />
+            <code> The mailto: is automagically added.</code></p>
+            <hr />
+            <p>Dotted lists (also named Unordered lists) begin with '*' (asterisk):</p>
+            <ul>
+            <li>foo</li>
+            <li>bar
+            <ul>
+            <li><ul>
+            <li>boom</li>
+            <li>bam</li>
+            </ul></li>
+            </ul></li>
+            <li>baz</li>
+            </ul>
+            <p>The number of asterisks determines the level!</p>
+            <ul>
+            <li><ul>
+            <li>foo</li>
+            <li>bar
+            <ul>
+            <li>boom</li>
+            <li>bam</li>
+            </ul></li>
+            <li>baz</li>
+            </ul></li>
+            </ul>
+            <hr />
+            <p>Numbered lists (also named Ordered lists) begin with '0' (zero):</p>
+            <ol type="1">
+            <li>foo</li>
+            <li>bar</li>
+            </ol>
+            <p>00 boom 00 bam</p>
+            <ol type="1">
+            <li>baz</li>
+            </ol>
+            <p><code> 0 foo</code><br />
+            <code> 0 bar</code><br />
+            <code> 00 boom</code><br />
+            <code> 00 bam</code><br />
+            <code> 0 baz</code></p>
+            <hr />
+            <p>Dotted and Numbered lists can also be mixed:</p>
+            <ul>
+            <li>Today:</li>
+            </ul>
+            <p>00 Eat ice cream 00 Buy a pony</p>
+            <ul>
+            <li>Tomorrow:</li>
+            </ul>
+            <p>00 Eat more ice cream 00 Buy another pony</p>
+            <ul>
+            <li><ul>
+            <li>Today:</li>
+            </ul></li>
+            </ul>
+            <p><code> 00 Eat ice cream</code><br />
+            <code> 00 Buy a pony</code></p>
+            <ul>
+            <li><ul>
+            <li>Tomorrow:</li>
+            </ul></li>
+            </ul>
+            <p><code> 00 Eat more ice cream</code><br />
+            <code> 00 Buy another pony</code></p>
+            <p>Sample with mixing reverted:</p>
+            <ol type="1">
+            <li>Today:</li>
+            </ol>
+            <ul>
+            <li><ul>
+            <li>Eat ice cream</li>
+            <li>Buy a pony</li>
+            </ul></li>
+            </ul>
+            <ol type="1">
+            <li>Tomorrow:</li>
+            </ol>
+            <ul>
+            <li><ul>
+            <li>Eat more ice cream</li>
+            <li>Buy another pony</li>
+            </ul></li>
+            </ul>
+            <p><code> 0 Today:</code></p>
+            <ul>
+            <li><ul>
+            <li>Eat ice cream</li>
+            <li>Buy a pony</li>
+            </ul></li>
+            </ul>
+            <p><code> 0 Tomorrow:</code></p>
+            <ul>
+            <li><ul>
+            <li>Eat more ice cream</li>
+            <li>Buy another pony</li>
+            </ul></li>
+            </ul>
+            <hr />
+            <p>Simple Tables:</p>
+            <p>using condensed writing: || || Dick || Jane || || height || 72" || 65" || || weight || 130lbs || 150lbs ||</p>
+            <p><code> ||Dick|Jane|</code><br />
+            <code> |height|72"|65"|</code><br />
+            <code> |weight|130lbs|150lbs|</code></p>
+            <p>using wide writing: | | Dick | Jane | | height | 72" | 65" | | weight | 130lbs | 150lbs |</p>
+            <p><code> |        | Dick   | Jane |</code><br />
+            <code> | height | 72"    | 65"  |</code><br />
+            <code> | weight | 130lbs | 150lbs |</code></p>
+            <p>As you can see, there is no difference in result so it is up to you how the source gets designed. The wiki always uses a font with a fixed character width for the text in the table.</p>
+            <hr />
+            <p>Tables with multiline or complex data: | &lt;&lt;END | &lt;&lt;END | This data has vertical | bars | END</p>
+            <ol type="1">
+            <li><ol type="1">
+            <li>This is some Perl code:</li>
+            </ol></li>
+            </ol>
+            <p>sub foo {</p>
+            <p><code>   print "I want a kwiki!\n"</code></p>
+            <p>} END | foo | &lt;&lt;MSG | As you can see we use the Perl heredoc syntax. MSG</p>
+            <p><code> | &lt;&lt;END | &lt;&lt;END |</code><br />
+            <code> This data has vertical | bars |</code><br />
+            <code> END</code><br />
+            <code> # This is some Perl code:</code><br />
+            <code> sub foo {</code><br />
+            <code>     print "I want a kwiki!\n"</code><br />
+            <code> }</code><br />
+            <code> END</code><br />
+            <code> | foo | &lt;&lt;MSG |</code><br />
+            <code> As you can see we use</code><br />
+            <code> the Perl heredoc syntax.</code><br />
+            <code> MSG</code></p>
+            <p>As you can see the multiline members will get emphasized as if they were encoded with the Preformatted Text method (see above!).</p>
+            <p>For people that arent that familiar with Perl or similar, here is a more detailed explanation. The basic table structure is this:</p>
+            <p><code> | &lt;&lt;END | &lt;&lt;END |</code><br />
+            <code> | foo | &lt;&lt;MSG |</code></p>
+            <p>It is a 2x2 matrix with the word "foo" in the lower left part.</p>
+            <p>In the other parts you will find three free form keywords that do start with the characters "&lt;&lt;". In order of appearence on the line there has to be the body text for this field of the table. The end of each body text is marked with the formerly used keyword on the beginning of a single line.</p>
+            <p>The content for the upper left field is therefore specified by:</p>
+            <p><code> This data has vertical | bars |</code><br />
+            <code> END</code></p>
+            <p>The content for the upper right field is therefore specified by:</p>
+            <p><code> # This is some Perl code:</code><br />
+            <code> sub foo {</code><br />
+            <code>     print "I want a kwiki!\n"</code><br />
+            <code> }</code></p>
+            <p>The content for the lower right field is therefore specified by:</p>
+            <p><code> As you can see we use</code><br />
+            <code> the Perl heredoc syntax.</code><br />
+            <code> MSG</code></p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

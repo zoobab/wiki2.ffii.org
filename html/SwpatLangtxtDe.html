@@ -1,0 +1,173 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>SwpatLangtxtDe</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <p>---&gt; [ <a href="SwpatLangtxtEn" title="wikilink">SwpatLangtxtEn</a> - english version]</p>
+            <hr />
+            <h1 id="bedienung_des_übersetzungssystems_kurz_und_knapp">Bedienung des Übersetzungssystems "kurz und knapp"</h1>
+            <p>Versuch einer kurzen geschlossenen Darstellung für Neueinsteiger, wie das Gesamtsystem bedient wird:</p>
+            <ul>
+            <li>Account auf aktiv.ffii.org besorgen, der ist später für das Mailinterface zum Einstellen der Änderungen nötig.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Zu bearbeitende Seite aussuchen.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Bei Neuübersetzung (Zielsprache existiert noch nicht): Quellsprache auswählen, oben das "TXT"-Icon anklicken =&gt; Der Seitenquelltext erscheint. Ich lade die Datei immer mit "wget" direkt herunter, indem ich das Linkziel kopiere und direkt dem wget als Parameter gebe. Die Datei hat immer die Endung ".txl".</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Bei Übersetzungsnachpflege (Zielsprache existiert bereits, ist aber falsch/unvollständig): Zielsprache auswählen, dort "TXT" drücken bzw. Link per wget herunterladen.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Die ".txl"-Datei ist immer UTF-8-kodiert. Ggf. vor der Bearbeitung in einem Editor umkodieren, z.B. mit "recode utf-8..latin1 XXX.txl"</li>
+            </ul>
+            <h1 id="erklärung_des_formats">Erklärung des Formats</h1>
+            <p>Die Datei ist absatzweise organisiert. Im HTML-Quelltext stehen für jeden Textteil nur Platzhalter, sowas wie "Tjz" oder "oOs", die Namen sind mehr oder weniger zufällig. Diese Platzhalter finden sich in der txl-Datei immer am Anfang eines Absatzes, gefolgt von einem Doppelpunkt. Dahinter steht dann der Text, der tatsächlich später in der landessprachlichen Version der Seite stehen soll. Dieser Text muss also einfach ersetzt werden.</p>
+            <p>In der vom Server heruntergeholten txl-Datei ist jeder Absatz in einer einzigen (teilweise sehr langen) Zeile. Diese Zeile darf beliebig umgebrochen werden, solange die Klammerkonstrukte "%(...)" in einer Zeile bleiben. Vor dem nächsten Absatz muss laut Doku eine Leerzeile stehen, daran erkennt der Prozessor, dass ein neuer Absatz anfängt. Zumindest meine Erfahrung ist aber, dass jede Zeile, die mit "Wort-Doppelpunkt" anfängt, als Absatzstart gewertet wird. Neben den Leerzeilen sollte man also auch darauf achten, dass in keiner Zeile mitten im Absatz das erste Wort sofort von einem Doppelpunkt gefolgt wird.</p>
+            <p>Kommentierte Zeilen beginnen mit "#". Für alle bearbeiteten Absätze muss dieses Doppelkreuz entfernt werden. Für alle anderen sollte das nicht passieren. Achtung: Wenn ein Absatz auf mehrere Zeilen aufgeteilt wird und dann trotzdem nicht beachtet werden soll, muss __jeder__ Zeile ein "#" vorangestellt werden.</p>
+            <h1 id="eigentliche_arbeit_an_der_datei">Eigentliche Arbeit an der Datei</h1>
+            <ul>
+            <li>WICHTIG - Bei Neu-Übersetzung: Die Sprache der Datei muss als <strong>allererstes</strong> auf die <strong>Zielsprache</strong> geändert werden - wird es vergessen <strong>überschreibt</strong> man die Ausgangssprache mit den Übersetzungen!!!</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Auskommentieren der Stellen die man übersetzen möchte und Löschen der Zeilen die man für diese Mail nicht übersetzen möchte</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Übersetzen der Zeilen die noch übrig sind und löschen von Zeilen die man jetzt doch nicht übersetzen kann</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Wenn die Übersetzung fertig ist, in den Footer (also die Zeilen ganz unten) Accountname und Passwort vom aktiv.ffii.org-Account eintragen. Dann das Dokument wie beschrieben per Mail an den Prozessor schicken. Ich lasse dabei immer die ISO-Latin-1-Kodierung und ändere die entsprechenden Angaben im Dokument. Wichtig (und entscheidend) ist aber insbesondere die Kodierungsangabe im Subject der Mail.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Der Prozessor sollte eine Bestätigungsmail schicken, wenn die Datei bearbeitet wurde.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Etwa 15 Minuten später sollte die neue Version auf ffii.org erscheinen.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Wenn nach der Ersteinstellung weitere Änderungen am Dokument folgen, sollte __immer__ wieder eine frische txl-Datei vom Server geholt werden. Sonst gehen eventuell die Änderungen von anderen Mitarbeitern verloren. Ausnahme ist natürlich, wenn man weiß, dass man allein am Dokument arbeitet und innerhalb eines Übersetzungsdurchganges bereits Zwischenergebnisse verfügbar machen will.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li>Zur Koordination der Übersetzer untereinander (damit nicht mehrere dieselbe Arbeit gleichzeitig machen) bietet sich die traduk-Mailingliste an. Leider hat sich aber meines Wissens noch kein Konsens darüber entwickelt.</li>
+            </ul>
+            <hr />
+            <h2 id="senden_mit_e_mail_programm">Senden mit E-Mail-Programm</h2>
+            <p>z.B. MS-Outlook unter Windows:</p>
+            <p><code>An/To: mlhtimport at ffii.de</code><br />
+            <code>Betreff/Subject: coding: iso-8859-1</code><br />
+            <code>Nachrichtentext/Body: &lt;Die Zeilen der neuen Version incl. Sprach-Code.&gt;</code></p>
+            <p>Sie können (vermutlich) keine Attachments verwenden, weil sie damit das richtige Encoding nicht sicherstellen können!</p>
+            <p>Die Angabe der Codierung muss im Titel stehen, weil dies die einzige uncodierte Zeile ist. Ist der Fussteil zum Beispiel in 16 bittigem UTF-16, so kann eine entsprechende Optionszeile im Nachrichtentext schon rein prinzipiell nicht dekodiert werden.</p>
+            <h3 id="spezielle_tips_für_ms_outlook_express_6.0">Spezielle Tips für MS-Outlook-Express 6.0</h3>
+            <p>MS-Outlook-Express 6.0 bietet bei neuen E-Mails die Option das Format zu ändern. Dabei ist z.B. Westeuropäisch (ISO = iso-8859-1) voreingestellt. In den erweiterten Einträgen findet sich auch ein Eintrag Unicode (UTF-8). Wenn sie die Codierung umgestellt haben, dann erscheint ein Vermerk "(UTF-8)" am Ende der Kopfzeile ihres Mail-Fensters. Sie können sich eine derart konfigurierte Mail auch als Template, z.B. auf den Desktop, abspeichern. Verwenden sie hierzu "Speichern unter".</p>
+            <p>MS-OE kann so konfiguriert werden, dass es die Zeilen für gesendete Mails bis zu einer grössten Länge von 132 umbricht. Versuchen sie diesen Wert auf das Maximum zu setzen und benutzen sie so viele manuelle Zeilenumbrüche wie nötig vor und nach einem %(...) Konstrukt. Viel Glück, damit sie niemals ein Statement verwenden müssen, das eine Länge von 132 Zeichen übersteigt.</p>
+            <h3 id="commandline_recoding_tool_for_windows">Commandline Recoding Tool for Windows</h3>
+            <p>Auf der Homepage des freien universellen Packprogramms 7zip findet sich das kleine Kommandozeilenprogramm <a href="http://www.7-zip.org/dl/utils/ct100zip" title="wikilink">Convert Text 1.00</a> zum Download. Seine Beschreibung kann man Online auf der Links-&gt;Utils Seite der <a href="http://www.7-zip.org" title="wikilink">7zip Homepage</a> nachlesen.</p>
+            <hr />
+            <p>Setzen sie Name und Passwort in den Optionen ihres Textes. Die zugehörigen Accounts werden unter <a href="http://aktiv.ffii.org" class="uri">http://aktiv.ffii.org</a> eingerichtet.</p>
+            <hr />
+            <p>Grosses Achtung:</p>
+            <p>Wenn sie Klammern öffnen, dann schliessen sie diese unbedingt wieder. Dies kann die Übersetzung ihres Beitrags zum Abbruch bringen - sie erhalten derzeit(!) aus technischen Gründen leider keine Rückmeldung des Dienstes.</p>
+            <hr />
+            <h2 id="faq">FAQ</h2>
+            <p>Fragen:</p>
+            <ul>
+            <li>1. Bekommt man eine Bestätigung oder einen Reject vom Service?</li>
+            <li>2. Sind die #-Zeichen und das Leerzeichen bei den Optionen auch wichtig?</li>
+            <li>3. Welche Optionen sollte man unbedingt im Text haben? Welche soll man weglassen?</li>
+            <li>4. Ist die HTML-Kopfzeile wichtig oder nicht?</li>
+            </ul>
+            <p>Antworten:</p>
+            <ul>
+            <li>1. Ja, aber nur wenn die Software ohne Absturz über die Datei läuft.</li>
+            </ul>
+            <p>Beispiel:</p>
+            <p><code>From: mlhtimport at ffii.de</code><br />
+            <code>Subject: compilation result</code><br />
+            <code>Records title, sWW, ror and lpi were successfully imported into the database.</code><br />
+            <code>Document cecms040202 was recompiled successfully in languages en and de.</code></p>
+            <p>Anzumerken ist hierbei, dass sowohl die gänderte Seite (de) gemeldet wird, wie auch Seiten die davon abhängig sind (en), hier weil dies eine neue Seite ist und der entsprechende Link mit der Flagge noch nicht existiert hat.</p>
+            <ul>
+            <li>2. Wichtig ist das führende # + Leer, sowie der abschlieessende Strichpunkt.</li>
+            <li>3. Kopieren sie alle Optionen, ändern sie Name, Passwort und (wichtig!) bei Bedarf die Sprache. Das Ziel-Encoding wird derzeit per Server-Einstellung auf utf-8 fixiert und sollte generell auch nicht geändert werden.</li>
+            <li>4. Die HTML-Kopfzeile ist offenbar nicht wichtig, oder stört möglicherweise sogar die Bearbeitung. Lassen sie diese besser weg.</li>
+            </ul>
+            <hr />
+            <h3 id="fehler_des_mlhtimport_dienstes_und_des_txl_datei_generators">Fehler des mlhtimport Dienstes und des txl Datei Generators:</h3>
+            <ul>
+            <li>Es gibt keine Antwort bei einem falschem Passwort, die Mail wird ignoriert.</li>
+            <li>Wenn sie eine txl Datei über das web-Interface (welches Web-Interface?) erhalten, dann werden (...) nicht immer in %(pe:...) stil umcodiert.</li>
+            <li>Wenn ihre E-Mail Software die Zeilen umbricht, und zwar zwischen einem %(...) Ausdruck, dann könnte ihr Beitrag ohne weitere Nachricht schief gehen</li>
+            <li>Wenn ihre gesendete E-Mail Kommentar-Zeilen mit ( oder ) enthält und diese Zeile umgebrochen wird dass die Zeichen auf eigene Zeilen gelangen, dann könnte es passieren, das ihr Beitrag ohne Meldung vom Server fehlschlägt.</li>
+            <li>Wenn sie ihre Sprache neu erstellen, dann kann es vorkommen, dass sie die mlhtimport Bestätigung in einer völlig anderen Sprache erhalten. Wurde z.B. die Webseite für de, en und fr gändert - so wundern sie sich bitte nicht, wenn die E-Mail-Antwort ggf. in Englisch oder Französisch verfasst ist.</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

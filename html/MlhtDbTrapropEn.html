@@ -1,0 +1,105 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MlhtDbTrapropEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="registering_language_specific_document_information_in_database_table_traprop">Registering language-specific document information in database table TRAPROP</h1>
+            <p>--&gt; [ <a href="MlhtEn" title="wikilink">MLHT</a> | <a href="MlhtDbEn" title="wikilink">MLHT database</a> | <a href="SwpatLangtxtEn" title="wikilink">Translation Managment</a> | <a href="DokDataEn" title="wikilink">Document Metadata</a> | <a href="MlhtDbDokpropEn" title="wikilink">dokprop</a> | <a href="MlhtDbFmtpropEn" title="wikilink">fmtprop</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-07-17 table traprop created and used as primary data by MLHT</li>
+            </ul>
+            <h2 id="outline">Outline</h2>
+            <p>By registering a the translator (tradprop.trauid), this translator becomes authoritative and translations he sends will be recompiled. If somebody else sends a translation for this page, the translation is ignored.</p>
+            <p>The table contains the following fields</p>
+            <ul>
+            <li>DOK: document id</li>
+            <li>LANG: language</li>
+            <li>PRELANG: preceding language (used to determine position in sequence of languages)</li>
+            <li>TRAUID: translator <a href="FfiiUidEn" title="wikilink">user id</a></li>
+            <li>TRADAT: date of translation</li>
+            <li>TRAVERS: version of translation: 8-digit integer, 1.3.55 translates to 1003055. refers to DOKVERS field of dokprop table</li>
+            </ul>
+            <p>Whishlist:</p>
+            <ul>
+            <li>Multible translators for a page?</li>
+            </ul>
+            <h2 id="updates_for_this_table">Updates for this table:</h2>
+            <ul>
+            <li>currently:
+            <ul>
+            <li><ul>
+            <li>via direct db access</li>
+            <li>via nodes.txt configuration files on Hartmut's machine at a2e.de</li>
+            </ul></li>
+            </ul></li>
+            <li>in the future maybe also:
+            <ul>
+            <li><ul>
+            <li>via <a href="AktivEn" title="wikilink">aktiv</a> and <a href="KnechtEn" title="wikilink">knecht</a></li>
+            <li>by a web-based psql editing tool ?</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <h2 id="examples">Examples</h2>
+            <p>Example to get the list of authoritative translators for the page swpatnitcu in German:</p>
+            <p><code>select trauid from traprop where dok = 'swpatnitcu' and lang = 'de' ;</code></p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

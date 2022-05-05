@@ -1,0 +1,193 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MlhtImportEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="MlhtImport" title="wikilink">MlhtImport</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            <li>datum: 2005-03-25</li>
+            </ol></li>
+            </ol>
+            <h1 id="mlht_translation_import_system_on_genba.ffii.org">MLHT translation import system on genba.ffii.org</h1>
+            <p>-&gt; [ <a href="MlhtImportUrlwatchEn" title="wikilink">mlhtimport &amp; urlwatch</a> | <a href="MlhtEn" title="wikilink">MLHT</a> | <a href="SwpatLangtxtEn" title="wikilink">Translation Managment</a> | <a href="http://lists.ffii.org/mailman/listinfo/traduk-parl/" title="wikilink">Mailing List</a> | <a href="GenbaEn" title="wikilink">genba</a> | <a href="FfiiprojNewsEn" title="wikilink">Project News</a> ]</p>
+            <hr />
+            <p><em>How to make sure that translations sent in to mlhtimport at ffii org are automatically processed and corresponding web pages show up shortly thereafter. Keeping the mlht-import emacs process running on genba.</em></p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2005-03-25 <a href="Traduk050325En" title="wikilink">phm adds safeguards against overwriting, notion of responsible translator, notification of who worked on the text</a></li>
+            <li>2005-01-11 phm adds <a href="MlhtImportGpgEn" title="wikilink">password check and PGP/GPG encryption support</a></li>
+            <li>2004-10-16 phm stops and restarts the mlht import process after minor improvements</li>
+            <li>2004-09-24 phm deletes outdated *-basis.el files in $SEL/mlht/init/. The valid versions are in $SEL/mlht/bas/ and had been covered by the outdated ones. This had made the system break on startup.</li>
+            <li>2004-09-24 phm adds instructions on how to detach the mlht import process from the initiating user's terminal.</li>
+            <li>2004-09 phm fixes bugs and greatly improves mlht. The database becomes the primary source for almost everything. Czech and Polish output using html and latex is perfectioned.</li>
+            <li>2004-08-29 phm adds local-variable syntax 'fmts: null' which allows sending text chunks to the database without recompiling and without becoming a translator for the whole document (useful e.g. for merely adding metadata to a document that will then appear when cited in another document)</li>
+            <li>2004-08-29 phm makes system largely independent of nodes.txt files, fixes various bugs</li>
+            <li>2004-08-26 phm makes system fold lines in txl files (after complaints from people working with bad editors)</li>
+            <li>2004-08-22 phm &amp; bkaindl make mlht import system run on <a href="GenbaEn" title="wikilink">genba</a> under user knecht</li>
+            <li>2004-08-11 import system breaks on a2e.de machine during phm's absence of 1 week, translation of Urgent Call stalls</li>
+            <li>2003 The mlht system accepts translations</li>
+            </ul>
+            <h2 id="how_to_tell_the_system_to_produce_a_new_page">How to tell the system to produce a new page</h2>
+            <ul>
+            <li>send translated source text to mlhtimport at ffii org, see <a href="SwpatLangtxtEn" title="wikilink">translation system</a>
+            <ul>
+            <li><ul>
+            <li>the source text causes a recompilation of the page from current data even if it does not contain any (new) translated lines.</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <h2 id="how_to_watch_and_meddle_with_the_running_system_on_genba">How to watch (and meddle with) the running system on genba</h2>
+            <ul>
+            <li>log in as user knecht</li>
+            <li>say 'screen -x'
+            <ul>
+            <li><ul>
+            <li>If several screen processes are running, you will be offered a choice and then have to retype 'screen -x &lt;process-number.label&gt;'</li>
+            <li>To get an overview of running knecht screen processes, it may help to type</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <p><code>    * ps aux | grep screen</code><br />
+                * ps ``<process-number></p>
+            <ul>
+            <li><ul>
+            <li>If no screen process is running, start one yourself, see instructions below.</li>
+            <li>Detach the screen process from your user terminal by typing 'C-z d' within the screen/emacs process. This should put you back to the shell environmennt of user knecht.</li>
+            </ul></li>
+            </ul>
+            <h2 id="how_to_keep_the_mlht_import_system_running_on_genba.ffii.org">How to keep the mlht import system running on genba.ffii.org</h2>
+            <ol type="1">
+            <li>log in as user Knecht, consult <a href="KnechtPassEn" title="wikilink">KnechtPassEn</a> or ask knecht-help for password</li>
+            <li>display the shell variable $SEL (say 'echo $SEL'). If it isn't set, say 'source .bashrc'</li>
+            <li>invoke 'ssh-agent bash;ssh-add' and type in the ssh passphrase. Ask knecht-help for ssh passphrase.</li>
+            </ol>
+            <ul>
+            <li><ul>
+            <li>Note: The ssh passphrase is needed to ensure that the mlht import process can fetch the latest sources from the cvs archive. This is not an ideal solution, given that the latest cvs sources may be erroneous. In the long run it would be better to regularly check the cvs-tree and download only validated sources. This checking and downloading should be detached from the mlht import process and performed by a cronjob.</li>
+            </ul></li>
+            </ul>
+            <ol type="1">
+            <li>invoke 'screen -e ^Zz -S mlht'</li>
+            <li>say 'cd $SEL/mlht/sys;cvs update mlht.el'; This must work automatically. If you encounter a 'ssh' prompt, interrupt, say 'ssh-add', enter ssh passphrase (see above) and try once more.</li>
+            <li>invoke 'emacs -nw -T mlht'</li>
+            <li>everything should be running now. You should be able to access the emacs interaction from another terminal by logging in and typing 'screen -x'</li>
+            <li>detach the screen process from your user terminal by typing 'C-z d' within the screen/emacs process. This should put you back to the shell environmennt of user knecht.</li>
+            </ol>
+            <ul>
+            <li><ul>
+            <li>you can also detach the screen process from the shell side, by saying 'screen -d' within the shell.</li>
+            </ul></li>
+            </ul>
+            <p><code>    * in case several screen processes are operated by user 'knecht', the command will fail you will be asked to specify which process you want to detach by adding one of several proposed process identifiers. Retype the command 'screen -d &lt;process-number.label&gt;'.</code></p>
+            <h2 id="bugs_limitations">Bugs, Limitations</h2>
+            <ul>
+            <li>the mail processing script expects perfect text files sent as mail bodies. A <a href="MlhtImportUrlwatchEn" title="wikilink">more tolerant script by Gilles Sadowski</a> not yet deployed.</li>
+            <li>the emacs system does not display multibyte characters correctly within a screen/xterm based system, no matter how well this system supports utf-8. However
+            <ul>
+            <li><ul>
+            <li>the emacs system does process utf-8 multibyte characters correctly</li>
+            <li>the characters can be displayed when the system starts its own x window (this however is not useful for collaboration on genba)</li>
+            <li>On genba, it is advisable to open files that contain multibyte characters (including 'mlht.el') as read-only (M-x find-file-read-only = C-x C-r)</li>
+            </ul></li>
+            </ul></li>
+            <li>On some terminals and under some conditions the 'screen' program performs poorly. E.g. it can happen that the real and apparent cursor locations differ or that the bottom bar is not visible. In the former case it is best to log out of your shell and start from scratch. In the latter, it may help to set your display to "full-screen" (e.g. in settings menu of 'konsole').</li>
+            </ul>
+            <h2 id="components_of_the_system">Components of the system</h2>
+            <ul>
+            <li>Emacs Lisp programs at /usr/share/emacs/21.3/site-lisp/mlht, especially sys/mlht.el, also found in CVS.ffii.org:/var/cvs/mlht</li>
+            <li>configurations files of user knecht, e.g. ~/.bashrc, ~/.ssh</li>
+            <li>MLHT applications = lisp-based documents
+            <ul>
+            <li><ul>
+            <li><em>usr/share/emacs/21.3/site-lisp/mlht/app</em></li>
+            <li>cvs.ffii.org:/var/cvs/mlht/app/: should always be kept up to date carefully. 'cvs update' is attempted before compilation</li>
+            <li>currently out of sync: /var/www/mlht/app, should be brought together soon</li>
+            </ul></li>
+            </ul></li>
+            <li><em>var/spool/langtxt</em>: directory into which the mlhtimport script places incoming mails
+            <ul>
+            <li><ul>
+            <li>names of files: 1.txt 2.txt .. 9.txt 10.txt ... 99.txt 100.txt ... <a href="no" title="wikilink">upper limit to numbering</a></li>
+            <li>directory contents can be erased any time, counting will then start from 1 again</li>
+            <li>file LASTMAIL should contain the number of the last-received mail in its last line</li>
+            <li>files such as LASTMAIL and LASTLISP use a special format from a counter perl module</li>
+            </ul></li>
+            </ul></li>
+            <li>/var/www/adm/bin/mlhtimport: script that reads mail and puts it into /var/spool/langtxt: possibly soon to be replaced by another script from Gilles Sadowski (the latter may be reachable by mail at mlhtimport2 at ffii org). If you want to edit the 'mlhtimport' script itself, check out from cvs.ffii.org/var/cvs/mlht/prg/mlhtimport</li>
+            <li>!LaTeX: the tetex package,
+            <ul>
+            <li><ul>
+            <li>cjk-latex for east-asian languages</li>
+            <li>site-specific files (macros, eps logos, bibliography, ...) at /var/www/mlht/tex and partically in CVS.ffii.org/var/cvs/mlht/tex</li>
+            <li>graphicspaths statement in el2tex.tex must be adapted to point to the paths that contain the image files (this failed at first)</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <p><code>    * after adding site-specific stuff, run 'texhash' and notify mlht-help at ffii org</code><br />
+            <code>    * still need to add an UTF-8 font that is currently used for various languages at a2e.de</code><br />
+            <code>    * still need good solution for Greek</code></p>
+            <ul>
+            <li><ul>
+            <li>/ul: directory for backward compatibility with some hardcoded filenames in tex files generated by mlht</li>
+            </ul></li>
+            </ul>
+            <p>ÿ</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

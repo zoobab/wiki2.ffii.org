@@ -1,0 +1,94 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MailmanMemberAdaptorEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="ffiimemberadaptor_the_link_between_the_ffii_db_and_mailmain"><a href="FFIIMemberAdaptor" title="wikilink">FFIIMemberAdaptor</a>, the link between the FFII DB and Mailmain</h1>
+            <p>[ <a href="PolisEn" title="wikilink">FFII Polis</a> ]</p>
+            <hr />
+            <h2 id="what_is_it">What is it?</h2>
+            <p>The FFII maintains in fact two user databases: First of all, there are the mailing lists. You may subscribe yourself to the lists. For example, to subscribe to or unsubscribe from the polis-parl mailing list, you simply have to visit <a href="http://lists.ffii.org/mailman/listinfo/polis-parl" class="uri">http://lists.ffii.org/mailman/listinfo/polis-parl</a> and enter your email address. However, a separate project database running on !PostgreSQL exists as well. Quite frequently, users are present in both databases. A certain level of synchronization is required.</p>
+            <p>Since Mailman 2.1, it is possible to integrate an own user database into Mailman by implementing a subclass of the Mailman <a href="http://cvs.sourceforge.net/viewcvs.py/mailman/mailman/Mailman/MemberAdaptor.py" title="wikilink">MemberAdaptor</a> for details). For example, there exists a subclass accessing an LDAP database. Ideally, the !FFIIMemberAdaptor would read and write directly from or to the !PostgreSQL database. For a first step, this seems to advanced though. However, it is at least possible to implement synchronization by subclassing the standard Mailman member database, called <a href="http://cvs.sourceforge.net/viewcvs.py/mailman/mailman/Mailman/OldStyleMemberships.py" title="wikilink">OldStyleMemberships</a>.</p>
+            <h2 id="what_can_it_do">What can it do?</h2>
+            <p>Currently, the <a href="FFIIMemberAdaptor" title="wikilink">FFIIMemberAdaptor</a> overrides only two of the various <a href="OldStyleMemberships" title="wikilink">OldStyleMemberships</a> methods:</p>
+            <ul>
+            <li><a href="=" title="wikilink">addNewMember</a> is invoked, whenever a new member subscribes to a mailing list. The method checks, whether the given user is already present in the table "mail". If so, a record is created or updated in the table "projhlp", or "subs", respecively.</li>
+            </ul>
+            <!-- -->
+            <ul>
+            <li><a href="=" title="wikilink">removeMember</a> is invoked on unsubscription. This method removes matching entries from "projhlp", or "subs". (More precise, the columns "hlplvl", or "sublvl", respectively, are decreased to indicate, that the member is no longer subscribed.)</li>
+            </ul>
+            <p>Both methods invoke their respective superclass implementation, so that the normal Mailman functionality is still preserved.</p>
+            <p>More should be possible without too much additional effort. For example, passwords could be changed via Mailman. Likewise, the !PostgreSQL database could be the leading instance for providing passwords.</p>
+            <h2 id="installation">Installation</h2>
+            <p>Assuming, that the !PostgreSQL database is up and running, one only needs to install the Python database API for !PostgreSQL, <a href="http://pypgsql.sourceforge.net/" title="wikilink">pypgsql</a>. On Red Hat Linux, this is as simple as typing "yum install postgresql-python". On Debian Linux, you have to install the package <a href="http://packages.debian.org/stable/non-US/python-pgsql" title="wikilink">python-pgsql</a>. In what follows, I will assume, that this driver is already installed.</p>
+            <p>Being written in python, the module is installed by simple putting the file <a href="FFIIMemberAdaptor" title="wikilink">FFIIMemberAdaptor</a>.py to some dedicated place, for example /usr/local/lib/python. The top of the module contains a single editable constant, the DSN (datasource name), which must reflect the database host, name, user, and password. For example, it might read</p>
+            <p><code>   DSN = "localhost:ffii:wiedmann:who?me?"</code></p>
+            <p>to match the database "ffii" on host "localhost", accessed as user "wiedmann" with password "who?me?".</p>
+            <p>Unfortunately, customization of Mailman as a whole isn't supported so much. In other words, the following procedure has to be repeated for any mailing list being synchronized. As an example, I will take "polis-parl". Create a file /home/list/lists/polis-parl/extend.py (Mailman is looking for it), with the following contents:</p>
+            <p><code>   import sys</code><br />
+            <code>   sys.path.append("/usr/local/lib/python")</code><br />
+            <code>   from </code><a href="FFIIMemberAdaptor" title="wikilink"><code>FFIIMemberAdaptor</code></a><code> import </code><a href="FFIIMemberAdaptor" title="wikilink"><code>FFIIMemberAdaptor</code></a><br />
+            <code>   def extend(self):</code><br />
+            <code>       self._memberadaptor = </code><a href="FFIIMemberAdaptor" title="wikilink"><code>FFIIMemberAdaptor</code></a><code>(self)</code></p>
+            <p>The first two lines extend the Python search path for modules by adding "/usr/local/lib/python". The third line loads the module. And the last two lines change the <a href="MemberAdaptor" title="wikilink">MemberAdaptor</a> from the default to an instance of !FFIIMemberAdaptor.</p>
+            <h2 id="is_that_all">Is that all?</h2>
+            <p>Yes. :-)</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

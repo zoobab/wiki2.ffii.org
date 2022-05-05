@@ -1,0 +1,97 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MlhtEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="multilingual_hypertext_mlht_system"><a href="MultiLingual" title="wikilink">MultiLingual</a> <a href="HyperText" title="wikilink">HyperText</a> (MLHT) System</h1>
+            <p>--&gt; [ <a href="DokDataEn" title="wikilink">Metadata</a> | <a href="MlhtDbEn" title="wikilink">MLHT database</a> | <a href="SwpatLangtxtEn" title="wikilink">Submitting Translations</a> | <a href="FfiiprojNewsEn" title="wikilink">Project News</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-08-22 <a href="MlhtImportEn" title="wikilink">translation batch processing system</a> now running on <a href="GenbaEn" title="wikilink">genba</a></li>
+            <li>2004-08-17 <a href="MlhtDbEn" title="wikilink">database</a> becomes primary source of data about documents</li>
+            <li>2004-08-12 bkaindl proposes to use 'screen' on <a href="GenbaEn" title="wikilink">genba</a> for collective access to the autoimport system (an important step in making mlht more generally usable within ffii)</li>
+            <li>2004-07-25 <a href="DokDataEn" title="wikilink">metadata structure</a> documentation started</li>
+            <li>2003 translation managment at ffii systematised, people send texts in a minimalistic format to mlhtimport at a2e de for automatic batch processing, see <a href="http://swpat.ffii.org/group/langtxt/" class="uri">http://swpat.ffii.org/group/langtxt/</a></li>
+            <li>1997-2000 phm creates the system and initial documentation at <a href="http://mlht.ffii.org/" class="uri">http://mlht.ffii.org/</a>. Purpose is to facilitate managment of large multilingual bodies of text.</li>
+            </ul>
+            <hr />
+            <p>As of 2004-09-11, the situation, in a nutshell, is as follows</p>
+            <ul>
+            <li>phm's simple reference program /var/www/adm/bin/mlhtimport works perfectly and does everything that is needed to makevmlht batch importing work. It writes the texts into a queue, found in</li>
+            </ul>
+            <p><code>       /var/spool/langtxt/*.txt</code><br />
+            <code>       /var/spool/langtxt/LASTMAIL</code></p>
+            <ul>
+            <li>gilles has a richer perl script, mlhtimport2, which should do the same things plus, thanks to extensive use of CPAN packages, some extra functionality, such as
+            <ul>
+            <li><ul>
+            <li>handling all kinds of MIME multipart mail</li>
+            <li>checking %(xx:.…) expressions</li>
+            </ul></li>
+            </ul></li>
+            </ul>
+            <p>However phm is not sure whether this script produces the same output as the simple reference program.</p>
+            <p>Note: the CPAN packages are mostly, except for one or two exceptions available as debian perl packages and installed this way.</p>
+            <ul>
+            <li>Gilles's script runs at mlhtimport2 att ffii org and could run at any other alias that gilles might prefer, except, for the time being, mlhtimport. After the mlhtimport2 script has been verified as workable, gilles can also use the mlhtimport alias.</li>
+            </ul>
+            <p>For now, the wiki pages which refer to mlhtimport should mention mlhtimport2 att ffii org as a beta testing address which should be used and if there is an error which is fixed by using mlhtimport instead of mlhtimport2, a notice should be added here with the name of the reporter and if possible a link or path to the script which triggers the error.</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

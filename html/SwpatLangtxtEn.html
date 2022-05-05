@@ -1,0 +1,147 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>SwpatLangtxtEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="SwpatLangtxt" title="wikilink">SwpatLangtxt</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <p>--&gt; [ <a href="MlhtEn" title="wikilink">MLHT</a> | <a href="MlhtImportEn" title="wikilink">MLHT Import</a> | <a href="MlhtImportGpgEn" title="wikilink">GPG</a> | <a href="FfiiprojNewsEn" title="wikilink">Project News</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2005-01-11 phm adds <a href="MlhtImportGpgEn" title="wikilink">password check and PGP/GPG encryption support</a></li>
+            <li>2004-09-12 Beta test of mlhtimport2 at ffii org is started. If there is some problem which is fixed by using the mlhtimport address directly, save the mail you sent to mlhtimport2 to a mbox mail folder, overwrite your password and send this mbox file to gilles.</li>
+            <li>2004-08-17 translations can now be registered in the database table <a href="MlhtDbTrapropEn" title="wikilink">traprop</a></li>
+            <li>2004-07-25 kwiki pages for <a href="MlhtEn" title="wikilink">mlht</a> and <a href="DokDataEn" title="wikilink">document metadata</a> started</li>
+            <li>2004-07-24 Added generation of <a href="LaTe" title="wikilink">LaTeX</a>/PDF: By default only html is compiled, but in the local variables section, it is now possible to add a line '# fmts: (latex html) ;' to cause compilation of the latex/pdf version.</li>
+            </ul>
+            <h2 id="todo">Todo</h2>
+            <ul>
+            <li>introductory section at "How it works" roughly like the following: If you want to translate a page, follow the "Txt" icon (image of the icon) at the top of page and download the page to your machine. You edit the downloaded file (more on the file format below). Once you have edited, please send the file to mlhtimport AT ffii DOT org where it will be automatically processed. Edited pages usually show up within ... minutes given that there are at least 3 paragraphs translated.</li>
+            </ul>
+            <hr />
+            <p>Some mail transport programs cut long lines and insert something like "!\n ".</p>
+            <p>Possible solutions are:</p>
+            <ol type="1">
+            <li>Introduce more line breaks (mlht.el allows tagged blocks to consist of multiple lines!)</li>
+            <li>send to mlhtimport at a2e de as an attachment (not tried if it works)</li>
+            <li>hack mlht.el so that it deletes the combination of "!\n "</li>
+            <li>fix the mail transport programs</li>
+            <li>use <a href="http://brablc.com/download.php?filename=mlhtimport.pl" title="wikilink">perl script</a> as a mail transport program (tested with <a href="http://activestate.com/Products/ActivePerl/" title="wikilink">ActivePerl</a> on Windows)</li>
+            </ol>
+            <h2 id="sending_with_an_e_mail_programm">Sending with an E-Mail-Programm</h2>
+            <p>e.g. MS-Outlook on Windows:</p>
+            <p><code>To: mlhtimport at a2e.de</code><br />
+            <code>Subject: coding: iso-8859-1</code><br />
+            Body: ``<the lines of the new version including language code></p>
+            <p>You might (probably) not be able to use attachments, since you cannot ensure the correct encoding trough that method!</p>
+            <p>The specification of the coding scheme has to be in the subject line, since that is the only unencoded line. If the body is encoded e.g. in 16 bit wide UTF-16, then the respective option line cannot be parsed by principle.</p>
+            <h3 id="special_hints_for_ms_outlook_express_6.0">Special Hints for MS-Outlook-Express 6.0</h3>
+            <p>MS-Outlook-Express 6.0 offers the option to change the character encoding for new e-mails. Normally e.g. Western Europe (ISO = iso-8859-1) is the default. In the extended settings you will find even an entry for Unicode (UTF-8). When you have changed the character encoding, then you will spot an appended "(UTF-8)" in the headline of your mail window. You can a put such a pre-configured mail as template on your Desktop by using the save-as menu entry.</p>
+            <p>MS-OE can be configured for line length in a range up to 132 characters for sending e-mail. Try to do set it up to the maximum length and apply as much line breaks as needed, especially before and after a %(...) statement. Good luck so that you never want to edit a statement of that sort which exceeds 132 chars.</p>
+            <h3 id="commandline_recoding_tool_for_windows">Commandline Recoding Tool for Windows</h3>
+            <p>On the homepage of the free universal packer 7zip, you can find the mini commandline tool <a href="http://www.7-zip.org/dl/utils/ct100zip" title="wikilink">Convert Text 1.00</a> for download. Its description can be found online on the Links-&gt;Utils page of the <a href="http://www.7-zip.org" title="wikilink">7zip homepage</a>.</p>
+            <hr />
+            <p>Please setup account-name and password in the options section of your text. An account can be created at <a href="http://aktiv.ffii.org" class="uri">http://aktiv.ffii.org</a>.</p>
+            <hr />
+            <p>Big Exclamation:</p>
+            <p>When you are opening a (, then please close it __once__. Else this will lead the converter on the server to a sudden halt - and you will currently(!) for technical reasons not get any sort response on your submission.</p>
+            <hr />
+            <h2 id="faq">FAQ</h2>
+            <p>Questions:</p>
+            <ul>
+            <li>1. Will i get a confirmation or a reject from the service?</li>
+            <li>2. Are those #-chars and the space at the options important as well?</li>
+            <li>3. Which options options are absolutely needed in the text? Which one should i strip off?</li>
+            <li>4. Is those HTML-Headline important or not?</li>
+            </ul>
+            <p>Answers:</p>
+            <ul>
+            <li>1. Yes, but only if the server software does parse the file without faulting.</li>
+            </ul>
+            <p>Sample:</p>
+            <p><code>From: mlhtimport at a2e.de</code><br />
+            <code>Subject: compilation result</code><br />
+            <code>Records title, sWW, ror and lpi were successfully imported into the database.</code><br />
+            <code>Document cecms040202 was recompiled successfully in languages en and de.</code></p>
+            <p>Reading this will tell you, that the mentioned lines got integrated into the german language page (de) and that the page was newly created. This further lead to the need to integrate the flag symbol into the other language versions, meaning the existing english page (en) got updated as well.</p>
+            <ul>
+            <li>2. Important is the leading # + space, plus the trailing semicolon.</li>
+            <li>3. Please copy all options, change the account name, the password und (important!) the language if needed. The target encoding will currently be determined by the servers setup, which is fixed to utf-8, and should generally not be changed in the options.</li>
+            <li>4. The HTML-Headline is obviousely of no importance, or does possibly even introduce some problems for the processing. You better leave that thing out of your submission.</li>
+            </ul>
+            <hr />
+            <h3 id="bugs_of_the_mlhtimport_service_and_the_txl_file_generator">Bugs of the mlhtimport service and the txl file generator</h3>
+            <ul>
+            <li>when you do receive a txl file via the web-interface, the (...) aren't always encoded in %(pe:...) style.
+            <ul>
+            <li><ul>
+            <li>What does this mean?</li>
+            </ul></li>
+            </ul></li>
+            <li>when a message with a false username/password pair is sent, you will never get any reply</li>
+            <li>if your mail software does break up the lines in between a %(...) statement, the submission will fail without any sort of reply</li>
+            <li>if your sent mail does contain comments with "( or )" on a comment line and you got line wrapped, then your submission will silently fail.</li>
+            <li>when you do get a reply, please be prepared to get it in varying languages. if for example en, fr and de web pages is changed due to creation of a new page in your language, it might happen that you get the reply in any of the languages of the other pages..</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

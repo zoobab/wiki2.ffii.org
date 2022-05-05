@@ -1,0 +1,97 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>KwikiLocalTemplateEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="KwikiLocalTemplate" title="wikilink">KwikiLocalTemplate</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="kwiki_page_templates">Kwiki Page Templates</h1>
+            <p>--&gt; [ <a href="KwikiEn" title="wikilink">kwiki</a> | <a href="KwikiLocalTemplateDisplayEn" title="wikilink">display template</a> | <a href="KwikiLocalTemplateEditEn" title="wikilink">edit template</a> | <a href="FfiiprojNewsEn" title="wikilink">FFII Project News</a> ]</p>
+            <hr />
+            <p>The kwiki local template files determine the structure of kwiki pages as they are displayed, edited or otherwise processed.</p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-10-31 phm simplifies changes the <a href="KwikiLocalTemplateDisplayEn" title="wikilink">display</a> and <a href="edit" title="wikilink">KwikiLocalTemplateEditEn</a> templates to make sure people can easily log in and find info on acquiring an editor status</li>
+            </ul>
+            <h2 id="purpose_of_phms_changes_of_2004_10_31">Purpose of phm's changes of 2004-10-31</h2>
+            <ul>
+            <li>take account of the fact that most kwiki pages are now write-protected</li>
+            <li>take account of the fact that kwiki is no longer mainly and addenda system</li>
+            <li>let new users immediately find out how they can get write access</li>
+            <li>let editors switch to editing mode by 2 or less clicks in the upper left corner</li>
+            <li>remove addenda-related explanation text: this is still found at the bottom and it the it is now implicit in the title of the addenda pages, which links back to the associated static page.
+            <ul>
+            <li><ul>
+            <li>phm previously already shortened this text</li>
+            <li>our system should be minimalistic, as little repetitive text and as large an editing space on the screen as possible</li>
+            </ul></li>
+            </ul></li>
+            <li>remove possibility of deleting an entire page in the <a href="KwikiLocalTemplateEditEn" title="wikilink">edit template</a>: this is too easy to do by accident and too easy to abuse. We normally need to maintain a record of changes of a kwiki file.</li>
+            </ul>
+            <h2 id="details_about_the_file_structure">Details about the File Structure</h2>
+            <p>The files discussed here are found on <a href="GenbaEn" title="wikilink">genba</a> in <em>var/www/cgi-bin/kwikimj04/local/template</em>.</p>
+            <h2 id="to_do">To Do</h2>
+            <ul>
+            <li>incorporate <a href="DokDateEn" title="wikilink">document metadata</a> in _header.html</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

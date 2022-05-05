@@ -1,0 +1,93 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>FfiiPgSqlDatabaseEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <h1 id="the_postgresql_database_ffii_on_genba">The PostgreSQL database ffii on Genba</h1>
+            <p>--&gt; [ <a href="PolisEn" title="wikilink">ffii computing</a> ]</p>
+            <hr />
+            <p>The !PostgreSQL database [=ffii] on genba stores stores information concerning the FFII such as supporters and projects.</p>
+            <h2 id="database_structure">Database Structure</h2>
+            <ul>
+            <li>Mailing Lists and News Groups: <a href="FfiiPgSqlDatabaseMlNgEn" title="wikilink">FfiiPgSqlDatabaseMlNgEn</a></li>
+            <li>The Project Infrastructure as used by Knecht: <a href="http://www.ffii.org/assoc/profil/profil.en.txt" class="uri">http://www.ffii.org/assoc/profil/profil.en.txt</a></li>
+            <li>How to set up projects: <a href="FfiiprojKreEn" title="wikilink">FfiiprojKreEn</a></li>
+            <li>MLHT database for describing multilingual documents (comprises a selection of the tables in the database ffii): <a href="MlhtDbEn" title="wikilink">MlhtDbEn</a></li>
+            <li>Database Meta Data: <a href="MlhtDbEn" title="wikilink">MlhtDbEn</a></li>
+            <li>Hotels: <a href="MlhtDbHotelsEn" title="wikilink">MlhtDbHotelsEn</a></li>
+            </ul>
+            <p>Some interesting tables and views related to structure:</p>
+            <ul>
+            <li>[=ffii.tmp_columns]: An overview over table columns.</li>
+            <li>[=ffii.tmp_locked_tables]: An overview over locks on tables.</li>
+            </ul>
+            <h2 id="naming_convention">Naming Convention</h2>
+            <p>phm: For convenience of programming in Knecht and MLHT, I try to keep table and field names limited to 8 a-z characters, and for convenience of natural joins I want fields that are suitable for such joining to have the same name and others not. Such constraints are a reason not to use descriptive english words such as 'name' or 'sum', but thanks to the pgsql documentation feature, this less intuitive naming should no longer entail much of a drawback.</p>
+            <h2 id="maintenace">Maintenace</h2>
+            <p>When dumping the database for later import into a newer version of !PostgreSQL, it is recommended to use the pg_dump tool from the <strong>newer</strong> version.</p>
+            <h2 id="postgresql_groups">PostgreSQL Groups</h2>
+            <ul>
+            <li>"basic_users": This group is nice to have when adding new users that should not have write access to all tables right away, but that can be trusted read access (to all except the table pass). Note that when new tables are added to the database, "basic_users" doesn't automatically have read access to them. That needs to be set separately using "GRANT". Members of this group also have permissions to modify the database "sandbox" (they can e.g. create new tables, but they don't necessarily have access to all tables in that database!).</li>
+            </ul>
+            <h2 id="phppgadmin"><a href="PhpPgAdmin" title="wikilink">PhpPgAdmin</a></h2>
+            <p>The FFII's !PostgreSQL databases can be accessed via the web using !PhpPgAdmin:</p>
+            <p><a href="https://www.ffii.org/phppgadmin/" class="uri">https://www.ffii.org/phppgadmin/</a></p>
+            <p>In order for a user to log into !PhpPgAdmin, authentication needs to be set to md5 (see [=/etc/postgresql/pg_hba.conf]) for the corresponding user ID. Note that with authentication set to md5 the user cannot access databases locally without specifying a password anymore: !PostgreSQL allows only one authentication method to be specified per user and connection type.</p>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

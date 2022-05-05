@@ -1,0 +1,99 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>Ffiimm2dbEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: ffiimm2db; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="ffiimm2db_using_mailman_logfile_info_to_update_the_ffii_database"><a href="FFIIMM2" title="wikilink">FFIIMM2DB</a>: using mailman logfile info to update the ffii database</h1>
+            <p>--&gt; [ <a href="FfiiprojEn" title="wikilink">ffii projects</a> | <a href="FfiiprojNewsEn" title="wikilink">project news</a> | <a href="FfiiprojKreEn" title="wikilink">creating projects</a> | <a href="MailmanProjlistsEn" title="wikilink">projlists.mailman</a> | <a href="FfiidistsEn" title="wikilink">ffiidists</a> | <a href="CvsdirAdmBinEn" title="wikilink">where in CVS</a> ]</p>
+            <hr />
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-10-05 phm writes and tests the script</li>
+            <li>2004-10-03? discussions in IRC adn polis-parl show that the functionality is needed</li>
+            </ul>
+            <h2 id="synopsis">Synopsis</h2>
+            <p>The perl script</p>
+            <p><code>   /var/www/adm/bin/ffiimm2db</code></p>
+            <p>explains its commandline options when invoked with option '-h'.</p>
+            <p>ffiimm2db reads the mailman log file</p>
+            <p><code>   genba:/var/log/mailman/subscribe</code></p>
+            <p>either from the start (-b) or at the tail (-t) as it is written, checks whether the subscribed or unsubscribed mail addresses and mailing lists are known to the ffii database and updates the database accordingly.</p>
+            <p>Since synchronisation in the opposite direction is performed by other scripts (--&gt; <a href="MailmanProjlistsEn" title="wikilink">projlists</a>), this allows ffii database users to subscribe/unsubscribe only once, either via mailman or via an ffii database frontend such as <a href="AktivEn" title="wikilink">aktiv</a>.</p>
+            <p>The ffiimm2db script is invoked by the user knecht with verbosity level 3 (-v 3), so that the output can be observed with</p>
+            <p><code>   genba$ tail -f /var/www/adm/log/mm2db/nohup.out</code></p>
+            <p>If ever ffiimm2db is not running, it will be reinvoked by the daily knecht cronjob, see</p>
+            <p><code>   genba:/var/www/adm/bin/daily.knecht</code></p>
+            <h2 id="to_do">To Do</h2>
+            <p>For most cases the solution works, and it is clean and robust. However</p>
+            <ul>
+            <li>We are not quite sure whether the logfile carries all information. E.g. phm tried to unsubscribe and resubscribe from mailing lists and there was no log message after the succeded subscription (only one of a pending subscription).</li>
+            <li>The log message format seems arbitrary and there is no guarantee that it will stay the same. It would be desirable to work out a stable log message format with the mailman team (and also solve the previous item's problem this way).</li>
+            </ul>
+            <p>To further make perfect the synchronisation between mailman and our database, a few improvements could help:</p>
+            <ul>
+            <li>We need to make sure that ffiimm2db is invoked immediately after each reboot of the machine. There should be a script or hook somwhere in <em>etc/init.db</em>.</li>
+            <li>Some people have proposed that the ffiimm2db functionality should be hooked directly into mailman. That could be of interest if there is enough support from the mailman side to make seemless upgrades possible</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,124 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.rawgit.com/ryangrose/easy-pandoc-templates/948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/script.js"></script>
+  
+    <script src="https://cdn.rawgit.com/diversen/pandoc-bootstrap-adaptive-template/959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>MlhtDbEn</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div class="span12">
+            <ol type="1">
+            <li><ol type="1">
+            <li>-*- dok: <a href="MlhtDb" title="wikilink">MlhtDb</a>; lang: en; coding: iso-8859-1; mode: fundamental; -*-</li>
+            </ol></li>
+            </ol>
+            <h1 id="mlht_database">MLHT Database</h1>
+            <p>-&gt; [ <a href="MlhtEn" title="wikilink">mlht</a> | <a href="FfiiPgSqlDatabaseEn" title="wikilink">pgsql at ffii</a> | <a href="MepsDbEn" title="wikilink">meps db</a> | <a href="MlhtDbVerbdefsEn" title="wikilink">verbdefs</a> | <a href="MlhtDbHotelsEn" title="wikilink">hotels</a> | <a href="DokDataEn" title="wikilink">document metadata</a> ]</p>
+            <hr />
+            <p><em>Documenting the database that contains the text strings for the multinlingual hypertext (mlht) system as well as, on top of it, most other ffii-related data.</em></p>
+            <h2 id="news_chronology">News &amp; Chronology</h2>
+            <ul>
+            <li>2004-07-17 this page established</li>
+            </ul>
+            <h2 id="outline">Outline</h2>
+            <p>The MLHT database is the set of relational database tables used for describing multilingual documents. It is applied by the MLHT system but is designed to be used by others as well.</p>
+            <p>As far as ffii is concerned, the tables are implemented in postgresql within the <a href="FfiiPgSqlDatabaseEn" title="wikilink">'ffii' database</a> on <a href="GenbaEn" title="wikilink">genba</a>.</p>
+            <p>Examples of MLHT database tables are</p>
+            <ul>
+            <li>dokprop (properties relevant to each document)</li>
+            <li><a href="MlhtDbTrapropEn" title="wikilink">traprop</a> (properties relevant to each translation variant of a document)</li>
+            <li>mlhtdok (small primary database in which document ids are defined)</li>
+            <li>langtxts (very large, contains all text strings in mlht documents)</li>
+            </ul>
+            <p>Some tables contain database metadata, i.e. they define how the actually used tables behave. Such tables include</p>
+            <ul>
+            <li>klesi : classes of tables</li>
+            <li>deftab : tables (feklee: "See my comments concerning the table deffld, below.")</li>
+            <li>deffld : fields (each field name is unique across tables: same names mean that 'natural join' can be used) (feklee: "IMO, this table should be removed or converted into a view. 1. It doesn't seem contain any information that's not already in !PostgreSQL's native meta data. 2. It's hard to keep the information in this table up to date. 3. The table doesn't seem to be documented.")</li>
+            <li>tabflds: positions of fields in tables</li>
+            <li>flddes : multilingual descriptions of fields, tables and many other kinds of entities, used for documentation</li>
+            </ul>
+            <h2 id="metadata_in_postgresql_system_catalogs">Metadata in PostgreSQL System Catalogs</h2>
+            <p>feklee: !PostgreSQL already maintains meta data in the form of <a href="http://www.postgresql.org/docs/7.4/interactive/catalogs.html" title="wikilink">System Catalogs</a>. These catalogs could be used to replace some, if not all, of the above meta data tables. The advantage when it comes e.g. to documentation is that tools such as psql or <a href="http://phppgadmin.sourceforge.net/" title="wikilink">phpPgAdmin</a> offer facilities to easily view and modify comments of tables, fields, etc..</p>
+            <p>phm: We need a script that synchronises metadata between the !PostgreSQL System Catalogs and the flddes tables. It seems to me that there are certain things that each of these does that the other can't replace. Since the !PostgreSQL idocs don't provide examples that allow me to immediately and use the !PostgreSQL metadata, I may be underestimating their power. It would be nice to have some examples in the section below.</p>
+            <p>feklee: Using a script for synchronizing metadata is not a good solution IMO. Some reasons:</p>
+            <ul>
+            <li>Data likely gets out of sync in between runs of the script.</li>
+            <li>It probably is hard to get up running reliably and it is probably hard to maintain.</li>
+            </ul>
+            <p>Also, having two sources of meta data is problematic since it introduces redundant data. Thus I propose that the use of <strong>views</strong> generating MLHT metadata from !PostgreSQL metadata should be investigated.</p>
+            <h2 id="example_of_meta_documentation_using_flddes_and_postgresql_system_catalogs">Example of meta documentation using FLDDES and PostgreSQL System Catalogs</h2>
+            <p>Finding out what the table 'ven' and the field 'ven' mean using MLHT's meta data:</p>
+            <p><code> psql ffii</code><br />
+            <code> ffii&gt; select * from flddes where fld = 'tab' and fldkey = 'ven' ;</code><br />
+            <code> ffii&gt; select * from flddes where fld = 'fld' and fldkey = 'ven' ;</code></p>
+            <p>Setting and retrieving documentation from system catalogs is shown in the example below. More information on comments can be found in the chapter <a href="http://www.faqs.org/docs/ppbook/x17549.htm" title="wikilink">Database Management</a> in Practical !PostgreSQL and in the <a href="http://www.postgresql.org/docs/7.4/interactive/sql-comment.html" title="wikilink">section on COMMENT</a> in the !PostgreSQL documentation.</p>
+            <p><code> psql ffii</code><br />
+            <code> ffii&gt; COMMENT ON TABLE ven IS 'My Participation in Events';</code><br />
+            <code> ffii&gt; COMMENT ON COLUMN ven.ven IS 'Event ID';</code><br />
+            <code> ffii&gt; \dd ven</code><br />
+            <code> ffii&gt; \d+ ven</code><br />
+            <code> ffii&gt; SELECT description, relname FROM pg_description, pg_class WHERE pg_description.objoid = pg_class.oid AND relname = 'ven';</code></p>
+            <p>Opinions by feklee:</p>
+            <ul>
+            <li>A disadvantage of system catalogs is that they only allow documentation in one language. But</li>
+            </ul>
+            <p>00 the database comments are not browsed by end users but by system administrators/programmers/... that are used to having code/data documented in english. 00 If multilingual comments are desired, then we could make up a system that encodes comments in multiple languages in a single string. Such a system could also be used when documenting code e.g. in Perl.</p>
+            <ul>
+            <li>A disadvantage of the MLHT system is that column names must be unique in the whole database. While some may like such a convention, I think it's bad: One has to embed the table name or a (mostly unreadable) shortcut in the field name which makes code harder to read and field names less "self-documenting", IMHO. One may of course argue that this reduces the amount of documentation, but who sais that <strong>every</strong> field name has to be documented? Often it's for example sufficient to document just primary keys and leave away documentation for foreign keys.</li>
+            <li>An important advantage of storing documentation in system catalogs is that user interfaces such as [=psql] and php!PgAdmin allow easy access to system catalog documentation. People are already using these facilities and some probably don't update [=flddes] since that's non-obvious or since that's duplicate work.</li>
+            </ul>
+            </div>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>
