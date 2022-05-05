@@ -1,0 +1,21 @@
+## -*- dok: videolan0411; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2004-11-05
+= DTS threatens Videolan.org with EPO software patent =
+-->
+[ [:SwxaiVideolanEn: DTS v. Videolan]
+| [:SwpatcninoEn: Patent News]
+| [http://swpat.ffii.org/patents/txt/ep/0864/146/ EP864146] [http://gauss.ffii.org/PatentView/EP864146 GaussWiki]
+]
+----
+
+Videolan, an open source video player and video conferencing software project, has been approached by DTS Inc and asked to remove some features from their software.  They have preliminarily removed the features and are currently studying the patent claims of DTS.
+
+== Details ==
+
+http://www.videolan.org/news.html#NEWS-11
+
+Release: VLC 0.8.0 (2004-11-033 November 2004)  It has been a long wait, but it is finally there. A plethora of new features for everyones enjoyment. They include: faster and more flexible input layer, improved transcoding, a plugins cache to speedup VLC startup time, vastly improved subtitles, OSD and DVD support, Windows Media Video 3 support under Windows, Multipart JPEG webcam support, an audio equalizer and so much, much more.
+Look here for a complete list of changes. To download the sources or the binary package of this new version, go to the VLC download page and click on your OS logo!
+Only source, Win32 and Mac OS X package are available at the moment, others will follow soon.
+
+'''NOTE: This release doesn't include DTS audio decoding support. DTS Inc. claims that distributing this software with DTS decoding capabilities is a violation of their patent EP 864 146. At DTS Inc. request, we decided, as a precautionary measure, to provisionally suspend the distribution of VLC with DTS decoding capabilities while reviewing DTS Inc. claim. This is not an acknowledgement of the validity of the claim.''' 

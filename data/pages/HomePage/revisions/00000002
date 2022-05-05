@@ -1,0 +1,69 @@
+## -*- dok: KwikiHomepage; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= Cooperative Web Editing System at FFII  =
+->
+[ [[HomePageDe| deutsch]]
+| [[HomePageFr| francais]]
+]
+[ [[SwpatcninoEn| Patent News]]
+| [[FfiinewsEn| Infrastructure News]]
+| [[FfiiprojNewsEn| Project News]]
+| [[KwikiEditEn| How To Edit]]
+| [[DokDataEn| Document Metadata]] 
+| [[FfiiRssEn| RSS]]
+| [[KwikiEn| KWiki]]
+]
+----
+
+''Introduction to the wiki system that is currently in use at FFII and some of the main points of entry''
+
+== Important Pages ==
+
+ * [[SwpatcninoEn| Patent News]] -- latest news about software patents
+ * [[http://lists.ffii.org/pipermail/news/|Press Releases]] -- all FFII press releases
+ * [[http://wiki.ffii.org/index.cgi?action=plugin&plugin_name=Changes|Recent Changes]] -- Recent Changes in the wiki
+ * [[TodoListEn| Todolist]] -- List of things TODO or DONE
+ * [[SwpatpenmiEn| Events]] -- events you cannot miss
+
+== Howto ==
+
+ * [[KwikiEditEn| Edit]] -- howto edit pages of this wiki
+ * SandBox -- howto train yourself editing pages
+ * [[FfiiRssEn| RSS]] -- howto get RSS feeds
+
+== About ==
+
+ * [[KwikiEn| KWiki]] is a wiki system. Write access is partially restricted but yet easy to obtain.
+
+== Addenda to static pages ==
+
+Depending on which language you are reading the FFII pages in, on top of each page you will see a button labeled "Wiki" or "Addenda":
+{{http://swpat.ffii.org/img/icons.other/addenda-en.png}}
+
+ * Example of static page: http://swpat.ffii.org/akteure/giev/index.de.html
+
+Click this button to view a page that is attached to the FFII page (like a sticky note). 
+
+ * Example of associated, editiable comments page: http://kwiki.ffii.org/SwpatgievDe
+
+Click the Edit symbol {{http://www.ffii.org/kwikimj04/pict/e2.gif}} to add your comments right from the browser (Start using just plain text. If you want some formatting, check out WikiHelp).
+
+Use the link [[=Back |to associated FFII page]] to go back to the static, non-editable FFII page.
+
+We are constantly reviewing comments, suggestions and corrections that our readers contribute. Some contributions will lead to changes in an associated static FFII page or even creation of a new document. Others we'll just leave on the comments page for further discussion.
+
+If you want to create a static page of your own, please make this page end with a capitalised ISO language suffix, e.g. 'En' for English, 'De' for German, 'Fr' for French, 'Sv' for Swedish, 'Cs' for Czech.
+
+If you have any suggestions for improvements to this system, please edit KwikiEn or contact kwiki-help at ffii org.
+
+'''Thank you for participating!'''
+
+==  Version ==
+
+Our system relies on a slightly customized version of [[http://www.kwiki.org|Kwiki]] respectively [[http://kwikimj.kn.vutbr.cz/index.cgi|KwikiMJ]]. Kwiki is written in Perl and [[http://search.cpan.org/dist/CGI-Kwiki/|available on CPAN]].
+
+[[AktivChangeLogEn| The change log of bug-fixes and extensions/improvements to the participation system]] contains notes about system failure incidents where [[AktivEn| Aktiv]] was affected.
+
+== Maintainers ==
+
+ * for kwiki: write to org ffii users kwiki-help
+ * for site design: write to org ffii users webstyl-help  

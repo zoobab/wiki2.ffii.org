@@ -1,0 +1,130 @@
+## -*- dok: smirl041025; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= Patents prevent appearance of Linux graphics drivers  =
+-->
+[ [:SwpatlinuxEn: Linux]
+| [:SwpikxraniEn: Patents in Action]
+| [:EubsaItopEn: Interoperability]
+| [:SwpatcninoEn: Patent News]
+]
+----
+
+''Most hardware on the market is "Designed for Microsoft Windows" and does not work under other operating systems.  This is because only Microsoft programmers have access to the specifications of the hardware.  Normally, it would be in the interest of hardware vendors to publish specifications, but nowadays they are afraid to publish, because by doing so they would reveal information that could be used against them in patent litigation.  Details of some examples in case have been discussed on the Linux Kernel mailing list recently.''
+
+''(This situation may be speeding up e.g. the'' [http://www.opengraphics.org Open Graphics Project] ''(it was not available at the time of the discussion). It seeks to provide precisely "fully published specs and open source drivers;" whether there will be significant legal issues at a later stage is an open question.)''
+
+== Linux-Kernel Mailing List: Patents make Graphic Cards Unfriendly to Open-Source ==
+
+The mail subject of the Linux Kernel Mailing List discussion was
+
+	''HARDWARE: Open-Source-Friendly Graphics Cards -- Viable?''
+
+The core of the problem expressed was that Linux drivers get more and more hit by the increasing lack of documentation for modern graphics hardware which is funded in increasing desire for business protection of the graphics chip vendors. Whilst patents do have prevented open source developers from integrating and providing solutions into their drivers in the past, the present is that the companies themselves feel endangered by patent law based claims on ideas whilst patent law would not help in most cases where offering information on designs could selectively exclude helping the competition whilst being able to providing the needed information to the open source community.
+
+== Participating Persons ==
+
+ * Jon Smirl, well known developer for open source graphics drivers that are based upon !XFree86, DRI and compatible driver shemes.
+ * Kendall Bennett, graphics expert and head of !SciTech, a company which has written graphics driver code since at least the VESA BIOS era (about 1989)
+ * Dave Airlie, well known Linux kernel developer and affiliated with Tungsten Graphics, a small, Linux centric enterprise for driver development
+ * Alexander Stohr, former software developer for video and graphics drivers on multiple platforms, nowadays employed by a German SME for software and system development.
+
+== Historic Background of Computer Technology in the recent 25 years ==
+
+Around 1980, computer graphics was a wide area split between multiple processor types and graphics designs based upon home computers. With the introduction and spreading of the IBM PC between 1982 and 1989, graphics technology got much more centered around the Intel processor architecture, with an increasing number of vendors that supplied graphics adapters which could be plugged in into the respective state of the art slot system. 
+
+Having a nice choice between vendors of modular computer components was the main factor that made personal computers so cheap that they could manage to even get a place in a high percentage of homes and in turn made the general usage of the internet finally possible.
+
+All that happened around 1989 (when the i386 processor architecture got introduced) and up to 1997. At that point there were two now trends: one is the 3D rendering hardware technology that started entering the mass markets, and the so called Asia crisis, which consisted of lots of small South-East Asian PCB manufacturing facilities starting to produce low cost low quality graphics boards. In the end only two major vendors survived those battles for the fastest model at the cheapes prices. Those were ATI and nVidia.
+
+Together, they nowadays serve more than 90% of the market with leaving only a few per cent of market shares to an other competitor, including Intel as a known producer of integrated graphics for mainboard chipsets.
+
+== Summary ==
+
+Whilst in in the past there was always some documentation on graphics chipsets availabel for free or for just a minor fee, currently there is a massive trend for graphics companies to not pass along any sort of information on their chip designs, especially for their very latest programming specifications for the 3D rendering units. This is most true for !DirectX 9 and !OpenGL 2.0 smart shading technology, which is the most important technology for getting high performance numbers and best ratings in computer magazine test reports.
+
+For the open source community that is not only a hazard of missing the boat with respect to the new technology, but in several cases it even means that there is not enough information available to supporting a specific
+chipset up to more than doing slow cpu-based 2D drawing using rather non state of the art interfaces like BIOS calls.
+
+Even in the past there have been problems with software patents, such as the texture compression format called S3TC as invented by a company called S3. Nearly anybody in the market as a chip vendor had a license for his hardware and software, but driving the very same chip with open source was nothing that could be integrated into the projects just because then any user of that software could get sued or even the whole no-cost development project could get in danger of getting sued. It was a patent on an algorithm, no physics involved, and only an idea - nothing less, nothing more - and it hindered open source from keeping up with the state of the art in technology.
+
+The discussion came to a point were the new situation was attributed to the increased usage of software patents in the products. But suprisingly the patent system was far from beeing able to sufficiently protect those software patents. Instead the long existing concept of company secrets was the one that seemed to serve best. 
+
+ * Argue was if the companies do want to hide that they do know that they are infrigning several patents of the competition, but no indication could be found for such a bold assumtion. 
+ * Instead of this there were a few rather more likely reasonings for those companies not publishing more detail for their chipsets. One was the concurrency situation for not showing how good chips are made (and on the other hand not showing where the own chips are failing). 
+ * Another was to prevent giving hints to anyone else which would help them from starting up a business, using that information and then entering the market. Here the story is more about general techniques for design of powerfull graphics chips that rather often arent that complex to understand but would need a good amount of effort to find an optimum and could be understood and then copied rather easily by others thus saving those much efforts. As nearly all chip designs are non-public there is not much risk for others getting cought but much risk to loose money for filing a lawsuite due to lack of proof or simply some lack of understanding by the judge.
+ * And as another reasoning, there is the permanent danger of getting sued by some non-productive but only collecting company from software patents. This would impose a non small and non controllable legal and financial risk to those companys, all arising from the patents law. The value of such a "getting sued any now and then" risk could easily exceed the 10 Million USD per year value, as the current SCO vs. IBM cases do show. As other alread ruled cases do show the outcome of such a lawsuite might have a value of several billion USD which would even endanger the exiatance of such big comoanies as ATI or nVidia.
+
+The graphics market has turned to a much more closed business in recent times with the 3D engines as the most criticaly protected part of software patents, resulting in making any sort of open source solutions nearly impossible. Whilst the patent law was not a viable way for protecting the "closed technology" enterprises from getting sued from non market participants, and the patent law was not good enough for protecting their very own software patents from getting spread for the advantage in the chip design of others, there is a visible bad impact of the patent law on integrating well understood solutions into open source projects.
+
+== The Discussion ==
+
+----
+ On Tue, 26 Oct 2004 12:36:52 +1000, Dave Airlie wrote:
+
+ ATI and Nvidia not open-sourcing 3D stuff for one simple reason, IP
+ issues. It is also why Intel are not even giving out their later
+ chipsets docs to anyone by Tungsten, if anyone tells you differently
+ send them to me :-)
+
+----
+
+  From: Jon Smirl
+  Date: Mon, 25 Oct 2004 23:55:58 -0400
+
+  After talking to representatives of both companies, it seems that the
+  patent system has completely perverted the IP situation between them.
+  But are staying secret because of fear of being sued by the other for
+  infringement. This is exactly the opposite of what full disclosure of
+  patents was supposed to achieve.
+
+  I wish they could just get together and agree not to sue each other
+  over stupid things like register designs and programming models. The
+  designs are horrible on both cards due to accumulation of historical
+  cruft. Save the lawsuits for the core of the engines if you really
+  have to sue each other.
+
+  -- 
+  Jon Smirl
+
+----
+
+ Alexander Stohr wrote:
+ (translation from German version 2004-10-26 6:06 PM, latest updates 2004-10-30 17:31):
+
+ In my opinion the text shows that the protection effect achived trough own patents
+ does not really work in practice. For that reason companys have still
+ to stick to the simple and rather vulnerable concept of company secrets.
+ The sample shows that the patent law has no practical value for
+ the relations between enterprises that are roughly of equal size.
+ But the overall patent portfolio that those companys do hold
+ did require a noticeable amount of money until those patents got
+ registered (and they do still need funding for up to the next 20 years).
+ The registered technical ideas would have been used in the
+ very own products of the respective companys anyways.
+
+ I cannot agree with the closing paragraph of Jon Smirl.
+ Opening the chip internal architecture to the public will only open doors
+ for lawyer offices (which do make their business with charging for trade rule violations)
+ and for purely IP collecting companies. Those circles are caring for having
+ their staff occupied by getting regular market participants to court again and again.
+ There are enough samples out there, it may be the GIF or the JPEG format,
+ or it may be web shops that do offer immediate-buy-buttons, or whatever -
+ as soon as the very own technology got published there is a good chance
+ out there that someone starts serching those information for something that
+ looks in some way simliar to a patent claim he is holding himselves.
+
+ Development is getting more and more a risk for the industry due to the
+ increasing number of more or less trivial patents out there. There is no
+ good ratio between implementing some idea and making reasonable sure
+ that those idea is not covered by patent claims, so the industry has to
+ protect themselves trough company secrets in order to hopefully avoid
+ any bigger number of lawsuits.
+
+ I have posted an English reply with a few other aspects to the linux-kernel
+ mailing list. See a copy in the "Mail ARChives" at
+http://marc.theaimsgroup.com/?l=linux-kernel&m=109907364314825&w=2
+
+ -Alex.
+
+----
+
+Note added on Richard Stallmann's request: on the mail quoted above, the term "intellectual property" should not have been used because it is propaganda, see http://www.gnu.org/philosophy/not-ipr.xhtml

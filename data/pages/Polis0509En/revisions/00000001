@@ -1,0 +1,25 @@
+## -*- dok: polis0509; lang: en; site: kwiki; coding: iso-8859-1; mode: fundamental; -*-
+= Data Processing issues of september 2005 =
+->
+[ [:PolisEn: FFII data processing]
+| [:FfiiprojPriorEn: priorities]
+]
+----
+
+''moving ahead the data processing infrastructures of FFII.''
+
+== Within 0-2 days ==
+
+ * Genba050829En: Is Genba compromised?
+
+== Within 10 days ==
+
+ * specify what needs to be done
+ * take charge of the 1&1 rootserver, document access to it
+ * Moin0509En: Get the extensions to Moinmoin that Heather Stern et al wrote running on a test platform (genba) and then on the production platform (apunkt).
+## * get the latest plone system running somewhere and used for nutzwerk.ffii.org
+
+== More Longterm ==
+
+ * get back to offers from froberg.org, kiss.si etc, explore more internationalised cluster forming, make us less vulnerable to censorship
+ * Simos0511En: new system administrator for november

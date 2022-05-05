@@ -1,0 +1,142 @@
+## -*- dok: IbmEp0501; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= 100 EPO Counterparts Found for IBM's 500 "Freed" US Patents =
+->
+[ [[IbmEp0501De| deutsch]]
+]
+[ [[Ibm0501En| IBM Frees Patents]]
+| [[http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf|Original List]]
+| [[http://swpat.ffii.org/patents/samples/ep767419/|EP 767419]]
+| [[http://gauss.ffii.org/|Database]]
+| [[SwpatcninoEn| Patent News]]
+]
+----
+
+In a preliminary investigation, FFII has found a match of 98 european patents in the portfolio of the 500 US patents IBM has decided to be royalty free for Open Source developers and companies.
+
+Most if not all of the identified EPO patents cover calculation rules claimed in terms of general-purpose computing equipment (computer-implemented solutions = software per se) and are therefore of little value both under the [[http://swpat.ffii.org/analysis/epc52/|existing law]] and under the [[http://swpat.ffii.org/papers/europarl0309/|software patent directive as amended by the European Parliament in September 2003]].  They would however be fully legalised by the [[http://swpat.ffii.org/papers/europarl0309/cons0401/|Council's proposed version]], for which IBM's patent department is [[http://swpat.ffii.org/players/ibm/|heavily lobbying the EU]].
+
+== Details ==
+
+From a preliminary investigation, using the [[http://gauss.ffii.org/|Gauss Project Database]] and standard SQL, FFII has found a match of 98 european patents in IBM's portfolio of 500 US patents: '''44''' granted, '''43''' withdrawn and '''11''' pending.
+
+See the [[http://gauss.ffii.org/View/EP795823/Comments|comments on EP795823]] for an overview of reasons why a patent application may have been withdrawn.
+
+The database used contains mainly patents from e.g. G and H classes up till summer 2003. The investigation is therefore not complete.
+Feedback systems for users of Gauss are under development. Guests are welcome to contribute on the [[http://gauss.ffii.org/GaussGuest|Gauss Project Wiki]].
+
+The original list of the 500 IBM patents can be found [[http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf|here]].
+
+== EPO cousins to the 500 IBM patents, grouped by status: ==
+
+=== Pending applications  ===
+
+ 1. [[http://gauss.ffii.org/View/EP1011075|EP1011075 ]] Method and apparatus for updating node position [[http://gauss.ffii.org/View/EP1011075/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP409588|EP409588 ]] Interactive computer system. [[http://gauss.ffii.org/View/EP409588/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP429285|EP429285 ]] Computer graphics system. [[http://gauss.ffii.org/View/EP429285/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP434586|EP434586 ]] Attribute-based method and apparatus of classification and retrieval. [[http://gauss.ffii.org/View/EP434586/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP586767|EP586767 ]] Selective data capture for software exception conditions. [[http://gauss.ffii.org/View/EP586767/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP632672|EP632672 ]] System and method for bandwidth reservation for different traffic classes. [[http://gauss.ffii.org/View/EP632672/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP663639|EP663639 ]] Method for creating a multimedia application. [[http://gauss.ffii.org/View/EP663639/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP677943|EP677943 ]] A communications system for exchanging data between computers in a network. [[http://gauss.ffii.org/View/EP677943/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP716533|EP716533 ]] A gateway system and method [[http://gauss.ffii.org/View/EP716533/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP887748|EP887748 ]] Multilingual terminology extraction system [[http://gauss.ffii.org/View/EP887748/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP942376|EP942376 ]] Method and system for pre-fetch cache interrogation using snoop port [[http://gauss.ffii.org/View/EP942376/Comments|(comments) ]]
+
+=== Granted, opposed, patent maintained ===
+ 1. [[http://gauss.ffii.org/View/EP493881|EP493881 ]] Bus architecture for a multimedia system. [[http://gauss.ffii.org/View/EP493881/Comments|(comments) ]]
+
+=== Granted, opposition window closed ===
+
+ 1. [[http://gauss.ffii.org/View/EP364384|EP364384 ]] Method of managing marker entities within a document data stream. [[http://gauss.ffii.org/View/EP364384/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP403120|EP403120 ]] Colour display colour control. [[http://gauss.ffii.org/View/EP403120/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP405845|EP405845 ]] Performing compilation optimisation procedures in an optimisation compiler. [[http://gauss.ffii.org/View/EP405845/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP416281|EP416281 ]] Data buffer. [[http://gauss.ffii.org/View/EP416281/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP420424|EP420424 ]] A method of information retrieval for a database system. [[http://gauss.ffii.org/View/EP420424/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP420474|EP420474 ]] Rebuilding edited digital audio files. [[http://gauss.ffii.org/View/EP420474/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP423453|EP423453 ]] Address translation and copying process. [[http://gauss.ffii.org/View/EP423453/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP425187|EP425187 ]] Drawing 'polygon with edge'-type primitives in a computer graphics display system. [[http://gauss.ffii.org/View/EP425187/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP425421|EP425421 ]] Process and apparatus for manipulating a boundless data stream in an object oriented programming system. [[http://gauss.ffii.org/View/EP425421/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP432333|EP432333 ]] Computer system security device. [[http://gauss.ffii.org/View/EP432333/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP438018|EP438018 ]] Method for controlling cursor movement on certain computer workstations. [[http://gauss.ffii.org/View/EP438018/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP438211|EP438211 ]] Cache memory system. [[http://gauss.ffii.org/View/EP438211/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP442715|EP442715 ]] Transaction processing system and method with reduced locking. [[http://gauss.ffii.org/View/EP442715/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP449449|EP449449 ]] Use of application programs on data in a heterogeneous data base system. [[http://gauss.ffii.org/View/EP449449/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP454610|EP454610 ]] Method and device for concurrency control of shared data updates and queries. [[http://gauss.ffii.org/View/EP454610/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP458719|EP458719 ]] Method for automatic deletion of temporary document relationships within a data processing system. [[http://gauss.ffii.org/View/EP458719/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP468652|EP468652 ]] Image processing apparatus and method. [[http://gauss.ffii.org/View/EP468652/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP471130|EP471130 ]] Coding method and apparatus for pipelined and parallel processing. [[http://gauss.ffii.org/View/EP471130/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP472879|EP472879 ]] Method and apparatus for dynamic detection and routing of non-uniform traffic in parallel buffered multistage interconnection networks. [[http://gauss.ffii.org/View/EP472879/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP477124|EP477124 ]] Method and apparatus for distributed processing of display panel information. [[http://gauss.ffii.org/View/EP477124/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP484603|EP484603 ]] Non-repudiation in computer networks. [[http://gauss.ffii.org/View/EP484603/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP493909|EP493909 ]] Image processing system for producing an attenuation map of a scanned image. [[http://gauss.ffii.org/View/EP493909/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP501023|EP501023 ]] Coupled-color error diffusion. [[http://gauss.ffii.org/View/EP501023/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP509676|EP509676 ]] Cache storage control system. [[http://gauss.ffii.org/View/EP509676/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP511467|EP511467 ]] Apparatus and method of operation for a facsimile subsystem in an image archiving system. [[http://gauss.ffii.org/View/EP511467/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP524123|EP524123 ]] Compensation for mismatched transport protocols in a data communications network. [[http://gauss.ffii.org/View/EP524123/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP533607|EP533607 ]] Method and system of providing multiple selections in text on a computer display. [[http://gauss.ffii.org/View/EP533607/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP538626|EP538626 ]] Speech recognition apparatus having a speech coder outputting acoustic prototype ranks. [[http://gauss.ffii.org/View/EP538626/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP559595|EP559595 ]] Method and apparatus for batching the receipt of data packets. [[http://gauss.ffii.org/View/EP559595/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP591360|EP591360 ]] Method and apparatus for modifying relocatable object code files and monitoring programs. [[http://gauss.ffii.org/View/EP591360/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP593161|EP593161 ]] Data processing system. [[http://gauss.ffii.org/View/EP593161/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP612006|EP612006 ]] Annotating objects in display screen windows. [[http://gauss.ffii.org/View/EP612006/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP621713|EP621713 ]] Communication of local area network based applications on a switched network. [[http://gauss.ffii.org/View/EP621713/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP644483|EP644483 ]] Computer system and method for performing multiple tasks. [[http://gauss.ffii.org/View/EP644483/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP653701|EP653701 ]] Method and system for location dependent verbal command execution in a computer based control system. [[http://gauss.ffii.org/View/EP653701/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP657813|EP657813 ]] Distributed database management. [[http://gauss.ffii.org/View/EP657813/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP677807|EP677807 ]] Processing system and method of operation. [[http://gauss.ffii.org/View/EP677807/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP684716|EP684716 ]] A data communication network and method for operating said network. [[http://gauss.ffii.org/View/EP684716/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP695072|EP695072 ]] Method and apparatus for consistent user interface in a multiple application personal communications device [[http://gauss.ffii.org/View/EP695072/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP699993|EP699993 ]] Method and system for indicating boundaries of connected data subsets [[http://gauss.ffii.org/View/EP699993/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP777184|EP777184 ]] Cache coherency method and system [[http://gauss.ffii.org/View/EP777184/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP936554|EP936554 ]] Cache coherency protocol including a hovering (h) state having a precise mode and an imprecise mode [[http://gauss.ffii.org/View/EP936554/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP936556|EP936556 ]] Cache coherency protocol including a hovering state (hr) [[http://gauss.ffii.org/View/EP936556/Comments|(comments) ]]
+
+=== Not valid, application withdrawn ===
+
+ 1. [[http://gauss.ffii.org/View/EP424665|EP424665 ]] Method and apparatus for finding the best splits in a decision tree for a language model for a speech recognizer. [[http://gauss.ffii.org/View/EP424665/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP455374|EP455374 ]] Controlling a computer display. [[http://gauss.ffii.org/View/EP455374/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP462446|EP462446 ]] System for simulating computer program execution. [[http://gauss.ffii.org/View/EP462446/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP466339|EP466339 ]] A method of passing task messages in a data processing system. [[http://gauss.ffii.org/View/EP466339/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP469802|EP469802 ]] Character recognition system and method using the generalised hough transformation. [[http://gauss.ffii.org/View/EP469802/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP478257|EP478257 ]] Method and apparatus for producing three dimensional image. [[http://gauss.ffii.org/View/EP478257/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP478486|EP478486 ]] Method and system for providing communication in a layered communication architecture. [[http://gauss.ffii.org/View/EP478486/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP487444|EP487444 ]] Method and apparatus for consensual delegation of software command operations in a data processing system. [[http://gauss.ffii.org/View/EP487444/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP488501|EP488501 ]] Scheduling input/output operations in multitasking systems. [[http://gauss.ffii.org/View/EP488501/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP491585|EP491585 ]] Dynamic link libraries system and method. [[http://gauss.ffii.org/View/EP491585/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP497485|EP497485 ]] Computer for implementing two-operand instructions. [[http://gauss.ffii.org/View/EP497485/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP499566|EP499566 ]] Improved action bar processing on non-programmable workstations. [[http://gauss.ffii.org/View/EP499566/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP514305|EP514305 ]] Method and apparatus for facilitating contextual language translation within an interactive software application. [[http://gauss.ffii.org/View/EP514305/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP515296|EP515296 ]] Process and apparatus for managing network event counters. [[http://gauss.ffii.org/View/EP515296/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP549511|EP549511 ]] Method and system for delaying the activation of inactivity security mechnanisms in a multimedia data processing system. [[http://gauss.ffii.org/View/EP549511/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP567834|EP567834 ]] Advanced data capture architecture data processing system and method for scanned images of document forms. [[http://gauss.ffii.org/View/EP567834/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP573711|EP573711 ]] Data processing system. [[http://gauss.ffii.org/View/EP573711/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP583031|EP583031 ]] A method and system for apparent direct editing of fixed display elements within a data processing system. [[http://gauss.ffii.org/View/EP583031/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP613269|EP613269 ]] Method of operating a computer in a network. [[http://gauss.ffii.org/View/EP613269/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP666667|EP666667 ]] Performance and status monitoring in a computer network. [[http://gauss.ffii.org/View/EP666667/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP667585|EP667585 ]] Graphical user interface. [[http://gauss.ffii.org/View/EP667585/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP668559|EP668559 ]] System and method for distributed processing control. [[http://gauss.ffii.org/View/EP668559/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP680000|EP680000 ]] Data store access in an object oriented environment. [[http://gauss.ffii.org/View/EP680000/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP682309|EP682309 ]] Data processing system adapted for single instruction branching on multiple condition codes from plural processing elements. [[http://gauss.ffii.org/View/EP682309/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP686917|EP686917 ]] Apparatus for processing a series of timing signals [[http://gauss.ffii.org/View/EP686917/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP689193|EP689193 ]] Speech recognition using dynamic features [[http://gauss.ffii.org/View/EP689193/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP697677|EP697677 ]] Apparatus and method for determining image quality [[http://gauss.ffii.org/View/EP697677/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP703536|EP703536 ]] Method and apparatus for retrieving and outputting multimedia [[http://gauss.ffii.org/View/EP703536/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP706131|EP706131 ]] Method and system for efficient miss sequence cache line allocation [[http://gauss.ffii.org/View/EP706131/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP706133|EP706133 ]] Method and system for concurrent access in a data cache array utilizing multiple match line selection paths [[http://gauss.ffii.org/View/EP706133/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP718758|EP718758 ]] Mechanism to identify instruction word boundaries in cache [[http://gauss.ffii.org/View/EP718758/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP718980|EP718980 ]] Data compression method of individual sequences of strings of a data stream based on a dictionary and device for performing the same [[http://gauss.ffii.org/View/EP718980/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP721160|EP721160 ]] Apparatus and method for object oriented notification [[http://gauss.ffii.org/View/EP721160/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP723220|EP723220 ]] Parallel processing system amd method using surrogate instructions [[http://gauss.ffii.org/View/EP723220/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP726522|EP726522 ]] A sytem and method for handling stale data in a multiprocessor system [[http://gauss.ffii.org/View/EP726522/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP726524|EP726524 ]] Protocol and system for performing line-fill addressing during copy-back operation [[http://gauss.ffii.org/View/EP726524/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP726529|EP726529 ]] Array processor topology reconfiguration system and method [[http://gauss.ffii.org/View/EP726529/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP726534|EP726534 ]] Method and apparatus for the pointer-based searching of large volumes of data [[http://gauss.ffii.org/View/EP726534/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP727755|EP727755 ]] Learning system with prototype replacement [[http://gauss.ffii.org/View/EP727755/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP736829|EP736829 ]] Variable computer icon for single control of complex software functions executed on a data processing system [[http://gauss.ffii.org/View/EP736829/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP743601|EP743601 ]] A system and method for improving cache performance in a multiprocessing system [[http://gauss.ffii.org/View/EP743601/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP766179|EP766179 ]] Information handling system including non-disruptive command and data movement between storage and one or more auxiliary processors [[http://gauss.ffii.org/View/EP766179/Comments|(comments) ]]
+ * [[http://gauss.ffii.org/View/EP795823|EP795823 ]] Method and system for data filtering within an object-oriented data processing system [[http://gauss.ffii.org/View/EP795823/Comments|(comments) ]]
+
+== Media Echo ==
+
+ * 2005-01-12 DE [[http://www.pressebox.de/index.php?boxid=29208&sid=searchengine_sid|Pressebox: FFII findet ca 100 "befreite" europäische IBM-Patente]] (-> IbmListOfPatents0501En)

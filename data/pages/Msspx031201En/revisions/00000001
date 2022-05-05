@@ -1,0 +1,45 @@
+= MS condemned to pay 62.3 mn USD for NetMeeting feature =
+
+According to an [http://www.computerwoche.de/index.cfm?pageid=254&artid=55211 IDG article]
+
+  US-Gericht in San Francisco hat entschieden, dass Microsoft an die SPX-Tochter
+  Imagexpo LLC wegen VerstoÃ gegen deren Patentrechte 62,3 Millionen Dollar
+  Strafe zahlen muss. Konkret ging es bei dem Streit um so genannte
+  "Whiteboard"-Technik, die der Redmonder Konzern in seine
+  Videokonferenz-Software "Netmeeting" eingebaut hatte. Seit Version 3.0 von
+  Netmeeting ist das Feature allerdings nicht lÃ¤nger vorhanden.
+
+= The Patent Claims =
+
+[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=/netahtml/search-bool.html&r=1&f=G&l=50&co1=AND&d=ptxt&s1=5,206,934.WKU.&OS=PN/5,206,934&RS=PN/5,206,934 US Patent 5,206,934]
+
+Claim 1 reads:
+
+An apparatus for conferencing among at least two computers designated as local and   remote user terminals, respectively, said apparatus comprising: 
+
+- means at said local user terminal for receiving and interpreting local user inputs   and for producing local user action outputs; 
+
+- means at said local user terminal for encoding said local user action outputs into packets of encoded commands; 
+
+- means at said local user terminal for sending said encoded commands to at least one remote user terminal and for sending the same encoded commands to said local user terminal; 
+
+- means at said local and remote user terminals for receiving and decoding said encoded commands; and 
+
+- means at said local and remote user terminals for responding to the decoded commands by executing equivalent operations on data stored at said local and remote user terminals. 
+
+This claim seems to cover all ways of editing any kind of shared data by people at
+different locations.  Anyone who writes net-conferencing software will want to
+enable such a feature and thereby infringe on this patent.  The contestations of MS that the patent is too broad and their development independent are thus credible, but of little relevance.  The incommensurate breadth of patent claims is normal, and not a basis for contesting their validity.
+
+= US only =
+
+According to patent family search at [http://depatisnet.dpma.de depatisnet],
+this patent was granted only in the US (a WIPO application was also filed,
+but apparently not pursued to the national stage).
+
+= Out-of-court settlement  =
+
+By 2003-12-24, MS agreed to pay 60 mn USD to SPX by 2003-12-30 in order
+to avoid further litigation:
+
+[http://www.golem.de/0312/29063.html MS zahlt 60 mn USD an SPX]

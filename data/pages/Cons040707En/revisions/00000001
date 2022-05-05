@@ -1,0 +1,43 @@
+## -*- dok: cons040707; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= 2004-07-07 DE Germany amends Council statement that it "agreed after slight changes" =
+-->
+[ [:Cons040518En: Council 04-05-18]
+| [:ConsDe040518En: DE role]
+| [:ConsRevers04En: Reversal]
+| [:SwpatcninoEn: Patent News]
+]
+----
+
+Council documents discovered by FFII show that on 2004 July 07 the German delegation requested a change in the minutes of the "Political Agreement" of the "Competitiveness Council" on the "Proposal for a Directive of the European Parliament patentability of computer-implemented inventions", Point 12.
+
+The following sentence from [http://register.consilium.eu.int/pdf/en/04/st09/st09586.en04.pdf the council the minutes as created by]
+
+''The Council reached political agreement with a view to the adoption of its common position on the proposed Directive, on the basis of the Presidency compromise proposal (9277/04 ADD 1) as '''slightly''' amended.''
+
+was amended ([http://register.consilium.eu.int/pdf/en/04/st09/st09586-am01.en04.pdf pdf]) by the german delegation to: 
+
+''The Council reached political agreement with a view to the adoption of its common position on the proposed Directive, on the basis of the Presidency compromise proposal (9277/04 ADD 1) as amended *at the meeting on the basis of thorough discussions.*'' 
+
+
+In fact the amendment consisted only in the insertion of the attributes "new and" in Art 2b, stating that a technical contribution must not only be inventive but also new.
+
+The Council's initial summary is correct, because this insertion in fact only reduplicates an already existing article of the same directive, which says that the technical contribution is the difference between the claim object and the state of the art.
+
+== Comments ==
+
+[:HartmutPilchEn: Hartmut Pilch]:
+
+The German government can not admit that it's insertion is insignificant, because in its public statements, the government consistently asserts that it accepted the Council's proposal "only after changes that significantly raise the threshhold for the patentability of computer-implemented inventions".
+
+It has often been pointed out that the government is lying, and of course the government can not tolerate it when even the EU Council's papers point out this lie.  Therefore it had to amend this paper and insert a fiction of a "thourough debate".  As the publicly available records of the Council meeting show, such a debate did not take place.
+
+The German [:SwpatcninoEn: ministry of justice] is the hard core of the patent lobby in Germany.  They are more uncompromisingly in favor of unlimited patentability than any industry lobby, and consistently engaged in lying to the public for the sake of this goal.  Other lies which the same minustry regularly reiterates include:
+
+ * "We strove for a definition of technical contribution" -- the ministry did propose such a definition, but at the same time they said, even in public, that such a definition is not acceptable for "the industry" and consequently also not acceptable for the government.  Article 2b, which contained this definition, was never meant as a serious proposal but only used as a means of deceiving other delegations, such as the Polish, and breaking their resistance.
+ * "We do not want patents on software but only on technical inventions involving peripheral equipment such as anti-blocking systems" -- the Parliament's amendments would achieve exactly that, but the german government has not only been rejecting these amendments but they also introduced and strongly advocated the introduction of program claims in the Council.  Program claims are applicable only in cases where the claimed invention is a program as such / pure software.
+ * "If you are not copying from others, you won't infringe on a patent" -- said by Brigitte Zypries in Heise chat
+ * "Patents are cheap, they can be obtained at a cost of 60 eur only" (said by Brigitte Zypries in Heise chat) -- as anyone knows, the main costs are in litigation risks
+ * "not allowing sophisticated software such as MP3 to be patentable would be an irresponsible innovation policy" -- this bold hypothesis is uncorroborated or even falsified by economic studies, including studies conducted at the order of the German government.  The government regularly disregards the results of its economic studies, and the ministry of justice seems to make statements in the realm of economics while holding serious economic studies in contempt 
+ * "We need a EU directive in order to bind the EPO" -- the EPO is not bound by EU law.
+
+The German government has been very friendly to FFII recently.  We had nice talks at so-called round tables and it seems that these helped to open some windows of understanding here and there.  Yet, rather than inviting us to privileged talks, it would be better if the government began to speak in plain and honest language to the general public.   More than 1000 SMEs have filled in questionnaires from the government which the government is now refusing to look at, after it turned out that most of the answers showed a high competence of the SMEs in these matters and an industry-wide strong sentiment against software patents.

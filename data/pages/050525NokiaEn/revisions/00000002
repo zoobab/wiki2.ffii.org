@@ -1,0 +1,43 @@
+## -*- dok: 050525NokiaEn; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## datum 2005-05-25
+= Nokia "Support" Linux =
+[ [[SwpatcninoEn| Patent News]]
+]
+----
+
+
+''25 May 2005: Nokia announced support for the Linux kernel by making their patents legally non-assertable. Up to August 2004 Nokia had over 920 European patents and their lawyer has actively campaigned in Brussels to support a strong form of the software patent directive.''
+
+== Links. ==
+ * [[http://www.nokia.com/nokia/0,1522,,00.html?orig=/iprstatements|The Nokia Statement:]]
+ * [[http://swpat.ffii.org/gasnu/nokia/index.en.html|FFII's record of Nokia:]]
+
+
+== Comment. ==
+The Nokia statement has been widely publicised. It begins, 
+"Nokia hereby commits not to assert any of its Patents (as defined herein below) against any Linux Kernel (as defined herein below) existing as of 25 May 2005. The aforesaid non-assertion shall extend to any future Linux Kernel to the extent that Nokia does not declare any new functionality embodied in such Linux Kernel to be outside the scope of this Patent Statement. Nokia shall issue such declaration through its website no later than one hundred and twenty (120) days after the official release of such Linux Kernel."
+
+Jonas Maebe, a FFII board member commented, 
+"While Nokia have said they will not sue anyone for using their patents in the
+Linux kernel this assurance only covers the kernel as it exists today, with no
+guarantee that this will stand even until the end of this year. Nokia make no
+promises not to sue other projects and make no guarantee that developers and
+SMEs won't be sued for taking code, for example, from the Linux kernel to
+another project, as permitted under the General Public License (GPL) under
+which Linux and many other Free and Open Source projects are distributed."
+
+"So unless Nokia releases all of it's patents to everyone using the GPL, their
+statement today effectively means nothing. The threat of software patents
+remains, hindering innovation and competition in both proprietary and
+open-source software development across the world. By contrast it's exactly the
+freedoms that the GPL gives that have driven the vast amount of innovation in
+Open Source development and proven the value of copyright in licensing software
+and fostering real innovation and business."
+
+"Nokia's agressive software patent litigation has caused notable criticism, not
+least from its own employees, and no SME with interests in desktop and network
+computing, as well as Voice-Over Internet Protocol (VoIP) technology, should be
+fooled by what is, for all intents and purposes, a confused wolf in sheep's
+clothing."
+
+ Nokia mobiles have run on Linux in the past and continue to do so with the new Nokia 770. It is difficult not to be suspicious of Nokia's motives.

@@ -1,0 +1,114 @@
+Objectif
+
+ * faire savoir aux électeurs pour qui ils votent
+ * mettre en contact les gens avec des députés européens
+ * booster le soutien à l'Appel à l'action II
+
+== But : forcer les députés à dire/faire quelque chose - évitez la langue de bois !  ==
+== Une autre réponse que Oui ou Non n'est pas une réponse mais un commentaire, bien entendu des commentaires peuvent être également donnés, mais s'is ne complètent pas une réponse claire oui/non, qui puisse être rendue publique, il est difficile d'interpréter les commentaire comme un "oui" ou comme un "non"  ==
+
+Donner une brève introduction sur la question avant de la poser est peut-être une bonne chose :
+
+== Revendications de programmes  ==
+Les lobbyistes pro-brevets exigent toujours des revendications de programmes. Elles empêchent le droit à la '''publication''', même sur votre propre création et sont une insulte aux garanties du droit d'auteur :
+
+ 1.
+    Allez-vous voter pour le droit à la publication, contre les
+    revendications de programmes ?
+
+== Interopérabilité  ==
+Empêcher la concurrence ou lui faire payer une licence entrave le libre échange et les procédures anti-trust ne donnent rien dans la majorité des cas, l'article 6bis est donc pour nous un garde-fou essentiel :
+
+ 2.
+    Allez-vous voter pour la liberté d'interopérabilité selon
+    l'article 6bis qui a été adopté le 24 septembre dernier en
+    séance plénière et auparavant par les commissions JURI, CULT
+    et ITRE ?
+
+== Exclusion des traitements de données  ==
+Brève introduction : ''"Si le traitement de données, qui est la principale tâche des programmes d'ordinateurs, est défini comme appartenant à un domaine technique, alors tous les programmes d'ordinateurs deviennent brevetables. Ceci serait également en contradiction avec les traités internationnaux comme par exemple le traité sur le droit d'auteur de l'OMPI (préjudice des droits garantis à un auteur) :"'' (cela devrait suffir)
+
+Description (juste au cas où le député hésite) : ''Le traitement de données consiste à trier des données comme des nombres ou des noms, à convertir un document d'un format vers un autre, à faire des calculs, etc. Si le traitement des données est défini comme appartenant à un "domaine technique", tous les programmes d'ordinateurs deviennent des objets brevetables. En excluant le traitement des données des "domaines techniques", les véritables inventions ne sont pas excluent des objets brevetables car elle apportent une contribution à l'état de l'art dans un véritable domaine technique. Ainsi, elles sont toujours brevetables, même si dans leur mise en oeuvre, il est également nécessaire de traiter des données. Ce que l'on dit là est que l'invention doit se trouver ailleurs, pas dans le programme : ''
+
+ 3.
+    Allez-vous voter pour que le traitement des données ne soit pas considéré
+    comme un domaine technique comme le précise l'article 3bis qui a été adopté
+    le 24 septembre dernier en séance plénière ?
+
+== Définition de la technique  ==
+Si le terme "technique" n'est pas défini par rapport aux forces contrôlables de la nature les algorithmes sont brevetables :
+
+ 4.
+    Allez-vous voter pour une définition de la "technique"
+    se référant aux forces contrôlables de la nature ?
+
+== Rejet ? (importance accordée aux questions Q&-Q4)  ==
+
+Cette dernière question n'est pertinente que si le député a répondu 'oui' aux quatres questions précédentes.
+
+ 5.
+    Si l'une des propositions que vous avez promis de voter est rejetée,
+    allez-vous voter pour le rejet complet de la directive?
+
+----
+Si le député européen n'est pas sûr (pas de réponse claire "oui" ou "non", écrivez un commentaire sur ce
+qu'il a dit et demandez-lui s'il est envisageable de le rappeler plus tard à propos de ces questions et
+quand cela pourrait être fait.
+
+Les réponses du député devraient rentrer dans ces formulaires afin de publier les résultats graphiquement avec
+http://www.foeeurope.org/euvotewatch/images/db_images/smiley.gif -
+http://www.foeeurope.org/euvotewatch/images/db_images/frowny.gif ou http://europarliament.net/img/sab.gif
+
+Exemples: [http://europarliament.net/server.php?p=20 europarliament.net] et [http://www.foeeurope.org/euvotewatch/ foeeurope.org/euvotewatch]
+
+Si le député ne répond pas à toutes les questions, laissez-les ouvertes (ni oui, ni non, vous pouvez à la place mettre un commentaire, jusqu'à 80 caractères). Voici un exemple de question ouverte et un rendez-vous pour recontacter le député :
+
+ MEP              : David Edwards
+ QuestionResp-Date: 2004-04-26 15:30
+ QuestionMethod   : par téléphone: +39 32 3234234 (bureau électoral)
+ Q1-Publication   : yes
+ Q1-Comment       : le droit à la publication est essentiel
+ Q2-Interoperation: yes
+ Q2-Comment       : 
+ Q3-Dataprocessing: yes
+ Q3-Comment       : 
+ Q4-Forcesofnature: contactagain
+ Q4-Comment       : pas encore sûr de voter pour, j'ai besoin d'informations supplémentaires
+ Q5-Rejectproposal: yes
+ Q5-Comment       : 
+ ContactAgain-Time: 2004-05-02 14:00
+ ContactAgain-Meth: Téléphone: +33-284-284567
+ ContactAgain-Comm: Ou vous pouvez me rencontrer à mon bureau à Liverpool le 2004-05-01
+ ContactAgain-Addr: bernhard.kaindl@gxm.cz
+
+Bernhard Kaindl rentrera ces information dans une table de sousmission de manière à avoir
+les informations sur quand recontacter tel député, etc.
+Bien entendu nous ne publierons pas votre nom et votre adresse email.
+
+Description des champs :
+ MEP              : Nom du député européen, nom puis prénom comme sur http://www.europarl.eu.int
+ QuestionResp-Date: Date et heure du contact avec ce député
+ QuestionMethod   : comment le député a-t-il été contacté
+ Q1-Publication   : yes/no/abst/follow/contact (laissez le champ vide si aucune info)
+                    yes    = Je m'engage à voter pour.
+                    no     = Non, je ne voterai pas pour.
+                    abst   = Je ne suis ni pour, no contre, ou ne peux pas encore me prononcer.
+                    follow = J'aimerais suivre un autre député (entrez le nom dans le champ de commentaires)
+                    contact= Recontactez moi (demandez à peu près quand et entrer la date ci-dessous)
+ Q1-Comment       : Commentaire sur la réponse ou la question, sans limite de taille, peu également
+ contenir des sauts de lignes comme ceci
+ Q2-Interoperation: Tout autre chose que yes/no/abst/follow n'est ajouté que comme commentaire
+ Q2-Comment       : de même laisser vide si le député n'ajoute rien
+ Q3-Dataprocessing: ...
+ Q3-Comment       : 
+ Q4-Forcesofnature: 
+ Q4-Comment       : 
+ Q5-Rejectproposal: 
+ Q5-Comment       : 
+ ContactAgain-Date: Date et heure où le député peut/doit être recontacté
+ ContactAgain-Meth: Phone: +33-284-284567
+ ContactAgain-Comm: Commentaire pour le prochain contact, ex. venez me voir à Liverpool le ... à ..
+ ContactAgain-Mail: Adress mail de celui qui doit recontacter le député
+ ContactAgain-Fixd: yes/no (si c'est un rendez-vous fixe ou juste une estimation)
+----
+Projets liés: MepdbEn, MepV0405En

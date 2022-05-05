@@ -1,0 +1,89 @@
+## -*- dok: SapEp0411; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-02-09
+= SAP citing Ericsson's favorite EPO caselaw to argue for business method patents =
+->
+[ [:EpoT030258En: Hitachi decision]
+| [:SwpatsapEn: SAP]
+| [:SwpatcninoEn: Patent News]
+]
+----
+
+''9th February 2005 -- In letters to the EPO of November 2004, SAP's patent attorney cites those very doctrines to argue in favor of business method patentability, which, according to a letter sent to members of the European Parliament by Ericsson, guarantee that the EU Council's text "firmly rejects" business method patents.''
+
+The German business software giant SAP AG has been obtaining an increasing number of business method patents every year at the European Patent Office since 1998, when SAP started their patenting operations.  SAP's patent department has been lobbying for the Council text, which, as SAP says, would secure their business method patent assets and allow them to go on with their patent operations.  In the latest correspondence regarding patent applications from 2003, SAP cites the new caselaw from the EPO in favour of their patenting efforts.  As a letter from Ericsson to MEPs states, this caselaw, the "Hitachi decision" of 2003, is equivalent to the EU Council's "political agreement" of May 2004.
+
+With regard to business method patents, SAP is now using the [http://www.european-patent-office.org/epo/pubs/oj004/12_04/12_5754.pdf EPO TBA decision T 258/03] to explain to EPO why their business methods should be patentable. On 2nd November 2004 they wrote letters with slightly modified claims attached mentioning T 258/03 (regarding two patent applications):
+
+ * [http://ofi.epoline.org/view/GetDossier?dosnum=&pubnum=WO03067548 EPO online inspection for WO03067548]
+ * [http://ofi.epoline.org/view/GetDossier?dosnum=&pubnum=WO03069580 EPO online inspection for WO03069580]
+
+In a round-robin letter from Ericsson's vice president Ulf Pehrsson to members of the European Parliament, Ericsson's patent lawyers had called on !MEPs to trust the practise of the European Patent Office and the Council text which enshrines it, and they had pointed to the Hitachi decision as a model case which shows how the EPO rejects business method patents.
+
+The Ericsson letter, dated 2005-01-28, says specifically:
+
+  The current version of the Council text (the "Political Agreement" of
+  24 May 2004) has established greater clarity and legal certainty in
+  defining the boundaries of patentability by adopting many helpful
+  amendments introduced by the European Parliament (EP) at First
+  Reading.  Specifically, the "Political Agreement", states expressly
+  that pure software, i.e. a computer program as such, cannot constitute
+  a patentable invention (Art. 4a.1).  It also reaffirms that computer
+  programs (in source code, object code, or in any other form), which
+  implement a business method or a mathematical method, are excluded
+  from patentability (Art. 4a.2).  It confirms the requirement for a
+  technical contribution (Art. 4) - which must be in a field of
+  technology (Art. 2b) - and spells out that a CII which does not make a
+  technical contribution will not be patentable (Recital 12), and that
+  merely implementing an otherwise unpatentable method on a computer
+  does not constitute a technical contribution (Art. 4a.2 and Recital
+  13a) and remains unpatentable.  The requirement for a technical
+  contribution in the EU guarantees that we will not end up with the
+  liberal approach to patenting along the lines of US practice. There is
+  no requirement for an invention to be technical in the US and hence
+  business and software patents have been allowed there.  The
+  restrictive approach in Europe has been evidenced in the Pension
+  Benefits System case T0931/95 (2000), which was granted in the US but
+  was firmly rejected by the EPO (European Patent Office). Other
+  examples of cases refused by the EPO are Comvik T0641/00 (2002), Ricoh
+  T0172/03 (2003) and Hitachi T0258/03 (2004).  The Political Agreement
+  therefore provides a very sound basis on which to continue to Second
+  Reading.
+
+Among the cited caselaw, [:EpoT950931En: Controlling Pension Benefits System] of 2000 is the reference case on which the European Commission's directive proposal was built.
+
+The recent EPO business method caselaw from "Pension Benefits 2000" to
+"Hitachi 2004" makes it clear that "computer-implemented business
+methods" are, according to the EPO, patentable inventions.  Some of
+these business methods have however been rejected, because the
+applicant wasn't able to argue that the "inventions" were faster or
+more efficient than the solutions found in the prior art (i.e., in EPO
+jargon, "contain a technical contribution in the inventive step").
+Especially applicants from US and Japan who go via WIPO often forget
+to include the needed EPO-compatible wordings in their applications.
+
+This seems to have happened in the SAP case too, where the EPO at
+first refused an examination, because it was directed to an activity
+rather than to an apparatus performing this activity.  Patent attorney
+[:SwpatschiumaEn: Dr. Daniele Schiuma] points out on behalf of SAP:
+
+  In fact, according to the new case law of the Technical Board of
+  Appeals T 258/03 "Auction Method / HITACHI" of 21 April 2004 the Board
+  confirmed that a mix of technical and non-technical features may be
+  regarded as an invention within the meaning for Art 52(1) EPC and that
+  prior art should not be considered when deciding whether claimed
+  subject-matter is such an invention, a compelling reason for not
+  refusing under Article 52(2) EPC subject-matter consiting of technical
+  and non-technical features is simply that the technical features may
+  in themselves turn out to fulfill all requirements of Article 52(1)
+  EPC.  This reason is explicitely mentioned to be independent of the
+  category of the claim.
+
+  ... 
+  
+  Hence, in the Board's view, activities falling within the
+  notion of a non-invention "as such" would typically represent purely
+  abstract concepts devoid of any technical implications.  Since the
+  subject matter presently on file has a technical character, in
+  particular in view of the presence of technical means, and thus does
+  not relate to purely abstract concepts devoid of any technical
+  implications, a search needs to be carried out.

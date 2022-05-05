@@ -1,0 +1,37 @@
+= Web-Formular zum Ausfüllen des BMWA-Fragebogens zu Softwarepatenten =
+-->
+[ [[Bmwa040715De| BMWA-Umfrage 2004-07-15]]
+]
+----
+
+== Das Formular ==
+
+ * http://swpat.ffii.org/papri/bmwa0407/fragebogen.html
+
+== Was es tut, wie man es verwendet ==
+
+Nach dem Ausfüllen wird ein Openoffice-Dokument zum Herunterladen angeboten.
+Sie können es dann entweder [[http://www.oooconv.de/engine/OOOconv.php|konvertieren]] (z.B. nach !MSWord)
+oder direkt in [[http://de.openoffice.org/|OpenOffice]]
+(oder [[http://de.sun.com/Produkte/software/star/staroffice/index.jsp|StarOffice]])
+weiterbearbeiten und an die FH Gelsenkirchen einreichen.
+
+Wenn Sie !OpenOffice zügig benutzen können, ist es vorteilhaft, direkt auf dem [[http://www.informatik.fh-gelsenkirchen.de/pohlmann/Fragebogen_Softwarepatente_V_1.sxw|OpenOffice-Formular]] zu arbeiten.
+
+Eventuelle Probleme bitte hier im Wiki (s. Überschrift "Fragen, Probleme, Verbesserungsvorschläge" unten) festhalten und/oder an bmwa0407-help at ffii org berichten.
+
+== Was man noch wissen sollte ==
+
+ * Man kann mehrere Felder auswählen. Das ist nicht immer sinnvoll, aber das Original verbietet es nicht.
+ * Die von der FH Gelsenkirchen angebotenen [[http://www.informatik.fh-gelsenkirchen.de/pohlmann/Fragebogen_Softwarepatente_V_1.sxw|OpenOffice]]-und [[http://www.informatik.fh-gelsenkirchen.de/pohlmann/Fragebogen_Softwarepatente_V_1.doc|MS-Word]]-Dokumente lassen sich auch direkt ausfüllen.
+
+== Fragen, Probleme, Verbesserungsvorschläge ==
+
+=== Moegliche Erweiterungen ===
+
+ * Verweise auf Wiki-Seiten der Form BmwaQ02Not040715De (Anmerkungen zu Frage 2) könnte man noch einbauen.
+ * Es wäre möglich, eine Werte-Datei (Stil einer Konfigurationsdatei) ebenfalls zu erzeugen (evtl als zip oder durch Auswahl vor dem Absenden), die später beim erneuten Ausfüllen hochgeladen werden kann (advanced)
+
+=== Presse ===
+
+ * http://www.heise.de/newsticker/meldung/49239

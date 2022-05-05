@@ -1,0 +1,73 @@
+= Preguntas a los candidatos sobre su posición acerca de la directiva de patentes de software =
+
+== Propuesta. ==
+
+ * http://www.ffii.org/~bkaindl/questionnaire/
+ * Beta del formulario online en http://www.ffii.org/ffii-cgi/eintrag.b
+
+== Propósitos  ==
+
+ * Hacer pensar a los candidatos sobre el tema 
+ * Que los votantes conozcan qué van a hacer con su voto
+ * Poner en contacto a los votantes con los candidatos a parlamentarios 
+ * Preguntas a los candidatos sobre el apoyo a la [http://swpat.ffii.org/papers/europarl0309/demands/ Petición de acción II]
+
+== Folleto ==
+
+[http://swpatwiki.ffii.org/ElectionQuestionnaire2004BackgroundSpanish Folleto con unas pequeñas explicaciones a las preguntas] (en swpatwiki, que permite notificaciones vía correo elecrónico de las actualizaciones, y ver las diferencias)
+
+== Notas ==
+
+ * Notas sobre la pregunta Q1: la libertad de publicación implica el rechazo de las reivindicaciones sobre programas (program claims), de acuerdo con la propuesta de JURI (Comité Jurídico del Parlamento Europeo). En la votación de JURI de 2003-06-17 la libertad de publicación (5A?) quedó "obsoleta" porque las reivindicaciones sobre programas ya habían sido aceptadas. (jgb: qué fue exactamente lo que se aprobó en JURI: este párrafo parece contradictorio)
+
+ * Notes sobre la pregunta Q2: la propuesta sobre el apartado "6a" ha sido reescrita por la Secretaría del Parlamento. Además, la redacción exacta de 6a puede mejorarse.
+
+----
+
+== Reivindicaciones sobre programas (program claims) ==
+
+Es importante preguntar siempre por las reivindicaciones sobre programas. Estas reivindicaciones eliminan el derecho de '''publicación''', incluso de tu propio trabajo, y son un verdadero insulto a los derechos garantizados por la legislación sobre derechos de autor:
+
+
+''Q1. ¿Votará por el derecho de publicación, en contra de las reivindicaciones sobre programas (program claims)?''
+
+== Interoperabilidad ==
+
+Si se pueden usar las patentes para limitar o evitar la interoperabilidad, o bien para obligar a pagar derechos a quien quiera hacer un programa que interopere con otro, el funcionamiento del mercado libre se ve severamente perjudicado y en general las medidas antimonopolio no pueden surtir efectoso. Por eso creemos que el articulo 6A es una salvaguarda esencial.
+
+Q2. ''¿Votará por la libertad de interoperabilidad en la forma del Artículo 6a, tal cual fue adoptado el 24 de septiembre en el Pleno, y antes en las comisiones JURI, CULT y ITRE, del Parlamento Europeo?''
+
+== Exclusión del proceso de datos   ==
+
+Si el proceso de datos, que es lo que esencialmente hace cualquier programas de ordenador, se define como un campo de la tecnología, entonces cualquier programa de ordenador podría ser sujeto a una patente. Si se excluye el proceso de datos de lso campos de la tecnología, las invenciones "de verdad" no quedan excluidas del ámbito de lo patentable si hacen una contribución al estado del arte en un campo "real" de la tecnología. Por lo tanto, siguen siendo patentables, incluso si entre otras cosas requieren que su implementación procese datos. Esto es, para que algo sea patentable, la invención no ha de estar en el programa, sino el alguna otra parte. Además de los problemas de otro orden que esto plantea, esto entraría también en conflicto con los tratados internacionales como el Tratado del Copyright de WIPO (perjudica los derechos de autor). 
+
+Q3. ''¿Votará por la exclusión del proceso de datos de los "campos de la tecnología" tal y como fue aprobado en  el artículo 3a que fue adoptado en el Pleno del 24 de septiembre del Parlamento Europeo?''
+
+== Definición de tecnología  ==
+
+Si "tecnología" no es definida haciendo una referencia a las fuerzas de la naturaleza o a las ciencias naturales, los algoritmos son patentables.
+
+Q4. ''¿Votará una definición de "tecnología" que se refiera a las fuerzas de la naturaleza?''
+
+== ¿Rechazo? - (importancia dada a las  preguntas Q1-Q4)  ==
+
+Última pregunta:
+
+Q5. ''Si uno de los cambios que ha prometido votar a favor es rechazado, votará por el rechazo de la directiva?''
+
+----
+Si el candidato a europarlamentario no está seguro (no responde claramente "sí" o "no"), escribe un comentario sobre lo que dijo y pregúntale si estaría dispuesto a que contactemos más adelante con su oficina sobre estas preguntas, y pregúntale cuándo le podría venir bien que lo hiciéramos.
+
+Las respuestas del europarlamentario deberán ser escritas en estos formularios para poder publicar los resultados gráficamente con
+http://www.foeeurope.org/euvotewatch/images/db_images/smiley.gif -
+http://www.foeeurope.org/euvotewatch/images/db_images/frowny.gif o http://europarliament.net/img/sab.gif
+
+Ejemplos: [http://europarliament.net/server.php?p=20 europarliament.net] y [http://www.foeeurope.org/euvotewatch/ foeeurope.org/euvotewatch]
+
+
+== Changelog ==
+ * 040528 jgb: some more translation and fixes
+ * 040528 jlga: translation to spanish
+ * 040521 jmaebe: pamphlet 0.2
+ * 040513 phm: strucutre of the defined questionnaire in http://www.ffii.org/assoc/verbdefs.txt and in database
+----

@@ -1,0 +1,70 @@
+## -*- dok: swpatid; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-03-18
+## title: India and Software Patents
+->
+[ [:SwpatgugdeEn: Countries]
+| [:Nath0412En: Nath Ordinance]
+| [:InAmend0503En: Amendments]
+| [http://lists.ffii.org/mailman/listinfo/in-parl/ mailing list]
+| [:SwpattripsEn: TRIPs]
+| [:SwpatidEn: Indonesia]
+| [:SwpatcninoEn: Patent News]
+]
+----
+
+''India's patent law states that computer programs per se are not inventions in the sense of the law.  Program claims are not allowed and the patent office's [:SwpatRulesInEn: examination guidelines] seem to take the software exclusion more seriously than in Europe.   Multinational corporations are currently hurrying to open R&D centers in India.''
+
+== News & Chronology ==
+
+ * 2005-03-22 IN !BusinessStandards: [http://www.business-standard.com/common/storypage.php?storyflag=y&leftnm=lmnu2&leftindx=2&lselect=1&chklogin=N&autono=184124 Govt plugs gaps in Patents Bill] (embedded software clause dropped)
+ * 2005-03-21 IN [http://www.financialexpress.com/fe_full_story.php?content_id=85839 FinancialExpress: Centre to curb evergreening of patents in amended Bill]
+ * 2005-03-21 EU/IN [http://wiki.ffii.org/Hammerstein050321En MEP Hammerstein writes to Indian MPs: TRIPS demands copyright for computer programs, but not patentability]
+ * 2005-03-12 IN [http://www.hindu.com/2005/03/12/stories/2005031201151000.htm The Hindu: The draft patent law] (the article is not software patents, but shows that the ordinance is not yet accepted by Parliament)
+ * 2004-12-27 [:Nath0412En: Government Rushes To Legislate Software Patents by Ordinance] ("A computer programme ''per se'' other than its technical application to industry or a combination with hardware" shall not be considered an invention)
+ * 2004-12-22 [http://www.lightreading.com/document.asp?site=lightreading&doc_id=65053 Light Reading: Lucent Opens Research Center in India] ("Bell Labs earns at least two patents a day")
+ * 2004-11-18 [http://www.financialexpress.com/fe_full_story.php?content_id=74524 Financial Express: "Significant" progress in (Indian) patent preparedness]
+ * 2004-10-28 [http://www.business-standard.com/common/storypage.php?hpFlag=Y&chklogin=N&autono=171009&leftnm=lmnu5&lselect=0&leftindx=5 Business Standards New Delhi: Trips forces India to allow product patenting]
+ * 2004-10-28 [http://www.hindustantimes.com/news/181_1079872,001301190000.htm HindustanTimes: US elections not to impact outsourcing] Mark Riedy "also said India lacked a data protection law and does not recognise product patents, which had resulted in the [:SwpatustrEn: US Trade Representative] placing the country on its Special 301 Priority Watch List." (--> [:EubsaProgEn: "computer program product" claims])
+ * 2004-10-24 [http://www.thestatesman.net/page.news.php?clid=2&theme=&usrsess=1&id=57954 The Statesman: GoM meet to focus on patents] ("There is a realisation that a relaxed patent regime has benefited India in the past." ... "This could help to ensure that the pharmaceutical sector becomes as internationally successful as the info-tech sector.")
+
+== Synopsis ==
+
+ * [http://wiki.ffii.org/Nath0412En Good analysis of the changed wording in the ordinance]
+ * India's patent law states that computer programs are not invention in the sense of the law
+ * Indian Patent law knows patentable inventions as opposed to non-patentable invention (<> non-inventions)
+ * The patent office has been softening this, similar to the EPO, but there is more counter-pressure than elsewhere, partially due to the belief that patents are an arm of already-developed countries such as the US against developing countries such as India
+ * Currently, [:EubsaProgEn: program claims] are not permitted in India, and the [:SwpatusEn: US] is exerting pressure to have them permitted.
+   * The newspaper articles to not give exact indications as to how high this issue is on the US patent lobby's agenda, but it is there without doubt.  The purpose of the term "program product" is to trigger [:SwpattripsEn: TRIPs].
+
+== NASSCOM, India's BSA  ==
+
+"NASSCOM... is working with software vendors along with Business Software Alliance (BSA) to implement stringent litigation and judiciary to control software piracy:
+
+=== "raising patent awareness" in India ===
+
+ * [http://www.nasscom.org/artdisplay.asp?Art_id=2225 Going forward it plans to organize few seminars to raise awareness levels about copyrights, patents, trademarks and licensing."] (note that this of course is not always a bad thing to do, FFII is doing the same ...)
+
+=== Success stories about Indian companies filing a lot of patents: ===
+
+ * http://www.nasscom.org/artdisplay.asp?Art_id=2242
+ * http://www.nasscom.org/artdisplay.asp?Art_id=2212
+
+== Studies ==
+
+ * P.Vijaya Kalyan, Research Associate, ICFAI Law School, ICFAI University, Hyderabad, India wrote an article and a legal analysis Article: [http://lang.webindia123.com/blog/index.php?id=58 SOFTWARE PATENTS: A LEGAL PERSPECTIVE], Paper: [http://lang.webindia123.com/blog/files/1097904733-SOFTWARE%20AND%20PATENTS.doc MS-Word doc] - Article and Paper give a good historical overview - generally good reseach, fears that software may become patentable in India
+ * [http://www.naukri.com/lls/pat/faq/ Indian Patents law knowledgebase FAQ]
+ * TRIPS Implementation Status in India: [http://www.atrip.org/upload/files/activities/tokyo2003/s07-Bhatnagar_gra.ppt ppt] - describe that changes that the Indian Patent system is undergoing now.
+ * July 31, 2004 - Narinder S. Banait, Ph.D., J.D, a Lawyer: IP Protection with an Eye to India ([http://www.sipa.org/download/Narinder%20Banait.ppt ppt]) - focuses mainly about Bioinformatics IP protection but als gives overview of the changes to occur in 2005, mentions software patents
+ * [http://www.google.de/search?hl=de&q=India+TRIPS+Software+Patents&btnG=Google-Suche&meta= Search Google for India TRIPS Software Patent]
+
+== Indian software patent samples (by Arun) ==
+
+ * Intel Corp. USA, No. 192439, "A method of processing a request and a computer system and microprocessor therfore", 2004-04-24
+ * Siemens, Germany, No. 193501, "Method for cashless payment", 2004-07-24
+ * Canal + Societe Amonyme, France, No. 193654, "Method of download data to an MPEG receiver/decoder and an MPEG receiver/decode", 2004-07-31
+ * Siemens, Germany, No. 181381, "Method for transmission of digital signals in time division multiplex channel from via a ATM transmission device.", 2004-11-29
+ * Interl Corp, No. 192590, "Method for providing content interruption", 2004-05-08
+ * Sun Microsystems Inc., 193708, "A computer implemented process for processing a computer program and a computer program product therefore", 2004-08-07
+ * Siemens, Germany, No. 194407, "A method for offering announcement in a communication network and the communication network thereof", 2004-10-30
+ * Siemens, Germany, No. 194087, "Method for transmission of data between a terminal and portable data carrier over a wireless electromagnetic transmission stretch", 2004-09-25
+ * Sun Microsystems, US, No. 194159, "An interactive computer assembly for implementing message dispatch for an object oriented program and method therof", 2004-09-25

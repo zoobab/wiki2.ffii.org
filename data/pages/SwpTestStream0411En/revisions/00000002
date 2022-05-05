@@ -1,0 +1,40 @@
+## -*- dok: SwpTestStream0411; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= FFII November Conference "Stream Team" =
+-->
+[ [[SwpTest0411En| Conference]]
+| [[http://eu.ffii.org/sections/bxl0411/|program]]
+| [[FfiiprojPriorEn| priorities]]
+| [[FfiiprojNewsEn| project news]]
+]
+----
+
+ * '''Members:''' Erik Lange (DK), Gitte Wange (DK), Martin Hjort Eriksen (DK), Håkan Kvist (SE), Erik Josefsson (SE), Benjamin Henrion (BE), Tobias Wiesserth (DE)
+ * '''Questions:''' mail to sslugtv@mmmanager.org
+ * '''Join:''' mail to sslugtv@mmmanager.org with "Subject: subscribe"
+----
+'''"Questions to the panels application"'''
+URL: http://questions.ffii.org/adm/ffii/ (Bug: one vote on a question closes the voting already...)
+ username: demo
+ password: demo 
+----
+The two main on-site (with camera and encoding computers) stream people are Håkan Kvist and Benjamin Henrion.
+'''TODO
+   ''' Create wiki page with infos for people which we can announce in a mail.
+   * Nov 10 European Parliament*
+ * ask who is ADSL guy in EP
+ * how to connect to EP sound system?
+   * You could try plugging into the Translation system. There will be no translation, but the microphone should be in use and you can plug into VO=Version Originale. You need the right kind of audio plug... I think this is called min-jack. Also, I guess it is a MONO system.
+     * '''mini-jack''', is that the same as a 2.5 mm audio plug, or is it the 3.5 mm version (like this one: {{http://www.kjell.com/content/media/images/items/37128.jpg}}) ?
+----
+'''TODO Nov 9 and 10'''
+ * can we get sound directly from the sound system used during the events or do we have to have our own microphone and record: mic-> speaker -> microphone-> computer?
+----
+== MISC ==
+ * Zoobab has DV Cam from David Glaude and has(or will get) all neccesary hardware.
+ * Anja Neitzert has a camera. It has "streaming outlet". Anja will do interviews (and not stand behind a static camera).
+ * We will use helixproducer as encoding software, available here in a trail/limited version http://www.realnetworks.com/products/producer/ (GNU/Linux x86 and Wintendo versions). Player and more information availabe from http://helixcommunity.org/
+ * The location of the stream will probably be http://tv.sslug.dk (maybe redricted from http://tv.ffii.org) 
+ * Open streaming manual for windows and linux machines http://radioqualia.va.com.au/streaming_manual/
+----
+=== Audio/video - equipment ===
+ * Audio: The prefered solution is if we can plug directly into the speakersystem that is used during the conference. If we can not do that we have to use an ordinary microphone for recording from the speakers, I'm not sure wether a builtin microphone on a camera will do or not.

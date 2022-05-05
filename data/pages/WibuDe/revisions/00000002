@@ -1,0 +1,40 @@
+## -*- dok: wibu; lang: de; coding: iso-8859-1; mode: fundamental; -*-
+= WIBU Systems AG: Besitzer eines Patentes auf Rechteverwertungs-Geschäftsmodell =
+->
+[ [[WibuEn| english]]
+]
+[ [[http://swpat.ffii.org/patents/txt/ep/1184/771/#bpg7|WIBU-Patent]]
+| [[SwpikxraniDe| Patente in Aktion]]
+| [[SwpatkamniDe| Firmen]]
+| [[SwpatcninoDe| Neuigkeiten]]
+]
+----
+
+''Die WIBU Systems AG wird derzeit von der Patentlobby als Paradebeispiel eines Kleinen oder Mittleren Unternehmens (KMU) vorgeführt, das Softwarepatente braucht, wie sie die Position des EU-Rates ermöglicht.  WIBU besitzt ein Patent auf ein Rechteverwertungs-Geschäftsmodell.''
+
+
+== Neues & Chronik ==
+
+ * 2005-04-07 [[Dihk050407De| DIHK-Veranstaltung in München]]: WIBU-Vertreter Oliver Winzenrieder bekommt einen Teil der Siemens-Redezeit, um glaubhaft zu machen, dass auch KMU für die Siemens-Position seien.
+ * 2005-04-00 Patet-Propagandafilm auf [[Patents4InnovationEn| P4I]] zeigt WIBU als Patent-Nutznießer
+
+== Das WIBU-Patent EP 1184771 ==
+
+ * http://swpat.ffii.org/patents/txt/ep/1184/771/#bpg7
+
+=== Vom EPA erteilter Hauptanspruch ===
+
+Verfahren zum Schutz von Computer-Software und/oder computerlesbaren Daten gegen unberechtigte Nutzung, umfassend die Schritte   
+ * Verschlüsselung der Software bzw. Daten durch den Lizenzgeber in Abhängigkeit von Lizenzparametern, enthaltend einem dem Lizenzgeber zugeordneten Firm Code (FC) und einem vom Lizenzgeber der Software bzw. den Daten zugeteilten User Code (UC), welche zusammen die Verschlüsselung initiieren;
+ * Speichern der verschlüsselten Software bzw. Daten auf einem Datenträger des Lizenznehmers;
+ * Verschlüsselte Übertragung der Lizenzparameter vom Lizenzgeber an den Lizenznehmer;
+ * Speichern der Lizenzparameter in einem nichtflüchtigen Speicher des Lizenznehmers;
+ * Automatische Entschlüsselung der Software bzw. Daten mittels eines Entschlüsselers in Abhängigkeit der eingespeicherten Lizenzparameter während der Nutzung der Software bzw. Daten durch den Lizenznehmer;
+dadurch gekennzeichnet, dass
+ * die Verschlüsselung der Software bzw. Daten initialisiert wird in Abhängigkeit eines vom Lizenzgeber frei gewählten geheimen Firm Key (FK);
+ * die Verschlüsselung der Übertragung der Lizenzparameter in Abhängigkeit eines geheimen Private Serial Key (SK) erfolgt;
+ * die Entschlüsselung der Software bzw. Daten initialisiert wird in Abhängigkeit des vom Lizenzgeber gewählten Firm Key (FK).
+
+== Allgemeines über WIBU ==
+
+ * http://www.wibu.de/ 

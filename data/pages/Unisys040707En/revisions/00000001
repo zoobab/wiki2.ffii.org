@@ -1,0 +1,31 @@
+= Premature joy about "GIF/LZW Patent expiration day" 2004-07-07  =
+--> 
+[ [:Unisys040707Pt: Portuguese]
+]
+[ [:SwpatcninoEn: News]
+| [:SwxaiGifLzwEn: GIF/LZW]
+| [http://swpat.ffii.org/patents/txt/ep/0129/439/ EP0129439]
+| [http://swpat.ffii.org/patents/txt/ep/0800/726/ EP0800726]
+]
+----
+
+Media reports LZW-Compression is finally patent-free, so we can encode/decode GIF images in our applications.
+
+[:ErikJosefssonEn: Erik Josefsson] cautions:
+
+I talked to Modiano, UNISYS representative in München.
+
+The patent EP129439 has expired according to some german computer magazine. Which seems to be true (date of filing 18-06-1984):[http://register.epoline.org/espacenet/regviewer?AP=EP19840304111 "High speed data compression and decompression apparatus and method"]
+
+But the patent EP0800726 expires only in 2015:
+
+[http://register.epoline.org/espacenet/regviewer?AP=EP19950943914 LZW DATA COMPRESSION USING AN ASSOCIATIVE MEMORY]
+[http://ofi.epoline.org/view/GetDossier?dosnum=95943914?=en# EPO Dossier]
+
+Modiano is not paying the renewal fees, that is probably done by UNISYS themselves.
+
+
+== Links ==
+
+ * http://www.kyz.uklinux.net/giflzw.php
+ * http://www.cloanto.com/users/mcb/19950127giflzw.html

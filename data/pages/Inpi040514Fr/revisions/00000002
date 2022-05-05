@@ -1,0 +1,128 @@
+= 2004-05-14 Tromperies de l'INPI au Nom du Gouvernment Francais  =
+
+Denis Chalon nous envoye la reponse "officielle" du gouvernement quant
+aux brevets logiciels.
+
+Il a envoyé une première lettre au ministère de l'industrie qui a
+répondu.  La reponse etait ecrit par un employee de
+l'[[http://www.inpi.fr/|INPI]], c.a.d. l'Office de Brevet Francais, qui
+domine ce dossier au sein du gouvernment francais et a une habitude de
+dire ce qu'il veut en son nom, meme en ignorant des instructions
+explicites des politiciens.
+
+La lettre etait d'abord envoyee en anonymite, mais apres des recherche Denis Chalon
+a trouve les coordonnes de son auteur:
+
+ Pierre Valla
+ Ministère délégué à l'Industrie
+ Sous-direction de la Normalisation, de la Qualité et de la Propriété Industrielle.
+
+Lisez aussi
+ * Pdgs0405Fr
+ * Inpi040514En
+
+== LA REPONSE DU MINISTERE: ==
+
+  Monsieur,
+  
+  Le projet de directive européenne portant sur la brevetabilité des
+  inventions mises en ouvre par ordinateur n'a pas pour finalité d'étendre le
+  champ de la brevetabilité, mais, bien au contraire, d'en préciser les
+  limitations, tout en restant respectueux des accords internationaux auxquels
+  nous adhérons.
+  
+  En Europe, une invention est brevetable si, relevant d'un domaine
+  technologique, elle est nouvelle, implique une activité inventive et est
+  susceptible d'application industrielle. Pour impliquer une activité
+  inventive, une invention doit apporter une contribution technique. 
+
+Cela n'est pas la loi europeenne mais la pratique de l'Office Europeen
+de Brevets (OEB).
+
+  Ces critères sont bien plus restrictifs que ceux appliqués aux
+  Etats-Unis, où, en l'absence d'exigence de contribution technique,
+  la jurisprudence a pu étendre le champ de la brevetabilité aux
+  logiciels et aux méthodes d' affaires, ce qui n'empêche cependant
+  pas le logiciel libre de s'y développer.
+
+On sait bien que ces criteres bidons de l'OEB n'empechent rien, voire
+[[http://swpat.ffii.org/papiers/eubsa-swpat0202/tech/index.fr.html|Pour Quoi l'Achat Par Un Click de Amazon est Brevetable selon la Directive JURI]].
+
+  En Europe, un logiciel en tant que tel n'est pas considéré comme
+  une invention brevetable : ne peut l'être qu'une solution technique
+  innovante apportée à un problème technique, solution qui peut être mise en
+  ouvre par des moyens matériels ou logiciels.
+  
+  Le droit d'auteur est une protection contre la copie servile de tout
+  logiciel, innovant ou pas, mais n'interdit pas la reconstitution d'une
+  invention ; seul le brevet permet à un inventeur de protéger ses droits
+  vis-à-vis de compétiteurs, notamment des grandes entreprises. S'en remettre
+  uniquement au droit d'auteur en matière de logiciel, c'est ouvrir pleinement
+  aux grandes entreprises la possibilité, en s'appuyant sur leur puissance
+  commerciale, de récupérer à leur profit sans rémunération les innovations
+  des PME.
+
+Donc il est claire que l'INPI veut la brevetabilite du logiciel, non?
+  
+  Pour autant le gouvernement français souhaite cantonner le champ de la
+  brevetabilité au domaine technologique qui est le seul pour lequel les
+  critères de brevetabilité rappelés ci-dessus sont pertinents. C'est pourquoi
+  le gouvernement n'est pas favorables au « brevet logiciel » tel qu'il a pu
+  se développer aux Etats-Unis.
+
+  La directive sur les inventions mises en ouvre par ordinateur a pour
+  objectif de permettre l'élaboration d'une jurisprudence européenne unifiée
+  sur la base de critères explicités de façon restrictive, ce qui devrait être
+  accueilli favorablement par l'ensemble des acteurs économiques européens,
+  notamment les petites entreprises et les développeurs indépendants. La
+  proposition de directive poursuit en effet des objectifs de transparence et
+  de clarté. En son absence, les effets négatifs du manque de transparence de
+  la situation juridique actuelle, qui affectent essentiellement les PME,
+  perdureraient et affaibliraient la position de l'Europe.
+  
+  Si des ambiguïtés étaient présentes dans le projet initial de directive
+  élaboré par la Commission Européenne et avaient motivé des réserves de la
+  France vis-à-vis de ce texte, les amendements proposés par la commission
+  juridique du Parlement Européen permettent de les corriger dans le sens
+  approprié, à l'instar de ce qui avait été proposé par le groupe de travail
+  des représentants des Etats-membres de l'Union Européenne. 
+
+Les amendements JURI ajoutent seulement de l'opacitee et elargissent
+encore le champ de la brevetabilite, comme expliquee en detail dans
+ * [[http://swpat.ffii.org/papiers/eubsa-swpat0202/tech/index.fr.html|Pour Quoi l'Achat Par Un Click de Amazon est Brevetable selon la Directive JURI]].
+
+  Cependant
+  certains des amendements votés par le Parlement Européen en septembre 2003
+  vont au-delà : leur formulation est incompatible avec les accords
+  internationaux sur les droits de propriété intellectuelle, que tous les pays
+  membres de l'Organisation Mondiale du Commerce se sont engagés à
+  respecter.
+
+Un vieux mensonge, souvent repetee en mauvaise foi par le lobby du
+brevet, l'invers etant vrai, lisez
+
+ * http://swpat.ffii.org/analysis/trips/index.fr.html
+ * http://swpat.ffii.org/news/03/epet0929/index.fr.html
+ * http://www.beauprez.net/softpat/summary.html
+
+  C'est pourquoi, tout en prenant en compte autant que faire se peut les
+  préoccupations exprimées par le Parlement européen, la majorité des
+  Etats-membres et la Commission Européenne estiment ne pouvoir retenir les
+  dispositions qui excluraient de fait du champ de la brevetabilité des
+  domaines technologiques tels que le traitement des images, le traitement du
+  signal ou le contrôle-commande de procédés, pour lesquels le développement
+  de l'innovation repose largement sur la possibilité de la protection par
+  brevets.
+
+ * Ces choses ne sont pas tout a fait exclus par le Parlement Europeen
+ * Le Groupe de Travail du Conseil veut breveter bien plus que ces champs la
+ * L'innovation ne repose pas sur les brevets dans ces domaines non plus.  Au moin les etudes faites par les autorites UE et FR n'apporte aucune evidence a cette affirmation.
+  
+  Dans cet esprit, un projet révisé de directive devrait être prochainement
+  validé en vue de sa soumission en deuxième lecture au Parlement Européen.
+  
+  Je vous prie d'agréer, Monsieur, l'expression de mes sincères salutations,
+  
+  Ministère délégué à l'Industrie
+  Sous-direction de la Normalisation, de la Qualité et de la Propriété
+  Industrielle.

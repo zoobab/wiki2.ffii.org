@@ -1,0 +1,21 @@
+= Rules for Root at Genba =
+-->
+[ [:GenbaEn: genba]
+| [:MailmanArchiveEn: Mailman Archives]
+]
+----
+
+News:
+ * bkaindl: place for internal documentaiton of services: http:admin/GenbaInternalEn
+ * bkaindl: created http:admin/GenbaChangeLogEn to log private, but not root-only changes in it.
+
+== Administrators ==
+
+ * bkaindl, jeroen and cebewee
+ * previous admins tanner and breiter still know the password and are willing to support the new admins
+ * phm also knows the password (extensive genba users can hardly do without the root password at the moment), mwas too, but only if nobody is reachable 
+
+== Legacy Rules ==
+
+some older changes are documented in
+ /root/ChangeLog

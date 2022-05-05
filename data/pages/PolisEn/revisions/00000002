@@ -1,0 +1,58 @@
+## -*- dok: polis; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-03-30
+## title: Data Processing at FFII
+->
+[ [[http://lists.ffii.org/mailman/listinfo/proj-parl/|Forum]]
+| [[FfiiprojNewsEn| Project News]]
+| [[FfiiprojEn| Projects]]
+| [[PolisPlan0407En| Plan 2004-07]]
+| [[FfiiPortalEn| New Portal]]
+| [[GenbaEn| Genba]]
+| [[FfiiPgSqlDatabaseEn| PgSql Database]]
+| [[MailmanEn| Mailman]]
+| [[NewsServerEn| News Server]]
+| [[AdministriviaEn| Administrivia]]
+| [[MlhtEn| MLHT]]
+]
+----
+
+''What is needed to manage the member base, knowledge base and various other data processing systems of ffii, from workflows to hardware buying decisions.''
+
+== News & Chronology ==
+
+ * 2005-03-30 [[Nsp050330En| Nosoftwarepatents.com transferred to FFII]]
+ * 2004-11-24 phm documents MLHT: [[MlhtEn| Install MLHT & First Steps]]
+ * 2004-11-17 feklee documents [[FfiiPgSqlDatabaseEn| ffii db]] and [[FfiiPgSqlDatabaseMlNgEn| news-gateway info therein]] 
+ * 2004-10-10 arebenti slightly improves [[http://genba.ffii.org/~arebenti/pikt/|pictograms]] for start page: same size, zh Ikon color scheme, fit size txt und ?
+ * 2004-10-06 arebenti documents [[FfiistylecssEn| Ffii-css knowledge]]
+ * 2004-08-24 phm restores [[GenbaAliasesEn| dynamic generation of mail aliases]]
+ * 2004-07-09 phm [[WebmirEn| webmir]] script mirrors external web pages into ffii.org every day
+ * 2004-07-09 zoobab proposes to ask XS4ALL for hosting
+ * 2004-07-08 mwas [[PolisPlan0407En| Draft Plan for Restructuring]]
+
+== Project Group and Responsibilities ==
+
+ * currently led by mwas and bkaindl
+ * bkaindl nominees jeroen as substitute of himself while he is on vacation, at least until End-October
+
+== Programming Tasks ==
+
+ * [[mlhtimport |MlhtImportEn]] needs MIME decoding capabilities
+ * need a new wiki which, in addition to being nicer to use than the present one, maintains essential features such as [[DokDataEn| exchanging document metadata with the database]] and [[KwikiEditEn| using FFII user id-s with crypt-ed passwords]].
+
+== Machines used by FFII ==
+
+ * apunkt.ffii.org: ApunktEn, managed by Jeroen et al
+ * genba.ffii.org: GenbaEn, managed by Jeroen et al (the machine hosting www.ffii.org)
+ * gumbo.ffii.org: managed by Jeroen et al
+ * neoduik.vrijschrift.org: hosting plone.ffii.org, petition.eurolinux.org and also ffii.nl, managed by Jeroen and other Vrijschrift admins
+ * http://www.ffii.be, just an alias to softwarepatenten.be, managed by Dieter
+ * http://www.ffii.se, managed by Jonas Bosson and Christian Engström 
+ * http://www.ffii.org.uk, managed by Alex Macfie
+ * http://www.ffii.org.pl, managed by Tomasz Marciniak
+ * http://www.ffii.cz, managed by Stepan Kasal (points to the swpat/www.ffii.org site now).
+ * http://galiza.ffii.org, managed by Susinho Baleato
+ * http://demo.ffii.org was managed by Bram Vandoren but moved to genba because he didn't maintain it anymore
+ * http://muenchen.ffii.org, managed by Nico Manicone
+ * [[VerfactionEn| verfaction.ffii.org]] - an UML instance on a server from Verfaction, gilles has the root pw.
+ * http://offen.ffii.org was an experimental system for a few months in 2003, it is being phased out, contact blasum(att)ffii.org if you still have data there

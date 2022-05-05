@@ -1,0 +1,15 @@
+=== Gilles Harfang's tips on translating this document ===
+
+There is information on how to get started with translating the FFII site at 
+http://wiki.ael.be/index.php/FightingSWPatentsTranslation
+
+=== Typesetting error in Art 2a ===
+
+One instance of %q(...) was not expanded. -- PG
+
+Fixed, but some translators are miswriting markers like %(q:...).
+
+=== Art 4.1 comment wording ===
+
+Our comments to Art 4.1 say: "fix the bug". I doubt that "bug" is understood
+as a synonym for "error" outside the circles of computer programmers. -- PG

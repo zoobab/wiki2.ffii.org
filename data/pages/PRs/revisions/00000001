@@ -1,0 +1,5 @@
+german: PEs = Presseerklaerungen, Pressemitteilungen
+
+french: Communiqués de presse
+
+english: PRs = press releases

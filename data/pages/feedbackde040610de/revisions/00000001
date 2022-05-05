@@ -1,0 +1,102 @@
+= Europawahl 2004-06-10: Schreiben an Unterstützer in Deutschland  =
+--> [:Feedback040610En: EN], [:FeedbackAt040610De: AT]
+----
+
+ #! /bin/bash
+ me=${0##*/}
+ if [ $# -ne 0 ]; then
+   cat >&2 <<END
+ Usage: $me <<EOF
+ UID E_MAIL
+ ...
+ EOF
+ END
+   exit 2
+ fi
+
+ # Some systems may need sendmail options like -t -oi -oem or -o8
+ : ${SENDMAIL:=/usr/sbin/sendmail -t -oi -oem}
+
+ CHARSET=iso-8859-15
+ SUBJECT="Logikpatente, EU-Wahl, Webdemo, Dringender Aufruf"
+ SUBJECTCODE="eleg0406_de"
+
+ while read U_ID E_MAIL; do
+   echo "Sending to: $U_ID <$E_MAIL>" >&2
+   case $U_ID in
+   *[!a-z0-9_]*)
+     echo "$me: \`$U_ID': invalid user id" >&2
+     continue
+     ;;
+   esac
+   case $E_MAIL in
+   ?*@?*.?*)
+     ;;
+   *)
+     echo "$me: \`$E_MAIL': invalid e-mail address" >&2
+     continue
+     ;;
+   esac
+
+   RECIPIENTCODE=$U_ID
+   OPENING="Liebe(r) Unterstützer(in) des FFII"
+
+   # This is used to recognize replies by the In-Reply-To header
+   MESSAGE_ID="<$RANDOM.$SUBJECTCODE.$RECIPIENTCODE.$USER@$HOSTNAME>"
+
+   $SENDMAIL <<EOF
+ MIME-Version: 1.0
+ From: feedback@ffii.org
+ To: $E_MAIL
+ Subject: $SUBJECT
+ Message-ID: $MESSAGE_ID
+ Content-type: text/plain; charset=$CHARSET
+ Content-Transfer-Encoding: 8bit
+
+ $OPENING,
+
+ Die Wahlen zum Europäischen Parlament haben begonnen.  In Deutschland
+ sind wir am Sonntag dran.
+ 
+ Bekanntlich kann das EU-Parlament gefährliche Gesetze der Kommission und
+ des Rates abwehren oder zu guten Gesetzen machen.  Dabei kann es unsere
+ Rückenstärkung gebrauchen.  Über
+
+  	 http://kwiki.ffii.org/ElectAct0405De
+
+ finden Sie Anregungen, die Sie bei der Abstimmung vielleicht berücksichtigen
+ möchten.  Die Seite listet auch noch weitere Handlungsmöglichkeiten auf, einschließlich 
+ Teilnahme an der
+
+ 	 Webdemo zur Europäischen Parlamentswahl
+ 	 http://kwiki.ffii.org/ElectWebdemo0406En
+
+ Es gibt auch noch einen
+
+ 	 Dringenden Aufruf
+ 	 http://swpat.ffii.org/letters/cons0406/
+
+ zum Unterzeichnen und Verteilen.  Dieser Aufruf kann uns helfen, die
+ Unterzeichnung der neuerlichen Ratsentscheidung abzuwehren.
+
+ Sie können uns die Koordination der Aktionen erleichtern, wenn Sie
+ auf dieses Schreiben '''antworten''' (reply, nicht forward o.ä.) und
+ beim Ausfüllen "+" für "ja" und "-" für "nein" verwenden.
+ 
+  [] Ich unterstütze den FFII weiterhin und bin daher mit 
+     gelegentlichen Anschreiben wie diesem einverstanden.
+  [] Ich werde an diesem Wochenende an der Webdemo teilnehmen.
+     Dabei werde ich zeitweilig die Seite [http://__] verdecken.
+  [] Ich unterzeichne den "Dringenden Aufruf".
+  [] Ich möchte gerne öffentlich als Unterzeichner genannt werden.
+
+ Vielen Dank für Ihr Verständnis und Ihre Unterstützung
+
+ Mit freundlichen Grüßen
+
+ Ihr FFII-Team
+ (Hartmut Pilch, Holger Blasum, Christian Cornelssen)
+
+ EOF
+ sleep 1
+ done

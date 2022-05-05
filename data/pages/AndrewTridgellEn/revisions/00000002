@@ -1,0 +1,24 @@
+= Andrew 'Tridge' Tridgell and Software Patents =
+[ [[http://gauss.ffii.org|Gauss]] | [[SwpatibmEn| IBM]] | [[SwpatcninoEn| News]]]
+----
+''Open Source developers such as Tridge feel targeted by software patents but they want to cool down the actual threat. Tridge is afraid of a large software patent astroid but thinks he can circumvent most patents. It all depends on whether it is possible to do so. So the debate has to sides: a) they do not need patents and regard them as a threat. b) Talking about the threat also creates the impression that Open Source was under attack, contributes to FUD which unsettles their customers.''
+
+
+ * Samba developer
+
+ * 2005-04-13 US [[http://software.newsforge.com/article.pl?sid=05/04/08/2132221&from=rss|Interview Newsforge: 'Tridge' on joining OSDL, Samba4, patents, and bad predictions]]
+
+ NF: ... do you believe software patents are proving to be a significant threat to open source software development and use?
+
+ Tridge: They are certainly a very significant threat, but I am less fearful of them than I was a year ago. What has changed is that I have learned some  
+ more about patent analysis and the methods of working out exactly what a specific patent really means and how to avoid it. I still think that software 
+ patents are an extremely bad idea, and that we could easily be hit by "the big one" that has the same sort of effect on the free software community as a 
+ large asteroid hitting Earth, but I also understand a little better the techniques that can be used to avoid specific patents, which gives me some hope 
+ that we can weather the storm long enough for the world to come to its senses and change the current patent system.
+
+ NF: What is being done to prevent patent infringement concerns, or even associated perception issues, from bogging down open source software projects?
+
+ Tridge: A lot is being done in terms of analysis of specific patents, plus there is a fantastic effort being put in by the free software community in 
+ Europe to raise the profile of the issue and try to prevent software patents [from] becoming ubiquitous. There have been some setbacks in that effort, but 
+ at least the issue is getting some attention. I don't think that the open source projects are being bogged down by this issue at all. It is something that 
+ is being actively addressed, but it doesn't cause development to stop, or even significantly slow it down. 

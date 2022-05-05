@@ -1,0 +1,80 @@
+= As Such explaines =
+
+[ [http://swpat.ffii.org/analysis/epc52/exeg/index.en.html Lenz 52EPC] 
+| [http://swpat.ffii.org/papers/epo-t971173/ IBM/Computer Program Product]
+| [http://www.european-patent-office.org/legal/gui_lines/e/c_iv_2_3_6.htm EPO Examination guide]
+]
+----
+
+In the verdict [http://legal.european-patent-office.org/dg3/biblio/t971173ep1.htm T 1173/97 IBM/Computerprogram product] the EPO Technical Board of Appel made a differentiation between programs for computers that are computer programs as such and computer programs that not computer programs as such. This interpretation provides the basis for granting many software patents.
+
+ VIII. [...]  A "program as such" (excluded from patentability) would therefore
+ in fact be a non-technical program.
+
+ 4.2 In order to establish the scope of the exclusion from patentability of programs for
+ computers, it is necessary to determine the exact meaning of the expression "as
+ such". This may result in the identification of those programs for computers
+ as a result of not being considered programs for computers as such, are open to
+ patentability.
+
+ 5.3 This means that programs for computers must be considered as patentable
+ inventions when they have a technical character.
+
+In a mail to Jeroen Dekkers and the "bxl-list" (dated 20041024) Hartmut Pilch explains that "as such" is an intonatory particle, also called appositive, with about as much meaning as the particle "it" in "it is raining":
+
+ > In fact, there actually isn't really any
+ > difference "software as such" and "software." 
+
+ True.  It can help to explain
+
+        programs as such = programs as programs
+        X1 as such = X1 as X1
+
+ "such" is simply a pronoun referring to the last nominal item mentioned.
+
+ The syntactic context must be preserved when interpreting the phrase.
+ Creating a nominal group "software as such" and asking what that means
+ is the wrong approach.  There is no such nominal group in the law at all.
+ This is a bit like taking the "it" in "it is raining" out of context and
+ asking what mysterious entity this "it" is that is raining there.
+
+Some more discussion about the meaning of Art 52 EPC is found on
+ 1. http://swpat.ffii.org/analysis/epc52/
+ 1. http://swpat.ffii.org/analysis/epc52/udgor/
+ 1. http://swpat.ffii.org/papers/muckonf73/
+
+Hartmut Pilch also explained the background of "as such" on the mailing list patents (at) aful.org 20031023:
+
+ Art 52(3) was inserted in response to FUD from the UK delegation in 1973
+ which was clamoring that exclusion of software would lead to exclusion of
+ all manufacturing processes that are computer-controlled.  There is
+ nothing mysterious about this particle, and there is even a swedish
+ version of Art 52(3) which does not use it.
+
+## Are there any history of proposals when the Art52 was modified in 1973? --zoobab
+
+= Recommended Reading =
+
+ * [http://swpat.ffii.org/analysis/epc52/exeg/index.en.html Interpretation of Art 52 of the European Patent Convention regarding the question to what extent software is patentable Lenz, K.F.:]
+
+ * 1939-15-12 [http://www.marxist.com/Theory/ABC.html Leon Trotzki explains the reasoning of marxist material dialectics to differentiate an issue as such from the issue], a similar reasoning style used by the Technical board of appeal to differentiate software as such from software. Similarly marxists thinking redefines terminology by this philosophic technique.
+
+ The Aristotelian logic of the simple syllogism starts from the proposition that 'A' 
+ is equal to 'A'. This postulate is accepted as an axiom for a multitude of practical 
+ human actions and elementary generalisations. But in reality 'A' is not equal to 
+ 'A'. This is easy to prove if we observe these two letters under a lens - they are 
+ quite different from each other. But, one can object, the question is not of the 
+ size or the form of the letters, since they are only symbols for equal quantities, 
+ for instance, a pound of sugar. The objection is beside the point; in reality a 
+ pound of sugar is never equal to a pound of sugar - a more delicate scale always 
+ discloses a difference. Again one can object: but a pound of sugar is equal to 
+ itself. Neither is this true - all bodies change uninterruptedly in size, weight, 
+ colour, etc. They are never equal to themselves. A sophist will respond that a pound 
+ of sugar is equal to itself 'at any given moment.'
+
+ ... Vulgar thought operates with such concepts as capitalism, morals, freedom,  
+ workers' state, etc. as fixed abstractions, presuming that capitalism is equal to 
+ capitalism, morals is equal to morals, etc. Dialectical thinking analyses all things 
+ and phenomena in their continuous change, while determining in the material 
+ conditions of those changes that critical limit beyond which 'A' ceases to be 'A', a 
+ workers' state ceases to be a workers' state.

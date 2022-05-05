@@ -1,0 +1,16 @@
+== Article 5.2 ==
+
+||  number  ||  submitter  ||  recommendation  ||  text  ||
+||  34  ||  Rocard  ||  +  ||   In accordance with Article 3, Member States shall ensure that the use of information processing methods can never constitute a direct or indirect patent infringement.  ||
+|| 126 ||  Szejna  ||  -  ||  A claim to a computer program, as the major provision of the invention, cannot apply to a computer programme on its own or on a carrier. Member States shall ensure that a patent claim for a computer-implemented invention shall lead to a change in the state of the art.  ||
+||  127  ||  Harbour  ||  --  ||   A claim to a computer program product, on its own or on a carrier shall be allowed only if the invention realised by a computer program would, when loaded or run on a computer, computer network or other programmable apparatus, have an antecedent main claim in the same patent with a product or process claim as described in Article 5.1.  ||
+||  128 = 129 = 130 = 131 = 132  || Kudrycka and Zwiefka; Bertinotti; Kauppi; Lichtenberger and Frassoni; Ortega  ||  ++  ||  A patent claim to a computer program, either on its own or on a carrier, shall not be allowed.  ||
+||  133  ||  Lehne  ||  --  ||  A claim to a computer program, either on its own or on a carrier, shall not be allowed unless that program would, when loaded and executed in a computer, programmed computer network or other programmable apparatus, put into effect a product or process claimed for the invention in accordance with paragraph 1.  ||
+
+34 replaces this paragraph with one that states that the usage of data processing methods can never constitute patent infringement, directly or contributory. Although this is infinitely better than codifying program claims like the Council does, this amendment may go a little too far in the other direction.
+
+In 126, it is unclear what is meant by "as the major provision of the invention". The second sentence is also not very clear, what is meant is possibly that the contribution to the state of the art must be in the claim.
+
+128 = 129 = 130 = 131 = 132 briefly and clearly states that program claims (= claims on computer programs on their own) are not allowed.
+
+127 does not change the Council version (the "antecedent claim" can always be written). 133 doesn't substantially change the Council version either. They both try to incorporate some properties of contributory infringement in an amendment about direct infringement, thereby convoluting the law and longstanding principles of patent law.

@@ -1,0 +1,19 @@
+= Administrative Infos about Aktiv =
+-->
+[ [:AktivEn: Aktiv]
+]
+----
+
+== Querying the database for mailings to our support base ==
+You must restrict your query to uids that have a confirmed email address!
+ select * from pnom natural join persist where pstvar='idconfirmed';
+
+== Querying the database for membership fees ==
+You must restrict your query to uids with a member status of 2 or higher!
+ select * from pnom natural join asoc where asolvl>=2;
+ * Users with asolvl=-1 e.g. have terminated their membership
+ * Users with asolvl=0 or 1 may have downgraded they member status after having been a paying member
+ * See http://www.ffii.org/verein/profil/profil.de.txt for asolvl documentation
+
+== Automatic transfer of Aktiv user logins for Kwiki Editor use ==
+See AktivLoginsForKwiki (private page)

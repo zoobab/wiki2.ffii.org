@@ -1,0 +1,101 @@
+=== Patentrecherche im CMS Bereich ===
+
+=== TODO: ===
+ * Es gibt 82 Treffer wenn man beim [[http://depatisnet.dpma.de|Depatis]] nach "content AND management" im Titel sucht und sich auf EP (europäische Patente) beschränkt. Leider konnten noch nicht alle durchgesehen werden. Wer kann helfen?
+ * Was ist mit Gauss.ffii.org ??? Wurde da gesucht? ---> Anmerkung von André 
+
+=== Ziele: ===
+ * Den Fokus zurück auf die gesamte Softwarebranche bringen - Softwarepatente sind nicht nur ein Problem für F/OSS!
+ * Anhand einer Branche beispielhaft die Auswirkungen aufzeigen
+ * Der Bereich CMS (Content Management Systeme) betrifft nicht nur die Hersteller, sondern auch die Anwender, in diesem Falle die Medien selbst
+ * Es soll daher am praktischen Beispiel für Hersteller und Anwender die Folgen einer Ausweitung des Patentwesen auf Software aufgezeigt werden
+
+=== Vorgehen: ===
+ * Patentsuche nach Typischen Bestandteilen/Funktionen/Methoden von CMS-Systemen
+ * Patentsuche nach Herstellern von CMS Systemem
+
+ * Aufbereitung der gefundenen Patente: Trivial, extrem allgemein (Blockieren einen gesamten Bereich, nicht eine Anwendung),...
+ * Erstellung einer schriftlichen Zusammenfassung, einer Präsentation, eines Plakates(siehe webshop.ffii.org)
+
+=== Presentation: ===
+ * als Zeitung mit typischem CMS-Layout. Die einzelnen Artikel und Anordnungen zeigen und erklären die Verstöße, Patente sind mit "Einschüssen" wir bei webshop.ffii.org markiert und nummeriert. Vielleicht trägt die Aufmachung auch das Gewand einer richtigen Zeitung, faltbar, mehrseitig. Titel: Patentmine '' Patentschau '' The Patent Observer mit Datum, Tag, Ausgabe. Die einzelnen Patente sind nummeriert und weblogmässig zusammengefasst...
+
+=== Patentdatenbanken: ===
+ * Depatis-DOKIDX, uspto.gov (US Patentent Office)...
+
+=== Hersteller von CMS-Systemen ===
+ * ausfürliche Liste von CMS-Systemem [[http://www.cmsmatrix.org/|CMSMatrix]]
+
+Format: '''System - Hersteller - Beschreibung - Anwender'''
+ * CMS
+   * Kommerziell
+     * Vignette V7 - Vignette - CMS - Spiegel, ZDF
+     * Imperia - Imperia AG - CMS - Deutsche Post, Bayer AG,www.weltderwunder.de, ...[[http://www.imperia.de/de/htmls/kunden/kundenliste/index.html|Kundenliste]]
+   * Open Source
+     * [[http://typo3.com/index.php?id=1221&L=2|Typo3]] - * - CMS - Jenoptik-Camera,  [[http://typo3.org/about/references/|Referenzen]] 
+     * [[http://www.plainblack.com/webgui|WebGUI]] - [[http://www.plainblack.com/|Plainback]] - CMS - *
+     * [[http://www.opencms.org/opencms/en/|OpenCMS]] - * - CMS - EADS, Hypovereinsbank Group,... [[http://www.opencms.org/opencms/en/support/references/index.html|Referenzen]]
+     * [[http://ez.no/ez_publish|eZ Publish CMS]] - [[http://ez.no/|eZ Systems]] - CMS - [[http://ez.no/ez_publish/references|Referenzen]]
+     * Mambo - * - CMS -
+     * Flyingdog - Powerslave - CMS - Rohde  Schwarz, Land Niedersachsen (Intranet),... [[http://www.flyingdog.biz/flyingdog/powerslave,id,5,nodeid,5,_language,de.html|Referenzen]]
+ * Portallösungen
+   * Kommerziell
+***
+   * Open Source 
+     * [[http://www.jahia.org/jahia/Jahia|Jahia]]|[[Jahia.org ]] - CMS & Portal Server - [[http://www.jahia.org/jahia/page340.html|Referenzen]]
+     * [[http://www.openphpnuke.com/|OpenPHPNuke]] - * - CMS Portallösung - *
+ * Web Publising Systeme
+   * Kommerziell
+     * Dreamweaver - [[http://www.macromedia.com/|Macomedia]] - WebPublishingSystem (CVS;FTP und WebDAV) - 
+     * [[http://www.macromedia.com/software/contribute/|Contribute]] - [[http://www.macromedia.com/|Macomedia]] - WebPublishingSystem - *
+     * [[http://www.microsoft.com/office/frontpage/prodinfo/overview.mspx|Frontpage2003]] - [[http://www.microsoft.com/|Microsoft]] - WebPublishingSystem ( Windows SharePoint Services) - *
+   * Open Source
+     * 
+ * Blogs
+   * Kommerziell
+     * 
+   * Open Source
+     * [[http://www.movabletype.org/|Movable Type]] - [[http://www.sixapart.com/|Six Apart]] - Blog (Multiple Authors) - *
+     * [[http://wordpress.org/|Wordpress]] - * - Blog (Multiple authors) - *
+ * Wiki's
+   * Kommerziell
+     * 
+   * Open Source
+     * [[http://twiki.org|TWiki  ]] - * - Wiki & CMS - Yahoo, Motorola, British Telekom,...[[http://twiki.org/cgi-bin/view/Main/TWikiSuccessStories|Referenzen]]
+ * Other
+   * Kommerziell
+     * [[http://www.intershop.de/|Intershop]] - Intershop/Siemens - Warenwirtschaftssystem (int. CMS) - BMW/Mini, Bosch, Otto, Tchibo,...[[http://www.intershop.de/company/customers/|Referenzen]]
+   * Open Source
+     * [[http://www.oscommerce.com/|OS Commerce]] - * - Warenwirtschaftssystem (int. kleines CMS) - [[http://www.oscommerce.com/shops/live|Referenzen]]
+     * [[http://tikiwiki.org/tiki-index.php|Tiki]] - * - CMS/Groupware - * - *
+
+noch nicht zugeordnet
+ * Mambo - Mamboserver - OSS
+ * Portal One - Sun - proprietär - EU Parlament
+ * Share Point - MS - proprietär - EU Parlament
+ * Documentum - - - EU Parlament
+ * Infopark nps 5/6 - [[http://www.infopark.de|Infopark]] - kommerziell - Deutscher Bundestag 
+
+=== Aufbau eines CMS-Systems: ===
+
+ * Eingabemaske, -programm
+ * Ausgabeformat
+ * Speicherung der Daten in Datenbank, Archiv, Text
+ * Rechtemanagement zur Eingabe/Freigabe/Ausgabe -Berechtigung
+ * Suchalgorithmen zum Finden von Content
+ * Persönlich zugeschnittene Ausgabemöglichkeit (Content variiert für persönliche Sessions)
+ * Zusammenführung von Daten aus unterschiedlichen Quellen
+ * Darstellung unstrukturierter Daten unter einheitlicher Oberfäche (zum Beispiel durch eingebettete '''.pdf, '''.doc, *.txt)
+ * mehr dazu in englisch [[http://www.steptwo.com.au/papers/kmc_evaluate/|hier]]
+
+= Suche nach Patenten auf Depatisnet =
+ * Name der Firma (Hersteller von CMS-Systemen)
+ * Suche nach Patenten mit dem Suchbegriff "Content AND Management" im Titel der Patentschrift unter Beschränkung auf EP
+ * Suche in der FFII Liste zu den bereits erteilten Softwarepatenten
+
+
+== Gefundene Patente  ==
+sind unter: [[http://kwiki.ffii.org/index.cgi?CMSPatente04De|CMSPatente]]  eingetragen
+
+== Eine Übersicht  ==
+zur gesamten Recherche ist unter [[//www.stop-swpat.de/docs/Patente_CMS.pdf| http://www.stop-swpat.de/docs/Patente_CMS.pdf]] zu finden

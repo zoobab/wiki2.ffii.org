@@ -1,0 +1,34 @@
+## -*- dok: alacritech0504; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-04-14
+= Microsoft ordered to withdraw patented features from Longhorn =
+->
+[ [[Alacritech0504De| deutsch]]
+| [[Alacritech0504Fr| français]]
+]
+[ [[SwpikxraniEn| Patents in Action]]
+| [[SwpatmicrosoftEn| Microsoft]]
+| [[SwpatcninoEn| News]]
+]
+----
+
+''14. April 2005 -- Microsoft was ordered by a US court to remove features from the upcoming version of its Windows operating system.  The patent in question broadly claims all processes that delegate processing work in a network environment.  The same patent is pending at the European Patent Office.''
+
+== News Reports ==
+
+ * 2005-04-15 DE [[http://www.sueddeutsche.de/computer/artikel/419/51368/|Sueddeutsche Zeitung: Patentstreit Microsoft muss sein neues Windows abspecken]]
+   * indicates Loghorn will get shipped without Chimney network tehcnology
+ * 2005-04-14 US [[http://www.itweek.co.uk/news/1162487|ITWeek: Legal action threatens Microsoft's Longhorn]] (-> Alacritech0504En)
+ * 2005-04-14 US [[http://www.theinquirer.net/?article=22524|The Inquirer: Legal smoke affects Microsoft Chimney, Longhorn ]] (-> Alacritech0504En)
+ * 2004-04-13 US [[http://www.internetnews.com/bus-news/article.php/3497561|InternetNews.com: Microsoft Hit with Patent Injunction]] (-> Alacritech0504En)
+ * 2005-04-13 US [[http://yro.slashdot.org/article.pl?sid=05/04/13/2159255&tid=109&tid=123|Slashdot: Startup granted injunction against Microsoft]] (-> [[SwpikxraniEn| Patents in Action]]) (-> Alacritech0504En)
+ * 2005-04-14 US [[http://www.itweek.co.uk/news/1162487|ITWeek: Legal action threatens Microsoft's Longhorn]] (-> Alacritech0504En)
+
+== To document and research further ==
+
+ * number of US patent and link thereto
+   * US claim 1 (quote here)
+   * [[http://swpat.ffii.org/patents/txt/ep/1330/725/|European Patent Application]]
+     * [[http://swpat.ffii.org/patents/txt/ep/1330/725/#clms|claims]]
+ * which claims is MS violating?  (any publications from the court?)
+ * the company [[AlacritechEn| Alacritech Inc]]
+ * etc

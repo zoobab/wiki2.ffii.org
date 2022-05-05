@@ -1,0 +1,42 @@
+## -*- dok: RegalEntertainment; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= Regal Entertainment Group & Software Patents =
+-->
+[ [[Microsoft041028En| Ballmer 2004-10-28]]
+]
+----
+
+ * The [[http://www.regalcinemas.com/|Regal Entertainment Group]] operates a large number of cinemas
+ * In 2002 Regal adopted Linux-based IBM eServers for their points of sale (cinemas), see their [[http://www.businesswire.com/cgi-bin/f_headline.cgi?bw.092502/222682147&ticker=IBM|PR]]
+ * [[http://www.google.com/search?q=Regal+Entertainment+Linux|Google search with keywords "Regal Entertainment Linux"]]
+
+In 2004, Regal allegedly stopped a migration to Linux and switched back to Microsoft because of patent dangers.
+
+This was reported by Microsoft CEO Steve Ballmer in a [[Microsoft041028En| round robin letter to millions of German customers of 2004-10-28]] as a key example for dissuading Microsoft customers from migrating to Linux. 
+
+Ballmer presents the Regal example as follows:
+
+  Wenn heute ein Volumenlizenz-Kunde - unabhängig davon, ob er fünf oder
+  mehrere tausend Computer im Einsatz hat - ein Microsoft Produkt lizenziert,
+  stellen wir ihn - ohne Haftungsobergrenze - von den Kosten frei, die mit
+  einer Klage wegen einer angeblichen Verletzung eines Patents, Urheberrechts,
+  einer Marke oder Geschäftsgeheimnisses durch ein Microsoft Produkt in
+  Verbindung stehen. Wir verfolgen diese Politik, da wir hinter unseren
+  Produkten stehen, und wissen, dass ein Kunde Millionen Dollar verlieren kann
+  und sein Unternehmen massiven Schaden erleidet, wenn er in einem
+  Software-Patentverfahren auf der falschen Seite steht. [...]
+
+  Auch für Regal Entertainment Group, der weltweit größten Kinokette,
+  war dies ein ausschlaggebender Faktor. 2001 stellte das Unternehmen
+  auf Red Hat Linux um. Nach Einsatz von Linux und monatelanger
+  Evaluierung dann jedoch erfolgte die Migration auf die
+  Microsoft-Plattform - nicht nur aufgrund der sehr günstigen
+  Gesamtkosten, des hervorragenden Supports und der angebotenen
+  Services, der Zuverlässigkeit und sehr guten Handhabbarkeit, sondern
+  auch wegen der umfassenden Haftungsfreistellung.  J.E. Henry, CIO bei
+  Regal Entertainment, meinte zu mir, dass "das geringere Risiko ein
+  entscheidender Faktor dafür war, uns für Windows und nicht für Linux
+  zu entscheiden. Wir mussten die Gefahr aufgrund der Verletzung
+  geistigen Eigentums verklagt zu werden minimieren. Unsere Open
+  Source-IT war groß genug um sich hier Sorgen zu machen. So wie
+  Microsoft hinter seinen Produkten steht, haben wir jetzt eine Sorge
+  weniger."

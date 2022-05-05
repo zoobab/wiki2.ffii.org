@@ -1,0 +1,76 @@
+= Constitution des groupes régionaux et nationaux de la FFII (regio) =
+-->
+[ [[FfiiRegioEn| english]]
+]
+[ [[FfiiprojFr| Projets]]
+| [[FfiiprojKreEn| How to Create]]
+| [[FfiiDeRegioDe| Deutschland]]
+]
+----
+
+ * [[http://www.ffii.org/~arebenti/ekarte/|Carte des contacts européens]]
+ * [[http://kwiki.ffii.org/SwpatgugdeEn|Liste des pays - incluant les pays non européens tels que US,CA,IN,ID,AU,...]]
+ * FfiiDeDe -- FFII Deutschland
+ * FfiiAtDe -- FFII Oesterreich
+ * FFII Sweden (Förening för en fri informationsinfrastruktur ) http://www.ffii.se
+ * FFII Poland http://www.ffii.org.pl
+ * FFII UK http://www.ffii.org.uk
+ * FFII France http://www.ffii.fr
+ * FFII NL/Vrijschrift http://www.vrijschrift.nl 
+ * FFII Belgium http://www.ffii.be
+ * FFII Switzerland -- Markus Dapp offered help, see ch-parl at ffii.org
+ * FfiiLuFr
+
+ * FfiiDeRegioDe -- FFII Regionalunterteilung Deutschland ([[http://frank.peinemann.bei.t-online.de/travel/germlaender.htm|shortcuts for Deutsche Bundeslaender]])
+
+   * FfiiDeBayDe -- FFII Bayern
+     * FfiiMuenchenDe -- Muenchen
+     * FfiiNuernbergDe -- Nürnberg
+   * FfiiDeBbgDe -- Brandenburg
+   * FfiiDeBerDe -- Berlin
+   * FfiiDeBreDe -- Bremen
+   * FfiiDeBwbDe -- Baden-Wuerttemberg
+   * FfiiDeHamDe -- Hamburg
+   * FfiiDeHesDe -- Hessen
+   * FfiiDeNdsDe -- Niedersachsen
+   * FfiiDeNrwDe -- Nordrhein-Westfalen
+   * FfiiDeMvpDe -- Mecklenburg-Vorpommern
+   * FfiiDeRlpDe -- Rheinland-Pfalz
+   * FfiiDeSahDe -- Sachsen-Anhalt
+   * FfiiDeShsDe -- Schleswig-Holstein
+   * FfiiDeSrlDe -- Saarland
+   * FfiiDeSxnDe -- Sachsen
+   * FfiiDeThuDe -- Thüringen
+ * FfiiBeFr -- FFII Belgique
+ * FfiiBeRegioFr -- Groupes regionales en Belgique (wallonien?)
+ * FfiiBeRegioNl -- Groepen en Belgie (Vlaams?)
+
+
+Il existe des listes de diffusion nationales pour la plupart des pays européens, nommées après le code iso, dans la table 'proj' de la base de données. Pour la france vous pouvez utiliser [[Fr-parl |https://lists.ffii.org/mailman/listinfo/fr-parl]].
+
+
+== Coordination, moyens fournis par la FFII pour la régionalisation ==
+
+Les questions à propos du projet regio seront traitées sur regio-help at ffii org, les supporters peuvent joindre [[http://lists.ffii.org/mailman/listinfo/regio-parl/|la liste de diffusion regio-parl]]
+(créée le 11-07-2004).
+
+Le leader du projet est Christian Schulte (dgnsw),
+assisté par bkaindl, blasum, arebenti and phm.
+
+André travaille sur les cartes imagées, voyez [[http://genba.ffii.org/~arebenti/dkarte/dkarte.htm|l'aperçu de l'Allemagne]], [[http://genba.ffii.org/~arebenti/ekarte/|l'aperçu de la carte européenne]]
+
+Les groupes régionaux sont [[FfiiprojKreEn| créés comme des projets de groupes]], comme
+sous-projets de 'regio' ou, quand il y a une gestion nationale de la région, du projet national tel que 'de', 'be', 'fr' etc.
+
+== Pourquoi régionaliser ==
+
+   * les politiques traditionelles sont organisées géographiquement dans les régions
+   * une surveillance rapprochée des événements
+   * décentralisation des ressources de la FFII pour éviter le goulot d'étranglement de Munich
+   * ...
+
+
+== À faire ==
+
+ * mettre à jour les cartes, créer des pages web kwiki qui permettent aux utilisateurs de joindre/contacter facilement leur groupe régional
+ * Le logiciel [[http://www.opengeodb.de/|OpenGeoDB]] peut être utilisé pour visualiser la répartition des membres. Les tables de la base de données PLZ de !OpenGeoDB  sont déjà incluses dans la base de données "ffii".

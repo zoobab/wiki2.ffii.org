@@ -1,0 +1,147 @@
+  #! /bin/bash
+  me=${0##*/}
+  if [ $# -ne 0 ]; then
+    cat >&2 <<END
+  Usage: $me <<EOF
+  UID E_MAIL
+  ...
+  EOF
+  END
+    exit 2
+  fi
+
+  # Some systems may need sendmail options like -t -oi -oem or -o8
+  : ${SENDMAIL:=/usr/sbin/sendmail -t -oi -oem}
+
+  CHARSET=iso-8859-15
+  SUBJECT="FFII: Muenchen/Berlin 12. Mai 2004: Demonstration, Podium"
+  SUBJECTCODE="swp0405_de"
+  MAILLIST="proj-help"
+
+  while read U_ID E_MAIL; do
+    echo "Sending to: $U_ID <$E_MAIL>" >&2
+    case $U_ID in
+    *[!a-z0-9_]*)
+      echo "$me: \`$U_ID': invalid user id" >&2
+      continue
+      ;;
+    esac
+    case $E_MAIL in
+    ?*@?*.?*)
+      ;;
+    ''')
+      echo "$me: \`$E_MAIL': invalid e-mail address" >&2
+      continue
+      ;;
+    esac
+
+    RECIPIENTCODE=$U_ID
+    OPENING="Sehr geehrte Unterstützerin /
+  sehr geehrter Unterstützer des FFII"
+
+    # This is used to recognize replies by the In-Reply-To header
+    MESSAGE_ID="<$RANDOM.$SUBJECTCODE.$RECIPIENTCODE.$USER@$HOSTNAME>"
+
+    $SENDMAIL <<EOF
+  MIME-Version: 1.0
+  From: feedback@ffii.org
+  To: $E_MAIL
+  Subject: $SUBJECT
+  Message-ID: $MESSAGE_ID
+  Content-type: text/plain; charset=$CHARSET
+  Content-Transfer-Encoding: 8bit
+
+  $OPENING,
+
+  im Mai 2004 geht es darum, den EU-Ministerrat davon
+  abzubringen, zur SWPat-Richtlinie eine Position zu
+  verabschieden, die der des Europäischen Parlaments
+  diametral entgegengesetzt ist.
+
+  Bislang verkehren alle verfügbaren Entwürfe
+  des Rates die klare Parlamentsentscheidung gegen
+  Software-Patente und für Freiheit der Veröffentlichung
+  und der Interoperabilität, die wir letzten September
+  erreichen konnten, in ihr krasses Gegenteil.[1]  Mit der
+  Ratsversion des Richtlinienentwurfes können Programme,
+  Webseiten, Dateiformate und Kommunikationsprotokolle mit
+  Patentansprüchen belegt werden.  Um selbstgeschriebene
+  Programme oder Webseiten zu veröffentlichen, müssten Sie
+  die Bedingungen zahlreicher Patenthalter erfüllen.
+
+  Kernstück unserer Aktionen gegen die Machenschaften
+  im Ministerrat sind Demonstrationen und anschließende
+  Podiumsdiskussionen am 12. Mai in München und Berlin,
+  siehe [2] und [3].  Begleitet werden diese Aktionen von
+  einem Netzstreik[4].
+
+  Zur Koordination wieder ein paar Fragen:
+
+   [] Ich will keine weiteren Anfragen vom FFII erhalten.
+      Streichen Sie mich aus der Unterstützerliste!
+
+   [] Ich werde an der Demonstration in München teilnehmen.
+   [] Ich stehe als Redner für die Münchner Demo zur Verfügung.
+   [] Ich werde das SWPat-Podium in München besuchen.
+   [] Ich stehe als Redner für das Münchner Podium zur Verfügung.
+   [] Ich brauche eine Übernachtungsmöglichkeit in München
+      für die Nacht vom 12. bis 13. Mai
+
+   [] Ich werde an der Demonstration in Berlin teilnehmen.
+   [] Ich stehe als Redner für die Berliner Demo zur Verfügung.
+   [] Ich werde das SWPat-Podium in Berlin besuchen.
+   [] Ich stehe als Redner für das Berliner Podium zur Verfügung.
+   [] Ich brauche eine Übernachtungsmöglichkeit in Berlin
+      für die Nacht vom 12. bis 13. Mai
+
+   [] Ich werde mich am Netzstreik[4] beteiligen.
+   [] Ich will mich am Ansprechen der Abgeordneten beteiligen.
+   [] Ich würde eine Nano-Demonstration[5] durchführen
+   Ich kann [__] Stunden meiner Zeit zur Verfügung stellen.[6]
+
+  (Anmerkung: Das Formular wird nur bei direkten Antworten
+  automatisch ausgewertet. +, x oder ''' für Ja, - für Nein.)
+
+  Wenn Sie Fahrgelegenheiten für An- und Abreise benötigen,
+  bietet es sich an, bei der Linux User Group Ihres Wohnortes
+  anzufragen, damit sie Sammelbestellungen für Busreisen
+  aufgeben kann, oder sich an die Mitfahrzentrale zu wenden.
+
+  Unabhängig von den öffentlichen Aktionen müssen jetzt die
+  Bundestagsmitglieder aller Parteien sowie die deutschen
+  Europawahlkandidaten angesprochen werden.  Über die
+  Bundespolitiker muss Druck auf die Regierung und den
+  EU-Ministerrat ausgeübt werden, und die Europapolitiker
+  werden sich nach Verabschiedung der Ratsposition erneut
+  mit der SWPat-Richtline zu befassen haben, also ist es
+  wichtig, dafür zu sorgen, dass das nächste Europaparlament
+  mit unterrichteten Mitgliedern besetzt ist.
+
+  Was alles zu tun ist, erfahren Sie auf [6].  Wir brauchen
+  viele Helfer, denn es sind viele Abgeordnete zu bearbeiten,
+  insbesondere die Mitglieder des Rechtsausschusses.
+  Angebote können an die Koordinatorenliste[7] gerichtet werden.
+  Bitte geben Sie dabei Ihre Stadt und Ihr Bundesland an.
+
+  Ihr Einsatz kann sich politisch auszahlen.  Es wäre nicht
+  das erste Mal, erfordert diesmal aber umfangreichere
+  Bemühungen, da der Ministerrat nur indirekt zugänglich ist.
+
+  Mit freundlichen Grüßen,
+
+  Ihr FFII-Team[7]
+
+  [1] http://swpat.ffii.org/papiere/europarl0309/appell/
+  [2] http://kwiki.ffii.org/DemoMuenchen0405De,
+      http://kwiki.ffii.org/DemoMuenchen0405PlanungDe
+  [3] http://kwiki.ffii.org/DemoBerlin0405De,
+      http://wiki.ael.be/index.php/DemoBerlin0405
+  [4] http://swpat.ffii.org/gruppe/demo/
+  [5] http://wiki.ael.be/index.php/NanoDemo
+  [6] http://kwiki.ffii.org/FfiiprojEn,
+      http://swpat.ffii.org/gruppe/aufgaben/
+  [7] mailto:${MAILLIST}(at)ffii.org
+
+  EOF
+  sleep 2
+  done

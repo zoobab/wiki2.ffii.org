@@ -1,0 +1,211 @@
+## -*- dok: FfiiprojKre; lang: en; coding: iso-8859-1; -*-
+= How to Create and edit an FFII project group in the Database =
+-->
+[ [[FfiiprojEn| FFII Projects]]
+| [[FfiiRegioEn| regional groups]]
+| [[AktivEn| aktiv]]
+| [[MailmanDbEn| Mailman DB]]
+| [[FfiidistsEn| ffiidists]]
+| [[Ffiidb2mmEn| ffiidb2mm]]
+| [[MailmanProjlistsEn| projlists]]
+| [[FfiiprojNewsEn| Project News]]
+]
+----
+
+== News & Chronology ==
+
+ * 2005-01-25 added section 'What's in a project'
+
+ * 2004-12-01 feklee assumes that the news server infrastructure is stable (it has been heavily tested).  Please start using it.  If there are any problems, report them to newsserver-help(@)ffii.org.
+
+ * 2004-11-11 feklee adds information about setting up news group gateways.  Note that '''news group gateway functionality''' is still in the developement phase, i.e. it '''should not be used for non-testing projects'''.  To be more precise: Modification of gated news group setups should work; However, user authentication to the news server doesn't work correctly, as of this writing.
+
+ * 2004-10-17 phm simplifies project creation by incorporating functionality from [[FfiidistsEn| ffiidists]] into [[Ffiidb2mmEn| ffiidb2mm]]
+
+== No-Nos ==
+
+Do '''not rename or delete projects'''.  Instead terminate a project (set the database field [=ffii.proj.finito] to the value [=True]) and, if desired, create a new project as a substitute.
+
+== What's in a project? ==
+
+A project consists of a contact person and up to three newsgated mailing lists. It may have a webpage.
+
+=== Contact person ===
+
+In a grassroots organisation, it can be helpful to have a minimum of accountability or at least a contact person, so each has a supporter registered in aktiv, who acts as contact person and gets the initial password for the mailing lists (the mailing lists have a mailman interface, so he/she can assign to others). This date is in the table '''proj'''.
+
+=== Mailing lists ===
+
+Each project has up to three mailing lists, tables in '''projhlp''', these are called -help, -parl, -news. Eg:
+ * muenchen-help: this is an internal helpdesk list for answering helpdesk requests and confidential things
+ * muenchen-parl: from 'parl' = 'parlare/parler': speak, this is the main public mailing list, where subscribers can post and read what others post
+ * muenchen-news: low-volume list for news to eg journalists or other observers, you can subscribe, but subscribers cannot post
+Typically most traffic is on the -parl list, some projects don't use the -news list at all, and also the -help list is only optional.
+
+The activity on mailing lists differs widely from project to project, and of course the project also might do physical events. Doing this autonomously is very much welcome. Most projects are either regional or national, or activity-focused (patdb, sarji) or event-focused.
+
+= Creating a project =
+
+== Preparatory Steps ==
+
+Contact proj-help before you go ahead.  
+If you are creating a regional group, contact regio-help instead.
+
+You need an account on [[GenbaEn| genba]] and write access to the 'ffii' database tables 'proj', 'projhlp' and 'projprm'.  Alternatively, you can use the 'proj' verb in the [[KnechtEn| knecht]] system.
+
+To get the work done quickly (without waiting for cronjobs to execute it), you also need access to the account of user 'list'.
+
+Quite a few people have all these access rights, ask proj-help or regio-help if needed.
+
+== Edit the Database ==
+
+New groups are created as projects in the ffii database, tables 'proj', 'projhlp' and 'projprm'.
+E.g. for the regional group 'franken' the project 'franken' is created in 'proj' and helpers are assigned
+to it at different help levels in 'projhlp' and given permission for this helplevel in 'projprm'.
+
+ $ psql ffii
+ > insert into proj ( uid, proj, upproj, projurl, lang ) values ( 'cschulte', 'franken', 'regio', 'http://kwiki.ffii.org/FfiiFrankenDe', 'de' ) ;
+
+This means that ffii user 'cschulte' is leader of the 'franken' project which is a sub-project of
+the 'regio' project and has its home page at http://kwiki.ffii.org/FfiiFrankenDe.
+
+The same can be achieved by sending the following command to the [[KnechtEn| knecht mail processor]]:
+
+  proj franken	upproj = regio	lang = de	projurl = http://kwiki.ffii.org/FfiiFrankenDe
+
+Next, you may want to insert records for helpers:
+
+ > insert into projhlp values ( 'bkaindl', 'franken', 4 ) ;
+
+This means that ffii user 'bkaindl' wants to participate in the 'franken' project at responsibility level 4,
+i.e. co-responsible, ready to be the sole responsible when needed.
+
+You can not send this command via the [[KnechtEn| knecht mail processor]].  Rather you must ask bkaindl to send the following:
+
+   projhlp	franken		hlplvl = 4	
+
+ > insert into projprm values ( 'cschulte', 'franken', 'bkaindl', 4 ) ;
+
+This means that project leader 'cschulte' permits user 'bkaindl' to participate in project 'franken' at responsibility level 4.
+
+The same, as [[KnechtEn| Knecht mail processor]] commands:
+
+   projprm franken	prmuid = bkaindl prmlvl = 4	
+
+Once a group franken exists in the database, the 'ffiidb2mm' script need to be run by user 'list' so that the mailing lists franken-{news,parl,help} are created.  This script is invoked via the 'list' cronjob every night.
+
+If 'franken-parl' was already created manually before the project existed in the database, supplying the project afterwards won't do any harm.
+
+After the mailig lists have been created, the [=update_gated_ngs] program needs to be run by the user news in order to update the creation/activation of news groups and corresponding gateways (note that this process may take dozens of minutes - be very patient if you initiate it manually).  The program is run automatically each night by the user news' cron job.
+
+=== Optionally disable mailing list creation ===
+
+If you do not want your project to have mailing lists (for the time being), you can set the field 'projmlp' of table 'proj' to 'false', or, via knecht:
+
+  proj 	irctalk	projmlp = 0
+
+By default, the value of projmlp is 'true' (1).
+
+The project mailing lists will also not be updated if the 'finito' field is true or if the 'projfin' field is set to a date in the past.
+
+=== Controlling the setup of news groups ===
+As explained below, managing gated news groups is quite simple.  For more information, visit NewsServerEn.
+ * Projects without mailing lists don't have gated news groups.
+ * To disable a project's news group or to disable creation of it, set the value of the field [=nggate] in the table [=proj] to [=FALSE].
+ * To make the actual news group setup match the settings in the database, run the program [=run_update_gated_ngs] as user [=news] (note that this process may take dozens of minutes - be very patient) or wait for the nightly cron job (see above).  This program automatically creates/activates, moves, or removes news group gateways.  Note that, actually, no groups are removed by this program: During removal or movement, groups are merely deactived and gateways are removed.  That way, messages in "removed" or old "moved" news groups stay available for reading (until someone decides to remove them manually).
+
+== Giving the project a title and description ==
+
+Once you have created a project in this system, it will be advertised
+in the menu of the [[AktivEn| FFII participation system (aktiv)]] on
+the next day, provided that you provide a title and a description.
+
+These can be inserted through either one of the following three ways.
+
+=== database meta documentation: table 'flddes' ===
+
+A title can be inserted as follows:
+
+  > insert into flddes values ( 'proj', 'de', 'franken', 'Aktivitaeten in Franken' ) ;
+  > insert into flddes values ( 'proj', 'en', 'franken', 'Activities in Franconia' ) ;
+
+It might also help to edit the 'proj' table in order to point to a project URL, e.g.
+
+  > update proj set projurl = 'http://franken.ffii.org/' where proj = 'franken' ;
+If you do not do this, it will be assumed that your project homepage is 
+
+  http://kwiki.ffii.org/FrankenEn
+  http://kwiki.ffii.org/FrankenFr
+
+etc, depending on the language of the 'aktiv' user interface.
+
+== project-specific documentation strings: table projtxt (optionally via knecht)  ==
+
+There are other ways of creating a title:
+
+ > insert into projtxt values ( 'cschulte', 'franken', 'title', 'en', 'Activities in Franconia' ) ;
+ > insert into projtxt values ( 'cschulte', 'franken', 'descr', 'en', 'Organization of activities in Franconia' ) ;
+
+or, for the [[KnechtEn| knecht mail processor]]:
+
+ projtxt franken	title	en	'Activities in Franconia'
+ projtxt proj = franken	 mlid = descr	lang = de	mltxt = 'Organisation von Aktivitaeten in Franken'   	
+
+=== document-specific strings: table 'langtxts' (via mlht import or knecht) ===
+
+Moreover, if there is an mlht document of the same name as the project, you can send the text tags to the 'langtxts' table through the [[SwpatLangtxtEn| mlht translation mechanism]] as entries in a txl file:
+
+	title: Activities in Franconia
+	descr: Organising activities around Nuremberg
+	
+	# Local Variables: ;
+	# dok: franken ;
+	# txtlang: en ;
+	# ...
+	# Local Variables: ;
+
+The same can be achieved via the [[KnechtEn| knecht mail processor]]:
+
+	langtxts	franken	title	fr	Activtés en Franconie
+	langtxts	dok = franken	mlid = descr	lang = it\
+		mltxt = Organizzare le attività della FFII nella regione di Franconia
+
+again provided that a document called 'franken' is already known in the system.
+
+=== daily automatic update of aktiv interface ===
+
+The aktiv interface is updated from the database once per day by the script
+
+	/var/www/adm/bin/daily-aktiv.knecht
+
+which reads out values from the projtxt, langtxts and flddes tables.
+
+Each of these methods has its advantages and is convenient for different people.  Therefore the system is likely to continue collecting text chunks from all of these three sources for some time to come.
+
+If you can not wait for the daily cronjob to update the aktiv system, invoke 'daily-aktiv.knecht' from the command line as user knecht, or ask the people at proj-help to do it for you.
+
+== Optionally invoke the cronjob scripts yourself ==
+
+If you want to speed things up, invoke the scripts as follows.
+First [[FfiidistsEn| ffiidists]]:
+
+  $ su - list;
+  list$ source .bashrc
+  list$ ffiidb2mm franken
+
+For this script to work, there need to be entries for the project in the tables =projhlp and =projprm.
+
+Contact proj-help if you don't have and urgently need access to user list.  Otherwise just wait for the nightly cronjob.
+
+This creates the distribution files and statistics such as
+
+  /var/www/ffii/assoc/home/franken-{news,parl,help}.stat
+  /var/www/ffii/assoc/home/nenri/franken-{news,parl,help}/dist
+
+and creates+populates the corresponding mailman list.
+
+== Things to do ==
+
+Remind [[KnechtEn| kwiki-help at ffii org]] that you would like to enable project sign-on/off directly on your project-related wiki page, i.e. let people sign on/off after they have logged in as "ffii editor".
+
+Remind [[AktivEn| aktiv-help at ffii org]] that we need to further simplify project creation by providing a web interface for it.

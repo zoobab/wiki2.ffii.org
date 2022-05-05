@@ -1,0 +1,27 @@
+= 2004-06-12 IBM obtains patent on caps lock key status display =
+--> [:Ibm040612De: deutsch]; [:SwpatcninoEn: News]
+----
+
+One more of thousands of broad and trivial software patent granted this year by the US Patent Office has made it to the news headlines of the IT press.
+See
+ * [http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=1&f=G&l=50&s1=6,748,468.WKU.&OS=PN/6,748,468&RS=PN/6,748,468 US 6748468]
+and the main claim listed below.
+
+We have yet to check the status of this patent's cousin at the European Patent Office (e.g. by family search based on 6748468 at [http://www.depatisnet.de/ depatisnet]).
+
+== Comments ==
+
+=== Hartmut Pilch (president of FFII) ===
+
+There is no doubt that this one [http://swpat.ffii.org/papers/eubsa-swpat0202/tech/ qualifies as a "computer-implemented invention" and "makes a technical contribution" according to the standards of the European Commission, Council and Patent Office], but there may be enough prior art to invalidate it on both sides of the Atlantic.
+The European Patent Office has granted IBM numerous patents similar to this one, but if the European Parliament can uphold last september's vote for the rules of the European Patent Convention, they will remain unenforcable in Europe and we won't need to search prior art for it.
+
+The EPO is different from the USPTO on such matters only in one respect: its examination backlog is much longer, so that usually several years pass before the same patent is granted at the EPO, and at that time the examiners are already aware of any news scandal that may have aroused around the patent in question.  Yet, even in scandal cases such as Amazon One Click / Amazon Gift Shopping they sometimes do eventually grant the scandal patent.
+
+== Claim 1 ==
+
+A Caps Lock notification method, comprising: 
+ * determining that a Caps Lock key of a computer keyboard is in an error state, based on determining that a first condition has been satisfied; 
+ * generating an error signal in response to the determining that the Caps Lock key is in the error state; 
+ * ascertaining whether a second condition has occurred after the generating; and 
+ * if said ascertaining has ascertained that the second condition has occurred then disabling the error signal in response to said ascertaining without changing the error state. 

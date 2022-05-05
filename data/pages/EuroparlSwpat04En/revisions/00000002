@@ -1,0 +1,71 @@
+## -*- dok: EuroparlSwpat04; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= Software Patent Directive in the Europarl 2004 =
+--> 
+[ [[http://www2.europarl.eu.int/omk/sipade2?PUBREF=-//EP//TEXT+RULES-EP+20040720+RULE-055+DOC+XML+V0//EN&HNAV=Y|EP Rule 55]]
+| [[ElectResu0406En| EP Vote Results]] 
+| [[SwpatFuturEn| Future]] 
+| [[FfiiprojPriorEn| Priorities]]
+| [[SwpatcninoEn| Patent News]]
+| [[FfiiprojNewsEn| Project News]]
+]
+----
+
+In May 2004 the EU Council of Ministers kicked the European Software Patent Directive back to stage 0 or -1 by ignoring all the changes of the European Parliament and introducing new elements such as program claims that widen the cleavage even further.  Some people in the European Parliament have proposed that the Parliament should under such circumstances not go into a 2nd reading.  A 2nd reading would expose a new Parliament with 10 new member states to difficult decisions, taken in short time with heightened majority requirements (absence counts in favor of the Council) under the impression of an unprecedented lobbying blitz, and then send them into backroom conciliation procedures with a Council that has not even faced the problems yet.
+
+== News & Chronology ==
+
+ * 2005-01-25 [[SwpatuniceEn| UNICE]] member associations ask their members to lobby against restart, arguing that Council position is good for them and EP will have difficulty in getting the required high majorities to seriously amend it in 2nd reading
+ * 2005-01-19 [[Juri050119En| Commission attempts to thwart EP attempt for restart]] but fails due to Polish government's resistance
+ * 2005-01-19 [[Juri050119En| JURI scheduled to raise the subject but fails due to oppositon of MEP Lehne]]
+ * 2005-01-10 [[Restart0501En| restart motion of 61 MEPs]], rejected by EP tabling office in defiance of rule 55(4) and without an explanation (tabling office policy seems to be to strengthen the party groups)
+ * 2004-04-14 [[OlgaZrihenEn| Olga Zrihen]] calls for another 1st reading of the directive (in an interview with EU Reporter)
+
+== Arguments for 1st Reading ==
+
+[[OlgaZrihenEn| Olga Zrihen]] has called for another 1st reading of the directive (in an interview with EU Reporter on 2004-04-14).
+
+The main arguments for this are
+
+ * Council's work doesn't build on work of last parliament's plenary, is in substance like a new first draft 
+ * New parliament needs to make up its mind anew, doesn't necessarily want to build on last parliament's reading
+ * 2nd reading implies limitations, e.g. 
+   * amendments are limited to what was submitted by last parliament or compromises with council
+   * everything must be done in 4 months, no opportunity for much discussion
+   * votes of absent MEPs are counted as pro-council
+ * [[http://www2.europarl.eu.int/omk/sipade2?PUBREF=-//EP//TEXT+RULES-EP+20040501+RULE-071+DOC+XML+V0//EN&HNAV=Y|EP rules on readings]] say that another first reading would be appropriate "where new elections to Parliament have taken place since it adopted its position, and the Conference of Presidents considers it desirable."
+ * new Parliament is very different from old one, 10 new member states have not had a chance at 1st reading
+
+== Rule 55 ==
+
+[[http://www2.europarl.eu.int/omk/sipade2?PUBREF=-//EP//TEXT+RULES-EP+20040720+RULE-055+DOC+XML+V0//EN&HNAV=Y|Rule 55 Renewed referral to Parliament]]
+
+1. The President shall, at the request of the committee responsible, ask the Commission to refer its proposal again to Parliament
+ * where the Commission withdraws its initial proposal after Parliament has adopted its position in order to replace it with another text, except where this is done in order to incorporate Parliament's amendments; or
+ * where the Commission substantially amends or intends to amend its initial proposal, except where this is done in order to incorporate Parliament's amendments; or
+ * where, through the passage of time or changes in circumstances, the nature of the problem with which the proposal is concerned substantially changes; or
+ * where new elections to Parliament have taken place since it adopted its position, and the Conference of Presidents considers it desirable.
+
+== Changes since directive was drafted in 2002 in EU ==
+
+ * Council kicked the procedure back to stage 0 or -1, with the most uncompromisingly pro-software-patent draft seen yet, without explaining why the EP amendments were ignored, leaving it unclear what it's set of cryptic amendments is supposed to achieve
+ * More States that were not following EPO joined
+ * [[SwpatstatEn| Public administrations concerns]]
+   * [[OpenStandardsEn| "Open Standards Definition" in the European Interoperability Framework]]
+   * [[StatskontoretEn| Statskontoret vs SignOn]]
+ * Caselaw development
+   * [[Pension |benefit doctrine amended by Hitachi verdict EpoT030258En]]
+   * German courts backed away from Sprachanalyse, Logikverifikation
+ * Commission launched new patent studies
+   * [[http://tinyurl.com/53apd|DG Information Society]]
+   * DG Internal Market
+
+== What has changed since directive was drafted in 2002 in the World ==
+
+ * [[Ftc03En| FTC study]]
+ * Bessen & Hunt study
+ * [[OsrmEn| OSRM]] study of Linux Kernel
+ * [[SwpatmicrosoftEn| Microsoft's licensing program]]
+ * [[SwpikxraniEn| explosion of patent litigation and licensing]]
+ * [[MyhrvoldEn| Intellectual Ventures business plan]]
+ * threats to end users and indemnification wars
+   * [[Ballmer0411En| microsoft's ceo threatening the heads of asian governments with patent litigation]]

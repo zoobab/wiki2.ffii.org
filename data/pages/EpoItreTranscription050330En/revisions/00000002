@@ -1,0 +1,165 @@
+= Transcription from EPO ITRE, 2005-03-30 =
+
+NOTE: To prevent collisions, don't let a long time pass between clicking "Edit" and "Save". Prepare your contribution in an editor, then Edit, Paste, Save. Thanks.
+
+----
+
+=== A (track5, 10:38) ===
+
+Let me first try to address the first question that you posed, whether 
+data processing should be totally excluded from being protectable by
+patents. I think that if a technical problem---in the sense that we 
+have discussed what 'technical' might be perceived to be---if a
+technical problem is being solved partly or totally with the help of 
+modern computer technology, for instance, data processing, then the
+fact that it is this technology that has been used to solve the
+problem should not automatically exclude this subject matter from
+protection by patent. 
+
+In other words, modern technology has paved the way for solving 
+problems that were not perceivable when the patent law was written 
+down, by means of a computer program. This doesn't change
+automatically the fact that these solutions are worth to be protected;
+they are solutions to technical problems, they are in principle
+subject matter which is not excluded by the exclusions of patent law,
+and in this sense the patent protection should be accessible to them.
+So the answer to your question is that if we were to exclude totally 
+whatever is been performed by data processing from patent protection,
+then we wouldn't act in the sense of the people who wrote the law. It 
+was at that time, when the patent law was written, and that was the 
+seventies, and in the seventies a computer program had certain limited 
+functionality and you could even read the code of a computer program,
+for instance an old COBOL program, and you could even understand what
+it does. The functionality that is been able to offer today with the
+help of a computer program has dramatically changed, and it would be
+not in the sense of the legislator if we would automatically exclude 
+from patent protection whatever functionality can be achieved nowadays
+by means of modern computer technology.
+
+(Question/clarification barely heard, containing the word "synergy".)
+
+I am not a lawyer, and therefore I will not tell you anything which
+you might think that this is an official opinion of a lawyer; it's
+my personal view. Modern industrial property, and the efficient
+regulation of modern industrial property, takes a little more than
+just patent law---that's my personal view---and I see that there is a
+huge potential in regulating the field in a synergy between the patent
+law on one side and other forms, other possibilities, other legal
+possibilities available nowadays, and one of them is competition law.
+That's my personal view.
+
+=== Q (track 5, 14:28) ===
+
+I'm still uneasy about the answer I got about the disclosure, full
+disclosure. I think that the last answer was referring to the programs
+from the seventies is just a confirmation of that; actually, at that
+time, we had full disclosure, so we could go through a program and see
+the specific steps, and somehow it might have been ground 4 issuing a
+patent. Right now I think that things have become more complex, but
+still source code is source code and all the experts could go through
+the source code and see what is there. And of course a patent is full
+disclosure of the invention, and I don't think that we should make any
+exception, and of course this kind of work of thought could be
+protected by copyright. So full disclosure would actually shift to
+copyright for appropriate protection for this kind of work of mind,
+and leave of course more clear the field to device implemented
+invention, and that would me more or less automatic. On the other
+hand, we need, for security reasons, we do need to know the source
+code we are using, because we are not sure that in some line there is
+something that can be addressed from the outside and kill our
+computers.
+
+=== A (track6, 01:50) ===
+
+There is a lot of arguments used in favour of disclosing the source
+code. As I said, what is necessary under the existing patent law,
+'sufficient disclosure' means that the invention has to be disclosed
+to a person skilled in the art in a manner to enable him to carry out
+the invention. This is a good example of synergy between patent law
+and copyright law: copyright law is there for protecting the form, the
+expression which may find itself realized in form of source code, of
+object code, or other kinds of description of software. So you enjoy
+copyright protection under the conditions of the old European
+directive now implemented in the entire Europe. You have full
+protection on the source code, and on the other hand you could have
+protection on the idea, the technical idea of making a certain
+process (?) carrying out an invention which makes use of a computer, a
+computer network etc. So the two systems coexist, necessarily they
+coexist. You have the patent, and the invention patented may be
+carried out by using different forms of computer programs, not only
+the source code disclosed in the application, wherever this would be
+necessary, but you can use it in different ways, you can use higher
+languages to implement one invention in many many different ways, and
+then, you enjoy, in addition to patent protection, you may enjoy
+copyright protection for this program. But the patent itself would be
+enforceable against a user which would use the invention as disclosed,
+without even using a program which may be described in the
+application.
+
+That's the synergy. This is, I think, the most important thing: the
+patent system is not there to disclose and to make available anything
+in terms of source code, so that you have a database of all source
+codes used and developed. You will never be sure that this is a system
+which completely discloses every source code used for whatever
+purpose. This was the idea of a sui generis protection for software
+discussed in the framework of WPO to create a database of all source
+codes, object codes etc. were ever produced, in order to get copyright
+protection, by the way, not patent protection. So I think we have a
+good case of synergy between two systems, copyright and patent law,
+and, on the other hand, there are clear limits of disclosing the
+source code in patent applications.
+
+=== Q (track6, 05:05) ===
+
+Just before we conclude, I think the President wants to say a few
+words, but I also really wanted you perhaps to address a more global
+issue. I think sometimes there is a view that patents are really only
+there for big business, and that SME's don't have advantages, or the
+same advantages, as multinationals, perhaps, and I wondered what the
+EPO is doing to try and redress this imbalance and to make sure that
+generally small and medium sized companies have access to patent
+protection as well.
+
+=== A (track6, 05:33) ===
+
+For this specific issue there is two aspects. One aspect is access of
+(?) patent information for SME. The second one is that we have a
+European Patent Academy to train all the SME (?) in managing patent
+portfolio. The third one is that we are training also people in order
+that they use the (?) tools to know patent information.
+
+''[[Editor |note: In this world there are three types of people: those who can count and those who can't.]]''
+
+These are the main issues and we will have a meeting with SME's to
+better know what are the needs in terms of patent information and
+patent portfolio assessement.
+
+So the other thing I would like to say is that, first, we could have a
+whole seminar for the whole day with more comfortable facilities, but
+nevertheless we are ready before the adoption of the directive to
+organise a meeting with and next four which will be more properly
+targeted to the directive on cii. We will have more facilities because
+it seems that many people are interested (?) first point, and we are
+willing to interact with all movement involved in the drafting of this
+directive. That's the first point. The second point is that I would
+like to remind the fact that it's the policy of EPO in patenting cii
+is no patent on pure software, first point; no patent on business
+methods; and no patent on algorithms per se. I think these are the
+three main messages that you should keep in mind, and if you want more
+information, go to the patent presentation, the exhibition we have in
+the third floor, you will have all the leaflet and documents that you
+need, and there is one specific document on cii. Thank you again for
+organising and giving the opportunity to have this seminar here, in
+the real heart where the second lecture of the directive will occur.
+Thank you very much.
+
+=== (track6, 07:59) ===
+
+Thank you. To conclude, I think we've really only skimmed the surface
+of some of these issues. I think there are a lot more in-depth
+questions that we would want to ask, and I would be very grateful for
+the circulation of the papers that your colleagues have given and
+including your speech, and I'm sure that you will be accessible for
+people to follow up on the specific questions [[they |will have]].
+
+[[some |discussion on powerpoints, business cards etc.]]

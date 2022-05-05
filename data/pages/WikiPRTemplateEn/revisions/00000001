@@ -1,0 +1,153 @@
+(Find the template of this page for use in similar pages at WikiPRTemplateEn.)
+
+= Index =
+
+ * Help Blast out this PR
+   * Roles
+   * Keeping in Touch
+   * Translate
+     * Content-Hints to Translators
+     * Status of various Language Versions
+   * List of multipliers to whom people should write
+   * Doping Prices
+ * Related Events
+ * Links
+
+= Help Blast out this PR =
+
+This PR does have <fill-in-importance-degree-here> importance.
+
+== Roles ==
+
+ * IRC communication channel: irc://irc.debian.org#ffii-bxl (freenode)
+ * <fill-in-known-absences-here>
+ * <fill-in-special-press-and-journalist-contact-efforts-here>
+
+== Keeping in Touch ==
+
+Helpers should use [http://lists.ffii.org/mailman/listinfo/media-parl/ media-parl at ffii org] and irc://irc.debian.org/#bxl-ffii (freenode) together with this wiki page to aid coordination.
+
+== Translate ==
+
+Translate the [:editable :source text <fill-in-press-release-url-here>]
+and send it to to mlhtimport at a2e de, see [http://swpat.ffii.org/group/langtxt/ translating instructions].
+
+Translators please also use traduk at ffii.org
+
+<fill-in-notes-on-late-updates-here>
+
+=== Content-Hints to Translators ===
+
+ * check exact national match for EU institution/law terminology such as "directive", "presidency", "council"
+ * shortcuts like SMU or R&D should get translated into native versions
+ * it should be taken sufficient care for using national wording (especially for technical, economical, political and law terms) rather than international wording even if the original wording is somewhat known to locals
+ * phrases like "no software patents -- power to the Parliament" have been chosen under shortness constraints; those headlines will strongly vary from language to language; different ways of shortening a base meaning similar to "all lawmaking power to elected legislators" have to be found for some language versions of the document
+ * document names like "Call for Action" should be translated into national version, but the original title should show up the first time it occurs in the body
+ * abbreviations such as CTO, CEO, etc. that dont have a national counterpart should be translated into long name national version, but the original shortcut should show up the first time it occurs in the body
+
+=== Status of various Language Versions ===
+
+see also that version's own addenda wiki
+
+==== Finnish ====
+ * <fill-in>
+ * Discussion in Finnish at <fill-in-Fi>
+
+==== German ====
+ * <fill-in>
+ * Discussion in German at <fill-in-De>
+
+==== Dutch ====
+ * <fill-in>
+ * Discussion in Dutch at <fill-in-Nl>
+
+==== Portoguese ====
+ * <fill-in>
+ * Discussion in Portuguese at <fill-in-Pt>
+
+==== Spanish ====
+ * <fill-in>
+ * Discussion in Spanish at <fill-in-Es>
+
+==== French ====
+ * <fill-in>
+ * Discussion in French at <fill-in-Fr>
+ * Translators please also use tradukfra at ffii.org
+
+Other languages might already be complete, please see respective web page.
+
+== List of multipliers to whom people should write ==
+
+Please add to this list and put your name after any address to which
+you have already written
+
+=== English ===
+
+ * info at theregister.co.uk:
+ * press.releases at theinquirer.net:
+ * mailroomuk at zdnet.co.uk:
+ * IDG (idgnews at idg.com):
+ * info at euractiv.com:
+ * skynet:
+ * Outlaw:
+ * zdnet:
+ * lwn at LWN.net:
+ * slashdot.org: (can be a short story & Link sent via web interface)
+
+=== Mailing lists at ffii.org and other ffii sites: ===
+
+   * news
+   * ffii-uk
+   * ffii-ie
+
+=== Mailing lists on other servers: ===
+
+   * fsfe-uk
+   * sklyarov
+   * lugmaster
+
+=== German ===
+
+See also discussion in German on <fill-in-De>
+ * newstips at heise.de:
+ * info at spiegel-online.de:
+ * golem.de:
+ * ORF Radio - Wirtschaftsredaktion:
+
+ * Mailing lists at ffii.org and other ffii sites:
+   * neues:
+
+ * Mailing lists on other servers:
+
+=== Swedish ===
+
+ * Agency T.T.:
+
+=== Dutch ===
+
+ * todo
+
+=== Finnish ===
+
+ * todo, see also at <fill-in-Fi>
+
+=== Spanish ===
+
+ * todo, see also at <fill-in-Es>
+
+=== Misc ===
+
+ * Reuters, DPA, AFP, BBC, ... 
+
+many press agencies are listed at [http://www.pressalliance.com/ pressalliance.com].
+
+== Doping prices ==
+
+Some agencies or individuals offer special services for
+blasting PRs to news agencies.  We might spend about 500 eur for such services if they are worthwhile.  Try to obtain offers and list them here: MediaDopingEn.
+
+= Related Events =
+ * <fill-in>
+
+= Links =
+ * <fill-in>

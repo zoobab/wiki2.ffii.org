@@ -1,0 +1,134 @@
+## -*- dok: mpegla05; lang: es; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-05-07
+## url: http://swpat.ffii.org/patents/effects/mpeg/mpegla05/index.en.html
+## title: La FFII inicia una investigación en la maraña de patentes de MPEG-LA
+->
+[ [:Mpegla05En: english]
+| [:Mpegla05De: deutsch]
+]
+[ [:SwpatpiktaEn: Patentes]
+| [:SwpikxraniEn: en Acción]
+| [:SwxaiMpegEn: MPEG y Compañía]
+| [http://lists.ffii.org/mailman/listinfo/mpeg-parl/ lista de correo MPEG]
+| [:SwpatcninoEs: Noticias sobre patentes]
+]
+----
+
+''Producto de una investigación realizada por un veterano especialista en el procesamiento de señales, se deduce que las 900 patentes que posee MPEG-LA son muy débiles en sí mismas, pero que todas juntas forman una impenetrable madeja que hace la programación en ese área un peligroso ejercicio, así como inevitable el pago de licencias al grupo poseedor. Entre los dueños de patentes del grupo MPEG-LA están muchas de las mayores empresas que han financiado el lobby a favor de la Directiva de Patentes de Software.''
+
+Proyectos como !MPlayer y [:SwxaiVideolanEn: VideoLAN] han liderado una manifestación web en la que advertían a sus usuarios que la directiva de patentes, tal y como estaba propuesta por la Comisión y el Consejo, prácticamente significaría el final de esos proyectos.
+
+El proyecto !MPlayer escribió en su página web de protesta:
+
+  MPlayer está seriamente amenzado por las patentes de software
+  debido al gran número de técnicas multimedia patentadas. También
+  están amenazados los muchos programas construidos sobre MPlayer,
+  así como los otros reproductores multimedia de software libre,
+  como son Xine, VLC, AVIfile, GStreamer y especialmente FFmpeg,
+  que provee el entorno que todos los anteriores reproductores usan.
+
+  La multimedia es un campo de minas de patentes. Todas las técnicas
+  y formatos importantes están cuviertos por patentes genéricas y
+  triviales que están dañando el progreso y los desarrollos
+  alternativos, como los de los reproductores multimedia basados
+  en software libre.
+
+A continuación se resumen comentarios del [http://swpat.ffii.org/patents/effects/mpeg/mpegla05/ borrador de estudio].
+
+== Resumen del Borrador de Estudio ==
+
+Todas las patentes la [http://www.mpegla.com/m4s/m4s-att1.pdf lista de la asociación que licencia MPEG en referencia al estándar MPEG-4] fueron examinadas y analizadas. Tras un intensivo estudio de la literatura relevante y de más de 100 patetnes de empresas relevantes, podemos decir ahora: tras un cuidado examen no podemos encontrar ningún avance sobre el arte previo en dicha lista que pueda justificar la concesión de la patente. La mayor parte de esas patentes deberían ser atacables en un juzgado, pero, ¿quién afrontaría el imposible de litigar contra 900 patentes propiedad de docenas de grandes empresas?
+
+ 
+Véase el informe completo en  
+ * http://swpat.ffii.org/patents/effects/mpeg/mpegla05/
+
+=== Apple Computer, Inc. ===
+
+ * [http://www.sensortime.com/US6134243_Apple.pdf US 6,134,234]
+
+=== Electronics and Telecommunications Research Institute ===
+
+ * [http://www.sensortime.com/US6707944_ETRI.pdf US 6,707,944]
+ * KR 248,404
+
+=== France Télécom, S.A. ===
+
+ * [http://www.sensortime.com/DE069800934_France_Telecom.pdf DE 69800934 T2]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf ES 2159438 T3]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf GB 995,170]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf IT 995,170]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf NL 995,170]
+ * [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf SE 995,170]
+ * [http://www.sensortime.com/DE69801998C0_France_Telecom.pdf DE 69801998 T2]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf ES 2165694 T3]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf GB 1,004,206]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf IT 1,004,206]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf NL 1,004,206]
+ * [http://www.sensortime.com/WO0034912A1_France_Telecom.pdf SE 1,004,206]
+ * [http://www.sensortime.com/US6075901_France_Telecom.pdf US 6,075,901]
+ * [http://www.sensortime.com/US6075901_France_Telecom.pdf US 6,204,854]
+
+=== Koninklijke Philips Electronics N.V. ===
+
+ * [http://swpat.ffii.org/pikta/txt/ep/0460/751/ EP 460,751]
+ * [http://www.sensortime.com/US05844867_Philips.pdf US 5,844,867]
+ * JP 3,162,110 
+ * [http://www.sensortime.com/DE69127504C0_Philips.pdf DE 69127504]
+ * KR 239,837
+
+=== Mitsubishi Electric Corporation ===
+
+ * [http://www.sensortime.com/JP05236009A2_Mitsubishi.doc JP 2,814,819]
+
+=== Samsung Electronics Co., Ltd. ===
+
+ * [http://www.sensortime.com/US6091769_Samsung.pdf US 6,091,769]
+ * CN ZL 97112956.8
+
+=== Sharp Kabushiki Kaisha ===
+
+ * [http://www.sensortime.com/JP11122497A2_Sharp.doc JP 3,188,237]
+
+=== Sun Microsystems, Inc. ===
+
+ * [http://www.sensortime.com/US6092120_SUN.pdf US 6,092,120]
+
+== RESUMEN del Análisis-MPEG-LA: ==
+
+Tras estudiar intensivamente la literatura relevante y más de 100 patentes (incluyendo todas las patentes EP- y OMPI-), uno definitivamente puede decir:
+
+Las reivindicaciones de patentes no cumplen ninguno de los prerequisitos del Artículo No. 52 de la Convención de la Patente Europea: éstas describen sin excepción a los programas de computadora (reglas y algoritmos para operar equipos de proceso de datos conocidos). Conceptos implementados en computadoras; nada más.
+
+Pero incluso si por un momento aceptáramos la extraña interpretación del Artículo 52 que lleva a cabo la OEP, veríamos que, comparando con el arte previo, no hay invención alguna en dicha lista MPEG-4 con un "paso inventivo" que pudiera ser suficiente para justificar la concesión de siquiera una de esas patentes.
+
+La mayor parte de los "pasos inventivos" en dichas reivindicaciones de patentes son dominios bien conocidos en su época, que han sido encapsulados en semánticas indefinibles y nebulosas tales como:
+
+ * "*Parámetro*", asociado a un "bloque de código" que representa e indica, cualquier cosa que uno imagine (PHILIPS, véase reivindicación 1 de [http://www.sensortime.com/EP0460751A2_Philips.pdf EP0460751A2])
+ * "*control de señal*", que es "indicativo" para cualquier clase de algo. (PHILIPS, véase reivindicación 1 de la patente alemana paralela [http://www.sensortime.com/DE69127504C0_Philips.pdf DE69127504C0])
+ * "*porciones de señal*", compuesto por un "algoritmo" a un código (PHILIPS, véase reivindicación 1 de [http://www.sensortime.com/US05844867_Philips.pdf US 5,844,867])
+ * "*señales de datos*", que son compuestas por "*reglas de cuantificación*" o/por cierto "*parámetros de cuantificación*" para la codificación de objetos (France Telecom, véase reivindicación 1,2 de [http://www.sensortime.com/EP0995170B1_France_Telecom.pdf EP0995170B1] o reivindicación 1 de [http://www.sensortime.com/US6075901_France_Telecom.pdf US 6,075,901])
+ * "*Un juego de datos*" y/o "*instrucciones*", cómo transmitir o procesar data relevante en el tiempo (Multimedia) de una manera bien conocida. (Apple, véase reivindicación 1 de [http://www.sensortime.com/US6134243_Apple.pdf US 6,134,243])
+
+Algunas "invenciones" son de materias repatentadas. Tecnologías que fueron descritas 20 años antes: simplemente implementadas y/o añadidas en nuevas reivindicaciones de patentes que pretenden la ''novedad'':
+ * "*direccionamiento*" de patequetes de datos para su identificación (Philips)
+ * "*sellos de tiempo*"  o "*relación de tiempo de paso*" de bytes de datos o de paquetes de datos (SUN Microsystems)
+ * "*multiplexado*" (MUXING) de datos relevantes en el tiempo o de otros datos (Samsung)
+
+Otros casos son curiosos y peculiares: 
+
+ * "*degradación cándida*" (ETRI)
+
+Docenas de reivindicaciones adicionales de patentes lograron basarse  en dichas tecnologías - conocidas desde hace décadas - y en esos monstruos semánticos nebulosamente e indefinidamente formulados. PIRÁMIDES de nuevas patentes y de familias de patentes llegaron a ser fundadas así:
+
+http://www.sensortime.com/MPEG-LA-patentpyramid.gif
+
+Finalmente, analicemos las solicitudes de patentes publicadas antes de 1997 referentes a dichos tipos de "arte previo":
+Consultando por el término "*multiplex*" (multiplexar o multiplexador), una búsqueda profesional en la base de datos de patentes muestra 52.690 (!) aciertos hasta el 1 de mayo de 1997.
+
+http://www.sensortime.com/multiplex.gif
+
+Consultando por "*data block addressing*" (direccionamiento de bloques de datos): 944 resultados; por "*frame addressing*" (direccionamiento de tramas"): 130 resultados !
+Consultando por "*time stamp*" (sello de tiempo): 2962 resultados; por "*time address*" (direccionamiento de tiempo"): 813 resultados; por "*elapsed time*" (tiempo de paso) 14373 resultados!
+
+Cuando se consulta por el término "*data packetising*" (paquetización de datos) se consiguen 6354 resultados.

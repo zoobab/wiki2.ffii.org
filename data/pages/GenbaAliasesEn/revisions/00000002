@@ -1,0 +1,26 @@
+= The Mail Aliases /etc/aliases on Genba =
+-->
+[ [[GenbaEn| genba]]
+]
+----
+
+== News ==
+
+ * 2004-08-24 phm restores dynamic generation of /etc/aliases
+ * 2004-08 during reinstallation of genba with new mailer exim the original mechanism is lost
+ * 2003 phm installs a system of scripts that generate /etc/aliases
+
+== Outline ==
+
+ * to manually edit mail aliases, the source is /var/www/adm/etc/aliases.src
+ * further aliases are generated from the database by /var/www/ffii/assoc/home/makeall.pl
+ * the various sources are put together into /var/www/adm/etc/aliases by cronjob /var/www/adm/bin/hourly.knecht.  Sources include
+   * manually edited aliases /var/www/adm/etc/aliases.src
+   * project mailing list aliases /var/www/ffii/assoc/home/projaliases.txt
+   * ffii member aliases /var/www/ffii/assoc/home/nenri/verein/uidmail
+ * /var/www/adm/etc/aliases is copied to /etc/aliases by hourly.root
+   * editable source of hourly.root is in /var/www/adm/bin/hourly.root, but is not used
+   * the used version is editable only by root and stored in /usr/local/sbin/hourly.root
+ * hourly.knecht is started from knecht crontab /var/www/adm/cron/crontab.knecht
+ * hourly.root is started from root crontab /var/www/adm/cron/crontab.root
+   * crontab mustn't be loaded automatically from /var/www/adm/cron/* by any scripts.  If automatic loading is necessary, only a copy from a directory which can be written only by the concerned user is acceptable

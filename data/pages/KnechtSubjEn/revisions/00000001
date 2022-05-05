@@ -1,0 +1,21 @@
+## -*- dok: KnechtSubj; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= Commands specified in the Subject of Messages to the Knecht mail processor =
+-->
+[ [:KnechtEn: knecht]
+| [:KnechtSubjFfiiEn: ffii queries]
+]
+----
+
+The knecht mail processor handles different groups of commands, depending on what is specified in the subject.
+
+== State of Documentation ==
+
+ * http://www.ffii.org/assoc/knecht/
+ * [:KnechtSubjFfiiEn: ffii : Queries about FFII participation]
+ * dabei: KnechtSubjDabeiEn
+ * meps: KnechtSubjMepsEn
+ * help
+ * proj
+ * kwiki
+
+To be gathered from the source genba:/var/www/adm/lib/Knecht.pm.

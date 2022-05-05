@@ -1,0 +1,49 @@
+=  Turing Argument =
+
+----
+
+''This Turing-argument targets the logic-bug that softwarepatents are needed to protect inventions from beeing easily implemented by just programming an existing (old) computer. If that is the case the invention was not an invention. This was originally written on purpose of making the computer-illiterate readers head spin, and thus making him ask the right kind of people for advice.''
+
+A Turing machine (most programming languages is turing complete) can
+compute anything computable. A Universal Turing machine (the computer)
+is a Turing machine that can read the description of any other Turing
+machine, and to carry out what that other Turing machine would have
+done. Intuitively people might think that computing tasks of greater
+complexity would need greater complex machines. But no, its sufficient
+to have a specific, limited, degree of complexity, and just more of
+storage capacity for more complex tasks.
+
+Now if this makes your head spin.. that a Universal Turing Machine is
+itself only a particular kind of Turing machine, remember that a
+computer can be emulated as a program on another computer.
+
+So, if anything technical new and not mathematical/logic obvious is
+present, it has to be in hardware, not as some effect of programming
+an existing machine (you cant program a nonexisting one). If then
+everything in law is logically right, that means that patent
+infringiment must come from someone making/using '''new''' hardware, and
+if someone has patented hardware that can be emulated in non-infringing
+hardware, then the patent should not have been granted since there
+logically wasn't any invention because the innovation was not new and
+non-obvious.
+
+There has to be something new outside the software, and it has to be
+something physical. Otherwise, we would either have the absurd
+situation of patents being infringeable by running simulations of the
+computer-implemented parts of 'computer-implemented inventions', or we
+would have a big loophole of simulation through which to drive all
+software through in order to circumvent, and render ineffective, all
+such software patents. After all, how can a 'technical effect' be
+a '''real''' technical effect when it's being simulated? 
+
+When things have been broken down to perfect mathematical models,
+there is no longer much new technology to expect in the future, apart
+from further improvement of mathematics. Such is the fate of inventing:
+things get patented once and then you can no longer patent them. We do
+not want old things to be patentable over and over again, just to
+keep the patent bureaucracy business going. 
+
+
+= Recommended reading =
+
+ * [http://en.wikipedia.org/wiki/Turing_Machine Wikipedia Turing Machine]

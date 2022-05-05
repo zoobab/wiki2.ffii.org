@@ -1,0 +1,596 @@
+## -*- dok: epp050602; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= German EPP Hearing on Software Patentability 2005-06-02 =
+->
+[ [[Konf050601En| FFII/EPP Conference]]
+| [[EVPHearing050602De| Hermetischer Diskurs in deutscher EVP-Gruppe]]
+| [[KlausHeinerLehneEn| Lehne]]
+| [[PiiaNooraKauppiEn| Kauppi]]
+]
+----
+
+''2nd June 2005 -- One day after a conference that was jointly organised by FFII, CCIA and a group of members of parliament from the European People's Party from mostly Eastern-European countries, the German Christian Democrats conducted a hearing of their own on "CII", in which they gave the floor mainly to pro-patent lobbyists and patent lawyers.''
+
+----
+
+== Notes ==
+
+The notes attempt to paraphrase too much of was said, even the very
+unimportant stuff. They need to be improved.
+
+=== MEP Kauppi, EPP rapporteur ===
+
+ * most difficult case in her 6 years.
+ * meps agree - don't want to take too many steps backward - inventions, using software as part of the invention should be patentable.
+ * but situation not clear enough. some v bad patents granted.
+ * close to the status quo ?
+   * EPC ?
+   * EPO case law ?
+ * Kauppi means the case law, not strict interpretation from 1970s. world has moved on; should not go back.
+ * Patent convention is outdated; should have been changed.
+ * Outcome: most EPP/DE members want to conserve status quo, with some limitations to stop business methods, trivial patents.
+ * some definitions redundant, more text does not mean more clarity.  Need to limit to core issues, remove material which just gives room for lawyers to interpret.
+
+=== Robert Lind - not available. ===
+
+=== Alain Strowel, Liege. ===
+
+ * Economic studies:  inconclusive.
+   * so need to remain prudent: we don't know, so we need to remain reasonable
+ * Cumulation: software is a hybrid
+   * text:  literary aspects
+   * code:  functional aspects
+ * hybrid nature -> protection by different IP rights (cf 
+   * copyright: the
+   * patent: protects the functional ideas.
+   * sometimes the value of a solution will lie in the technical ideas.
+ * eurolinux: protection should protect investment
+   * investment in writing the code
+   * ''also'' investment in developing new technical features.
+ * Legal
+   * whatever the outcome, there will be another judge, the ECJ - we should trust in this judge.
+     * trademarks, database protection: ECJ has been cautious
+   * key areas:	
+     * Art 2-4: "technical contribution" does not confer legal certainty. -- misled
+     * Art 5: "product claims"			
+**** won't allow 
+**** "pure software is software without technical contribution"
+     * technical contribution
+**** don't need new
+**** ABS
+**** Washing machine 
+**** replacement of hardware element by software not good enough ?
+**** Mobile phone - faster access to data ?
+   * exclusion of "data processing" is "extreme"
+   * definitions of industry 
+     * production of material goods
+     * EU does not have competitive advantage there.
+
+=== Brian Kahin, University of Michigan ===
+
+ * status quo ?
+   * real status quo
+     * hard to tell: what is the real issue ?
+   * Commission missing context material
+     * different uses; complex products
+     * portfolios, not single patents
+     * "patents are stealing our copyrights"
+     * patent trolls.
+     * TI doesn't know what's in its portfolio
+     * Cisco doesn't do clearance searches
+ * Software
+   * widespread independent invention
+   * inadvertent infringement
+ * "Pure software"
+   * what do you want to keep out of the directive ?
+ * What's at stake ?
+   * is it about patents or about software ?
+   * patents or innovation ?
+   * knowledge-based economy ?
+		
+== Karamandi, EPO ==
+
+ * What is patentable, what is not ?
+ * Directive should not move too far from status quo.
+ * Current practice in 8 minutes:
+   * EPC, 30 member states
+   * EPO BoA case law
+   * Art 52(1) EPC:
+   * Art 52(2) and 52(3) EPC:
+     * ... exclusions
+     * should be interpreted narrowly.
+     * only excluded if claimed "as such"
+   * "Invention"
+     * should it be defined ?
+     * member states said no
+     * prep docs 70s said flexibility should remain, to consider new technology.
+ * epo case law
+   * technical character
+   * -> else excluded from patentability
+   * -> computer programs, business methods claimed as such
+   * -> inventions involving computer programs patentable if they make a technical contribution.
+ * US
+   * concrete, tangible, useful result
+   * state street bank
+			
+== PA Betten, Ficpi ==
+
+ * patent lawyer 20 years, previously programmer
+   * represent small SMEs -- innovative.
+   * good we don't have US system, won't have those problems
+     * technical character.
+ * Copyright doesn't protect against intelligent copying.
+   * works for global cos, global open source
+     * but not good for small cos
+     * doesn't work for small
+**** Microsoft vs Stac case
+**** C didn't protect SMEs
+**** now SMEs can use patents to protect themselves
+ * Open source / SMEs
+   * DE: 3.4 million SMEs
+   * some open source
+   * some services
+   * but the others do make products which can be patentable
+   * want to sell these worldwide
+   * 1 to 2 patents can get a worldwide foothold.
+   * "hidden champions"
+     * EU companies that have achieved 30 to 40% shares.
+ * major infringement proceedings ?
+   * then why haven't those 30,000 led to proceedings ?
+   * despite existing patent protection,
+   * innovation has not been slowed down before.
+ * The important case law from the EPO, BGH
+   * -> patent protection for business methods etc not possible.
+   * EPO manages without a definition of "technical"
+     * -- nor does BGH
+ * recitals 
+   * [[http://swpat.ffii.org/papiere/bgh-komm04/|decision from 2004]] better than any new definition of technical characteristic which would only confuse
+   * experts happy with 3(b)
+ * Fears of Open Source, SMEs 
+   * large areas of software not patentable
+   * don't have technical character
+   * case law changed in 2000
+     * .. many would not be enforceable
+ * Council version would speed up
+   * clarifications by ECJ
+     * (though took 10 years).
+		
+== Q&A ==
+
+=== Q. MEP Wuermeling: ===
+
+ * v useful, comprehensive statements.
+ * "data processing"
+   * what would it mean to exclude this from patentability ?
+   * would this help separate software from technical areas.
+		
+=== A. Stowel: ===
+
+ * exclusion of all data processing
+   * would move the limit a long way from the current position
+ * data processing should be patentable
+   * enhancement of the image in medical equipment
+   * physical entities on the screen.
+			
+=== Q. MEP Lehne: ===
+
+ * all colleagues agree on the objective:
+   * software developers able to work without limits
+   * but allow inventors to profit
+ * interoperability:
+   * solution ?
+		
+=== A. PA Betten: ===
+	
+ * 1991: chamber of patent lawyers intervened on sw copyright, interfaces
+   * that compromise was very difficult
+   * has stayed in place
+   * still a major component of patent law
+ * with the exception of Microsoft, no specific cases where this has become a problem.
+   * but an issue which will seriously have to be addressed over next 3 years
+     * German courts have indicated this.
+		
+=== Q.  MEP Kauppi, EPP: ===
+
+ * can software have some technical features ?
+ * data processing not a field of technology ?
+   * could this be limited to make it okay ?
+ * Betten: were EPO decisions right, eg IBM/ program claims, Sohei ?
+   * --> kauppi: borderline cases ?
+		
+=== A.  Brian Kahin: ===
+
+ * comment on Betten statement ?
+ * US would not put so much weight behind a single adjective "technical"
+		
+=== A.  Stowell ===
+
+ * technical features can be implemented in software, eg code.
+   * but then it is the invention which is patented, not the code ?
+   * -> sim to biotech invention.
+   * --> it is the function which is patentable.
+ * exclude data processing without limitation goes very far
+   * would exclude image contribution
+ * but excluding data processing w/o technical contribution could be okay.
+ * rust in a good judge at the ECJ
+	
+== A.  PA Betten: ==
+
+ * of course, technical features can be implicit in code
+   * -> what matters is the effect it brings about.
+ * EPO jurisprudence, BGH is far clearer than this general form of words.
+ * Product claim:
+ * US form of words might have been preferable.
+   * but we are talking about the code as it is marketed.
+   * IBM computer program product, federal court agreed.
+   * especially important for SMEs in particular
+   * otherwise would have to take action against end user.
+   * confusion: covers product in the form in which it is marketed
+     * all the characteristics of the patentable product/device.
+			
+===  A. Karamani: ===
+
+ * Case law:
+ * "normal physical effect"
+   * flow of electric current not a 
+   * brake or train, better quality mobile phone comms.
+   * solution to a technical problem
+   * IBM decision, Sohei at the beginning of the case law
+   * new case law has developed
+   * much emphasis on whether there is a technical contribution
+   * very strict criteria now
+   * this has changed
+   * our practice has changed,
+   * we are now more restrictive.
+ * Data processing:
+   * Dangerous to create broad exclusion
+   * might not be able to support the SME the way you would like to do.
+   * Instrument of interpretation, not an instrument for introducing to
+			
+=== Kauppi: ===
+
+ * Program product claims, and Sohei are exactly what we want to exclude.
+ * This is just what most MEPs want to exclude.
+ * Very disappointed you were not able to exclude these.
+	
+=== A. Karamani. ===
+
+ * Hardware replaced by software
+   * excluding these would not be
+ * IBM is not now followed.
+ * Hitachi is the line.
+ * pure sw product will very rarely solve a technical problem.
+ * new case law has a better approach
+ * is there really a technical problem to be solved?
+ * parl wants the innovation to be protected if it is a technical innovation, not a software innovation.
+	
+=== A.  PA Betten. ===
+
+ * Earlier ruling did not much look at whether
+   * 1st hurdle: tech character
+   * 2nd hurdle: inventive step.
+ * current jurisprudence says patents before 2000, not necessarily sound.
+	
+=== Q. Oliver Lorenz ===
+
+ * Bad patents have been granted
+ * You say, "Criteria of technical effect"
+ * What was technical effect in progress bar, shopping cart, internet shopping method ?
+ * To Kahin: is solution
+	
+=== Q. Joachim Jacobs, FSFE ===
+
+ * Microsoft suit
+ * An empty victory to publish information, if it is not patented
+	
+=== Q. Alessandra Rossi ===
+
+ * New judge '' ECJ '' new lines of case law:
+ * Isn't litigation a very costly way to get rid of patents which shouldn't have been granted in the first place ?
+ * "Further technical effect":
+   * given that any program is meant to produce some effect, is there any program which does not produce a further technical effect ?
+		
+=== Q. Marco Schultz: ===
+
+ * (regarding Betten Stac) s/w would not be patentable, yet software patents would have been useful against Microsoft ?
+   * does this add up ?
+ * as an SME, I need law to be clear -- otherwise I face a very expensive situation, puts my company at risk -- law must be clear, not left to court.
+	
+=== Q.  Birgitte Anderssen ===
+
+ * SMEs fail because not protected.
+ * But all international studies show SMEs are threatened, because they are less able to participate in the game
+	
+=== Q. Alberto Barrionuevo ===
+
+ * Status quo: Q to Mrs Kauppi
+ * According to the slides, status quo could be patent convention, or current practice
+ * Should EPO have legislative powers as well as executive?
+	
+=== Q. Erik Josefsson: ===
+
+ * "Computer program excluded as such"
+   * a computer program for executing a method under any of the previous claims.
+
+=== A. Brian Kahin ===
+		
+ * discomfort at focus on "technical"
+   * poorly drawn lines go away, end up with no limit at all.
+   * need to make contact with economic reality, or law will not hold.
+		
+=== A.	Strowel ===
+
+ * this directive is about finding a line between patentable and not.
+ * there are issues for SMEs - more in the US than here
+ * adjustments are needed, (eg reduced fees for SMEs)
+   * but this is not the issue here.
+ * why aren't oppositions being introduced ?
+		
+=== A.  Betten ===
+
+ * progress bar
+   * IS of a technical nature, if it indicates something about the hardware.
+   * would not stop use eg of a clock which was filling up.
+ * shopping cart
+   * not a contribution today, any more
+ * Microsoft STAC case -- innovative storage was technical.
+ * SMEs: Fraunhofer inst study
+   * a proportion of SMEs do need patents
+   * these are the ones that have produced most innovations, jobs
+ * Program claims:
+   * Only if it can be traced back to a patentable procedure (eg IBM case).
+
+=== A. Karamanli: ===
+
+ * misconception - further technical effect is needed.
+   * second hurdle, is there technical contribution ?
+   * shopping method - if the object does not contain a solution to a technical problem, then no; but yes, if it does contain such a solution.
+   * can't just say "shopping methods" cannot be patented.
+   * interpretation by courts
+     * laws must be written with as much certainty as possible
+     * but case law made by courts is inevitable
+     * - interpretation of laws.
+   * directive is a means of interpretation
+   * concern is reasonable, but this is an issue for many laws.
+ * program claim:
+   * claim to a computer program
+     * Erik: not "as such" ??
+     * no, because a claim to a computer program which would have a further technical effect.
+
+=== MEP Kauppi: ===
+
+ * interpretation by courts is a reality
+ * this is a good thing
+ * legislators can always come back again: nothing is definitive and final.
+	
+=== Kai Brandt, Siemens ===
+
+ * some more examples for the discussion:
+   * software controlled fuel injection to minimise consumption
+   * offshore wind energy
+   * motion control and factory automation
+   * because the software is better
+   * medical equipment
+   * X-ray tomography scanners
+   * different amounts of radiation control.
+   * image processing
+   * could do it in hardware; or in a software workstation
+   * --> protect the CD which is inserted
+ * co-operation with university
+   * professors publish
+   * so must have patents.
+   * Technical CIIs.
+   * Excluding physical measurement processes ?
+	
+=== Lauri Kvinenen, Nokia ===
+
+ * CII directive does
+ * misconception: that a clear dividing line can be drawn between tangible and intangible.
+ * companies want clarity, and an even playing field.
+ * proprietary software needs patent protection
+   * so we can know that we own it.
+ * second reading:
+   * needs to be balanced, ...
+   * acknowledge existing patent legislation
+   * do not define something which is probably undefinable.
+   * recognise that interoperability has different meanings in different sectors
+   * telecoms has huge amount of interoperability
+   * do not include catch-all definitions which exclude all data processing.
+ * Open source and proprietary software can co-exist.
+
+=== David Axmark,  MySQL: ===
+
+...
+	
+=== Lycos Europe: ===
+
+ * develop many products
+ * biggest hurdle to enter the US market is software patents.
+ * rough scan:  $1m per year, just to review key opponents patent portfolios
+ * we would need to file a lot of patents ourselves
+ * which would cost money, contribute nothing
+	
+=== Q.  Kauppi: ===
+
+ * can definition of "data processing" be improved ?
+ * axmark - EPO patents on pure data processing on databases ?
+	
+=== Q. Lehne: ===
+
+ * software developers should not be limited
+ * but we swould be shooting ourselves in the foot if ABS braking etc not patentable
+ * Would Rocard's amendments really prevent this ?
+	
+=== A. Brandt: ===
+
+ * "forces of nature"
+   * raises the same problem
+   * washing machine patentable, but improvement
+		
+=== Q.  Joachim Jacobs: ===
+
+ * Siemens patent on HTML mediated business information
+	
+=== A.  Brandt:  ===
+
+ * I don't know the patent
+   * might be technical
+   * might not be technical,
+ * if we are exploring what is allowed and what is not
+   * sometimes then we get granted patents, we wish had not been granted.
+ * forces of nature does not cover all cases where things are technical (according to BGH)
+   * and moving electrons is forces of nature
+   * granted even if we dont want it.
+
+=== MEP Mayer, EPP ===
+
+Interest Groups:
+
+ * 75,000 emails to German MEPs in two weeks.
+   * a sort of lobbying that we could do without.
+	
+	
+===  Oliver Lorenz, Emcita ===
+
+ * support from companies, and in the public interest.
+ * remarks to what had been said earlier:
+ * agreement here that  CIIs = software patents
+ * "you may also call it a blue elephant" -- it's all the same thing
+ * patent attorneys would prefer "technical" not to be defined too tightly
+   * but they would say that, wouldn't they.
+ * Judge yesterday at a conference in Germany:
+   * forces of nature is __very__ important
+   * it was abandoning that criterion that let in all these trivial patents
+   * should listen to judges, not just attorneys.
+ * points:
+   * Patent rights are property rights.
+     * we grant these as a society
+     * it is for society not the EPO to make these rules
+ * No help for knowledge sharing
+   * -> pre-emptive strike on knowledge sharing
+		
+=== UEAPME ===
+
+ * monopolies for non-EU companies
+ * block on innovation, huge financial costs.
+	   
+=== ACEA ===
+
+ * Frederik Egrelius (Scania)
+ * European Automotive Manufacturers Association
+ * Vehicle internal computer network
+   * may link up to 80 processors
+   * these are all about data processing
+ * "Exclusion of data processing" is therefore unacceptable.
+ * eg
+ * Sensors  ->  Computer  ->  Brakes
+   * improvement maybe implemented solely as a computer program
+   * new method is certainly a technical
+ * "forces of nature" would only relate to the mechanical features.
+   * no reason to restrict to those sorts of inventions
+	
+=== Hugo Lueders, CompTIA ===
+
+ * [[CompTiaEn| CompTIA]]
+ *  Europe is in crisis again
+   * need a clear signal that we believe in internal market, harmonisation
+ *  There is still the idea that you can develop sw for free, or for small investment
+   * but it is very capital intensive
+   * and designing the technical features is the most capital intensive part
+     * this is what needs the protection.
+ *  Don't take away the lifeblood for this part of the industry
+   * don't take away the innovation
+ *  Parliament don't go to conciliation -- risk is that the whole directive will disappear.
+  
+=== Q.  MEP Kauppi: ===
+  
+ * Patent lawyers don't want clarity on technical:
+   * because it's impossible ?
+   * or because you want to leave it broad ?
+ * ASEA: data processing ?
+   * If it's just darts processing, normal input output, databases, whole invention with further technical effect
+   * could this then be used to exclude pure software ?
+  			
+=== A.  Hugo Lueders, CompTIA: ===
+  
+ * don't open Pandora's box with wonderful new ideas.
+   * this would not add anything to the clarity
+   * you would destroy what we have
+ * forces of nature
+   * Japan has "forces of nature"
+   * allows software patents
+ * avoid conciliation
+   * otherwise other companies will take it away from us
+  		
+  		
+=== A.  ACEA: ===
+  	
+ * "technical" should be defined as
+   * "industrial application of exact sciences"
+   * we have no good solution to improve that sentence.
+  	
+=== A.  Cimaglia ===
+ 
+ * "Apply the law to enemies, interpret the law for friends".
+ 	
+ 	
+=== A.  Lorenz, EMCITA ===
+ 
+ * surrounded by products, not programs
+ * not necessary that every innovation should have a patent
+   * only if it would have happened without the patent.
+ 		
+=== MEP Lehne: summary ===
+
+ * my view, won't please everybody
+ * EPP-ED members agree on what we want
+   * developers' room for manoevre should not be limited
+   * but system for patents up until now, principles must be maintained
+     * esp industrial patents
+ * --> so how can we achieve that objective ?
+   * today was to clarify.
+   * nobody could argue with those interests.
+ * 260 amendments.  vote 21 july in JURI.
+   * v difficult, esp at second reading
+   * yet 75,000 emails on this question - doing our best to answer!
+     * doesn't necessarily help!!  
+     * counterproductive (ATTAC apologised).
+     * exerting pressure, members not getting balanced info
+     * power games being played.
+ * Within the EPP, there are major differences regarding Rocard report
+   * I and many others believe it is questioning the entire patent system as it exists
+   * patents are a fundamental building block in the knowledge economy. we don't want to dismantle it.
+ * Impressions:
+   * only one argument
+     * common position said s/w cannot be patented
+     * I couldn't see why that was problematic
+   * need to find compromise, solution everyone can accept, without introducing additional damage.
+ * EU system is different from USA.
+   * Patents enormously important for SMEs
+     * machine tools,
+     * automotive component mfrs
+   * enormous interest in maintaining patentablity
+     * eg robot control system - still patentable ?
+     * would be disastrous if not patentable.
+     * from Ruhr:
+**** SMEs would not accept such an opinion.
+   * Interoperability is of central importance
+     * Need better solution than what has been raised in council.
+     * Need clear legal provision
+     * nobody wants to see unclear rules.
+   * Any rule or law requires interpretation
+     * this is for the courts.
+     * (J. Jakobs interjection: "unclear rules mean money for lawyers")
+     * --> not job creation schemes
+   * Horrified by unobjective way debate is conducted
+     * sometime seems not to be lobbyists, seem to be from sects
+     * interested parties only seem to view things from their own points of view
+     * no use to us
+     * need solutions
+   * We will do our utmost to find a political compromise
+     * otherwise we will have to look at majorities at vote in July
+     * don't know how things would fall
+   * those in favour of a radical solution need to have a compromise
+ * -->  Conciliation
+   * will make sure the situation won't be worse than it is at the moment.
+   * But if conciliation fails, current jusrisprudence would continue
+     * -> not in the interest of those who want to limit patentability.

@@ -1,0 +1,163 @@
+== Patentverletzungen auf den Webseiten des Politmagazines Kontraste ==
+
+Autor: Jürgen Ernst (jrernst@gmx.de)
+
+  (1)
+  Patent:	EP1406183
+  	Verfahren und System zur Auffrischung von Browserseiten.
+  	SAP AG (DE)
+  
+  Kommentar:
+  	Hier geht es darum, dass geprüft wird, ob eine Browserseite aufgrund
+  	einer Benutzeraktion neu aufgebaut werden muss.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP1406183
+  
+  Fundstelle:
+  	http://www.kontraste.de/
+          Direkt im Code der Startseite findet sich folgendes Javascript-Programm:
+  	  <script>
+  	  <!--
+  	  // break out of frame
+  	  if (self!=top) { top.location.href=self.location.href; }
+  	  // -->
+  	  </script>
+  
+
+  (2)
+  Patent:	EP0266049
+  	JPEG-Kompression: Kodiersystem zur Reduktion von Redundanz.
+  
+  Kommentar:
+  	Alle Bilder betroffen, die im JPEG-Format vorliegen.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0266049
+  
+  Fundstelle:
+  	z.B. http://www.kontraste.de/images/lidschreiber_reda.jpg
+  
+
+  (3)
+  Patent:	DE10108564
+  	Verfahren zur Suche nach in einem verteilten System aktuell oder
+  	früher gespeicherten Daten oder Daten enthaltenden Ressourcen unter
+  	Berücksichtigung des Zeitpunkts ihrer Verfügbarkeit.
+  	BLUME MARKUS (DE); HOFFMANN MARKUS (DE)
+  
+  Kommentar:
+  	Nutzung von Datumsangaben bei der Archivierung.
+  	Auch das Empfangen und Abspeichern einer E-Mail verletzt dieses
+          Patent!
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=DE10108564
+  
+  Fundstelle:
+  	Kontraste besitzt eine EMail-Adresse: kontraste@rbb-online.de
+  	Siehe http://www.kontraste.de rechts unten.
+  
+
+  (4)
+  Patent:	EP0526034
+  	Method and apparatus for accessing a computer-based file system.
+  	AMERICAN TELEPHONE & TELEGRAPH (US)
+  
+  Kommentar:
+  	Zugriff auf Dateien und Auswahl anhand des Namens in welchem eine oder
+  	mehrere Such-Kriterien kodiert sind.
+  	z.B. Namen wie franz_01.txt, franz_02.txt, maier_01.txt, ...
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0526034
+  
+  Fundstelle:
+  	http://www.kontraste.de/wendezeiten/
+  	Dort im Frame
+  	  http://www.kontraste.de/wendezeiten/centerbottom.html
+  	finden sich die Javascript-Funktionen "selectFilm" und "selectJahr".
+  	Darin werden Dateinamen für Bilder und HTML-Seiten zusammengesetzt.
+  	Beispiele:
+  	  d.images["Filmauswahl"].src="images/center/date"+i+".gif";
+  	  d.images["Jahr"].src="images/center/year"+y+".gif";
+  	  top.frames['Left'].frames['Artikel'].document.location.href="filmtexte/andere"+y+".html";
+  
+
+  (5)
+  Patent:	EP0463250
+  	Data processing apparatus user interface and data processing apparatus
+  	with such an interface.
+  	IBM (US)
+  
+  Kommentar:
+  	Vermeidung der doppelten Öffnung von Dialogfenstern.
+  	In den Internetseiten der Stadt finden sich Beispiele dieser Funktion
+  	z.B. auf http://www.pirmasens.de als Button "Druckansicht" oder in der
+  	in der Firmendatenbank ganz unten als Button "Seite drucken" und auch
+  	in der Seite http://www.husterhoehe.de/sites/webcams/Husterhoehe.asp
+  	als Button "StartControl" für die 360° WebCam.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0463250
+  
+  Fundstelle:
+  	Das Hilfe-Fenster geht nur einmal auf.
+  	In der Seite http://www.kontraste.de/index1a.htm findet sich hierzu der
+  	Code in der Javascript-Routine "openHelpWin". Diese Routine prüft, ob das
+  	Fenster schon offen ist. Falls ja, gibt sie sogar eine Meldung aus.
+  
+
+  (6)
+  Patent:	EP0501416
+  	Document data processing method and apparatus for document retrieval.
+  	HITACHI LTD (JP)
+  
+  Kommentar:
+  	Schnelle Volltextsuche mit einer zuvor erzeugten Wortliste.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0501416
+  
+  Fundstelle:
+  	http://www.kontraste.de/arch_idx.htm
+  	Im Quelltext steht:
+  	  <form action="http://suchen.wdr.de/htsearch" method="POST">
+  	Dies deutet darauf hin, dass das Programm htsearch verwendet wird.
+  	Das Programmpaket verwendet zuvor das Programm htdig, um eine Wortliste für
+  	die Suche zu erstellen, siehe http://www.htdig.org/
+  
+
+  (7)
+  Patent:	EP0747840
+  	A method for fulfilling requests of a web browser.
+  	IBM (US)
+  
+  Kommentar:
+  	Hierunter fällt jeder Web-Server, der über eine Schnittstelle andere
+  	Software aufruft, um eine Anfrage auszuführen.
+  	z.B. Perl, JSP, ASP, PHP, etc.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0747840
+  
+  Fundstelle:
+  	http://www.kontraste.de/arch_idx.htm
+  	Um die Volltextsuche zu ermöglichen, sind obige Bedingungen erforderlich.
+  
+
+  (8)
+  Patent:	EP0644483
+  	Computer system and method for performing multiple tasks.
+  	IBM (US)
+  
+  Kommentar:
+  	Multitasking: mehrere Programme werden gleichzeitig ausgeführt.
+  
+  Referenz:
+  	http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP0644483
+  
+  Fundstelle:
+  	Die Seiten werden von einem Webserver geliefert, der mehrere Browseranfragen
+  	gleichzeitig bearbeiten kann.
+  

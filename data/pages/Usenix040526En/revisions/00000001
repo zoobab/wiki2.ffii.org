@@ -1,0 +1,23 @@
+= 2004-05-26 Usenix president: Patent challenges will invade open source landscape =
+
+*Usenix*(1) president Marshall Kirk !McKusick talks in an interview(2) about open source and software patents.  He expects software patents and related legal issues to become a serious and often expensive problem for open source, and for small and medium-sized software companies.
+
+== Some interesting quotes: ==
+
+''"A lot of software got patented in the '90s that really shouldn't have been patented. Increasingly, companies are grabbing patent portfolios and going after other companies with them. The problem is that if you are sued, even if you are in the right, it is very expensive to prove that point."''
+
+''"Only in the last few years has the patent office used people with computer science degrees as patent examiners."'' --  '''(Note: this seems to be true in Europe too)'''
+
+=== McKusick, when asked what are his general thoughts on software patents: ===
+
+''"To my mind, patents are the way big businesses win out over the smaller ones, because they can afford the cost of patents. The software that came out in the '80s and early '90s was cottage industry software created by an individual who wrote a piece of software and then started marketing and selling it. He'd start as a one-man band and then create a small company.''
+
+''"This kind of developer/entrepreneur is going to have a hard time paying upward of $100,000 just to get the patent. Often, the cost of getting the patent is three times the cost of developing the product in the first place. Naturally, a big company is working on a different scale when they do software development and has money to get patents. It has been known to happen that a big company gets a patent on what a small entrepreneur has created.''
+
+''"I am not against patents, in general, but I think patents are most appropriate when there is a huge amount of capital expenditure by the inventor, as in the development of drugs. *In software, sometimes the patent costs more than developing the software, and I begin to question the usefulness or effectiveness of a patent at that point.*"''
+
+----
+
+1: http://www.usenix.org/
+
+2: http://searchenterpriselinux.com/qna/0,289202,sid39_gci967105,00.html

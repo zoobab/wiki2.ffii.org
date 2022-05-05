@@ -1,0 +1,34 @@
+= 2004-05-26 OSRM announces Patent FUD Risk Insurance =
+
+see also [:SwpatcninoEn: Latest News]
+
+The business information service Newsforge released [http://business.newsforge.com/business/04/05/19/1742218.shtml?tid=2&tid=82&tid=94 an interview of Joe Barr with Daniel Egger] today.
+
+Daniel Egger from OSRM (Open Source Risk Management) explains his insurance business model that is based on other's FUD. 
+
+  Like a lot of people, I had not thought about the risks of using Linux until the SCO  
+  suits happened. Because I was a lawyer and a litigator, I thought it would be interesting to
+  look at their legal papers. I got ahold of them and I was struck by how weak their argument
+  was right away. But I was also struck by the huge amount of fear and concern and uncertainty
+  that their claim had caused. 
+
+  It occurred to me that what we are dealing with here is a a kind of structural vulnerability
+  in the legal system, where you can sue end users for copyright or patent infringement who
+  have been acting completely in good faith, and have no reason to know that anyone might think
+  they are infringing anything. Then they are faced with the cost of defending themselves, even
+  if the suit had no merit. And that seemed to me the kind of problem that in other areas gets
+  resolved by insurance. 
+
+Insurance programs against patent risks are a way to describe the market risk of FUD or real patent litigation risk in monetary terms. So the external effects of patents can be easily depicted.
+
+Egger continues: 
+  Linus Torvalds himself said at a speech at Brainshare a couple of months ago that he thought
+  the biggest risk to Linux in the next year is software patent litigation. And I agree with
+  that, and [:so :do] a bunch of other people: Jeremey Allison said the same thing in an article
+  I read, and Bruce Perens has been saying that for months and months. That kind of risk is not
+  even addressed in the SCO suit; they didn't bring any patent claims. But the same problem
+  exists, which is if you're an end user, and you get sued for patent infringement, the fact
+  that you relied on the software in good faith and did nothing wrong doesn't protect you from
+  liability for the use of the software.
+
+Recently FFII announced his own European insurance program that is called: [:ElectAct0405En: Talk to your MEP candidates!]

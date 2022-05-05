@@ -1,0 +1,171 @@
+## -*- dok: ConstraDe0411; lang: de; coding: iso-8859-1; mode: fundamental; -*-
+= 2004-11-18 Ratsübersetzung formal 'verbessert'  =
+== Neuübersetzung legt andere Auslegung für Artikel 5.2 nahe. ==
+-->
+[ [http://kwiki.ffii.org/Cons040518De Rat 2004-05-18]
+| [:ConsRevers04De: Rücknahme]
+| [:PagNomDe: Benennungsregeln]
+| [:SwpatcninoDe: Neues]
+]
+----
+
+Die Bandwurmsätze des Ratstextes vom 18. Mai 2004 führen immer wieder zu Neuübersetzungen, durch die sich der materielle Gehalt des Textes ändert.  Dies stellt die Gültigkeit des Verfahrens zusätzlich in Frage.
+
+== Analyse ==
+
+--> ConstraDe0411De (bitte möglichst Datum im Dateinamen angeben) 
+
+von [:AndreRebentischDe: Andre Rebentisch]
+
+Auf dieser Seite wurden grobe Übersetzungsfehler der Ratsrichtlinie in die deutsche Sprache aufgeführt. 
+Diese bisherige deutsche Version war die Grundlage zur Befassung im Bundestag. Gemäß des Amsterdamer Vertrages ist eine Möglichkeit zur Stellungnahme der nationalen Parlamente nach Vorliegen einer Übersetzung vorgesehen. In Deutschland ist dies aus verfassungrechtlichen Gründen bislang nur unzureichend umgesetzt, aber der FDP-Antrag öffenete hier den Raum zur Mitsprache. Nun zum geplanten Durchwinken des Richtlinienentwurfes vom Mai liegt eine [http://register.consilium.eu.int/pdf/de/04/st11/st11979.de04.pdf Übersetzung vor, die überarbeitet worden ist] und an einigen Punkten deutlich verbessert. Es ist bemerkenswert, dass dies nicht vor der Bundestagsdiskussion möglich zu sein schien. 
+
+Freilich ist diese Mängelbeseitigung rein formaler Art. Bedauerlich bleibt, dass die unerträglichen Formulierungen wie die doppelte verneinten Programmansprüche in Artikel 5.2 durch eine Übersetzung nicht getilgt wurden. Das sind nämlich Fragen inhaltlicher Art. Der FFII hat seine [:ConsStep0611En: Forderungen für inhaltliche Verbesserungen] klar artikuliert.
+
+Interessant ist, dass die neue Übersetzung '''aber auch inhaltlich verschiebt''', und zwar vor allem bei den umstrittenen Programmansprüchen (Artikel 5.2):
+
+ Ein Patentanspruch auf ein Computerprogramm, sei es auf das Programm allein oder
+ auf ein auf einem Datenträger vorliegendes Programm, ist nicht zulässig, es sei denn das   
+ Programm begründete einen in derselben Patentanmeldung erhobenen Erzeugnis- oder 
+ Verfahrensanspruch gemäß Absatz 1, wenn es auf einem programmierbaren Computer, auf einem 
+ programmierbaren Computernetz oder einer sonstigen programmierbaren Vorrichtung installiert und 
+ ausgeführt würde.
+
+Zum Vergleich die vorherige Übersetzung:
+
+ Ein Patentanspruch auf ein Computerprogramm, sei es auf das Programm allein oder
+ auf ein auf einem Datenträger vorliegendes Programm, ist nur zulässig, insoweit das Programm,
+ wenn es auf einem Computer, auf einem programmierten Computernetz oder einer sonstigen
+ programmierbaren Vorrichtung installiert und ausgeführt wird, einen in derselben Patentanmeldung
+ erhobenen Erzeugnis- oder Verfahrensanspruch gemäß Absatz 1 begründet.
+
+Auf einen interessanten Unterschied verweist die neue Übersetzung durch die Verschiebung von 'wenn' und die Veränderung von 'wird' in 'würde'. 'Wenn' ist sowohl konditional (falls/sofern)  als auch temporal (dann wenn) interpretierbar. '''Eine mehrdeutige Übersetzung bleibt also weiter bestehen.''' Bislang war die Formulierung stets konditional übertragen worden. Interpretationsspielräume in der Politischen Übereinkunft vom 18.05.2004 verweisen hier auf Formulierungsschwächen des Ministerrates und konterkarieren den bekundeten Willen zur Harmonisierung. 
+
+In dieser Bezeihung können wir nur auf die Vernunft einer rationalen Neudiskussion im Rat hoffen, Polen hat hier den Raum für Verhandlungen wieder geöffnet.
+
+Neue Version in deutscher Sprache: http://register.consilium.eu.int/pdf/de/04/st11/st11979.de04.pdf
+
+----
+= Bisherige Inhalte dieser Seite =
+----
+
+= Die offizielle Übersetzung des Ratsvorschlags der Richtlinie vom 2004-05-18 =
+
+ * Englische Fassung: http://register.consilium.eu.int/pdf/en/04/st09/st09713.en04.pdf
+ * Deutsche Fassung: http://register.consilium.eu.int/pdf/de/04/st09/st09713.de04.pdf
+
+Von der Richtlinie des Rates wurden Übersetzungen in die Sprachen der verschiedenen Mitgliedsstaaten angefertigt, die Grundlage für die Stellungnahme in den nationalen Parlamenten waren. Auf den FFII Webseiten hat man sich an dem englischen Original der Irischen Ratspräsidentschaft orientiert und Fachbegriffe selbst übertragen. Desweiteren wurde im europäischen Dialog über die Inhalte der Richtlinie weitgehend diese englischsprachige Fassung genutzt, weil die transnationale Kernmannschaft des FFII Englisch als Lingua Franca verwendet. Die offiziellen Übersetzung in die deutsche Sprache wurden dagegen auch von den deutschen Muttersprachlern beim FFII nur am Rande zur Kenntnis genommen.
+
+== Auffälligkeiten ==
+
+=== Gebiet der Technologie ===
+
+ "Technischer Beitrag" ist ein Beitrag zum Stand der Technik '''auf''' einem Gebiet der '''Technologie''',
+ der neu und für eine fachkundige Person nicht nahe liegend ist.
+
+Der Fachbegriff lautet "Gebiet der Technik". "Technologie" ist hier ein Anglizismus. Dazu betrachte man die englische Version:
+
+ "technical contribution" means a contribution to the state of the art in a field of technology
+ which is new and not obvious to a person skilled in the art.
+
+Hier sehen wir wieso es zu der Fehlübersetzung gekommen ist. "State of the art" ist als Redewendung mit "Stand der Technik" übertragbar. Diese geballte Tautologie (Stand der Technik in einem Gebiet der Technik) war dem Übersetzer wohl zu viel. Man halte fest: "art" ist nicht identisch zu "technology" und Teil einer Redewendung. Aber der zweite Terminus ist ein patentrechtlicher Fachbegriff, das "Gebiet der Technik".
+
+In der deutschen Version wird das Relativpronomen klar auf den 'Beitrag' bezogen und damit die lexikalische und semantische Mehrdeutigkeit beseitigt.
+
+=== Schachtelsatz ===
+
+ Folglich sind Erfindungen, zu deren Ausführung
+ ein Computerprogramm, sei es als Quellcode, als Objektcode oder in anderer Form ausgedrückt,
+ eingesetzt wird '''und''' durch die Geschäftsmethoden, mathematische oder andere Methoden
+ angewendet werden, nicht patentfähig, wenn sie über die normalen physikalischen Interaktionen
+ zwischen einem Programm und dem Computer, Computernetzwerk oder einer sonstigen programmierbaren
+ Vorrichtung, in der es abgespielt wird, keine technischen Wirkungen erzeugen.
+
+ * Die Formulierung kann der Forderung nach Klarheit der Sprache nicht genügen. 
+ * "Und" kann hier als Konjunktion zweier Bedingungen interpretiert werden. 
+ * ", wenn sie über die normalen physikalischen Interaktionen zwischen einem Programm  und dem Computer, Computernetzwerk oder einer sonstigen programmierbaren Vorrichtung [..] keine technischen Wirkungen erzeugen." ---> verzerrt die Aussage durch Polysemie: "über .. hinaus" sollte gemeint sein. "Wenn sie über die Interaktionen [..] keine technischen Wirkungen erzeugen" macht die "Interaktionen" zum Transmissionriemen für die technischen Wirkungen.
+
+
+=== Programmansprüche ===
+ 
+ Ein Patentanspruch auf ein Computerprogramm, sei es auf das Programm allein oder
+ auf ein auf einem Datenträger vorliegendes Programm, ist nur zulässig, insoweit das Programm,
+ wenn es auf einem Computer, auf einem programmierten Computernetz oder einer sonstigen
+ programmierbaren Vorrichtung installiert und ausgeführt wird, einen in derselben Patentanmeldung
+ erhobenen Erzeugnis- oder Verfahrensanspruch gemäß Absatz 1 begründet.
+
+ * Was ist ein Programm "allein" -- die sogenannte Software "as such"?
+ * Auch in der deutschen Version ist die sprachliche Verkleidung sehr deutlich.
+ * Erzeugnis- und Verfahrensanspruch ?
+ * "auf ein auf einem" ?
+
+=== Open Source Bewegung ===
+
+ Die Kommission beobachtet, wie sich computerimplementierte Erfindungen auf die Innovationstätigkeit
+ und den Wettbewerb in Europa und weltweit sowie auf die europäischen Unternehmen,
+ insbesondere auf die kleinen und mittleren Unternehmen und die Open-Source-Bewegung, und den
+ elektronischen Geschäftsverkehr auswirken.
+
+ * Was ist die "Open Source Bewegung"?
+
+
+=== Die Regeln zu ändern ===
+
+ b) die Angemessenheit der Regeln für die Laufzeit des Patents und die Festlegung der 
+ Patentierbarkeitsanforderungen, insbesondere im Hinblick auf die Neuheit, die erfinderische Tätigkeit
+ und den eigentlichen Patentanspruch, und ihre Einschätzung, ob es unter Berücksichtigung
+ der internationalen Verpflichtungen der Gemeinschaft wünschenswert und rechtlich
+ möglich wäre, diese Regeln zu ändern;
+
+ * Was ist eine "Regel" in diesem Zusammanhang?
+
+=== Bestimmtheit ===
+
+ etwaige Schwierigkeiten, die in Mitgliedstaaten aufgetreten sind, in denen Erfindungen vor
+ Patenterteilung nicht auf Neuheit und Erfindungshöhe geprüft werden, und etwaige Schritte,
+ die unternommen werden sollten, um diese Schwierigkeiten zu beseitigen;
+
+ (c) whether difficulties have been experienced in respect of Member States where the
+ requirements of novelty and inventive step are not examined prior to issuance of a patent, and
+ if so, whether any steps are desirable to address such difficulties;
+
+ * Die deutsche Version ist stärker als die englische. "etwaige" ist eine Verkürzung der Konditionalität.
+
+=== Beamtendeutsch-Neologismen aus der Übersetzerstube ===
+
+ Anhand der Beobachtung gemäß Artikel 7 und des gemäß Artikel 8 zu erstellenden Berichts überprüft
+ die Kommission die Auswirkungen dieser Richtlinie und unterbreitet dem Europäischen
+ Parlament und dem Rat '''erforderlichenfalls''' Vorschläge zur Änderung der Rechtsvorschriften.
+
+ * 'Erforderlichenfalls' ist eine sprachliche Entgleisung aus der Kanzeleisprache. Dieses Wortungetüm ersetzt den englischen Ausdruck 'and, where necessary'. 
+
+= Aus der Präambel =
+
+=== Nutzen aus Kreativität ziehen ===
+
+ Der Patentschutz versetzt die Innovatoren in die Lage, Nutzen aus ihrer Kreativität zu ziehen.
+
+ Patent protection allows innovators to benefit from their creativity.
+
+ * Die gespreizte Übersetzung verfälscht hier die Aussage und ist inadäquat.
+
+=== Kriterium der technischen Tätigkeit ===
+
+ Eine computerimplementierte Erfindung erfüllt folglich trotz der Tatsache, dass sie einem
+ Gebiet der Technik zugerechnet wird, sofern sie keinen technischen Beitrag zum Stand der
+ Technik leistet, z.B. weil dem besonderen Beitrag die Technizität fehlt, nicht das Kriterium
+ der erfinderischen Tätigkeit und ist somit nicht patentierbar.
+
+ Accordingly, although a computer-implemented invention belongs to a field of technology,
+ where it does not make a technical contribution to the state of the art, as would be the case,
+ for example, where its specific contribution lacks a technical character, it will lack an
+ inventive step and thus will not be patentable.
+
+ * Sätze dieser Art sind grammatisch holprig und werden in der deutschen Übersetzung noch unleserlicher.
+ * Hier wurde ein Fachwort "inventive step" gespreizt als "Kriterium der erfinderischen Tätigkeit" übertragen.
+
+
+== Aufgabe ==
+
+ * Abweichungen der vielen Übersetzungen analysieren.
+ * verschiedene Übersetzungsalternativen und Bedeutungsverschiebungen evaluieren.

@@ -1,0 +1,99 @@
+## -*- dok: KwikiEdit; lang: de; coding: iso-8859-1; mode: fundamental; -*-
+= So werde ich zum kwiki-Autoren =
+-->
+[ [:KwikiEditEn: EN]
+| [:KwikiEditFr: FR]
+]
+[ [:KwikiEn: kwiki]
+| [:FfiiUidDe: FFII UID]
+| [:FfiiUidPassDe: ffiiuidpass]
+| [:KwikiProtDe: kwikiprot]
+| [:FfiiprojNewsDe: Project News]
+| [:SwpatcninoDe: Patent News]
+]
+----
+
+Der Schreibzugriff für einige Seiten auf der the http://kwiki.ffii.org website 
+ist nun beschränkt. Man muss sich einloggen, und hier wird erklärt wie das geht.
+
+== Die Nutzersicht ==
+
+Es steht jedem frei jederzeit eine neue Kwiki-Seite zu bauen, indem man einfach ihre Adresse im Browser wählt.
+Aber, nach einer Weile kann diese Seite schreibbeschränkt werden und dann benötigt man eine qualifizierte ffii Nutzerkennung und ein Kennwort.
+Das liegt daran, dass wiki-Spammer kwiki missbrauchen um ihr Google-Ranking zu erhöhen.
+
+Es gibt zwei Methoden um eine qualifizierte ffii Nutzerkennung zu erhalten.
+
+ * Registriere dich in http://aktiv.ffii.org/ mit dem status  "aktives Mitglied" des FFII
+ * Schreib an '''buero at ffii org''' mit der Bitte um kwiki Schreibzugriff
+
+Sie sollten aber wenigstens über eine gewöhnliche [:FfiiUidEn: ffii Nutzerkennung] verfügen mit einer offengelegter Postanschrift und Telefonnummer, selbst wenn sie nie den Status "Aktives Mitglied" erlangen wollen.
+
+In Zukunft könnten wir die Schreibzugriffregeln wieder lockern, wenn wir eine Lösung des Kwiki Spamproblems gefunden haben.
+
+== Die Administratorsicht ==
+
+The user:password Datei wird vom [:FfiiUidPassEn: ffiiuidpass] script erzeugt, das von aktiv2kwiki jede Nacht aufgerufen wird.
+Für Kwiki wird die Datei /var/www/adm/auth_asolvl3 verwendet.
+
+Input comes alternatively from the 
+
+ * [:MlhtDbEn: ffii database]: users with asoc.asolvl > 2 (active users) have access by default
+ * hand-edited files in the /var/www/adm directory
+   * auth_extra: these users have access at all levels
+   * auth_extra3: these users have access at level 3
+
+To put someone's user and password into auth_extra, ask for that person's [:FfiiUidEn: ffii user id].
+All user ids of the database can be found in auth_asolvl0.
+Just copy the concerned line from there.
+It might be sensible to briefly explain in auth_changelog when and why you did it.
+
+== Warum standardmässig nur bei "activen Mitgliedern"? ==
+
+Das System wird fett und langsam, wenn die Passwortdateien zu gross sind.
+They must reside in memory or be searched in linear (line by line) fashion.
+Die derzeitige user:password datei enthält schon beinahe 200 Einträge.
+
+Die Eintrittsbarriere für den FFII ist höchst gering. Die Mitgliedschaft gibt es schon ab weniger als 20 Euro im Jahr.
+Wenn jemand gerne etwas Freizeoit nutzt um eine Seite unserer Dokumentation zu betreuen, ist das wohl die treffende Beschreibung eines "aktiven Mitglieds". Aber, es gibt eine Menge andere Menschen, die uns vorrangig moralische Unterstützung leisten und keine Zeit haben sich um die kwiki-Dokumentation zu kümmern.
+
+== Wie wird eine Seiten schreibgeschützt? ==
+
+Das geschieht mit dem [:KwikiProtEn: kwikiprot] skript, das man auf [:GenbaEn: genba] in /var/www/adm/bin findet.
+kwikprot wird aufgerufen von knecht, knecht durch den knecht cronjob einmal im Monat.
+
+== Zu Tun ==
+
+ * The procedure could be further improved by transferring the auth_extra information into the database.  An extra table with a boolean field "I wish to edit kwiki" and a comment field plus a boolean field for administrator approval could do it.  This could then also be edited via http:aktiv.ffii.org.   Btw we also need an approval field for membership levels.  Apart from this, the information as to whether someone is legally a member (has paid his fees etc) is also not well maintained yet.
+ * We may need some anonymous accounts.  In the current system everybody is identified.  This eliminates not only wiki spammers but also blocks direct participation for anonymized informants.
+
+
+----
+
+
+Gazeta Wyborcza published an article at
+http://gospodarka.gazeta.pl/gospodarka/1,33181,2513286.html which main
+points are:
+
+European electronic corporations are lobbying Poland to accept the 
+pro-software patents directive. The letters are send directly to prime 
+minister Belka.
+
+Polish divisions of Siemens, Nokia, Philips, Ericsson and Alcatel gave 
+Mr Belka letter with their official statement on the patent directive.
+Companies didn't want to say, what's in the letter, but Siemens' spokesman
+pointed out that it is important for companies like Siemens to have 
+possibility to protect their investitions in research. At the same 
+time he said that his company invested millions of euro to create 
+Center of Software Development in Wroclaw, Poland, and this institution 
+will soon hire 500 Polish specialists.
+
+After that information, "Gazeta Wyborcza" presented translation of the
+'are you 80% sure?' part of Council meeting on 18th of May.
+
+
+
+2005-01-24 AT Standard.at: Immer noch keine Softwarepatente
+
+Der Artikel ist nicht erreichbar!
+Also entweder in Wiki-page eintragen, oder vergessen.

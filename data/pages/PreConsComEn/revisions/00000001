@@ -1,0 +1,148 @@
+= Commission had strong reservations against program claims deception (Article 5.2) =
+
+[
+[:Cons040518En: Council 18-05-2004]
+| [http://swpat.ffii.org/analysis/needs/index.en.html FFII Interests]
+]
+----
+
+Documents from prior to Council 2004-05-18 show that the Commission rejected the deceptive exclusion of program claims at drafting stage. Program claims are the most controverse issue and FFII cannot accept program claims in the directive proposal. Now as Council documents are released the discussion process in the Council becomes more transparent. The European Parliament plenary rejected a motion in favour of Program Claims by one Member of European Parliament. However Commissioner Bolkestein indicated in the Parliament's pre-vote debate they would consider program claims. While the Council did not follow the Parliaments Directive 23-09-2003 that solves the problem for software development they introduced program claims that were wiped out at all earlier stages. Article 5.2 in the Council version is an deceptive attempt to cover the inacceptable 'Program Claims'.
+
+
+=== 22-04-2004 8731/04  from Irish Presidency, public version ===
+ * Source: http://register.consilium.eu.int/pdf/en/04/st08/st08253-ad01.en04.pdf
+ * Footnote 22 says '''COM: strong reservation on Article 5(2).'''
+
+=== 06-04-2004 8253/04 ADD 1 ===
+ * http://register.consilium.eu.int/pdf/en/04/st08/st08253-ad01.en04.pdf
+ * Footnote 22 '''COM: strong reservation on Article 5(2).'''
+
+=== Article 5.1 Product and process claims ===
+ 1. Member States shall ensure that a computer-implemented invention may be claimed as a
+ product, that is as a programmed computer, a programmed computer network or other
+ programmed apparatus, or as a process carried out by such a computer, computer network or
+ apparatus through the execution of software.
+
+=== Article 5.2: Program claims ===
+ 2. A claim to a computer program, either on its own or on a carrier, shall '''not be allowed unless'''
+ that program would, when loaded and executed in a computer, programmed computer
+ network or other programmable apparatus, put into force a product or process claimed in the
+ same patent application in accordance with paragraph 1.
+
+The scheme is" A shall not be allowed unless B is true" (where B can always be made true).
+
+Article 5.2 is an explicit codification of program claims. It contradicts the interests of European software entrepreneurs and EU Parliament. With Article 5.2 in the proposal [http://swpat.ffii.org/analysis/needs/index.en.html it can only be rejected by our stakeholders].
+
+=== Comment on Program claims (Article 5.2 + 5.1) and deceptive language ===
+
+==== FFII Council analysis ====
+
+Program Claims are patent claims of the form
+
+ computer program, upon whose loading into the memory of a computer system the computation process according 
+ to Claim N  is executed.
+
+The wording "computer program" in the above can be replaced by "program on disk", "computer program product", "data structure", "computer readable medium" or other variants. The point is that the object of the claim is no longer a material product or process but a construct consisting of data, information or other abstract entities, optionally in combination with an unspecified and non-inventive carrier medium.
+
+This type of claim was introduced in Europe in 1998 by two decisions of the Technical Boards of Appeal of the European Patent Office. In the USA too it was introduced by the Patent Office only recently: after the hearings of 1994 (which signalled overwhelming opposition to software patents). Program claims are controversial, because
+
+1. Program claims break with the traditional systematics of patent law, according to which physical objects are claimed in return for disclosure of information objects, i.e. information is on the disclosure side, not on the monopoly side of the patent deal;
+
+2. Program claims literally cover programs for computers as such and thus can hardly be justified under any meaningful interpretation of Art 52 EPC;
+
+3. Program claims literally run counter to the freedom of publication as stipulated in Art 10 of the European Convention on Human Rights (ECHR) (Patent monopolies are not among those rights that can, according to Art 10(2) ECHR, justify a limitation of the freedom of publication);
+
+4. Program claims directly subject developers and distributors of software as well as intermediaries (e.g., Internet service providers) to the heavy weapons of patent litigation, by treating them as producers and distributors of industrial products.
+
+5. Program claims do not serve a practical purpose: it would be more straightforward to pursue the marketing of information goods as contributory infringement and to separately regulate the modalities of this type of infringement, taking into consideration the particularities of the information economy.
+
+The European Commission's proposal advises against program claims.
+
+The European Parliament (CULT+ITRE+Plenary) follows the Commission in this point and, in addition, with its new Art 7 (voted as 5.1b), stipulates that freedom of publication may not be limited by patent claims:
+
+ 1b. Member States shall ensure that the production, handling, processing, distribution and publication of information, 
+ in whatever form, can never constitute direct or indirect infringement of a patent, even when a technical apparatus is 
+ used for that purpose.
+
+The Council Working Party refuses the CEC and EP proposals and, with its Art 5.2, insists on program claims:
+
+ Article 5.2. A claim to a computer program, either on its own or on a carrier, shall not be allowed unless 
+ that program would, when loaded and executed in a computer, programmed computer network or other programmable 
+ apparatus, put into force a product or process claimed in the same patent application in accordance with 
+ paragraph 1.
+
+'''The wording is misleading'''.
+
+1. Any program can be claimed as a computing process executed on general purpose computing equipment. The additional presence of a process claim does not limit the value of the program claim in any way. (see above).
+
+2. The negation particle "not" lies. It negates the sentence under a condition which is always false. Try to read the sentence without the "not, unless ..." phrase and you will understand what it means!
+
+3. It should be noted that the german version deviates significantly from the english and french one. "put into force" and "mettre en oevre" (make work in practise) is worlds apart from "begründen" (provide a rationale for). We base our analysis on the english and french version. It would have to be partially rewritten for the german one which, in a Freudian error, seems to directly admit that it is the presence of a program which provides the rationale for patenting.
+
+The existence of program claims changes the systematics of patent law and puts software at the center rather than on the periphery of the system.
+
+The Council Working Party wants program claims be be seen "only" as derived claims, of "purely declaratory nature", as was said in the justifications of the corresponding JURI amendments. This can not be true, because
+
+1. From any program claim an equivalent process claim can be derived, but not vice versa. Once a program claim is present, the process claim becomes redundant, but not vice versa.
+
+2. A program claim is broader (i.e. less specific) than the process claim corresponding to it. The process claim specifies not only the data structure but also a use of this data structure (e.g. execution on a computer in connection with peripheral equipment).
+
+3. The broadest claim in a patent specification (i.e. the claims with the fewest features) usually most closely describes what was contributed to the prior art. Thus the "technical contribution" of a software patent has to be searched for within the (non-technical) scope of the program claim, whereas the additional technical feature of the process claim ("execution in computer memory") is only of declaratory nature.
+
+4. It is always possible to formulate independent claims as dependent (declaratory) claims and vice versa. Such formulation exercises only obfuscate the real dependency relations.
+
+The Examination Guidelines of the European Patent Office of 1978 also take this view when explaining the different conceivable claim forms of "programs for computers":
+
+ A computer program may take various forms, e.g. an algorithm, a flow-chart or a series of coded instructions which can
+ be recorded on a tape or other machine-readable record-medium, and can be regarded as a particular case of either a 
+ mathematical method (see above) or a presentation or information (see below). If the contribution to the known art 
+ resides solely in a computer program then the subject matter is not patentable in whatever manner it may be presented 
+ in the claims. For example, a claim to a computer characterised by having the particular program stored in its memory 
+ or to a process for operating a computer under control of the program would be as objectionable as a claim to the 
+ program per se or the program when recorded on magnetic tape.
+
+Here too the EPO assumes that a "claim to the program as such or a program recorded on magnetic tape" is the normal form of a software claim. It however also points out that the same object can be declared as a "process for operating a .. computer" or as a "computer, characterised by that .." and that such attempts at obtaining software patents by redeclaration are to be expected.
+
+Whereas the EPO's initial guidelines correctly exposed redeclaration of programs to processes as a declaratory trick, its stewards today assume that not only is this trick admissible, but redeclaration from there to the programs as such must also be admissible, since it is only a redeclaration.
+
+From the existence of program claims it follows that, to speak with the words of the EPO of 1978, the contribution to prior art consists only in a program for computers, i.e. that the "technical contribution" is confined to calculation with the abstract entities of virtual machine. Thus it is assured that the indeterminate legal concepts by which the Council Working Party wants to limit patentability (see below) can never have a limiting meaning. For example, an exclusion of business methods can not be achieved under these conditions, because business methods are concretisations of computing rules (programs for computers).
+
+By treating information objects as industrial goods, the Council Working Party also precludes all discussions about limitation of patent enforceability with respect not only to freedom of publication but to any freedom that might be founded in the informational nature of the object.
+
+The situation is made only worse by the insertion of dissimulating recitals, such as 7a:
+
+ Accordingly, a computer program as such, in particular the expression of a computer program in source code 
+ or object code or in any other form, cannot constitute a patentable invention.
+
+'''The unexperienced reader (e.g. a minister) will believe that this excludes program claims.''' Unfortunately the opposite is true. In connection with Art 5(2) the recital says that a claim to "program, characterised by [:its :functions]" is not a claim to a program as such. As an explanation of the apparent contradiction it suggests that a "program as such" is to be construed as the "expression" aspect of a program (rather than the function aspect) . I.e. a narrow claim to "program, characterised by that the text in listing 1 is used" is to be rejected as a claim to individual expression, whereas a broad claim to a "program, characterised by that it [does what the one in listing 1] does" is allowed. Nobody is interested in narrow claims. A claim to one particular listing would merely constitute an weak form of copyright which nobody wants and to which nobody objects. The purpose of raising the non-issue of "expression patents" in the Council's proposal is not to regulate something but to '''confuse the legislator about what is being regulated'''.
+
+
+Source: http://swpat.ffii.org/papers/europarl0309/cons0401/
+
+==== Maebe/Pollock/Kavanagh (2004) ====
+
+This article introduces program claims. '''Even if the rest of the directive excluded
+software patents, this one paragraph would overturn it all.''' The reason
+is that it allows patents on computer programs on their own, as long as they
+describe something which is claimed elsewhere in the patent.
+Notice the double negation, and the fact that the unless condition can always
+be fulfilled by including an appropriate process claim.
+
+==== FFII uk ====
+
+A 'program claim' is a patent claim of the form eg:
+
+ "2. A computer-readable medium whose contents cause a computing system to carry out the method of claim 1" 
+
+The computer-readable medium might be a disk, a file on a web server, or perhaps even a machine-readable T-shirt. The contents might be object code or source code.
+
+Patents are supposed to place information in the open ('patent') to encourage further progress through discussion and experimentation. But 'program claims' destroy this purpose, because they can make even discussing example code on a website a direct patent infringement.
+
+=== Swpat AG of FFII: Program claims explanaition (document from 1st readings discussion) ===
+
+http://swpat.ffii.org/papers/eubsa-swpat0202/prog/index.en.html
+
+
+=== 2002-11 Pilch: Betten on BGH and Program claims ===
+
+http://lists.ffii.org/archive/mails/news/2002/Nov/0001.html

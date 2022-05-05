@@ -1,0 +1,49 @@
+## -*- dok: zypries050609; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= German Federal Minister of Justice tempting MEPs towards Software Patents =
+->
+[ [:Zypries050609De: de]
+] 
+[ [http://swpat.ffii.org/log/05/zypries0609/zypries050609.pdf Letter from Zypries to MEPs]
+| [:Trilog0506En: Trilog]
+| [:Cons050527En: May 27th]
+| [:Cons050307En: Adoption farce 05-03-07]
+| [:ConsDe040518En: Agreement farce 04-05-18]
+| [:SwpatcninoEn: News]
+]
+----
+
+''Berlin, 9 June 2005 - In a letter to German'' !MEPs/, German Federal Minister of Justice Brigitte Zypries tells the old tale about the software patents directive which, in the Council's version, would change nothing and nevertheless would "harmonise".  She says that if/ !MEPs ''accept the Council's version mostly unchanged, they may be allowed to reformulate the definition of "technical contribution". She also only supports regulating interoperability issues by existing patent system rules for compulsory licensing.''
+
+The [http://swpat.ffii.org/log/05/zypries0609/zypries050609.pdf letter] spans two A4 pages.  The first one-and-a-half page contain a summary of the ministry's position which aims to drive the !MEPs towards the Council's version of the directive and away from the 2003 Parliament's version.  The contradiction between not creating new law and nevertheless correcting a divergent practice remains unresolved.  However, the hint that some case law should be codified turns out to be helpful.
+
+Contrary to the impression given by the letter, the to-be-codified [http://swpat.ffii.org/papiere/epo-t971173/index.en.html concepts], including [http://swpat.ffii.org/papiere/eubsa-swpat0202/prog/index.en.html program claims], did not originate in the German Federal Court of Justice, but in the European Patent Organisation (EPO)'s Technical Board of Appeal.  The German Federal Court just [http://swpat.ffii.org/papers/bgh-suche01/index.de.html used them] in reviews of [http://swpat.ffii.org/papers/bpatg17-suche00/index.de.html decisions by the Federal Patent Court].
+
+Furthermore, the justice minister's statement that the 2003 Parliament's version of the directive "would have exempted large fields of technology from patentability" lacks any explanation.  This is particularly unintelligible because the [http://swpat.ffii.org/papers/europarl0309/index.en.html Parliament's version] merely restates and concretises the [http://swpat.ffii.org/analyse/epue52/index.en.html core messages of Art.52 of the European Patent Convent (EPC)].
+However, when replacing "large fields of technology" with ''"more than 30,000 general data processing and business method exclusion rights granted against letter and spirit of the EPC"'', the resulting statement becomes plausible and gives a hint at why the [http://economic-majority.com SME-dominated] european software economy [http://wiki.ffii.org/Ueapme050427En favors the Parliament's version] of the directive.
+
+Ms. Zypries adds that the German economy contributes one third of all patent applications at the EPO.  This figure hides the fact that the German share of all data processing method patent applications at the EPO amounts to only 6%, with [http://patinfo.ffii.org/bycountry.png more than 80% of the applications owned by non-European applicants]. In particular, most of those applications are filed by enterprises from the USA (42%) and from Japan (29%).
+
+The last three paragraphs of the letter adds that the Federal Minister of Justice, encouraged by the [http://www.bmj.bund.de/enid/ffe004b09625cf0b12edac776cc890cc,225353707265737365617274696b656c5f6964092d0932313530093a096d795f79656172092d0932303035093a096d795f6d6f6e7468092d093036/Presse/Pressemitteilungen_58.html round table sessions] it held and the [http://swpat.ffii.org/papiere/europarl0309/bundestag0411/index.en.html Bundestag motion], has identified two points for "further optimization" in the Council's version of the directive. First of all, the notion of "technical contribution" could be concretized. Ms. Zypries therefore suggests incorporation of the (forces-of-nature-based) definition of "technology" as developed and used by the German Federal Court of Justice.
+
+Secondly, "ensuring interoperability" is mentioned as "core demand also and particularly by the critics", followed by the proposal for a compulsory licensing model according to [http://wiki.ffii.org/JuriInterop0505En amendment 153] tabled in the Parliament's Legal Affairs Committee (JURI). No indication is given as to how open-source projects could handle licensing demands with such an unspecific provision.  Actually, those "critics" supporting a [http://swpat.ffii.org/analyse/epue52/exeg/index.en.html methodically correct EPC interpretation] do not have that problem because their interpretation of the EPC concludes that presentation and logical processing of information cannot be regarded as patent infringement.
+
+== Comments ==
+
+=== Christian Cornelssen, FFII ===
+
+(Participant in the round table sessions)
+
+First and foremost the justice minister favors the Council's version.  Attributing that version to be "optimizable" means: As long as the directive comes to justify the rush of patent applications driven by patent offices and their biggest clients in the realm of digital immaterial goods during the last decades, the German Federal Ministry of Justice can accept talks about details.
+
+ * A definition of "technology" does not exclude anything from patentability as long as "non-technical features" are accepted as parts of  the "technical contribution". So far, the justice minister has not drawn any borderline between what is patentable and what is not. She merely responds to the judgement by the roundtable experts that Article 2b of the Council's version with its circularity and equivalence of non-technical and technical features is neither properly worded nor appropriately suited to the stated policy goals, even when applying EPA doctrines.
+ * A compulsory license for the use of certain structures of programs or data implies the validity of the claims.  Therefore, EPC supporters cannot accept that proposal.  In particular, it runs against the principle that ''data processing is not a field of technology''.  Consequently, the argument about applicability of Art.27 !TRIPs would occur, and patent enforcement could then be limited only within the framework of Art.30 !TRIPs. This means that a compulsory licensing article like the proposed one
+   * would again fail to make it into the directive (a similar proposal by DK was dismissed in May 2004 already), or
+   * would be targeted for removal by the Commission when executing their monitoring function, due to "incompatibility with international treaties", or
+   * would not go beyond already existing compulsory licensing provisions of the patent system in general.
+ * Above all, having to apply for licenses just in order to access data that exists only in a certain format (e.g. JPEG images from digital cameras) would be unacceptable.  That would be similar to getting paper for rent only, with every read and write access being billed.
+
+!MEPs should not let themselves be distracted by that manoevre.  Here is how interoperability can be reached best: not with an exception that has always been unable to pass through Council and Commission, but with a rule that has been [http://swpat.ffii.org/papri/epo-gl78/index.de.html followed strictly by the EPO until 1985]. The rule says: ''If the contribution to the state of the art consists solely in a program for computers, there is no patentable subject matter, regardless of the form used to present the claims.'' The underlying principle says: ''Data processing is not a field of technology.'' This rule can be [http://swpat.ffii.org/papers/europarl0309/amends05/juri0504/mgp/ implemented] using the [http://swpat.ffii.org/papers/europarl0309/amends05/juri0504/amendment-analysis.pdf amendments] by Rocard, Zwiefka, and others.  It is [http://swpat.ffii.org/analyse/trips/index.de.html compatible with TRIPs], and it is practiceable.  It offers directly what the [:economic-majority.com: economic majority] and [http://swpat.ffii.org/letters/cons0406/parl/ innovation policy] want, and it does not require even more investment of trust and hope in the Council's IP working group - which is a condition that has been proven to be essential for the success of the directive project.
+
+== Contact ==
+
+ * Christian Cornelssen, Berlin, +49-160 / 38 31 686, <User ccorn Host ffii org>

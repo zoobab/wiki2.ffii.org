@@ -1,0 +1,85 @@
+## -*- dok: volvo050405; lang: en; coding: iso-8859-1; mode: fundamental; -*-
+= Volvo against abolishment of patent protection for computer-implemented inventions =
+->
+[ [[VolvoEn| Volvo]]
+| [[Volvo050315En| Older FFII article about Volvo 03-15]]
+| [[SwpateictaEn| EICTA]] 
+| [[SwpatcninoEn| Patent News]] 
+]
+----
+
+## It seems that one of our wiki writers (arebenti ?) discovered the Volvo case very late 
+## and wrote the following text that seems to contain very few new elements./
+## --> please do not add meta comments or change the title of the document.
+
+''Recently many companies from the automotive industry echoed concerns spread by'' EICTA ''that only the Council version was a safeguard against an abolishment of protection for computer-implemented inventions in the narrow understanding. According to them the Parliaments directive would abolish patent protection for washing machines and ABS. Volvo is the latest company to support these unfounded claims.''
+
+As confirmed by various sources including Commissioner !McCreevy and empirical evidence from issued EPO patents, patents for computer-implemented inventions according to the initial Commission's proposal and the Council's proposal include patents on software. The European Parliament denied patent protection for software according to EPC 52.2 but did not touch technical patents which are patentable under the European Patent Convention. Because software patenting has no majority among European software producers lobbyists started to spread fear that the Parliament's directive would disable patent protection for "computer-implemented inventions" in the narrow sense. There is no legal expertise on how patent protection for washing machines and cars would be affected, but some automotive business groups like Volvo tend to believe in those unfounded claims and lend their lobbying force to alien interest groups such as patent attorneys and non-European Software giants that want software patents to get legalised under the trojan phrase "computer-implemented inventions". Opponents of software patents support patent protection in traditional fields of patenting but want to stop a (il)legal drift. Volvo and similar players are invited to explain why amendments of the European Parliament pose risks on them and what changes they request. The Council proposal now backed by Volvo was only adopted for formal reasons and leaves no space for inter-industrial negotiations.
+
+ * [[http://www.volvo.com/group/global/en-gb/newsmedia/groupopinion/patent.htm|Volvo Public Affairs statement]]
+ * [[http://www.eupolitix.com/EN/Forums/AB+Volvo/|Volvo Group in Brussels]], [[http://www.eupolitix.com/EN/Forums/AB+Volvo/contacts.htm|permanent representatives (Stefan Lorentzson and Frédérique Biston)]]
+
+== Volvo statement (dated 2005-03-15) ==
+
+ A prerequisite for maintaining our competitiveness in the global market is to protect investments in technology and product development by patents. A  
+ major part of investments in R&D are directed to software-related technologies, systems and components for products. Patents must protect these 
+ investments in order to create the basis for a sustainable future development.
+
+ Important innovations in the automotive area with software as an enabling technology have created advanced engine control systems, brake and suspension  
+ control systems, collision warning systems, driver drowsiness warning systems, adaptive cruise control systems, airbag control systems, fuel consumption 
+ and exhaust gas control systems. However, these are only few examples of a general trend in technology development. Even traditional engineering 
+ companies are forced to use software technologies to a vastly increasing extent in order to make their products fit for the future thereby securing 
+ their competitiveness in the global market.
+
+Remark: There is no legal analysis available which explained how airbag control systems ecc. would be negatively affected by the Parliament's directive. There is no scholar who explains which amendments do endanger patent protection for the automotive industry. It is hard to explain how the Council directive will make a difference for patentability of inventions in the automotive industry except that it messes up the patent system. However, several independend sources demonstrate how the Council's directive amendments will endanger the European software industry. Software patents pose a threat to software companies but also to users of software - including users in the automotive industry.
+
+ The current patent system in Europe, in particular the European Patent Convention and the practice of the European Patent Office, is well balanced and 
+ has served the European industry very well. This is true in all branches and throughout the past 25 years where the European Patent Office has granted 
+ thousands of patents on computer implemented inventions. Patent protection in Europe is restricted to technical solutions while programs for computers 
+ as such and business methods or other non-technical methods are excluded from patent protection. This system in Europe is completely different from 
+ the patent system in the USA. 
+
+Remark: The automotive industry is used to patent protection and patents serve a purpose in that market. The software market on the contrary is based on copyright protection that serves a similar purpose as patent protection in classical manufacturing. The Council proposal introduces [[ProgramClaimsEn| program claims]] in deceptive wording.   Article 5.2 reads "A claim to a computer program, either on its own or on a carrier, shall '''not be allowed unless''' that program would, when loaded and executed in a computer, programmed computer network or other programmable  apparatus, put into force a product or process claimed in the same patent application in accordance with paragraph 1." i.e "claimed as a product, that is as a programmed computer, a programmed computer network or other programmed apparatus, or as a process carried out by such a computer, computer network or apparatus *through the execution of software*" (Article 5.1) '''Thus it limits the meaning of "software as such" as opposed to "computer-implemented invention"(/here/ = software inventions) to unexecuted object and source code''' which no one ever intended to cover with patents. Programs are protected as literary works by copyright (TRIPS 10.1). Note that [[http://www.european-patent-office.org/legal/epc/e/ar52.html|EPC 52.2]] says "The following in particular shall '''not be regarded as inventions''' ...,(c) schemes, rules and methods for performing mental acts, playing games or doing business, and *programs for computers*". [[http://www.european-patent-office.org/legal/epc/e/ar52.html|EPC 52.3]] says "The provisions of paragraph 2 shall exclude patentability of the subject-matter or activities ... only to the extent to which a European patent application or European patent relates to such subject-matter or activities [[AssuchEn| as such]]." This is where the "software as such" phrase comes from. With the Council directive in place the exclusion in EPC 52.2 is rendered meaningless and with [[ProgramClaimsEn| program claims]] publication of software is threatened. 
+ 
+ In Europe both large and small companies and even Open Source companies have been and will be able to exist and to develop 
+ their businesses side by side without any major problems.
+
+Remark: The Volvo group cannot speak for software producers but is a user of software. Example: Last year car manufacturer Daimler-Chrysler as a user of the Linux Operating system which plays an increasing role in the embedded software market was targeted by dubious claims of The SCO Group. They sued a user of Linux, not the Linux developers. Patent trolls tend to sue large corporations. Software manufacturers of proprietary and free software such as Linux are threatened by an uncontrolled expansion of the patent system into their market. According to netcraft.com parts of Volvo webservers run Free Software products. License conditions and an open development model exclude free software from obtaining own patents. SMEs and freelancers in the software market cannot bear the costs of patent mantainance as the patent system is suited to different market conditions. Therefore patent law in the field of software means a competitive disadvantage for free software and SME/freelancers. Because of existing patent risks large software companies currently sell indemnification insurances to their customers which increase supply costs.
+
+ Volvo Groups position
+
+ * Volvo welcomes the Councils common position, which enables European industry to protect its investments in 
+ software-related technologies. This will secure European competitiveness in the global market, without unreasonably 
+ limiting the existence and further development of alternative models as for instance Open Source.
+
+Remark: Open Source is no alternative system to patent protection. Patents protect investment in manufacturing, copyright protects software development investments while patent protection is alien to the needs of the dynamic software market run by SME.
+
+ * The Councils common position ensures that the principles of the European Patent Convention will be implemented 
+ also in the national patent laws of the Member States thereby creating a transparent system of harmonized patent 
+ laws throughout the whole European Union.
+
+Remark: Contrary to what Volvo says the Council's proposal will undermine the European Patent Convention and codify a
+reinterpretation of the EPC under which the EPO granted thousands of software patents. National law already implemented 
+the European Patent Convention (1973) but did not follow the EPO shift in interpretation. Jurisdiction and EPO bodies lack competence to
+change law on their own. The European Parliament has to stop legal escape which leads to market insecurity in the European
+software industry.
+
+    * An abolishment of patent protection of computer-implemented inventions in the European Union would 
+      have a devastating effect on the competitiveness of the European industry in general, and for 
+      the automotive industry in particular:
+
+      - Innovations will no longer be subject to patent and will be exposed targets for copying,
+
+Remark: Patents protect inventions, not innovations. Software is already protected by copyright against illegal copying while inventions are protected by patents against unauthorized copying. Patent law is alien to software market rules and does not protect objects that deserve protection. Patents on software undermine competition and competition drives innovation. For software-related objects that require additional protection FFII proposed an industrial copyright (as a cheap-fast-narrow sui generis right) taylored to software market needs. 
+
+      - The pace of innovations in Europe in the area of software-related technologies will slow down considerably as investments in innovative   
+        technologies will no longer pay off. 
+
+Remark: Patents on software are a huge danger for software development and an inappropriate instrument in that market. Reductions of legal risks will encourage investment in Europe. Currently non-European companies hold the largest share (about 75%) of granted EPO software patents.
+
+        This leads to that investments outside Europe will increase. 
+
+      - The European industry will loose considerable market shares in their home markets in Europe to their American and Asian competitors without  
+        gaining any on their markets since patent protection of computer-implemented inventions is still possible in these countries.
+
+Remark: A ''territorial principle'' applies for patent law. European patents have no value for the US market and vice versa, you can and you have to apply for patents in the US when you sell in the USA. Asian competitors on the EU market will also not be able to get patent protection for software in the EU. Installing a patent system in a specific field sets rules for a particular single market and does not extent to foreign markets.

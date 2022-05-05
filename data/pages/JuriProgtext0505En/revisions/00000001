@@ -1,0 +1,20 @@
+== Article 5.1/2 b/c (new) ==
+
+||  number  ||  submitter  ||  recommendation  ||  text  ||
+||  124 = 125  ||  Kudrycka and Zwiefka; Bertinotti ||  ++  ||  Member States shall ensure that whenever a patent claim names features that imply the use of a computer program, an well-functioning and well-documented program text shall be published as part of the patent description without any restricting licensing terms. ||
+||  140  ||  Szenja  ||  -  ||  Member States shall ensure that in the event of a patent claim relating to technical features which install computer program applications, full documentation of such program applications shall require that they be presented as part of the patent description and in the form of specific examples, not in the form of separate, main or even additional patent claims.   ||
+||  144  ||  Ortega  ||  -  ||  Member States shall ensure that whenever a patent claim names features entailing the use of a computer program, a well-documented operational reference application of that program is published as part of the description without any restriction on the licensing terms.   ||
+
+124 = 125 ensure that the obligation of disclosure is taken seriously, and that software is treated as a means of describing the invention, rather than as an invention in itself. The Commission's objection that patent law does not normally require the disclosure of a full reference implementation does not apply, because this amendment does not ask for a reference implementation but only for an accurate description.
+
+140 is quite confusing and seems to be very broad.
+
+144 is based on a similar amendments from first reading (and still contains the phrasing "reference implementation" the Commission and Council object to), but apart from that also contains several linguistic errors and does not ask for source code publication (only for the publication of an "application").
+
+
+== Recital 17 b (new) ==
+
+| number | submitter | recommendation | text |
+| 241 | Kauppi | - | It would aid in the diffusion of information and the establishment of a comprehensive database of prior art, if patent applicants could, where feasible, but independently of the need for the purposes of sufficiency of disclosure to do so, file with each patent application relating to a computer-implemented invention a well-functioning and well documented reference implementation of a program suitable for use in implementing the invention, which can be made available to the public at the same time as the publication of the description. |
+
+This amendment requires very little, and if one of the art 5 1 b (new) amendments were to be adopted, this recital would weaken them by stating the requirement for releasing a well documented program-text is not about disclosure (while that is exactly the whole point of that article).

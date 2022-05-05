@@ -1,0 +1,39 @@
+## -*- dok: Com05041118En; lang: en; coding: utf-8; mode: fundamental; -*-
+== Article 4.1 ==
+
+||  number  ||  submitter  ||  recommendation  ||  text  ||
+||  31  ||  Rocard  ||  o  ||  1. A computer program as such, on any carrier or in the form of a signal, cannot constitute a patentable invention.  ||
+||  97  ||  Ortega  ||  ++  ||  [deleted]  ||
+||  99 = 100 = 101 ||  Kudrycka and Zwiefka; Bertinotti; Kauppi  ||  +++  ||  Programs for computers are not inventions in the sense of patent law.  ||
+||  102  ||  Manders  || -  ||  A computer program as such cannot constitute a patentable invention. Computer programs as such are effectively protected by copyright. The objective of the directive is to provide a proper legal certainty as an incentive for innovation for inventors and does not affect computer-programmers. ||
+||  103  ||  Lichtenberger, Frassoni  ||  +  ||  The content of a computer program cannot constitute a patentable invention. Software shall remain under the protection of copyright according to Directive 91/250 CEE.  ||
+
+31 has good intentions, but mixes the form of the claim and statutoriness.
+
+97 correctly deletes the misleading "A computer program as such is not a patentable invention" inserted by the Commission at the last minute in the May 2004 Council meeting. This sentence is part of the Commission's attempt to redefine "computer program as such" into "the source code of one particular computer program", making the exclusion of Art 52 EPC powerless. 
+
+102 makes the Commission intention even more clear, and additionally states that somehow this directive by definition will not affect computer programmers. Moreover, having the legal certainty that one can be sued over patent infringement for selling a program entirely written by oneself is not an incentive for innovation. No directive is better than a directive which allows software patents.
+
+99 = 100 = 101 improve upon the deletion of amendment 97 by adding a phrase equivalent to Art 52(2) to the directive. The "as such" clarification happens in amendments to Art 4(2).
+
+103 is somewhat vague, since it is not entirely clear what "the content of a computer program" could mean.
+
+
+== Article 4.1 a/4.2 ==
+
+| number | submitter | recommendation | text |
+| 98 | Ortega | + | 2. A computer-assisted innovation shall not be regarded as making a technical contribution merely because it involves the use of a computer, network or other programmable apparatus. |
+| 104 = 105 = 106 | Kauppi; Kudrycka and Zwiefka; Bertinotti | ++ | A computer program is a solution of a problem by calculation with the abstract entities of a generic data processing machine, such as input, output, processor, memory, storage as well as interfaces for information exchange with external systems and human users. A computer program may take various forms, e.g. a computing process, an algorithm, or a text recorded on a medium. If the contribution to the known art resides solely in a computer program then the subject matter is not patentable in whatever manner it may be presented in the claims. |
+| 107 | Szejna | - | A computer-implemented invention shall not be regarded as making a technical contribution merely because it involves the use only of a computer, network or other programmable apparatus, with no practical possibility of its application in the starting and controlling of material systems. Accordingly, inventions involving exclusively computer programs, whether expressed as source code, as object code or in any other form, and those which implement business, as well as mathematical computational methods, texts recorded on a carrier and algorithms themselves shall not be patentable. |
+| 108 | Frassoni, Lichtenberger | + | A computer-implemented invention shall not be regarded as making a technical contribution merely because it involves the use of a computer, network or other programmable apparatus. Accordingly, computer programs, which implement business, mathematical or other methods and do not produce any technical effects beyond the normal physical interactions between a program and the computer, network or other programmable apparatus in which it is run, shall not be patentable. |
+| 109 | Manders | o | A computer-implemented invention shall not be regarded as making a technical contribution merely because it involves the use of a computer, network or other programmable apparatus. ''/'' 2a. Inventions involving computer programs, whether expressed as source code, as object code or in any other form, which implement business, mathematical or other methods and do not produce any technical effects beyond the normal physical interactions between a program and the computer, network or other programmable apparatus in which it is run shall not be patentable.|
+
+98 is self-explanatory.
+
+104 = 105 = 106 clarify the "as such" clause of Article 52(3) of the European Patent Convention, by noting that if "the contribution to the known art resides ''solely'' in a computer program" there is no patentable invention present. These amendments are based on the examination guidelines of the EPO before it allowed software patents.
+
+107 keeps the "whether expressed as source code, object code" terminology from the Council. Additionally, one could say that every computer program can be used to "control material systems" (after all, a computer is material).
+
+108 is slightly better than the Council version because it deletes the "whether expressed as source code, object code or in any other form". However, it keeps referencing the harmful EPO's "further technical effect doctrine", which, as explained in the justification of 104=105=106, was introduced by the EPO merely to enable them to be able to grant patents on computer-implemented business methods.
+
+109 does not substantially change the Council text.

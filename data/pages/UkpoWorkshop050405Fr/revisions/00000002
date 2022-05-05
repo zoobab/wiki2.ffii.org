@@ -1,0 +1,230 @@
+## -*- dok: ukpoWorkshop050405; lang: fr; coding: iso-8859-1; mode: fundamental; -*-
+## datum: 2005-04-05
+## title: Rapport sur l'atelier « contribution technique » de l'Office britannique des brevets, à Glasgow
+= Rapport sur l'atelier « contribution technique » de l'Office britannique des brevets, à Glasgow =
+->
+[ [[UkpoWorkshop050405En| english]]
+]
+[ [[UkpoWorkshops0503Fr| Ateliers de l'UKPO]]
+| [[SwpatkorcuEn| Invention technique]]
+| [[http://www.ffii.fr/Interets-de-la-FFII-concernant-la-directive-de-l-UE-sur-les-brevets-logiciels|Intérêts de la FFII]]
+| [[SwpatcninoFr| Actualités des brevets logiciels]]
+]
+----
+
+''5 avril 2005 -- L'Office britannique des brevets (UKPO) organise des ateliers pour faire analyser différentes définitions de l'expression « contribution technique ». Ci-dessous, vous pouvez trouver un compte-rendu d'une personne présente à l'atelier de Glasgow.''
+
+== Compte-rendu ==
+
+par Geraint Bevan.
+
+=== Introduction ===
+
+La réunion était présidée par Roger Walker, un chimiste/bio-technicien de l'Office des brevets. 
+Peter Hayward de l'Office des brevets était aussi présent avec quelques assistants. 
+Il y avait peu de monde -- 16 personnes, un peu plus de la moitié de ce qui était attendu.
+
+Comme dans les ateliers précédents, il y avait à peu près la moitié des personnes qui étaient pro-brevet et l'autre anti.  550 personnes au total ont exprimé leur intérêt en participant aux ateliers au Royaume-Uni -- toutes étaient invitées. On nous a assuré qu'il n'y avait pas de personnel de l'Office britannique des brevets caché dans le public ! 
+
+Roger Walker a présenté l'atelier, en rappelant que l'objectif du gouvernment était de maintenir l'équilibre actuel : les logiciels purs ne sont pas brevetables; les inventions mises en oeuvre par ordinateur le sont. Le gouvernement a très envie d'encourager l'industrie européenne des nouvelles technologies -- Nokia a été mentionné comme exemple.
+
+On nous a dit qu'il n'y avait actuellement pas de définition pour « contribution technique », elle s'est imposée comme résultat d'une jurisprudence.
+
+Comme dans les autres ateliers, on nous a donné 4 définitions de « contribution technique », à partir desquelles nous devions éstimer 5 études de cas,
+des inventions hypothétiques que nous devions supposer comme originales et non triviales. Nous étions répartis en 4 tables pour cet exercice et
+invités à décider si oui ou non ces cas étaient brevetables suivant chaque définition. Nous étions encouragés à atteindre un consensus, mais ce n'était pas essentiel.
+
+
+=== Les cas ===
+
+Les inventions hypothétiques étaient :
+
+ * Cas 1: contrôle des feux de circulation pour optimiser la circulation
+ * Cas 8: des services d'impression centralisée (incluant la facturation) pour un hôtel
+ * Cas 12: une méthode pour prévoir les déplacements dans un jeu en ligne
+ * Cas 13: une méthode pour allouer la bande passante des téléphones portables suivant la demande
+ * Cas 18: une structure de donnée pour améliorer l'efficacité de la réévaluation d'un tableur
+
+Les définitions sont celles du texte actuel du Counseil, celle de la FFII et deux
+définitions prises au hasard parmis 20 définitions selectionnées sur plus de 200
+suggestions.
+
+
+=== Définitions ===
+
+==== Définition A (texte du Conseil) ====
+
+  « Contribution technique » désigne une contribution à létat de lart dans 
+  un domaine technique, qui est nouvelle et nest pas évidente pour une 
+  personne du métier. La contribution technique est évaluée en prenant 
+  en considération la différence entre létat de lart et lobjet de la 
+  revendication de brevet considéré dans son ensemble, qui doit comprendre 
+  des caractéristiques techniques, quelles soient ou non accompagnées de 
+  caractéristiques non techniques.
+
+==== Définition B (text de la FFII) ====
+
+  « Contribution technique » signifie une contribution faite par une invention
+  revendiquée, considérée dans son ensemble, à l'état de l'art dans un domaine
+  technique. « Technique » signifie appartenir à un domaine technique.
+
+  L'utilisation des forces de la nature afin de contrôler des effets 
+  physiques au delà de la représentation numérique des informations 
+  appartient à un domaine technique. Le traitement, la manipulation 
+  et les présentations d'informations n'appartiennent pas à un domaine 
+  technique, même si des appareils techniques sont utilisés pour les effectuer.
+
+==== Définition F ====
+
+  « Une contribution technique doit provoquer une avancée substantielle et non triviale
+  de l'état de l'art de la connaissance dans un domaine technique, 
+  et ne doit pas être représentable comme de la logique pure. »
+
+==== Définition H ====
+
+  « Une contribution technique est une addition à la compréhension générale 
+  ou à l'art du contrôle technologique d'un procédé physique. Une contribution 
+  technique peut être exprimée en un logiciel informatique ou une autre
+  sorte d'algorithme, mais ce n'est pas technique simplement en vertu d'être
+  exprimée comme ceci. »
+
+=== Principaux résultats  ===
+
+Pour beaucoup de combinaisons de cas et de définitions, un consensus n'a pas été 
+atteint par chaque table. Après une heure, les votes pour savoir si l'on considérait 
+les combinaisons comme brevetables ou non étaient enregistrés. Le résumé
+global des résultats fut ceci :
+
+ * la définition A a amené beaucoup de questions, c.-à-d. qu'une décision sur la brevetabilité ou non d'un cas ne peut pas être prise;
+ * la définition B a donné des résultats cohérents dans tous les groupes;
+ * la définition F était assez incohérente;
+ * la définition H était assez cohérente à part pour le cas 8.
+
+Les tendances générales étaient que la définition A tendait à rendre tout
+brevetable; B tendait à rendre tout non brevetable; F et H étaient
+mitigées mais avec une tendance vers la non brevetabilité.
+
+=== Résultats à ma table (4) ===
+
+||  Cas || A || B || F || H || Sujet ||
+|| #1 || NNN? || NNNN || YYYN || YYYY || Contrôle des feux de circulation ||
+|| #8 || YNN? || NNNN || YYNN || NNNN || Service d'impression pour hôtel ||
+|| #12 || YNN? || YNNN || NNNN || YNNN || Prévision dans un jeu en ligne ||
+|| #13 || YYN? || YNNN || NNNN || YNNN || Allocation de la bande passante d'un téléphone mobile ||
+|| #18 || NNN? || NNNN || NNNN || NNNN || Stucture de donnée pour un tableur ||
+
+ * Y: le cas est brevetable en suivant la définition
+ * N: le cas n'est pas brevetable en suivant la définition
+ * ?: la définition ne permet pas de décider de la brevetabilité du cas
+
+
+=== Commentaires (par table) ===
+
+Chaque table a ensuite donné des commentaires sur la facilité d'application des définitions et laquelle ils préfèrent.
+
+La table 1 était divisée avec certains préférant la définition A et d'autres
+préférant la B. Ceux qui préféraient la A appréciaient le fait qu'elle permettait
+de breveter à peu près tout. Comme l'a dit un juriste en brevets, il
+l'aimait bien parce qu'elle laissait les chosess passer la barrière de la technique, laissant
+l'évaluation aux tests de nouveaté et de non-évidence. Ceux qui préféraient
+la B appréciaient le fait qu'elle ne rendait pas tout brevetable. Cette
+table a dit qu'elle n'aimait pas l'expression « logique pure » dans
+la définition F.
+
+La table 2 comprenait plusieurs personnes qui préféraient la définition A. Ils 
+n'aimaient pas les autres définitions parce qu'elles menaient à des arguments sur
+l'interprétation.
+
+La table 4 (la mienne) n'était satisfaite par aucune définition. Nous trouvions que la 
+A était une définition récursive qui était incapable de définir quelque chose
+sans que les expressions « composants techniques » et « domaine de la technique » ne soient
+aussi définies. Nous étions unanimes à préférer à contre coeur la B comme la moins
+mauvaise du lot.
+
+La table 5 a trouvé que la A tournait en rond, notant qu'elle ne restreignait rien 
+et était la plus proche de la position européenne. Pour la définition B, ils
+ont demandé si « un domaine technique » restreignait les inventions dans
+un domaine unique ou permettait aux inventions de couvrir plusieurs domaines. Peter
+Hayward leur a assuré que d'un point de vue juridique, « un domaine »  peut
+permettre des inventions à travers plusieurs domaines.
+
+Ils ont demandé précisément quelles étapes intermédiaires seraient permises dans le contrôle des
+forces de la nature. La phrase « forces de la nature » était généralement appréciée
+et comprise comme relative à des faits physiques. Il y avait des mécontents de la
+définition F parce qu'elle pourrait aller au-delà de la portée de la directive et donc exclure les 
+mathématiques pures (!!! il y avait des juristes en brevets présents !!!). 
+Ils pensaient que la H donnait la définition la plus large possible.
+
+
+=== Vote ===
+
+On nous a alors demandé pour chaque cas si nous cas si nous pensions ou non 
+qu'il devait être brevetable, sans tenir compte des définitions.
+
+ * Case  1 : 11 brevetable,  5 non-brevetable
+ * Case  8 :  3 brevetable, 13 non-brevetable
+ * Case 12 :  5 brevetable, 11 non-brevetable
+ * Case 13 : 15 brevetable,  1 non-brevetable
+ * Case 18 :  6 brevetable, 10 non-brevetable
+
+On nous a aussi demandé si nous pensions que les logiciels purs devraient
+être brevetables
+
+ * Logiciels purs: 7 brevetable, 6 non-brevetable
+
+Un sondage d'opinion, après que quelque personnes soient parties, a eu lieu pour établir si
+nous pensions que la directive actuelle atteignait les objectifs fixés par le gouvernement :
+
+ * 7 non, elle ne les atteint pa s; 0 oui, elle les atteint; 2 abstentions
+
+
+=== Que se passe-t-il après? ===
+
+Les résultats de chaque atelier ainsi que les recommendations de l'Office Britannique des brevets
+seront rassemblés et présentés à lord Sainsbury  après
+les sessions finales de vendredi. Toutes les définitions et les études de cas seront
+alors publiées sur un site internet. Le résultat des sessions sera alors
+disponible, mais pas avant que le ministre n'ait eu de possibilité de les
+voir. Il était noté que l'élection générale peut empêcher la divulgation des résultats
+pour un moment.
+
+Les données brutes à partir desquelles les résultats sont obtenus ne
+seront probablement pas publiées sur un site Web, parce qu'elles
+n'apporteraient pas beaucoup de sens aux personnes qui n'ont pas 
+participées aux ateliers, mais on nous a assuré qu'elles seront 
+disponibles pour ceux qui désirent les voir pour vérifier que les 
+résultats correspondent bien aux données.
+
+
+=== Commentaires supplémentaires ===
+
+Après de plus amples discussions avec le personnel de l'Office des brevets, 
+deux remarques méritent une attention particulière. Premièrement, le 
+gouvernement délègue les décisions en matière de politique de brevets du Royaume-Unis à 
+l'Office des brevet, c.-à-d. que l'Office des brevets n'applique 
+pas les souhaits du gouvernment ; il décide plutôt ce que sont ces souhaits.
+
+''Note du rédacteur :'' Peter Hayward de l'UKPO, qui fait partie du personnel de 
+l'UKPO comme mentionné ci-dessus, a fourni la clarification suivante concernant ce qu'il a dit :
+
+  « Ce que j'ai expliqué à Glasgow était que dans plusieurs pays européens,
+  ce sont les fonctionnaires du ministère de la justice qui s'occupent de la 
+  politique en matière de propriété intellectuelle alors que dans d'autres
+  (comme au Royaume-Unis) ce sont les fonctionnaires des offices des brevets. Ça ne 
+  signifie pas que les responsables des offices des brevets comme moi décident 
+  la politique, pas plus que ce sont les fonctionnaires des ministères de la
+  justice qui la décide. La politique est décidée par les ministres, comme l'a 
+  déjà souligné justement Steve Probert.
+
+  Juste pour être complet, je suppose que je devrais mentionner que dans 
+  d'autres pays la politique est détenue par les fonctionnaires des ministères
+  du commerce. Il y a des avantages et des inconvénients pour toutes ces options. »
+
+Deuxièmement, dans la discussion sur l'impact des brevets logiciels sur
+les logiciels open-source, on nous a dit que plusieurs leaders de la 
+communauté open-source ne pensent pas qu'il y aurait d'impact défavorable,
+y compris des personnes de la FFII. Malheureusement, Peter Hayward ne pouvait
+pas nous dire quels développeurs dans l'open-source de la FFII avaient tenu
+de tels propos. Cette considération devrait être approfondie dans la mesure où 
+les commentaires sortis du contexte sont utilisés pour déformer les idées de 
+la FFII (peut-être involontairement).

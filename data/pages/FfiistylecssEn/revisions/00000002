@@ -1,0 +1,42 @@
+= Stylesheet CSS and Corporate Identity =
+-->
+[ [[PolisEn| Polis]]
+| [[FfiiprojNewsEn| Project News]]
+]
+----
+There are many cascading style sheet files
+.
+ * ffii.css (http://www.ffii.org/verein/webstyl/ffii.css) is used for www.ffii.org and most of swpat.ffii.org except the "/log" subtree, which is also called "news".
+ * news.css (http://www.ffii.org/verein/webstyl/news.css) for http://swpat.ffii.org/log
+   * news.css and ffii.css are merged and should be kept identical
+ * cusku.css (where is this used?)
+ * Simple.css (http://kwiki.ffii.org/kwikimj04/css/Simple.css) for kwiki
+ * plone - CSS (done by a Skandinavian person), also styles for tv.ffii.org
+ * eu.ffii.org: common.css custom.css document.css
+
+The most important one is ffii.css, news.css + cusku.css are the same. 
+
+== History ==
+
+2004-09: Both files, ffii.css and news.css were edited by arebenti in the end 0f 2003 and he also edited simple.css in the way of ffii.css. The Problem with simple.css was the colour scheme (light blue on green). Simple.css is simple as the name says.
+
+On 2004-10-21, Arebenti did a bigger style update, mwas made the corresponding Kwiki style.
+
+ * You find my previous CSS here (outdated style): http://genba.ffii.org/~arebenti/css/
+ * Html documentation of outdated [[http://genba.ffii.org/~arebenti/css/newdemo.htm|news.css]]
+
+Arebenti also improved the colourscheme of swpat.ffii.org in the way of eu.ffii.org.
+
+On 2005-05-20, bkaindl got involved into css updates and changed the color scheme of the top of the FFII pages to a blue color scheme, to match the nice professional looking 1st June Conference banner coloring.
+ * 2004-05-22: bkaindl added a 1px solid border to the toparb section on the top of every FFII page:
+   * "Hi, I've added a 1px solid border to the navbox on the top of ffii.org. It had a border until November 2004 but it was dotted and not anymore compatible with the updated style which was more and more getting solid borders, however I think fully removing it removed the optical foundation of the nav bar, that these elements all belong together to a top bar on every page, and it appeared more like free-flow elements without the border. In trying to make the site less grass-roots, I think this little formalistic border comes handly in giving the top bar a firm form, to be less free, less grass-roots. Of course it's a style question to add this, but also with the title font and the link bar being changed to a blue color sceme, it now makes more sense to have a border again, as the color difference does not separate that anymore."
+
+== TODO ==
+
+ * edit history in CSS files/versioning  
+ * Fix Problems in Frontpage in IE 
+ * the highlight problem is due to an a tag ad headlines, this has to be fixed at the code base.
+
+== Links ==
+ 
+http://www.style-sheets.com/
