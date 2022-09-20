@@ -1,7 +1,4 @@
-1.  1.  -\*- dok: alvaro050302; lang: en; coding: iso-8859-1; mode:
-        fundamental; -\*-
-
-# MEP Alvaro (ALDE): Barroso Decision an Insult against European Parliament {#mep_alvaro_alde_barroso_decision_an_insult_against_european_parliament}
+# MEP Alvaro (ALDE): Barroso Decision an Insult against European Parliament
 
 -\> \[ [Original
 Text](http://www.liberale.de/portal/index.phtml?page_id=8112&id=4157 "wikilink")
